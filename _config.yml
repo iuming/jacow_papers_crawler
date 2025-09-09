@@ -1,0 +1,44 @@
+theme: cayman
+title: JACoW Invincible Paper Crawler
+description: A powerful, asynchronous Python tool for downloading academic papers from JACoW (Joint Accelerator Conferences Website) with intelligent classification and size filtering.
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+repository: "iuming/jacow_papers_crawler"
+
+navigation:
+  - title: Home
+    url: /
+  - title: Documentation
+    url: /docs/
+  - title: API Reference
+    url: /api/
+  - title: GitHub
+    url: https://github.com/iuming/jacow_papers_crawler
+
+social:
+  - platform: github
+    user_url: "https://github.com/iuming"
+  - platform: email
+    user_url: "mailto:mliu@ihep.ac.cn"
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - "*.gem"
+  - "*.gemspec"
+  - tools
+  - docs/Gemfile
+  - docs/Gemfile.lock
+  - docs/node_modules
+  - docs/vendor/bundle/
+  - docs/vendor/cache/
+  - docs/vendor/gems/
+  - docs/vendor/ruby/

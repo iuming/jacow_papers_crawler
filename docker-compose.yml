@@ -1,0 +1,42 @@
+version: '3.8'
+
+services:
+  jacow-crawler:
+    build: .
+    container_name: jacow-crawler
+    volumes:
+      - ./data:/app/data
+      - ./config.ini:/app/config.ini:ro
+    environment:
+      - PYTHONUNBUFFERED=1
+    command: python main.py --verbose
+    restart: unless-stopped
+    
+    # 可选：如果需要网络代理
+    # network_mode: "host"
+    
+    # 资源限制
+    deploy:
+      resources:
+        limits:
+          memory: 1G
+          cpus: '0.5'
+        reservations:
+          memory: 512M
+          cpus: '0.25'
+
+  # 可选：添加数据库服务（用于存储论文元数据）
+  # database:
+  #   image: postgres:13
+  #   container_name: jacow-db
+  #   environment:
+  #     POSTGRES_DB: jacow_papers
+  #     POSTGRES_USER: jacow
+  #     POSTGRES_PASSWORD: password123
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #   ports:
+  #     - "5432:5432"
+
+# volumes:
+#   postgres_data:

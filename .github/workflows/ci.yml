@@ -1,0 +1,235 @@
+# =============================================================================
+# JACoW Invincible Paper Crawler - CI/CD Pipeline
+# Author: Ming Liu <mliu@ihep.ac.cn>
+# Created: Sept 9, 2025
+# Description: GitHub Actions workflow for automated testing and validation
+# =============================================================================
+
+name: JACoW Crawler CI/CD
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    # Run tests weekly on Sundays at 2:00 AM UTC
+    - cron: '0 2 * * 0'
+
+jobs:
+  test:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        python-version: ['3.7', '3.8', '3.9', '3.10', '3.11']
+        exclude:
+          # Exclude some combinations to reduce CI time
+          - os: macos-latest
+            python-version: '3.7'
+          - os: windows-latest
+            python-version: '3.7'
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        pip install pytest pytest-cov flake8 black
+
+    - name: Lint with flake8
+      run: |
+        # Stop the build if there are Python syntax errors or undefined names
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
+        # Exit-zero treats all errors as warnings
+        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=88 --statistics
+
+    - name: Check code formatting with black
+      run: |
+        black --check --diff .
+
+    - name: Run basic import tests
+      run: |
+        python -c "import crawler.spider; print('Spider import successful')"
+        python -c "import crawler.individual_spider; print('Individual spider import successful')"
+        python -c "import utils.logger; print('Logger import successful')"
+
+    - name: Run verification script
+      run: |
+        python tests/verify.py
+
+    - name: Run unit tests with pytest
+      run: |
+        pytest tests/ -v --cov=crawler --cov=utils --cov-report=xml --cov-report=term-missing
+      env:
+        # Set environment variables for testing
+        JACOW_TEST_MODE: "true"
+        JACOW_SKIP_NETWORK_TESTS: "true"
+
+    - name: Upload coverage reports to Codecov
+      if: matrix.os == 'ubuntu-latest' && matrix.python-version == '3.9'
+      uses: codecov/codecov-action@v3
+      with:
+        file: ./coverage.xml
+        flags: unittests
+        name: codecov-umbrella
+
+  security-scan:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install bandit safety
+
+    - name: Run security scan with bandit
+      run: |
+        bandit -r crawler/ utils/ -f json -o bandit-report.json || true
+
+    - name: Check for known vulnerabilities with safety
+      run: |
+        safety check --json --output safety-report.json || true
+
+    - name: Upload security reports
+      uses: actions/upload-artifact@v3
+      with:
+        name: security-reports
+        path: |
+          bandit-report.json
+          safety-report.json
+
+  build-docs:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install documentation dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install mkdocs mkdocs-material mkdocs-mermaid2-plugin
+
+    - name: Build documentation
+      run: |
+        # Create a simple mkdocs.yml if it doesn't exist
+        if [ ! -f mkdocs.yml ]; then
+          cat > mkdocs.yml << EOF
+        site_name: JACoW Invincible Paper Crawler
+        site_description: Intelligent academic paper crawler for JACoW conferences
+        site_author: Ming Liu
+        
+        theme:
+          name: material
+          palette:
+            primary: blue
+            accent: light-blue
+        
+        nav:
+          - Home: README.md
+          - Documentation:
+            - Individual Papers: docs/Individual_Paper_Download_Guide.md
+            - Conference Download: docs/Conference_Download_Guide.md
+            - Testing Guide: docs/Conference_Download_Testing_Guide.md
+            - Usage: docs/USAGE.md
+            - Project Summary: docs/PROJECT_SUMMARY.md
+          - Examples: examples/example.py
+        EOF
+        fi
+        mkdocs build
+
+    - name: Deploy documentation to GitHub Pages
+      if: github.ref == 'refs/heads/main'
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./site
+
+  release:
+    needs: [test, security-scan]
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && contains(github.event.head_commit.message, '[release]')
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install build dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install build twine
+
+    - name: Extract version from commit message
+      id: extract_version
+      run: |
+        VERSION=$(echo "${{ github.event.head_commit.message }}" | grep -oP '\[release\]\s*v?\K[0-9]+\.[0-9]+\.[0-9]+')
+        echo "version=$VERSION" >> $GITHUB_OUTPUT
+
+    - name: Create Release
+      if: steps.extract_version.outputs.version != ''
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v${{ steps.extract_version.outputs.version }}
+        release_name: Release v${{ steps.extract_version.outputs.version }}
+        body: |
+          ## JACoW Invincible Paper Crawler v${{ steps.extract_version.outputs.version }}
+          
+          ### Features
+          - Intelligent academic paper crawling from JACoW conferences
+          - Individual paper downloads with automatic filtering
+          - Conference-wide batch download capabilities
+          - Comprehensive error handling and retry mechanisms
+          - Cross-platform support (Windows, macOS, Linux)
+          
+          ### Installation
+          ```bash
+          git clone https://github.com/${{ github.repository }}.git
+          cd jacow-invincible-crawler
+          pip install -r requirements.txt
+          ```
+          
+          ### Quick Start
+          ```bash
+          python main.py --individual-papers --conference IPAC --year 2023 --dry-run
+          ```
+          
+          For detailed documentation, visit: https://${{ github.repository_owner }}.github.io/jacow-invincible-crawler/
+        draft: false
+        prerelease: false

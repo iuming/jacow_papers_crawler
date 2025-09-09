@@ -1,0 +1,151 @@
+name: Bug Report
+description: Report a bug or issue with the JACoW Paper Crawler
+title: "[BUG] "
+labels: ["bug", "needs-triage"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out this form as completely as possible.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is.
+      placeholder: Describe the bug...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: Please provide detailed steps to reproduce the issue.
+      placeholder: |
+        1. Run command: python main.py --individual-papers --conference IPAC --year 2023
+        2. Wait for crawling to start
+        3. Error occurs...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: Describe what you expected...
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual Behavior
+      description: What actually happened?
+      placeholder: Describe what actually happened...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: conference
+    attributes:
+      label: Target Conference
+      description: Which conference were you trying to crawl?
+      options:
+        - IPAC
+        - LINAC
+        - PAC
+        - FEL
+        - Other
+        - Not applicable
+    validations:
+      required: false
+
+  - type: input
+    id: year
+    attributes:
+      label: Conference Year
+      description: What year were you targeting?
+      placeholder: e.g., 2023
+    validations:
+      required: false
+
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: Operating System
+      description: What operating system are you using?
+      options:
+        - Windows 10
+        - Windows 11
+        - macOS
+        - Ubuntu Linux
+        - Other Linux
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: python-version
+    attributes:
+      label: Python Version
+      description: What version of Python are you using?
+      placeholder: e.g., 3.9.7
+    validations:
+      required: true
+
+  - type: textarea
+    id: command
+    attributes:
+      label: Command Used
+      description: What command did you run that caused the issue?
+      placeholder: python main.py --individual-papers --conference IPAC --year 2023
+    validations:
+      required: false
+
+  - type: textarea
+    id: error-output
+    attributes:
+      label: Error Output
+      description: Please paste any error messages or stack traces here.
+      render: shell
+      placeholder: Paste error output here...
+    validations:
+      required: false
+
+  - type: textarea
+    id: log-files
+    attributes:
+      label: Log Files
+      description: Please include relevant log file content from data/logs/
+      render: shell
+      placeholder: Paste log content here...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      description: Please confirm the following
+      options:
+        - label: I have searched existing issues to make sure this is not a duplicate
+          required: true
+        - label: I have run the verification script (`python tests/verify.py`)
+          required: false
+        - label: I have checked the documentation
+          required: false
+        - label: I am using the latest version of the crawler
+          required: false
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional Context
+      description: Add any other context about the problem here.
+      placeholder: Any additional information that might be helpful...
+    validations:
+      required: false
