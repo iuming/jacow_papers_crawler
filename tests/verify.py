@@ -65,9 +65,22 @@ project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
 
+def safe_print(text, fallback=None):
+    """安全的打印函数，处理编码问题"""
+    try:
+        print(text)
+    except UnicodeEncodeError:
+        if fallback:
+            print(fallback)
+        else:
+            # 移除中文字符和emoji，只保留ASCII字符
+            ascii_text = "".join(char for char in text if ord(char) < 128)
+            print(ascii_text)
+
+
 def check_imports():
     """检查所有模块是否可以正确导入"""
-    print("🔍 检查模块导入...")
+    safe_print("🔍 检查模块导入...", "Checking module imports...")
 
     modules_to_check = [
         "crawler.spider",
@@ -83,9 +96,9 @@ def check_imports():
     for module in modules_to_check:
         try:
             importlib.import_module(module)
-            print(f"✅ {module}")
+            safe_print(f"✅ {module}", f"+ {module}")
         except ImportError as e:
-            print(f"❌ {module}: {e}")
+            safe_print(f"❌ {module}: {e}", f"- {module}: {e}")
             failed_imports.append(module)
 
     return len(failed_imports) == 0
@@ -93,7 +106,7 @@ def check_imports():
 
 def check_dependencies():
     """检查外部依赖"""
-    print("\n📦 检查外部依赖...")
+    safe_print("\n📦 检查外部依赖...", "\nChecking external dependencies...")
 
     dependencies = [
         ("requests", "网络请求"),
@@ -107,9 +120,12 @@ def check_dependencies():
     for dep, desc in dependencies:
         try:
             importlib.import_module(dep)
-            print(f"✅ {dep} ({desc})")
+            safe_print(f"✅ {dep} ({desc})", f"+ {dep} ({desc})")
         except ImportError:
-            print(f"❌ {dep} ({desc}) - 需要安装")
+            safe_print(
+                f"❌ {dep} ({desc}) - 需要安装",
+                f"- {dep} ({desc}) - needs installation",
+            )
             failed_deps.append(dep)
 
     return len(failed_deps) == 0
@@ -117,7 +133,7 @@ def check_dependencies():
 
 def check_directories():
     """检查目录结构"""
-    print("\n📁 检查目录结构...")
+    safe_print("\n📁 检查目录结构...", "\nChecking directory structure...")
 
     required_dirs = [
         "data",
@@ -133,38 +149,54 @@ def check_directories():
     for dir_path in required_dirs:
         path = Path(dir_path)
         if path.exists():
-            print(f"✅ {dir_path}/")
+            safe_print(f"✅ {dir_path}/", f"+ {dir_path}/")
         else:
-            print(f"❌ {dir_path}/ - 目录不存在")
+            safe_print(
+                f"❌ {dir_path}/ - 目录不存在", f"- {dir_path}/ - directory not exists"
+            )
             missing_dirs.append(dir_path)
             # 创建缺失的目录
             path.mkdir(parents=True, exist_ok=True)
-            print(f"🔧 已创建 {dir_path}/")
+            safe_print(f"🔧 已创建 {dir_path}/", f"Created {dir_path}/")
 
     return True
 
 
 def check_config():
     """检查配置"""
-    print("\n⚙️  检查配置...")
+    safe_print("\n⚙️  检查配置...", "\nChecking configuration...")
 
     try:
         # 检查配置文件是否存在
         config_file = project_root / "config.ini"
         if config_file.exists():
-            print("✅ 配置文件存在: config.ini")
+            safe_print(
+                "✅ 配置文件存在: config.ini", "+ Config file exists: config.ini"
+            )
         else:
-            print("⚠️  配置文件不存在，将使用默认配置")
+            safe_print(
+                "⚠️  配置文件不存在，将使用默认配置",
+                "Warning: Config file not found, using defaults",
+            )
 
         # 尝试导入配置模块
         from utils.config import Config
 
         config = Config()
 
-        print(f"✅ 基础URL: {config.BASE_URL}")
-        print(f"✅ 最大文件大小: {config.MAX_FILE_SIZE_MB}MB")
-        print(f"✅ 支持的文件类型: {', '.join(config.SUPPORTED_EXTENSIONS)}")
-        print(f"✅ 已知会议数量: {len(config.KNOWN_CONFERENCES)}")
+        safe_print(f"✅ 基础URL: {config.BASE_URL}", f"+ Base URL: {config.BASE_URL}")
+        safe_print(
+            f"✅ 最大文件大小: {config.MAX_FILE_SIZE_MB}MB",
+            f"+ Max file size: {config.MAX_FILE_SIZE_MB}MB",
+        )
+        safe_print(
+            f"✅ 支持的文件类型: {', '.join(config.SUPPORTED_EXTENSIONS)}",
+            f"+ Supported extensions: {', '.join(config.SUPPORTED_EXTENSIONS)}",
+        )
+        safe_print(
+            f"✅ 已知会议数量: {len(config.KNOWN_CONFERENCES)}",
+            f"+ Known conferences: {len(config.KNOWN_CONFERENCES)}",
+        )
 
         return True
     except ImportError as e:
@@ -177,9 +209,11 @@ def check_config():
 
 def main():
     """主验证函数"""
-    print("=" * 60)
-    print("🚀 JACoW 论文爬取器 - 项目验证")
-    print("=" * 60)
+    safe_print("=" * 60)
+    safe_print(
+        "🚀 JACoW 论文爬取器 - 项目验证", "JACoW Paper Crawler - Project Verification"
+    )
+    safe_print("=" * 60)
 
     all_checks_passed = True
 
@@ -190,7 +224,10 @@ def main():
     # 检查依赖
     if not check_dependencies():
         all_checks_passed = False
-        print("\n💡 如需安装依赖，请运行: pip install -r requirements.txt")
+        safe_print(
+            "\n💡 如需安装依赖，请运行: pip install -r requirements.txt",
+            "\nTip: To install dependencies, run: pip install -r requirements.txt",
+        )
 
     # 检查目录
     if not check_directories():
@@ -200,19 +237,37 @@ def main():
     if not check_config():
         all_checks_passed = False
 
-    print("\n" + "=" * 60)
+    safe_print("\n" + "=" * 60)
     if all_checks_passed:
-        print("🎉 所有检查通过！项目已正确设置。")
-        print("\n💡 现在你可以运行:")
-        print("   • python main.py --dry-run    (试运行)")
-        print("   • python main.py --help       (查看帮助)")
-        print("   • python example.py           (运行示例)")
-        print("   • run.bat                      (Windows启动脚本)")
+        safe_print(
+            "🎉 所有检查通过！项目已正确设置。",
+            "All checks passed! Project is correctly set up.",
+        )
+        safe_print("\n💡 现在你可以运行:", "\nTip: You can now run:")
+        safe_print(
+            "   • python main.py --dry-run    (试运行)",
+            "   • python main.py --dry-run    (dry run)",
+        )
+        safe_print(
+            "   • python main.py --help       (查看帮助)",
+            "   • python main.py --help       (view help)",
+        )
+        safe_print(
+            "   • python example.py           (运行示例)",
+            "   • python example.py           (run example)",
+        )
+        safe_print(
+            "   • run.bat                      (Windows启动脚本)",
+            "   • run.bat                      (Windows start script)",
+        )
     else:
-        print("⚠️  部分检查失败，请检查上述错误信息。")
+        safe_print(
+            "⚠️  部分检查失败，请检查上述错误信息。",
+            "Warning: Some checks failed, please check the error messages above.",
+        )
         return 1
 
-    print("=" * 60)
+    safe_print("=" * 60)
     return 0
 
 
