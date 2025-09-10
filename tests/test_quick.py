@@ -19,16 +19,14 @@ def test_basic_imports():
         print("✅ crawler 包导入成功")
     except Exception as e:
         print(f"❌ crawler 包导入失败: {e}")
-        return False
+        assert False, f"crawler包导入失败: {e}"
     
     try:
         import utils
         print("✅ utils 包导入成功")
     except Exception as e:
         print(f"❌ utils 包导入失败: {e}")
-        return False
-    
-    return True
+        assert False, f"utils包导入失败: {e}"
 
 def test_module_imports():
     """测试模块导入"""
@@ -50,7 +48,7 @@ def test_module_imports():
         except Exception as e:
             print(f"❌ {module_name}.{class_or_function}: {e}")
     
-    return success_count == len(modules)
+    assert success_count == len(modules), f"只有 {success_count}/{len(modules)} 个模块导入成功"
 
 def test_basic_functionality():
     """测试基本功能"""
@@ -64,7 +62,7 @@ def test_basic_functionality():
         print("✅ 日志系统工作正常")
     except Exception as e:
         print(f"❌ 日志系统测试失败: {e}")
-        return False
+        assert False, f"日志系统测试失败: {e}"
     
     try:
         # 测试配置系统
@@ -74,9 +72,7 @@ def test_basic_functionality():
         print("✅ 配置系统工作正常")
     except Exception as e:
         print(f"❌ 配置系统测试失败: {e}")
-        return False
-    
-    return True
+        assert False, f"配置系统测试失败: {e}"
 
 def main():
     """主函数"""
