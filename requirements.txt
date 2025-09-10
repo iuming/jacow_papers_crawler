@@ -14,7 +14,7 @@ aiofiles>=22.1.0,<24.0.0  # Async file I/O operations
 # Web scraping and parsing
 beautifulsoup4>=4.11.0,<4.13.0  # HTML/XML parsing for data extraction
 lxml>=4.9.0,<5.0.0               # Fast XML/HTML parser backend
-selenium>=4.10.0,<4.16.0         # Web browser automation (optional)
+selenium>=4.10.0,<4.36.0         # Web browser automation (optional)
 webdriver-manager>=3.8.0,<4.1.0  # Automatic web driver management
 
 # Data processing and utilities
