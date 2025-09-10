@@ -117,7 +117,11 @@ async def test_individual_papers():
     except Exception as e:
         logger.error(f"测试出错: {e}")
     finally:
-        await spider.close()
+        # 检查spider是否有close方法
+        if hasattr(spider, 'close'):
+            await spider.close()
+        elif hasattr(spider, 'session') and hasattr(spider.session, 'close'):
+            await spider.session.close()
 
 if __name__ == "__main__":
     asyncio.run(test_individual_papers())
