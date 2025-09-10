@@ -7,7 +7,7 @@
 
 # Core HTTP and async libraries
 requests>=2.28.0,<2.32.0  # HTTP library for web requests
-aiohttp>=3.8.0,<3.10.0    # Async HTTP client for concurrent operations
+aiohttp>=3.8.0,<3.13.0    # Async HTTP client for concurrent operations
 aiofiles>=22.1.0,<24.0.0  # Async file I/O operations
 # asyncio is built-in for Python 3.9+
 
