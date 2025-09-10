@@ -24,7 +24,7 @@ python-dateutil>=2.8.0,<2.9.0  # Enhanced date/time handling
 
 # Network and utilities
 urllib3>=1.26.0,<2.1.0    # HTTP client utilities
-fake-useragent>=1.2.0,<1.5.0  # User agent rotation for web scraping
+fake-useragent>=1.2.0,<2.3.0  # User agent rotation for web scraping
 
 # User interface and progress
 tqdm>=4.64.0,<4.67.0      # Progress bars for long operations
