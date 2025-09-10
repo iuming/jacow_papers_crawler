@@ -70,26 +70,26 @@ async def example_crawl_only():
     print("=" * 60)
     print("Example 1: Only crawl paper links")
     print("=" * 60)
-    
+
     logger = setup_colored_logger("example", verbose=True)
-    
+
     # Create spider instance
     spider = JACoWSpider(
         delay=0.5,  # Faster request interval (for testing only)
         year_filter=2023,  # Only crawl papers from 2023
-        logger=logger
+        logger=logger,
     )
-    
+
     # Crawl paper links
     papers = await spider.crawl_papers()
-    
+
     print(f"\nFound {len(papers)} papers:")
     for i, paper in enumerate(papers[:5], 1):  # Only show first 5
         print(f"{i}. {paper['title']}")
         print(f"   Conference: {paper['conference']} ({paper['year']})")
         print(f"   Link: {paper['download_url']}")
         print()
-    
+
     if len(papers) > 5:
         print(f"... {len(papers) - 5} more papers")
 
@@ -99,44 +99,44 @@ async def example_download_sample():
     print("=" * 60)
     print("Example 2: Download paper samples")
     print("=" * 60)
-    
+
     logger = setup_colored_logger("example", verbose=True)
-    
+
     # Create test paper list
     sample_papers = [
         {
-            'title': 'Test Paper 1',
-            'download_url': 'https://www.jacow.org/sample1.pdf',
-            'conference': 'IPAC',
-            'year': 2023,
-            'authors': 'Author A, Author B',
-            'file_extension': '.pdf'
+            "title": "Test Paper 1",
+            "download_url": "https://www.jacow.org/sample1.pdf",
+            "conference": "IPAC",
+            "year": 2023,
+            "authors": "Author A, Author B",
+            "file_extension": ".pdf",
         },
         {
-            'title': 'Test Paper 2',
-            'download_url': 'https://www.jacow.org/sample2.pdf',
-            'conference': 'LINAC',
-            'year': 2023,
-            'authors': 'Author C, Author D',
-            'file_extension': '.pdf'
-        }
+            "title": "Test Paper 2",
+            "download_url": "https://www.jacow.org/sample2.pdf",
+            "conference": "LINAC",
+            "year": 2023,
+            "authors": "Author C, Author D",
+            "file_extension": ".pdf",
+        },
     ]
-    
+
     # Create downloader instance
     output_dir = Path("./data/example_downloads")
     downloader = PaperDownloader(
         output_dir=output_dir,
         max_size_mb=10,  # Limit to smaller file size
         concurrent_downloads=2,
-        logger=logger
+        logger=logger,
     )
-    
+
     # Download papers (this may fail as URLs are examples)
     results = await downloader.download_papers(sample_papers)
-    
+
     print("\nDownload results:")
     for result in results:
-        status = "Success" if result['success'] else f"Failed: {result['error']}"
+        status = "Success" if result["success"] else f"Failed: {result['error']}"
         print(f"- {result['title']}: {status}")
 
 
@@ -145,50 +145,49 @@ def example_classification():
     print("=" * 60)
     print("Example 3: Paper classification")
     print("=" * 60)
-    
+
     logger = setup_colored_logger("example", verbose=True)
-    
+
     # Create test download results
     download_results = [
         {
-            'title': 'RF Cavity Design for Linear Accelerators',
-            'conference': 'LINAC',
-            'year': 2023,
-            'success': True,
-            'file_path': './data/example/LINAC_2023_RF_Cavity.pdf',
-            'abstract': 'This paper describes RF cavity design methods for linear accelerators'
+            "title": "RF Cavity Design for Linear Accelerators",
+            "conference": "LINAC",
+            "year": 2023,
+            "success": True,
+            "file_path": "./data/example/LINAC_2023_RF_Cavity.pdf",
+            "abstract": "This paper describes RF cavity design methods for linear accelerators",
         },
         {
-            'title': 'Beam Position Monitor Development',
-            'conference': 'IBIC',
-            'year': 2023,
-            'success': True,
-            'file_path': './data/example/IBIC_2023_BPM.pdf',
-            'abstract': 'Development of high precision beam position monitors'
+            "title": "Beam Position Monitor Development",
+            "conference": "IBIC",
+            "year": 2023,
+            "success": True,
+            "file_path": "./data/example/IBIC_2023_BPM.pdf",
+            "abstract": "Development of high precision beam position monitors",
         },
         {
-            'title': 'Superconducting Magnet Technology',
-            'conference': 'IPAC',
-            'year': 2022,
-            'success': True,
-            'file_path': './data/example/IPAC_2022_SC_Magnet.pdf',
-            'abstract': 'Advances in superconducting magnet technology for particle accelerators'
-        }
+            "title": "Superconducting Magnet Technology",
+            "conference": "IPAC",
+            "year": 2022,
+            "success": True,
+            "file_path": "./data/example/IPAC_2022_SC_Magnet.pdf",
+            "abstract": "Advances in superconducting magnet technology for particle accelerators",
+        },
     ]
-    
+
     # Create classifier instance
     classifier = PaperClassifier(
-        base_dir=Path("./data/example_classification"),
-        logger=logger
+        base_dir=Path("./data/example_classification"), logger=logger
     )
-    
+
     # Classify papers
     classification_stats = classifier.classify_papers(download_results)
-    
+
     print("\nClassification statistics:")
     for category, count in classification_stats.items():
         print(f"- {category}: {count} papers")
-    
+
     # Generate classification report
     report = classifier.generate_classification_report()
     print("\nClassification report:")
@@ -199,22 +198,24 @@ async def run_examples():
     """Run all examples"""
     print("JACoW Crawler Example Program")
     print("=" * 60)
-    
-    choice = input("""
+
+    choice = input(
+        """
 Please select the example to run:
 1. Only crawl paper links
 2. Download paper samples
 3. Paper classification demo
 4. Run all examples
-Please enter your choice (1-4): """).strip()
-    
-    if choice == '1':
+Please enter your choice (1-4): """
+    ).strip()
+
+    if choice == "1":
         await example_crawl_only()
-    elif choice == '2':
+    elif choice == "2":
         await example_download_sample()
-    elif choice == '3':
+    elif choice == "3":
         example_classification()
-    elif choice == '4':
+    elif choice == "4":
         await example_crawl_only()
         print("\n" + "=" * 60 + "\n")
         await example_download_sample()
@@ -232,13 +233,14 @@ Please enter your choice (1-4): """).strip()
 if __name__ == "__main__":
     try:
         # Set event loop policy on Windows
-        if sys.platform == 'win32':
+        if sys.platform == "win32":
             asyncio.set_event_loop_policy(asyncio.WindowsProactorEventLoopPolicy())
-        
+
         asyncio.run(run_examples())
     except KeyboardInterrupt:
         print("\nExample program interrupted by user")
     except Exception as e:
         print(f"\nExample program execution error: {str(e)}")
         import traceback
+
         traceback.print_exc()

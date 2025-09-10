@@ -60,7 +60,7 @@ from typing import Optional, Dict, Any
 
 class Config:
     """配置管理类"""
-    
+
     def __init__(self):
         # 默认配置
         self.BASE_URL = "https://www.jacow.org"
@@ -76,78 +76,128 @@ class Config:
         self.TIMEOUT = 30
         self.RETRY_ATTEMPTS = 3
         self.RETRY_DELAY = 2.0
-        
+
         # 支持的文件类型
-        self.SUPPORTED_EXTENSIONS = ['.pdf', '.doc', '.docx', '.ppt', '.pptx']
-        
+        self.SUPPORTED_EXTENSIONS = [".pdf", ".doc", ".docx", ".ppt", ".pptx"]
+
         # 会议列表 (部分)
         self.KNOWN_CONFERENCES = [
-            'IPAC', 'LINAC', 'PAC', 'EPAC', 'DIPAC', 'BIW', 'SRF', 
-            'IBIC', 'COOL', 'HB', 'CYCLOTRONS', 'RuPAC', 'NA-PAC',
-            'ICALEPCS', 'PCaPAC', 'HIAT'
+            "IPAC",
+            "LINAC",
+            "PAC",
+            "EPAC",
+            "DIPAC",
+            "BIW",
+            "SRF",
+            "IBIC",
+            "COOL",
+            "HB",
+            "CYCLOTRONS",
+            "RuPAC",
+            "NA-PAC",
+            "ICALEPCS",
+            "PCaPAC",
+            "HIAT",
         ]
-        
+
         # 论文分类关键词
         self.CLASSIFICATION_KEYWORDS = {
-            'Accelerator_Technology': [
-                'accelerator', 'magnet', 'cavity', 'rf', 'superconducting',
-                'cryogenic', 'vacuum', 'mechanical', 'power supply'
+            "Accelerator_Technology": [
+                "accelerator",
+                "magnet",
+                "cavity",
+                "rf",
+                "superconducting",
+                "cryogenic",
+                "vacuum",
+                "mechanical",
+                "power supply",
             ],
-            'Beam_Dynamics': [
-                'beam dynamics', 'optics', 'emittance', 'tune', 'chromaticity',
-                'coupling', 'lattice', 'tracking', 'simulation'
+            "Beam_Dynamics": [
+                "beam dynamics",
+                "optics",
+                "emittance",
+                "tune",
+                "chromaticity",
+                "coupling",
+                "lattice",
+                "tracking",
+                "simulation",
             ],
-            'Beam_Instrumentation': [
-                'bpm', 'beam position monitor', 'diagnostics', 'monitor',
-                'measurement', 'instrumentation', 'profile', 'current'
+            "Beam_Instrumentation": [
+                "bpm",
+                "beam position monitor",
+                "diagnostics",
+                "monitor",
+                "measurement",
+                "instrumentation",
+                "profile",
+                "current",
             ],
-            'Controls': [
-                'control', 'epics', 'software', 'database', 'automation',
-                'interface', 'timing', 'synchronization'
+            "Controls": [
+                "control",
+                "epics",
+                "software",
+                "database",
+                "automation",
+                "interface",
+                "timing",
+                "synchronization",
             ],
-            'Power_Systems': [
-                'power supply', 'converter', 'modulator', 'high voltage',
-                'switching', 'regulation', 'protection'
+            "Power_Systems": [
+                "power supply",
+                "converter",
+                "modulator",
+                "high voltage",
+                "switching",
+                "regulation",
+                "protection",
             ],
-            'RF_Technology': [
-                'rf', 'microwave', 'klystron', 'magnetron', 'waveguide',
-                'coupler', 'antenna', 'frequency'
+            "RF_Technology": [
+                "rf",
+                "microwave",
+                "klystron",
+                "magnetron",
+                "waveguide",
+                "coupler",
+                "antenna",
+                "frequency",
             ],
-            'Other': []  # 默认分类
+            "Other": [],  # 默认分类
         }
-    
+
     def update_from_args(self, args):
         """从命令行参数更新配置"""
-        if hasattr(args, 'output_dir') and args.output_dir:
+        if hasattr(args, "output_dir") and args.output_dir:
             self.OUTPUT_DIR = args.output_dir
-        if hasattr(args, 'max_size') and args.max_size:
+        if hasattr(args, "max_size") and args.max_size:
             self.MAX_FILE_SIZE_MB = args.max_size
-        if hasattr(args, 'concurrent') and args.concurrent:
+        if hasattr(args, "concurrent") and args.concurrent:
             self.CONCURRENT_DOWNLOADS = args.concurrent
-        if hasattr(args, 'delay') and args.delay:
+        if hasattr(args, "delay") and args.delay:
             self.REQUEST_DELAY = args.delay
-    
+
     def get_headers(self, referer: Optional[str] = None) -> Dict[str, str]:
         """获取HTTP请求头"""
         headers = {
-            'User-Agent': self.USER_AGENT,
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'Accept-Encoding': 'gzip, deflate',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1',
+            "User-Agent": self.USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate",
+            "Connection": "keep-alive",
+            "Upgrade-Insecure-Requests": "1",
         }
-        
+
         if referer:
-            headers['Referer'] = referer
-            
+            headers["Referer"] = referer
+
         return headers
-    
+
     def is_supported_file(self, filename: str) -> bool:
         """检查文件是否为支持的类型"""
         file_ext = Path(filename).suffix.lower()
         return file_ext in self.SUPPORTED_EXTENSIONS
-    
+
     def get_conference_from_url(self, url: str) -> Optional[str]:
         """从URL中提取会议名称"""
         url_upper = url.upper()
@@ -155,20 +205,20 @@ class Config:
             if conf in url_upper:
                 return conf
         return None
-    
+
     def classify_by_keywords(self, title: str, abstract: str = "") -> str:
         """根据关键词分类论文"""
         text = (title + " " + abstract).lower()
-        
+
         category_scores = {}
         for category, keywords in self.CLASSIFICATION_KEYWORDS.items():
-            if category == 'Other':
+            if category == "Other":
                 continue
             score = sum(1 for keyword in keywords if keyword.lower() in text)
             if score > 0:
                 category_scores[category] = score
-        
+
         if category_scores:
             return max(category_scores, key=category_scores.get)
         else:
-            return 'Other'
+            return "Other"

@@ -72,7 +72,7 @@ def check_python_version():
         print("❌ 错误: 需要Python 3.9或更高版本")
         print(f"当前版本: {version.major}.{version.minor}.{version.micro}")
         return False
-    
+
     print(f"✅ Python版本检查通过: {version.major}.{version.minor}.{version.micro}")
     return True
 
@@ -80,11 +80,11 @@ def check_python_version():
 def create_virtual_environment():
     """创建虚拟环境"""
     venv_path = Path("venv")
-    
+
     if venv_path.exists():
         print("✅ 虚拟环境已存在")
         return True
-    
+
     try:
         print("创建虚拟环境...")
         subprocess.run([sys.executable, "-m", "venv", "venv"], check=True)
@@ -99,22 +99,22 @@ def install_dependencies():
     """安装依赖包"""
     try:
         print("安装依赖包...")
-        
+
         # 确定pip路径
         if sys.platform == "win32":
             pip_path = Path("venv/Scripts/pip.exe")
         else:
             pip_path = Path("venv/bin/pip")
-        
+
         if not pip_path.exists():
             pip_path = "pip"  # 使用全局pip
-        
+
         # 升级pip
         subprocess.run([str(pip_path), "install", "--upgrade", "pip"], check=True)
-        
+
         # 安装依赖
         subprocess.run([str(pip_path), "install", "-r", "requirements.txt"], check=True)
-        
+
         print("✅ 依赖包安装成功")
         return True
     except subprocess.CalledProcessError as e:
@@ -124,16 +124,11 @@ def install_dependencies():
 
 def create_directories():
     """创建必要的目录"""
-    directories = [
-        "data/papers",
-        "data/logs", 
-        "data/reports",
-        "data/cache"
-    ]
-    
+    directories = ["data/papers", "data/logs", "data/reports", "data/cache"]
+
     for dir_path in directories:
         Path(dir_path).mkdir(parents=True, exist_ok=True)
-    
+
     print("✅ 目录结构创建完成")
 
 
@@ -191,10 +186,10 @@ Thumbs.db
 *.tmp
 *.temp
 """
-    
+
     gitignore_path = Path(".gitignore")
     if not gitignore_path.exists():
-        with open(gitignore_path, 'w', encoding='utf-8') as f:
+        with open(gitignore_path, "w", encoding="utf-8") as f:
             f.write(gitignore_content)
         print("✅ .gitignore 文件创建完成")
     else:
@@ -205,18 +200,20 @@ def run_tests():
     """运行测试"""
     try:
         print("运行测试...")
-        
+
         # 确定Python路径
         if sys.platform == "win32":
             python_path = Path("venv/Scripts/python.exe")
         else:
             python_path = Path("venv/bin/python")
-        
+
         if not python_path.exists():
             python_path = sys.executable
-        
-        result = subprocess.run([str(python_path), "test.py"], capture_output=True, text=True)
-        
+
+        result = subprocess.run(
+            [str(python_path), "test.py"], capture_output=True, text=True
+        )
+
         if result.returncode == 0:
             print("✅ 所有测试通过")
             return True
@@ -238,7 +235,7 @@ def show_usage_instructions():
     print()
     print("使用方法:")
     print()
-    
+
     if sys.platform == "win32":
         print("1. 激活虚拟环境:")
         print("   venv\\Scripts\\activate")
@@ -258,7 +255,7 @@ def show_usage_instructions():
         print("3. 或者运行shell脚本:")
         print("   chmod +x run.sh")
         print("   ./run.sh")
-    
+
     print()
     print("常用命令:")
     print("• 查看帮助:        python main.py --help")
@@ -278,28 +275,28 @@ def main():
     """主函数"""
     print("JACoW 论文爬取器 - 项目设置")
     print("=" * 60)
-    
+
     # 检查Python版本
     if not check_python_version():
         sys.exit(1)
-    
+
     # 创建虚拟环境
     if not create_virtual_environment():
         sys.exit(1)
-    
+
     # 安装依赖
     if not install_dependencies():
         sys.exit(1)
-    
+
     # 创建目录结构
     create_directories()
-    
+
     # 创建.gitignore
     create_gitignore()
-    
+
     # 运行测试
     run_tests()
-    
+
     # 显示使用说明
     show_usage_instructions()
 

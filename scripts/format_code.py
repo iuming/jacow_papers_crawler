@@ -31,33 +31,36 @@ def main():
     """主函数"""
     print("🎨 JACoW 爬虫代码格式化工具")
     print("=" * 50)
-    
+
     # 获取项目根目录
     project_root = Path(__file__).parent
-    
+
     # 切换到项目目录
     import os
+
     os.chdir(project_root)
-    
+
     # 安装格式化工具（如果需要）
     print("📦 检查并安装格式化工具...")
-    subprocess.run([sys.executable, "-m", "pip", "install", "black", "isort", "flake8"], 
-                  capture_output=True)
-    
+    subprocess.run(
+        [sys.executable, "-m", "pip", "install", "black", "isort", "flake8"],
+        capture_output=True,
+    )
+
     # 运行格式化工具
     steps = [
         ("python -m isort .", "导入排序 (isort)"),
         ("python -m black .", "代码格式化 (black)"),
         ("python -m flake8 . --statistics", "代码检查 (flake8)"),
     ]
-    
+
     success_count = 0
     for cmd, desc in steps:
         if run_command(cmd, desc):
             success_count += 1
-    
+
     print(f"\n📊 完成情况: {success_count}/{len(steps)} 项成功")
-    
+
     if success_count == len(steps):
         print("🎉 所有格式化步骤都已完成！")
         print("\n📝 建议运行以下命令验证:")
@@ -66,7 +69,7 @@ def main():
     else:
         print("⚠️  部分步骤失败，请检查错误信息")
         return 1
-    
+
     return 0
 
 

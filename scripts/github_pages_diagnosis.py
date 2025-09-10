@@ -4,6 +4,7 @@ GitHub Pages部署诊断脚本
 检查GitHub Pages设置和工作流状态
 """
 
+
 def check_github_pages_setup():
     """检查GitHub Pages设置"""
     print("📋 GitHub Pages设置检查清单:")
@@ -34,41 +35,43 @@ def check_github_pages_setup():
     print("   - https://iuming.github.io/jacow_papers_crawler/")
     print()
 
+
 def check_local_build():
     """检查本地构建"""
     import os
     import subprocess
-    
+
     print("🔧 本地构建检查:")
     print()
-    
-    if os.path.exists('site'):
+
+    if os.path.exists("site"):
         print("✅ site/ 目录存在")
-        if os.path.exists('site/index.html'):
+        if os.path.exists("site/index.html"):
             print("✅ index.html 已生成")
         else:
             print("❌ index.html 不存在")
     else:
         print("❌ site/ 目录不存在")
         print("   运行: python -m mkdocs build")
-    
+
     print()
     print("📊 文件统计:")
-    if os.path.exists('site'):
+    if os.path.exists("site"):
         files = []
-        for root, dirs, filenames in os.walk('site'):
+        for root, dirs, filenames in os.walk("site"):
             files.extend(filenames)
         print(f"   生成文件数: {len(files)}")
-        html_files = [f for f in files if f.endswith('.html')]
+        html_files = [f for f in files if f.endswith(".html")]
         print(f"   HTML文件数: {len(html_files)}")
     else:
         print("   无法统计（site目录不存在）")
+
 
 if __name__ == "__main__":
     print("🔍 JACoW Papers Crawler - GitHub Pages诊断")
     print("=" * 50)
     print()
-    
+
     check_local_build()
     print()
     check_github_pages_setup()

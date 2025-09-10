@@ -65,29 +65,24 @@ from crawler.individual_spider import JACoWIndividualPaperSpider
 from utils.logger import setup_logger
 from utils.config import Config
 
+
 async def test_individual_papers():
     """测试单篇论文爬取"""
     # 设置日志
     logger = setup_logger("test_individual", level="DEBUG")
-    
+
     # 初始化爬虫
     spider = JACoWIndividualPaperSpider(
-        delay=1.0,
-        year_filter=2023,
-        conference_filter=None,
-        logger=logger
+        delay=1.0, year_filter=2023, conference_filter=None, logger=logger
     )
-    
+
     try:
         # 测试爬取2023年的前10篇单独论文
         logger.info("开始测试单篇论文爬取...")
-        papers = await spider.crawl_individual_papers(
-            year=2023,
-            max_papers=10
-        )
-        
+        papers = await spider.crawl_individual_papers(year=2023, max_papers=10)
+
         logger.info(f"找到 {len(papers)} 篇单独论文")
-        
+
         # 显示结果
         for i, paper in enumerate(papers, 1):
             logger.info(f"\n{i}. 论文信息:")
@@ -99,29 +94,32 @@ async def test_individual_papers():
             logger.info(f"   Session: {paper.get('session', 'N/A')}")
             logger.info(f"   类型: {paper.get('type', 'N/A')}")
             logger.info(f"   URL: {paper.get('url', 'N/A')}")
-        
+
         # 统计信息
         paper_types = {}
         for paper in papers:
-            paper_type = paper.get('type', 'unknown')
+            paper_type = paper.get("type", "unknown")
             paper_types[paper_type] = paper_types.get(paper_type, 0) + 1
-        
+
         logger.info(f"\n论文类型统计:")
         for ptype, count in paper_types.items():
             logger.info(f"  {ptype}: {count}")
-        
+
         # 检查是否真的是单篇论文
-        individual_count = sum(1 for p in papers if spider._is_individual_paper(p.get('url', '')))
+        individual_count = sum(
+            1 for p in papers if spider._is_individual_paper(p.get("url", ""))
+        )
         logger.info(f"\n确认为单篇论文的数量: {individual_count}/{len(papers)}")
-        
+
     except Exception as e:
         logger.error(f"测试出错: {e}")
     finally:
         # 检查spider是否有close方法
-        if hasattr(spider, 'close'):
+        if hasattr(spider, "close"):
             await spider.close()
-        elif hasattr(spider, 'session') and hasattr(spider.session, 'close'):
+        elif hasattr(spider, "session") and hasattr(spider.session, "close"):
             await spider.session.close()
+
 
 if __name__ == "__main__":
     asyncio.run(test_individual_papers())

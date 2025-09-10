@@ -64,21 +64,22 @@ from pathlib import Path
 project_root = Path(__file__).parent.parent
 sys.path.insert(0, str(project_root))
 
+
 def check_imports():
     """检查所有模块是否可以正确导入"""
     print("🔍 检查模块导入...")
-    
+
     modules_to_check = [
-        'crawler.spider',
-        'crawler.downloader', 
-        'crawler.classifier',
-        'utils.config',
-        'utils.logger',
-        'utils.helpers'
+        "crawler.spider",
+        "crawler.downloader",
+        "crawler.classifier",
+        "utils.config",
+        "utils.logger",
+        "utils.helpers",
     ]
-    
+
     failed_imports = []
-    
+
     for module in modules_to_check:
         try:
             importlib.import_module(module)
@@ -86,22 +87,23 @@ def check_imports():
         except ImportError as e:
             print(f"❌ {module}: {e}")
             failed_imports.append(module)
-    
+
     return len(failed_imports) == 0
+
 
 def check_dependencies():
     """检查外部依赖"""
     print("\n📦 检查外部依赖...")
-    
+
     dependencies = [
-        ('requests', '网络请求'),
-        ('bs4', 'HTML解析'),
-        ('aiohttp', '异步HTTP客户端'),
-        ('aiofiles', '异步文件操作')
+        ("requests", "网络请求"),
+        ("bs4", "HTML解析"),
+        ("aiohttp", "异步HTTP客户端"),
+        ("aiofiles", "异步文件操作"),
     ]
-    
+
     failed_deps = []
-    
+
     for dep, desc in dependencies:
         try:
             importlib.import_module(dep)
@@ -109,24 +111,25 @@ def check_dependencies():
         except ImportError:
             print(f"❌ {dep} ({desc}) - 需要安装")
             failed_deps.append(dep)
-    
+
     return len(failed_deps) == 0
+
 
 def check_directories():
     """检查目录结构"""
     print("\n📁 检查目录结构...")
-    
+
     required_dirs = [
-        'data',
-        'data/papers',
-        'data/logs', 
-        'data/reports',
-        'crawler',
-        'utils'
+        "data",
+        "data/papers",
+        "data/logs",
+        "data/reports",
+        "crawler",
+        "utils",
     ]
-    
+
     missing_dirs = []
-    
+
     for dir_path in required_dirs:
         path = Path(dir_path)
         if path.exists():
@@ -137,13 +140,14 @@ def check_directories():
             # 创建缺失的目录
             path.mkdir(parents=True, exist_ok=True)
             print(f"🔧 已创建 {dir_path}/")
-    
+
     return True
+
 
 def check_config():
     """检查配置"""
     print("\n⚙️  检查配置...")
-    
+
     try:
         # 检查配置文件是否存在
         config_file = project_root / "config.ini"
@@ -151,16 +155,17 @@ def check_config():
             print("✅ 配置文件存在: config.ini")
         else:
             print("⚠️  配置文件不存在，将使用默认配置")
-        
+
         # 尝试导入配置模块
         from utils.config import Config
+
         config = Config()
-        
+
         print(f"✅ 基础URL: {config.BASE_URL}")
         print(f"✅ 最大文件大小: {config.MAX_FILE_SIZE_MB}MB")
         print(f"✅ 支持的文件类型: {', '.join(config.SUPPORTED_EXTENSIONS)}")
         print(f"✅ 已知会议数量: {len(config.KNOWN_CONFERENCES)}")
-        
+
         return True
     except ImportError as e:
         print(f"❌ 配置模块导入失败: {e}")
@@ -169,31 +174,32 @@ def check_config():
         print(f"❌ 配置检查失败: {e}")
         return False
 
+
 def main():
     """主验证函数"""
     print("=" * 60)
     print("🚀 JACoW 论文爬取器 - 项目验证")
     print("=" * 60)
-    
+
     all_checks_passed = True
-    
+
     # 检查模块导入
     if not check_imports():
         all_checks_passed = False
-    
+
     # 检查依赖
     if not check_dependencies():
         all_checks_passed = False
         print("\n💡 如需安装依赖，请运行: pip install -r requirements.txt")
-    
+
     # 检查目录
     if not check_directories():
         all_checks_passed = False
-    
+
     # 检查配置
     if not check_config():
         all_checks_passed = False
-    
+
     print("\n" + "=" * 60)
     if all_checks_passed:
         print("🎉 所有检查通过！项目已正确设置。")
@@ -205,9 +211,10 @@ def main():
     else:
         print("⚠️  部分检查失败，请检查上述错误信息。")
         return 1
-    
+
     print("=" * 60)
     return 0
+
 
 if __name__ == "__main__":
     sys.exit(main())

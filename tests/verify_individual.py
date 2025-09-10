@@ -12,36 +12,39 @@ print("\n1️⃣ 测试论文类型判断功能")
 
 test_urls = [
     "https://proceedings.jacow.org/ipac2023/pdf/MOPA001.pdf",  # 单篇论文
-    "https://proceedings.jacow.org/ipac2023/pdf/TUPB123.pdf",  # 单篇论文  
+    "https://proceedings.jacow.org/ipac2023/pdf/TUPB123.pdf",  # 单篇论文
     "https://proceedings.jacow.org/ipac2023/pdf/WEPL045.pdf",  # 单篇论文
     "https://proceedings.jacow.org/ipac2023/pdf/ipac-23_proceedings_volume.pdf",  # 论文集
-    "https://proceedings.jacow.org/ipac2023/pdf/ipac-23_proceedings_brief.pdf",   # 论文集
+    "https://proceedings.jacow.org/ipac2023/pdf/ipac-23_proceedings_brief.pdf",  # 论文集
 ]
+
 
 # 实现简单的论文类型判断逻辑
 def is_individual_paper(url):
-    filename = url.split('/')[-1].lower()
-    
+    filename = url.split("/")[-1].lower()
+
     # 排除完整会议论文集
-    exclude_patterns = ['proceedings', 'complete', 'full', 'volume', 'brief']
+    exclude_patterns = ["proceedings", "complete", "full", "volume", "brief"]
     if any(pattern in filename for pattern in exclude_patterns):
         return False
-    
+
     # 单篇论文模式检查
     import re
+
     individual_patterns = [
-        r'^[A-Z]{2,4}[A-Z0-9]{2,6}\.pdf$',
-        r'^[A-Z]{2,6}\d{2,4}\.pdf$',
+        r"^[A-Z]{2,4}[A-Z0-9]{2,6}\.pdf$",
+        r"^[A-Z]{2,6}\d{2,4}\.pdf$",
     ]
-    
+
     for pattern in individual_patterns:
         if re.match(pattern, filename, re.IGNORECASE):
             return True
-    
-    return len(filename) < 20 and bool(re.search(r'\d', filename))
+
+    return len(filename) < 20 and bool(re.search(r"\d", filename))
+
 
 for url in test_urls:
-    filename = url.split('/')[-1]
+    filename = url.split("/")[-1]
     is_individual = is_individual_paper(url)
     result = "✅ 单篇论文" if is_individual else "❌ 论文集"
     print(f"  {filename}: {result}")
