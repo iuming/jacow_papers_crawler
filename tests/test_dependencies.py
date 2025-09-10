@@ -75,18 +75,22 @@ class TestDependencies(unittest.TestCase):
         """测试网络相关依赖包"""
         try:
             import urllib3
+
             print("✅ urllib3导入成功")
-            
+
             try:
                 import fake_useragent
+
                 print("✅ fake_useragent导入成功")
             except (ImportError, TypeError) as e:
                 # fake_useragent在Python 3.8中可能有兼容性问题
                 if "not subscriptable" in str(e):
-                    print("⚠️ fake_useragent与Python 3.8兼容性问题（使用了较新的类型注解）")
+                    print(
+                        "⚠️ fake_useragent与Python 3.8兼容性问题（使用了较新的类型注解）"
+                    )
                 else:
                     print(f"⚠️ fake_useragent导入失败: {e}")
-                    
+
             print("✅ 网络库导入测试完成")
         except ImportError as e:
             self.fail(f"核心网络依赖包导入失败: {e}")
