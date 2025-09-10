@@ -1,15 +1,11 @@
 # JACoW Invincible Paper Crawler
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](#installation)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg)](#features)
 
 **A powerful, asynchronous Python tool for downloading academic papers from JACoW (Joint Accelerator Conferences Website) with intelligent classification and size filtering.**
-
-</div>
 
 ## ✨ Features
 
