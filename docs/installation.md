@@ -4,7 +4,7 @@
 
 Before installing the JACoW Invincible Paper Crawler, ensure you have:
 
-- **Python 3.7 or higher**
+- **Python 3.8 or higher**
 - **pip** package manager
 - **Git** (for development installation)
 - At least **1GB free disk space** for downloads

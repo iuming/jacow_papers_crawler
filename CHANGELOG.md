@@ -40,7 +40,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Verification Tools**: Built-in system verification and testing scripts
 
 ### Technical Highlights
-- **Python 3.7+**: Modern async/await programming patterns
+- **Python 3.8+**: Modern async/await programming patterns
 - **aiohttp**: High-performance asynchronous HTTP client
 - **BeautifulSoup4**: Advanced HTML parsing with data-href support
 - **aiofiles**: Non-blocking file I/O operations

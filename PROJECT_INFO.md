@@ -35,7 +35,7 @@ A powerful, intelligent academic paper crawling and download system specifically
 ## Technical Specifications
 
 ### Core Technologies
-- **Python 3.7+:** Modern async/await programming
+- **Python 3.8+:** Modern async/await programming
 - **aiohttp:** High-performance async HTTP client
 - **BeautifulSoup4:** Advanced HTML parsing with data-href support
 - **aiofiles:** Non-blocking file I/O operations

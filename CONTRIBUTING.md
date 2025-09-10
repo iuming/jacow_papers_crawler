@@ -27,7 +27,7 @@ This project adheres to a code of conduct that promotes a welcoming and inclusiv
 ## Getting Started
 
 ### Prerequisites
-- Python 3.7 or higher
+- Python 3.8 or higher
 - Git
 - Basic knowledge of web scraping and async programming
 

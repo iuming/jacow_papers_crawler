@@ -19,7 +19,7 @@ Development Log:
 - Sept 9, 2025: Enhanced with cross-platform support
 
 Setup Features:
-1. Python Version Checking - Ensures Python 3.7+ compatibility
+1. Python Version Checking - Ensures Python 3.8+ compatibility
 2. Dependency Installation - Installs required packages from requirements.txt
 3. Environment Validation - Checks system compatibility
 4. Directory Structure Creation - Sets up data and log directories
@@ -36,8 +36,8 @@ Installation Process:
 
 Supported Platforms:
 - Windows 10/11 (PowerShell, Command Prompt)
-- macOS (Terminal, with Python 3.7+)
-- Linux (bash, with Python 3.7+)
+- macOS (Terminal, with Python 3.8+)
+- Linux (bash, with Python 3.8+)
 
 Dependencies Managed:
 - aiohttp: Async HTTP client for web requests
@@ -68,8 +68,8 @@ from pathlib import Path
 def check_python_version():
     """检查Python版本"""
     version = sys.version_info
-    if version.major < 3 or (version.major == 3 and version.minor < 7):
-        print("❌ 错误: 需要Python 3.7或更高版本")
+    if version.major < 3 or (version.major == 3 and version.minor < 8):
+        print("❌ 错误: 需要Python 3.8或更高版本")
         print(f"当前版本: {version.major}.{version.minor}.{version.micro}")
         return False
     
