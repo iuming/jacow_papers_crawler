@@ -107,6 +107,12 @@ Usage Examples:
     )
 
     parser.add_argument(
+        "--session",
+        type=str,
+        help="Specify session name (e.g.: MOPA, TUPO, WEPO)",
+    )
+
+    parser.add_argument(
         "--delay",
         type=float,
         default=1.0,

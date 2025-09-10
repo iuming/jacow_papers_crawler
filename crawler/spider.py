@@ -113,15 +113,48 @@ class JACoWSpider:
             if self.logger:
                 self.logger.info(f"找到 {len(conference_links)} 个会议")
 
+            # 调试：显示前几个会议名称以便调试
+            if self.logger and len(conference_links) > 0:
+                self.logger.info("前几个会议名称示例:")
+                for i, link in enumerate(conference_links[:5]):
+                    self.logger.info(f"  {i+1}. {link['name']}")
+
             # 过滤会议
             if self.conference_filter:
-                conference_links = [
-                    link
-                    for link in conference_links
-                    if self.conference_filter.upper() in link["name"].upper()
-                ]
+                self.logger.info(f"正在过滤会议，查找包含 '{self.conference_filter}' 的会议")
+                
+                # 改进的过滤逻辑：支持多种格式匹配
+                filtered_links = []
+                for link in conference_links:
+                    conf_name = link["name"].upper()
+                    filter_upper = self.conference_filter.upper()
+                    
+                    # 直接匹配
+                    if filter_upper in conf_name:
+                        filtered_links.append(link)
+                        continue
+                    
+                    # 尝试分离会议名和年份匹配（如：IPAC2023 -> IPAC + 2023）
+                    import re
+                    match = re.match(r'([A-Z]+)(\d{4})', filter_upper)
+                    if match:
+                        conf_type, year = match.groups()
+                        # 检查会议名和年份是否都匹配
+                        if conf_type in conf_name and year in conf_name:
+                            filtered_links.append(link)
+                            continue
+                    
+                    # 如果用户只输入会议类型（如：IPAC），匹配所有该类型会议
+                    if filter_upper in conf_name.replace(' ', ''):
+                        filtered_links.append(link)
+                
+                conference_links = filtered_links
                 if self.logger:
                     self.logger.info(f"过滤后剩余 {len(conference_links)} 个会议")
+                    if len(conference_links) > 0:
+                        self.logger.info("匹配的会议:")
+                        for link in conference_links:
+                            self.logger.info(f"  - {link['name']}")
 
             # 爬取每个会议的论文
             for conf_link in conference_links:
