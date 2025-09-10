@@ -3,6 +3,8 @@ site_description: Intelligent academic paper crawler for JACoW conferences
 site_author: Ming Liu
 site_url: https://iuming.github.io/jacow_papers_crawler/
 
+docs_dir: docs
+
 theme:
   name: material
   palette:
@@ -19,21 +21,19 @@ plugins:
   - mermaid2
 
 nav:
-  - Home: README.md
+  - Home: index.md
   - Documentation:
-    - Installation: docs/installation.md
-    - Usage Guide: docs/usage.md
-    - Individual Papers: docs/Individual_Paper_Download_Guide.md
-    - Conference Download: docs/Conference_Download_Guide.md
-    - Testing Guide: docs/Conference_Download_Testing_Guide.md
-    - Configuration: docs/configuration.md
-    - Project Summary: docs/PROJECT_SUMMARY.md
-  - Examples:
-    - Example Script: examples/example.py
+    - Installation: installation.md
+    - Usage Guide: usage.md
+    - Individual Papers: Individual_Paper_Download_Guide.md
+    - Conference Download: Conference_Download_Guide.md
+    - Testing Guide: Conference_Download_Testing_Guide.md
+    - Configuration: configuration.md
+    - Project Summary: PROJECT_SUMMARY.md
+    - Recommended Usage: Recommended_Usage_Guide.md
   - Project Info:
     - Contributing: CONTRIBUTING.md
     - Changelog: CHANGELOG.md
-    - Python Version Update: PYTHON_VERSION_UPDATE.md
 
 markdown_extensions:
   - admonition
