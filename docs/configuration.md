@@ -355,4 +355,4 @@ python main.py --verbose --dry-run 2>&1 | grep -i config
 **Related Documentation**:
 - [Installation Guide](installation.md)
 - [Usage Guide](usage.md)
-- [API Reference](api.md)
+- [Usage Guide](usage.md)

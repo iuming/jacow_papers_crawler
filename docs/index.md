@@ -138,7 +138,7 @@ We welcome contributions! Whether it's:
 - 📝 Documentation improvements
 - 🔧 Code contributions
 
-See our [Contributing Guidelines](../CONTRIBUTING.md) for details.
+See our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ## 📄 License
 

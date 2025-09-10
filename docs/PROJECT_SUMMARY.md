@@ -41,7 +41,7 @@ scrcpy_JACoW/
 ├── ⚙️ config.ini               # 配置文件
 ├── 🐳 Dockerfile              # Docker配置
 ├── 📖 README.md               # 项目说明
-├── 📋 USAGE.md                # 详细使用指南
+├── 📋 usage.md                # 详细使用指南
 ├── 📄 LICENSE                 # MIT许可证
 ├── 📦 crawler/                # 爬虫核心模块
 │   ├── spider.py              # 网页爬虫
@@ -246,7 +246,7 @@ python main.py --year 2023 --conference IPAC --verbose
 ---
 
 **如果遇到任何问题，请查看：**
-- 📖 [详细使用指南](USAGE.md)
+- 📖 [详细使用指南](usage.md)
 - 🧪 运行 `python test.py` 检查功能
 - 🔍 运行 `python verify.py` 验证设置
 - 📋 查看 `python main.py --help` 获取帮助
