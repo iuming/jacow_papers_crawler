@@ -1,0 +1,45 @@
+site_name: JACoW Invincible Paper Crawler
+site_description: Intelligent academic paper crawler for JACoW conferences
+site_author: Ming Liu
+site_url: https://iuming.github.io/jacow_papers_crawler/
+
+theme:
+  name: material
+  palette:
+    primary: blue
+    accent: light-blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+
+plugins:
+  - search
+  - mermaid2
+
+nav:
+  - Home: README.md
+  - Documentation:
+    - Installation: docs/installation.md
+    - Usage Guide: docs/usage.md
+    - Individual Papers: docs/Individual_Paper_Download_Guide.md
+    - Conference Download: docs/Conference_Download_Guide.md
+    - Testing Guide: docs/Conference_Download_Testing_Guide.md
+    - Configuration: docs/configuration.md
+    - Project Summary: docs/PROJECT_SUMMARY.md
+  - Examples:
+    - Example Script: examples/example.py
+  - Project Info:
+    - Contributing: CONTRIBUTING.md
+    - Changelog: CHANGELOG.md
+    - Python Version Update: PYTHON_VERSION_UPDATE.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid

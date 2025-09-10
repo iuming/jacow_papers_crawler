@@ -1,0 +1,35 @@
+version: 2
+updates:
+  # 监控 GitHub Actions 更新
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "02:00"
+    open-pull-requests-limit: 5
+    assignees:
+      - "iuming"
+    commit-message:
+      prefix: "ci"
+      include: "scope"
+
+  # 监控 Python 依赖更新
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "sunday"
+      time: "03:00"
+    open-pull-requests-limit: 10
+    assignees:
+      - "iuming"
+    commit-message:
+      prefix: "deps"
+      include: "scope"
+    # 忽略某些包的主要版本更新
+    ignore:
+      - dependency-name: "pandas"
+        update-types: ["version-update:semver-major"]
+      - dependency-name: "aiohttp"
+        update-types: ["version-update:semver-major"]
