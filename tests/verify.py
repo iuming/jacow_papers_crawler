@@ -60,6 +60,10 @@ import sys
 import importlib
 from pathlib import Path
 
+# 添加项目根目录到 Python 路径
+project_root = Path(__file__).parent.parent
+sys.path.insert(0, str(project_root))
+
 def check_imports():
     """检查所有模块是否可以正确导入"""
     print("🔍 检查模块导入...")
@@ -141,6 +145,14 @@ def check_config():
     print("\n⚙️  检查配置...")
     
     try:
+        # 检查配置文件是否存在
+        config_file = project_root / "config.ini"
+        if config_file.exists():
+            print("✅ 配置文件存在: config.ini")
+        else:
+            print("⚠️  配置文件不存在，将使用默认配置")
+        
+        # 尝试导入配置模块
         from utils.config import Config
         config = Config()
         
@@ -150,6 +162,9 @@ def check_config():
         print(f"✅ 已知会议数量: {len(config.KNOWN_CONFERENCES)}")
         
         return True
+    except ImportError as e:
+        print(f"❌ 配置模块导入失败: {e}")
+        return False
     except Exception as e:
         print(f"❌ 配置检查失败: {e}")
         return False

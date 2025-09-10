@@ -1,0 +1,73 @@
+# JACoW Invincible Paper Crawler - Code Owners
+# 
+# 此文件定义了代码所有者，当创建 Pull Request 时会自动分配审查者
+# 更多信息：https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# 全局代码所有者 - 所有文件的默认审查者
+* @iuming
+
+# 核心爬虫代码
+/crawler/ @iuming
+/crawler/*.py @iuming
+
+# 工具模块
+/utils/ @iuming
+/utils/*.py @iuming
+
+# 主要脚本
+/main.py @iuming
+/setup.py @iuming
+
+# 测试代码
+/tests/ @iuming
+/tests/*.py @iuming
+
+# 示例代码
+/examples/ @iuming
+
+# 脚本文件
+/scripts/ @iuming
+
+# 配置文件
+*.yml @iuming
+*.yaml @iuming
+*.toml @iuming
+*.ini @iuming
+requirements*.txt @iuming
+
+# CI/CD 配置
+/.github/ @iuming
+/.github/workflows/ @iuming
+/.github/workflows/*.yml @iuming
+
+# Docker 相关
+Dockerfile @iuming
+docker-compose.yml @iuming
+.dockerignore @iuming
+
+# 文档
+*.md @iuming
+/docs/ @iuming
+/docs/*.md @iuming
+
+# Git 配置
+.gitignore @iuming
+.gitattributes @iuming
+
+# 代码质量配置
+.pre-commit-config.yaml @iuming
+.flake8 @iuming
+.pylintrc @iuming
+
+# IDE 配置
+.vscode/ @iuming
+.idea/ @iuming
+
+# 许可和安全
+LICENSE @iuming
+SECURITY.md @iuming
+CONTRIBUTING.md @iuming
+
+# 项目元数据
+PROJECT_INFO.md @iuming
+CHANGELOG.md @iuming

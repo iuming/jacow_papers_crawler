@@ -31,10 +31,10 @@
 - [ ] Windows
 - [ ] macOS  
 - [ ] Linux
-- [ ] Python 3.8
-- [ ] Python 3.8
 - [ ] Python 3.9
-- [ ] Python 3.10+
+- [ ] Python 3.10
+- [ ] Python 3.11
+- [ ] Python 3.12
 
 ### Test Scenarios
 <!-- Describe what you tested -->
@@ -58,7 +58,7 @@ python main.py --dry-run --year 2023
 
 ## Checklist
 <!-- Mark with an "x" all that apply -->
-- [ ] My code follows the project's style guidelines
+- [ ] My code follows the project's style guidelines (black, flake8)
 - [ ] I have performed a self-review of my own code
 - [ ] I have commented my code, particularly in hard-to-understand areas
 - [ ] I have made corresponding changes to the documentation
@@ -66,6 +66,13 @@ python main.py --dry-run --year 2023
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published
+- [ ] All CI checks are passing (required for merge)
+
+## Branch Protection Status
+<!-- These will be automatically checked by GitHub -->
+- [ ] All required status checks are passing
+- [ ] Branch is up to date with base branch
+- [ ] No merge conflicts
 
 ## Conference Testing
 <!-- If applicable, specify which conferences/years you tested -->

@@ -77,6 +77,7 @@ jobs:
 
     - name: Run verification script
       run: |
+        cd ${{ github.workspace }}
         python tests/verify.py
 
     - name: Run unit tests with pytest
