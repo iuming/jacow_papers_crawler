@@ -70,12 +70,18 @@ def safe_print(text, fallback=None):
     try:
         print(text)
     except UnicodeEncodeError:
+        # 首先尝试fallback
         if fallback:
-            print(fallback)
+            try:
+                print(fallback)
+            except UnicodeEncodeError:
+                # 如果fallback也失败，使用ASCII安全版本
+                ascii_fallback = "".join(char for char in fallback if ord(char) < 128)
+                print(ascii_fallback if ascii_fallback else "ASCII conversion failed")
         else:
-            # 移除中文字符和emoji，只保留ASCII字符
+            # 移除所有非ASCII字符
             ascii_text = "".join(char for char in text if ord(char) < 128)
-            print(ascii_text)
+            print(ascii_text if ascii_text else "ASCII conversion failed")
 
 
 def check_imports():
@@ -120,11 +126,11 @@ def check_dependencies():
     for dep, desc in dependencies:
         try:
             importlib.import_module(dep)
-            safe_print(f"✅ {dep} ({desc})", f"+ {dep} ({desc})")
+            safe_print(f"✅ {dep} ({desc})", f"+ {dep}")
         except ImportError:
             safe_print(
                 f"❌ {dep} ({desc}) - 需要安装",
-                f"- {dep} ({desc}) - needs installation",
+                f"- {dep} - needs installation",
             )
             failed_deps.append(dep)
 
