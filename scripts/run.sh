@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bas    echo "错误: 未找到Python3，请先安装Python 3.9+"
 # JACoW 论文爬取器 Linux/Mac 启动脚本
 
 echo "================================"

@@ -24,7 +24,7 @@ class TestPythonCompatibility(unittest.TestCase):
         """测试Python版本是否满足要求"""
         version = sys.version_info
         self.assertGreaterEqual(version.major, 3, "需要Python 3.x")
-        self.assertGreaterEqual(version.minor, 8, "需要Python 3.8或更高版本")
+        self.assertGreaterEqual(version.minor, 9, "需要Python 3.9或更高版本")
         print(f"✅ Python版本检查通过: {version.major}.{version.minor}.{version.micro}")
     
     def test_asyncio_support(self):
@@ -81,10 +81,10 @@ class TestPythonCompatibility(unittest.TestCase):
             self.assertEqual(filtered, [6, 8, 10])
             print("✅ 海象操作符支持正常")
         except SyntaxError:
-            self.fail("海象操作符不支持，需要Python 3.8+")
+            self.fail("海象操作符不支持，需要Python 3.9+")
     
     def test_positional_only_parameters(self):
-        """测试仅位置参数支持（Python 3.8+）"""
+        """测试仅位置参数支持（Python 3.9+）"""
         def test_func(a, b, /, c=None):
             return a + b + (c or 0)
         

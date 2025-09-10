@@ -41,7 +41,7 @@ python main.py --conference "IPAC2023" --session "MOPA"
 ## 🔧 Installation
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.9+
 - pip package manager
 
 ### From Source

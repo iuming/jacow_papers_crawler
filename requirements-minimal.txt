@@ -1,0 +1,22 @@
+# =============================================================================
+# JACoW Invincible Paper Crawler - Minimal Dependencies for Testing
+# Author: Ming Liu <mliu@ihep.ac.cn>
+# Created: Sept 10, 2025
+# Description: Minimal required packages for basic functionality testing
+# =============================================================================
+
+# Core dependencies that should always work
+requests>=2.25.0
+beautifulsoup4>=4.9.0
+lxml>=4.6.0
+tqdm>=4.50.0
+
+# Python 3.9+ compatible data processing
+pandas>=2.0.0,<2.2.0
+openpyxl>=3.0.0
+
+# Network utilities
+urllib3>=1.26.0,<2.1.0
+
+# Console output
+rich>=12.0.0

@@ -2,13 +2,13 @@
 
 ## 背景
 
-由于 GitHub Actions 在 Ubuntu 24.04 上不再支持 Python 3.7，我们将项目的最低 Python 版本要求从 3.7 更新到 3.8。
+由于 GitHub Actions 在 Ubuntu 24.04 上不再支持 Python 3.7，以及现代依赖包（如 pandas 2.x）需要更高版本，我们将项目的最低 Python 版本要求从 3.7 更新到 3.9。
 
 ## 更改内容
 
 ### 1. CI/CD 配置更新 (`.github/workflows/ci.yml`)
-- 移除了 Python 3.7 的测试
-- 添加了 Python 3.12 的测试
+- 移除了 Python 3.7 和 3.8 的测试
+- 现在测试 Python 3.9, 3.10, 3.11, 3.12
 - 更新了矩阵配置以避免不支持的组合
 - 添加了 Python 兼容性测试步骤
 

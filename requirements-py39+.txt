@@ -1,0 +1,37 @@
+# =============================================================================
+# JACoW Invincible Paper Crawler - Python 3.9+ Dependencies
+# Author: Ming Liu <mliu@ihep.ac.cn>
+# Created: Sept 10, 2025
+# Description: Optimized dependencies for Python 3.9+ with latest features
+# =============================================================================
+
+# Core HTTP and async libraries
+requests>=2.31.0          # HTTP library for web requests
+aiohttp>=3.9.0            # Async HTTP client for concurrent operations  
+aiofiles>=23.2.0          # Async file I/O operations
+
+# Web scraping and parsing
+beautifulsoup4>=4.12.0    # HTML/XML parsing for data extraction
+lxml>=4.9.3               # Fast XML/HTML parser backend
+selenium>=4.15.0          # Web browser automation (optional)
+webdriver-manager>=4.0.0  # Automatic web driver management
+
+# Data processing and utilities
+pandas>=2.1.0             # Data analysis and manipulation (latest features)
+openpyxl>=3.1.0           # Excel file reading/writing support
+python-dateutil>=2.8.2    # Enhanced date/time handling
+
+# Network and utilities
+urllib3>=2.0.0            # HTTP client utilities
+fake-useragent>=1.4.0     # User agent rotation for web scraping
+
+# User interface and progress
+tqdm>=4.66.0              # Progress bars for long operations
+rich>=13.0.0              # Rich console output and formatting
+
+# Development dependencies (optional)
+pytest>=7.0.0             # Testing framework
+pytest-cov>=4.0.0         # Coverage reporting
+black>=23.0.0             # Code formatting
+flake8>=6.0.0             # Code linting
+bandit>=1.7.0             # Security analysis

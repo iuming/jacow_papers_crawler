@@ -32,7 +32,7 @@ Usage:
     python main.py --help
 
 Dependencies:
-    - Python 3.8+
+    - Python 3.9+
     - aiohttp for async HTTP requests
     - aiofiles for async file operations
     - BeautifulSoup4 for HTML parsing
