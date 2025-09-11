@@ -21,6 +21,7 @@
 - 💾 **Size Control**: Configurable file size limits to avoid unwanted large files (default: 100MB)
 - 🚦 **Rate Limiting**: Respectful downloading with configurable delays and retry logic
 - 📊 **Progress Tracking**: Real-time download progress with rich console output
+- 🤖 **GitHub Actions**: Automated scheduled downloads with configurable parameters
 - 🐳 **Docker Support**: Complete containerization for easy deployment
 - 🔧 **Flexible Configuration**: Multiple configuration methods (CLI, files, environment variables)
 
@@ -70,11 +71,31 @@ python main.py --individual --conference "IPAC2023" --dry-run
 python main.py --individual --conference "IPAC2023" --session "MOPA"
 ```
 
+## 🤖 Automated Downloads with GitHub Actions
+
+This project includes a powerful GitHub Action that can automatically download JACoW conference papers on a schedule or on-demand. Perfect for keeping your paper collection up-to-date without manual intervention.
+
+### Quick Setup
+1. Fork this repository
+2. Go to `Actions` → `Download JACoW Conference Papers`
+3. Click `Run workflow` and configure your parameters
+4. Papers will be downloaded to the `data/papers` directory
+
+### Features
+- 📅 **Scheduled Downloads**: Automatic weekly downloads of new papers
+- 🎛️ **Flexible Configuration**: Filter by conference, year, and paper count
+- 📊 **Detailed Reporting**: Comprehensive download statistics and logs
+- 💾 **Artifact Storage**: Downloaded papers saved as GitHub artifacts
+- 🚨 **Failure Notifications**: Automatic issue creation on errors
+
+[📖 Read the complete GitHub Action guide](docs/GitHub_Action_Download_Guide.md)
+
 ## 📖 Documentation
 
 - [Installation Guide](docs/installation.md) - Detailed setup instructions
 - [Usage Guide](docs/usage.md) - Comprehensive usage examples
 - [Configuration Guide](docs/configuration.md) - Configuration options
+- [GitHub Action Guide](docs/GitHub_Action_Download_Guide.md) - Automated paper downloads
 - [Contributing Guidelines](CONTRIBUTING.md) - How to contribute
 
 ## 🛠 Installation

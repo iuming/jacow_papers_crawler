@@ -1,0 +1,303 @@
+# =============================================================================
+# JACoW Invincible Paper Crawler - Automated Paper Download
+# Author: Ming Liu <mliu@ihep.ac.cn>
+# Created: Sept 11, 2025
+# Description: GitHub Actions workflow for automated conference paper downloads
+# =============================================================================
+
+name: Download JACoW Conference Papers
+
+on:
+  # Manual trigger with configuration options
+  workflow_dispatch:
+    inputs:
+      conference:
+        description: 'Conference name (e.g., IPAC, LINAC, PAC). Leave empty for all conferences'
+        required: false
+        default: ''
+        type: string
+      year:
+        description: 'Year to download (e.g., 2023). Leave empty for all years'
+        required: false
+        default: ''
+        type: string
+      max_papers:
+        description: 'Maximum number of papers to download (0 for no limit)'
+        required: false
+        default: '0'
+        type: string
+      dry_run:
+        description: 'Dry run mode (preview only, no actual downloads)'
+        required: false
+        default: false
+        type: boolean
+      max_size_mb:
+        description: 'Maximum file size in MB'
+        required: false
+        default: '100'
+        type: string
+  
+  # Scheduled run - weekly on Sundays at 3:00 AM UTC
+  schedule:
+    - cron: '0 3 * * 0'
+
+jobs:
+  download-papers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360  # 6 hours timeout
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Cache pip dependencies
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Create data directories
+      run: |
+        mkdir -p data/papers
+        mkdir -p data/logs
+        mkdir -p data/reports
+
+    - name: Prepare download parameters
+      id: params
+      run: |
+        # Set default values for scheduled runs
+        if [ "${{ github.event_name }}" = "schedule" ]; then
+          echo "conference=" >> $GITHUB_OUTPUT
+          echo "year=" >> $GITHUB_OUTPUT
+          echo "max_papers=500" >> $GITHUB_OUTPUT
+          echo "dry_run=false" >> $GITHUB_OUTPUT
+          echo "max_size_mb=100" >> $GITHUB_OUTPUT
+        else
+          # Use workflow_dispatch inputs
+          echo "conference=${{ github.event.inputs.conference }}" >> $GITHUB_OUTPUT
+          echo "year=${{ github.event.inputs.year }}" >> $GITHUB_OUTPUT
+          echo "max_papers=${{ github.event.inputs.max_papers }}" >> $GITHUB_OUTPUT
+          echo "dry_run=${{ github.event.inputs.dry_run }}" >> $GITHUB_OUTPUT
+          echo "max_size_mb=${{ github.event.inputs.max_size_mb }}" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Download papers (Individual Papers Mode)
+      run: |
+        # Build command with parameters
+        cmd="python main.py --individual-papers --verbose"
+        
+        # Add conference filter if specified
+        if [ -n "${{ steps.params.outputs.conference }}" ]; then
+          cmd="$cmd --conference ${{ steps.params.outputs.conference }}"
+        fi
+        
+        # Add year filter if specified
+        if [ -n "${{ steps.params.outputs.year }}" ]; then
+          cmd="$cmd --year ${{ steps.params.outputs.year }}"
+        fi
+        
+        # Add max papers limit if specified and not 0
+        if [ -n "${{ steps.params.outputs.max_papers }}" ] && [ "${{ steps.params.outputs.max_papers }}" != "0" ]; then
+          cmd="$cmd --max-papers ${{ steps.params.outputs.max_papers }}"
+        fi
+        
+        # Add dry run if specified
+        if [ "${{ steps.params.outputs.dry_run }}" = "true" ]; then
+          cmd="$cmd --dry-run"
+        fi
+        
+        # Add max size
+        cmd="$cmd --max-size ${{ steps.params.outputs.max_size_mb }}"
+        
+        # Add other parameters
+        cmd="$cmd --concurrent 3 --delay 2.0 --resume"
+        
+        echo "Executing command: $cmd"
+        eval $cmd
+      env:
+        PYTHONPATH: ${{ github.workspace }}
+
+    - name: Check download results
+      run: |
+        echo "=== Download Results ==="
+        echo "Papers directory:"
+        ls -la data/papers/ || echo "No papers directory found"
+        
+        echo "Logs directory:"
+        ls -la data/logs/ || echo "No logs directory found"
+        
+        echo "Reports directory:"
+        ls -la data/reports/ || echo "No reports directory found"
+        
+        # Count downloaded files
+        if [ -d "data/papers" ]; then
+          paper_count=$(find data/papers -name "*.pdf" | wc -l)
+          echo "Total PDF files downloaded: $paper_count"
+          
+          # Calculate total size
+          total_size=$(find data/papers -name "*.pdf" -exec ls -l {} \; | awk '{sum+=$5} END {printf "%.2f MB\n", sum/1024/1024}')
+          echo "Total size: $total_size"
+        fi
+
+    - name: Generate download summary
+      if: always()
+      run: |
+        # Create a summary file
+        summary_file="download_summary_$(date +%Y%m%d_%H%M%S).md"
+        
+        cat > "$summary_file" << EOF
+        # JACoW Paper Download Summary
+        
+        **Date:** $(date)
+        **Trigger:** ${{ github.event_name }}
+        **Repository:** ${{ github.repository }}
+        **Commit:** ${{ github.sha }}
+        
+        ## Parameters
+        - Conference: ${{ steps.params.outputs.conference || 'All' }}
+        - Year: ${{ steps.params.outputs.year || 'All' }}
+        - Max Papers: ${{ steps.params.outputs.max_papers || 'No limit' }}
+        - Max Size: ${{ steps.params.outputs.max_size_mb }} MB
+        - Dry Run: ${{ steps.params.outputs.dry_run }}
+        
+        ## Results
+        EOF
+        
+        if [ -d "data/papers" ]; then
+          paper_count=$(find data/papers -name "*.pdf" | wc -l || echo "0")
+          total_size=$(find data/papers -name "*.pdf" -exec ls -l {} \; 2>/dev/null | awk '{sum+=$5} END {printf "%.2f", sum/1024/1024}' || echo "0")
+          
+          echo "- **Papers Downloaded:** $paper_count" >> "$summary_file"
+          echo "- **Total Size:** ${total_size} MB" >> "$summary_file"
+        else
+          echo "- **Papers Downloaded:** 0" >> "$summary_file"
+          echo "- **Total Size:** 0 MB" >> "$summary_file"
+        fi
+        
+        # Add error information if available
+        if [ -f "data/logs/crawler.log" ]; then
+          error_count=$(grep -c "ERROR" data/logs/crawler.log || echo "0")
+          warning_count=$(grep -c "WARNING" data/logs/crawler.log || echo "0")
+          echo "- **Errors:** $error_count" >> "$summary_file"
+          echo "- **Warnings:** $warning_count" >> "$summary_file"
+        fi
+        
+        echo "" >> "$summary_file"
+        echo "## Download Directory Structure" >> "$summary_file"
+        echo '```' >> "$summary_file"
+        if [ -d "data/papers" ]; then
+          find data/papers -type f -name "*.pdf" | head -20 >> "$summary_file"
+          total_files=$(find data/papers -type f -name "*.pdf" | wc -l)
+          if [ "$total_files" -gt 20 ]; then
+            echo "... and $(($total_files - 20)) more files" >> "$summary_file"
+          fi
+        else
+          echo "No files downloaded" >> "$summary_file"
+        fi
+        echo '```' >> "$summary_file"
+        
+        # Output to GitHub Summary
+        cat "$summary_file" >> $GITHUB_STEP_SUMMARY
+
+    - name: Upload downloaded papers as artifact (if not dry run)
+      if: steps.params.outputs.dry_run != 'true' && always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: jacow-papers-${{ github.run_id }}
+        path: |
+          data/papers/**/*.pdf
+          data/reports/**/*
+        retention-days: 30
+        compression-level: 6
+
+    - name: Upload logs as artifact
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: download-logs-${{ github.run_id }}
+        path: |
+          data/logs/**/*
+        retention-days: 7
+
+    - name: Commit and push downloaded papers (if enabled)
+      if: steps.params.outputs.dry_run != 'true' && github.event_name == 'schedule'
+      run: |
+        # Configure git (use GitHub Actions bot)
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Check if there are any new files to commit
+        git add data/papers/ data/reports/
+        
+        if git diff --cached --quiet; then
+          echo "No new papers to commit"
+        else
+          # Count new papers
+          paper_count=$(find data/papers -name "*.pdf" | wc -l || echo "0")
+          
+          # Create commit message
+          commit_msg="Auto-download: Added $paper_count JACoW papers
+
+          - Download date: $(date)
+          - Papers count: $paper_count
+          - Trigger: ${{ github.event_name }}
+          - Commit: ${{ github.sha }}"
+          
+          git commit -m "$commit_msg"
+          
+          # Push changes
+          git push
+          
+          echo "✅ Successfully committed and pushed $paper_count papers"
+        fi
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Create issue on failure
+      if: failure() && github.event_name == 'schedule'
+      uses: actions/github-script@v7
+      with:
+        script: |
+          const title = `🚨 Automated paper download failed - ${new Date().toISOString().split('T')[0]}`;
+          const body = `
+          ## Download Failure Report
+          
+          The automated JACoW paper download failed during the scheduled run.
+          
+          **Details:**
+          - **Run ID:** ${{ github.run_id }}
+          - **Date:** ${new Date().toISOString()}
+          - **Workflow:** ${{ github.workflow }}
+          - **Repository:** ${{ github.repository }}
+          
+          **Parameters:**
+          - Conference: ${{ steps.params.outputs.conference || 'All' }}
+          - Year: ${{ steps.params.outputs.year || 'All' }}
+          - Max Papers: ${{ steps.params.outputs.max_papers || 'No limit' }}
+          
+          **Action Required:**
+          Please check the [workflow logs](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}) for detailed error information.
+          
+          ---
+          *This issue was automatically created by GitHub Actions*
+          `;
+          
+          await github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: title,
+            body: body,
+            labels: ['bug', 'automated', 'download-failure']
+          });
