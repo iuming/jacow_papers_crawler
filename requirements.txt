@@ -28,7 +28,7 @@ fake-useragent>=1.2.0,<1.5.0  # User agent rotation for web scraping
 
 # User interface and progress
 tqdm>=4.64.0,<4.67.0      # Progress bars for long operations
-rich>=12.0.0,<14.0.0      # Rich console output and formatting
+rich>=12.0.0,<15.0.0      # Rich console output and formatting
 
 # Installation:
 #   pip install -r requirements.txt
