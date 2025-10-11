@@ -1,0 +1,370 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: FRBR (Experiment Control)
+
+
+FRBR —  Experiment Control   (22-Oct-21   13:30—15:00)
+Chair: R. Mueller, HZB, Berlin, Germany
+
+
+
+FRBR
+   Video of full session  »Experiment Control« (total time: 01:32:42 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+FRBR01
+Process Automation at SOLEIL: Two Applications Using Robot Manipulators
+1054
+
+
+ 
+
+L.E. Munoz, Y.-M. Abiven, F. Briquez, J. Da Silva, E. Elkaim, A. Noureddine, V. Pinty, M. Valléau
+                       SOLEIL, Gif-sur-Yvette, France
+S. Bouvel
+                       EFOR, Levallois Perret, France
+
+ 
+
+
+ 
+
+Robot manipulators are an important component in most autonomous systems in the industry. Arc welding, machine tending, painting, picking, are only some examples where the robot manipulators are widely employed. In Synchrotrons some process can benefit from robotic approaches in order to improve automation. Automatic Sample Changer on beamlines is the most common example of automation. This paper describes two robotic applications developed at Synchrotron SOLEIL. Both applications use the SOLEIL robotic standard introduced some years ago [1]. The first application aims to automate the exchange of samples for powder diffraction experiment on the CRISTAL beamline. Hence, a pick-and-place robot is used to automate the process of picking up the sample holders and placing them on the goniometer. The second application, also of the pick-and-place type, is dedicated to the automation of the magnetic characterization of magnet modules of an U15 undulator. These modules, built with a permanent magnet and two poles, are measured using a pulsed wire method [2]. In this case, the robot picks the modules stored in boxes to then place them on the test bench of the U15 undulator.
+*Y.-M. Abiven et al., Robotizing SOLEIL Beamlines to Improve Experiments Automation  **M. Valléau, et al., Measurements of soleil insertion devices using pulsed wire method  
+
+ 
+
+
+
+
+
+
+Slides FRBR01 [4.934 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-FRBR01
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 27 October 2021       
+Accepted ※ 21 December 2021        Issue date ※ 19 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRBR02
+An Integrated Data Processing and Management Platform for X-Ray Light Source Operations*
+1059
+
+
+ 
+
+N.M. Cook, E.G. Carlin, P. Moeller, R. Nagler, B. Nash
+                       RadiaSoft LLC, Boulder, Colorado, USA
+A.M. Barbour, M.S. Rakitin, L. Wiegart
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Advanced Scientific Computing Research under Award Number DE-SC00215553.
+The design, execution, and analysis of light source experiments requires the use of increasingly complex simulation, controls and data management tools. Existing workflows require significant specialization to account for beamline-specific operations and pre-processing steps in order to collect and prepare data for more sophisticated analysis. Recent efforts to address these needs at the National Synchrotron Light Source II (NSLS-II) have resulted in the creation of the Bluesky data collection framework*, an open-source library providing for experimental control and scientific data collection via high level abstraction of experimental procedures, instrument readouts, and data analysis. We present a prototype data management interface that couples with Bluesky to support guided simulation, measurement, and rapid processing operations. Initial demonstrations illustrate application to coherent X-ray scattering beamlines at the NSLS-II. We then discuss extensions of this interface to permit analysis operations across distributed computing resources, including the use of the Sirepo scientific framework, as well as Jupyter notebooks running on remote computing clusters**.
+* M.S. Rakitin et al., Proc. SPIE 11493, Advances in Computational Methods for X-Ray Optics V, p. 1149311, Aug 2020. ** M.S. Rakitin et al., Journal of Synchrotron Radiation, vol. 25, pp. 1877-1892, Nov 2018.
+
+ 
+
+
+
+
+
+
+Slides FRBR02 [8.627 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-FRBR02
+
+ 
+
+
+About •
+Received ※ 21 October 2021       Revised ※ 27 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 24 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRBR03
+Status of Bluesky Deployment at BESSY II
+1064
+
+
+ 
+
+W. Smith, S. Kazarski, R. Müller, P. Schnizer, S. Vadilonga, L. Vera Ramiréz
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+The modernization plan for the experimental DAQ at the BESSY II is underpinned by the capabilities provided by the Bluesky software ecosystem. To interface with the hardware Bluesky relies on the Ophyd library, that provides a consistent high-level interface across a wide-range of devices. Many elements of the accelerator, some beamlines and endstations are adopting the Bluesky software. To meet FAIR data obligations, the capture of metadata with Bluesky and the export into a permanent and easily accessible storage called ICAT are investigated. Finally, initial studies to investigate the integration of ML methods, like reinforcement learning were performed. This paper reports on the work that has been done so far at BESSY II to adopt Bluesky, problems that have been overcome and lessons learned.
+
+ 
+
+
+
+
+
+
+Slides FRBR03 [2.338 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-FRBR03
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Revised ※ 20 October 2021       
+Accepted ※ 22 December 2021        Issue date ※ 25 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRBR04
+Continuous Scans with Position Based Hardware Triggers
+1069
+
+
+ 
+
+H. Enquist, A. Bartalesi, B. Bertrand, J. Forsberg, Á. Freitas, V. Hardion, M. Lindberg, C. Takahashi
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+At beamline end-stations, data taking that relies on traditional step scanning, in which motors are repeatedly started and stopped, leads to inefficient usage of the x-ray source. This also increases the risk of sample radiation damage. We have developed a system where scans are performed while continuously moving the motors. To ensure stable repeatable measurements, the detector triggers are generated, in hardware, from the motor encoder positions. Before the scan starts, a list of positions is generated and as the scan progresses a trigger is produced as each successive position in the list is reached. The encoder signals from the motors are connected both to the IcePAP motion controller for closed loop operation, and a PandABox which is used as the trigger source. Control is from Tango and Sardana with a TriggerGate controller that calculates the motor positions and configures the PandABox. The scanned motor can be either a single motor, for example a sample positioner, or a combined motion like a monochromator. When combined motions are required, these make use of the parametric trajectory mode of the IcePAP. This enables continuous scans of coupled axes with non-linear paths.
+
+ 
+
+
+
+
+
+
+Slides FRBR04 [1.685 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-FRBR04
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 14 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 13 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRBR05
+Hexapod Control Upgrade at Synchrotron Soleil: Method and Results
+ 
+
+
+ 
+
+L. Amelineau, Y.-M. Abiven, C.B. Bourgoin, D.C. Corruble, C. Engblompresenter, B. Leluan, A. Lestrade, F. Polack, M. Sebdaoui
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+A Stewart Platform, a hexapod parallel robot variant, is comprised of six actuators providing movements in six degrees-of-freedom. In order to facilitate operation and maintenance, Low-level control has been successfully transferred from its original proprietary controller to a SOLEIL-standardized controller (Delta Tau Power Brick). Low-level control includes direct and reverse kinematics which can be adapted and tuned to the specific mechanical/geometric features of any Stewart Platform of similar build. The embedded (and therefore generic to Stewart Platforms) software also interfaces with generic and existing Tango devices making it easily accessible by users. The transition from ’black-box’ hardware and embedded software to standardized controllers with fully mastered control kinematics, provides hexapod users with SOLEIL durable operational support and maintenance. Dimensional metrology of the hexapod has shown dynamic and static performance to be equivalent to the old system. A new metrological method linking measurements and kinematics has been developed to compensate mechanical imperfections in order to improve performance. This paper will present the results of this work.
+
+ 
+
+
+
+
+
+
+Slides FRBR05 [5.391 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRBR06
+Automated ML-based Sample Centering for Macromolecular X-Ray Crystallography with MXAimbot
+ 
+
+
+ 
+
+I. Lindhé, O. Aurelius, M. Eguiraun, A. Gonzalez, E. Jagudin, G. Lima, Z. Matej, J. Nan, J. Schurmann
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+J.W. Janneck
+                       Lund Institute of Technology (LTH), Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+MXAimbot is a neural network based tool, designed to automate the task of centering samples for macro-molecular X-ray crystallography experiments before exposing the sample to the beam. MXAimbot uses a convolutional neural network (CNN) trained on a few thousands images from an industrial vision camera pointed at the sample to predict suitable crystal centering for subsequent X-ray data collection. The motivation for this project is that the machine vision automated sample positioning allows X-ray laboratories and synchrotron beamlines to offer a more efficient alternative for the manual centering, which is time consuming and difficult to automate with conventional image analysis, and for the X-ray mesh scan centering, which can introduce radiation damage to the crystal. MXAimbot can be used to improve results of standard LUCID loop centering for fully automated data collection in fragment-screening campaigns. No need for sample rotation should be an additional advantage.
+
+ 
+
+
+
+
+
+
+Slides FRBR06 [12.433 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,85 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: MOSH3 (Speakers’ Corner)
+
+
+MOSH3 —  Speakers’ Corner   (07-Oct-19   17:00—18:45)
+Chair: S. Nemesure, BNL, Upton, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+MOSH3001
+An EPICS Channel Access Implementation on Siemens PLCs
+648
+
+
+MOPHA018
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Boros
+                       evopro Holding Zrt., The evopro group, Budapest, Hungary
+R.N. Fernandes
+                       ESS, Lund, Sweden
+B. Peceli, G. Singler
+                       evopro Innovation Ltd, Budapest, Hungary
+
+ 
+
+
+ 
+
+At the European Spallation Source (ESS), a neutron research facility in Sweden, most of the controls are based on PLCs and layered in the following (traditional) way: field equipment <-> PLC <-> EPICS IOC <-> high-level applications. In many situations, the EPICS IOC layer will not implement control logic per se and is only used for converting PLC tags into EPICS PVs to enable the usage of high-level applications such as CS-Studio, Archiver Appliance, and BEAST. To alleviate this (traditional) way of doing controls, we propose a simpler approach: implementation of the Channel Access (CA) protocol in the PLC layer for the latest family of Siemens PLCs to remove the EPICS IOC layer. We called it S7EPICS. S7EPICS fully respects version 13 of the CA protocol specification, and supports multiple EPICS-based client connections at the same time - e.g. CS-Studio, Archiver Appliance - without a noticeable service degradation (i.e. delays). In this paper we introduce this implementation, its architecture and workflow, benchmarking results of tests performed, and future developments that could be pursued such as authentication & authorization mechanisms using, e.g., the Arrowhead Framework.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOSH3001
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

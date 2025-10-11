@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: WED3 (Data management, analytics and visualisation)
+
+
+WED3 —  Data management, analytics and visualisation   (21-Oct-15   15:15—16:45)
+Chair: K.A. Brown, BNL, Upton, Long Island, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+WED3O01
+MASSIVE: an HPC Collaboration to Underpin Synchrotron Science
+640
+
+
+ 
+
+W.J. Goscinski
+                       Monash University, Faculty of Science, Clayton, Victoria, Australia
+K. Bambery, C.J. Hall, A. Maksimenko, S. Panjikar, D. Paterson, C.G. Ryan, M. Tobin
+                       ASCo, Clayton, Victoria, Australia
+C.U. Felzmann
+                       SLSA, Clayton, Australia
+C. Hines, P. McIntoshpresenter
+                       Monash University, Clayton, Australia
+D.A. Thompson
+                       CSIRO ATNF, Epping, Australia
+
+ 
+
+
+ 
+
+MASSIVE is the Australian specialised High Performance Computing facility for imaging and visualisation. The project is a collaboration between Monash University, Australian Synchrotron and CSIRO. MASSIVE underpins a range of advanced instruments, with a particular focus on Australian Synchrotron beamlines. This paper will report on the outcomes of the MASSIVE project since 2011, in particular focusing on instrument integration, and interactive access. MASSIVE has developed a unique capability that supports an increasing number of researchers generating and processing instrument data. The facility runs an instrument integration program to help facilities move data to an HPC environment and provide in-experiment data processing. This capability is best demonstrated at the Imaging and Medical Beamline where fast CT reconstruction and visualisation is now essential to performing effective experiments. The MASSIVE Desktop provides an easy method for researchers to begin using HPC, and is now an essential tool for scientists working with large datasets, including large images and other types of instrument data.
+
+ 
+
+
+
+
+
+
+Slides WED3O01 [28.297 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WED3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WED3O02
+Databroker: An Interface for NSLS-II Data Management System
+645
+
+
+ 
+
+A. Arkilic, D.B. Allan, D. Chabot, L.R. Dalesio, W.K. Lewispresenter
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Brookhaven National Lab, U.S. Department of Energy
+A typical experiment involves not only the raw data from a detector, but also requires additional data from the beamline. This information is largely kept separated and manipulated individually, to date. A much more effective approach is to integrate these different data sources, and make these easily accessible to data analysis clients. NSLS-II data flow system contains multiple backends with varying data types. Leveraging the features of these (metadatastore, filestore, channel archiver, and Olog), this library provides users with the ability to access experimental data. This service acts as a single interface for time series, data attribute, frame data access and other experiment related information.
+
+ 
+
+
+
+
+
+
+Slides WED3O02 [2.944 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WED3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WED3O03
+MADOCA II Data Logging System Using NoSQL Database for SPRING-8
+648
+
+
+ 
+
+A. Yamashita, M. Kago
+                       JASRI/SPring-8, Hyogo-ken, Japan
+
+ 
+
+
+ 
+
+The data logging system for SPring-8 was upgraded to the new system using NoSQL database, as a part of a MADOCA II framework. It has been collecting all the log data required for accelerator control without any trouble since the upgrade. In the past, the system powered by a relational database management system (RDBMS) had been operating since 1997. It had grown with the development of accelerators. However, the system with RDBMS became difficult to handle new requirements like variable length data storage, data mining from large volume data and fast data acquisition. New software technologies gave solution for the problems. In the new system, we adopted two NoSQL databases, Apache Cassandra and Redis, for data storage. Apache Cassandra is utilized for perpetual archive. It is a scalable and highly available column oriented database suitable for time series data. Redis is used for the real time data cache because of a very fast in-memory key-value store. Data acquisition part of the new system was also built based on ZeroMQ message packed by MessagePack. The operation of the new system started in January 2015 after the long term evaluation over one year.
+
+ 
+
+
+
+
+
+
+Slides WED3O03 [0.513 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WED3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WED3O04
+HDB++: A New Archiving System for TANGO
+652
+
+
+ 
+
+L. Pivetta, C. Scafuri, G. Scalamera, G. Strangolino, L. Zambon
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+R. Bourtembourg, J.L. Pons, P.V. Verdier
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+The TANGO release 8 led to several enhancements, including the adoption of the ZeroMQ library for faster and lightweight event-driven communication. Exploiting these improved capabilities, a high performance, event-driven archiving system written in C++ has been developed. It inherits the database structure from the existing TANGO Historical Data Base (HDB) and introduces new storage architecture possibilities, better internal diagnostic capabilities and an optimized API. Its design allows storing data into traditional database management systems such as MySQL or into NoSQL database such as Apache Cassandra. This paper describes the software design of the new HDB++ archiving system, the current state of the implementation and gives some performance figures and use cases.
+
+ 
+
+
+
+
+
+
+Slides WED3O04 [1.392 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WED3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WED3O05
+Big Data Analysis and Analytics with MATLAB
+656
+
+
+ 
+
+D.S. Willingham
+                       ASCo, Clayton, Victoria, Australia
+
+ 
+
+
+ 
+
+Overview using Data Analytics to turn large volumes of complex data into actionable information can help you improve design and decision-making processes. In today's world, there is an abundance of data being generated from many different sources. However, developing effective analytics and integrating them into existing systems can be challenging. Big data represents an opportunity for analysts and data scientists to gain greater insight and to make more informed decisions, but it also presents a number of challenges. Big data sets may not fit into available memory, may take too long to process, or may stream too quickly to store. Standard algorithms are usually not designed to process big data sets in reasonable amounts of time or memory. There is no single approach to big data. Therefore, MATLAB provides a number of tools to tackle these challenges. In this paper 2 case studies will be presented: 1. Manipulating and doing computations on big datasets on light weight machines; 2. Visualising big, multi-dimensional datasets Developing Predictive Models High performance computing with clusters and Cloud Integration with Databases, HADOOP and Big Data Environments.
+
+ 
+
+
+
+
+
+
+Slides WED3O05 [10.989 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WED3O05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WED3O06
+Data Streaming - Efficient Handling of Large and Small (Detector) Data at the Paul Scherrer Institute
+ 
+
+
+ 
+
+S.G. Ebner, H.R. Billich, H. Brands, E.H. Panepucci, L. Sala
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+For the latest generation of detectors transmission, persistence and reading of data becomes a bottleneck. Following the traditional pattern acquisition-persistence-analysis leads to a massive delay before information on the data is available. This prevents the efficient use of beamtime for users. Also, sometimes, single nodes cannot keep up in receiving and persisting data. PSI is breaking up with the traditional data acquisition paradigm for its detectors and is focusing on data streaming, to address these issues. Data is immediately streamed out directly after acquisition. The resulting stream is either retrieved by a node next to the storage to persist the data, or split up to enable parallel persistence, as well as online processing and monitoring. The concepts, designs, and software involved in the current implementation for the Pilatus, Eiger , PCO Edge and Gigafrost detectors at SLS, as well as what we are going to use for the Jungfrau detector and the whole beam synchronous data acquisition system at SwissFEL, will be shown. It will be shown how load-balancing, scalability, extensibility and immediate feedback are achieved, while reducing overall software complexity.
+
+ 
+
+
+
+
+
+
+Slides WED3O06 [2.017 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

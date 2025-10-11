@@ -1,0 +1,1748 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2013 - Table of Session: WEPEA (Poster Session)
+
+
+WEPEA —  Poster Session   (15-May-13   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPEA001
+Simulation Studies of Longitudinal RF-noise and Phase Displacement Acceleration as Driving Mechanism for the MedAustron Synchrotron Slow Extraction
+2501
+
+
+ 
+
+U. Dorda
+                       EBG MedAustron, Wr. Neustadt, Austria
+M. Benedikt, H.O. Schönauer, A. Wastl
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+MedAustron is a synchrotron based hadron therapy and research facility located in Austria currently entering the installation stage. It is an implementation of the CERN-PIMMS design which proposed induction acceleration by a betatron core as the driving mechanism for the third-order slow resonant extraction. Primarily in order to increase the accelerators flexibility towards future irradiation schemes but also as back-up options, two alternative extraction driving mechanism have been studied: Longitudinal RF-noise and phase displacement acceleration. The advantages as well as the corresponding limitations are explained, analytical estimates and particle tracking results performed with the 2D tracking codes LONG1D and a specifically developed Python based simulation code are presented.
+
+ 
+
+
+ 
+
+
+
+WEPEA003
+Dipole Fringe Field Effects in the ThomX Ring
+2504
+
+
+ 
+
+J.F. Zhang
+                       LAL, Orsay, France
+A. Loulergue
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+Thom-X is a 50 MeV compact ring based on the Compton back-scattering which is being built in LAL, France. With a very short bend radius of 0.352 m, the nonlinear effects of the dipole fringe fields become critical to the beam dynamic . This paper compares the modelings of the dipole fringe field using four popular codes: MadX, Elegant, BETA, and Tracy3, and then discuss the proper model to have consistent results between the analytical calculation and the symplectic tracking of the Thom-X ring.
+
+ 
+
+
+ 
+
+
+
+WEPEA008
+Influence of Higher Order Phase Slip Factor Contributions on Beam Loss during SIS-100 Proton Operation
+2507
+
+
+ 
+
+S. Sorge, O. Boine-Frankenheim, G. Franchetti
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The projected FAIR synchrotron SIS-100 is envisaged to accelerate intense proton and heavy-ion beams. The maximum proton energy will be E=29 GeV. In order to stay below transition energy a special powering scheme of the quadrupoles has been introduced which provides a maximum transition gamma of 45.5. The resulting settings of the quadrupole focusing strengths generate large maxima of the horizontal beta and dispersion functions. In particle tracking simulation we observed beam loss caused by a large momentum spread in the deformed rf bucket close to transition. Application of the chromaticity correction sextupoles led to a reduction of the first-order phase slip factor term and of the beam losses. In this contribution we will analyze the effect of the sextupoles on the higher-order components of the phase slip factor. The rf bucket shape will be discussed as well as the transverse beam loss and possible longitudinal instabilities.
+
+ 
+
+
+ 
+
+
+
+WEPEA009
+Effects of Field Imperfections in the Isochronous Mode of the CR Storage Ring at FAIR
+2510
+
+
+ 
+
+S.A. Litvinov, A. Dolinskyy, O.E. Gorda, M. Steck, H. Weick
+                       GSI, Darmstadt, Germany
+D. Toprek
+                       VINCA, Belgrade, Serbia
+
+ 
+
+
+ 
+
+Today the challenge is to measure masses of exotic nuclei up to the limits of nuclear existence which are characterized by low production cross-sections and short half-lives. The large acceptance Collector Ring (CR) at FAIR tuned in the isochronous ion-optical mode offers unique possibilities for such measurements. Nonlinear field errors as well as fringe fields of the wide aperture quadrupoles and dipoles strongly excite the high-order aberrations which negatively affect the time resolution of the isochronous ring. Their influence is investigated here and a possible correction scheme is shown.
+
+ 
+
+
+ 
+
+
+
+WEPEA010
+Modeling Longitudinal Bunched Beam Dynamics in Hadron Synchrotrons using Scaled Fourier-Hermite Expansions
+2513
+
+
+ 
+
+K. Gross, D.E.M. Lens
+                       TU Darmstadt, RTR, Darmstadt, Germany
+
+ 
+
+
+ 
+
+To devise control strategies and to analyze the stability of systems with feedback, a set of few ODEs describing the underlying dynamics is required. Numerical Fourier-Hermite solutions of the Vlasov equation have been studied for over fifty years. The idea to expand the distribution function in Fourier series in space and Hermite functions in velocity is transferred to the dynamics of bunched beams in hadron synchrotrons in this contribution. The Hermite basis is a natural choice for plasmas with Maxwellian velocity profile as well as for particle beams with Gaussian momentum spread. The Fourier basis used for spatially nearly uniform plasmas has to be adapted to bunched beams where the beam profile is not uniform in phase. This is achieved analogously to the deduction of the three term recursion relations to construct orthogonal polynomials, but applied to Fourier series with the weight function taken from the Hamiltonian. The resulting system of ODEs for the expansion coefficients of desired order - dependent on the number of functions retained - is checked against macro particle tracking simulations.
+
+ 
+
+
+ 
+
+
+
+WEPEA011
+Bursting Patterns of Coherent Synchrotron Radiation in the ANKA Storage Ring
+2516
+
+
+ 
+
+M. Schwarz, V. Judin, A.-S. Mueller
+                       KIT, Karlsruhe, Germany
+M. Klein
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+We report measurements of bursting patterns of coherent synchrotron radiation (CSR) for a wide range of single bunch currents at the ANKA storage ring. The radiation was detected with a fast THz detector, a Hot Electron Bolometer, and its signal acquired with both a spectrum analyzer and an external sampling oscilloscope. Both analysis methods consistently show the onset of bursting at a threshold current with the appearance of strong high frequency bands with higher harmonics in the several 10th of kHz range. For currents higher than twice the threshold value an abrupt change in the bursting pattern occurs. These results are compared with different numerical models solving the one-dimensional Vlasov-Fokker-Planck equation.
+
+ 
+
+
+ 
+
+
+
+WEPEA012
+Study of Laser Wakefield Accelerators as Injectors for Synchrotron Light Sources
+2519
+
+
+ 
+
+S. Hillenbrand, V. Judin, A.-S. Mueller
+                       KIT, Karlsruhe, Germany
+R.W. Aßmann, S. Hillenbrand
+                       CERN, Geneva, Switzerland
+O. Jansen, A.M. Pukhov
+                       HHUD, Dusseldorf, Germany
+
+ 
+
+
+ 
+
+Short bunch lengths, high beam energies, and small facility footprint make Laser Wakefield Accelerators (LWFA) very interesting as injectors for Synchrotron Light Sources. In this paper, we describe exemplary investigations for the ANKA storage ring.
+
+ 
+
+
+ 
+
+
+
+WEPEA013
+Electron Cloud Studies for the Upgrade of the CERN PS
+2522
+
+
+ 
+
+G. Iadarola
+                       Naples University Federico II, Science and Technology Pole, Napoli, Italy
+H. Damerau, S.S. Gilardoni, G. Iadarola, S. Rioja Fuentelsaz, G. Rumolo, G. Sterbini, C. Yin Vallgren
+                       CERN, Geneva, Switzerland
+M.T.F. Pivi
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The observation of a significant dynamic pressure rise as well as measurements with dedicated detectors indicate that an electron cloud develops in the CERN PS during the last stages of the RF manipulations for the production of LHC type beams, especially with 25ns bunch spacing. Although presently these beams are not degraded by the interaction with the electron cloud, which develops only during few milliseconds before extraction, the question if this effect could degrade the future high intensity and high brightness beams foreseen by the LHC Injectors Upgrade (LIU) project is still open. Therefore several studies are being carried out employing both simulations and measurements with the electron cloud detectors in the machine. The aim is to develop a reliable electron cloud model of the PS vacuum chambers in order to identify possible future limitations and find suitable countermeasures.
+
+ 
+
+
+ 
+
+
+
+WEPEA014
+Recent Electron Cloud Studies in the SPS
+2525
+
+
+ 
+
+G. Iadarola, H. Bartosik, M. Driss Mensi, H. Neupert, G. Rumolo, M. Taborelli
+                       CERN, Geneva, Switzerland
+G. Iadarola
+                       Naples University Federico II, Science and Technology Pole, Napoli, Italy
+
+ 
+
+
+ 
+
+It is important to qualify the present status of the SPS with respect to the electron cloud before the Long Shutdown of the CERN accelerator complex, which will take place in 2013-2014. Therefore several electron cloud studies were performed during the 2012 run in order to get a full characterization of the behavior of the SPS with the LHC-type beams with 25 ns bunch spacing, which can be very sensitive to electron cloud effects. The collected information should allow to understand up to which extent this long period without beam operation - and the related interventions on the machine - will degrade the present conditioning state of the SPS, which has been achieved by “scrubbing” over several years. Several measurements with different beam conditions have been collected also on the electron cloud detectors installed in the machine. These results, in combination with detailed simulation studies, will provide the basis for defining strategies of electron cloud mitigation as required for the production of future high intensity and high brightness beams within the LHC Injectors Upgrade (LIU) project.
+
+ 
+
+
+ 
+
+
+
+WEPEA015
+Possibility Study of High Repetition Rate Operation of JPARC Main Ring
+2528
+
+
+ 
+
+K. Fan, S. Igarashi, K. Ishii, T. Koseki, M. Uota
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The original design of JPARC main ring is to provide high beam power of 750 kW with machine repetition rate of 0.3 Hz. However, the severe space charge effects at low injection energy limit the beam intensity. In order to raise the beam power to the design limit, one logical way is to increase the repetition rate. However, the resulting eddy current in the laminations and pipes may impair the field quality of all magnets. In addition, the activation of beam pipe becomes severer in high beam power operation. Titanium beam pipe is proposed to replace the stainless steel pipe to reduce the activation and decrease the decay time. However, titanium has lower resistivity, severer eddy current effects are expected. The studies investigate the eddy current effects on field quality of the main dipole, quadrupole and sextupole magnets.
+
+ 
+
+
+ 
+
+
+
+WEPEA016
+Upgrade Study of JPARC Main Ring Fast Extraction Septa System
+2531
+
+
+ 
+
+K. Fan, K. Ishii, H. Matsumoto, N. Matsumoto, Y. Morita
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The JPARC main ring fast extraction (FX) system has two functions, deliver high power beam to the neutrino experimental facility and dump the beam at any time in case of hardware failures. The present FX system consists of five pair of bipolar kickers and eight pair of bipolar septa. In order to raise the beam power to the design limit, both the beam intensity and the repetition rate will increase gradually. The FX system needs to be upgraded to satisfy the new requirements. The upgrade includes FX orbit optimization and new design of devices. Firstly, the conventional multi-turn low-field septa will be replaced by eddy current type septa. Several configurations of the new design has been studied to realize the requirements of thinner septum, higher field quality, lower leakage and higher mechanical stability. To provide sufficient flat top field for the FX beam, superposition of 3rd harmonic pulse has been employed.
+
+ 
+
+
+ 
+
+
+
+WEPEA018
+Further Improvement of the PTC-ORBIT Code to Model Realistic Operation of High-beam Power Synchrotrons
+2534
+
+
+ 
+
+A.Y. Molodozhentsev, E. Forest
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The combined PTC-ORBIT code has been developed a few years ago to study the dynamics of the high intensity proton beams in synchrotrons, including the nonlinear machine resonances and the space charge effects in the self-consistent manner. In order to extend the code abilities the time variation of the main elements of the synchrotron has been introduced into the PTC module of the code. This feature opens the direct way to model the multi-turn injection process and the slow extraction process by using realistic machine description, in particular the dynamic variation of the betatron tunes, strength of the bump magnets, dynamic resonance correction or resonance excitation. To demonstrate the code abilities the corresponding simulations for CERN PS Booster and for J-PARC Main Ring are discussed.
+
+ 
+
+
+ 
+
+
+
+WEPEA019
+Status of the J-PARC MA Loaded RF Systems
+2537
+
+
+ 
+
+M. Yoshii, E. Ezura, K. Hara, K. Hasegawa, C. Ohmori, A. Takagi, K. Takata, M. Toda
+                       KEK, Tokai, Ibaraki, Japan
+M. Nomura, T. Shimada, F. Tamura, M. Yamamoto
+                       JAEA/J-PARC, Tokai-mura, Japan
+A. Schnase
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Japan proton accelerator complex operates two cascaded synchrotrons, 3GeV RCS and 50GeV MR. The high electric field gradient magnetic alloy (MA) loaded cavities are used in both synchrotrons. The RF systems have no tuning control loop and the direct digital synthesis based fully digital low level RF guarantees the stable and reproducible proton acceleration. The feed-forward systems using the circulating beam current signals works efficiently to compensate the heavy beam induced voltage. In RCS, 11 RF systems are operating in a dual harmonic mode since December 2008. The longitudinal RF control based on the particle tracking performed effectively and the equivalent beam power of 530 kW was successfully demonstrated. The 260kW operation for the neutron users started in October 2012. In MR synchrotron, the 9th RF system was newly installed and became available as a 2nd harmonic RF system in November 2012. A 30 GeV proton of 200 kW beam power has been delivered to the T2K neutrino beam experiment with 2.48 sec repetition cycle. This paper summarizes the operation details and the status and features of the J-PARC RF systems.
+
+ 
+
+
+ 
+
+
+
+WEPEA020
+Commissioning of Beam Loading Compensation System in the J-PARC MR
+2540
+
+
+ 
+
+F. Tamura, M. Nomura, A. Schnase, T. Shimada, M. Yamamoto
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+K. Hara, K. Hasegawa, C. Ohmori, M. Toda, M. Yoshii
+                       KEK, Tokai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Beam loading compensation is indispensable to accelerate high intensity proton beams in the J-PARC MR. The MA-loaded rf cavities in the MR are driven by the single harmonic (h=9) rf signals, while the cavity frequency response covers also the neighbor harmonics (h=8, 10). The wake voltage induced by the beam consists of the three harmonics (h=8, 9, 10). We employ the rf feedforward method to compensate the beam loading of these harmonics. The full-digital feedforward system was developed for the MR. We have successfully commissioned the feedforward patterns for all of eight cavities by using high intensity beams with 1.0·1014 ppp. We present the commissioning results. The impedance seen by the beam is reduced and the longitudinal oscillations due to the beam loading are reduced. By the beam loading compensation, high power beam operation at the beam power of 200 kW has been achieved.
+
+ 
+
+
+ 
+
+
+
+WEPEA021
+Influence of the Vacuum Chamber Limitation on Dynamic Aperture Calculations
+2543
+
+
+ 
+
+M. Attal
+                       SESAME, Allan, Jordan
+
+ 
+
+
+ 
+
+In a storage ring the evaluation of the dynamic aperture taking into account the vacuum chamber limitation is more accurate and may display nonlinearities that could not be seen in the conventional absolute dynamic aperture calculations. This has been investigated in this paper and demonstrated in SESAME dynamic aperture case where taking into account the vacuum chamber uncovered the seriousness of a 5th order resonance mainly when errors like high order multipoles were introduced to the lattice. The destructive effect of the 5th order resonance has been avoided by changing the fractional part of the tunes. The problem has also been more investigated using the Frequency Map Analysis technique.
+
+ 
+
+
+ 
+
+
+
+WEPEA022
+Analytical Estimations of the Dynamic Apertures of Beams with Momentum Deviation and Application in FFAG
+2546
+
+
+ 
+
+M. Xiao, J. Gao
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Analytical formulae for estimating the dynamic apertures of synchrotron particles has been well established. Based on the standard mapping, we extend the analytical formulae of dynamic aperture for off-momentum particles in circular accelerator. And we compare the analytical results with the simulation ones in the BEPC-II positron ring lattice under some conditions. What's more, we give the analytical formulae of dynamic aperture for FFAG in the similar way.
+
+ 
+
+
+ 
+
+
+
+WEPEA023
+Space Charge Effects for Different CSNS/RCS Working Points
+2549
+
+
+ 
+
+S.Y. Xu, N. Wang, S. Wang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The China Spallation Neutron Source (CSNS) operates at 25 Hz repetition rate with the design beam power of 100 KW. CSNS consists of an 80-MeV linac and a 1.6-GeV Rapid Cycling Synchrotron (RCS). Due to the high beam density and high repetition rate for CSNS/RCS, the rate of beam loss must be controlled to a very low level. The major source of beam loss is associated with resonances. Thus, choosing he best suitable working points on the tune diagram is important to reach low beam loss. Different tune areas are explored and compared by considering resonances and the effects of space charge, which can drive particles into the excited resonances. Different working points are simulated and compared by using the codes ORBIT and SIMPSONS.
+
+ 
+
+
+ 
+
+
+
+WEPEA024
+Combine Effects of Space Charge and Chromaticity Sextupoles at CSNS/RCS
+2552
+
+
+ 
+
+S.Y. Xu, S. Wang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Most high current proton synchrotrons, such as The Rapid Cycling Synchrotron (RCS) of The China Spallation Neutron Source (CSNS), are operated under the transition energy, and the natural chromaticity is small. These proton synchrotrons can work without chromatic correction. To reduce the tune spread produced by the chromaticity, chromatic correction is considered by using chromaticity sextupoles for this type of proton synchrotrons, such as J-PARC and SNS. Many chromatic correction schemes are compared for the CSNS/RCS, and the harmonic sextupoles are considered to correct nonlinear effect of chromaticity sextupoles. The dynamic aperture is obtained by particle tracking, and the combine effects of sextupole field and space charge effects are investigated by using the code ORBIT and SIMPSONS.
+
+ 
+
+
+ 
+
+
+
+WEPEA025
+Chromatic Sextupole Pair Optimization Methods for Enlarging Dynamic Aperture
+2555
+
+
+ 
+
+Z. Bai, Q.K. Jia, W. Li, L. Wang, Q. Zhang
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+Based on the step-by-step chromaticity compensation method [1] and artificial intelligence algorithms, we propose new numerical methods, called chromatic sextupole pair optimization methods, for enlarging the dynamic aperture of electron storage rings. In the new methods, the decision variables related to chromatic sextupole pairs are optimized using artificial intelligence algorithms to enlarge the dynamic aperture. We demonstrate that the new methods are equivalent to the recently used numerical method, in which the decision variables, sextupole strengths, are optimized using artificial intelligence algorithms.
+[1] E. Levichev, P. Piminov, Proceedings of EPAC 2006, p. 2116.
+
+ 
+
+
+ 
+
+
+
+WEPEA027
+Nonlinear Model Calibration in Electron Storage Rings via Frequency Analysis
+2558
+
+
+ 
+
+G. Liu, W. Li, L. Wang, K. Xuan
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+Frequency analysis of turn-by-turn BPM data is a very useful numerical method for analysing the detrimental effect of the nonlinear resonances in storage rings, and which has been widely used for nonlinear resonances measurement and correction. We applied this method in this paper for calibrating the nonlinear model by numerical fitting of the sextupole components with the effect of radiation damping and decoherence of the betatron oscillation in HLSII storage ring.
+
+ 
+
+
+ 
+
+
+
+WEPEA029
+The SHER-HIAF Ring Lattice Design
+2561
+
+
+ 
+
+X. Gao, W.P. Chai, G.D. Shen, J. Shi, J.W. Xia, J.C. Yang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+Super Heavy Experimental Ring (SHER) is one of the rings of the next accelerator complex High Intensity Heavy Ion Accelerator Facility (HIAF) at IMP[4]. Here, present ideas of the lattice design for the operation of the large acceptance ring are presented. The SHER ring has to be optimized for e-cooling and the lattice is designed for different modes. First of all, it is designed in the so called isochronous mode as time-of-flight mass spectrometer for short-lived secondary nuclei. Secondly, SHER can also be used to be a storage ring for collecting and cooling the secondary rare isotope beams from the transport line. In order to fulfill it's purpose, the ion optics can be set to different ion optical modes
+
+ 
+
+
+ 
+
+
+
+WEPEA030
+Simulation of Beam Capture Process in HIRFL-CSRm
+2564
+
+
+ 
+
+P. Li, P. Jiang, J.W. Xia, J.C. Yang, Y.J. Yuan
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+In this paper, the beam capture processes are simulated in CSRm with the real RF cavity curves. By now, CSRm can accelerate all ions from protons up to the heaviest element, uranium, with variable energies and different efficiency. During the beam capture processes, the capture voltage and capture time must be cheese properly to avoid the beam loss. Moreover, the mismatch between the actual and the setting beam energy and space charge effect are investigated for high beam capture efficiency. The evolution of longitudinal phase space during the capture processes is presented in this simulation too.
+
+ 
+
+
+ 
+
+
+
+WEPEA031
+Slow extraction design in HIMM
+2567
+
+
+ 
+
+J. Shi, W.P. Chai, J.W. Xia, J.C. Yang, Y.J. Yuan
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+A heavy ion medical machine(HIMM) is proposed for cancer therapy in Lanzhou, China. The slow extraction design of the synchrotron is introduced in this paper. Eight sextupoles are used, four of them are for correcting the chromaticity and the rest for driving the 3rd-order resonance. In order to save the aperture of vacuum chamber, a 3-magnet bump is adopted during the extraction process. The phase space map in the entrance of the electrostatic septum and the last 3 turns' particle trajectory before particle extraction are given.
+
+ 
+
+
+ 
+
+
+
+WEPEA032
+Estimation and Correction of the Uncontrolled Beam Loss due to the Alignment Error in the Low-energy Linear Accelerator of RAON
+2570
+
+
+ 
+
+J.G. Hwang, E.-S. Kim
+                       Kyungpook National University, Daegu, Republic of Korea
+D. Jeon, H.J. Kim
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+RAON(Rare isotope Accelerator Of Newness) mainly consists of the front-end system, ISOL system , re-accelerator for ISOL system, charge stripper section and main linear accelerator(Linac) for ECR ion source. Since the beam energy at the down-stream of the front-end system is low, 0.3~0.5 MeV/u, the trajectories of the beam is very sensitive the alignment error of the magnets and cavities at the entrance of the main Linac. It can be caused the uncontrolled beam loss due to the large amplitude of the trajectory. The effect of the alignment errors of the magnets and cavities is estimated and corrected by using analytical model which is based on analytical model and code TRACK. The calculation result based on the analytical model agrees very well with the simulation by using the TRACK code. Using the analytical model, the position and number of the corrector and Beam Position Monitor(BPM) in low energy Linac was determined to compensate the amplification of the beam trajectory under 400 um. We will present the result of the estimation of the alignment error and the correction using steering magnet with strip-line Beam Position Monitor (BPM) in a low energy section.
+
+ 
+
+
+ 
+
+
+
+WEPEA033
+Optimization of Injector System for Early Commissioning Phase of Compact-ERL.
+2573
+
+
+ 
+
+J.G. Hwang, E.-S. Kim
+                       Kyungpook National University, Daegu, Republic of Korea
+T. Miyajima
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Injector system of Compact-Energy Recovery Linear accelerator, which is currently develping in Photon Factory of KEK at Japan, consists of the photo-cathode DC gun, two solenoids, a 1.3 GHz buncher ,three 1.3 GHz 2 cell injector cavities, 5 quadrupole magnet and merger section. Target values of beam produced by the injector system are kinetic energy of 5 MeV, the normalized transverse emittance of under 0.1 mm-mrad and the bunch length of under 3 ps with the 7.7 pC charge per bunch and the repetition rate of 1.3 Ghz. In this low energy region, the effect of the space charge is dominated to cause the emittance growth. The optimization is performed by using MOGA (Multi-Object Genetic Algorithm) with code GPT to consider the effect of space charge under optimization. The code General Particle Tracer (GPT) is a 3D Paricle-In-Cell(PIC) code based on multi-layer object-oriented design. Using this method with code GPT, the target values was achieved at the exit of the merger section such as the normalized emittance of 0.1 mm-mrad with bunch length of 3 ps and kinetic energy of 5 MeV.
+
+ 
+
+
+ 
+
+
+
+WEPEA034
+Study on the Beam Dynamics in the RISP Driver Linac
+2576
+
+
+ 
+
+H.J. Kim, H.J. Jang, D. Jeon
+                       IBS, Daejeon, Republic of Korea
+J.G. Hwang
+                       Kyungpook National University, Daegu, Republic of Korea
+E.-S. Kim
+                       KNU, Deagu, Republic of Korea
+
+ 
+
+
+ 
+
+Abstract Rare Isotope Science Project (RISP) has been proposed as a multi-purpose accelerator facility for providing beams of exotic rare isotopes of various energies. The RISP driver linac which is used to accelerate the beam, for an example, Uranium ions from 0.3 MeV/u to 200 MeV/u consists of superconducting RF cavities and warm quadrupole magnets for focusing heavy ion beams. Requirement of the linac design is especially high for acceleration of multiple charge beams. In this paper, we present the requirements of dynamic errors and correction schemes to minimize the beam centroid oscillation and preserve beam losses under control.
+
+ 
+
+
+ 
+
+
+
+WEPEA036
+Spin Tune Decoherence Effects in Electro- and Magnetostatic Structures
+2579
+
+
+ 
+
+Y. Senichev, R. Maier, D. Zyuzin
+                       FZJ, Jülich, Germany
+N.V. Kulabukhova
+                       St. Petersburg State University, St. Petersburg, Russia
+
+ 
+
+
+ 
+
+In Electric Dipole Moment search experiments with polarized beams the coherence of spin oscillations of particles has a crucial role. The decoherent effects arise due to spin tune dependence on particle energy and particle trajectory in focusing-deflecting fields. They are described through the n-th order spin tune aberrations. Since the first order is suppressed by RF field, the second order plays crucial role. It depends on the orbit lengthening and on the odd order field components. We consider the spin decoherence effects and methods of their compensation in different channels, electrostatic, magnetostatic linking the decoherence effects with common characteristics such as the momentum compaction factor, the chromaticity and others.
+
+ 
+
+
+ 
+
+
+
+WEPEA037
+Testing of Symplectic Integrator of Spin-orbit Motion Based on Matrix Formalism
+2582
+
+
+ 
+
+A.N. Ivanov, S.N. Andrianov, N.V. Kulabukhova
+                       St. Petersburg State University, St. Petersburg, Russia
+R. Maier, Y. Senichev, D. Zyuzin
+                       FZJ, Jülich, Germany
+
+ 
+
+
+ 
+
+Investigation of spin-orbital motion in electromagnetic fields requires different numerical methods. Approaches for long-term evolution modelling need both performance and symplecticity. In this paper we discuss matrix maps method for numerical simulation. We examine symplectification and accuracy in terms of electostatic storage ring. The results are compared with traditional symplectic step-by-step methods.
+
+ 
+
+
+ 
+
+
+
+WEPEA038
+Two and three Dimensional Models for Analytical and Numerical Space Charge Simulation
+2585
+
+
+ 
+
+S.N. Andrianov, N.V. Kulabukhova
+                       St. Petersburg State University, St. Petersburg, Russia
+
+ 
+
+
+ 
+
+In this article there is described an analytical approach to describe the self-field of two- and three dimensional ellipsoidal presentation of space charge distribution. The corresponding results can be evaluated in both numerical and the analytic presentation for some model distributions of charge. The corresponding results can be embedded in the Lie formalism used to describe the map for the beam dynamics. The corresponding linear and nonlinear maps are evaluated in terms of the matrix representation of the evolution operator of the beam. Appropriate solutions for nonlinear differential equations are based on a prediction-correction method (the converging recursive procedure). These solutions are compared with the Vlasov equation solutions. A special software package for the described approach is presented.
+
+ 
+
+
+ 
+
+
+
+WEPEA040
+Space Charge and Cavity Modeling for the ESS Linac Simulator
+2588
+
+
+ 
+
+E. Laface, M. Eshraqi, R. Miyamoto
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The proton linac of the European Spallation Source will operate at unprecedented beam power of 5 MW. Such power requires a precise modeling of the beam dynamics in order to protect its components from losses. The high peak current of 62.5 mA produces a space charge force that dominates the dynamics at low energy, while the high gradient required to accelerate up to 2 GeV in the 500 m of linac length is challenging for the dynamics in the RF cavities. This paper presents modelings of the space charge force and RF cavities used in the ESS Linac Simulator. The simulator is under development as part of the XAL on-line model, and it will be adopted for the ESS linac operations.
+
+ 
+
+
+ 
+
+
+
+WEPEA041
+Actions To Mitigate The Radiation Damage to Electronics at the LHC
+2591
+
+
+ 
+
+A.-L. Perrot, M.B.M. Barberan Marin, J.-P. Corso, K. Foraz, M. Lazzaroni, Y. Muttoni
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The level of flux of hadrons with energy in the multi MeV range expected from the collisions at the LHC interaction Points 1, 5 and 8 and from the collimation system at Point 7 will induce Single Event Errors (SEEs) in the standard electronics present in many of the control equipment installed in LHC underground. Furthermore, a risk of SEEs induced by thermal neutrons cannot be excluded. Such events would perturb the LHC operation, possibly leading to a stop of the machine. Main mitigation actions will be implemented during the first LHC Long Shutdown of 2013/2014 (LS1) to reduce the SEE occurrence. This paper summarizes the mitigation measures and their associated foreseen improvements in terms of SEEs. It presents the organization process and associated planning highlighting the impacts with the overall LHC LS1 planning and the main concerns during implementation.
+
+ 
+
+
+ 
+
+
+
+WEPEA042
+The PS Upgrade Programme: Recent Advances
+2594
+
+
+ 
+
+S.S. Gilardoni, S. Bart Pedersen, C. Bertone, N. Biancacci, A. Blas, D. Bodart, J. Borburgh, P. Chiggiato, H. Damerau, S. Damjanovic, J.D. Devine, T. Dobers, M. Gourber-Pace, S. Hancock, A. Huschauer, G. Iadarola, L.A. Lopez Hernandez, A. Masi, S. Mataguez, E. Métral, M.M. Paoluzzi, S. Persichelli, S. Pittet, S. Roesler, C. Rossi, G. Rumolo, B. Salvant, R. Steerenberg, G. Sterbini, L. Ventura, J. Vollaire, R. Wasef, C. Yin Vallgren
+                       CERN, Geneva, Switzerland
+M. Migliorati
+                       University of Rome "La Sapienza", Rome, Italy
+
+ 
+
+
+ 
+
+The LHC Injectors Upgrade project (LIU) has been initiated to improve the performances of the existing injector complex at CERN to match the future requirements of the HL-LHC. In this framework, the Proton Synchrotron (PS) will undergo fundamental changes for many of its main systems: the injection energy will be increased to reduce space-charge effects, the transverse damper will be improved to cope with transverse instabilities the RF systems will be upgraded to accelerate higher beam intensity and brightness. These hardware improvements are triggered by a series of studies meant to identify the most critical performance bottlenecks, like space charge, impedances, longitudinal and transverse instabilities, as well as electron-cloud. Additionally, alternative production schemes for the LHC-type beams have been proposed and implemented to circumvent some of the present limitations. A summary of the most recent advances of the studies, as well as the proposed hardware improvements is given.
+
+ 
+
+
+ 
+
+
+
+WEPEA043
+Working Point and Resonance Studies at the CERN PS
+2597
+
+
+ 
+
+A. Huschauer, M. Benedikt, H. Damerau, P. Freyermuth, S.S. Gilardoni, R. Steerenberg, B. Vandorpe
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The increase of luminosity demanded by the High Luminosity LHC (HL-LHC) requires an increase of beam intensity, which might result in instabilities appearing at injection energy in the CERN PS. Transverse head-tail instabilities have already been observed on operational LHC beams and a stabilizing mechanism as an alternative to linear coupling is currently being studied. It consists of reducing the mode number of the transverse oscillation by changing linear chromaticity and in succession completely suppressing the instability by a transverse damper system with appropriate bandwidth. Therefore, a chromaticity correction scheme at low energy exploiting the intrinsic possibilities offered by special circuits mounted on top of the main magnet poles, the Pole Face Windings (PFW), has been examined. The presence of destructive betatron resonances, which restrict the choice of the injection working point and the maximum acceptable tune spread, forms an additional limitation for high-brightness and high-intensity beams in the CERN PS. To improve the current working point control scheme, the influence of the P F W on the machine resonances is presented in this paper.
+
+ 
+
+
+ 
+
+
+
+WEPEA044
+RF Manipulations for Higher Brightness LHC-type Beams
+2600
+
+
+ 
+
+H. Damerau, A. Findlay, S.S. Gilardoni, S. Hancock
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In order to increase the transverse brightness of beams for the LHC, ever more complicated RF manipulations have been proposed in the PS machine in order to reduce the intensity demands per PS batch on the upstream PS Booster. Several schemes based on cascades of batch compression, bunch merging, as well as the more routine bunch splitting have been successfully commissioned and higher brightness beams have been delivered to the downstream accelerators for measurement. Despite all this complexity, longitudinal and transverse beam quality are well preserved. In addition, to fully profit from the brightness of all four PS Booster rings, the injection of twice 4 bunches into harmonic 9 buckets in the PS has been made operational as an alternative to the usual double-batch transfer of 4+2 bunches into harmonic 7. This paper summarizes the new beam production schemes, their implementation in the PS low-level RF system and the experimental results.
+
+ 
+
+
+ 
+
+
+
+WEPEA045
+Specifications of the Field Quality at Injection Energy of the New Magnets for the HL-LHC Upgrade Project
+2603
+
+
+ 
+
+R. De Maria, S.D. Fartoukh, M. Giovannozzi
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+The HL-LHC project relies on new magnet designs and technologies to achieve very small β* values. In particular, Nb3Sn magnets show large allowed multipole imperfections at low current. These field errors may have a non-negligible impact on the dynamic aperture and beam life time in the HL-LHC, also because of the smaller-than-nominal β* values foreseen IR1 and IR5 at injection energy, which aims at decreasing the dynamic range of the squeeze and therefore contributing to optimize the turn around time. The paper describes an analysis of the machine performance based on analytical estimates and tracking simulations with the goal of providing field quality specifications for the new magnets.
+
+ 
+
+
+ 
+
+
+
+WEPEA046
+Experimental Observations from the LHC Dynamic Aperture Machine Development Study in 2012
+2606
+
+
+ 
+
+M. Giovannozzi, S. Cettour Cave, R. De Maria, M. Ludwig, A. Macpherson, S. Redaelli, F. Roncarolo, M. Solfaroli Camillocci, W. Venturini Delsolaro
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In view of improving the understanding of the behaviour of the dynamic aperture and to benchmark the numerical simulations performed so far, two experimental sessions have been scheduled at the LHC. The observations of the first sessions have been reported elsewhere[1], while in this paper the latest observations in terms of beam currents, blm losses and beam sizes will be described. The octupolar spool pieces have been used to artificially reduce the dynamic aperture and then induced slow beam losses. Alternating signs have been used in order to probe different configurations. Finally, scans over the strength of the decapolar spool pieces have been performed too.
+[1] M. Giovannozzi et al., “First Experimental Observations from the LHC Dynamic Aperture Experiment”, in proceedings of IPAC12, p. 1362
+
+ 
+
+
+ 
+
+
+
+WEPEA047
+Dynamic Aperture Performance for Different Collision Optics Scenarios for the LHC Luminosity Upgrade
+2609
+
+
+ 
+
+M. Giovannozzi, R. De Maria, S.D. Fartoukh
+                       CERN, Geneva, Switzerland
+A. Chancé, B. Dalena, J. Payet
+                       CEA/IRFU, Gif-sur-Yvette, France
+K.M. Hock, M. Korostelev, A. Wolski
+                       The University of Liverpool, Liverpool, United Kingdom
+J. Resta-López
+                       IFIC, Valencia, Spain
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+The ATS[1] optics solution for the HL-LHC offers the possibility of different collision optics, with a β* as small as 10 cm in both transverse planes, or with a β* aspect ratio of up to 4 pushing β* to even smaller value (5cm) in the parallel separation plane while relaxing it (20 cm) in the crossing plane. The latter configuration features two possible options for alternated orientations of the crossing plane in the two high luminosity insertions, both considered in this study. In this paper we study the impact of few selected field imperfection models of the new magnets foreseen for the upgrade through tracking simulations and scaling laws.
+[1] S. Fartoukh, ‘’An Achromatic Telescopic Squeezing (ATS) Scheme for LHC Upgrade’’, in proceedings of IPAC11, p. 2088. 
+
+ 
+
+
+ 
+
+
+
+WEPEA048
+Specification of a System of Correctors for the Triplets and Separation Dipoles of the LHC Upgrade
+2612
+
+
+ 
+
+M. Giovannozzi, R. De Maria, S.D. Fartoukh
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+The luminosity upgrade of the LHC aims at reducing β* from 55 cm to 15 cm or beyond. This can be achieved by the ATS* scheme and means of new large aperture superconducting triplet (IT) quadrupoles (150 mm), preferably using the Nb3Sn technology in order to keep the gradient reasonably high (140 T/m). The field quality requires careful specification in order to ensure a large enough dynamic aperture. In this context, dedicated corrector magnets are foreseen to provide semi-local corrections of specific multipole components and find the best possible compromise between the demand and what can be realistically achieved by the magnet manufacturer. In this paper the layout and main parameters of the IT corrector package are presented together with the correction strategy. Moreover, the foreseen performance is discussed in detail.
+* S. Fartoukh, ‘’An Achromatic Telescopic Squeezing (ATS) Scheme for LHC Upgrade’’, in proceedings of IPAC11, p. 2088.
+
+ 
+
+
+ 
+
+
+
+WEPEA049
+Analysis of the Non-linear Fringe Effects of Large Aperture Triplets for the HL LHC Project
+2615
+
+
+ 
+
+A.V. Bogomyagkov, E.B. Levichev, P.A. Piminov
+                       BINP SB RAS, Novosibirsk, Russia
+A. Chancé, B. Dalena, J. Payet
+                       CEA/IRFU, Gif-sur-Yvette, France
+R. De Maria, S.D. Fartoukh, M. Giovannozzi
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+The HL-LHC project relies on large aperture quadrupoles which are compatible with the very large beam sizes in the inner triplets resulting from the strong reduction of β*. As a result the beam is much more sensitive to non-linear perturbations in this region, such as those induced by the fringe fields of the low-beta quadrupoles. The spatial extension of these fringe fields increases as well more or less linearly with the coil aperture, which is an additional motivation to analyse this aspect in detail in the framework of the High Luminosity LHC design study. This paper will quantify this effect both by direct analytical estimates using first order Hamiltonian perturbation theory, and via numerical studies thanks to the dedicated implementation of a fringe field symplectic integrator in SixTrack.
+
+ 
+
+
+ 
+
+
+
+WEPEA050
+Analysis of Possible Functional Forms of the Scaling Law for Dynamic Aperture as a Function of Time
+2618
+
+
+ 
+
+M. Giovannozzi, R. De Maria, F. Lang
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+In recent studies, the evolution of the dynamic aperture with time has been fitted with a simple scaling law based on a limited number of free parameters. In this paper, different approaches to improve the numerical stability of the fit are presented, together with a new functional form. The results are discussed in details and applied to a set of numerical simulations for the LHC.
+
+ 
+
+
+ 
+
+
+
+WEPEA052
+Investigations on CERN PSB Beam Dynamics with Strong Direct Space Charge Effects Using the PTC-ORBIT Code
+2621
+
+
+ 
+
+V. Forte, E. Benedetto, C. Carli, M. Martini, B. Mikulec, E. Métral, F. Schmidt
+                       CERN, Geneva, Switzerland
+A.Y. Molodozhentsev
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The CERN PS Booster (PSB) is the first synchrotron of the LHC injector chain consisting out of four superposed rings and providing beam for many users. As part of the LIU project, the machine will be upgraded. Space charge and resonances are serious issues for the good quality of the beam at injection energy. Consequently simulations are needed to track the beam in the machine taking into account space charge effects: PTC-ORBIT has been used as tracking code. This paper presents simulations results compared with the measurements for machine performances evaluation and code-benchmarking purposes.
+
+ 
+
+
+ 
+
+
+
+WEPEA053
+Progress with the Upgrade of the SPS for the HL-LHC Era
+2624
+
+
+ 
+
+B. Goddard, T. Argyropoulos, W. Bartmann, H. Bartosik, T. Bohl, F. Caspers, K. Cornelis, H. Damerau, L.N. Drøsdal, L. Ducimetière, J.F. Esteban Müller, R. Garoby, M. Gourber-Pace, W. Höfle, G. Iadarola, L.K. Jensen, V. Kain, R. Losito, M. Meddahi, A. Mereghetti, V. Mertens, Ö. Mete, E. Montesinos, Y. Papaphilippou, G. Rumolo, B. Salvant, E.N. Shaposhnikova, M. Taborelli, H. Timko, F.M. Velotti
+                       CERN, Geneva, Switzerland
+E. Gianfelice-Wendt
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+The demanding beam performance requirements of the HL-LHC project translate into a set of requirements and upgrade paths for the LHC injector complex. In this paper the performance requirements for the SPS and the known limitations are reviewed in the light of the 2012 operational experience. The various SPS upgrades in progress and still under consideration are described, in addition to the machine studies and simulations performed in 2012. The expected machine performance reach is estimated on the basis of the present knowledge, and the remaining decisions that still need to be made concerning upgrade options are detailed.
+
+ 
+
+
+ 
+
+
+
+WEPEA054
+CERN PS Optical Properties Measured with Turn-by-turn Orbit Data
+2627
+
+
+ 
+
+C. Hernalsteens, T. Bach, S.S. Gilardoni, M. Giovannozzi, A. Lachaize, G. Sterbini, R. Tomás, R. Wasef
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The performance of the PS has been constantly increasing over the years both in terms of beam parameters (intensity and brightness) and beam manipulations (transverse and longitudinal splitting). This implies a very good knowledge of the linear and non-linear model of the ring. In this paper we report on a detailed campaign of beam measurements based on turn-by-turn orbit data aimed at measuring the optics in several conditions as well as the resonance driving terms. The goal of this study is to assess whether any specific correction system should be envisaged to achieve the required future performance.
+
+ 
+
+
+ 
+
+
+
+WEPEA055
+Quantitative Evaluation of Trapping and Overall Efficiency for Simple Models in One-degree of Freedom
+2630
+
+
+ 
+
+C. Hernalsteens, C. Frye, M. Giovannozzi
+                       CERN, Geneva, Switzerland
+A. Bazzani
+                       Bologna University, Bologna, Italy
+
+ 
+
+
+ 
+
+A key ingredient for the Multi-Turn Extraction at the CERN Proton Synchrotron is the beam trapping in stable islands of transverse phase space. The control of the trapping process is essential for the quality of the final beam in terms of intensity sharing and emittance. In this paper, a method allowing an analytical estimation of the fraction of beam trapped into stable islands as a function of the Hamiltonian parameters is presented for a very simple model of the dynamics (pendulum) and is extended to the case of the interpolating Hamiltonian of the Hénon model, the latter being a good 2D model of the MTE dynamics. The analytical results are compared with numerical simulations. Additional numerical simulations are presented for the minimum trapping amplitude and a fitted model is proposed. Results are discussed in detail.
+
+ 
+
+
+ 
+
+
+
+WEPEA056
+Design and Beam Measurements of Modified Fast Extraction Schemes in the CERN PS for Installing a Dummy Septum to Mitigate Ring Irradiation
+2633
+
+
+ 
+
+C. Hernalsteens, H. Bartosik, L.N. Drøsdal, S.S. Gilardoni, M. Giovannozzi, A. Lachaize, Y. Papaphilippou, A. Ulsroed
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The proposed Multi-Turn Extraction (MTE) for the CERN PS allows to reduce the overall extraction losses for high intensity beams. The required longitudinal structure of the proton beam induces unavoidable beam losses at the magnetic extraction septum. The installation of a dummy septum with an appropriate shielding has been proposed to localise losses and to shadow the magnetic septum. Such a device, located in the extraction region, imposes tight constraints on the available beam aperture. Modified extraction schemes have been proposed and in this paper they will be presented and discussed in detail together with the measured performance.
+
+ 
+
+
+ 
+
+
+
+WEPEA057
+Numerical Simulations to Evaluate the Performance of CERN PS Dummy Septum to Reduce Irradiation for the Multi-Turn Extraction
+2636
+
+
+ 
+
+C. Hernalsteens, S. Damjanovic, S.S. Gilardoni, M. Giovannozzi
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The losses created by the proposed Multi-Turn Extraction (MTE) at the CERN PS induces high activation of the magnetic extraction septum due to the de-bunched longitudinal beam structure requested to transfer the beam to the SPS. A mitigation measure is under study aiming at localizing losses in a well-shielded area by shadowing the magnetic extraction septum thanks to septum-like passive device. Such a solution is based on a so-called dummy septum, a blade which absorbs particles during the rise time of the extraction kickers for MTE beams. The efficiency of the scheme is presented in this paper. The quantitative estimate is based on detailed simulations that analyse the beam-matter interaction and provide a determination of the shadowing effect of the dummy septum.
+
+ 
+
+
+ 
+
+
+
+WEPEA058
+LSS Layout Optimizations for Low-beta Optics for the HL-LHC
+2639
+
+
+ 
+
+B.J. Holzer, R. De Maria
+                       CERN, Geneva, Switzerland
+R. Appleby, L.N.S. Thompson
+                       UMAN, Manchester, United Kingdom
+L.N.S. Thompson
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404
+The High Luminosity LHC (HL-LHC) project aims to upgrade the existing LHC to a peak luminosity of the order 1035cm-2s−1, while retaining as much of the nominal layout and hardware as possible. The current baseline for this upgrade is the use of the Achromatic Telescopic Squeeze (ATS) concept, which allows mini-Beta squeeze in IRs 1 and 5 (ATLAS and CMS respectively) far below that possible with nominal optics. However it is useful to both explore the parameter space of the ATS scheme while also attempting to push the boundaries of the nominal layout. This paper presents a study into maximising optical flexibility of the nominal LHC Long Straight Sections (LSSs) around IPs 1 and 5. This involves replacing, moving or adding magnets within the LSS to investigate feasibility of exploiting a more conventional optical scheme than the ATS scheme. In particular the option of replacing single LSS quadrupoles with doublets is explored. The study also looks at making similar changes to the LSS while also implementing the ATS scheme, to further explore the ATS parameter space with the benefit of experience gained into flexibility of a modified nominal LHC optical scheme.
+
+ 
+
+
+ 
+
+
+
+WEPEA059
+Study of the Impact of Fringe Fields of the Large Aperture Triplets on the Linear Optics of the HL-LHC
+2642
+
+
+ 
+
+B.J. Holzer, R. De Maria, S. Russenschuck
+                       CERN, Geneva, Switzerland
+R. Appleby, S. Kelly, M.B. Thomas, L.N.S. Thompson
+                       UMAN, Manchester, United Kingdom
+L.N.S. Thompson
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404
+High-luminosity hadron colliders such as the High Luminosity LHC (HL-LHC) project place demanding requirements on existing and new magnet technology. The very low β* achieved by the Achromatic Telescopic Squeeze (ATS) optics scheme* for the HL-LHC in particular, requires large apertures in the high gradient Nb3Sn final focusing inner triplet triplet. Such magnets have extended fringe fields which perturb the linear and non-linear optics. This paper presents results of studies into the liner optics of the LHC using a range of fringe field models, including measurements of fringe fields from prototype magnets, and presents calculations of the beta-beating in the machine. Furthermore a similar study is presented on the nominal LHC optics, which uses final focus quadrupoles of higher gradient but significantly smaller aperture.
+* S. Fartoukh, ‘’An Achromatic Telescopic Squeezing (ATS) Scheme for LHC Upgrade’’, in proceedings of IPAC11, p. 2088.
+
+ 
+
+
+ 
+
+
+
+WEPEA060
+Plans for the Upgrade of CERN's Heavy Ion Complex
+2645
+
+
+ 
+
+D. Manglunki, M. E. Angoletta, H. Bartosik, A. Blas, D. Bodart, M.A. Bodendorfer, T. Bohl, J. Borburgh, E. Carlier, J.-M. Cravero, H. Damerau, L. Ducimetière, A. Findlay, R. Garoby, S.S. Gilardoni, B. Goddard, S. Hancock, E.B. Holzer, J.M. Jowett, T. Kramer, D. Kuchler, A.M. Lombardi, Y. Papaphilippou, S. Pasinelli, R. Scrivens, G. Tranquille
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+To reach a luminosity higher than 6×1027 Hz/cm2 for Pb-Pb collisions, as expected by the ALICE experiment after its upgrade during the 2nd Long LHC Shutdown (LS2), several upgrades will have to be performed in the CERN accelerator complex, from the source to the LHC itself. This paper first details the present limitations and then describes the strategy for the different machines in the ion injector chain. Both filling schemes and possible hardware upgrades are discussed.
+
+ 
+
+
+ 
+
+
+
+WEPEA061
+The First LHC p-Pb run: Performance of the Heavy Ion Production Complex
+2648
+
+
+ 
+
+D. Manglunki, M. E. Angoletta, H. Bartosik, G. Bellodi, A. Blas, M.A. Bodendorfer, T. Bohl, C. Carli, E. Carlier, S. Cettour Cave, K. Cornelis, H. Damerau, A. Findlay, S.S. Gilardoni, S. Hancock, J.M. Jowett, D. Kuchler, M. O'Neil, Y. Papaphilippou, S. Pasinelli, R. Scrivens, G. Tranquille, B. Vandorpe, U. Wehrle, J. Wenninger
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+TThe first LHC proton-ion run took place in January-February 2013; it was the first extension to the collider programme, as this mode was not included in the design report. This paper presents the performance of the heavy ion and proton production complex, and details the issues encountered, in particular the creation of the same bunch pattern in both beams.
+
+ 
+
+
+ 
+
+
+
+WEPEA062
+Progress in ELENA Design
+2651
+
+
+ 
+
+S. Maury, W. Bartmann, P. Belochitskii, H. Breuker, F. Butin, C. Carli, T. Eriksson, R. Kersevan, S. Pasinelli, G. Tranquille, G. Vanbavinckhove
+                       CERN, Geneva, Switzerland
+W. Oelert
+                       FZJ, Jülich, Germany
+
+ 
+
+
+ 
+
+The Extra Low Energy Antiproton ring (ELENA) is a small ring at CERN which will be built to increase substantially the number of usable (or trappable) antiprotons delivered to experiments for studies with antihydrogen. The report shows the progress in the ELENA design. The choice of optics and ring layout inside of AD hall is given. The main limitations for beam parameters at extraction like intra beam scattering and tune shift due to space charge are discussed. The electron cooler plays key role in ELENA both for efficient deceleration as well as for preparing extracted beam with parameters defined by experiments. The other important systems like beam vacuum, beam instrumentations and others are reviewed as well.
+
+ 
+
+
+ 
+
+
+
+WEPEA063
+Upgrades and Consolidation of the CERN AD for Operation during the Next Decades
+2654
+
+
+ 
+
+T. Eriksson, M. E. Angoletta, L. Arnaudon, J.A. Baillie, M. Calviani, F. Caspers, L.V. Joergensen, R. Kersevan, G. Le Godec, R. Louwerse, M. Ludwig, S. Maury, A. Newborough, C. Oliveira, G. Tranquille
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+As the ELENA project is now well underway, focus is turned to the Antiproton Decelerator (AD) itself. Most of the machine’s key components are in operation since more than 25 years and a substantial consolidation program is now being launched in view of continued operation beyond 2025. Over the course of the next few years a progressive consolidation of the AD-Target area, the AD-ring and all associated systems will take place. Several investigations have recently been performed in the target area with the objective of establishing the radiation environment and the sensitivity of the antiproton production to potential misalignment of the production elements. Identification of reliability and serviceability issues of the AD-ring components and associated systems has been done and will continue during the 2013 shut-down. Planned and ongoing consolidation activities are also discussed with emphasis on stochastic and electron beam cooling, instrumentation, RF systems, vacuum, magnets, power converters and beam transfer equipment.
+
+ 
+
+
+ 
+
+
+
+WEPEA064
+SixTrack-Fluka Active Coupling for the Upgrade of the SPS Scrapers
+2657
+
+
+ 
+
+A. Mereghetti, F. Cerutti, R. De Maria, B. Goddard, V. Kain, M. Meddahi, Ö. Mete, Y. Papaphilippou, D. Pastor Sinuela, V. Vlachoudis
+                       CERN, Geneva, Switzerland
+R. Appleby
+                       UMAN, Manchester, United Kingdom
+
+ 
+
+
+ 
+
+The LHC Injectors Upgrade (LIU) Project aims at upgrading the systems in the LHC injection chain, to reliably deliver the beams required by the High-Luminosity LHC (HL-LHC). Essential for the clean injection into the LHC, the SPS scrapers are one of the important systems under revision. In order to take into account of the effect of betatron and longitudinal beam dynamics on energy deposition patterns, and nuclear and Coulomb scattering in the absorbing medium onto loss patterns, the SixTrack and Fluka codes have been coupled, profiting from the best of the refined physical models they respectively embed. The coupling envisages an active exchange of tracked particles between the two codes at each turn, and an on-line aperture check in SixTrack, in order to estimate the local cleaning inefficiency of the system. Knob-like, time-dependent strengths have been implemented in SixTrack, since the designed scraper system foresees the use of a magnetic bump. The study is intended to assess the robustness of the proposed scraper as well as its effectiveness with respect to the desired performance.
+
+ 
+
+
+ 
+
+
+
+WEPEA065
+Beam Tests and Plans for the CERN PS Booster Wideband RF System Prototype
+2660
+
+
+ 
+
+M.M. Paoluzzi, M. E. Angoletta, A. Findlay, M. Haase, M. Jaussi
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In the framework of the LHC Injectors Upgrade project (LIU) and in view of a complete replacement of the existing CERN PS Booster (PSB) RF systems, a prototype cavity has been installed beginning of 2012 in the machine. This modular, wideband (0.5 / 4 MHz), Finemet® loaded system uses solid-state power stages and includes fast RF feedback for beam loading compensation. In depth studies have been performed during 2012 to evaluate the system interaction with the new low-level digital electronics, its ability to accelerate the beam and cope with high beam intensity. The encouraging results suggest that this innovative approach can indeed be used to replace all the existing PSB RF systems but additional testing with a full scale prototype is required. This paper reports about the project status, the achieved results, the encountered difficulties and the foreseen prototype completion in preparation during 2013.
+
+ 
+
+
+ 
+
+
+
+WEPEA067
+Beam Optics Measurements through Turn by turn Beam Position Data in the SLS
+2663
+
+
+ 
+
+P. Zisopoulos, Y. Papaphilippou
+                       CERN, Geneva, Switzerland
+A. Streun
+                       PSI, Villigen PSI, Switzerland
+V.G. Ziemann
+                       Uppsala University, Uppsala, Sweden
+
+ 
+
+
+ 
+
+Refined Fourier analysis of turn-by-turn (TBT) transverse position data measurements can be used for determining several beam properties of a ring, such as transverse tunes, optics functions, phases, chromatic properties and coupling. In particular, the Numerical Analysis of Fundamental Frequencies (NAFF) algorithm is used to analyze TBT data from the Swiss Light Source (SLS) storage ring in order to estimate on and off-momentum beam characteristics. Of particular interest is the potential of using the full position information within one turn in order to measure beam optics properties.
+
+ 
+
+
+ 
+
+
+
+WEPEA069
+Review of the Drive Beam Stabilization in the CLIC Test Facility CTF3
+2666
+
+
+ 
+
+A. Dubrovskiy, L. Malina, P. Skowroński, F. Tecker
+                       CERN, Geneva, Switzerland
+T. Persson
+                       Chalmers University of Technology, Chalmers Tekniska Högskola, Gothenburg, Sweden
+
+ 
+
+
+ 
+
+CTF3 is a Test Facility focusing on beam-based studies of the key concepts of the Compact Linear Collider CLIC. Over the past several years many aspects the CLIC two-beam acceleration scheme were studied in CTF3, including the crucial issue of drive beam stability. The main sources of drifts and instabilities have been identified and mitigated, helping to improve the machine performance and showing significant progress towards the experimental demonstration of the very stringent requirements on current, energy and phase stability needed in CLIC. In this paper, the more effective techniques and feed-backs are summarized. The latest measurements on beam stability are reported and their relevance to CLIC is discussed.
+
+ 
+
+
+ 
+
+
+
+WEPEA070
+Space Charge Effects and Limitations in the Cern Proton Synchrotron
+2669
+
+
+ 
+
+R. Wasef, G. Arduini, H. Damerau, S.S. Gilardoni, S. Hancock, C. Hernalsteens, A. Huschauer, F. Schmidt
+                       CERN, Geneva, Switzerland
+G. Franchetti
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Space charge produces a large incoherent tune-spread which, in presence of betatronic resonances, could lead to beam losses and emittance growth. In the CERN Proton Synchrotron, at the current injection kinetic energy (1.4 GeV) and even at the future kinetic energy (2 GeV), space charge is one of the main limitations for high brightness beams and especially for the future High-Luminosity LHC beams. Several detailed studies and measurements have been carried out to improve the understanding of space charge limitations to determine the maximum acceptable tune spread and identify the most important resonances causing losses and emittance growth.
+
+ 
+
+
+ 
+
+
+
+WEPEA071
+Performance Limitations in the Lhc Due to Parasitic Beam-Beam Encounters - Parameter Dependence, Scaling, and Pacman Effects
+2672
+
+
+ 
+
+T. Pieloni
+                       EPFL, Lausanne, Switzerland
+X. Buffat, R. Calaga, R. Calaga, R. Giachino, W. Herr, E. Métral, G. Papotti, G. Trad
+                       CERN, Geneva, Switzerland
+D. Kaltchev
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+We studied possible limitations due to the long-range beam-beam effects in the LHC. With a large number of bunches and collisions in all interaction points, we have reduced the crossing angles (separation) to enhance long-range beam-beam effects to evaluate their influence on dynamic aperture and losses. Different β*, number of bunches and intensities have been used in several dedicated experiments and allow the test of the expected scaling laws.
+
+ 
+
+
+ 
+
+
+
+WEPEA072
+Experimental Studies of Resonance Crossing in Linear Non-scaling FFAGs With the S-POD Plasma Trap
+2675
+
+
+ 
+
+S.L. Sheehy, D.J. Kelliher, S. Machida, C.R. Prior
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+K. Fukushima, K. Ito, K. Moriya, H. Okamoto
+                       HU/AdSM, Higashi-Hiroshima, Japan
+
+ 
+
+
+ 
+
+In a linear non-scaling FFAG the betatron tunes vary over a wide range during acceleration. This naturally leads to resonance crossing including first order integer resonances. The S-POD (Simulator for Particle Orbit Dynamics) plasma trap apparatus at Hiroshima University represents a physically equivalent system to a charged particle beam travelling in a strong focusing accelerator lattice. The S-POD system can be used as an ‘experimental simulation’ to investigate the effects of resonance crossing and its dependence on dipole errors, tune crossing speed and other factors. Recent developments and experiments are discussed.
+
+ 
+
+
+ 
+
+
+
+WEPEA073
+A 180 MeV Injection Upgrade Design for the ISIS Synchrotron
+2678
+
+
+ 
+
+J.W.G. Thomason, D.J. Adams, B.S. Drumm, D.J.S. Findlay, I.S.K. Gardner, M.C. Hughes, S.J.S. Jago, B. Jones, R.J. Mathieson, S.J. Payne, B.G. Pine, A. Seville, H. V. Smith, C.M. Warsop, R.E. Williamson
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+J. Pasternak
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+D.C. Plostinar, C.R. Prior, G.H. Rees
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+ISIS is the spallation neutron source at the Rutherford Appleton Laboratory in the UK. Obsolescence and reliability issues are motivating plans to replace the present 70 MeV H minus linac, and this paper presents an overview of a design to allow injection of beam into the present ISIS ring at 180 MeV, which would increase intensity as a result of reduced space charge and optimised injection. The key topics addressed are design of the injection straight, injection painting and dynamics, foil specifications, acceleration dynamics, transverse space charge, instabilities, RF beam loading and activation.
+
+ 
+
+
+ 
+
+
+
+WEPEA074
+Optimisation of the Beam Line for COMET Phase-I
+2681
+
+
+ 
+
+A. Kurup, I. Puri, Y. Uchida, Y. Yap
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+R. Appleby, S.C. Tygier
+                       UMAN, Manchester, United Kingdom
+R.T.P. D'Arcy, A. Edmonds, M. Lancaster, M. Wing
+                       UCL, London, United Kingdom
+
+ 
+
+
+ 
+
+The COMET experiment will search for very rare muon processes that will give us an insight into particle physics beyond the Standard Model. COMET requires an intense beam of muons with a momentum less than 70 MeV/c. This is achieved using an 8 GeV proton beam; a heavy metal target to primarily produce pions; a solenoid capture system; and a curved solenoid to perform charge and momentum selection. It was recently proposed to build COMET is two phases with physics measurements being made in both phases. This requires re-optimising the beam line for a shorter curved solenoid. This will affect the pion and muon yield; the momentum distributions at the detector; and the collimator scheme required. This paper will present the beam line design for COMET Phase-I, which aims to maximise the yield for low momentum muons suppressing sources of backgrounds in the beam.
+
+ 
+
+
+ 
+
+
+
+WEPEA075
+Large Emittance Beam Measurements for COMET Phase-I
+2684
+
+
+ 
+
+A. Kurup, I. Puri, Y. Uchida, Y. Yap
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+R. Appleby, S.C. Tygier
+                       UMAN, Manchester, United Kingdom
+R.T.P. D'Arcy, A. Edmonds, M. Lancaster, M. Wing
+                       UCL, London, United Kingdom
+
+ 
+
+
+ 
+
+The COMET experiment will search for very rare muon processes that will give us an insight into particle physics beyond the Standard Model. COMET requires an intense beam of muons with a momentum less than 70 MeV/c. This is achieved using an 8 GeV proton beam; a heavy metal target to primarily produce pions; a solenoid capture system; and a curved solenoid to perform charge and momentum selection. Understanding the pion production yield and transport properties of the beam line is an important part of the experiment. The beam line is a continuous solenoid channel, so it is only possible to place a beam diagnostic device at the end of the beam line. Building COMET in two phases provides the opportunity to investigate the pion production yield and to measure the transport properties of the beam line in Phase-I. This paper will demonstrate how this will be done using the experimental set up for COMET Phase-I.
+
+ 
+
+
+ 
+
+
+
+WEPEA076
+Comparison of Taylor Maps with Radio Frequency Multipoles in a Thin Lens 6D Tracking Code
+2687
+
+
+ 
+
+D.R. Brett, R. Appleby
+                       UMAN, Manchester, United Kingdom
+J. Barranco, R. De Maria, R. Tomás
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: HiLumi LHC Design Study is part of the High Luminosity LHC project and is part funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+SixTrack is a general purpose 6D thin lens tracking code used for dynamic aperture studies. In the high luminosity LHC upgrade it is proposed that crab cavities are used to enhance the luminosity. In this study, for the current proposed optics, we consider the use of RF multipoles and Taylor maps as methods to simulate crab cavity elements in the lattice.
+
+ 
+
+
+ 
+
+
+
+WEPEA077
+Applying the 'Simple Accelerator Modelling in Matlab' (SAMM) Code to High Luminosity LHC Upgrade
+2690
+
+
+ 
+
+K.M. Hock, A. Wolski
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+R. Appleby
+                       UMAN, Manchester, United Kingdom
+
+ 
+
+
+ 
+
+The "Simple Accelerator Modelling in Matlab" (SAMM) code is a set of Matlab routines for modelling beam dynamics in high energy particle accelerators. It includes a set of CUDA codes that can be run on a Graphics Processor Unit. These can be called from SAMM and can speed up tracking simulations by 100 times. To make use of this potential for the computationally intensive LHC upgrade simulations, we have developed additional Matlab and CUDA routines to simulate the full set of elements that are present in the Large Hadron Collider. We present the results of applying these codes to dynamic aperture calculations. These results are benchmarked against PTC and MADX.
+
+ 
+
+
+ 
+
+
+
+WEPEA079
+A New Method to Integrate s-dependent Hamiltonian
+2693
+
+
+ 
+
+W. Guo
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. DOE, Contract No. DE-AC02-98CH10886
+The present theory to obtain higher order terms of beam dynamics is mostly through Taylor expansion and differentiation, for example, the Lie transformation. When 3-dimensional Hamiltonian is being considered the operation of integration becomes necessary. In this paper we will present a new integration theory, which leads to transfer maps for common accelerator elements based on 3-d Hamiltonians. Some physics insight was also gained from this theory, for example, the kick-map theory which is used for insertion device design and modeling, is a first-order approximation in our approach.
+
+ 
+
+
+ 
+
+
+
+WEPEA081
+Local 3Qy Betatron Resonance Correction in the 2012 RHIC 250 GeV Run
+2696
+
+
+ 
+
+Y. Luo, W. Fischer, T. Roser, V. Schoefer, C.M. Zimmer
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+In this article we performed numerical simulations to correct the local vertical third order betatron resonance 3Qy in the interaction regions in the Yellow ring for the 2012 RHIC 250~GeV polarized proton run. Considering the main sources of skew sextupoles are located in the interaction regions, we used local bump methods to minimize their contributions to the global 3Qy resonance driving term. Two kinds of correction orbit bumps are tested and the dynamic apertures with these correction strengths are calculated and compared.
+
+ 
+
+
+ 
+
+
+
+WEPEA082
+AGS Model in Zgoubi. RHIC Run 13  Polarization Modeling. Status.
+2699
+
+
+ 
+
+F. Méot, L. A. Ahrens, K.A. Brown, Y. Dutheil, J.W. Glenn, C.E. Harper, H. Huang, V.H. Ranjbar, T. Roser, V. Schoefer, N. Tsoupas
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+This paper gives a status of the AGS model in the ray-tracing code Zgoubi and its operation via the ‘‘AgsZgoubiModel'' and the ‘‘AgsModelViewer'' applications available from the controls system application launcher, ‘‘StartUp''. Examples of typical uses and studies performed using these are included, as optics controls, spin matching to RHIC, etc. A companion paper (MOPWA085) gives additional details, regarding especially spin dynamics and polarization studies aimed at determining optimal AGS settings for polarization during RHIC Run 13. This work is an additional step towards further combination with the already existing RHIC spin tracking model in Zgoubi, and AGS's Booster model in Zgoubi, a promising suite for detailed beam and spin dynamics studies and optimizations.
+
+ 
+
+
+ 
+
+
+
+

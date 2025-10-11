@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2013 - Table of Session: TUBL (BPMs and Beam Stability 1)
+
+
+TUBL —  BPMs and Beam Stability 1   (17-Sep-13   11:00—12:30)
+Chair: G. Decker, ANL, Argonne, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUBL1
+NSLS-II BPM and Fast Orbit Feedback System Design and Implementation
+316
+
+
+ 
+
+O. Singh, B. Bacha, A. Blednykh, W.X. Cheng, J.H. De Long, A.J. Della Penna, K. Ha, Y. Hu, B.N. Kosciuk, M.A. Maggipinto, J. Mead, D. Padrazo, I. Pinayev, Y. Tian, K. Vetter, L.-H. Yu
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The National Synchrotron Light Source II is a third generation light source under construction at Brookhaven National Laboratory. The project includes a highly optimized, ultra-low emittance, 3 GeV electron storage ring, linac pre-injector and full energy booster synchrotron. The low emittance requires high performance beam position monitor systems, providing measurement to better than 200 nm resolution; and fast orbit feedback systems, holding orbit to similar level of orbit deviations. The NSLS-II storage ring has 30 cells, each deploying up to 8 RF BPMs and 3 fast weak correctors. Each cell consists of a "cell controller", providing fast orbit feedback system infrastructure. This paper will provide a description of system design and summarize the implementation and status for these systems.
+
+ 
+
+
+
+
+
+
+Slides TUBL1 [5.225 MB]
+            
+ 
+
+
+ 
+
+
+
+TUBL2
+A 4 GS/s Feedback Processing System for Control of Intra-Bunch Instabilities
+323
+
+
+ 
+
+J.D. Fox, J.M. Cesaratto, J.E. Dusatko, J.J. Olsen, K.M. Pollock, C.H. Rivetta, O. Turgut
+                       SLAC, Menlo Park, California, USA
+W. Höfle
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy under contract DE-AC02-76SF00515 and the US LHC Accelerator Research program ( LARP)
+We present the architecture and implementation overview of a digital signal processing system developed to study control of Electron-Cloud and Transverse Mode coupling instabilities in the CERN SPS. The system is based on a reconfigurable processing architecture which samples vertical bunch motion and applies correction signals at a 4 GS/s rate, allowing 16 samples across a single 5 ns SPS RF bucket. The system requires wideband beam pickups and a vertical kicker structure with GHz bandwidth. This demonstration system implements a general purpose 16 tap FIR control filter for each sample. We present results from SPS machine studies showing the impact of wideband feedback to excite/damp internal modes of vertical motion as well as stabilize an unstable beam. These results highlight the challenges of intra-bunch feedback and show proof of principle feasibility of the architecture.
+
+ 
+
+
+
+
+
+
+Slides TUBL2 [12.154 MB]
+            
+ 
+
+
+ 
+
+
+
+TUBL3
+A Multiband-Instability-Monitor for High-Frequency Intra-Bunch Beam Diagnostics
+327
+
+
+ 
+
+R.J. Steinhagen
+                       CERN, Geneva, Switzerland
+M.J. Boland, T.G. Lucas
+                       The University of Melbourne, Melbourne, Australia
+
+ 
+
+
+ 
+
+To provide the best possible luminosity, even higher beam intensities are needed in the Large Hadron Collider (LHC) and in its injector chain. This is fundamentally limited by self-amplifying beam instabilities, intrinsic to unavoidable imperfections in accelerators. Traditionally, intra-bunch or head-tail particle motion is measured using fast digitizers, which even using state-of-the-art technology are limited in their effective intra-bunch position resolution to few tens of um in the multi-GHz regime. Oscillations at this scale cause partial or total loss of the beam due to the tight transverse constraints imposed by the LHC collimation system. To improve on the present signal processing, a prototype system has been designed, constructed and tested at the CERN Super-Proton-Synchrotron (SPS) and later on LHC. The system splits the signal into multiple equally-spaced narrow frequency bands that are processed and analysed in parallel. Working with narrow-band signals in frequency-domain permits the use of much higher resolution analogue-to-digital-converters that can be used to resolve nm-scale particle motion already during the onset of instabilities.
+
+ 
+
+
+
+
+
+
+Slides TUBL3 [3.165 MB]
+            
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: FRID (Verification & Validation)
+
+
+FRID —  Verification & Validation   (07-Dec-12   14:45—15:10)
+Chair: W. Mexner, KIT, Karlsruhe, Germany
+
+
+Paper
+Title
+Page
+
+
+
+FRID01
+Introducing the !CHAOS Control Systems Framework
+282
+
+
+ 
+
+L. Catani, F. Zani
+                       INFN-Roma II, Roma, Italy
+C. Bisegni, D. Di Giovenale, G. Di Pirro, L.G. Foggetta, G. Mazzitelli, A. Stecchi
+                       INFN/LNF, Frascati (Roma), Italy
+
+ 
+
+
+ 
+
+The analysis of most recent developments on high-performance software technologies suggests that new a design of distributed control systems (DCS) for particle accelerators may profit from solutions borrowed from cutting-edge Internet services. To fully profit from this new technologies the DCS model should be reconsidered, thus leading to the definition of a new paradigm. In this paper we present the conceptual design of a new control system for a particle accelerator and associated machine data acquisition system (DAQ), based on a synergic combination of a non-relational key/value database (KVDB) and network distributed object caching (DOC). The use of these technologies, to implement continuous data archiving and data distribution between components respectively, brought about the definition of a new control system concept offering a number of interesting features such as a high level of abstraction of services and components and their integration in a framework that can be seen as a comprehensive control services provider for GUI applications, front-end controllers, measurement and feedback procedures etc.
+
+ 
+
+
+ 
+
+
+
+

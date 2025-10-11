@@ -1,0 +1,404 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: TUBPL (User Interfaces and User eXperience (UX) 1)
+
+
+TUBPL —  User Interfaces and User eXperience (UX) 1   (10-Oct-17   11:30—13:00)
+Chair: R. Bacher, DESY, Hamburg, Germany
+
+
+Paper
+Title
+Page
+
+
+
+TUBPL01
+CERN Controls Configuration Service - a Challenge in Usability
+159
+
+
+ 
+
+L. Burdzanowski, A. Asko, A. Lameiro, K. Penar, C. Roderick, B. Urbaniec, V.I. Vasiloudis
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Complex control systems often require complex tools to facilitate daily operations in a way that assures the highest possible availability. Such a situation poses an engineering challenge, for which system complexity needs to be tamed in a way that everyday use becomes intuitive and efficient. The sensation of comfort and ease of use are matters of ergonomics and usability - very relevant not only to equipment but especially software applications, products and graphical user interfaces. The Controls Configuration Service (CCS) is a key component in CERN's data driven accelerator Control System. Based around a central database, the service provides a range of user interfaces enabling configuration of all different aspects of controls for CERN's accelerator complex. This paper describes the on-going renovation of the service with a focus on the evolution of the provided user interfaces, design choices and architectural decisions paving the way towards a single configuration platform for CERN's control systems in the near future.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/kQdYKpHmyWI
+        
+ 
+
+
+
+
+
+
+Slides TUBPL01 [1.679 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPL01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL02
+Taurus Big & Small: From Particle Accelerators to Desktop Labs
+166
+
+
+ 
+
+C. Pascual-Izarra, G. Cuní, C. Falcon-Torres, D. Fernández-Carreiras, Z. Reszela, M. Rosanes Siscart
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+O. Prades-Palacios
+                       ETSE-UAB, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+Taurus is a popular solution for rapid creation of Graphical User Interfaces (GUIs) for experiment control and data acquisition (even by non-programmers) *. Taurus is best known for its ability to interact with the Tango and Epics control systems, and thus it is mainly used in large facilities. However, Taurus also provides mechanisms to interact with other sources of data, and it is well suited for creating GUIs for even the smallest labs where the overhead of a distributed control system is not desired. This scalability together with its ease-of-use and the uncontested popularity of Python among the scientific users, make Taurus an attractive framework for a wide range of applications. In this work we discuss some practical examples of usage of Taurus ranging from a very small experimental setup controlled by a single Raspberry Pi, to large facilities synchronising an heterogeneous set of hundreds of machines running a variety of operating systems.
+* C Pascual-Izarra et al. "Effortless creation of control & data acquisition graphical user interfaces with taurus", THHC3O03, ICALEPCS2015, Melbourne, Australia, 2015.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/YOaV9FvRKNc
+        
+ 
+
+
+
+
+
+
+Slides TUBPL02 [4.440 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL03
+PANIC and the Evolution of Tango Alarm Handlers
+170
+
+
+ 
+
+S. Rubio-Manrique, G. Cuní, D. Fernández-Carreiras
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+G. Scalamera
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+The PANIC Alarm System is a python based suite to manage the configuration, triggering and acknowledge of alarms and automated actions in a Tango control system. The suite was developed at Alba in 2007 and since then it has been adopted by several other facilities and installations such as Synchrotrons and large telescopes, integrating in the process a large set of community-requested features. Its scalability is based on the stand-alone PyAlarm engines, that operate distributed across the control system; and the PANIC python API and user interfaces, that centralize the operation and configuration of the system. Each PyAlarm engine performs polled or event-triggered evaluation of alarm rules, complex logical operations and regular expression searches. The activation, recovery or reset of any alarm in the system can trigger actions like email, SMS, audible messages, local/remote logging, database insertion or execution of tango commands. This paper describes the evolution of the suite, its compatibility with other alarm handlers in Tango, the current state-of-the-art features, the compliance with Alarm Management standards and the future needs.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/T3730ZH_NsM
+        
+ 
+
+
+
+
+
+
+Slides TUBPL03 [6.277 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPL03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL04
+Streamlining the Target Fabrication Request at the National Ignition Facility
+176
+
+
+ 
+
+C.P. Manin, E.J. Bond, A.D. Casey, R.D. Clark, G.W. Norman
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+The NIF Shot Data Systems (SDS) team developed the Target Request Tool (TRT) Web application for facilitating the management of target requests from creation to approval. TRT provides a simple-to-use and user-friendly interface that allows the user to create, edit, submit and withdraw requests. The underlying design uses the latest Web technologies such as Node.js, Express, jQuery and Java-Script. The overall software architecture and functionality will be presented in this paper.
+LLNL-ABS-728266
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/m2AkK_af25g
+        
+ 
+
+
+
+
+
+
+Slides TUBPL04 [1.525 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPL04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL05
+MXCuBE3 Bringing MX Experiments to the WEB
+180
+
+
+ 
+
+M. Oskarsson, A. Beteva, D.D.S. De Sanctis, M. Guijarro, G. Leonard
+                       ESRF, Grenoble, France
+F. Bolmsten, M. Eguiraun, A. Milan-Otero, J. Nan, M. Thunnissen
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+Funding: This work was in part supported by the Horizon 2020 program of the European Union (iNEXT grant, project No. 653706)
+Originally conceived at ESRF and first deployed in 2005 MXCuBE, Macromolecular Xtallography Customized Beamline Environment, has with its successor MXCuBE2, become a successful international collaboration. The aim of the collaboration is to develop a beamline control application for macromolecular crystallography (MX) that are independent of underlying instrument control software and thus deployable at the MX beamlines of any synchrotron source. The continued evolution of the functionality offered at MX beamlines is to a large extent facilitated by active software development. New demands and advances in technology have led to the development of a new version of MXCuBE, MXCuBE3, The design of which was inspired by the results of a technical pre-study and user survey. MXCuBE3 takes advantage of the recent development in web technologies such as React and Redux to create an intuitive and user friendly application. The access to the application from any web browser further simplifies the operation and natively facilitates the execution of remote experiments.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/GGJib8l20ys
+        
+ 
+
+
+
+
+
+
+Slides TUBPL05 [3.014 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPL05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL06
+The Graphical User Interface of the Operator of the Cherenkov Telescope Array
+186
+
+
+ 
+
+I. Sadeh, I. Oya
+                       DESY Zeuthen, Zeuthen, Germany
+D. Dezman
+                       Cosylab, Ljubljana, Slovenia
+E. Pietriga
+                       INRIA, Orsay Cedex, France
+J. Schwarz
+                       INAF-Osservatorio Astronomico di Brera, Merate, Italy
+
+ 
+
+
+ 
+
+The Cherenkov Telescope Array (CTA) is the next generation gamma-ray observatory. CTA will incorporate about 100 imaging atmospheric Cherenkov telescopes (IACTs) at a southern site, and about 20 in the north. Previous IACT experiments have used up to five telescopes. Subsequently, the design of a graphical user interface (GUI) for the operator of CTA poses an interesting challenge. In order to create an effective interface, the CTA team is collaborating with experts from the field of Human-Computer Interaction. We present here our GUI prototype. The back-end of the prototype is a Python Web server. It is integrated with the observation execution system of CTA, which is based on the Alma Common Software (ACS). The back-end incorporates a redis database, which facilitates synchronization of GUI panels. redis is also used to buffer information collected from various software components and databases. The front-end of the prototype is based on Web technology. Communication between Web server and clients is performed using Web Sockets, where graphics are generated with the d3.js Javascript library.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/8ZvUj-DHSgE
+        
+ 
+
+
+
+
+
+
+Slides TUBPL06 [54.366 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPL06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

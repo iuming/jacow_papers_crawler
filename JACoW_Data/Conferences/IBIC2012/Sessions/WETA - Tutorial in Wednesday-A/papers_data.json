@@ -1,0 +1,38 @@
+{
+  "session_info": {
+    "id": "WETA",
+    "name": "WETA - Tutorial in Wednesday-A",
+    "url": "https://proceedings.jacow.org/IBIC2012/html/weta.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WETA02",
+      "title": "Learning from Beams -  Beam Instrumentation, Signal Processing, and (mis) Applications of Linear Time Invariant System Formalisms",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "Almost all particle accelerators measure and control beam properties. This talk looks at the signals from bunched beams using time domain and frequency domain formalisms. The signatures of bunch charge and bunch structure",
+        "motion in the longitudinal and transverse planes are reviewed and illustrated with examples from various types of beam pickups and monitors. Common control room diagnostics",
+        "instruments and measurement techniques are highlighted via techniques in use at selected accelerators and light sources. This tutorial is intended to help engineers and accelerator physicists interpret signals in the control room",
+        "and specify and understand the fundamental and technological limits of beam measurements. Examples are presented for position monitor techniques",
+        "pickups and the signal processing required for tune measurements",
+        "multi-bunch and intra-bunch instability control systems. The significance of technical implementation choices",
+        "and important lessons in understanding the impact of non-linear effects ( such as in amplifiers) are presented."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2012/talks/weta02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2012/papers/weta02.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2012/posters/weta02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2012-WETA02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 18:03:43"
+}

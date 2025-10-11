@@ -1,0 +1,161 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2015 - Table of Session: TUCW (PIC, Poisson and Coupling Impedance Solvers)
+
+
+TUCW —  PIC, Poisson and Coupling Impedance Solvers   (13-Oct-15   14:00—15:30)
+Chair: U. van Rienen, Rostock University, Faculty of Engineering, Rostock, Germany
+
+
+Paper
+Title
+Page
+
+
+
+TUCWC1
+GPU Acceleration of Particle-in-cell Methods
+ 
+
+
+ 
+
+B.M. Cowan, J.R. Cary, D. Meiser
+                       Tech-X, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by DARPA contract W31P4Q-15-C-0061 (SBIR)
+Graphics processing units (GPUs) have become key components in many supercomputing systems, as they can provide more computations relative to their cost and power consumption than conventional processors. However, to take full advantage of this capability, they require a strict programming model which involves single-instruction multiple-data execution as well as significant constraints on memory accesses. To bring the full power of GPUs to bear on plasma physics problems, we must adapt the computational methods to this new programming model. We have developed a GPU implementation of the particle-in-cell (PIC) method, one of the mainstays of plasma-based accelerator simulation. This framework is highly general and enables advanced PIC features such as high order particles and absorbing boundary conditions. The main elements of the PIC loop, including field interpolation and particle deposition, are designed to optimize memory access. We describe the performance of these algorithms and discuss some of the methods used.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCWC2
+An Improved Parallel Poisson Solver for Space Charge Calculation in Beam Dynamics Simulation
+44
+
+
+ 
+
+D. Zheng, U. van Rienen
+                       Rostock University, Faculty of Computer Science and Electrical Engineering, Rostock, Germany
+J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Dawei Zheng is supported by the China Scholarship Council. This research was partially supported by the U.S.Department of Energy under Contract no.DE-AC02-05CH11231.
+In numerous beam dynamics simulation of particle accelerators, the space charge calculation is a critical issue. The ways to calculate the space charge force vary in different kinds of methods. A common method based on Green's function in free space is often implemented in various PIC (particle-in-cell) simulation codes for beam tracking. However, the calculation time of the Poisson solver for both, serial and parallel cases can reach a high percentage of the whole simulation time consumption. In this paper, we present an improved parallel Poisson solver. The enhanced solver focused on three aspects of efficiency improvement: using the reduced integrated Green's function, using the discrete cosine transform for Green's function, using a novel fast implicitly zero-padded convolution routine. The amended, parallel Poisson solver is implemented using MPI and Open MP. We study the strong scaling and the weak scaling for the scalability property of the Poisson solver, too. The novel solver is integrated into the IMPACT-T code in order to compare it to the commonly used Poisson solver.
+
+ 
+
+
+
+
+
+
+Slides TUCWC2 [1.320 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-TUCWC2
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCWC3
+Computation of Beam Coupling Impedance in the Frequency Domain by Means of FIT and FEM
+48
+
+
+ 
+
+U. Niedermayer, O. Boine-Frankenheim, H. De Gersem
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by GSI, Planckstraße 1, 64291 Darmstadt, Germany
+A detailed knowledge of transverse and longitudinal beam coupling impedance is required to quantify intensity thresholds due to coherent instabilities and beam induced heating in ion synchrotrons. Particularly at low frequencies, where the beam pipe dominates the impedance spectrum, analytical calculations are widely used since contemporary time domain methods are inapplicable. We present two different ways to compute the beam coupling impedance in the frequency domain. One is based on FIT and it is implemented in 2D and 3D. The staircase FIT approximates curved structures only poorly, therefore another solver is implemented in 2D based on FEM. The unstructured triangular FEM mesh allows to approximate curved structures better. Furthermore, it allows to compute the space charge impedance, since the shape of the beam and the beam's dipole moment can be represented properly, such that the direct space charge force can be subtracted and only the coherent force remains. Space charge and resistive wall impedance results for GSI and the upcoming FAIR project and the impedance of the beam pipe for the Future Circular Collider (FCC-hh) design study are presented as applications.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-TUCWC3
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

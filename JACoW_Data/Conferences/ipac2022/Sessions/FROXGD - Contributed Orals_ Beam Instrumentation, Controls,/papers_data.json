@@ -1,0 +1,105 @@
+{
+  "session_info": {
+    "id": "FROXGD",
+    "name": "FROXGD - Contributed Orals: Beam Instrumentation, Controls, Feedback and Op. Aspects",
+    "url": "https://proceedings.jacow.org/ipac2022/html/froxgd.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FROXGD1",
+      "title": "A Method for Obtaining 3D Charge Density Distribution of a Self-Modulated Proton Bunch",
+      "authors": [
+        "T. Nechaeva",
+        "P. Muggli",
+        "MPI-P",
+        "München",
+        "Germany",
+        "L. Verra",
+        "G. Zevi Della Porta",
+        "CERN",
+        "Meyrin",
+        "Switzerland",
+        "TUM",
+        "Munich",
+        "Germany",
+        "MPI",
+        "Muenchen",
+        "Germany",
+        "* F. Batsch et al.",
+        "Phys. Rev. Lett. 126",
+        "164802 (2021)."
+      ],
+      "institutions": [
+        "The Advanced Wakefield Experiment (AWAKE) at CERN is the first plasma wakefield accelerator experiment to use a proton bunch as driver. The long bunch undergoes seeded self-modulation (SSM) in a 10 m-long plasma. SSM transforms the bunch into a train of short micro-bunches that resonantly drive high-amplitude wakefields. We use optical transition radiation (OTR) and a streak camera to obtain time-resolved images of the bunch transverse charge density distribution in a given plane. In this paper we present a method to obtain 3D images of the bunch by scanning the OTR across the entrance slit of the streak camera. Reconstruction of the 3D distribution is possible because with seeding self-modulation is reproducible*. The 3D images allow for checking the axi-symmetry of SSM and for detecting the possible presence of the non-axi-symmetric hosing instability (HI)."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2022/talks/froxgd1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2022/papers/froxgd1.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2022/posters/froxgd1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2022-FROXGD1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FROXGD2",
+      "title": "Development of a Quantum Electron Beam Diagnostic Apparatus",
+      "authors": [
+        "S. Zhang",
+        "A. Camsonne",
+        "G.-T. Park",
+        "JLab",
+        "Newport News",
+        "Virginia",
+        "USA",
+        "Characterization of electron beam properties using optical detection methods through the interaction between photons and electrons such as Compton scattering or electro-optic sampling have been successfully implemented as non-invasive diagnostics at various accelerator facilities. However",
+        "such methods often suffer from inherently low sensitivity. Here we present the study of a new type of electron beam diagnostic device for direct optical imaging of electron beams at various energy levels. The concept relies on high sensitivity of atoms",
+        "prepared in a specific spin quantum superposition",
+        "to the perturbations induced by the passing charged particle. Specifically",
+        "the magnetic field of the electrons induces polarization change of the probe light as well as changes in light absorption and fluorescence",
+        "enabling direct 3D imaging of the charged particles with high resolution. We report our recent experiment results and the design effort on a compact apparatus intended to be tested with the relativistic electron beams at Jefferson Laboratory."
+      ],
+      "institutions": [
+        "Funding: U.S. DOE Contract No. DE-AC05-06OR23177 and Jefferson Lab LDRD program."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2022/talks/froxgd2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2022/papers/froxgd2.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2022/posters/froxgd2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2022-FROXGD2",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FROXGD3",
+      "title": "Injection Beam Measurement Using Synchrotron Radiation Monitor at the SuperKEKB Electron Ring",
+      "authors": [
+        "H. Ikeda",
+        "T.M. Mitsuhashi",
+        "G. Mitsuka",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "We upgraded the diamond mirror of the SuperKEKB electron ring to extract the good quality synchrotron light in 2020 summer. As a result",
+        "the accuracy of profile measurement for each bunch using a gate camera has improved dramatically",
+        "and it has become possible to measure the incident beam for each turn. The electron beam was injected with single turn injection mode to measure the properties of the beam and measured turn by turn after injection. In order to convert the measurement results into beam size",
+        "convolution by diffraction effect and absolute value calibration using real images were performed. We report the behavior of the injection beam during normal operation of SuperKEKB."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2022/talks/froxgd3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2022/papers/froxgd3.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2022/posters/froxgd3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2022-FROXGD3",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 18:45:11"
+}

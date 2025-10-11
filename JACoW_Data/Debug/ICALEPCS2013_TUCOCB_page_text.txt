@@ -1,0 +1,394 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: TUCOCB (Software Technology Evolution)
+
+
+TUCOCB —  Software Technology Evolution   (08-Oct-13   15:00—17:30)
+Chair: G. Chiozzi, ESO, Garching bei Muenchen, Germany
+
+
+Paper
+Title
+Page
+
+
+
+TUCOCB01
+Next-Generation MADOCA for The SPring-8 Control Framework
+944
+
+
+ 
+
+T. Matsumoto, Y. Furukawa, M. Ishii
+                       JASRI/SPring-8, Hyogo-ken, Japan
+
+ 
+
+
+ 
+
+MADOCA control framework* was developed for SPring-8 accelerator control and has been utilized in several facilities since 1997. As a result of increasing demands in controls, now we need to treat various data including image data in beam profile monitoring, and also need to control specific devices which can be only managed by Windows drivers. To fulfill such requirements, next-generation MADOCA (MADOCA II) was developed this time. MADOCA II is also based on message oriented control architecture, but the core part of the messaging is completely rewritten with ZeroMQ socket library. Main features of MADOCA II are as follows: 1) Variable length data such as image data can be transferred with a message. 2) The control system can run on Windows as well as other platforms such as Linux and Solaris. 3) Concurrent processing of multiple messages can be performed for fast control. In this paper, we report on the new control framework especially from messaging aspects. We also report the status on the replacement of the control system with MADOCA II. Partial control system of SPring-8 was already replaced with MADOCA II last summer and has been stably operated.
+*R.Tanaka et al., “Control System of the SPring-8 Storage Ring”, Proc. of ICALEPCS’95, Chicago, USA, (1995)
+
+ 
+
+
+
+
+
+
+Slides TUCOCB01 [2.157 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOCB02
+Middleware Proxy: A Request-Driven Messaging Broker for High Volume Data Distribution
+948
+
+
+ 
+
+W. Sliwinski, A. Dworak, I. Yastrebov
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Nowadays, all major infrastructures and data centers (commercial and scientific) make an extensive use of the publish-subscribe messaging paradigm, which helps to decouple the message sender (publisher) from the message receiver (consumer). This paradigm is also heavily used in the CERN Accelerator Control system, in Proxy broker - critical part of the Controls Middleware (CMW) project. Proxy provides the aforementioned publish-subscribe facility and also supports execution of synchronous read and write operations. Moreover, it enables service scalability and dramatically reduces the network resources and overhead (CPU and memory) on publisher machine, required to serve all subscriptions. Proxy was developed in modern C++, using state of the art programming techniques (e.g. Boost) and following recommended software patterns for achieving low-latency and high concurrency. The outstanding performance of the Proxy infrastructure was confirmed during the last 3 years by delivering the high volume of LHC equipment data to many critical systems. This work describes in detail the Proxy architecture together with the lessons learnt from operation and the plans for the future evolution.
+
+ 
+
+
+
+
+
+
+Slides TUCOCB02 [4.726 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOCB03
+A Practical Approach to Ontology-Enabled Control Systems for Astronomical Instrumentation
+952
+
+
+ 
+
+W. Pessemier, G. Deconinck, G. Raskin, H. Van Winckel
+                       KU Leuven, Leuven, Belgium
+P. Saey
+                       Katholieke Hogeschool Sint-Lieven, Gent, Belgium
+
+ 
+
+
+ 
+
+Even though modern service-oriented and data-oriented architectures promise to deliver loosely coupled control systems, they are inherently brittle as they commonly depend on a priori agreed interfaces and data models. At the same time, the Semantic Web and a whole set of accompanying standards and tools are emerging, advocating ontologies as the basis for knowledge exchange. In this paper we aim to identify a number of key ideas from the myriad of knowledge-based practices that can readily be implemented by control systems today. We demonstrate with a practical example (a three-channel imager for the Mercator Telescope) how ontologies developed in the Web Ontology Language (OWL) can serve as a meta-model for our instrument, covering as many engineering aspects of the project as needed. We show how a concrete system model can be built on top of this meta-model via a set of Domain Specific Languages (DSLs), supporting both formal verification and the generation of software and documentation artifacts. Finally we reason how the available semantics can be exposed at run-time by adding a “semantic layer” that can be browsed, queried, monitored etc. by any OPC UA-enabled client.
+
+ 
+
+
+
+
+
+
+Slides TUCOCB03 [2.130 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOCB04
+EPICS Version 4 Progress Report
+956
+
+
+ 
+
+T. Korhonen
+                       PSI, Villigen PSI, Switzerland
+L.R. Dalesio, N. Malitsky, G. Shen
+                       BNL, Upton, Long Island, New York, USA
+D.G. Hickin, J. Rowland
+                       Diamond, Oxfordshire, United Kingdom
+M.R. Kraimer
+                       Self Employment, Private address, USA
+R. Lange
+                       HZB, Berlin, Germany
+M. Sekoranja
+                       Cosylab, Ljubljana, Slovenia
+G.R. White
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+EPICS Version 4 is the next major revision of the Experimental Physics and Industrial Control System, a widely used software framework for controls in large facilities, accelerators and telescopes. The primary goal of Version 4 is to improve support for scientific applications by augmenting the control-centered EPICS Version 3 with an architecture that allows building scientific services on top of it. Version 4 provides a new standardized wire protocol, support of structured types, and parametrized queries. The long-term plans also include a revision of the IOC core layer. The first set of services like directory, archive retrieval, and save set services aim to improve the current EPICS architecture and enable interoperability. The first services and applications are now being deployed in running facilities. We present the current status of EPICS V4, the interoperation of EPICS V3 and V4, and how to create services such as accelerator modelling, large database access, etc. These enable operators and physicists to write thin and powerful clients to support commissioning, beam studies and operations, and opens up the possibility of sharing applications between different facilities.
+
+ 
+
+
+
+
+
+
+Slides TUCOCB04 [1.937 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOCB05
+Device Definition and Composite Device Views on Top of the Flat EPICS Namespace
+ 
+
+
+ 
+
+L.R. Dalesio, K. Shroff, L. Yang
+                       BNL, Upton, Long Island, New York, USA
+R. Lange
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+The EPICS (Experimental Physics and Industrial Control System) IOC (Input Output Controller) Core database represents a process on signal level, presenting a flat view of possibly complex devices. This signal level interface is an easily agreed upon common denominator, allowing drivers, signal records, and processes on these signals to be standardized across EPICS installations. However, it is also necessary to represent a device in its different aspects. Currently this requires a-priori knowledge of all individual channels that are included in a device by each client. This paper discusses device orientation based on the new EPICS Version 4 database and middle layer services along with the ecosystem to manage these views.
+
+ 
+
+
+
+
+
+
+Slides TUCOCB05 [1.144 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOCB06
+Designing and Implementing LabVIEW Solutions for Re-Use*
+960
+
+
+ 
+
+M.S. Flegel
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: * This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-632632
+Many of our machines have a lot in common – they drive motors, take pictures, generate signals, toggle switches, and observe and measure effects. In a research environment that creates new machines and expects them to perform for a production assembly line, it is important to meet both schedule and quality. NIF has developed a LabVIEW layered architecture of Support, general Frameworks, Controllers, Devices, and User Interface Frameworks. This architecture provides a tested and qualified framework of software that allows us to focus on developing and testing the external interfaces (hardware and user) of each machine.
+
+ 
+
+
+
+
+
+
+Slides TUCOCB06 [4.232 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOCB07
+TANGO - Can ZMQ Replace CORBA ?
+964
+
+
+ 
+
+A. Götz, E.T. Taurel, P.V. Verdier
+                       ESRF, Grenoble, France
+G. Abeillé
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+TANGO (http://www.tango-controls.org) is a modern distributed device oriented control system toolkit used by a number of facilities to control synchrotrons, lasers and a wide variety of equipment for doing physics experiments. The performance of the network protocol used by TANGO is a key component of the toolkit. For this reason TANGO is based on the omniORB implementation of CORBA. CORBA offers an interface definition language with mappings to multiple programming languages, an efficient binary protocol, a data representation layer, and various services. In recent years a new series of binary protocols based on AMQP have emerged from the high frequency stock market trading business. A simplified version of AMQP called ZMQ (http://www.zeromq.org/) was open sourced in 2010. In 2011 the TANGO community decided to take advantage of ZMQ. In 2012 the kernel developers successfully replaced the CORBA Notification Service with ZMQ in TANGO V8. The first part of this paper will present the software design, the issues encountered and the resulting improvements in performance. The second part of this paper will present a study of how ZMQ could replace CORBA completely in TANGO.
+
+ 
+
+
+
+
+
+
+Slides TUCOCB07 [1.328 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOCB08
+Reimplementing the Bulk Data System with DDS in ALMA ACS
+969
+
+
+ 
+
+B. Jeram, G. Chiozzi, R.J. Tobar
+                       ESO, Garching bei Muenchen, Germany
+R. Amestica
+                       NRAO, Charlottesville, USA
+M. Watanabe
+                       NAOJ, Tokyo, Japan
+
+ 
+
+
+ 
+
+Bulk Data(BD) is a service in the ALMA Common Software to transfer a high amount of astronomical data from many-to-one, and one-to-many computers. Its main application is the Correlator SW (processes raw lags from the Correlator HW into science visibilities). The Correlator retrieves data from antennas on up to 32 computers. Data is forwarded to a master computer and combined to be sent to consumers. The throughput requirement both to/from the master is 64 MBytes/sec, differently distributed based on observing conditions. Requirements for robustness make the application very challenging. The first implementation, based on the CORBA A/V Streaming service, showed weaknesses. We therefore decided to replace it, even if we were approaching start of operations, making provision for careful testing. We have chosen as core technology DDS (Data Distribution Service), being a well supported standard, widespread in similar applications. We have evaluated mainstream implementations, with emphasis on performance, robustness and error handling. We have successfully deployed the new BD, making it easy switching between old and new for testing purposes. We discuss challenges and lessons learned.
+
+ 
+
+
+
+
+
+
+Slides TUCOCB08 [1.582 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOCB09
+The Internet of Things and Control System
+974
+
+
+ 
+
+V.H. Hardion, J. Lidón-Simon, M. Lindberg, A. Milan-Otero, A.G. Persson, D.P. Spruce
+                       MAX-lab, Lund, Sweden
+
+ 
+
+
+ 
+
+A recent huge interest in Machine to Machine communication is known as the Internet Of Things (IOT), to allow the possibility for autonomous devices to use Internet for exchanging the data. The Internet and the World Wide Web have caused a revolution in communication between the people. They were born from the need to exchange scientific information between institutes. Several universities have predicted that IOT will have a similar impact and now, industry is gearing up for it. The issues under discussion for IOT , such as protocols, representations and resources are similar to human communication and are currently being tested by different institutes and companies, including start-ups. Already, the term smart city is used to describe uses of IOT, such as smart parking, traffic congestion and waste management. In the domain of Control Systems for big research facilities, a lot of knowledge has already been acquired for building the connections between thousands of devices, more and more of which are provided with a TCP/IP connection. This paper investigates the possible convergence between Control Systems and IOT.
+
+ 
+
+
+
+
+
+
+Slides TUCOCB09 [11.919 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOCB10
+TANGO V8 - Another Turbo Charged Major Release
+978
+
+
+ 
+
+A. Götz, J.M. Chaize, T.M. Coutinho, J.M. Meyer, F. Poncet, E.T. Taurel, P.V. Verdier
+                       ESRF, Grenoble, France
+G. Abeillé, A. Buteau, N. Leclercq, F.E. Picca
+                       SOLEIL, Gif-sur-Yvette, France
+S. Cleva, M. Lonza, L. Pivetta, C. Scafuri
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+D.F.C. Fernández-Carreiras, S. Rubio-Manrique
+                       CELLS-ALBA Synchrotron, Cerdanyola del Vallès, Spain
+I.A. Khokhriakov
+                       HZG, Geesthacht, Germany
+S. Perez
+                       CEA, Arpajon, France
+D.P. Spruce
+                       MAX-lab, Lund, Sweden
+
+ 
+
+
+ 
+
+The TANGO (http://tango-controls/org) collaboration continues to evolve and improve the TANGO kernel. A latest release has made major improvements to the protocol and, the language support in Java. The replacement of the CORBA Notificaton service with ZMQ for sending events has allowed a much higher performance, a simplification of the architecture and support for multicasting to be achieved. A rewrite of the Java device server binding using the latest features of the Java language has made the code much more compact and modern. Guidelines for writing device servers have been produced so they can be more easily shared. The test suite for testing the TANGO kernel has been re-written and the code coverage drastically improved. TANGO has been ported to new embedded platforms running Linux and mobile platforms running Android and iOS. Packaging for Debian and bindings to commercial tools have been updated and a new one (Panorama) added. The graphical layers have been extended. The latest figures on TANGO performance will be presented. Finally the paper will present the roadmap for the next major release.
+
+ 
+
+
+
+
+
+
+Slides TUCOCB10 [1.469 MB]
+            
+ 
+
+
+ 
+
+
+
+

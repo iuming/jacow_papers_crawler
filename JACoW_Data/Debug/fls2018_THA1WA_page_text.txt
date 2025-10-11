@@ -1,0 +1,233 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FLS2018 - Table of Session: THA1WA (WG-A)
+
+
+THA1WA —  WG-A   (08-Mar-18   09:00—10:30)
+Chair: T.O. Raubenheimer, SLAC, Menlo Park, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+THA1WA01
+Fast Simulation of FEL Linacs with Collective Effects
+ 
+
+
+ 
+
+M. Dohlus
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The demands of FELs on beam quality are a challenge. From the source via accelerators, bunch compressors, collimation system to and through undulators, self effects play an important role for the design and operation of such machines. Unfortunately it is not possible to solve the coupled problem of Maxwell's equations and equations of motion for bunches of 10-6 to 10-3 meter length in machines with a dimension of 100 to 1000 meters. Therefore simplifying concepts as space charge fields, space charge optics, wakes and coherent synchrotron radiation are widely in use. There are even models for parasitic micro-bunch instabilities for wavelengths clearly below one micrometer. Although the individual models are well developed and efficient, it is still difficult to combine them in single program that simulates a machine from the source to the end.
+
+ 
+
+
+
+
+
+
+Slides THA1WA01 [1.696 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THA1WA02
+Eliminating the Microbunching-Instability-Induced Sideband in a Soft X-Ray Self-Seeding Free-Electron Laser
+ 
+
+
+ 
+
+K.Q. Zhang, C. Feng, D. Wang
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Soft x-ray self-seeding has been proved to be a feasible method to improve the longitudinal coherence of high gain free-electron laser. However, a pedestal-like sideband in the spectrum has been observed in the experiment, which generally limits the purity of the radiation pulse and the user's application. The previous theoretical study indicates that the pedestal-like sideband is mainly induced by microbunching instability generated from LINAC. In this paper, three dimensional simulations have been performed to confirm the analytical results and show the formation process of the spectral sideband. A probable method is proposed to eliminate the pedestal-like sideband by simply inserting a magnetic chicane before the self-seeding FEL undulator. Theoretical and numerical simulations have been performed and the results show that the proposed method can efficiently eliminate the microbunching-instability-induced sideband in a soft x-ray self-seeding FEL
+
+ 
+
+
+
+
+
+
+Slides THA1WA02 [8.258 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THA1WA03
+GPT-CSR: A New Simulation Code for CSR Effects
+157
+
+
+ 
+
+S.B. van der Geer, M.J. de Loos
+                       Pulsar Physics, Eindhoven, The Netherlands
+I. Setija, P.W. Smorenburg
+                       ASML Netherlands B.V., Veldhoven, The Netherlands
+P.H. Williams
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+For future applications of high-brightness electron beams, including the design of next generation FEL's, correct correct simulation of Coherent Synchrotron Radiation (CSR) is essential as it potentially degrades beam quality to unacceptable levels. However, the long interaction lengths compared to the bunch length, numerical cancellation, and difficult 3D retardation conditions make accurate simulation of CSR effects notoriously difficult. To ease the computational burden, CSR codes often make severe simplifications such as an ultra relativistic bunch travelling on a prescribed reference trajectory. Here we report on a new CSR model, implemented in the General Particle Tracer (GPT) code, that avoids most of the usual assumptions: It directly evaluates the Lienard-Wiechert potentials based on the stored history of the beam, it makes no assumptions about reference trajectories, while also taking into account the transverse size of the beam. First results demonstrating microbunching gain in a chicane are presented.
+
+ 
+
+
+
+
+
+
+Slides THA1WA03 [1.799 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-FLS2018-THA1WA03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THA1WA04
+A Staged, Multi-User X-Ray Free Electron Laser & Nuclear Physics Facility Based on a Multi-Pass Recirculating Superconducting CW Linac
+ 
+
+
+ 
+
+P.H. Williams, D. Angal-Kalinin, A.D. Brynes, J.A. Clarke, L.S. Cowie, D.J. Dunning, P. Goudket, F. Jackson, J.K. Jones, P.A. McIntosh, B.L. Militsyn, A.J. Moss, B.D. Muratori, S.L. Smith, M. Surman, N. Thompson, A.E. Wheelhouse
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+J.A.G. Akkermans
+                       ASML Netherlands B.V., Veldhoven, The Netherlands
+D. Angal-Kalinin, I.R. Bailey, A.D. Brynes, J.A. Clarke, L.S. Cowie, D.J. Dunning, P. Goudket, F. Jackson, J.K. Jones, P.A. McIntosh, B.W.J. MᶜNeil, B.L. Militsyn, A.J. Moss, B.D. Muratori, H.L. Owen, S.L. Smith, M. Surman, N. Thompson, A.E. Wheelhouse, P.H. Williams
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+I.R. Bailey
+                       Lancaster University, Lancaster, United Kingdom
+S.V. Benson, D. Douglas, Y. Roblin, T. Satogata, M. F. Spata, C. Tennant
+                       JLab, Newport News, Virginia, USA
+T.K. Charles
+                       The University of Melbourne, Melbourne, Victoria, Australia
+T.K. Charles
+                       CERN, Geneva, Switzerland
+B.W.J. MᶜNeil
+                       USTRAT/SUPA, Glasgow, United Kingdom
+H.L. Owen
+                       UMAN, Manchester, United Kingdom
+R.C. York
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+A multi-pass recirculating superconducting CW linac offers a cost effective path to a multi-user facility with unprecedented scientific and industrial reach over a wide range of disciplines. We propose such a facility to be constructed in stages. The first stage constitutes an option for a potential UK-XFEL; the linac will simultaneously drive a suite of short wavelength Free Electron Lasers (FELs) capable of providing high average power (MHz repetition rate) at up to 10 keV photons and high pulse energy (3 mJ) 25 keV photons. The system architecture is chosen to enable additional coherent sources at longer wavelengths, depending on community need. In later stages the scope of the project expands; we propose beam transport modifications to enable operation in Energy Recovery mode. This enables multi-MHz FEL sources, e.g. an X-ray FEL oscillator. Combining with lasers and / or self-interaction will provide access to MeV and GeV gamma-rays via inverse Compton scattering at high average power. Opportunities are also created for internal target and fixed target experiments. We explore possible system architectures and outline a path to confirm feasibility through experiments.
+
+ 
+
+
+
+
+
+
+Slides THA1WA04 [3.960 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

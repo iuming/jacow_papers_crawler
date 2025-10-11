@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WEBPP (Device Control and Integrating Diverse Systems 1)
+
+
+WEBPP —  Device Control and Integrating Diverse Systems 1   (09-Oct-19   10:30—11:30)
+Chair: G.K. Brunton, LLNL, Livermore, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEBPP01
+Control System Development and Integration at ELI-ALPS
+880
+
+
+ 
+
+L. Schrettner, B. Bagó, B. Erdohelyi, L.J. Fuloppresenter, F. Horvath, Sz. Horváth, Z. Héjja, V. Kurusa, G. Kávai
+                       ELI-ALPS, Szeged, Hungary
+
+ 
+
+
+ 
+
+Funding: ELI-ALPS is supported by the European Union and cofinanced by the European Regional Development Fund (GOP-1.1.1-12/B-2012-000, GINOP-2.3.6-15-2015-00001)
+ELI-ALPS will be the first large-scale attosecond facility accessible to the international scientific community and its user groups. Control system development has three major directions: vacuum control systems, optical control systems, as well as the integrated control, monitoring and data acquisition systems. The development of the systems has asked for different levels of integration. In certain cases low-level devices are integrated (e.g. vacuum valves), while in other cases complete systems are integrated (e.g. the Tango interface of a laser system). This heterogeneous environment is managed through the elaboration of a common and general architecture. Most of the hardware elements are connected to PLCs (direct control level), which are responsible for the low-level operation of devices, including machine protection functions, and data transfer to the supervisory control level (CLIs, GUIs). Certain hardware elements are connected to the supervisory layer (cameras), as well as the Tango interface of the laser systems. This layer handles also data acquisition with a special focus on the metadata catalogue.
+
+ 
+
+
+
+
+
+
+Slides WEBPP01 [2.684 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEBPP01
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEBPP02
+Centralized System Management of IPMI Enabled Platforms Using EPICS
+887
+
+
+ 
+
+K. Vodopivec
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy under contract DE-AC0500OR22725.
+Intelligent Platform Management Interface (IPMI) is a specification for computer hardware platform management and monitoring. The interface includes features for monitoring hardware sensors like fan speed and device temperature, inventory discovery, event propagation and logging. All IPMI functionality is accessible without the host operating system running. With its wide support across hardware vendors and the backing of a standardization committee, it is a compelling instrumentation for integration into a control system for large experimental physics projects. Integrating IPMI into EPICS provides the benefit of centralized monitoring, archiving and alarming integrated with the facility control system. A new project has been started to enable this capability by creating a native EPICS device driver built on the open-source FreeIPMI library for the remote host connection interface. The driver supports automatic system components discovery for creating EPICS database templates, detailed device information from Field Replaceable Unit interface, sensor monitoring with remote threshold management, geographical PV addressing in PICMG based platforms and PICMG front panel lights readout.
+
+ 
+
+
+
+
+
+
+Slides WEBPP02 [7.978 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEBPP02
+
+ 
+
+
+About •
+paper received ※ 02 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEBPP03
+The Laser Megajoule Facility: Front End’s Control System
+891
+
+
+ 
+
+J. Langot, C. Baret, P. Fourtillan, J.F. Gleyze, D. Hamon, D. Lebeaux, A. Perrin
+                       CEA, LE BARP cedex, France
+
+ 
+
+
+ 
+
+The Laser Megajoule (LMJ) is a 176-beam laser facility, located at the CEA CESTA Laboratory near Bordeaux (France). It is designed to deliver about 1.5 MJ of energy to targets, for high energy density physics experiments, including fusion experiments. Six 8-beams bundles are currently operational. The Front-End is the LMJ subsystem built to deliver the laser pulse which will be amplified into the bundles. It consists of 4 laser seeders, producing the laser pulses with the expected specificities and 88 Pre-Amplifier Modules (PAM). In this paper, we introduce the architecture of the Front-End’s control system which coordinate the operations of the laser seeders and the PAMs’s control systems. We will discuss the ability of the laser seeders and their control systems to inject the 88 PAMs almost independently. Then we will deal with the functions that enable the expected laser performances in terms of energy, spatial and temporal shapes. Finally, the technics used to validate and optimize the operation of the software involved in the Front-End’s equipment performance will be detailed.
+
+ 
+
+
+
+
+
+
+Slides WEBPP03 [58.495 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEBPP03
+
+ 
+
+
+About •
+paper received ※ 26 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEBPP04
+P99: An Optical Beamline for Offline Technique Development and Systems Integration for Prototype Beamline Instrumentation
+898
+
+
+ 
+
+A.D. Parsons, S. Ahmed, M. Basham, D. Bond, B. Bradnick, M.H. Burt, T.M. Cobb, N. Dougan, M. Drakopoulos, J. Ferner, J. Filik, C.A. Forrester, L. Hudson, P. Joyce, B. Kaulich, A. Kavva, J.H. Kelly, J. Mudd, B.J. Nutter, N. O’Brien, P.D. Quinn, K.A. Ralphs, C. Reinhard, J. Shannon, M.P. Taylor, T.E. Trafford, X.T. Tran, E. Warrick, A.A. Wilson, A.D. Winter
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Diamond Light Source is a publicly funded 3rd generation national synchrotron which will soon operate 39 state-of-the-art instruments covering a wide range of physical and life science applications. Realization of such instruments poses many challenges from initial scientific concept, to final user experience. To get best efficiency, Diamond operates a modular approach for engineering and software systems support, usually with custom hardware or software component coming together on the final instrument in-situ. To facilitate cross-group collaboration, prototyping, integrated development and testing of the full instrument including scientific case before the final implementation, an optical prototyping setup has been developed which has an identical backend to real beamline instruments. We present detail of the software and hardware components of this environment and how these have been used to develop functionality for the new operational instruments. We present several high impact examples of such integrated prototyping development including the instrumentation for DIAD (integrated Dual Imaging And Diffraction) and the J08 beamline for: soft X-ray ptychography end-station.
+
+ 
+
+
+
+
+
+
+Slides WEBPP04 [10.428 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEBPP04
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 21 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB2016 - Table of Session: WEB4 (Working Group B - Session 4)
+
+
+WEB4 —  Working Group B - Session 4   (06-Jul-16   16:00—17:40)
+Chair: A.M. Lombardi, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+WEPM5Y01
+H− Beam Dynamics Study of a LEBT in XiPAF Project with the WARP PIC Code
+449
+
+
+ 
+
+R. Ruo, L. Du, T.B. Du, X. Guan, C.-X. Tang, X.W. Wang, Q.Z. Xing, H.Y. Zhang, Q.Z. Zhang
+                       TUB, Beijing, People's Republic of China
+Y. He, J. Li
+                       NUCTECH, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The 7 MeV H− linac injector of Xi‘an Proton Application Facility (XiPAF) is composed of an ECR ion source, a Low Energy Beam Transport line (LEBT), a Radio Frequency Quadrupole accelerator (RFQ) and a Drift Tube Linac (DTL). The 1.7 m-long LEBT is used for matching a 40 μs pulse width 6 mA peak current beam to the entrance of the RFQ accelerator. The peak current and pulse-width of the 50 keV H− beam extracted from the ion source is 10 mA and 1 ms respectively. In the LEBT, an adjustable aperture is used for scraping the peak current of the beam to 6 mA, and an electric chopper is used for chopping the beam pulse width to 40 μs. These elements make the space charge compensation problem more complicated. A careful simulation of the space charge compensation problem of the H− beam has been done by considering the beam particles interacting with the residual gas with the help of WARP PIC code. To achieve the requirements of the LEBT in XiPAF, the type and pressure of the residual gas is given according to the simulation results.
+
+ 
+
+
+
+
+
+
+Slides WEPM5Y01 [5.926 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-HB2016-WEPM5Y01
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPM6Y01
+Study on Space Charge Compensation of Low Energy High Intensity Ion Beam in Peking University
+453
+
+
+ 
+
+S.X. Peng, J.E. Chen, Z.Y. Guo, H.T. Ren, J.M. Wen, W.B. Wu, Y. Xu, A.L. Zhang, J.F. Zhang, T. Zhang
+                       PKU, Beijing, People's Republic of China
+J.E. Chen
+                       Graduate University, Chinese Academy of Sciences, Beijing, People's Republic of China
+H.T. Ren
+                       FRIB, East Lansing, Michigan, USA
+A.L. Zhang
+                       University of Chinese Academy of Sciences, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+To better understand the space charge compensation processes in low energy high intensity beam transportation, numerical study and experimental simulation on H+ beam and H− beam were carried out at Peking University (PKU). The numerical simulation is done with a PIC-MCC model [1] whose computing framework was done with the 3D MATLAB PIC code bender [2], and the impacts among particles were done with Monte Carlo collision via null-collision method [3]. Issues, such as beam loss caused by collisions in H+, H− beam and ion-electron instability related to decompensation and overcompensation in H− beam, are carefully treated in this model. The experiments were performed on PKU ion source test bench. Compensation gases were injected directly into the beam transportation region to modify the space charge compensation degree. The results obtained during the experiment are agree well with the numerical simulation ones for both H+ beam [1] and H− beam [4]. Details will be presented in this paper.
+
+ 
+
+
+
+
+
+
+Slides WEPM6Y01 [5.625 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-HB2016-WEPM6Y01
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPM7Y01
+Transverse Coupling Property of Beam From ECR Ion Sources
+ 
+
+
+ 
+
+Y. Yang
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+Experimental evidence of the property of transverse coupling of beam from Electron Cyclotron Resonance (ECR) ion source is presented. It is especially of interest for an ECR ion source, where the cross section of extracted beam is not round along transport path due to the magnetic confinement configuration. When the ions are extracted and accelerated through the descending axial magnetic field at the extraction region, the horizontal and vertical phase space strongly coupled. In this study, the coupling configuration between the transverse phase spaces of the beam from ECR ion source is achieved by beam back-tracking simulation based on the measurements. The reasonability of this coupling configuration has been proven by a series of subsequent simulations. Based on this study, an improved operation scheme for the SFC injector line at IMP has been proposed to reduce the projection emittances by beam decoupling. Preliminary test has verified this proposal.
+
+ 
+
+
+
+
+
+
+Slides WEPM7Y01 [4.392 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPM8Y01
+Simulation of Space-Charge Compensation of a Low-Energy Proton Beam in a Drift Section
+458
+
+
+ 
+
+D. Noll, M. Droba, O. Meusel, U. Ratzinger, K. Schulte
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+Space-charge compensation provided by the accumulation of particles of opposing charge in the beam potential is an important effect occuring in magnetostatic low energy beam transport sections of high-intensity accelerators. An improved understanding of its effects might provide valuable input for the design of these beam lines. One approach to model the compensation process are Particle-in-Cell (PIC) simulations including residual gas ionisation. In simulations of a drifting proton beam, using the PIC code bender [1], some features of thermal equilibrium for the compensation electrons were found. This makes it possible to predict their spatial distribution using the Poisson-Boltzmann equation and thus the influence on beam transport. In this contribution, we will provide a comparison between the PIC simulations and the model as well as some ideas concerning the source of the (partial) thermalization.
+[1] D. Noll, M. Droba, O. Meusel, U. Ratzinger, K. Schulte, C. Wiesner - The Particle-in-Cell Code Bender and Its Application to Non-Relativistic Beam Transport, WEO4LR02, Proc. of HB2014
+
+ 
+
+
+
+
+
+
+Slides WEPM8Y01 [2.203 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-HB2016-WEPM8Y01
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

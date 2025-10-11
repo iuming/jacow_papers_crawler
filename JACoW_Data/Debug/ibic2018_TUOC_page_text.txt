@@ -1,0 +1,243 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2018 - Table of Session: TUOC (Beam position monitors)
+
+
+TUOC —  Beam position monitors   (11-Sep-18   14:00—15:30)
+Chair: J.H. Yue, IHEP, Beijing, People’s Republic of China
+
+
+Paper
+Title
+Page
+
+
+
+TUOC01
+Integration of a Pilot-Tone Based BPM System Within the Global Orbit Feedback Environment of Elettra
+190
+
+
+ 
+
+G. Brajnik, S. Bassanese, G. Cautero, S. Cleva, R. De Monte
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+In this contribution, we describe the advantages of the pilot tone compensation technique that we implemented in a new BPM prototype for Elettra 2.0. Injecting a fixed reference tone upstream of cables allows for a continuous calibration of the system, compensating the different behaviour of every channel due to thermal drifts, variations of cable properties, mismatches and tolerances of components. The system ran successfully as a drop-in substitute for a Libera Electron not only during various machine shifts, but also during a user dedicated beamtime shift for more than 10 hours, behaving in a transparent way for all the control systems and users. The equivalent RMS noise (at 10 kHz data rate) for the pilot tone position was less than 200 nm on a 19 mm vacuum chamber radius, with a long-term stability better than 1 um in a 12-hour window. Two main steps led to this important result: firstly, the development of a novel RF front end that adds the pilot tone to the signals originated by the beam, secondly, the realisation of an FPGA-based double digital receiver that demodulates both beam and pilot amplitudes, calculating the compensated X and Y positions.
+
+ 
+
+
+
+
+
+
+Slides TUOC01 [6.468 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUOC01
+
+ 
+
+
+About •
+paper received ※ 31 August 2018       paper accepted ※ 13 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUOC02
+APS Upgrade Integrated Beam Stability Experiments in the APS Storage Ring
+ 
+
+
+ 
+
+J. Carwardine, N.D. Arnold, R.W. Blake, A.R. Brill, H. Bui, G. Decker, L. Emery, T. Fors, P.S. Kallakuri, R.T. Keane, R.M. Lill, D.R. Paskvan, A.F. Pietryla, N. Sereno, H. Shang, S. Veseli, J. Wang, S. Xu, B.X. Yang
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: The submitted manuscript has been created by UChicago Argonne, LLC, Operator of Argonne National Laboratory (Argonne) under U.S.Department of Energy Office of Science Contract No. DE-AC02-06CH11357.
+An ultra-stable orbit will be essential to take advantage of the beam properties of the multi-bend achromat lattice of the APS Upgrade. Transverse beam dimensions are an order of magnitude smaller than for the present APS (14.7 microns x 2.8 microns in flat-beam mode), and consequently orbit stability tolerances are very challenging. The APS upgrade fast orbit feedback system uses a similar architecture to the present orbit feedback system, but while the present system corrects the orbit at 1.6 kHz using 160 bpms and 38 fast correctors per plane, design specifications for APS Upgrade call for orbit correction at 22kHz using 570 rf bpms and 90 photon bpms along with 160 fast correctors per plane. A major focus of the integrated beam stability R&D has been development and test of a prototype fast orbit feedback system using two sectors of the present APS storage ring for demonstration and validation of design parameters. Hardware/firmware implementation is discussed, and we present results from the R&D program covering both orbit correction and feedback control domains, including a novel algorithm that combines orbit correction for both slow and fast correctors down to DC.
+
+ 
+
+
+
+
+
+
+Slides TUOC02 [9.767 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUOC03
+Commissioning of the Open Source Sirius BPM Electronics
+196
+
+
+ 
+
+S.R. Marques, G.B.M. Bruno, L.M. Russo, H.A. Silva, D.O. Tavarespresenter
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+The new Brazilian 4th generation light source, Sirius, have already started and commissioning is planned to start in 2018. This paper will report on the manufacturing, deployment and production batch testing of the in-house developed BPM electronics. The latest performance and reliability achievements will be presented.
+
+ 
+
+
+
+
+
+
+Slides TUOC03 [14.606 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUOC03
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 11 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUOC04
+Development of Beam Position Monitor for the SPring-8 Upgrade
+204
+
+
+ 
+
+H. Maesaka
+                       RIKEN SPring-8 Center, Innovative Light Sources Division, Hyogo, Japan
+H. Dewa, T. Fujita, M. Masaki, S. Takano
+                       JASRI, Hyogo, Japan
+
+ 
+
+
+ 
+
+We are developing a new electron beam position monitor (BPM) system for the low-emittance upgrade of SPring-8. The requirements for the BPM system are: (1) a single-pass resolution of 100 µm rms for a 100 pC bunch and an electric center accuracy of 100 µm rms for the initial beam commissioning to achieve the first turn, (2) a closed-orbit distortion (COD) resolution better than 0.1 µm rms for a 100 mA stored beam and a position stability of less than 5 µm for the ultimate stability of a photon beam axis. We have completed prototypes of a precise button electrode and a BPM block to obtain high-intensity signals and sufficient mechanical accuracy while suppressing high-Q trapped modes leading to impedance and heating issues. The development of readout electronics based on the MTCA.4 standard and the evaluation of radiation-hard coaxial cables have also been conducted. The prototype BPM head was installed in the present SPring-8 storage ring for performance verification with an actual electron beam. We confirmed sufficient signal intensity, electric center accuracy, position stability, etc. by the beam test. The new BPM system is almost ready for the SPring-8 upgrade.
+
+ 
+
+
+
+
+
+
+Slides TUOC04 [2.126 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUOC04
+
+ 
+
+
+About •
+paper received ※ 06 September 2018       paper accepted ※ 12 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

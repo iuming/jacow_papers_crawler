@@ -1,0 +1,232 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2019 - Table of Session: TUZZPLM (Contributed Orals: Beam Instrumentation, Controls, Feedback and Op.)
+
+
+TUZZPLM —  Contributed Orals: Beam Instrumentation, Controls, Feedback and Op.   (21-May-19   15:00—16:00)
+Chair: A. Jansson, ESS, Lund, Sweden
+
+
+Paper
+Title
+Page
+
+
+
+TUZZPLM1
+Operational Results of LHC Collimator Alignment Using Machine Learning
+1208
+
+
+SUSPFO053
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+G. Azzopardi, A. Muscat, G. Valentino
+                       University of Malta, Information and Communication Technology, Msida, Malta
+S. Redaelli, B. Salvachua
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+A complex collimation system is installed in the Large Hadron Collider to protect sensitive equipment from unavoidable beam losses. The collimators are positioned close to the beam in the form of a hierarchy, which is guaranteed by precisely aligning each collimator with a precision of a few tens of micrometers. During past years, collimator alignments were performed semi-automatically*, such that collimation experts had to be present to oversee and control the alignment. In 2018, machine learning was introduced to develop a new fully-automatic alignment tool, which was used for collimator alignments throughout the year. This paper discusses how machine learning was used to automate the alignment, whilst focusing on the operational results obtained when testing the new software in the LHC. Automatically aligning the collimators decreased the alignment time at injection by a factor of three whilst maintaining the accuracy of the results.
+*G.Valentino et al., "Semi-automatic beam-based LHC collimator alignment", PRSTAB, no.5, 2012.
+
+ 
+
+
+
+
+
+
+Slides TUZZPLM1 [6.060 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-TUZZPLM1
+
+ 
+
+
+About •
+paper received ※ 10 May 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUZZPLM2
+Status of Automated Optimization Procedures at the European XFEL Accelerator
+1212
+
+
+ 
+
+S. Tomin
+                       EuXFEL, Schenefeld, Germany
+L. Fröhlich, M. Scholz
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL is in the operational stage since fall 2017. Since then, tuning of the FEL performance (e.g. of the photon pulse energy) has become increasingly important. Due to a large number of parameters to which FEL facilities are highly sensitive and their complex correlations, controlling and optimizing them in a speedy manner is becoming a very important and challenging task. Several automated optimization procedures were developed to optimize the FEL beam quality. In this work, we present the status and the results of these activities, as well as the optimization statistics.
+
+ 
+
+
+
+
+
+
+Slides TUZZPLM2 [5.882 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-TUZZPLM2
+
+ 
+
+
+About •
+paper received ※ 13 May 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUZZPLM3
+The EPICS Software Framework Moves from Controls to Physics
+1216
+
+
+ 
+
+G.R. White, M.V. Shankar
+                       SLAC, Menlo Park, California, USA
+T.M. Cobb
+                       DLS, Oxfordshire, United Kingdom
+L.R. Dalesio, M.A. Davidsaver
+                       Osprey DCS LLC, Ocean City, USA
+S.M. Hartman, K.-U. Kasemir, M.R. Pearson, K. Vodopivec
+                       ORNL, Oak Ridge, Tennessee, USA
+D.G. Hickin
+                       EuXFEL, Schenefeld, Germany
+A.N. Johnson, M.L. Rivers, G. Shen, S. Veseli
+                       ANL, Argonne, Illinois, USA
+H. Junkes
+                       FHI, Berlin, Germany
+M.G. Konrad, G. Shen
+                       FRIB, East Lansing, Michigan, USA
+T. Korhonen
+                       ESS, Lund, Sweden
+M.R. Kraimer
+                       Self Employment, Private address, USA
+R. Lange
+                       ITER Organization, St. Paul lez Durance, France
+M. Sekoranja
+                       Cosylab, Ljubljana, Slovenia
+K. Shroff
+                       BNL, Upton, Long Island, New York, USA
+D. Zimoch
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The Experimental Physics and Industrial Control System (EPICS), is an open-source software framework for high-performance distributed control, and is at the heart of many of the world’s large accelerators and telescopes. Recently, EPICS has undergone a major revision, with the aim of better computing supporting for the next generation of machines and analytical tools. Many new data types, such as matrices, tables, images, and statistical descriptions, plus users’ own data types, now supplement the simple scalar and waveform types of the former EPICS. New computational architectures for scientific computing have been added for high-performance data processing services and pipelining. Python and Java bindings have enabled powerful new user interfaces. The result has been that controls are now being integrated with modelling and simulation, machine learning, enterprise databases, and experiment DAQs. We introduce this new EPICS (version 7) from the perspective of accelerator physics and review early adoption cases in accelerators around the world.
+
+ 
+
+
+
+
+
+
+Slides TUZZPLM3 [4.271 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-TUZZPLM3
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

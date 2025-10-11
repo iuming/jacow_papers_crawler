@@ -1,0 +1,247 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WEDPL (Control System Upgrades 2)
+
+
+WEDPL —  Control System Upgrades 2   (09-Oct-19   16:30—17:30)
+Chair: M. Bickley, JLab, Newport News, Virginia, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEDPL01
+In-Place Technology Replacement of a 24x7 Operational Facility: Key Lessons Learned and Success Strategies From the NIF Control System Modernization
+950
+
+
+ 
+
+M. Fedorov, G.K. Brunton, C.M. Estes, B.T. Fishler, M.S. Flegel, A.P. Ludwigsen, M. Paul, S.L. Townsend
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344
+The National Ignition Facility (NIF) is the world’s largest laser system for Inertial Confinement Fusion (ICF) and High Energy Density (HED) experiments. Design of NIF control system started in the 1990s, incorporating established hardware and software technologies of that era. The architecture of the control system has stood the test of time, successfully scaling up to full 192 laser beam configuration in 2009, and then transitioning to 24x7 operations and sustaining 400 shots annually since 2016. The control system has grown with NIF to add new major capabilities, such as cryogenic layering, a petawatt-class laser, 3D neutron imaging and others. In parallel, with scaling up and efficiency optimizations, the software had to adapt to changes dictated by the fast-paced computer industry. Some of our originally chosen technologies have become obsolete and replaced by new programming languages, frameworks and paradigms. In this talk, we will discuss how the NIF control system has leveraged the strengths of its distributed, cross-platform architecture to successfully modernize "in-place" computing platforms and programming languages without impacting the demanding experiment schedule.
+
+ 
+
+
+
+
+
+
+Slides WEDPL01 [3.462 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEDPL01
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEDPL02
+AliECS: A New Experiment Control System for the Alice Experiment
+956
+
+
+ 
+
+T. Mrnjavac, K. Alexopoulos, V. Chibante Barroso, G.C. Raduta
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The ALICE Experiment at CERN LHC (Large Hadron Collider) is undertaking during Long Shutdown 2 in 2019-2020 a major upgrade, which includes a new computing system called O² (Online-Offline). To ensure the efficient operation of the upgraded experiment along with its newly designed computing system, a reliable, high performance and automated experiment control system is being developed with the goal of managing all O² synchronous processing software, and of handling the data taking activity by interacting with the detectors, the trigger system and the LHC. The ALICE Experiment Control System (AliECS) is a distributed system based on state of the art cluster management and microservices which have recently emerged in the distributed computing ecosystem. Such technologies will allow the ALICE collaboration to benefit from a vibrant and innovating open source community. This communication illustrates the AliECS architecture. It provides an in-depth overview of the system’s components, features and design elements, as well as its performance. It also reports on the experience with AliECS as part of ALICE Run 3 detector commissioning setups.
+
+ 
+
+
+
+
+
+
+Slides WEDPL02 [2.858 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEDPL02
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEDPL03
+International Collaboration for the Development of TwinCAT Motion Control Software for Neutron Instruments
+ 
+
+
+ 
+
+S.M. Cooper, S.M. Cox, D.E. Oram
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+P.N. Barron, T. Bögershausen, F. Rojas
+                       ESS, Lund, Sweden
+S. Janaschke, F. Suxdorf
+                       FZJ, Jülich, Germany
+
+ 
+
+
+ 
+
+At the ISIS Pulsed Neutron and Muon Source*, we are in the process of upgrading our motion control hardware, used on instrument beamlines, to Beckhoff brand PLCs. PLCs offer greater flexibility than our current hardware and will allow us to keep up with the constantly evolving motion requirements of our facility driven by our scientists and users. At the time of writing, we have delivered two systems using this new hardware with our intent being that all new systems installed from Q4 and onward will utilize Beckhoff hardware. For the upgrade, we are utilizing the TwinCAT** software environment to develop the software for this hardware. This has provided an opportunity to start from a blank slate defining our requirements capturing all aspects of the system lifecycle from its end-user science requirements, through to operational support tools. A TwinCAT working group has been formed with two other neutron facilities, ESS*** and JCNS****. This group formed to align our requirements and share expertise with the intent of creating a common software library across the facilities and a lasting collaboration.
+*https://isis.stfc.ac.uk/  **https://www.beckhoff.com/twincat/  ***https://europeanspallationsource.se/  ****https://www.fz-juelich.de/jcns/EN/Home/homenode.html 
+
+ 
+
+
+
+
+
+
+Slides WEDPL03 [12.721 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEDPL04
+Consolidation and Redesign of CERN Industrial Controls Frameworks
+963
+
+
+ 
+
+P. Golonka, F. Varela
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The Industrial Controls Frameworks, JCOP and UNICOS, have been employed to develop hundreds of critical controls applications in multiple domains like the detector control system, accelerator complex (cryogenics, powering, interlocks) or technical infrastructure, leading to an unprecedented level of homogeneity. These frameworks, used by a thousand of developers worldwide, will now undergo a major consolidation and re-engineering effort to prepare them for the new challenges of the next 20 years in the HL-LHC era, and streamline their maintenance. The paper presents the challenges that will be faced during this project due to the breadth of technological stack and large code-base contributed over two decades by numerous authors. Delivery of innovation induced by evolution of technologies and refactoring of the ageing code must be done in a way that ensures backward-compatibility for existing systems. The vision and the current state of the frameworks is discussed, alongside the main deliveries planned in the medium term. Lessons learnt, optimizations of processes to make best use of available resources and efforts towards open-source licensing of the frameworks are also presented.
+
+ 
+
+
+
+
+
+
+Slides WEDPL04 [2.285 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEDPL04
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

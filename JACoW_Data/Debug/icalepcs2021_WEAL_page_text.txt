@@ -1,0 +1,223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: WEAL (Feedback Control, Machine Tuning and Optimization I)
+
+
+WEAL —  Feedback Control, Machine Tuning and Optimization I   (20-Oct-21   12:30—13:15)
+Chair: M. Lonza, Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+
+
+WEAL
+   Video of full session  »Feedback Control, Machine Tuning and Optimization I« (total time: 0:47:42 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+WEAL01
+Image Processing Alignment Algorithms for the Optical Thomson Scattering Laser at the National Ignition Facility
+528
+
+
+ 
+
+A.A.S. Awwal, T.S. Budge, R.R. Leach, R.R. Lowe-Webb, V.J. Miller Kamm, S. Patankar, B.P. Patel, K.C. Wilhelmsen
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: *This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+Understanding plasma performance in the world’s largest and most energetic laser facility, the National Ignition Facility (NIF), is an important step to achieving the goal of inertial confinement fusion in a laboratory setting. The optical Thompson scattering (OTS) laser has been developed to understand the target implosion physics, especially for under-dense plasma conditions. A 5w probe beams can be set up for diagnosing various plasma densities. Just as the NIF laser with 192 laser beams are precisely aligned, the OTS system also requires precision alignment using a series of automated closed loop control steps. CCD images from the OTS laser (OTSL) beams are analyzed using a suite of image processing algorithm. The algorithms provide beam position measurements that are used to control motorized mirrors that steer beams to their defined desired location. In this paper, several alignment algorithms will be discussed with details on how they take advantage of various types of fiducials such as diffraction rings, contrasting squares and circles, octagons and very faint 5w laser beams.
+*This is released as LLNL-ABS-821809 
+
+ 
+
+
+
+
+
+
+Slides WEAL01 [1.303 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-WEAL01
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 21 November 2021        Issue date ※ 14 March 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAL02
+A Framework for High Level Machine Automation Based on Behavior Tree
+534
+
+
+ 
+
+G. Gaio, P. Cinquegrana, S. Krecic, G. Scalamera, G. Strangolino, F. Tripaldi, M. Trovò, L. Zambon
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+In order to carry out complex tasks on particle accelerators, physicists and operators need to know the correct sequence of actions usually performed through a large number of graphical panels. The automation logics often embedded in the GUIs prevents its reuse by other programs, thus limiting the level of automation a control system can achieve. In order to overcome this limitation we have introduced a new automation framework for shifting the logics from GUIs to server side, where simple tasks can be easily organized, inspected and stacked up to build more complex actions. This tool is based on Behavior Trees (BT) which has been recently adopted in the gaming industry for in-game AI player opponents. They are able to create very complex tasks composed by simple decoupled self-contained tasks (nodes), regardless how they are implemented. The automation framework has been deployed in the Elettra and FERMI TANGO-based control systems to implement autonomous operations. A dedicated Qt GUI and a web interface allow to inspect the BTs and dynamically go through a tree, visualize the dependencies, monitor the execution and display any running action.
+
+ 
+
+
+
+
+
+
+Slides WEAL02 [1.809 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-WEAL02
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 21 November 2021        Issue date ※ 08 March 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAL03
+The Status of Fast Obit Feedback System of HEPS
+540
+
+
+ 
+
+P. Zhu, Y.C. He, D.P. Jin, L. Zeng, Y.L. Zhang
+                       IHEP, Beijing, People’s Republic of China
+D.Y. Wang
+                       DNSC, Dongguan, People’s Republic of China
+L. Wang, X. Wu, Z.X. Xie, K. Xue
+                       IHEP CSNS, Guangdong Province, People’s Republic of China
+
+ 
+
+
+ 
+
+In order to further meet the needs of major national strategies and basic scientific research, High Energy Photon Source (HEPS) will be a high-performance fourth-generation synchrotron radiation source in Beijing, which will build more than 90 high-performance beamline stations. In order to ensure the high-performance operation of each beam line, the stability of the beam orbit near the light source output point is extremely important. As one of the key guarantees for the stability of the electron beam orbit, The FOFB system can suppress the beam orbit disturbance within a certain bandwidth to an acceptable range. This article introduces the currently progress of the FOFB system, including: the overall architecture scheme and key technical routes; the substation design following the ATCA mechanical architecture; the BPM data acquisition and high-speed transmission using high-performance Rocket I/O transmission Mechanism; embedded high-performance DSP for fast multiplication calculation to realize SVD, etc. The entire system design is progressing in an orderly manner.
+
+ 
+
+
+
+
+
+
+Slides WEAL03 [40.593 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-WEAL03
+
+ 
+
+
+About •
+Received ※ 19 October 2021       Revised ※ 22 October 2021       
+Accepted ※ 21 November 2021        Issue date ※ 23 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

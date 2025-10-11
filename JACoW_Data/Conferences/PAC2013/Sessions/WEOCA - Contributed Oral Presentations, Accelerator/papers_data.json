@@ -1,0 +1,70 @@
+{
+  "session_info": {
+    "id": "WEOCA",
+    "name": "WEOCA - Contributed Oral Presentations, Accelerator Technology",
+    "url": "https://proceedings.jacow.org/PAC2013/html/weoca.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEOCA1",
+      "title": "Regulator / Hard Switch Modulator",
+      "authors": [
+        "I. Roth",
+        "N. Butler",
+        "M.P.J. Gaudreau",
+        "M.K. Kempkes",
+        "Diversified Technologies",
+        "Inc.",
+        "Bedford",
+        "Massachusetts",
+        "USA",
+        "Diversified Technologies Inc. (DTI) designed a modulator which meets the requirements of the Spallation Neutron Source (SNS) modulators at Oak Ridge National Laboratory and will be less expensive than copies of the current modulators. The SNS modulators",
+        "under development for a decade",
+        "still do not meet the specifications for voltage",
+        "droop",
+        "or pulsewidth. The modulators must provide pulses of 85 kV",
+        "165 A",
+        "with pulsewidths of 1.5 ms and voltage flatness of 1%. The current modulator switches the full power at high frequency during each pulse",
+        "and has a complex output transformer. DTI designed a modulator that meets all specifications and is less expensive. The proposed design is cheaper because there is an HV switch that operates at full current only once per pulse",
+        "a corrector that switches only 5% of the power at high frequency",
+        "a low-cost transformer-rectifier power supply",
+        "and no output transformer. DTI’s patented switch uses IGBTs",
+        "allowing the switch to operate at full capacity even if 20% of the devices fail. The modulator will be installed in 2013 at SNS to test klystrons. DTI will present the system components of the design as well as the performance results to date."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/weoca1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/weoca1.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/weoca1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-WEOCA1",
+      "page_number": "722",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEOCA2",
+      "title": "Inductively Coupled Pulsed Energy Extraction System for 2G Wire-based Magnets",
+      "authors": [
+        "R.B. Agustsson",
+        "J.J. Hartzell",
+        "S. Storms",
+        "RadiaBeam",
+        "Santa Monica",
+        "USA"
+      ],
+      "institutions": [],
+      "abstract": "This project seeks to develop a novel method for quench protection of high-temperature superconducting (HTS) magnets based on coupling the magnet with a high-power resonant coil. The quench protection is realized by applying an electromagnetic pulse through the resonant coil and disrupting the superconducting state in the conductor. This creates a large (10s of meters) normal zone in less than 10 ms thus ensuring even distribution of the energy dissipation. The proposed protection system does not involve generation of high voltage on the coil leads and does not contribute to cryogenic losses. The system is easily scaled to a magnet of arbitrary size. Preliminary design and POC bench top test results are presented below.",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/weoca2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/weoca2.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/weoca2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-WEOCA2",
+      "page_number": "725",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 01:43:39"
+}

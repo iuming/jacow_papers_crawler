@@ -1,0 +1,345 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: MOBL (Software Technology Evolution I)
+
+
+MOBL —  Software Technology Evolution I   (18-Oct-21   13:15—14:30)
+Chair: G. Chiozzi, ESO, Garching bei Muenchen, Germany
+
+
+
+MOBL
+   Video of full session  »Software Technology Evolution I« (total time: 01:18:37 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+MOBL01
+The ELT Control System: Recent Developments
+37
+
+
+ 
+
+G. Chiozzi, L. Andolfato, J. Argomedo, N. Benes, C. Diaz Cano, A. Hoffstadt Urrutia, N. Kornweibel, U. Lampater, F. Pellegrin, M. Schilling, B. Sedghi, H. Sommer, M. Suarez Valles
+                       ESO, Garching bei Muenchen, Germany
+
+ 
+
+
+ 
+
+The Extremely Large Telescope (ELT) is a 39m optical telescope under construction in the Chilean Atacama desert. The design is based on a five-mirror scheme, incorporating Adaptive Optics (AO). The primary mirror consists of 798 segments with 1.4m diameter. The main control challenges can be identified in the number of sensors (~25000) and actuators (~15000) to be coordinated, the computing performance and small latency required for phasing of the primary mirror and the AO. We focus on the design and implementation of the supervisory systems and control strategies. This includes a real time computing (RTC) toolkit to support the implementation of the AO for telescope and instruments. We will also report on the progress done in the implementation of the control software infrastructure necessary for development, testing and integration. We identify a few lessons learned in the past years of development and major challenges for the coming phases of the project.
+
+ 
+
+
+
+
+
+
+Slides MOBL01 [6.399 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOBL01
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 15 October 2021       
+Accepted ※ 03 November 2021        Issue date ※ 25 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBL02
+Real-Time Framework for ITER Control Systems
+45
+
+
+ 
+
+W.R. Lee, B. Bauvir, T.H. Tak, A. Žagar
+                       ITER Organization, St. Paul lez Durance, France
+P. Karlovsek, M. Knap
+                       COSYLAB, Control System Laboratory, Ljubljana, Slovenia
+S. Lee
+                       KFE, Daejeon, Republic of Korea
+D.R. Makowski, P. Perek
+                       TUL-DMCS, Łódź, Poland
+A. Winter
+                       MPI/IPP, Garching, Germany
+
+ 
+
+
+ 
+
+The ITER Real-Time Framework (RTF) is a middleware providing common services and capabilities to build real-time control applications in ITER such as the Plasma Control System (PCS) and plasma diagnostics. The RTF dynamically constructs applications at runtime from the configuration. The principal building blocks that compose an application process are called Function Blocks (FB), which follow a modular structure pattern. The application configuration defines the information that can influence control behavior, such as the connections among FBs, their corresponding parameters, and event handlers. The consecutive pipeline process in a busy-waiting mode and a data-driven pattern minimizes jitter and hardens the deterministic system behavior. In contrast, infrastructural capabilities are managed differently in the service layer using non-real-time threads. The deployment configuration covers the final placement of a program instance and thread allocation to the appropriate computing infrastructure. In this paper, we will introduce the architecture and design patterns of the framework as well as the real-life examples used to benchmark the RTF.
+
+ 
+
+
+
+
+
+
+Slides MOBL02 [3.192 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOBL02
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Accepted ※ 11 November 2021       
+Issue date ※ 24 January 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBL03
+Machine Learning Platform: Deploying and Managing Models in the CERN Control System
+50
+
+
+ 
+
+J.-B. de Martel, R. Gorbonosov, N. Madysa
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Recent advances make machine learning (ML) a powerful tool to cope with the inherent complexity of accelerators, the large number of degrees of freedom and continuously drifting machine characteristics. A diverse set of ML ecosystems, frameworks and tools are already being used at CERN for a variety of use cases such as optimization, anomaly detection and forecasting. We have adopted a unified approach to model storage, versioning and deployment which accommodates this diversity, and we apply software engineering best practices to achieve the reproducibility needed in the mission-critical context of particle accelerator controls. This paper describes CERN Machine Learning Platform - our central platform for storing, versioning and deploying ML models in the CERN Control Center. We present a unified solution which allows users to create, update and deploy models with minimal effort, without constraining their workflow or restricting their choice of tools. It also provides tooling to automate seamless model updates as the machine characteristics evolve. Moreover, the system allows model developers to focus on domain-specific development by abstracting infrastructural concerns.
+
+ 
+
+
+
+
+
+
+Slides MOBL03 [0.687 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOBL03
+
+ 
+
+
+About •
+Received ※ 07 October 2021       Accepted ※ 16 November 2021       
+Issue date ※ 07 February 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBL04
+Karabo Data Logging: InfluxDB Backend and Grafana UI
+56
+
+
+ 
+
+G. Flucke, V. Bondar, R. Costa, W. Ehsan, S.G. Esenov, R. Fabbri, G. Giovanetti, D. Goeries, S. Hauf, D.G. Hickin, A. Klimovskaia, A. Lein, L.G. Maia, D. Mamchyk, A. Parenti, G. Previtali, A. Silenzi, J. Szuba, M. Teichmann, K. Wrona, C. Youngman
+                       EuXFEL, Schenefeld, Germany
+D.P. Spruce
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+The photon beam lines and instruments at the European XFEL (EuXFEL) are operated using the Karabo* control system that has been developed in house since 2011. Monitoring and incident analysis requires quick access to historic values of control data. While Karabo’s original custom-built text-file-based data logging system suits well for small systems, a time series data base offers in general a faster data access, as well as advanced data filtering, aggregation and reduction options. EuXFEL has chosen InfluxDB** as backend that is operated since summer 2020. Historic data can be displayed as before via the Karabo GUI or now also via the powerful Grafana*** web interface. The latter is e.g. used heavily in the new Data Operation Center of the EuXFEL. This contribution describes the InfluxDB setup, its transparent integration into Karabo and the experiences gained since it is in operation.
+* Steffen Hauf et al., J. Synchrotron Rad. (2019). 26, 1448-1461  ** https://docs.influxdata.com/influxdb/ *** https://grafana.com/grafana/
+
+ 
+
+
+
+
+
+
+Slides MOBL04 [3.204 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOBL04
+
+ 
+
+
+About •
+Received ※ 13 October 2021       Accepted ※ 16 November 2021       
+Issue date ※ 06 January 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBL05
+Photon Science Controls: A Flexible and Distributed LabVIEW Framework for Laser Systems
+62
+
+
+ 
+
+B.A. Davis, B.T. Fishler, R.J. McDonald
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+LabVIEW software is often chosen for developing small scale control systems, especially for novice software developers. However, because of its ease of use, many functional LabVIEW applications suffer from limits to extensibility and scalability. Developing highly extensible and scalable applications requires significant skill and time investment. To close this gap between new and experienced developers we present an object-oriented application framework that offloads complex architecture tasks from the developer. The framework provides native functionality for data acquisition, logging, and publishing over HTTP and WebSocket with extensibility for adding further capabilities. The system is scalable and supports both single process applications and small to medium sized distributed systems. By leveraging the framework, developers can produce robust applications that are easily integrated into a unified architecture for simple and distributed systems. This allows for decreased system development time, improved onboarding for new developers, and simple framework extension for new capabilities.
+
+ 
+
+
+
+
+
+
+Slides MOBL05 [3.178 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOBL05
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Accepted ※ 16 November 2021       
+Issue date ※ 14 March 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

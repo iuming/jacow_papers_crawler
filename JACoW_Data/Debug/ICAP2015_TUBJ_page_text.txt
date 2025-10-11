@@ -1,0 +1,179 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2015 - Table of Session: TUBJ (Laser Wakefield, Plasma and Beam-Plasma Acceleration)
+
+
+TUBJ —  Laser Wakefield, Plasma and Beam-Plasma Acceleration   (13-Oct-15   10:30—12:30)
+Chair: J. Qiang, LBNL, Berkeley, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUBJI1
+Lorentz Boosted Frame Simulation of Laser Wakefield Acceleration in Full 3D and in Quasi-3D Geometries
+ 
+
+
+ 
+
+X.L. Xu, W. Lu
+                       TUB, Beijing, People's Republic of China
+A.W. Davidson, V.K. Decyk, W.B. Mori, A. Tableman, F.S. Tsung, P. Yu
+                       UCLA, Los Angeles, California, USA
+F. Fiuza, R.A. Fonseca, L.O. Silva, J. Vieira
+                       Instituto Superior Tecnico, Lisbon, Portugal
+
+ 
+
+
+ 
+
+We present a systematic study of studying Laser Wakefield Acceleration (LWFA) in Lorentz boosted frame using particle-in-cell codes. We first discuss the origin of the numerical Cerenkov instability (NCI) that inevitably arises due to the presence of a plasma drifting across the grid with relativistic speeds and the strategies for eliminating the NCI. These strategies work for FFT based Maxwell solvers. Based on these strategies we developed a new PIC code, UPIC-EMMA, that is based on the UPIC framework which has fully parallelized, multi-dimensional spectral Maxwell solvers. We have also incorporated these mitigation strategies into our PIC code OSIRIS by adding a new hybrid Yee-FFT Maxwell solver. With these strategies, UPIC-EMMA and OSIRIS, can be used to carry out high fidelity LWFA boosted frame simulation with no evidence of NCI. Furthermore, OSIRIS also has the ability to carry out simulations in a quasi-3D geometry in which fields are expanded into azimuthal harmonics and solved on an r-z PIC grid keeping only a few harmonics. Boosted frame simulations can also be carried out in this geometry leading to unprecedented speedups.
+
+ 
+
+
+
+
+
+
+Slides TUBJI1 [4.427 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBJI2
+High-performance Modeling of Plasma-based Acceleration Using the Full PIC Method
+31
+
+
+ 
+
+J.-L. Vay, R. Lehé, H. Vincenti
+                       LBNL, Berkeley, California, USA
+B.B. Godfrey, I. Haber
+                       UMD, College Park, Maryland, USA
+P. Lee
+                       Laboratoire de Physique des Gaz et des Plasmas, Universite Paris-Sud, Orsay, France
+
+ 
+
+
+ 
+
+Funding: Work supported by US-DOE Contracts DE-AC02-05CH11231 and the US-DOE SciDAC program ComPASS. Used resources of NERSC, supported by US-DOE Contract DE-AC02-05CH11231.
+Numerical simulations have been critical in the recent rapid developments of plasma-based acceleration concepts. Among the various available numerical techniques, the Particle-In-Cell (PIC) approach is the method of choice for self-consistent simulations from first principles. The fundamentals of the PIC method were established decades ago but improvements or variations are continuously being proposed. We report on several recent advances in PIC related algorithms that are of interest for application to plasma-based accelerators, including: (a) detailed analysis of the numerical Cherenkov instability and its remediation for the modeling of in laboratory and Lorentz boosted frames*, (b) analytic pseudo-spectral electromagnetic solvers in Cartesian and cylindrical (with azimuthal modes decomposition) geometries**, (c) arbitrary-order finite-difference and generalized pseudo-spectral Maxwell solvers***, (d) novel analysis of Maxwell's solvers' stencil variation and truncation, in application to domain decomposition strategies and implementation of Perfectly Matched Layers in high-order and pseudo-spectral solvers****.
+*B. Godfrey et al., J. Comp. Phys.,267, 2014  **J-L. Vay et al., J. Comp. Phys. 243, 2013;R. Lehe & al,submit.  ***J-L. Vay et al.,in prep. ****P. Lee et al., Comp. Phys. Com., 94, 2015;H. Vincenti et al., submit.
+
+ 
+
+
+
+
+
+
+Slides TUBJI2 [15.103 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-TUBJI2
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBJI3
+Beam-Plasma Acceleration: A Case Study in Computational Reproducibility and Open Science
+ 
+
+
+ 
+
+D.L. Bruhwiler, N.M. Cook, R. Nagler, S.D. Webb
+                       RadiaSoft LLC, Boulder, Colorado, USA
+G. Andonian
+                       RadiaBeam, Marina del Rey, California, USA
+B. Hidding
+                       USTRAT/SUPA, Glasgow, United Kingdom
+R. Lehé, J.-L. Vay
+                       LBNL, Berkeley, California, USA
+P. Moeller
+                       Bivio Software Inc., Boulder, USA
+Y. Xi
+                       UCLA, Los Angeles, USA
+
+ 
+
+
+ 
+
+Funding: This work is funded in part by the US Department of Energy, Office of High Energy Physics, under Grant No. DE-SC0013855
+Reproducibility is an essential requirement for scientific advancement, yet it is difficult and time-consuming to achieve for large-scale simulations of particle accelerators and other physical systems. For example, detailed reproduction of previous work may require access to the same version of an application and multiple dependencies, the ability to build and install with the same compiler and flags, access to the original input files or other configuration details, and use of the same or similar visualization tools. Recent developments in open source software for application containers have made it possible to containerize scientific simulations for archival and collaboration, which immediately enables other scientists to reproduce and extend previous results. We present a fully realized use case of containerized computing, highlighting recent parallel simulations of beam-plasma acceleration using the particle-in-cell framework Warp. The simulations will include simple PWFA configurations and resonant injection concepts. Cross-platform installers will be publicly available, enabling access to Warp within a Linux virtual machine, including all necessary files and scripts.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,542 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: TUPBA (Poster Session)
+
+
+TUPBA —  Poster Session   (01-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPBA03
+Preliminary Accelerator Design of a Circular Higgs Factory in China
+523
+
+
+ 
+
+J.Y. Tang, Y.W. An, S. Bai, J. Gao, H. Geng, Y.Y. Guo, Q. Qin, D. Wang, N. Wang, S. Wang, Y. Wang, M. Xiao, G. Xu, S.Y. Xu, Y. Yue, J.Y. Zhai, C. Zhang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Since the Higgs was found last summer at the LHC in CERN, Higgs factory was proposed as a future accelerator. A circular Higgs factory was considered in IHEP, with the possibility of converting the electron machine to be a pp collider in the future. Some accelerator physics problems are being studied and a preliminary design of the rings is given.
+
+ 
+
+
+ 
+
+
+
+TUPBA04
+AC Dipole Based Optics Measurement and Correction at RHIC
+526
+
+
+ 
+
+X. Shen, S.-Y. Lee
+                       IUCEEM, Bloomington, Indiana, USA
+M. Bai, Y. Luo, A. Marusic, G. Robert-Demolaize, S.M. White
+                       BNL, Upton, Long Island, New York, USA
+R. Tomás
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Independent component analysis (ICA) was applied to the AC dipole based optics measurement at RHIC to extract beta functions as well as phase advances at each BPM. Existence of excessive beta-beat was observed in both rings of RHIC at store energy. A unique global optics correction scheme was then developed and tested successfully during the RHIC polarized proton run in 2013. The feasibility of using closed orbit bump and sextupole for arc beta-beat correction was also demonstrated. The technique and experimental results of optics correction are reported in this paper.
+
+ 
+
+
+ 
+
+
+
+TUPBA05
+Implementation of Optics Correction on the Ramp in RHIC
+529
+
+
+ 
+
+C. Liu, A. Marusic, M.G. Minty
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+In this report we describe and present experimental results from correction of the accelerator optics during acceleration and preparation for collisions at the Relativistic Heavy Ion Collider (RHIC) at BNL. Past experiences with beam optics correction at RHIC have concentrated on measurements and corrections at store beam energies. While well-corrected beam optics is desirable for maximizing beam and polarization lifetime, well-corrected beam optics during the ramp is also desirable for example to reduce the strength of depolarizing resonances. With optics measurements on the ramp at every 2 or 4 seconds, corrections were computed for several fixed points on the ramp using a well-tested weighted Singular Value Decomposition algorithm. Successful implementation of correction on the second part of the ramp (rotator ramp), together with some observations on the first part of the ramp (the energy ramp) will be presented.
+
+ 
+
+
+ 
+
+
+
+TUPBA06
+Global Optics Correction in RHIC Based on Turn-by-turn Data from ARTUS Tune Meter
+532
+
+
+ 
+
+C. Liu, M. Blaskiewicz, K.A. Drees, W. Fischer, A. Marusic, M.G. Minty
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Deviation of the optical functions from the model may result in reduced dynamic aperture, luminosity and beam polarization all of which are of particular interest in the polarized proton program at RHIC. Peak to peak beta-beats as large as ± 80% have been observed. In run-13, we demonstrated that the optical functions can be corrected globally by two different approaches, beta-beat and phase-beat corrections. The optics measurement, correction algorithm and beta-beat measurements before and after correction will be presented.
+
+ 
+
+
+ 
+
+
+
+TUPBA07
+Dynamic Aperture Maximization with Head-on Beam-beam Compensation in RHIC
+535
+
+
+ 
+
+Y. Luo, W. Fischer, S.M. White
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+To minimize the large beam-beam tune spread and to reduce the beam-beam nonlinear resonance driving terms, two electron lenses are being installed in the RHIC tunnel for head-on beam-beam compensation. In this article we discuss the approaches to maximize the proton dynamic aperture by adjusting the phase advances between beam-beam interaction points, and the phase advances between the beam-beam interaction points and the electron lenses, and by choosing different β*s at the beam-beam interaction points.
+
+ 
+
+
+ 
+
+
+
+TUPBA08
+Measurement of Beam Optics During Acceleration in the Relativistic Heavy Ion Collider
+538
+
+
+ 
+
+M.G. Minty, K.A. Drees, R.L. Hulsart, C. Liu, A. Marusic, R.J. Michnoff, P. Thieberger
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+We describe a new and minimally invasive method for near real-time measurement of the evolution of critical beam optical parameters during acceleration of beams to high energies in the Relativistic Heavy Ion Collider (RHIC) at BNL. The implementation uses existing hardware to periodically excite a single bunch in the beam and leverages off of improved precision and deterministic data delivery from the RHIC beam position monitors operating in turn-by-turn mode. The beam response to the external excitations was observed to decohere on a relatively short time scale so allowing near-simultaneous data acquisition in the horizontal and vertical planes. The excitations and acquisitions are carefully timed to allow coexistence with normal ramp orbit feedback operating at a 1 Hz rate. Respecting the limitations of the data transfer times, important parameters such as the beta functions, local phase advance, and betatron tune spread were measured in both accelerators and both transverse planes at a maximum rate of once every 2 seconds / 4 seconds in each of the two RHIC accelerators respectively. The measurement architecture is described together with select experimental results.
+
+ 
+
+
+ 
+
+
+
+TUPBA09
+Simulation of High Power Mercury Jet Targets for Neutrino Factory and  Muon Collider
+541
+
+
+ 
+
+V. Samulyak, H.G. Kirk
+                       BNL, Upton, Long Island, New York, USA
+H.C. Chen
+                       SBU, Stony Brook, USA
+K.T. McDonald
+                       PU, Princeton, New Jersey, USA
+
+ 
+
+
+ 
+
+Funding: Research has been supported by the DOE MAP project.
+Hydrodynamic behavior of high power targets for future particle accelerators and, in particular, for the proposed Neutrino Factory and Muon Collider has been investigated via numerical simulations. The target will contain a series of mercury jet pulses of about 1 cm in diameter, interacting with strong proton pulses in 15 – 20 T magnetic fields. Simulations used the Lagrangian particle / smooth particle hydrodynamics code designed to accurately resolve free surface 3D hydrodynamic flows. Simulation results have been compared with existing experimental data and previous simulations performed with the Front tracking code FronTier. Both codes use realistic equations of state for mercury that support cavitation under critical tension. They are parallelized and optimized for the use on large distributed memory supercomputers. Simulations include the power range of neutrino factory (4MW, 8 GeV proton beam containing 150 bunches per second), the muon collider (the same power proton beam but delivered in 15 bunches per second), and proton beams exceeding the muon collider power range.
+
+ 
+
+
+ 
+
+
+
+TUPBA10
+Impact of the Initial Proton Bunch Length on the Performance of the Muon Front End
+544
+
+
+ 
+
+H. K. Sayed, J.S. Berg, H.G. Kirk
+                       BNL, Upton, Long Island, New York, USA
+K.T. McDonald
+                       PU, Princeton, New Jersey, USA
+
+ 
+
+
+ 
+
+The dependence of the performance of the Front End of a Muon Collider/Neutrino Factory on the proton-beam bunch lengths of 0-20 ns is explored for beam kinetic energies of 3 and 8 GeV.
+
+ 
+
+
+ 
+
+
+
+TUPBA11
+TOWARDS A GLOBAL OPTIMIZATION OF THE MUON ACCELERATOR FRONT END
+547
+
+
+ 
+
+H. K. Sayed, J.S. Berg, H.G. Kirk, R.B. Palmer, D. Stratakis
+                       BNL, Upton, Long Island, New York, USA
+K.T. McDonald
+                       PU, Princeton, New Jersey, USA
+D.V. Neuffer
+                       Fermilab, Batavia, USA
+J. Qiang, R.D. Ryne
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The baseline design for the neutrino factory and muon collider front end consists of a five major components, namely the muon production target, decay channel, buncher, phase rotator, and the ionization cooling channel. Although each of the mentioned systems has a complex design which is optimized for the best performance with its own set of local objectives, the integration of all of them into one system requires a global optimization to insure the effectiveness of the local objectives and overall performance. This global optimization represents a highly constrained multi-objective optimization problem. The objectives aimed for are the number of muons captured into a stable bunches and their transverse and longitudinal emittances. These objectives are constrained by the momentum and dynamic acceptance of the subsequent acceleration systems in addition to the overall cost. A multi-objective global evolutionary algorithm is employed to address such a challenge. In this study a statement of optimization strategy is discussed along with preliminary results of the optimization.
+
+ 
+
+
+ 
+
+
+
+TUPBA12
+Design of the ILC RTML Extraction Lines for the Renovated Two-stage Bunch Compressor
+550
+
+
+ 
+
+S. Seletskiy
+                       BNL, Upton, Long Island, New York, USA
+N. Solyak
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+The renovated two-stage bunch compressor (BC) in the International Linear Collider Damping Ring to the Main Linac beamline requires new design for the extraction lines (EL). The ELs located downstream of each stage of the BC will be used for both an emergency abort dumping of the beam and the tune-up continuous train-by-train extraction. They must accept both compressed and uncompressed beam with energy spread of 1.4% and 0.1% respectively. In this paper we report the design that allowed minimizing the length of such extraction lines while offsetting the beam dumps from the main line by 5m distance required for acceptable radiation level in the service tunnel. Proposed extraction lines can accommodate beams with different energy spreads at the same time providing the beam size suitable for the aluminum ball dump window.
+
+ 
+
+
+ 
+
+
+
+TUPBA13
+NS-FFAG for Electron-Ion Collider in RHIC (eRHIC)
+553
+
+
+ 
+
+D. Trbojevic, J.S. Berg, S.J. Brooks, O.V. Chubar, Y. Hao, V. Litvinenko, C. Liu, W. Meng, F. Méot, B. Parker, V. Ptitsyn, T. Roser, N. Tsoupas, W.-T. Weng
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work performed under Contract Number DE-AC02-98CH10886 with the auspices of the US Department of Energy.
+A future electron ion collider "QCD test facility" is designed in the present Relativistic Heavy Ion Collider (RHIC) tunnel. Electron acceleration and de-acceleration is preformed with energy recovery linac with multiple passes. We report on a combination of a multi-pass linac with the Non-Scaling Fixed Field Alternating Gradient (NS-FFAG) arcs. A single NS-FFAG arc allow electrons to pass through the same structure with an energy range between 1.425 and 10 GeV. The NS-FFAG is placed in the existing RHIC tunnel. The 200 MeV injector bring the polarized electrons to the 1.225 GeV GeV superconducting linac. After one pass through the linac 1.425 GeV electrons enter NS-FFAG arc and after 7 passes reach the energy of 10 GeV. After collisions the beam is brought back by the NS-FFAG and decelerated to the initial energy and directed to the dump.
+
+ 
+
+
+ 
+
+
+
+TUPBA14
+Dynamical Beta-Squeeze from 80 to 40 cm at RHIC
+556
+
+
+ 
+
+D. Trbojevic, Y.C. Jing, Y. Luo
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work performed under Contract Number DE-AC02-98CH10886 with the auspices of the US Department of Energy.∗
+Relativistic Heavy Ion Collider (RHIC) has been achieving record luminosities during the last decade. The latest stochastic cooling of the heavy ions like uranium achieved the largest luminosity at RHIC during the last heavy ion run. A betatron squeeze method, already used at LHC CERN, where a betatron wave is created through the arc up to the interaction region is applied at RHIC. When the heavy beam size is reduced due to stochastic cooling a dynamical beta squeeze is possible to apply in RHIC where the existing 80 cm value of beta-star could be reduced to 40 cm. This could be achieved by introducing the betatron wave in both planes throughout the arc before and after the interaction region. Higher values of dispersion and betatron functions in the arc, with a 90 degrees phase difference per FODO cell allow easier higher order chromatic corrections.
+
+ 
+
+
+ 
+
+
+
+TUPBA15
+eRHIC Interaction Region and Lattice Design*
+559
+
+
+ 
+
+D. Trbojevic, E.C. Aschenauer, Y.C. Jing, V. Litvinenko, Y. Luo, B. Parker, V. Ptitsyn
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work performed under Contract Number DE-AC02-98CH10886 with the auspices of the US Department of Energy.∗
+A proposal for the new high luminosity L=1034 s-1 cm-2, polarized electron proton/3He and other un-polarized heavy ions eRHIC based on Electron Recovery Linacs (ERL), assumes a location in the existing tunnel of the operating Relativistic Heavy Ion Collider (RHIC). Requests of the experiments for the interaction region are very challenging: allow detection of neutrons, allow deep virtual scattering for protons-electron collisions, detection of partons with lower momentum, etc. We present an interaction region (IR) design with a vey high focusing where at the collision point IP of 5 cm, and a 10 mrad collision angle between electrons and ions using the crab cavities. We are introducing a combined function magnet for the first element in the high focusing triplet configuration to provide neutron and the lower energy parton detection, and allow at 4.5 cm distance passage of electrons through a no magnetic field region. The 200 T/m gradient quadrupoles provide very small beam size at the IP and allows a passage with a very small magnetic field for electrons.
+
+ 
+
+
+ 
+
+
+
+TUPBA18
+nuSTORM Pion Beamline Design Update
+562
+
+
+ 
+
+A. Liu, A.D. Bross, D.V. Neuffer
+                       Fermilab, Batavia, USA
+S.-Y. Lee
+                       Indiana University, Bloomington, Indiana, USA
+
+ 
+
+
+ 
+
+A facility producing neutrinos from muons that decay in a racetrack ring can provide extremely well understood neutrino beams for oscillation physics and the search for sterile neutrinos. The ‘‘neutrinos from STORed Muons"(nuSTORM) facility based on this idea has been introduced by Bross, Neuffer et al. The design of the nuSTORM facility and the particle tracking have been presented in the paper of Liu, et al. This paper demonstrates the recent optimization results of the pion beamline, with G4beamline simulations. The optimum choice of pion beam center momentum, a new algorithm on fitting bivariate Gaussian distribution to the pion phase space data at the downstream side of the horn, and the comparison of the beamline performance with the optics designed based on Graphite and Inconel targets are also described.
+
+ 
+
+
+ 
+
+
+
+TUPBA20
+A Staged Muon-based Facility to Enable Intensity and Energy Frontier Science in the US
+565
+
+
+ 
+
+J.-P. Delahaye
+                       SLAC, Menlo Park, California, USA
+C.M. Ankenbrandt
+                       Muons, Inc, Illinois, USA
+C.M. Ankenbrandt, S. Brice, A.D. Bross, D.S. Denisov, E. Eichten, R.J. Lipton, D.V. Neuffer, M.A. Palmer, P. Snopok
+                       Fermilab, Batavia, USA
+S.A. Bogacz
+                       JLAB, Newport News, Virginia, USA
+P. Huber
+                       Virginia Polytechnic Institute and State University, Blacksburg, USA
+D.M. Kaplan, P. Snopok
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+H.G. Kirk, R.B. Palmer
+                       BNL, Upton, Long Island, New York, USA
+R.D. Ryne
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Muon-based facilities offer a unique potential to provide capabilities at both the Intensity Frontier with Neutrino Factories and the Energy Frontier with Muon Colliders ranging from the Higgs energy to the multi-TeV energy range. They rely on novel technology with challenging parameters, which are currently being evaluated by the U.S. Muon Accelerator Program (MAP). A realistic scenario for a complementary series of staged facilities with increasing complexity and significant physics potential at each stage has been developed. It takes advantage of and leverages the capabilities already planned for Fermilab, especially Project X Stage II and LBNE. Each stage is defined in such a way to provide an R&D platform to validate the technologies required for subsequent stages. The rationale and sequence of the staging process, as well as the critical issues to be addressed at each stage, are presented.
+
+ 
+
+
+ 
+
+
+
+TUPBA21
+Beam-Beam Studies for HL-LHC
+568
+
+
+ 
+
+A. Valishev
+                       Fermilab, Batavia, USA
+D. Banfi, J. Barranco
+                       EPFL, Lausanne, Switzerland
+T. Pieloni
+                       CERN, Geneva, Switzerland
+D.N. Shatilov
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Funding: Fermi Research Alliance, LLC operates Fermilab under contract with the U.S. Dept. of Energy. This work was supported by the US LARP. The HiLumi LHC Design Study is funded by the European Commission.
+The analysis of beam-beam effects for the High Luminosity LHC upgrade is in progress as a part of HiLumi LHC Design Study. We report on the current status of beam-beam simulations with the particular emphasis on single and multi-particle weak-strong tracking studies. We evaluate the latest LH-LHC performance scenario, and outline the plan of further research.
+
+ 
+
+
+ 
+
+
+
+TUPBA23
+Coherent Instability Due to Beam-Beam Interaction in Hadron Colliders
+571
+
+
+ 
+
+S. Paret, J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was partially supported by the U. S. LARP and NERSC of the U. S. Department of Energy under contract No. DE-AC02-05CH11231.
+Beam-beam effects can excite coherent modes in circular colliding beams and can thereby cause coherent instabilities. Nevertheless the beams in LHC have been well behaved and no fundamental limitation for the beam-beam parameter has been found in head-on collisions. In this paper we consider beams with much higher intensities than ever collided in any hadron collider. By virtue of 3D strong-strong computer simulations, we investigate the coherent stability and emittance growth of proton beams in head-on collision. The impact of a crossing angle between the beams and of a transverse damper is examined.
+
+ 
+
+
+ 
+
+
+
+TUPBA25
+Design and High Order Optimization of the ATF2 Lattices
+574
+
+
+ 
+
+E. Marín, G.R. White, M. Woodley
+                       SLAC, Menlo Park, California, USA
+K. Kubo, T. Okugi, T. Tauchi, J. Urakawa
+                       KEK, Ibaraki, Japan
+R. Tomás
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Work supported in part by Department of Energy Contract DE-AC02-76SF00515
+The next generation of future linear colliders (LC) demands nano-meter beam sizes at the interaction point (IP) in order to reach the required luminosity. The final focus system (FFS) of a LC is meant to deliver such small beam sizes. The Accelerator Test Facility (ATF) aims to test the feasibility of the new local chromaticity correction scheme which the future LCs are based on. To this end the ATF2 nominal and ultra-low β* lattices are design to vertically focus the beam at the IP to 37nm and 23nm, respectively if error-free lattices are considered. However simulations show that the measured field errors of the ATF2 magnets preclude to reach the mentioned spot sizes. This paper describes the optimization of high order aberrations of the ATF2 lattices in order to minimize the detrimental effect of the measured multipole components for both ATF2 lattices. Specifically three solutions are studied, the replacement of the last focusing quadrupole (QF1FF), insertion of octupole magnets and optics modification. By applying the mentioned cures the design vertical beam size at the IP is almost recovered for both ATF2 lattices.
+
+ 
+
+
+ 
+
+
+
+TUPBA26
+Coupling Spin Resonances With Siberian Snakes
+577
+
+
+ 
+
+N.Z. Khalil
+                       SBU, Stony Brook, New York, USA
+V. Ptitsyn
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The polarization of proton beam during the acceleration process in a particle accelerator is affected by the existence of spin resonances. Coupling spin resonances can be excited in the presence of the betatron coupling introduced by rolled quadrupoles and solenoids. A corresponding algorithm has been developed and added to the ASPIRRIN code to include the calculation of the first-order intrinsic resonance harmonics in the case of arbitrary strong betatron coupling and in the presence of Siberian Snakes and spin rotators. The analysis of the coupling resonance harmonics excited in RHIC collider is presented.
+
+ 
+
+
+ 
+
+
+
+

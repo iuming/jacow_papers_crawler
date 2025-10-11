@@ -1,0 +1,252 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2018 - Table of Session: WEOC (Transverse profiles and emittance monitors)
+
+
+WEOC —  Transverse profiles and emittance monitors   (12-Sep-18   14:00—15:30)
+Chair: T.M. Mitsuhashi, KEK, Ibaraki, Japan
+
+
+Paper
+Title
+Page
+
+
+
+WEOC01
+Summary of Emittance Measurements Workshop for SLS and FELs
+ 
+
+
+ 
+
+U. Iriso
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+F. Ewald
+                       ESRF, Grenoble, France
+G. Kube, K. Wittenburg
+                       DESY, Hamburg, Germany
+T.M. Mitsuhashi
+                       KEK, Ibaraki, Japan
+V. Schlott
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Funding: This project has received funding from the EU Horizon 2020 Research and Innovation programme, under Grant Agreement No 730871.
+In January 2018, a Topical Workshop on Emittance Measurements for Synchrotron Light Sources and FELs was held at ALBA inside the ARIES network. This talk will summarize the state of the art of the different emittance measurements techniques for these type of accelerators, and will present the relevant topics shown during the workshop.
+
+ 
+
+
+
+
+
+
+Slides WEOC01 [4.723 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEOC02
+Review of Recent Status of Coded Aperture X-ray Monitors for Beam Size Measurement
+361
+
+
+ 
+
+J.W. Flanagan
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: US-Japan Cooperation in High Energy Physics (Japan Monbukagakusho and US DOE). Kakenhi.
+X-ray beam profile monitors based on coded aperture imaging use an array of pinholes or slits to achieve large open apertures, which provide improved photon collection efficiency over single pinholes or slits. The resulting improvement in photon statistics makes possible single-bunch, single-turn measurements at lower bunch currents than are possible with a single pinhole or slit. In addition, the coded aperture pattern provides extra information for beam profile reconstruction, which makes possible somewhat improved resolution, as compared to a single slit. The reconstruction algorithm for coded aperture imaging is more complicated and computing-intensive than that for a single slit, though with certain classes of coded pertures a faster reconstruction method is possible. This talk will provide a survey of efforts to use coded aperture imaging for beam profile diagnostics at accelerators to date, covering principles and practical experiences with the technique, as well as prospects for the future at SuperKEKB, where it forms the primary means of measuring vertical beam sizes.
+
+ 
+
+
+
+
+
+
+Slides WEOC02 [4.065 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-WEOC02
+
+ 
+
+
+About •
+paper received ※ 12 September 2018       paper accepted ※ 24 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEOC03
+A Simple Model to Describe Smoke Ring Shaped Beam Profile Measurements With Scintillating Screens at the European XFEL
+366
+
+
+ 
+
+G. Kube, S. Liu, A.I. Novokshonov, M. Scholz
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Standard beam profile measurements of high-brightness electron beams based on OTR may be hampered by coherence effects. Therefore it was decided for the European XFEL to measure transverse beam profiles based on scintillating screen monitors using LYSO:Ce. While it is possible to resolve beam sizes down to a few micrometers with this scintillator, the experience during the XFEL commissioning showed that the measured emittance values were significantly larger than the expected ones. In addition, beam profiles measured at bunch charges of a few hundred pC showed a ’smoke ring’ structure. While coherent OTR emission and beam dynamical influence can be excluded, it is assumed that the profile distortions are caused by effects from the scintillator material. Following the experience in high energy physics, a simple model was developed which takes into account quenching effects of excitonic carriers inside a scintillator in a heuristic way. Based on this model, the observed beam profiles can be understood qualitatively. Together with the model description, first comparisons with experiments will be presented, and new scintillators suitable for beam profile diagnostics will be discussed.
+
+ 
+
+
+
+
+
+
+Slides WEOC03 [2.411 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-WEOC03
+
+ 
+
+
+About •
+paper received ※ 04 September 2018       paper accepted ※ 13 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEOC04
+Space Charge Effects Studies for the ESS Cold Linac Beam Profiler
+371
+
+
+ 
+
+F. Belloni, P. Abbon, F. Benedetti, G. Coulloux, F. Gougnaud, C. Lahonde-Hamdoun, P. Le Bourlout, Y. Mariette, J. Marroncle, J.-Ph. Mols, V. Nadot, L. Scola
+                       CEA-DRF-IRFU, France
+C.A. Thomas
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+Five Ionization Profile Monitors are being built by CEA in the framework of the in-kind contribution agreement signed with ESS. The IPMs will be installed in the Cold Linac where the proton energy range they need to cover extends from 90 MeV to 2 GeV. The ESS fields intensity of 1.10+09 protons/bunch delivered at a frequency of 352 or 704 MHz, with a duty cycle of 4%, may strongly affect the trajectories of the ionized molecules and electrons created by the passage of the beam through the residual gas. In order to quantify and to develop a correction algorithm for these space charge effects, a code was initiated at ESS and completed at CEA Saclay with the possibility to include real case electric fields calculated with Comsol Multiphysics. A general overview of the code and its preliminary results are presented here.
+
+ 
+
+
+
+
+
+
+Slides WEOC04 [5.186 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-WEOC04
+
+ 
+
+
+About •
+paper received ※ 06 September 2018       paper accepted ※ 12 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

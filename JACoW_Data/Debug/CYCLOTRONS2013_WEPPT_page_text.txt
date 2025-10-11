@@ -1,0 +1,668 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyclotrons2013 - Table of Session: WEPPT (Poster Session: Beam Dynamics, Small cyclotrons, High Intensity)
+
+
+WEPPT —  Poster Session: Beam Dynamics, Small cyclotrons, High Intensity   (18-Sep-13   13:30—15:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPPT002
+Optimizing the Operational Parameters of the SFC by Using PSO Algorithm
+320
+
+
+ 
+
+L.T. Shi, H. Hao, P. Jiang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+HIRFL-SFC is a Sector-Focused Cyclotron, which plays an important role in scientific experiments in IMP. In order to orbit correction and single turn extraction, there are 4 groups of harmonic coils in SFC. But we did not have a program to calculate the current of harmonic coils for different ions. In view of this situation, we developed a program (Orbit-PSO) to calculate it. By using the method of Particle Swarm Optimization (PSO) and the code of orbit calculation, we get the parameters for different beam through comparing with the orbit of 7MeV 12C4+. At the same time, we get the injection energy and voltage of Dee for different ions.
+
+ 
+
+
+ 
+
+
+
+WEPPT003
+Beam Optical Simulation in a Proposed Magnetic Einzel Lens
+323
+
+
+ 
+
+M.H. Rashid, A. Chakrabarti
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+Magnetic scalar potential and field distributions along the central axis of a magnetic einzel lens consisting of a pair of axisymmetric iron yoked anti-solenoids have been evaluated using a simple closed form of analytical expressions. The magnetic field distribution is used to track single charged particles as well as ion beam through lens segmentation method. The method facilitates in evaluation of optical properties as well as aberration coefficients of the lens. Application of such doublet solenoid lens in transporting low energy ion beam introduces minimal rotation of the beam as well as least entangling between transverse phase spaces of the beam.
+
+ 
+
+
+ 
+
+
+
+WEPPT004
+Feasibility Study of Intense Beam Matching at the Spiral Inflector Using Elliptical Solenoid
+326
+
+
+ 
+
+A. Goswami, V.S. Pandit, P. Sing Babu
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+Simulation results on a spiral inflector for compact cyclotron, indicate that convergent phase ellipses with different orientations in x and y planes and a comparatively smaller width in the y plane gives better beam transmission through the inflector. In order to transform the axisymmetric beam to a non-axisymmetric beam for matching at the entrance of the inflector one needs either an elliptical solenoid or a quadrupole doublet. The injection system of 10MeV-5mA proton cyclotron being developed at VECC consists of a 2.45GHz (80keV) microwave ion source and two solenoids to transport and match the beam at the spiral inflector. Due to space constraint we have planned to use an elliptical solenoid just before the spiral inflector for transverse matching of the beam. In this work the beam optical properties of an elliptical solenoid have been studied, including the effect of space charge. An envelope model based on the canonical description of motion has been developed and utilized to study the feasibility of using an elliptical solenoid for transverse matching of a space charge dominated beam to the acceptance of a spiral inflector.
+
+ 
+
+
+ 
+
+
+
+WEPPT005
+Emittance Measurements at the Strasbourg TR24 Cyclotron for the Addition of a 65 MeV Linac Booster
+329
+
+
+ 
+
+A. Degiovanni, U. Amaldi, S. Benedetti, D. Bergesio, A. Garonna, G. Molinari
+                       TERA, Novara, Italy
+S. Braccini, E.V. Kirillova
+                       LHEP, Bern, Switzerland
+D. Brasse, M. Pellicioli, M. Rousseau, J. Schuler
+                       IPHC, Strasbourg Cedex 2, France
+R.L. Watt, E. van Lier
+                       ACSI, Richmond, B.C., Canada
+
+ 
+
+
+ 
+
+The long term plans of IPHC foresee the installation of a linac that will boost the energy of the protons of the Strasbourg TR24 from 24 MeV to 65 MeV. The 3 GHz Cell Coupled Linac, designed by the TERA Foundation, will be 5 meters long and will be powered by two 10 MW klystrons running at 100 Hz. Advanced Cyclotron Systems will modify the cyclotron source, so that the extracted 300 μA beam will be chopped in 4 μs long pulses. To compute the transverse acceptances of the linac, the horizontal and vertical emittances of the extracted proton beam have been measured with the secondary emission detector BISE (Beam Imaging with Secondary Electrons) built by TERA and previously calibrated at the Bern 18 MeV IBA cyclotron. In this detector a thin 5 cm diameter foil is placed at 45° with respect to the beam direction and an electrostatic lens images the secondary electrons -extracted by the protons- on a phosphor, which is viewed by a CCD camera. The results of the measurements of the transverse emittances will be reported together with the description of the linac structure and the calculation of the expected output current based on the dynamics of the accelerated proton beam.
+
+ 
+
+
+ 
+
+
+
+WEPPT006
+Design of Achromatic Bends for the High Energy Beam Transport System of HCI at IUAC Delhi
+332
+
+
+ 
+
+A. Mandal, D. Kanjilal, S. Kumar, G.O. Rodrigues
+                       IUAC, New Delhi, India
+
+ 
+
+
+ 
+
+The high energy beam transport system of the High Current Injector (HCI) being currently developed at IUAC will transport beam of maximum energy ~ 1.8 MeV/u with mass to charge ratio (A/q) equal to 6 from drift tube linac (DTL) to the superconducting LINAC in the zero degree beam line of the existing 15UD Pelletron. The whole transport path (~40 m) consists of four 90 degree bends. Since the beams coming from DTL are expected to have an energy spread of 0.5 %, the magnetic bends have to be achromatic. The transport system is designed to meet the restrictions imposed by the existing beam hall and the other space constraints. The first three 90 degree achromats have the configuration of Q1Q2Q3MQ4MQ3Q2Q1 and the fourth one has configuration of Q1Q2MQ3Q4Q4Q3MQ2Q1 where Q stands for magnetic quadrupole and M stands for 45 degree bending magnets. Each achromat has been designed so that its total length is restricted to 7 m to fit into the available space. The maximum dispersion occurs at the middle of Q4. Standard beam dynamics codes like GICOSY* and TRACE 3D** have been used to design the achromats and details of optics will be presented.
+*H. Weick, GICOSY homepage, http://www.linux.gsi.de/~weick/gicosy **K.R. Crandall, TRACE 3-D Documentation, Report LA-11054-MS, Los Alamos, 1987
+
+ 
+
+
+ 
+
+
+
+WEPPT007
+Getting Uniform Ion Density on Target in High-Energy Beam Line of  Cyclotron U-400M with Two
+335
+
+
+ 
+
+I.A. Ivanenko, I.V. Kalagin, V.I. Kazacha, N.Yu. Kazarinov
+                       JINR, Dubna, Moscow Region, Russia
+
+ 
+
+
+ 
+
+Formation by means of octupole magnets of a uniform ions distribution in the existing beam line of U400M cyclotron has been studied. The simulation was performed for Ar17+ ions with energy of 41.3 MeV/amu. The required level of beam non-uniformity on the target with diameter of 60 mm is ±7.5%. Two octupoles with static magnetic fields have been used to achieve the desired uniformity of the beam density in both coordinates simultaneously. The results of calculations are presented. This method of improving the uniformity of the beam will be implemented soon in Flerov laboratory of JINR.
+
+ 
+
+
+ 
+
+
+
+WEPPT008
+Correction of Vertical Shifting of Extracted Beam at the Test Operation of DC-110 Cyclotron
+338
+
+
+ 
+
+I.A. Ivanenko, B. Gikal, I.V. Kalagin, N.Yu. Kazarinov, V.I. Mironov, E. Samsonov
+                       JINR, Dubna, Moscow Region, Russia
+
+ 
+
+
+ 
+
+The specialized heavy ion cyclotron DC-110 has been designed and created by the Flerov Laboratory of Nuclear Reactions of Joint Institute for Nuclear Research for scientifically industrial complex “BETA” placed in Dubna (Russia). DC-110 cyclotron is intended for accelerating the intense Ar, Kr, Xe ion beams with fixed energy of 2.5 MeV/nucleon. The commissioning of DC-110 cyclotron has been carried out at the end of 2012. The project parameters of the ion beams have been achieved. During commissioning of cyclotron the vertical displacement of the beam at the last orbits and at the extraction channel was revealed. The calculations and experiments have shown that the reason of this displacement is the radial component of magnetic field at the median plane of the cyclotron, which appears because of asymmetry of the magnetic yoke. Correction of the vertical displacement of the beam has been achieved by creating an asymmetry of current distribution in the main coils of the electromagnet.
+
+ 
+
+
+ 
+
+
+
+WEPPT009
+Transverse Phase-Space Distributions of Low Energy Ion Beams Extracted from an ECR Ion Source
+341
+
+
+ 
+
+S. Saminathan
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+J.P.M. Beijers, S. Brandenburg, H.R. Kremers, V. Mironov
+                       KVI, Groningen, The Netherlands
+
+ 
+
+
+ 
+
+Transverse phase-space distributions of low-energy ion beams extracted from ECR ion sources often show higher-order effects caused by ion-optical aberrations. Understanding these effects is mandatory to keep emittance growth and the resulting beam losses in low-energy beam transport lines under control. We present the results of an experimental and theoretical study of beam extraction and transport in the AGOR injection line at KVI. Particle tracking simulations have been performed of a multi-component neon ion beam extracted from an ECR ion source to calculate 4D phase-space distributions at various positions along the beamline. The simulations compare well with beam profile and emittance measurements.
+
+ 
+
+
+ 
+
+
+
+WEPPT011
+Measurement of Radial  Oscillation and Phase of Accelerating Beam in Kolkata Superconducting Cyclotron
+344
+
+
+ 
+
+J. Pradhan, A. Agarwal, U. Bhunia, A. Chakrabarti, J. Debnath, M.K. Dey, A. Dutta, Z.A. Naser, S. Paul, V. Singh
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+This paper describes various measurements performed on the beam behavior with the help of the main probe and the differential probe to have a clear insight of the accelerating beam and the difficulties of beam -extraction process in the K500 superconducting cyclotron at Kolkata. Beam shadow measurements with three probes at three sectors were done to get the information of beam-centering and radial oscillations. The radial oscillation amplitude is estimated from the measurements. A differential probe was used to measure the turn separation and its modulation due to radial oscillation. With the help of magnetic field detuning method, the beam phase history was also measured.
+
+ 
+
+
+ 
+
+
+
+WEPPT012
+Beam Dynamics in Presence of Imperfection Fields Near the Extraction Zone of Kolkata Superconducting Cyclotron
+347
+
+
+ 
+
+J. Debnath, U. Bhunia, A. Chakrabarti, M.K. Dey, A. Dutta, Z.A. Naser, S. Paul, J. Pradhan, V. Singh
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+Funding: VECC, DAE
+The superconducting cyclotron at Kolkata has accelerated the ion beams up to the extraction radius producing neutrons via nuclear reactions. After that the beam extraction process has been tried exhaustively. But rigorous beam extraction trials indicate towards some kind of error field, which was not possible to balance with the trim coil operated in harmonic-coil mode. It is found that the beam is being off-centered by a large amount after crossing the resonance zone and it is not reaching the extraction radius in proper path. This paper will be emphasizing the effect of various kind of error field on the beam. However, the magnetic field is being measured again to know the exact distribution of the field.
+
+ 
+
+
+ 
+
+
+
+WEPPT014
+Analysis of Phase Bunching in the Central Region of the JAEA AVF Cyclotron
+350
+
+
+ 
+
+N. Miyawaki, H. Kashiwagi, S. Kurashima, S. Okumura
+                       JAEA/TARRI, Gunma-ken, Japan
+M. Fukuda
+                       RCNP, Osaka, Japan
+
+ 
+
+
+ 
+
+Phase bunching generated in the central region of an AVF cyclotron was estimated by a simplified geometric trajectory analysis model for particles traveling from the first to the second acceleration gap. In principle, a rising slope of a dee-voltage at the first acceleration gap is more or less effective for production of the phase bunching. The phase difference between particles at the second acceleration gap depends on combination of four parameters: the acceleration harmonic number (h), a span angle of the dee electrode, a span angle from the first to the second acceleration gap, a ratio between a peak dee-voltage and an extraction voltage of an ion source. In the case of the JAEA AVF cyclotron, the effective phase bunching was realized for h = 2 and 3, and the geometric condition of phase bunching was unrealistic for h = 1. An orbit simulation for the JAEA AVF cyclotron indicated that the initial beam phase width of 40 RF degrees for h = 2 was compressed to 11 RF degrees. The phase bunching evaluation based on the simplified geometric trajectory analysis was consistent with the orbit simulation result, and practical phase bunching was verified by beam phase width measurement.
+
+ 
+
+
+ 
+
+
+
+WEPPT015
+Study of Beam Capture in Compact Synchrocyclotron
+353
+
+
+ 
+
+S.A. Kostromin, G.A. Karamysheva, N.A. Morozov, E. Samsonov
+                       JINR, Dubna, Moscow Region, Russia
+
+ 
+
+
+ 
+
+Capture efficiency and main aspects of the beam dynamics during first turns and in a period of one synchrotron oscillation were studied in synchrocyclotron with driving magnetic field of ~5 Tesla. Corresponding simulations of the beam motion were done by means of numerical integration of the full equations of motion in the electro-magnetic field of accelerator. Main physical parameters for input data were taken similar to them for IBA S2C2.
+
+ 
+
+
+ 
+
+
+
+WEPPT017
+Beam Tracking Simulation for a 9 MeV Cyclotron
+356
+
+
+ 
+
+S.Y. Jung, J.-S. Chai, J.-S. Chai, H.W. Kim, S.H. Kim, Y.S. Lee, H.S. Song, Y.H. Yeon
+                       SKKU, Suwon, Republic of Korea
+
+ 
+
+
+ 
+
+Following the adoption of internal PIG ion source making cyclotron more compact, the delicate beam trajectory simulation is required. In this paper, the optimization of initial condition of H-beam for the stable and well-controlled beam until the extraction region is reported. To accommodate the beam, the electromagnetic field distribution was analyzed by OPERA-3D and its phase error was verified with CYCLONE v8.4. In each iterative design, the beam trajectory was calculated by own developed numerical code to estimate its performance. The beam characteristics including the beam orbit, centering, energy gain and RF acceptance for vertical and horizontal directions were evaluated.
+
+ 
+
+
+ 
+
+
+
+WEPPT018
+Behavior of Space Charge Dominated Beam Envelope in Central Region of High Current Cyclotron
+359
+
+
+ 
+
+R. Azizi, H. Afarideh, V. Afzalan
+                       AUT, Tehran, Iran
+J.-S. Chai, M. Ghergherehchi
+                       SKKU, Suwon, Republic of Korea
+
+ 
+
+
+ 
+
+In this paper the space charge effect in the two first turn after injection has been investigated. In order to determine beam envelopes, two corresponding equations were chosen. In addition, all steps of calculation were done by MATLAB program. It should be mentioned limiting current and also magnetic, electrical field and edge effect has been considered. As far as, the high current cyclotron with 0.8π mm mrad emittance has been studied and current alters till 10 mA.*
+*M. Reiser, Theory and Design of Charged Particle Beams (Wiley, New York, 1994), Chapters.3 and 4.
+
+ 
+
+
+ 
+
+
+
+WEPPT019
+Investigation on the Transverse Emittance Growth of Intense Beam during Bunching
+361
+
+
+ 
+
+P. Sing Babu, A. Goswami, V.S. Pandit
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+Bunchers are widely used in the injection system of cyclotrons to transform dc beam into a bunched beam in a desired phase width. In the case of low beam current, the longitudinal compression of beam has very little effect on the transverse dynamics. However in the case of high current bunching the increase of current in the specified bunch width as the beam advances affects the transverse behavior. A 2D particle-in-cell code has been developed to study the transverse dynamics during beam bunching in the injection system of 10MeV, 5mA compact proton cyclotron. We have used a linear increase of beam current in the specified bunch width from the buncher position to the time focus. In the PIC method this effect is introduced by reweighting the charge and mass of the macroparticles during the transport with longitudinal compression. The evolutions of beam envelope and emittance growth have been estimated for various initial particle distributions. It is observed that the rms beam size is independent of particular beam distribution whereas rms emittance grows with nonuniformity of the distribution and peaks near the time focus.
+
+ 
+
+
+ 
+
+
+
+WEPPT021
+Columbus - A Simple Ion Source
+364
+
+
+ 
+
+M. J. Frank, E. Held, C.R. Wolf
+                       Ernes, Coburg, Germany
+
+ 
+
+
+ 
+
+An ion source provides a cyclotron with charged particles which can be accelerated by an electric field. The simpelst possibility is a thermionic ion-source. Electrons emitted from a white-hot tungsten filament, placed in a ceramic block of macor, are accelerated by a dc voltage of 100 - 150 V and constraint to a spiral path by the homogenous magnetic field of the cyclotron. They collide with hydrogen atoms and ionisize them. The ceramic block is covered by tube made of copper in which the ions raise up. They enter the gap between the dees through a small aperture in tube. The ion source is mounted under the dummy-dee, so its position can be changed to find the best place. The hydrogen gas is stored in a Hydro-stick, a small tube which contains 10 l of Hydrogen under a pressure of 10 bar. From here it enters the ion source by a mass-flow controller which enables accurate dosing.
+
+ 
+
+
+
+
+
+
+Poster WEPPT021 [1.640 MB]
+            
+ 
+
+
+ 
+
+
+
+WEPPT024
+Rutgers 12-Inch Cyclotron: Dedicated to Training Through Research and Development
+366
+
+
+ 
+
+T.W. Koeth, J.E. Krutzler, T.S. Ponter, A.J. Rosenberg, W.S. Schneider
+                       Rutgers University, The State University of New Jersey, Piscataway, New Jersey, USA
+D.E. Hoffman
+                       PU, Princeton, New Jersey, USA
+
+ 
+
+
+ 
+
+The Rutgers 12-Inch Cyclotron is a 1.2 MeV proton accelerator dedicated to beam physics instruction.[1] The 12-inch cyclotron project began as a personal pursuit for two Rutgers undergraduate students in 1995 and was incorporated into the Modern Physics Teaching Lab in 2001.[2] Since then, student projects have been contributing to the cyclotron’s evolution through development of accelerator components. Most of the Rutgers 12-Inch Cyclotron components have been designed and built in house, thus giving its students a research and development introduction to the field of accelerator physics and associated hardware.
+[1] www.physics.rutgers.edu/cyclotron [2] T. Feder, “Building a Cyclotron on a Shoe String,” Physics Today, 30-31 (November 2004)
+
+ 
+
+
+ 
+
+
+
+WEPPT025
+Beam Physics Demonstrations with the Rutgers 12-Inch Cyclotron
+369
+
+
+ 
+
+T.W. Koeth
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+The Rutgers 12-Inch Cyclotron is a research grade accelerator dedicated to undergraduate education.[1] From its inception, it has been intended for instruction and has been designed to demonstrate classic beam physics phenomena. The machine is easily reconfigured, allowing experiments to be designed and performed within one academic semester. Our cyclotron gives students a hands-on opportunity to operate an accelerator and directly observe many fundamental beam physics concepts, including axial and radial betatron motion, destructive resonances, weak and azimuthally varying field (AVF) focusing schemes, DEE voltage effects, and more.
+
+ 
+
+
+ 
+
+
+
+WEPPT026
+Cyclotron Injection Tests of High-Intensity H2+ Beam
+372
+
+
+ 
+
+F.S. Labrecque, B.F. Milton
+                       BCSI, Vancouver, BC, Canada
+J.R. Alonso, D. Campo, J.M. Conrad, M. Toups
+                       MIT, Cambridge, Massachusetts, USA
+L. Calabretta, L. Celona
+                       INFN/LNS, Catania, Italy
+R. Gutierrez-Martinez, L.A. Winslow
+                       UCLA, Los Angeles, USA
+D. Winklehner
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work funded by NSF agency, contract PHY-1148134
+The IsoDAR (sterile neutrino) and DAEδALUS (CP-violation in neutrino sector) experiments will use cyclotrons to deliver high intensity (10 mA peak current) proton beams to neutrino-producing targets. To achieve these very high currents, we plan to inject and accelerate molecular H2+ ions. To understand high intensity H2+ injection into the central region of a compact cyclotron, and to benchmark space-charge dominated simulation studies, central-region tests are being conducted. The first test was completed this summer; a collaboration of MIT, BEST Cyclotrons and INFN-LNS at the BEST shops in Vancouver. The LNS Versatile Ion Source (VIS) was shipped from Catania to Vancouver, and was mounted, along with HV components and first focusing solenoid, on a test bench. In addition to the bench, BEST provided further beam line elements, instrumentation and a test cyclotron magnet for acceleration to no greater than 1 MeV/amu (to avoid any neutron production). Axial injection studies were conducted with a Catania-designed spiral inflector. Experimental configurations, beam characterization measurements, and phase acceptance and buncher efficiency studies will be reported.
+
+ 
+
+
+ 
+
+
+
+WEPPT027
+Design of the Injection into the 800 MeV/amu High Power Cyclotron
+375
+
+
+ 
+
+M. Haj Tahar, F. Meot
+                       BNL, Upton, Long Island, New York, USA
+L. Calabretta
+                       INFN/LNS, Catania, Italy
+A. Calanna
+                       CSFNSM, Catania, Italy
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+We present the design of the injection line into a separated sector cyclotron (SSC) aimed at the production of a high power beam of 800MeV/amu molecular H2+ for ADS-Reactor applications. To work out the beam line parameters and beam dynamics simulations, including the first accelerated turns, we used the ray-tracing code Zgoubi and the OPERA magnetic field map of the cyclotron sector*. We simulated the injection path of the H2+ and evaluated both radial and vertical injection schemes in order to evaluate the parameters so derived. The paper details and discusses various aspects of that design study and its outcomes.
+* A.Calanna et al., A multi-megawatt ring cyclotron to search for CP violation in the neutrino sector, April 2011, e-Print: arXiv:1104.4985 
+
+ 
+
+
+ 
+
+
+
+WEPPT028
+Proposal for High Power Cyclotrons Test Site in Catania
+378
+
+
+ 
+
+L. Calabretta, D. Campo, L. Celona, L. Cosentino, C. Cui, G. Gallo, D. Rifuggiato
+                       INFN/LNS, Catania, Italy
+J.R. Alonso, W.A. Barletta, A. Calanna, D. Campo, J.M. Conrad
+                       MIT, Cambridge, Massachusetts, USA
+R.R. Johnson
+                       BCSI, Vancouver, BC, Canada
+L. AC. Piazza
+                       INFN/LNL, Legnaro (PD), Italy
+
+ 
+
+
+ 
+
+The IsoDAR and DAEδALUS experiments will use cyclotrons to deliver high intensity (10 mA peak current) proton beams to neutrino-producing targets. To achieve these very high currents, we plan to inject and accelerate molecular H2+ ions in the cyclotrons. To understand high intensity H2+ injection into the central region of a compact cyclotron, and to benchmark space-charge dominated simulation studies, central-region tests are being conducted. Building on the first experiments at Best Cyclotrons, Vancouver (Abstract 1261), a larger-scale test cyclotron will be built at INFN-LNS in Catania. This cyclotron will be designed for 7 MeV/n (Q/A = 0.5; H2+ or He++). After the first year of operation dedicated at optimization of the central region for the injection of high intensity Q/A = 0.5 beams, the cyclotron will be modified to allow the acceleration of H− up to an energy of 28 MeV. The main characteristics of the machine and the planned test stand will be presented.
+
+ 
+
+
+ 
+
+
+
+WEPPT029
+The Cyclotron Complex for the DAEδALUS Experiment
+381
+
+
+ 
+
+A. Calanna, D. Campo, J.M. Conrad
+                       MIT, Cambridge, Massachusetts, USA
+L. Calabretta
+                       INFN/LNS, Catania, Italy
+M. Haj Tahar, F. Méot
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The cyclotron complex for the DAEδALUS CP-Violation neutrino experiment consists of a compact cyclotron able to accelerate high-current (5 electrical milliamp) H2+ beams up to an energy of 60 MeV/amu, cleanly extract this beam with a conventional septum arrangement, and transport it to a superconducting ring cyclotron able to accelerate the beam up to 800 MeV/amu. H2+ is dissociated with thin stripping foils for efficient extraction as protons for transport to a megawatt-class target for neutrino production. The injection cyclotron will be similar to the one proposed for the IsoDAR experiment (Paper WEPPT029). The Ring cyclotron is similar in size and engineering concept to the SRC at RIKEN. Space-charge dominated beam dynamics simulations using OPAL have been performed for an 8-sector geometry, and indicate acceptable transmission and low beam losses. Subsequent engineering magnet-design studies of Minervini et al. point to a 6-sector configuration as more practical. Recalculation of the beam dynamics for this new configuration will be performed in the coming year. Results of the studies conducted to date will be presented.
+
+ 
+
+
+ 
+
+
+
+WEPPT030
+High Intensity Compact Cyclotron for ISODAR Experiment
+384
+
+
+ 
+
+D. Campo, J.R. Alonso, W.A. Barletta, L.M. Bartoszek, A. Calanna, J.M. Conrad, M. Toups
+                       MIT, Cambridge, Massachusetts, USA
+A. Adelmann
+                       PSI, Villigen PSI, Switzerland
+L. Calabretta, C. Cui, G. Gallo
+                       INFN/LNS, Catania, Italy
+R. Gutierrez-Martinez, L.A. Winslow
+                       UCLA, Los Angeles, USA
+M. Shaevitz
+                       Columbia University, New York, USA
+J.J. Yang
+                       CIAE, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+IsoDAR is an experiment proposed to look for the existence of sterile neutrinos. These are additional neutrino states beyond the "standard" 3-nu paradigm, are predicted to exist to explain anomalies in several neutrino experiments. In IsoDAR (Isotope Decay At Rest), electron antineutrinos produced in a target ~15 meters from a kiloton-scale detector would oscillate into and out of the sterile state within the extent of the detector, producing a sinusoidal event rate as a function of distance from the target. The nu-e-bar flux arises from decay of 8Li, produced when a high-current beam of protons or deuterons strikes a beryllium target either directly, or via secondary neutrons that interact in a large, ultra-pure 7Li sleeve surrounding the target. A compact Q/A = 0.5 cyclotron with top energy of 60 MeV/amu will be installed underground close to KamLAND. This cyclotron is a prototype for the DAEδALUS cyclotron chain (Paper WEPPT030). With a central field of 1.075T, it will operate in the 4th harmonic. Preliminary designs will be described, as well as possible solutions for transport and assembly of the machine through the very constricted access apertures of the Kamioka mine.
+
+ 
+
+
+ 
+
+
+
+WEPPT031
+High Intensity Beam Studies Using the KURRI FFAGs
+387
+
+
+ 
+
+S. Machida, C. Gabor, D.J. Kelliher, C.R. Prior, C.T. Rogers, S.L. Sheehy
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+Y. Ishi, J.-B. Lagrange, Y. Mori, T. Uesugi
+                       Kyoto University, Research Reactor Institute, Osaka, Japan
+
+ 
+
+
+ 
+
+Increasing the repetition rate of FFAG accelerators is one way of obtaining high average beam current. However, in order to achieve beam powers of up to 10 MW for applications like ADSR, the number of particles per bunch has to be approximately the same order in an FFAG as in a high power synchrotron. Collective effects such as space charge then become crucial issues. To understand high current beam behaviour in FFAGs, an international collaboration has been established to carry out an experimental programme using the FFAGs at Kyoto University's Research Reactor Institute, KURRI. The goal is to demonstrate acceleration of high bunch charge and identify the fundamental limitations. In this paper, we will show simulation results toward the first beam experiment which is planned for later in 2013.
+
+ 
+
+
+ 
+
+
+
+

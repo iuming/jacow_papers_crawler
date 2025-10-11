@@ -1,0 +1,1921 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2019 - Table of Session: WEPLM (Wednesday Poster Session-Lake Michigan)
+
+
+WEPLM —  Wednesday Poster Session-Lake Michigan   (04-Sep-19   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPLM01
+Studies in Applying Machine Learning to Resonance Control in Superconducting RF Cavities
+659
+
+
+SUPLO01
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+J.A. Diaz Cruz, S. Biedron, M. Martinez-Ramon, R. Pirayesh, S.I. Sosa Guitron
+                       University of New Mexico, Albuquerque, USA
+J.A. Diaz Cruz
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Traditional PID, active resonance and feed-forward controllers are dominant strategies for cavity resonance control, but performance may be limited for systems with tight detuning requirements, as low as 10 Hz peak detuning (few nanometers change in cavity length), that are affected by microphonics and Lorentz Force Detuning. Microphonic sources depend on cavity and cryomodule mechanical couplings with their environment and come from several systems: cryoplant, RF sources, tuners, etc. A promising avenue to overcome the limitations of traditional resonance control techniques is machine learning due to recent theoretical and practical advances in these fields, and in particular Neural Networks (NN), which are known for their high performance in complex and nonlinear systems with large number of parameters and have been applied successfully in other areas of science and technology. In this paper we introduce NN to resonance control and compare initial performance results with traditional control techniques. An LCLS-II superconducting cavity type system is simulated in an FPGA, using the Cryomodule-on-Chip model developed by LBNL, and is used to evaluate machine learning algorithms.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM01
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 15 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM02
+Finding Beam Loss Locations in a Linac with Oscillating Dipole Correctors
+663
+
+
+ 
+
+A.V. Shemyakin, K. Seiya
+                       Fermilab, Batavia, Illinois, USA
+R. Prakash
+                       RRCAT, Indore, India
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics
+The paper proposes a method of finding the beam loss locations in a linac. If the beam is scraped at an aperture limitation, moving its centroid with two dipole correctors located upstream and oscillating in sync produces a line at the corresponding frequency in spectra of current-sensitive devices downstream of the loss point. The phase of this signal contains information about the location of the beam loss. Similar lines appear also in the position signals of Beam Position Monitors (BPMs). The phases of the BPM position lines change monotonically (within each 2π) along the linac and can be used a reference system. The phase of the loss signal compared with this reference system pinpoints the beam loss location, assuming that longitudinal coordinates of the BPMs are known. If the correctors deflection amplitudes and the phase offset between their waveforms are chosen optimally and well calibrated, the same measurement provides values of the β-function and the betatron phase advance at the BPM locations. Optics measurements of this type can be made parasitically, with negligible effect on the emittance, if a long measurement time is acceptable.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM02
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 19 November 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM03
+The LLRF Control Design and Validation at FRIB
+667
+
+
+ 
+
+S. Zhao, W. Chang, S.H. Kim, H. Maniar, D.G. Morris, P.N. Ostroumov, J.T. Popielarski, H.T. Ren, N.R. Usher
+                       FRIB, East Lansing, Michigan, USA
+N.R. Usher
+                       Ionetix, Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661.
+One of the challenges in designing the low level radio frequency (LLRF) controllers for the Facility for Rare Isotope Beams (FRIB) is the various types of cavities, which include 5 different frequencies ranging from 40.25 MHz up to 322 MHz, and 4 different types of tuners. In this paper, the design strategy taken to achieve flexibility and low cost and the choices made to accommodate the varieties will be discussed. The approach also allowed easy adaptation to major design changes such as replac-ing two cryo-modules with two newly designed room temperature bunchers and the addition of high-voltage bias to suppress multi-pacting in half wave resonators (HWRs). With the successful completion of the third accelerator readiness review (ARR03) commissioning in early 2019, most of the design has been validated in the real accelerator system, leaving only HWRs which are constantly undergoing tests in cryo-module bunker. The integrated spark detector design for HWRs will also be tested in the near future.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM03
+
+ 
+
+
+About •
+paper received ※ 31 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM04
+Precision Cavity Higher-Order Mode Tuning Scheme for Stabilizing the Stored Beam in the Advanced Photon Source Upgrade
+670
+
+
+ 
+
+L. Emery, P.S. Kallakuri, U. Wienands
+                       ANL, Lemont, Illinois, USA
+D. Teytelman
+                       Dimtel, Redwood City, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357
+The Advanced Photon Source Upgrade will suffer longitudinal multi-bunch instability because of the presence of several monopole higher-order mode (HOMs) of the 12 352-MHz rf cavities. Even with a feedback system, it would be good to mitigate any driving terms with conventional means such as tuning HOM frequencies with temperature. However the latter is problematic because there will be 90 or so HOMs that are potentially harmful. A scheme is developed, utilizing the measured spectrum of HOMs, to find the best temperature setting for each cavity. We present measurements of 30 or so HOMs, and a thermal model of HOM frequencies using cavity wall power and cooling water temperature as inputs to maintain the optimum tuning condition with sufficient accuracy. The newly acquired Dimtel iGp12 processor box is central to the HOM frequency measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM04
+
+ 
+
+
+About •
+paper received ※ 29 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM05
+Continuous Monitoring of Spectral Features of Electron Beam Orbit Motion at NSLS-II
+673
+
+
+ 
+
+B. Podobedov, A.A. Derbenev, K. Ha, T.V. Shaftan
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+NSLS-II ring is equipped with state-of-the art beam position monitors (BPMs) which are indispensable in all aspects of machine studies and operations. Among other data, they can provide, on demand, up to 10 seconds of fast-acquisition (FA) data, sampled at ~10 kHz. Analysis of these data in time, frequency and spatial domains provides valuable insights into orbit stability, locations of residual noise sources, performance of feedback systems, etc. In addition, changes in FA signal spectral features are often the earliest indicators of potential equipment problems. This is why we recently implemented an Input / Output Controller (IOC) software that runs during regular user operation, and, once a minute, acquires 10 second buffers of FA data from 180 BPMs around the ring. These buffers are processed to determine the amplitudes and frequencies of the strongest spectral peaks as well as some other measures of fast beam orbit noise. Processed results can be monitored in real time and are also archived for offline analysis and troubleshooting. In this paper we discuss the implementation of this system and the insights we gained from it over about two years of operations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM05
+
+ 
+
+
+About •
+paper received ※ 31 August 2019       paper accepted ※ 02 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM06
+NuMI Beam Muon Monitor Data Analysis and Simulation for Improved Beam Monitoring
+677
+
+
+SUPLO04
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+P. Snopok
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+A. Bashyal
+                       Oregon State University, Corvallis, USA
+T.J. Rehak
+                       Drexel University, Philadelphia, Pennsylvania, USA
+D.A. Wickremasinghe, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+Y. Yupresenter
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE grants DE-SC0019264 and DE-SC0017815 and Fermilab Research Alliance, LLC under Contract No. DE-AC02-07CH11359.
+The NuMI muon monitors (MMs) are a very important diagnostic tool for monitoring the stability of the neutrino beam used by the NOvA experiment at Fermilab. The goal of our study is to maintain the quality of the MM signal and to establish the correlations between the neutrino and muon beam profile. This study could also inform the LBNF decision on the beam diagnostic tools. We report on the progress of beam scan data analysis (beam position, spot size, and magnetic horn current scan) and comparison with the simulation outcomes.
+
+ 
+
+
+
+
+
+
+Poster WEPLM06 [6.150 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM06
+
+ 
+
+
+About •
+paper received ※ 30 August 2019       paper accepted ※ 02 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM07
+Low Level RF Test System for the Compact X-Ray Light Source at Arizona State University
+680
+
+
+ 
+
+H.S. Marks, W.S. Graves, M.R. Holl, L.E. Malin
+                       Arizona State University, Tempe, USA
+
+ 
+
+
+ 
+
+A compact femtosecond X-Ray Light Source (CXLS) for time-resolved scientific and medical studies is being constructed at Arizona State University. The CXLS X-rays will be generated by the inverse Compton scattering (ICS) collision of 200 mJ, 1 ps, IR laser pulses with 300 fs electron bunches with energy up to 35 MeV. The electron beam is accelerated via a photoinjector and three standing-wave 20-cell linac sections driven by two klystrons delivering up to 6 MW 1 µs pulses at 9.3 GHz with a pulse repetition rate of 1 kHz. For initial testing of the CXLS klystrons a hybrid digital-analog low-level RF (LLRF) driver has been developed which allows for inter-pulse phase and amplitude corrections based on feedback from waveguide-couplers. The micro-controller based system can also be programmed to adjust continuously in advance of predictable drifts.
+
+ 
+
+
+
+
+
+
+Poster WEPLM07 [2.226 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM07
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 03 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM09
+Analysis of Beam Position Monitor Requirements with Bayesian Gaussian Regression
+ 
+
+
+THXBA2
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y. Li, R.S. Rainer
+                       BNL, Upton, New York, USA
+W.X. Cheng
+                       ANL, Lemont, Illinois, USA
+Y. Hao
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This research is supported by U.S. Department of Energy under Contract No. DE-SC0012704, and the NSF under Cooperative Agreement PHY-1102511.
+With a Bayesian Gaussian regression approach, a systematic method for analyzing a storage ring’s beam position monitor (BPM) system requirements has been developed. The ultimate performance of a ring-based accelerator, based on brightness or luminosity, is determined not only by global parameters, but also by local beam properties at some particular points of interest (POI). BPMs used for monitoring the beam properties, however, can not be located at these points. Therefore, the underlying and fundamental purpose of a BPM system is to predict whether the beam properties at POIs reach their desired values. The prediction process is a regression problem with BPM readings as the training data, but containing random noise. A Bayesian Gaussian regression approach can determine the probability distribution of the predictive errors, which can be used to conversely analyze the BPM system requirements. This approach is demonstrated by using turn-by-turn data to reconstruct a linear optics model, and predict the brightness degradation for a ring-based light source. The quality of BPMs was found to be more important than their quantity in mitigating predictive errors.
+
+ 
+
+
+
+
+
+
+Slides THXBA2 [3.205 MB]
+        
+ 
+
+
+
+
+
+
+Poster THXBA2 [7.083 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-THXBA2
+
+ 
+
+
+About •
+paper received ※ 16 August 2019       paper accepted ※ 04 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM10
+Final Design of the APS-Upgrade Storage Ring Vacuum System
+ 
+
+
+TUYBB3
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+J.A. Carter, B. Billett, B. Brajuskovic, M.A. Lale, A. McElderry, O.K. Mulvany, J.R. Noonan, M.M. O’Neill, R.R. Swanson, K.J. Wakefield, D.R. Walters, G.E. Wiemerslage, J. Zientek
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Argonne National Laboratory’s work was supported by the U.S. Department of Energy, Office of Science under contract DE-AC02-06CH11357.
+The Advanced Photon Source Upgrade project is progressing from its final design phase into production for the future 6 GeV, 200 mA upgrade of the existing APS. The storage ring arc vacuum system will include over 2500 custom vacuum chambers ranging from 70 mm to 2.5 meters in length and typically feature a narrow 22 mm inner diameter aperture. The scope of NEG coatings was increased to 40% of the length along the e-beam path to ensure efficient conditioning and low pressure requirements can be met. The final design phase required advancing previous work to a procurement-ready level and to address local and system level challenges. Local challenges include designing thin-walled vacuum chambers with carefully controlled lengths and outer profiles and also mitigating significant radiation heat loads absorbed along vacuum chamber walls. System level challenges include planning for the complex machine assembly, networking components to utilities, managing the quality of upcoming procurements. This presentation will highlight the major design challenges and solutions for the storage ring vacuum system and also plans for production and installation.
+
+ 
+
+
+
+
+
+
+Slides TUYBB3 [10.852 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUYBB3 [5.028 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB3
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 30 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM11
+Closed Loop Modeling of the APS-U Orbit Feedback System
+683
+
+
+ 
+
+P.S. Kallakuri, A.R. Brill, J. Carwardine, N. Sereno
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-ACO2-O6CH11357.
+Orbit stabilization to 10% of the expected small beam sizes for Advanced Photon Source Upgrade (APS-U) requires pushing the state of the art in fast orbit feedback (FOFB) control, both in the spatial domain and in dynamical performance. We are building a Matlab/Simulink fast orbit feedback system model to guide decisions about APS-U fast orbit feedback system implementation and to provide a test bench for optimal-control methodologies and orbit correction algorithms applicable to the APS-U. A transfer function model was built from open-loop frequency-response and step-response measurements of the present APS and subsequently validated against closed-loop measurements. A corresponding model for APS-U fast orbit feedback was generated by substituting measured responses of APS-U prototype corrector magnets and power supplies into this same model. Stabilizing PID gains are designed using model, and simulated dynamic performance of the new controller is validated through experiments.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM11
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 19 November 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM13
+Multipactor Electron Cloud Analysis in a 17 GHz Standing Wave Accelerator Cavity
+687
+
+
+SUPLM06
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+H. Xu, M.A. Shapiro, R.J. Temkin
+                       MIT/PSFC, Cambridge, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: US Department of Energy High Energy Physics
+Theoretical predictions of single-surface one-point multipactor modes have been confirmed in experiments with a 17 GHz standing wave single cell disk-loaded waveguide accelerator structure operated in gradient range of 45-90 MV/m. A dc-biased probe placed outside of a slit in the side wall of the structure was used to measure the internal dark current electron energy distribution. The results indicated that the electrons had kinetic energy up to about 50 eV, in agreement with our CST particle-in-cell (PIC) simulations. Further theoretical calculations were performed to calculate the frequency detuning introduced by the multipactor electron cloud on the cell side wall for different electron cloud thicknesses and densities. We found that the detuning (Δf/f) due to the electron cloud was small, about two orders of magnitude smaller than the reciprocal of the cavity loaded quality factor. This detuning is sufficiently small that it does not cause significant power reflection. Similar calculations were carried out for high gradient operation of accelerator structures at frequencies of 2.856 GHz and 110.0 GHz, showing similar small detuning by multipactor discharges.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM13
+
+ 
+
+
+About •
+paper received ※ 19 August 2019       paper accepted ※ 16 November 2020        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM21
+High-Quality Resonators for Quantum Information Systems
+690
+
+
+ 
+
+S.V. Kuzikov
+                       IAP/RAS, Nizhny Novgorod, Russia
+S.P. Antipov, P.V. Avrakhovpresenter, E. Gomez
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+
+ 
+
+
+ 
+
+We analyze ultra-high-quality factor resonators for quantum computer architectures. As qubit operation requires external DC fields, we started our study with a conventional closed copper cavity which naturally allows external magnetic field. In order to increase quality factor and to keep DC magnetic field control at a level less than critical field, an open SRF resonator promises much higher quality. The next step resonator is a photonic band gap (PBG) resonator. This resonator allows easy external either magnetic or electric field control. It consists of a periodic 3D set of sapphire rods assembled between two superconducting plates. The PBG resonator exploits unique properties of the crystalline sapphire. Tangent delta for sapphire in X-band is reported at 10-9 ’ 10-10 at 4 K. That is why, the Q-factor of the sapphire PBG resonator can be expected as high as 10 billions at mK temperatures which provides long relaxation times (dephasing etc.). The established PBG design implies obtaining a large Purcell factor, i.e. large ratio of quality to mode volume which is important parameter to establish strong interaction of a qubit with the cavity mode rather than RF noise.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM21
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 01 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM23
+Updated Applications of Advanced Compact Accelerators
+694
+
+
+WEPLM22
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Uesaka
+                       The University of Tokyo, Nuclear Professional School, Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+We are working for downsizing of RF accelerators from room-size to portable and table-top sizes and applying them to industril and social uses. We have developed portable 950 keV / 3.95 MeV X-band (9.3 GHz) electron linac based X-ray/neutron sources and successfully applied to on-site nondestructive inspection of industrial and social infrastructures such as chemical reaction chambers and bridges following the radiation safety law and regulation in Japan. By using the portable 950 keV / 3.95 MeV X-band electron linac based X-ray sources for on-site actual bridge inspection, we visualize inner reinforcement iron structure. The information of of the iron states is used for the structural analysis of the a bridge in order to evaluate its residual strength and sustainability. Table-topμelectron / ion beam sources using laser dielectric accelerating techniques are under development. The beam energy is ~ 1 MeV, the beam size is ~1 micron. We aim to apply them to 3D dynamic observation of radiation-induced DNA damage / repair for basic research of radiation therapy and low dose effect.
+
+ 
+
+
+
+
+
+
+Poster WEPLM23 [0.778 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM23
+
+ 
+
+
+About •
+paper received ※ 30 August 2019       paper accepted ※ 19 November 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM24
+Rapid Radio-Frequency Beam Energy Modulator for Proton Therapy
+ 
+
+
+TUXBA4
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+X. Lu, G.B. Bowden, V.A. Dolgashev, Z. Li, E.A. Nannipresenter, A.V. Sy, S.G. Tantawi
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by US Department of Energy (DOE) Contract No. DE-AC02-76SF00515.
+We present the design for a rapid proton energy modulator with radio-frequency (RF) accelerator cavities. The energy modulator is designed as a multi-cell one-meter long accelerator working at 2.856 GHz. We envision that each individual accelerator cavity is powered by a 400 kW low-voltage klystron to provide an accelerating / decelerating gradient of 30 MV/m. We have performed beam dynamics simulations showing that the modulator can provide ± 30MeV of beam energy change, with an energy spread of 3 MeV for a 7 mm long (full length) proton bunch. A prototype experiment of a single cell is in preparation at the Next Linear Collider Test Accelerator (NLCTA) at SLAC.
+
+ 
+
+
+
+
+
+
+Slides TUXBA4 [3.275 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUXBA4
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 06 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM45
+Development of a Marx Modulator for FNAL Linac
+ 
+
+
+WEZBA5
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+T.A. Butler, F.G. Garcia, M.R. Kufer, K.S. Martin, H. Pfeffer
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics.
+A Marx-topology modulator has been designed and developed at the Fermi National Accelerator Laboratory under the Proton Improvement Plan (PIP). This modulator replaces the previous triode hard-tube design, increasing reliability, lowering operational costs, and maintaining waveform accuracy. The Marx modulator supplies the anode of the 7835 VHF power triode tube with a 35 kV, 375 Amp, 460 µs pulse at 15 Hz. It consists of 54 individual Marx cells, each containing a 639 µF capacitor charged to 900 Volts, combined in series with IGBT switches to create the desired output waveform. This requires variable rise and fall times, flattening of capacitive droop, and feedforward beam loading compensation. All five 201.25 MHz RF systems have been upgraded to Marx modulators to ensure continued operation of the linear accelerator.
+
+ 
+
+
+
+
+
+
+Slides WEZBA5 [15.252 MB]
+        
+ 
+
+
+
+
+
+
+Poster WEZBA5 [3.029 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEZBA5
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM46
+High-Gradient Tests of W-Band Accelerating Structures
+ 
+
+
+THYBB4
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M.A.K. Othman, V.A. Dolgashev, A.A. Haase, E.A. Nanni, J. Neilson, S.G. Tantawi
+                       SLAC, Menlo Park, California, USA
+S. Jawla, J.F. Picard, R.J. Temkin
+                       MIT/PSFC, Cambridge, Massachusetts, USA
+S.C. Schaub
+                       MIT, Cambridge, Massachusetts, USA
+B. Spataro
+                       INFN/LNF, Frascati, Italy
+
+ 
+
+
+ 
+
+Funding: This work was supported by Department of Energy contract DE-AC02-76SF00515 (SLAC) and grant DE-SC0015566 (MIT). This work was also supported by NSF grants PHY-1734015.
+There is an ongoing interest in linear accelerators operating at 100s of GHz and THz frequencies due to their small size and potentially high efficiency. Vacuum RF breakdown is one of the fundamental factors limiting performance of these linacs. Accordingly, study of RF breakdown physics in mm-wave high gradient accelerating structures is needed, which includes understanding of dependencies of the breakdown rate on electromagnetic, geometric, and material properties. In our previous work, we have tested beam-driven 100 GHz and 200 GHz metallic accelerating structures. In this work we report results of high power tests of a 110 GHz single-cell standing wave accelerating cavity powered by a 1 MW gyrotron. The RF power is coupled into the accelerating structure using a "Gaussian to TM01" mode converter. In order to characterize high gradient behavior of the cavity, including the RF breakdown probability, we have measured RF signals and field-emitted currents. The cavity is driven by 10 ns, 100s of kilowatt pulses. These short pulses were cut from microsecond-long gyrotron pulses using a fast optical switch, with accelerating gradients up to 150 MV/m.
+
+ 
+
+
+
+
+
+
+Slides THYBB4 [4.501 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM47
+Analysis of High Field Q-Slope (HFQS) Causes and Development of New Chemical Polishing Acid
+699
+
+
+SUPLS04
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D. Luo, E.S. Metzgar, L. Popielarski, K. Saito, S.M. Shanab, G.V. Simpson
+                       FRIB, East Lansing, Michigan, USA
+T. Nakajima, I. Nasu, J. Taguchi
+                       Nomura Plating Co, Ltd., Osaka, Japan
+
+ 
+
+
+ 
+
+Funding: U.S. National Science Foundation under Grant PHY-1565546.
+In our previous studies of High Field Q-slope (HFQS) we have concluded that nitrogen contamination from the nitric acid is the main cause of the degradation of the Q in buffered chemical polished cavities. Our conclusion is made based on previously unresolved phenomena which are found from huge amount of published cavity test data, include fine grain, large grain and single crystal cavities treated with EP and BCP. According to this analysis, we have started developing new nitrogen-free chemical polishing acid. Hydrogen peroxide with HF mixture was reported able to react with Nb, and there’s no extra element contamination in it, so we replace the conventional BCP with this mixture to start our study. In this paper, some Nb coupon sample results with new acid will be reported. We complete the first step of developing the new acid and we got the Nb finish roughness no worse than conventional BCP.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM47
+
+ 
+
+
+About •
+paper received ※ 13 September 2019       paper accepted ※ 04 December 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM49
+New RF System for First Drift Tube Linac Cavity at LANSCE
+703
+
+
+ 
+
+J.T.M. Lyles, R.E. Bratton, G. Roybal, M. Sanchez Barrueta, G.M. Sandoval, Jr., D.J. Vigil, J.E. Zane
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the United States Department of Energy, NNSA, under contract 89233218CNA000001
+From 2014-2016, the three highest power 201 MHz power amplifier (PA) systems were replaced at the Los Alamos Neutron Science Center 100 MeV DTL. The initial DTL cavity provides 4.25 MeV of energy gain and has been powered by a Photonis (RCA) 4616 tetrode driving a 7835 triode PA for over 30 years. It consumes 110 kW of electrical power for tube filaments, power supplies and anode modulator. The modulator is not required with modern tetrode amplifiers. In 2020 we plan to replace this obsolete 6 tube transmitter with a design using a single tetrode PA stage without anode modulator, and a 20 kW solid-state driver stage. This transmitter needs to produce no more than 400 kW, and will use a coaxial circulator. Cooling water demand will reduce from 260 to 70 gal/min of pure water. High voltage DC power comes from the same power supply/capacitor bank that supplied the old system. The old low-level RF controls will be replaced with digital LLRF with learning capability for feedforward control, I/Q signal processing, and PI feedback. All high power components have been assembled in a complete mockup system for extended testing. Installation of the new RF system begins in January of 2020.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM49
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM50
+Beam Driven Bimodal Cavity Structure for High Gradient Acceleration
+707
+
+
+ 
+
+X. Chang, Y. Jiang, S.V. Shchelkunov
+                       Yale University, Beam Physics Laboratory, New Haven, Connecticut, USA
+J.L. Hirshfield
+                       Omega-P, Inc., New Haven, Connecticut, USA
+
+ 
+
+
+ 
+
+Funding: Supported by USA National Science Foundation, Award #1632588
+Abstract: Research aiming to increase the RF breakdown threshold in electron/positron accelerators is being conducted at the Yale University Beam Physics Laboratory. Our two-beam accelerator approach employs a beam driven bimodal cavity structure. This cavity includes (i) two modes excited by the drive beam, with the higher mode frequency three times that of the fundamental TM010 mode; (ii) a low-current accelerated beam and high-current drive beam traversing the same cavity structure. This approach has the potential advantages of (a) operating at higher acceleration gradient with lower breakdown and pulsed heating rates than that of a single-mode cavity structure at the same acceleration gradient, due to the spatiotemporal field distribution properties in the bimodal cavities; and (b) obtaining high accelerating gradient with a low energy drive beam. Recent progress in simulations and work towards an experimental test stand is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM50
+
+ 
+
+
+About •
+paper received ※ 23 August 2019       paper accepted ※ 03 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM51
+Ka-Band High Power Harmonic Amplifier for Bunch Phase-Space Linearization
+710
+
+
+ 
+
+X. Chang, Y. Jiang, S.V. Shchelkunov
+                       Yale University, Beam Physics Laboratory, New Haven, Connecticut, USA
+J.L. Hirshfield
+                       Omega-P, Inc., New Haven, Connecticut, USA
+
+ 
+
+
+ 
+
+Funding: Supported by USA National Science Foundation, Award #1632588
+Abstract: A future European light source CompactLight is being proposed to extend FEL operation further into the x-ray region than other light sources by using a linac operating at X-band (12 GHz) with a short Ka-band (36 GHz) section for linearizing bunch phase space. The Ka-band system requires a high-power RF amplifier, synchronized with the main X-band source. We report here on design of a third-harmonic klystron amplifier for this application. Our design employs a four-cavity system with a multi-cell extended interaction output cavity. Initial simulation results indicate that more than 10 MW of 36-GHz power can be obtained with an efficiency exceeding 20%, and with 12-GHz drive power of 30 W. A preliminary design for a proof-of-principal experimental test of this concept is described
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM51
+
+ 
+
+
+About •
+paper received ※ 23 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM52
+Recent Developments of Nb₃Sn at Jefferson Lab for SRF Accelerator Application
+713
+
+
+SUPLS05
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+U. Pudasaini, M.J. Kelley
+                       The College of William and Mary, Williamsburg, Virginia, USA
+G.V. Eremeev, M.J. Kelley, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy, Office of Science, Office of Nuclear Physics.
+The desire to reduce the construction and operating costs of future SRF accelerators motivates the search for alternative, higher-performing materials. Nb3Sn (Tc ~ 18.3 K and Hsh ~ 425 mT) is the front runner. However, tests of early Nb3Sn-coated cavities encountered strong Q-slopes limiting the performance. Learnings from studies of coated materials related to cavity performance prompted significant changes to the coating process. It is now possible to routinely produce slope-free single-cell cavities having Q0 ≥ 2×1010 at 4 K and > 4×1010 at 2 K up to the accelerating gradient in excess of 15 MV/m at its best. Obtaining similar results in five-cell cavities is a current goal to test them under an accelerator environment. This contribution discusses recent developments at Jefferson Lab.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM52
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM53
+50 kW CW Multi-Beam Klystron
+717
+
+
+ 
+
+S.V. Shchelkunov
+                       Yale University, Beam Physics Laboratory, New Haven, Connecticut, USA
+J.L. Hirshfield, V.E. Teryaev
+                       Omega-P, Inc., New Haven, Connecticut, USA
+
+ 
+
+
+ 
+
+Funding: Funded by the US Department of Energy; grant DE-SC-0018471.
+Main components, which are the electron gun, cavity-chain, magnetic system, and partially- grounded depressed four-stage collector, of a novel klystron were conceptually designed. This klystron is to deliver 50 kW CW at 952.6 MHz and to serve as a microwave power source for ion acceleration at the Electron Ion Collider (EIC) being developed at Thomas Jefferson National Accelerator Facility. The efficiency is 80%, a number to which the power consumption by the solenoid and filament are already factored in. The tube is a combination of proven technologies put together: it uses multiple beams to have its perveance low to boost beam-power to RF-power efficiency. It uses a partially grounded depressed collector to recover energy thereby increasing the overall efficiency. A low operating voltage of 14kV makes the tube more user-friendly avoiding need for costly modulators and oil insulation. A sectioned solenoid is used to insure superb beam-matching to all components downstream of the electron gun, increasing the tube performances. Details of the components designs will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM53
+
+ 
+
+
+About •
+paper received ※ 14 August 2019       paper accepted ※ 02 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM56
+Development of Helium Gas Charge Stripper with Plasma Window
+720
+
+
+ 
+
+J. Gao, F. Marti
+                       FRIB, East Lansing, Michigan, USA
+A. Lajoie
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by NSF Award PHY-1565546.
+The cascade arc discharge, also called "plasma window", was suggested to be used as an interface to provide an effective separation between atmosphere and vacuum [1]. As suggested by Thieberger and Hershcovitch at Facility for Rare Isotope Beams (FRIB) workshop in 2009, helium plasma window offers an alternative to a large pumping system used in helium gas charge stripper for high intensity heavy ion beam accelerator facilities [2]. In this report, we present the recent progress on the development of helium plasma window with both 6mm and 10 mm diameter apparatus [3]. The size dependent sealing performance of helium plasma window has been investigated. Various diagnostics tools have been developed to improve our understanding of underlying physics. Over 140 hours continuous unattended operation of helium plasma window in recirculating gas system has been achieved, which suggests our system to be a feasible charge stripper solution for heavy ion beam accelerators. We also discuss anticipated future developments of plasma window.
+[1] A. Hershcovitch, Phys. Plasma 5, 2130 (1998).  [2] H. Imao, et al., Phys. Rev. ST Accel. Beams 15, 123501 (2012).  [3] A. LaJoie, J. Gao and F. Marti, IEEE Transactions on Plasma Science (2019) 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM56
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 04 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM57
+200 kW, 350 - 700 MHz RF Sources using Multiple Beam Triodes
+724
+
+
+ 
+
+R.L. Ives, T. Bui, D. Marsden, M.E. Read
+                       CCR, San Mateo, California, USA
+B. Henderson, L. Higgins, R. Ho
+                       CPI, Palo Alto, California, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy Grant No. DE-SC0018838
+Calabazas Creek Research, Inc. and Communications & Power Industries, LLC are developing multiple beam triodes to produce more than 200 kW of RF power at extremely low cost and efficiencies exceeding 85%. RF power is achieved by installing the triode inside coaxial input and output cavities at the desired frequency. The multiple beam triodes developed in this program will provide RF power from 350 MHz to 700 MHz using the appropriate, tuned, resonant cavities. This program is using eight grid-cathode assemblies to achieve 200 kW with a target efficiency exceeding 80%. A 350 MHz RF source would be approximately 36 inches high, 18 inches in diameter and weigh approximately 150 pounds. This is significantly smaller than any other RF source at this frequency and power level. The gain is limited to approximately 14 dB, so a single beam triode-based source will serve as a driver. The combined cost and efficiency will still exceed the performance of other comparable RF sources, including solid state sources. Design issues, include grid cooling, uniformity of RF electric fields on the grids, and efficiency, will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM57
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 04 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM60
+Fast Sn-Ion Transport on Nb Surface for Generating NbxSn Thin Films and XPS Depth Profiling
+727
+
+
+ 
+
+Z. Sun, M. Liepe, J.T. Maniscalco, T.E. Oseroff, R.D. Porterpresenter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+X. Deng
+                       University of Virginia, Charlottesville, Virginia, USA
+D. Zhang
+                       Cornell University, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: U.S. National Science Foundation under Award PHY-1549132, the Center for Bright Beams
+In this work, we propose and demonstrate a fast and facile approach for NbxSn thin film deposition through the ion exchange reaction. By simply dipping a tin precursor on the Nb substrate surface, a ~600 nm thin film is generated due to the electronegativity differ-ence between Sn and Nb. Through X-ray photoelec-tron spectroscopy (XPS) depth profiling, the composi-tional information as a function of film thickness was obtained. Results showed a Sn layer on the film sur-face, Sn-rich and Nb-rich NbxSn layers as the majority of the film, and a ~60 nm Nb3Sn layer at the film/substrate interface. Quantitative analysis con-firmed stoichiometric Nb/Sn ratio for the Nb3Sn layer. This deposition method is demonstrated to be an alter-native choice for Nb3Sn film growth.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM60
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 15 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM62
+First Cold Test Results of a Medium-Beta 644 MHz Superconducting 5-Cell Elliptical Cavity for the FRIB Energy Upgrade
+731
+
+
+SUPLS07
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+K.E. McGee, B.W. Barker, K. Elliott, A. Ganshyn, W. Hartung, S.H. Kim, P.N. Ostroumov, J.T. Popielarski, A. Taylor, C. Zhang
+                       FRIB, East Lansing, Michigan, USA
+M.P. Kelly, T. Reid
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Michigan State University.
+The superconducting linac for the Facility for Rare Isotope Beams (FRIB) will accelerate ions to 200 MeV per nucleon, with the possibility of a future energy upgrade to 400 MeV per nucleon via additional cavities. A 5-cell superconducting β = 0.65 elliptical cavity was designed for this purpose. Two unjacketed 5-cell niobium cavities were fabricated; the first of these was Dewar tested in February 2019. The surface preparation was bulk electropolishing (EP, 150 µm), hydrogen degassing (600°C, 10 hours), light EP (20 µm), clean-room high-pressure water rinsing, and in-situ baking (120°C, 48 hours). We achieved Q0 = 2·1010, equivalent to Rs = 10 nΩ, at the design gradient of 17.5 MV/m. The cavity was tested in a newly refurbished FRIB test Dewar, equipped with a variable input coupler.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM62
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 19 November 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM63
+Development of a Secondary Sn Source for Nb₃Sn Coating of Half-Wave Coaxial Resonator
+735
+
+
+SUPLS09
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+J.K. Tiskumara, J.R. Delayen, H. Park
+                       ODU, Norfolk, Virginia, USA
+G.V. Eremeev
+                       JLab, Newport News, Virginia, USA
+U. Pudasaini
+                       The College of William and Mary, Williamsburg, Virginia, USA
+
+ 
+
+
+ 
+
+Superconducting thin films have the potential of reducing the cost of particle accelerators. Among the potential materials, Nb3Sn has a higher critical temperature and higher critical field compared to niobium. Sn vapor diffusion method is the preferred technique to coat niobium cavities. Although there are several thin-film-coated basic cavity models that are tested at their specific frequencies, the Half-wave resonator could provide us data across frequencies of interest for particle accelerators. With its advanced geometry, increased area, increased number of ports and hard to reach areas, the half-wave resonator needs a different coating approach, in particular, a development of a secondary Sn source. We are commissioning a secondary Sn source in the coating system and expand the current coating system at JLab to coat complex cavity models.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM63
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 06 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM64
+High Dynamic Voltage Range Studies of Piezoelectric Multilayer Actuators at Low Temperatures
+739
+
+
+SUPLS01
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C. Contreras-Martinez
+                       FRIB, East Lansing, Michigan, USA
+Y.M. Pischalnikov, J.C. Yun
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Piezo actuators are used for resonance control in superconducting linacs. In high accelerating gradients linacs, such as those operated in a pulsed mode, the piezos require a large operating voltage. This is due to the Lorentz forced detuning which causes a large frequency shift and is compensated with an active piezo-tuning system. In this high dynamic voltage range the piezo is expected to warm up drastically due to it being in an insulated vacuum. This study characterizes the dielectric properties (capacitance, dielectric losses), the piezo stroke (from geophone), and thermal properties such as heating. Results obtained in the temperature range of 20K to 300K will be presented and discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM64
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM66
+Microphonics Studies at STC in Fermilab
+743
+
+
+ 
+
+C. Contreras-Martinez
+                       FRIB, East Lansing, Michigan, USA
+Y.M. Pischalnikov, W. Schappert, A.I. Sukhanov, J.C. Yun
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The spoke test cryostat is used to qualify the 325 MHz single spoke resonators at Fermilab (FNAL). During these tests a large detuning on the cavity was observed. The data acquisition for continuous captures were based on measurements from the piezoelectric actuators. A com-parison of the cavity vibrations measured with RF signal from the cavity and piezoelectric actuator signals are shown. The effects of microphonics on the cavity are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM66
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM67
+Optimization of a Single-Cell Accelerating Structure for Rf Breakdown Test With Short Rf Pulses
+747
+
+
+ 
+
+M.M. Peng, J. Shi
+                       TUB, Beijing, People’s Republic of China
+M.E. Conde, G. Ha, C.-J. Jing, W. Liu, J.G. Power, J. Seok, J.H. Shao, E.E. Wisniewski
+                       ANL, Lemont, Illinois, USA
+C.-J. Jing
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+
+ 
+
+
+ 
+
+RF breakdown is one of the major limitations to achieve high gradient acceleration for future structure-based normal conducting linear colliders. Previous statistic research shows that the breakdown rate is proportional to Ea30 * tp5, which indicates that the accelerating gradient Ea could be improved by using shorter RF pulses (tp). An X-band 11.7~GHz metallic single-cell structure has been designed for RF breakdown study up to 273~MV/m using short pulses (~3ns) generated by a 400~MW power extractor at Argonne Wakefield Accelerator (AWA) facility. The structure has also been scaled to 11.424~GHz for the long pulse (100-1500~ns) breakdown study driven by a klystron and a pulse compressor at Tsinghua X-band High Power Test-stand (TPoT-X), with the gradient up to 246~MV/m with 200~MW input power.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM67
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 26 November 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM68
+Design of a Dielectric-Loaded Accelerator for Short Pulse High Gradient Research
+751
+
+
+ 
+
+M.M. Peng, J. Shi
+                       TUB, Beijing, People’s Republic of China
+M.E. Conde, G. Ha, C.-J. Jing, W. Liu, J.G. Power, J. Seok, J.H. Shao, E.E. Wisniewski
+                       ANL, Lemont, Illinois, USA
+C.-J. Jing
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+
+ 
+
+
+ 
+
+The short-pulse two-beam acceleration approach is a promising candidate to meet the cost and luminosity requirements for future linear colliders. Dielectric-loaded structure has been intensely investigated for this approach because of its low fabrication cost, low RF loss, and potential to withstand GV/m gradient. An X-band 11.7~GHz dielectric-loaded accelerator (DLA) has been designed for high power test with short RF pulses (3~ns) generated from a power extractor driven by high charge bunches at Argonne Wakefield Accelerator (AWA) facility. The gradient is expected to be over 100~MV/m with the maximum input power of 400~MW.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM68
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 27 November 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM70
+FRIB Tuner Performance and Improvement
+755
+
+
+ 
+
+J.T. Popielarski, W. Chang, C. Compton, W. Hartung, S.H. Kim, E.S. Metzgar, S.J. Miller, K. Saito, J.F. Schwartz, T. Xu
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661
+The Facility for Rare Isotope Beams (FRIB) is under construction at Michigan State University (MSU). The FRIB superconducting driver linac will accelerate ion beams to 200 MeV per nucleon. The driver linac requires 104 quarter-wave resonators (QWRs, β = 0.041 and 0.085) and 220 half-wave resonators (HWRs, β = 0.29 and 0.54). The cryomodules for β = 0.041, 0.085, and 0.29 have been completed and certified; 32 out of 49 cryomodules are certified via bunker test (as of March 2019). FRIB QWR cavities have a demountable niobium tuning plate which uses a warm external stepper motor and the FRIB HWR cavities use pneumatic actuated bellows. Progress on the preparation and performance of the tuners is presented in this paper along with improvements made to ensure meeting frequency specification.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM70
+
+ 
+
+
+About •
+paper received ※ 26 September 2019       paper accepted ※ 19 November 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM71
+Thermal Performance of FRIB Cryomodules
+759
+
+
+ 
+
+M. Xu, W. Chang, C. Compton, A. Ganshyn, S.H. Kim, S.J. Miller, J.T. Popielarski, K. Saito, T. Xu
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661 and the National Science Foundation under Cooperative Agreement PHY-1102511.
+Now SRF cavity development is advancing high-Q/high gradient by nitrogen doping, infusion, or the new low temperature bake recipe. Once cavity dynamic loss is reduced, the static heat load of the cryomodule will be of concern from the cryogenic plant capability point of view. FRIB gives us a good chance to statistically compare the cryogenic plant design and the measured results, along with a thought for future updated cryomodule design using a low/medium beta cryomodule. FRIB cryomodules have two cooling lines: 4.5 K for solenoids and 2K for cavities. The boil-off liquid helium method was used to measure the cryomodule’s heat load. So far, FRIB has completed certification testing (bunker tests) on 39 of 49 cryomodules (80%). This paper reports the static heat load measurement results, which are important for future FRIB upgrades to estimate remaining cryogenic capability. The cryomodule’s evolution related to heat load is introduced too.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM71
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 15 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM72
+Design of a High-Gradient S-Band Annular Coupled Structure
+762
+
+
+ 
+
+B. Mustapha, A. Abogoda, A. Barcikowski, R.L. Fischer, A. Nassiri
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. DOE under Contract No. DE-AC02-06CH11357 through ANL’s LDRD program.
+At Argonne, we have recently developed a conceptual design for a compact linear accelerator for ion beam therapy named ACCIL [1]. A linac-based ion-beam therapy facility offers many advantages over existing synchrotron based facilities. In addition to the reduced footprint, ACCIL offers more flexibility in beam tuning, including pulse-per-pulse energy and intensity modulation and fast switching between ion species. Essential to the compactness of the ACCIL linac are high-gradient structures for low to intermediate velocity ions, capable of accelerating fields of ~ 50 MV/m. For this purpose, we have designed an S-band annular-coupled structure (ACS). An ACS has the desired qualities of high electric field limit, high shunt-impedance, large area for magnetic coupling and good cooling capacity, making it a very promising candidate for high-gradient operations. We here present the optimized RF design for a β ~ 0.4 ACS.
+* P. Ostroumov, et al., "Compact Carbon Ion Linac", Proceedings of NAPAC2016, Oct 10-14 2016, Chicago, IL 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM72
+
+ 
+
+
+About •
+paper received ※ 04 October 2019       paper accepted ※ 16 November 2020        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLM73
+Bunker Testing of FRIB Cryomodules
+765
+
+
+ 
+
+W. Chang, S. Caton, A. Ganshyn, W. Hartung, S.H. Kim, B. Laumer, H. Maniar, J.T. Popielarski, K. Saito, M. Xu, T. Xu, C. Zhang, S. Zhao
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+The FRIB superconducting driver Linac requires 104 quarter-wave resonators (QWRs, β = 0.041, 0.085), 220 half-wave resonators (HWRs, β = 0.29, 0.53), and 74 superconducting solenoid packages. Resonators and solenoids are assembled into cryomodules; 4 accelerating and 2 matching cryomodule types are required. Each cryomodule undergoes cryogenic and RF testing in a bunker prior to installation in the tunnel. The cryomodule test verifies operation of the cavities, couplers, tuners, solenoid packages, magnetic shield, and thermal shield at 4.3 K and 2 K. All of the required cryomodules for β = 0.041, 0.085, and 0.29 have been tested and certified. As of May 2019, five of the β = 0.53 cryomodules have been certified; the remaining modules are being assembled or are in the queue for testing. Cryomodule test results will be presented, including cavity performance (accelerating gradient, field emission X-rays, multipacting conditioning); solenoid package operation (current, current-lead cooling flow rate); and cryomodule heat load (static and dynamic).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM73
+
+ 
+
+
+About •
+paper received ※ 06 September 2019       paper accepted ※ 16 November 2020        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

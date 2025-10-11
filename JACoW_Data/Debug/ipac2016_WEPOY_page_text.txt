@@ -1,0 +1,2034 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2016 - Table of Session: WEPOY (Poster Session)
+
+
+WEPOY —  Poster Session   (11-May-16   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPOY001
+First Field Integral Measurement Campaign for Air Coil
+2991
+
+
+ 
+
+Z. Zhao, B. Dupresenter, Q.K. Jia
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+S. Karabekyan, J. Pflüger, M. Yakopov
+                       XFEL. EU, Hamburg, Germany
+
+ 
+
+
+ 
+
+For the operation of the air coils, which are needed for the undulator segments of the European x-ray free-electron laser (E-XFEL), precise conversion constants are needed to properly convert excitation current to steering strength. This paper describes the measurement of all 200 air coils, needed for this purpose using the short moving wire (MW) system. A LabView program was developed to measure the distribution of first field integral of both vertical (By) and horizontal (Bz) magnetic field components in the median plane of an air coil automatically. The program is an adaptation of the existing program, which was used to characterize magnetic properties of the phase shifters (PS). Before doing the measurements the new program automatically finds the centers of By and Bz components, which are found to match with the geometrical centers with sufficient accuracy. After the measuring procedure is complete, the results are presented as graphics output and final tables. It shows that the measurement results can fully meet the design requirements of E-XFEL. For all measurements the excitation current of the coils was set to 1 Ampere.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY001
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY002
+A Time Domain Analysis Method for RF Noise
+2994
+
+
+ 
+
+L. Lin, B. Dupresenter, G. Huang, Y.T. Liu
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+A time domain analysis method is developed for the calculation of the longitudinal oscillations caused by the RF noise in the storage ring. This method is based on the impulse response model, and it could calculates the change of transient field caused by beam oscillation and RF noise turn by turn. By means of discrete spectrum analysis, the spectrum of the beam is obtained. According to this analysis method, we developed a simulation pro-gram. The synchronous oscillation of the excited by high RF source with a phase modulation is predicted in this program, and the corresponding experimental measure-ments are carried out on HLS II. The fitting results are in agreed with the experimental measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY004
+Integrated Green Function for Charged Particle moving along Bending Orbit
+2997
+
+
+ 
+
+K. Ohmi, S. Chen
+                       KEK, Ibaraki, Japan
+H. Tanaka
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+
+ 
+
+
+ 
+
+Electro-magnetic field for moving charged particle is given by Liennard-Wiechert potential. The field contains high frequency component corresponding to synchrotron light, ω=3cγ3/(2ρ). The frequency is too high to study beam behavior generally. Green function integrated over beam distribution and/or over in a region σx/nx× σy/ny× σz/nz (nxyz ∼  10) is useful to study instability and emittance growth of the beam. The green function is regarded as the wake field for coherent synchrotron radiation in three dimension space.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY004
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY007
+Simulation of Electromagnetic Scattering Through the E-XFEL Third Harmonic Cavity Module
+3001
+
+
+ 
+
+N.Y. Joshi, R.M. Jones
+                       UMAN, Manchester, United Kingdom
+N. Baboi, L. Shi
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: The work is part of EuCARD-2, partly funded by the European Commission, GA 31245. N.~Y.~Joshi receives additional funding from The Cockcroft Institute of Science and Technology.
+The European-XFEL is being fabricated in Hamburg to serve as an X-ray Free Electron Laser (FEL) light source. The electron beam will be accelerated through linacs consisting of 1.3 GHz superconducting cavities along a length of 2.1 km. In addition, third harmonic cavities will improve the quality of the beam by linearising the field profile and hence reducing the energy spread. There are eight 3.9 GHz cavities within a single module AH1 of E-XFEL. The beam-excited electromagnetic (EM) field in these cavities can be decomposed into a series of eigenmodes. These modes are, in general, not cut-off between one cavity and the next, as they are able to couple to each other throughout the module. Here for the first time, we evaluate components of the scattering matrix for module AH1. This is a computationally expensive system, and hence we employ a Generalized Scattering Matrix (GSM) technique to allow rapid computation with reduced memory requirements. Verification is provided on reduced structures, which are compared to finite element mesh-based codes. The mode spectrum for the dipole bands of interest in an eight-cavity chain have been calculated and external Q factors for the modes are derived.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY007
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY009
+Simulation Study of Emittance Growth from Coulomb Explosion in a Charge Separator System After Stripping
+3005
+
+
+ 
+
+M. Droba, O. Meusel, U. Ratzinger
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+Funding: BMBF-05P15RFRBA
+A computer 3D particle-in-cell (PIC) simulation is used to examine the emittance growth of an intense heavy ion beam after a charge stripper. Multi-species dynamics of the bunched uranium beam with various charge states and including compensation electrons will be presented. The rms-emittance growth shows different behaviour in the horizontal, vertical and longitudinal planes, dependent on initial conditions, like a bunch size, beam current and phase space ellipse orientation. An optimization of initial parameters is therefore crucial for a successful and efficient post-acceleration. The role of the separation system and of co-moving electrons will be discussed for the example of the GSI-Unilac.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY009
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY010
+Bunch Compression at the Recirculation Loop of the Compact ERL
+3008
+
+
+ 
+
+M. Shimada, K. Harada, Y. Honda, T. Miyajima, N. Nakamura, T. Obina, R. Takai, A. Ueda
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The compact Energy Recovery Linac (cERL) has been operated as a test facility for the future light-source since 2013. One of the targets of the beam commissioning of this winter is demonstration of bunch compression. The bunch has energy chirp in longitudinal direction by off crest acceleration and the bunch length is compressed in non-isochronous arc section. The short electron bunch is spread in the return arc to suppress the energy spread at the main beam dump. Four sextupole magnets were installed in two arcs in November 2015 to correct the squared term induced by RF curvature. The best position was determined by the beam tracking by elegant including Coherent Synchrotron Radiation (CSR) wake. The bunch length is measured by OTR in the south straight section just after the first arc. We present the demonstration of the bunch compression in this report.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY015
+Longitudinal Bram Dynamics at Rf-Compressor
+3011
+
+
+SUPSS059
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A.V. Andrianov
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Nowadays the usage of charged particle beams for study of nature became widespread. Modern experiments are require particle beams with duration around hundreds femtosecond. Relatively simple and cheap method of production such pulses is using RF-gun with photocathode and then the special insertion device which compress the beam. The paper described the RF-compressor for the electron beam. In result of work was obtained a device configuration. Electromagnetic field configuration and distribution were simulated for the configuration. Beam dynamics was computed in this field distribution. Incoming beam parameters are following: beam length is 1-5ps, beam charge is 0.1-2pC and energy is 3MeV. Output beam duration was compressed to less than 150fs. Influence of RF-compressor at beam parameters was estimated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY016
+Use of Nonuniform Magnets for Emittance Reduction
+3014
+
+
+ 
+
+E.B. Levichev, G.N. Baranov, S.V. Sinyatkin
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+We study a theoretical minimum emittance (TME) for a non-uniform bending magnet including a three-step bend (sandwich magnet), a dipole with linear ramp of the bend-ing radius and the same but with a central segment of constant field. We derive expression for the minimum emittance and expand it into a power series with respect to the bending angle. A zero-order term naturally gives the uniform magnet TME while higher-order terms are responsible for the emittance reduction. Theoretical re-sults are verified by numerical simulation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY016
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY018
+Study on Electron Beam Transverse Emittance at the Linac-based THz Laboratory in Thailand
+3017
+
+
+SUPSS060
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+K. Kosaentor
+                       IST, Chiang Mai, Thailand
+S. Rimjaem
+                       Chiang Mai University, Chiang Mai, Thailand
+
+ 
+
+
+ 
+
+This research focuses on simulation of transverse emittance of electron beams, which are produced from a thermionic RF-gun at the Plasma and Beam Physics (PBP) Research Facility, Chiang Mai University (CMU). The RF-gun is used to together with an alpha magnet for serving as the electron injector system for the PBP linac-based THz source. The quadrupole scan technique is utilized to measure the transverse beam emittance at the entrance of the alpha magnet. The experimental setup consists of quadrupole magnets with a maximum gradient of 7.01 T/m, a drift tube, and a movable fluorescent screen station. Beam dynamic simulations by using the computer codes PARMELA and ELEGANTare performed to track electrons from the cathode to the experimental station. In this contribution, the emittance values from simulations including the space charge effects will be reported.
+This work has been supported by the CMU Junior Research Fellowship Program, Department of Physics and Material Science, Faculty of science, Chiang Mai University.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY018
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY019
+Beam Optimization Study for an X-ray FEL Oscillator at the LCLS-II
+3020
+
+
+ 
+
+W. Qin, S. Huang, K.X. Liu
+                       PKU, Beijing, People's Republic of China
+K.L.F. Bane, Y. Ding, Z. Huang, T.J. Maxwell
+                       SLAC, Menlo Park, California, USA
+K.-J. Kimpresenter, R.R. Lindberg
+                       ANL, Argonne, Ilinois, USA
+
+ 
+
+
+ 
+
+The 4 GeV LCLS-II superconducting linac with high repetition beam rate enables the possibility to drive an X-Ray FEL oscillator at harmonic frequencies *. Compared to the regular LCLS-II machine setup, the oscillator mode requires a much longer bunch length with a relatively lower current. Also a flat longitudinal phase space distribution is critical to maintain the FEL gain since the X-ray cavity has extremely narrow bandwidth. In this paper, we study the longitudinal phase space optimization including shaping the initial beam from the injector and optimizing the bunch compressor and dechirper parameters. We obtain a bunch with a flat energy chirp over 400 fs in the core part with current above 100 A. The optimization was based on LiTrack and Elegant simulations using LCLS-II beam parameters.
+* T. J. Maxwell et al., Feasibility study for an X-ray FEL oscillator at the LCLS-II, IPAC15, TUPMA028.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY021
+Nonlinear Phase Distortion in a Ti:Sapphire Optical Amplifier for Optical Stochastic Cooling
+3024
+
+
+ 
+
+M.B. Andorf, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+V.A. Lebedev, P. Piot, J. Ruan
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the US DOE under contract DE-SC0013761 with Northern Illinois University. Fermilab is operated by the Fermi Research Alliance LLC under US DOE contract DE-AC02-07CH11359.
+Optical Stochastic Cooling (OSC) has been considered for future high-luminosity colliders as it offers much faster cooling time in comparison to the micro-wave stochastic cooling. The OSC technique relies on collecting and amplifying a broadband optical signal from a pickup undulator and feeding the amplified signal back to the beam. It creates a corrective kick in a kicker undulator. Owing to its superb gain qualities and broadband amplification features, Titanium:Sapphire medium has been considered as a gain medium for the optical amplifier (OA) needed in the OSC*. A limiting factor for any OA used in OSC is the possibility of nonlinear phase distortions. In this paper we experimentally measure phase distortions by inserting a single-pass OA into one leg of a Mach-Zehnder interferometer. The measurement results are used to estimate the reduction of the corrective kick a particle would receive due to these phase distortions in the kicker undulator.
+* A. Zholents, and M. Zolotorev. Proc. PAC'97, 1805 (1998).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY021
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY022
+Light Optics for Optical Stochastic Cooling
+3028
+
+
+SUPSS058
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M.B. Andorf, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+V.A. Lebedev, P. Piot, J. Ruan
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the US DOE under contract DE-SC0013761 with Northern Illinois University. Fermilab is operated by the Fermi Research Alliance LLC under US DOE contract DE-AC02-07CH11359.
+In Optical Stochastic Cooling (OSC) radiation generated by a particle in a "pickup" undulator is amplified and transported to a downstream "kicker" undulator where it interacts with the same particle which radiated it. Fermilab plans to carry out both passive (no optical amplifier) and active (optical amplifier) tests of OSC at the Integrable Optics Test Accelerator (IOTA) currently in construction*. The performace of the optical system is analyzed with simulations in Synchrotron Radiation Workshop (SRW) accounting for the specific temporal and spectral properties of undulator radiation and being augmented to include dispersion of lens material.
+* V. Lebedev, et al., Proc. COOL'15 (in press, 2015). 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY022
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY023
+Beam Dynamics Studies for Coherent Electron Cooling Experiment
+3032
+
+
+ 
+
+Y.H. Wu, D. Kayran, V. Litvinenkopresenter, I. Pinayev
+                       BNL, Upton, Long Island, New York, USA
+V. Litvinenkopresenter
+                       Stony Brook University, Stony Brook, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Coherent electron Cooling (CeC)* is a proposed advanced beam cooling method that has the potential to reduce the ion beam emittance in significantly shorter time compared to existing cooling methods. The newly constructed linear electron accelerator for the CeC experiment can generate electron beams with the required beam parameters for effective cooling. In this paper, we show simulation studies for the CEC linac by using the PARMELA** and ELEGANT*** beam dynamics tracking codes.
+* V.N.Litvinenko and Y.S.Derbenev, PRL 102, 114801 (2009)  ** Lloyd M.Young, Parmela manual, Los Alamos National Laboratory *** M. Borland, Elegant, Argonne National Laboratory (2000)
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY024
+Beam Dynamics Simulations of the Thomx Linac
+3036
+
+
+ 
+
+L. Garolfi, C. Bruni, M. El Khaldi, P. Lepercq, C. Vallerandpresenter
+                       LAL, Orsay, France
+N. Faure
+                       PMB-ALCEN, PEYNIER, France
+
+ 
+
+
+ 
+
+ThomX Compton light source is designed to maximise the average X-ray flux providing a compact and tunable machine which can operate in hospitals or in museums. These constraints impose the choice of a high collision rate which is based on S-band Linac whose energy is 50-70 MeV combined to an electron storage ring. As most of the performances of the electron beam at the interaction point depend on the beam quality at the ring entrance, the linear accelerator must be carefully designed and especially the photo-injector. Simulations have been carried out in order to optimise the emittance for the ring entrance. Indeed, for a bunch charge of 1 nC, space charge effects usually dominate the total beam emittance. The latter can be minimized at the end of the Linac by means of emittance compensation. The best configuration across all the parameters will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY025
+High Power RF Generation From a W-Band Corrugated Structure Excited by a Train of Electron Bunches
+3040
+
+
+SUPSS062
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D. Wang, C.-X. Tang
+                       TUB, Beijing, People's Republic of China
+S.P. Antipov, C.-J. Jing, J.Q. Qiu
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+M.E. Conde, D.S. Doran, W. Gai, G. Ha, G. Ha, W. Liu, J.G. Power, E.E. Wisniewski
+                       ANL, Argonne, Illinois, USA
+V.A. Dolgashev
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+We report on the generation of multi-megawatt peak RF power at 91textGHz, using an ultrarelativistic electron bunch train to excite electromagnetic fields in a high-impedance metallic corrugated structure. This device can be used as a power source for high gradient acceleration of electrons. To achieve precise control of the wakefield phase, a long range wakefield interferometry method was developed in which the RF energy due to the interference of the wakefields from two bunches was measured as a function of the bunch separation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY026
+Simulation and Measurement of the Beam Breakup Instability in a W-band Corrugated Structure
+3044
+
+
+ 
+
+D. Wang, C.-X. Tang
+                       TUB, Beijing, People's Republic of China
+S.P. Antipov, C.-J. Jing, J.Q. Qiu
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+M.E. Conde, D.S. Doran, W. Gai, G. Ha, W. Liu, J.G. Power, E.E. Wisniewski
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+The corrugated wakefield structure has wide application in electron beam energy manipulation and high frequency RF radiation generation. The transverse wakefield which cause beam breakup (BBU) instability is excited when the drive beam is not perfectly centered through the structure. Here we report on the numerical and experimental investigation of the BBU effect in a W-band corrugated structure, for both cases of short range wakefield and long range wakefield. In the numerical part we develop a point to point (P2P) code that allows rapid and efficiency simulations of the beam dynamics effect by wakefield, which is based on the the particle-wake function coupled dynamics equation of motion. And the experimental measurements of BBU effect are found to be in good agreement with the simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY026
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY028
+Laser Heater System Test at PAL-XFEL ITF
+3048
+
+
+ 
+
+J. H. Lee
+                       POSTECH, Pohang, Kyungbuk, Republic of Korea
+J.H. Han, J.H. Hong, C.H. Kim, I.S. Ko, S.J. Lee
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Coherent x-ray photons are generated by a free electron laser (FEL). In PAL-XFEL, a photon beam with a 0.1 nm wavelength is generated from an electron bunch based on self-amplified spontaneous emission (SASE). An electron bunch with an uncorrelated energy spread in a level of 3 keV, which is generated from the photocathode RF gun, may be sensitive to longitudinal micro-bunching instability. The energy spread of an electron bunch can be increased to suppress the instability by Landau damping. In order to control the uncorrelated energy spread, a laser heater system, which has a chicane with four dipoles chicane and a 0.5 m long undulator, was installed in the injector test facility (ITF) of PAL. In this paper, we introduce the parameters of the laser heater and heating effect on the electron bunch.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY028
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY030
+First BTF Measurements at the Large Hadron Collider
+3051
+
+
+SUPSS061
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C. Tambasco, A. Boccardi, X. Buffat, K. Fuchsberger, M. Gąsior, R. Giachino, T. Lefèvre, T.E. Levens, T. Pieloni, M. Pojer, B. Salvachua, M. Solfaroli Camillocci
+                       CERN, Geneva, Switzerland
+J. Barranco, C. Tambasco
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+During the Run I in 2012, several instabilities have been observed at the Large Hadron Collider (LHC) during the Betatron squeeze. The predictions of instability thresholds are based on the computation of the beam Landau damping by calculating the Stability Diagrams (SD). These instabilities could be explained by a deterioration of the SD due to beam-beam resonance excitation which could change the particle distributions. Beam Transfer Functions (BTF) provide a measurement of the Stability Diagram. The BTFs are sensitive to the particle detuning with amplitude as well as to the particle distributions therefore they represent a powerful tool to understand experimentally the stability of beams during the LHC operational cycle. First BTF measurements at the LHC are presented for different machine configurations and settings and compared to predictions.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY033
+Space Charge Compensation in Low Energy Beam Lines
+3055
+
+
+SUPSS065
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+F. Gérardin, N. Chauvin, D. Uriot
+                       CEA/IRFU, Gif-sur-Yvette, France
+M.A. Baylac, D. Bondoux, F. Bouly
+                       LPSC, Grenoble Cedex, France
+A. Chancé, O. Napoly, N. Pichoff
+                       CEA/DSM/IRFU, France
+
+ 
+
+
+ 
+
+The dynamics of a high intensity beam with low energy is governed by its space-charge forces which may be responsible of emittance growth and halo formation due to their non-linearity. In a low energy beam transport (LEBT) line of a linear accelerator, the propagation of a charged beam with low energy causes the production of secondary particles created by the interaction between the beam and the background gas present in the accelerator tube. This phenomenon called space-charge compensation is difficult to characterize analitically. In order to obtain some quantitative to characterize the space-charge compensation (or neutralization), numerical simulations using a 3D PIC code have been implemented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY034
+Latest Improvements of OPAL
+3058
+
+
+ 
+
+C.J. Metzger-Kraus, M. Abo-Bakr, B.C. Kuskepresenter
+                       HZB, Berlin, Germany
+A. Adelmann
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+OPAL (Object Oriented Parallel Accelerator Library) is an open source, C++ based tool for charged particle tracking in large accelerator structures and beam lines including 3D space charge, particle matter interaction and FFAG capabilities. The careful parallel design makes it possible to tackle large and complex problems, in a reasonable time frame. The current code status and latest program improvements and upgrades are introduced. One of the provided flavors, OPAL-T, was, so-far, used for relatively simple lattices and was not well suited for more complicated arrangements of elements. One of the major upgrades is the possibility to place elements in 3D space, giving the user a better control in absolute element positioning. The old input format with relative positioning is still supported. We show results of the BERLinPro lattice and compare it with results obtained with elegant.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY034
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY035
+Free Electron Laser Simulation Tool Based on FDTD/PIC in the Lorentz Boosted Frame
+3061
+
+
+ 
+
+A. Yahaghi, A. Fallahi, F.X. Kärtner
+                       CFEL, Hamburg, Germany
+F.X. Kärtner
+                       MIT, Cambridge, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: Alexander von Humboldt-Foundation European Research Council(ERC)
+Free Electron Lasers (FELs) are promising sources capable of generating electromagnetic waves in the whole spectrum. Therefore, it is crucial and additionally very useful to develop sophisticated though complete simulation tools. This goal is mainly motivated by our research focus on the development of compact X-ray sources based on radiation in optical undulators. The currently existing softwares are usually written to tackle special cases with particular approximations, such as 1D FEL theory, steady state, slow wave and forward wave approximation, wiggler-averaged electron motion and slices approximation. Many of the above approximations are hardly valid when sub-femtosecond bunches interact with intense optical lasers. The presented software aims the analysis of the FEL interaction without considering any of the above approximations. The developed tool apparently suffers from long computation times but offers a more accurate picture on the radiation process. In order to overcome the problem of multidimensionality, we exploit Lorentz boosted coordinate system and implement Finite Difference Time Domain (FDTD) method combined with Particle in Cell (PIC) simulation in this frame.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY035
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY036
+Progress in Automatic Software-based Optimization of Accelerator Performance
+3064
+
+
+ 
+
+S.I. Tomin, G. Geloni
+                       XFEL. EU, Hamburg, Germany
+I.V. Agapov, I. Zagorodnov
+                       DESY, Hamburg, Germany
+W.S. Colocho, T.M. Cope, A.B. Egger, D.F. Ratner
+                       SLAC, Menlo Park, California, USA
+Y.A. Fomin, Y.V. Krylov, A.G. Valentinov
+                       NRC, Moscow, Russia
+
+ 
+
+
+ 
+
+Funding: partial support from Ioffe Roentgen Institute grant EDYN EMRAD
+For modern linac- and storage-ring-based light sources certain amount of empirical tuning is used to reach ultimate performance. The possibility to perform such empirical tuning by automatic methods has now been demonstrated by several authors (e.g. I.Agapov et al. in proc IPAC 2015). In this paper we present the progress in development of our automatic optimisation software based on OCELOT and its applications to SASE FEL optimization at FLASH and LCLS, and its potential for storage ring optimization.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY036
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY037
+Optimization of THz Radiation Pulses at FLUTE
+3067
+
+
+ 
+
+M. Yan, A.-S. Müller, M.J. Nassepresenter, M. Schuh, M. Schwarz
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+The accelerator test facility FLUTE (Ferninfrarot Linac Und Test Experiment) will allow research and development in electron accelerator technology as well as photon science. Electron bunches of durations in the femtosecond range will be provided to generate intense THz radiation. Start-to-end simulation of the accelerator has been performed with the bunch length as the optimization objective. Based on the resulting charge distribution the expected THz field properties can be calculated. In this paper we combine the two tools and present first results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY037
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY038
+Design of a Collection and Selection System for High Energy Laser-Driven Ion Beams
+3070
+
+
+ 
+
+F. Schillaci, G.A.P. Cirronepresenter, G. Cuttone, D. Rifuggiato
+                       INFN/LNS, Catania, Italy
+M. Maggiore
+                       INFN/LNL, Legnaro (PD), Italy
+
+ 
+
+
+ 
+
+Laser-based accelerators are gaining interest in recent years as an alternative to conventional machines. Nowadays, energy and angular spread of the laser-driven beams are the main issues in application and different solutions for dedicated beam-transport lines have been proposed. In this context a system of permanent magnet quadrupoles has been realized, by INFN researchers in collaboration with SIGMAPHI company, to be used as a collection system for laser-driven protons up to 20 MeV. The definition of well specified characteristics, in terms of performances and field quality, of the magnetic lenses is crucial for the system realization and an accurate study of the beam dynamics. Hence, a method for studying the errors on the PMQ harmonic contents has been developed. It consists of different series of simulations in which magnetic and mechanical errors are introduced in the array and the harmonic content is analyzed to fix the tolerances necessary to have a good beam quality downstream the system. The method developed for the analysis of the PMQs errors and its validation is here described. The technique is general and can be easily extended to any magnetic lens.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY038
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY039
+GIOTTO: A Genetic Code for Demanding Beam-dynamics Optimizations
+3073
+
+
+ 
+
+A. Bacci
+                       Istituto Nazionale di Fisica Nucleare, Milano, Italy
+V. Petrillo
+                       Universita' degli Studi di Milano, Milano, Italy
+M. Rossetti Contipresenter
+                       Universita' degli Studi di Milano & INFN, Milano, Italy
+
+ 
+
+
+ 
+
+GIOTTO is a software based on a Genetic Algorithm (GA). Its development started in 2007 with a work published on NIMB (263, 2007, 488-496) and presented at PAC07 (THPAN031). When the parameters, defining an acceleration machine beam line, are strongly correlated in nonlinear way, the GAs are a powerful tool to coup with these difficulties. These conditions are typically generated by space-charge, as in the high brightness e-beam photo-injectors or when the Velocity Bunching compression technique (VB) is used. The power of GIOTTO is the adaptability to different cases, given by its own structure that permits to drive different external codes in series, the possibility to define a user dependent multi objective fitness function and function constraints on the beam dynamics, as well as the possibility to turn off the genetic optimization to perform statistical analysis (machine jitters). Up today it has been used in Thomson/Compton sources, ultra-short e-bunches generation by VB, focusing channel and dog-leg lines optimizations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY039
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY040
+Lattice Translation Between Accelerator Simulation Codes for Superkekb
+3077
+
+
+ 
+
+D. Zhou, H. Koiso, A. Morita, Y. Ohnishi, K. Oide, H. Sugimoto
+                       KEK, Ibaraki, Japan
+M.E. Biagini
+                       INFN/LNF, Frascati (Roma), Italy
+N. Carmignani, S.M. Liuzzo
+                       ESRF, Grenoble, France
+D. Sagan
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+To improve collaborative studies on beam dynamics for SuperKEKB between several labs, efforts have been made to translate the SAD lattices of SuperKEKB rings to the versions for other codes: AT, Bmad, MAD-X, and PTC. It turns out that lattice translations between these codes are not straightforward because of the complexity of the SuperKEKB lattices. In this paper, we describe our experiences of lattice translations, and present some results of benchmarks for the case of SuperKEKB.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY040
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY041
+Fast Tracking of Nonlinear Dynamics in the ESS Linac Simulator via Particle-Count Invariance
+3080
+
+
+SUPSS063
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+B.T. Folsom, E. Laface
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+Real-time beam modeling has been used in accelerator diagnostics for several decades. Along the way, the theory for matrix calculations of linear forces has matured, allowing for fast calculations of a beam's momentum and position distributions. This formalism becomes complicated and ultimately breaks down with high-order beam elements like sextupoles. Such elements can be accurately modeled with a Lie-algebra approach, but these techniques are generally implemented in slower, offline multiparticle tracking software. Here, we demonstrate an adaptation of the conventional Lie techniques for rapid first-order tracking of position, which is accomplished by treating a bunch's particle count as an invariant.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY041
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY042
+Open XAL Status Report 2016
+3083
+
+
+ 
+
+T.A. Pelaia II, C.K. Allen, A.P. Shishlo, A.P. Zhukov
+                       ORNL, Oak Ridge, Tennessee, USA
+D.A. Brown
+                       NMSU, Las Cruces, New Mexico, USA
+Y.-C. Chao
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+C.P. Chu, Y. Zhang
+                       FRIB, East Lansing, Michigan, USA
+P. Gillette, P. Laurent, E. Lécorché, G. Normand
+                       GANIL, Caen, France
+E. Laface, Y.I. Levinsenpresenter, M. Muñoz
+                       ESS, Lund, Sweden
+Y. Li
+                       IHEP, Beijing, People's Republic of China
+I. List, M. Pavleski
+                       Cosylab, Ljubljana, Slovenia
+X.H. Lu
+                       CSNS, Guangdong Province, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by UT-Battelle, LLC, under Contract No. DE-AC0500OR22725 with the U.S. Department of Energy.
+Formed in 2010, the Open XAL accelerator physics software platform was developed through an international collaboration among several facilities to establish it as a standard for accelerator physics software. While active development continues, the project has now matured. This paper presents the current status of the project, a roadmap for continued development and an overview of the project status at each participating facility.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY042
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY043
+Plans for the European Spallation Source Beam Physics Control Software
+3086
+
+
+ 
+
+Y.I. Levinsen, R. De Prisco, M. Eshraqi, E. Laface, R. Miyamoto, M. Muñoz
+                       ESS, Lund, Sweden
+I. List
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+The commissioning and operations planning for the European Spallation Source is currently being defined. It is foreseen that the ESS will begin to deliver beam on target by mid 2019, something which is urging a well structured and thought through plan both for commissioning and operations. In this paper we will discuss the plans for beam physics operational software, priorities and software services needed during the different stages of beam commissioning.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY043
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY044
+Review of CPU and GPU Faddeeva Implementations
+3090
+
+
+ 
+
+A. Oeftiger, R. De Maria, L. Deniau, K.S.B. Lipresenter, E. McIntosh, L. Moneta
+                       CERN, Geneva, Switzerland
+A. Aviral
+                       BITS Pilani, Pilani, India
+S. Hegglin
+                       ETH, Zurich, Switzerland
+A. Oeftiger
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+Funding: CERN, Doctoral Studentship EPFL, Doctorate
+The Faddeeva error function is frequently used when computing electric fields generated by two-dimensional Gaussian charge distributions. Numeric evaluation of the Faddeeva function is particularly challenging since there is no single expansion that converges rapidly over the whole complex domain. Various algorithms exist, even in the recent literature there have been new proposals. The many different implementations in computer codes offer different trade-offs between speed and accuracy. We present an extensive benchmark of selected algorithms and implementations for accuracy, speed and memory footprint, both for CPU and GPU architectures.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY044
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY045
+Benchmarking the Beam Longitudinal Dynamics Code BLonD
+3094
+
+
+ 
+
+H. Timko, J.F. Esteban Müller, A. Lasheen, D. Quartullo
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The relatively recent Beam Longitudinal Dynamics code BLonD has already been applied to a wide range of studies for all present CERN synchrotrons. Its application area ranges from studies of RF manipulations, over single and multi-bunch interactions with impedance, to the action of feedback loops and RF noise. In this paper, we present benchmarks and comparisons with measurements, theory, or other codes, which have increased greatly the trust in the code. Tests related to bunch-to-bucket transfer, feedback loops, diffusion due to noise injection, as well as collective effects, are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY045
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY046
+Beam Delivery Simulation: BDSIM - Automatic Geant4 Models of Accelerators
+3098
+
+
+ 
+
+L.J. Nevay, S.T. Boogert, L.C. Deacon, S.M. Gibson, R. Kwee-Hinzmann, W. Shields, J. Snuverink
+                       JAI, Egham, Surrey, United Kingdom
+H. Garcia
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Beam Delivery Simulation (BDSIM) is a program that uses a suite of high energy physics software including Geant4, CLHEP & ROOT, that seamlessly tracks particles through accelerators and detectors utilising the full range of particles and physics processes from Geant4. BDSIM has been used to simulate linear colliders such as the International Linear Collider (ILC) and more recently, circular colliders such as the Large Hadron Collider (LHC). The latest developments including improved geometry modelling; external geometry support; process biasing; and a new event display are presented. A significantly revised and improved accompanying tool chain is presented comprising of a series of Python utilities that allow efficient and automatic preparation of models. Furthermore, a library for both ROOT and Python that provides powerful analysis and event viewing after simulation is demonstrated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY046
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY047
+LHC Collimation and Energy Deposition Studies Using Beam Delivery Simulation (BDSIM)
+3101
+
+
+ 
+
+L.J. Nevay, S.T. Boogert, S.M. Gibson, R. Kwee-Hinzmann
+                       JAI, Egham, Surrey, United Kingdom
+R. Bruce, H. Garcia, S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Beam Delivery Simulation (BDSIM) is a program that uses a suite of high energy physics software including Geant4, CLHEP & ROOT, that seamlessly tracks particles through accelerators and detectors utilising the full range of particles and physics processes from Geant4. A comparison of the collimator cleaning efficiency and energy deposition throughout the full length of the Large Hadron Collider (LHC) with the established SixTrack simulations of the CERN collimation group is presented. The propagation of the full hadronic showers from collimators provides unparalleled detail in energy deposition maps and these are compared with the data from beam loss monitors that measure radiation outside the magnet body.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY047
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY048
+Overview of the Design of the IBEX Linear Paul Trap
+3104
+
+
+ 
+
+S.L. Sheehy
+                       JAI, Oxford, United Kingdom
+D.J. Kelliher, S. Machida, D.C. Plostinar, C.R. Prior
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+We report on the status and design of the Intense Beam Experiment (IBEX) at RAL. This experiment consists of a linear Paul trap apparatus similar to the S-POD system at University of Hiroshima, confining non-neutral Argon plasma in an RF quadrupole field. The physical equivalence between this device and a beam in a linear focusing channel makes it a useful tool for accelerator physics studies including resonances and high intensity effects. We give an overview of the design and construction of IBEX and outline plans for commissioning and the future experimental programme.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY048
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY050
+A Differential Algebraic Framework for the Fast Indirect Boundary Element Method
+3107
+
+
+SUPSS064
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A.J. Gee, B. Erdelyi
+                       Northern Illinois University, DeKalb, Illinois, USA
+B. Erdelyi
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Beam physics at the intensity frontier must account for the beams' realistic surroundings on their dynamics in an accurate and efficient manner. Mathematically, the problem can be expressed as a Poisson PDE with given boundary conditions. Commonly, the Poisson boundary value problem is solved locally within many volume elements. However, it is known the PDE may be re-expressed as indirect bound- ary integral equations (BIE) which give a global solution*. By solving the BIEs on M surface elements, we arrive at the indirect boundary element method (iBEM). Iteratively solving this dense linear system of form Ax = b scales like (miterations M2 ). Accelerating with the fast multipole method (FMM) can reduce this to O(M) if miterations << M. For N evaluation points, the total complexity would be O(M) + O(N) or O(N) with N = M. We have implemented a constant element version of this fast iBEM based on our previous work with the FMM in the differential algebraic (DA) framework**. This implementation is to illustrate the flexibility and accuracy of our method. A future version will focus on allowing for higher order elements.
+* Sauter, S. and C. Schwab. Boundary Element Methods (2011) ** Abeyratne, S., S. Manikonda, and B. Erdelyi. "A novel differential algebraic adaptive fast multipole method." IPAC 2013: 1055-1057.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY050
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY051
+Performance Optimization of Multi-particle Beam Dynamics Code IMPACT-Z on NVidia GPGPU
+3110
+
+
+ 
+
+Z.Q. He, G. Shen, Y. Yamazakipresenter
+                       FRIB, East Lansing, Michigan, USA
+X. Wang
+                       ICER, MSU, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: The work is supported by the U.S. National Science Foundation , the U.S. Department of Energy Office of Science, the Institute for Cyber-Enabled Research, MSU.
+Facility for Rare Isotope Beams is designed using a multiparticle tracking code IMPACT-Z. IMPACT-Z is originally for the purpose of accelerator design, so it is precise, however, quite time consuming, therefore usually not suitable for on-line beam tuning applications. IMPACT-Z is originally boosted using Message Passing Interface (MPI) technology. For single node mode, performance of IMPACT-Z is usually bounded by CPU performance, and for multimode mode, communication between MPI processes would become bottleneck. However, new emerging High Performance Computing (HPC) technology, like general-purpose graphics processing unit (GPGPU), brings new possibility in accelerating IMPACT-Z, so that the speed of IMPACT-Z satisfies for on-line beam tuning applications. This paper presents the efforts in exploring the capability of Nvidia GPGPU and the results of speed up of IMPACT-Z.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY051
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY053
+Comparison of Tracking Codes for the Determination of Dynamic Aperture in Storage Rings
+3114
+
+
+ 
+
+R. Hipple, M. Berzpresenter
+                       MSU, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy under grant number DE-FG02-08ER41546
+Currently there is a great deal of activity towards making precision measurements utilizing storage rings, for example the Muon g-2 experiment at Fermilab, and the Electric Dipole Moment (EDM) program of the JEDI Collaboration. These experiments are intended to perform measurements requiring sub-ppm precision. Of utmost importance in this regard is the ability of tracking codes to treat all nonlinear effects arising from the detailed field distributions present in the system, not the least of which are fringe fields. In previously published work,*,**, we performed parallel tests of various tracking codes in order to compare and contrast the results. In this study, we continue this line of research and extend the scope to parallel-faced dipoles and electrostatic dipoles.
+* R.Hipple, M. Berz, Microscopy and Microanalysis 21 Suppl. 4 (2015)  ** R. Hipple, M.Berz, MODBC3, ICAP 2015, in press. 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY053
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY054
+A Matlab Interface Package for Elegant Simulation Code
+3117
+
+
+ 
+
+V.V. Smaluk, T.V. Shaftanpresenter, G.M. Wang
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by DOE contract DE-AC02-98CH10886
+A Matlab interface package for Elegant simulation code is under development. This package combines advantages of Elegant, which is one of the most advanced codes for accelerator simulations, with advantages of useful and effective Matlab functions for data processing, analysis, optimization, and real-time machine control using Maltab Middle Layer. A number of functions have been already developed: calculation of lattice parameters and Twiss functions, linear and high-order chromaticity, amplitude-dependent tune shifts, modification of lattice elements, correction of betatron tunes and chromaticity, a set of functions for graphic representation. These functions have been successfully used at NSLS-II for tracking and turn-by-turn simulations near the half-integer resonance, for maximizing tunability and dynamic aperture of NSLS-II Booster, and for calculating limits of top-up Booster energy interlock.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY054
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY055
+NSLS-II Accelerator Commissioning and Transition to Operations
+3120
+
+
+ 
+
+T.V. Shaftan
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Over past year NSLS-II has completed accelerator commissioning and enabled operations of first project beam lines. Recently we further optimized the NSLS-II accelerators, increased the beam current to 400 mA without- and to 250 mA with Insertion Devices (IDs), commissioned top-off mode of operations and stabilized beam orbit to below 10% of the beam size in the source points. In this paper we report progress on the NSLS-II accelerator commissioning and operations and plans for future facility developments.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY055
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY056
+Beam-beam Simulations with Realistic Crab Crossing for the eRhic Ring-Ring  Electron Beam
+3123
+
+
+ 
+
+C. Montag
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The 15mrad beam crossing angle in the eRHIC ring-ring interaction region requires crab crossing of the 250GeV proton beam to restore the luminosity. Since the product of the RF voltage and the RF frequency of the crab cavities is constant for a given crossing angle, higher frequencies are preferred in order to limit the require voltage. However, the 20cm RMS proton bunch length provides an upper limit of the useable frequencies due to the significant curvature of the RF waveform over this bunch length. To study the effectof realistic crab cavities with a finite wavelength on electron beam-beamdynamics and to determine the potential need for higher harmonic crab cavities to linearize the kick a simulation code has been developed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY056
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY057
+The 2015 eRHIC Ring-Ring Design
+3126
+
+
+ 
+
+C. Montag, E.C. Aschenauer, J. Beebe-Wang, J.S. Berg, M. Blaskiewicz, J.M. Brennan, A.V. Fedotov, W. Fischer, V. Litvinenko, R.B. Palmer, B. Parker, S. Peggs, V. Ptitsyn, V.H. Ranjbar, S. Tepikian, D. Trbojevic, F.J. Willeke
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+To reduce the technical risk of the future electron-ion collider eRHIC currently under study at BNL, the ring-ring scheme has been revisited over the summer of 2015. The goal of this study was a design that covers the full center-of-mass energy range from 32 to 141 GeV with an initial luminosity around 1033 cm-2 sec-1, upgradeable to 1034 cm-2 sec-1 later on. In this presentation the baseline design will be presented, and future upgrades will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY057
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY058
+Design of the 2015 Erhic Ring-Ring Interaction Region
+3129
+
+
+ 
+
+C. Montag, B. Parker
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The 2015 ring-ring design study of the electron-ion collider eRHIC aims at an e-p luminosity around 1033 cm-2 sec-1 over a center-of-mass energy range from 32 to 141 GeV, while at the same time providing the required detector geometry and acceptance for the proposed physics program. The latest interaction region design will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY058
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY059
+Axisymmetric Numerical Studies of Higher Order Mode Damping Techniques using Ring Ferrites for BESSY VSR
+3132
+
+
+ 
+
+B. Riemann, B.D. Isbarnpresenter, M. Sommer, T. Weis
+                       DELTA, Dortmund, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by the BMBF under contract no. 05K13PEB.
+Utilizing superconducting multicell rf cavities with fundamental frequencies of 1.5 GHz and 1.75 GHz and therefore modulating the rf gradient, the upcoming BESSY II upgrade BESSY VSR aims to provide both short and long electron bunches simultaneously. However, beam induced excitation of higher order modes (HOM) inside those superconducting cavities is a major concern for beam stability in a recirculating accelerator. Thus it is important to develop and apply proper HOM damping techniques. Current design considerations involve HOM coupler which usually introduce discontinuities in the cross section while also breaking the axisymmetry. To circumvent these issues we investigate in a layout with ring ferrites as an alternative or additional HOM damping technique. We also present an alternative superstructure setup that uses two instead of four cavities for VSR.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY059
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOY060
+YACS - Progression Towards Isoparametric 2.5D Finite Elements
+3135
+
+
+ 
+
+B.D. Isbarn, B. Riemann, M. Sommer, T. Weis
+                       DELTA, Dortmund, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by the BMBF under contract no. 05K13PEB.
+YACS is a 2.5D finite element method solver capable of solving for the full 3D eigenfrequency spectra of resonant axisymmetric structures while reducing the computational problem to a 2D rotation plane. Prior studies and benchmarks, comparing YACS to well known commercial 3D and 2D applications, already demonstrated its capabilities of performing fast optimizations of geometries, due to its minimal computational overhead. However, because of the first order elements and basis functions used for approximation of the domain and field, this solving speed advantage vastly diminishes when targeting higher accuracies. In order to circumvent these issues, YACS was upgraded to support arbitrary order basis functions and curved meshes, leading to, but not limited to, isoparametric finite elements. This led to distinct performance and convergence improvements, especially when considering curved geometries, ideally representable by a polynomial mapping, e.g. when choosing a cavity geometry parametrization based on splines.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-WEPOY060
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

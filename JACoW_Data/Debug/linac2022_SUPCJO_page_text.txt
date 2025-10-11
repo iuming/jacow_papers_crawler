@@ -1,0 +1,632 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINAC2022 - Table of Session: SUPCJO (Student Poster Competition)
+
+
+SUPCJO —  Student Poster Competition   (28-Aug-22   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+SUPCJO01
+Design Considerations for a Proton Linac for a Compact Accelerator Based Neutron Source
+ 
+
+
+FR1AA05
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Abbaslou
+                       UVIC, Victoria, Canada
+A. Gottberg, O.K. Kester, R.E. Laxdal, M. Marchetto
+                       TRIUMF, Vancouver, Canada
+D.D. Maharaj, D. Marquardt
+                       University of Windsor, Windsor, Ontario, Canada
+S. Tabbassum
+                       Purdue University, West Lafayette, Indiana, USA
+
+ 
+
+
+ 
+
+New neutron sources are needed both for Canada and internationally as access to reactor based neutrons shrinks. Compact Accelerator-based Neutron Sources (CANS) offer the possibility of an intense source of pulsed neutrons with a capital cost significantly lower than spallation sources. In an effort to close the neutron gap in Canada a prototype, Canadian compact accelerator-based neutron source (PC-CANS) is proposed for installation at the University of Windsor. The PC-CANS is envisaged to serve two neutron science instruments, a boron neutron capture therapy (BNCT) station and a beamline for fluorine-18 radioisotope production for positron emission tomography (PET). To serve these diverse applications of neutron beams, a linear accelerator solution is selected, that will provide 10 MeV protons with a peak current of 10 mA within a 5% duty cycle. The accelerator is based on an RFQ and DTL with a post-DTL pulsed kicker system to simultaneously deliver macro-pulses to each end-station. Several choices of Linac technology are being considered and a comparison of the choices will be presented.
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+
+
+
+Slides FR1AA05 [1.945 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-FR1AA05
+
+ 
+
+
+About •
+Received ※ 27 August 2022 — Revised ※ 29 August 2022 — Accepted ※ 31 August 2022 — Issue date ※ 03 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCJO02
+Design and Optimization of a 100 kV DC Thermionic Electron Gun and Transport Channel for a 1.3 GHz High Intensity Compact Superconducting Electron Accelerator (HICSEA)
+ 
+
+
+MOOPA03
+  use link to access more material from this paper's primary paper code
+ 
+
+
+MOPOJO17
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+P. Nama, A. Pathak, R. Varma
+                       IIT Mumbai, Mumbai, India
+
+ 
+
+
+ 
+
+Here we present, the design and optimization of a 100 kV DC thermionic electron gun, and a transport channel that provides transverse focusing through a normal conducting solenoid and longitudinal bunching with the help of a single gap buncher for a 1.3 GHz, 40 kW, 1 MeV superconducting electron accelerator. The accelerator is proposed to treat various contaminants present in potable water resources. A 100 kV thermionic electron gun with LaB6 as its cathode material was intended to extract a maximum beam current of 500 mA. To minimize beam emittance, gun geometry i.e. cathode radius, and height and radius of the focusing electrode are optimized. The minimal obtained emittance at the gun exit is 0.3 mm.mrad. A normal conducting focusing solenoid with an iron encasing is designed and optimized to match and transport the beam from gun exit to the superconducting cavity. Finally, a 1.3 GHz ELBE type buncher is designed and optimized to bunch the electron beam for further acceleration.
+
+ 
+
+
+
+
+
+
+Slides MOPOJO17 [1.268 MB]
+        
+ 
+
+
+
+
+
+
+Poster MOPOJO17 [0.813 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOJO17
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 24 August 2022 — Accepted ※ 27 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCJO03
+An Approach for Component-Level Analysis of Cryogenic Process in Superconducting LINAC Cryomodules
+ 
+
+
+TUPOGE04
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C. Lhomme
+                       IJCLab, ORSAY, France
+D. Berkowitz Zamora, M.D. Grosso Xavier
+                       SCK•CEN, Mol, Belgium
+F. Chatelet, P. Duthil, H. Saugnac
+                       Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France
+F. Dieudegard, C. Lhomme
+                       ACS, Orsay, France
+T. Junquera
+                       Accelerators and Cryogenic Systems, Orsay, France
+
+ 
+
+
+ 
+
+Powerful superconducting linear accelerators feature accelerating sections consisting in a series of cryomod-ules (CM), each hosting superconducting radiofrequency (SRF) cavities cooled by a cryogenic process. Despite the extensive instrumentation used for the tests and valida-tion of the prototype cryomodules, it is usually very complex to link the measured global thermodynamic efficiency to the individual component performance. Previous works showed methods for assessing the global efficiency and even for allocating performances to sets of components, but few went down to a component level. For that purpose, we developed a set of techniques based on customized instrumentation, on dedicated test proto-cols, and on model-based analysis tools. In practice, we exposed the components to various operating conditions and we compared the measured data to the results from a detailed dynamic component model at the same condi-tions. This method was applied to the cryogenic debug-ging phase of the tests of the MINERVA prototype cry-omodule, which, despite the liquid helium shortage, led to an extensively detailed characterisation, for its valida-tion towards the serial construction.
+
+ 
+
+
+
+
+
+
+Poster TUPOGE04 [1.234 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE04
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 21 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCJO04
+Compact, Turn-Key SRF Accelerators
+ 
+
+
+TU1AA02
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+N.A. Stilin, A.T. Holic, M. Liepe, T.I. O’Connell, J. Sears, V.D. Shemelin, J. Turco
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+The development of simpler, compact Superconducting RF (SRF) systems represents a new subject of research in accelerator science. These compact accelerators rely on advancements made to both Nb3Sn SRF cavities and commercial cryocoolers, which together allow for the removal of liquid cryogenics from the system. This approach to SRF cavity operation, based on novel conduction cooling schemes, has the potential to drastically extend the range of application of SRF technology. By offering robust, non-expert, turn-key operation, such systems enable the use of SRF accelerators for industrial, medical, and small-scale science applications. This presentation will provide an overview of the significant progress being made at Cornell, Jefferson Lab, and Fermilab (FNAL), including stable cavity operation at 10 MV/m. It will also introduce the primary challenges of this new field and their potential solutions, along with an overview of the various applications which could benefit the most from this technology.
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+
+
+
+Slides TU1AA02 [4.683 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TU1AA02
+
+ 
+
+
+About •
+Received ※ 29 August 2022 — Revised ※ 31 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 14 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCJO05
+First Studies of 5D Phase-Space Tomography of Electron Beams at ARES
+ 
+
+
+MOOPA09
+  use link to access more material from this paper's primary paper code
+ 
+
+
+MOPORI10
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Jaster-Merz, R.W. Aßmann, R. Brinkmann, F. Burkart, T. Vinatier
+                       DESY, Hamburg, Germany
+R.W. Aßmann
+                       LNF-INFN, Frascati, Italy
+
+ 
+
+
+ 
+
+A new beam diagnostics method to reconstruct the full 5-dimensional phase space (x, x’, y, y’, t) of bunches has recently been proposed. This method combines a quadrupole-based transverse phase-space tomography with the variable streaking angle of a polarizable X-band transverse deflecting structure (PolariX TDS). Two of these novel structures have recently been installed at the ARES beamline at DESY, which is a linear accelerator dedicated to accelerator research and development, including advanced diagnostics methods and novel accelerating techniques. In this paper, realistic simulation studies in preparation for planned experimental measurements are presented using the beamline setup at ARES. The reconstruction quality of the method for three beam distributions is studied and discussed, and it is shown how this method will allow the visualization of detailed features in the phase-space distribution.
+
+ 
+
+
+
+
+
+
+Slides MOPORI10 [0.808 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPORI10
+
+ 
+
+
+About •
+Received ※ 22 August 2022 — Revised ※ 27 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 09 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCJO06
+Microscopy Investigation on Different Materials After Pulsed High Field Conditioning and Low Energy H-Irradiation
+ 
+
+
+TUPOPA06
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.F. Da Palma Serafim, G. Bellodi, S. Calatroni, A. Grudiev, A.M. Lombardi, R.C. Peacock, A.T. Perez Fontenla, S. Ramberger, E. Sargsyan, S. Sgobba, W. Wuensch
+                       CERN, Meyrin, Switzerland
+F. Djurabekova
+                       HIP, University of Helsinki, Finland
+
+ 
+
+
+ 
+
+During operation the LINAC4 RFQ (Radio-Frequency-Quadrupole) is exposed to high electric fields which can lead to vacuum breakdown. It is also subject to beam loss that can cause surface modification, including blistering, which can result in reduced electric field handling and an increased breakdown rate. An experimental study has been made to identify materials with high electric field capability and robustness to low-energy irradiation. In this paper we briefly discuss the selection criteria and we analyze these materials investigating their metallurgical properties using advanced microscopic techniques such as Scanning Electron Microscope, Electron Back Scattered Diffraction, Energy-dispersive X-ray Spectroscopy and conventional optical microscopy. These allow to observe and characterize the different materials on aμand a nano-scale, allowing us to compare results before and after irradiation and breakdown testing.
+
+ 
+
+
+
+
+
+
+Poster TUPOPA06 [2.771 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOPA06
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 23 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCJO07
+Pulsed DC High Field Measurements of Irradiated and Non-Irradiated Electrodes of Different Materials
+ 
+
+
+TUPOPA13
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+R.C. Peacock, G. Burt
+                       Lancaster University, Lancaster, United Kingdom
+G. Bellodi, S. Calatroni, C.F. Da Palma Serafim, A. Grudiev, A.M. Lombardi, A.T. Perez Fontenla, S. Ramberger, E. Sargsyan, S. Sgobba, W. Wuensch
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Beam loss occurs in Radio Frequency Quadrupoles (RFQ), and has been observed in the H− linear accelerator Linac4 (L4) at CERN. To determine if beam loss can induce breakdowns, and to compare the robustness of different materials, tests have been done using pulsed high-voltage DC systems. Electrical breakdown phenomena and conditioning processes have been studied using these systems. Cathodes of different materials were irradiated with 1.2x1019 H− p/cm2, the estimated beam loss of the L4 RFQ over 10 days. The irradiated electrodes were installed in a system to observe if the irradiated area coincided with the breakdown locations, with pulsing parameters similar to the RFQ. Tests of irradiated and non-irradiated electrodes of the same material were done for comparison. The main difference observed was an increase in the number of breakdowns during the initial conditioning that returned to non-irradiated sample values with further running. Visual observations after irradiation show the beam centre and a halo the same diameter of the beam pipe. Breakdown clusters occur in the centre and halo regions, suggesting irradiation is not the only factor determining the breakdown probability.
+
+ 
+
+
+
+
+
+
+Poster TUPOPA13 [3.845 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOPA13
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 29 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 07 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCJO08
+Next-Generation Nb₃Sn Superconducting RF Cavities
+ 
+
+
+TU1AA06
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+N.M. Verboncoeur, G. Gaitan, M. Liepe, R.D. Porter, L. Shpani, N.A. Stilin, Z. Sun
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Nb3Sn currently is the most promising alternative material for next-generation, higher-performance SRF cavities. Significant recent progress has been made in further increasing efficiency, maximum field, and demonstrating readiness for first applications in actual accelerators. This paper will present an overview of worldwide recent progress in making this material a viable option for further accelerators.
+
+ 
+
+
+
+
+
+
+Slides TU1AA06 [6.559 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TU1AA06
+
+ 
+
+
+About •
+Received ※ 31 August 2022 — Revised ※ 01 September 2022 — Accepted ※ 04 September 2022 — Issue date ※ 09 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCJO09
+The PSI Positron Production Project
+ 
+
+
+TUPORI16
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+N. Vallis, B. Auchmann, P. Craievich, M. Duda, H. Garcia Rodrigues, J. Kosse, F. Marcellini, M. Schaer, R. Zennaro
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Funding: CHART (Swiss Accelerator Research and Technology)
+The PSI Positron Production project (P3 or P-cubed) is a demonstrator for a novel positron source for FCC-ee. The high current requirements of future colliders can be compromised by the extremely high positron emittance at the production target and consequent poor capture and transport to the damping ring. However, recent advances in high-temperature superconductors allow for a highly efficient matching of such an emittance through the use a solenoid around the target delivering a field over 10 T on-axis. Moreover, the emittance of the matched positron beam can be contained through large aperture RF cavities surrounded by a multi-Tesla field generated by conventional superconducting solenoids, where simulations estimate a yield higher by one order of magnitude with respect to the state-of-the-art. The goal of P3 is to demonstrate this basic principle by implementing the aforementioned solenoids into a prototype positron source based on a 6 GeV electron beam from the SwissFEL linac, two RF capture cavities and a beam diagnostics section.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI16
+
+ 
+
+
+About •
+Received ※ 15 August 2022 — Revised ※ 24 August 2022 — Accepted ※ 02 September 2022 — Issue date ※ 09 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

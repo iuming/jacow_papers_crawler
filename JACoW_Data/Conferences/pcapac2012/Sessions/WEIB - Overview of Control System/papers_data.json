@@ -1,0 +1,100 @@
+{
+  "session_info": {
+    "id": "WEIB",
+    "name": "WEIB - Overview of Control System",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/weib.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEIB01",
+      "title": "Implementation of Control Systems for Cyclotrons at VECC: A Status Report",
+      "authors": [
+        "VECC",
+        "Kolkata",
+        "India",
+        "The modernisations of the control of various subsystems of the Room Temperature Cyclotron (K130) and implementation of the subsystems control for Superconducting Cyclotron (K500) have been done at Variable Energy Cyclotron Centre (VECC)",
+        "Kolkata. The architecture",
+        "realization and present status of the development of the control systems are elaborated in this presentation."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/weib01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/weib01.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/weib01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-WEIB01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIB02",
+      "title": "Review of Control Resources for J-PARC Accelerators",
+      "authors": [
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "J-PARC consists of three big accelerators : 181-MeV LINAC (now upgrading to 400-MeV)",
+        "3-GeV RCS (Rapid Cycle Synchrotron)",
+        "and 30-GeV MR (Main Ring). Beam operation of LINAC started in November",
+        "2006",
+        "followed by RCS in 2007",
+        "and by MR in 2008. Since 2009",
+        "J-PARC accelerators have been providing high-intensity proton beams to experimental facilities. In this report",
+        "we focused on three components; sever CPU for MR",
+        "control network",
+        "and disk system. Improvement",
+        "upgrade",
+        "and troublesduring 6-year operation will be reviewed."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/weib02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/weib02.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/weib02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-WEIB02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIB03",
+      "title": "Indus-2 Control System: A Closer Perspective",
+      "authors": [
+        "RRCAT",
+        "Indore",
+        "India",
+        "Indus-2",
+        "the 2.5 GeV Synchrotron Radiation Source (SRS) facility at RRCAT Indore is a national facility and being operated on round the clock basis to provide synchrotron radiation to users as well as carrying out machine studies. The accelerator as a whole is a widely distributed system and employs a distributed control system for its monitoring",
+        "control and operation. The control system has continuously evolved since the start-up and continues to do so. The talk will throw light upon various sub-systems",
+        "components of the control system",
+        "viz. hardware",
+        "software",
+        "databases",
+        "communication protocols",
+        "their evolution",
+        "various issues and approaches",
+        "current status and future possibilities. It will cover different aspects concerning Control system architecture",
+        "VME control hardware",
+        "SCADA software",
+        "Realtime software",
+        "Profibus protocol",
+        "Web based software tools",
+        "Machine parameter database and System diagnostics tools and techniques."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/weib03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/weib03.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/weib03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-WEIB03",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-11 02:07:29"
+}

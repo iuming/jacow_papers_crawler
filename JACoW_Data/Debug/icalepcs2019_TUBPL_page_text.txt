@@ -1,0 +1,389 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: TUBPL (Data Management)
+
+
+TUBPL —  Data Management   (08-Oct-19   11:15—13:00)
+Chair: V.H. Hardion, MAX IV Laboratory, Lund University, Lund, Sweden
+
+
+Paper
+Title
+Page
+
+
+
+TUBPL01
+Automatic Web Application Generation From an Irradiation Experiment Data Management Ontology (IEDM)
+687
+
+
+ 
+
+B. Gkotse, F. Ravotti
+                       CERN, Meyrin, Switzerland
+B. Gkotse, P. Jouvelot
+                       MINES ParisTech, PSL Research University, Paris, France
+
+ 
+
+
+ 
+
+Funding: This project has received funding from the European Union’s Horizon 2020 Research and Innovation program under Grant Agreement no. 654168
+Detectors and electronic components in High-Energy Physics experiments are nowadays often exposed to harsh radiation environments. Thus, to insure reliable operation over time, their radiation tolerance must be assessed beforehand through dedicated testing experiments in irradiation facilities. To prevent data loss and perform accurate experiments, these facilities need to rely upon a proper data management system. In prior work, we provided a formal description of the key concepts involved in the data management of irradiation experiments using an ontology (IEDM)*. In this work, we show how this formalisation effort has a practical by-product via the introduction of an ontology-based methodology for the automatic generation of web applications, using IEDM as a use case. Moreover, we also compare this IEDM-generated web application to the IRRAD Data Manager (IDM), the manually developed web application used for the data handling of the CERN Proton Irradiation facility (IRRAD). Our approach should allow irradiation facility teams to gain access to state-of-the-art data management tools without incurring significant software development effort.
+*Gkotse, B., Jouvelot, P., Ravotti, F.: IEDM: An Ontology for Irradiation Experiments Data Management. In: Extended Semantic Web Conference 2019, accepted in Posters and Demos. http://cern.ch/iedm
+
+ 
+
+
+
+
+
+
+Slides TUBPL01 [10.183 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUBPL01
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 21 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL02
+Enabling Open Science for Photon and Neutron Sources
+694
+
+
+ 
+
+A. Götz, J. Bodera Sempere, A. Campbell, A. De Maria Antolinos, R.D. Dimper, J. Kieffer, V.A. Solé, T. Vincet
+                       ESRF, Grenoble, France
+M. Bertelsen, T. Holm Rod, T.S. Richter, J.W. Taylor
+                       ESS, Copenhagen, Denmark
+N. Carboni
+                       CERIC-ERIC, Trieste, Italy
+S. Caunt, J. Hall, J.F. Perrin
+                       ILL, Grenoble, France
+J.C. E, H. Fangohr, C. Fortmann-Grote, T.A. Kluyver, R. Rosca
+                       EuXFEL, Schenefeld, Germany
+F.M. Gliksohn
+                       ELI-DC, Brussels, Belgium
+R. Pugliese
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+L. Schrettner
+                       ELI-ALPS, Szeged, Hungary
+
+ 
+
+
+ 
+
+Funding: This project has received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement No 823852
+Photon and Neutron sources are producing more and more petabytes of scientific data each year. At the same time scientific publishing is evolving to make scientific data part of publications. The Photon and Neutron Open Science Cloud (PaNOSC*) project is a EU financed project to provide scientific data management for enabling Open Science. Data will be managed according to the FAIR principles. This means data will be curated and made available under an Open Data policy, findable, interoperable and reusable. This paper will describe how the European photon and neutron sources on the ESFRI** roadmap envision PaNOSC as part of the European Open Science Cloud***. The paper will address the issues of data policy, metadata, data curation, long term archiving and data sharing in the context of the latest developments in these areas.
+*https://panosc.eu  **https://www.esfri.eu/  **https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud 
+
+ 
+
+
+
+
+
+
+Slides TUBPL02 [14.942 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUBPL02
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL03
+Experimental Data Transfer System BENTEN at SPring-8
+702
+
+
+ 
+
+T. Matsumoto, Y. Furukawa, Y. Hiraoka, M. Kodera, T. Matsushita, K. Nakada, A. Yamashita, S. Yokota
+                       JASRI, Hyogo, Japan
+
+ 
+
+
+ 
+
+Recently, there are strong demands on open data to promote data science like material informatics. At SPring-8, we have been operated data transfer system for open data of XAFS measurements since 2013* with the second in the world for amount data**. However, it was difficult to satisfy demands such as generic uses in experimental stations and data federation with other facilities. To overcome these, we newly developed data transfer system BENTEN. BENTEN provides easy-to-use and unified interface with REST API for data access from both inside and outside SPring-8. At SPring-8, proposal number is assigned for each experiment and members in the proposal are defined in DB. BENTEN can also realize restricted data access with the members using authentication and the DB. Data registration was performed with metadata such as experimental conditions and samples. Various metadata in the experiments can be easily defined. To achieve flexible data access with full-text search, we used Elasticsearch as metadata store. We began operation of BENTEN and open access of XAFS data since March this year. We plan to utilize BENTEN to promote open data and data science also with other experimental data.
+*H. Sakai et al., Proc. of ICALEPCS 2013, p.577-579  **K. Asakura et al., J. Synchrotron Rad. (2018), 25, p.967-971 
+
+ 
+
+
+
+
+
+
+Slides TUBPL03 [5.165 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUBPL03
+
+ 
+
+
+About •
+paper received ※ 28 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL04
+Public Cloud-based Remote Access Infrastructure for Neutron Scattering Experiments at MLF, J-PARC
+707
+
+
+ 
+
+K. Moriyama
+                       CROSS, Ibaraki, Japan
+T. Nakatani
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+An infrastructure for remote access supporting research workflow is essential for neutron scattering user facilities such as J-PARC MLF. Because the experimental period spans day and night, service monitoring the measurement status from outside the facility is required. Additionally, convenient way to bring a large amount of data back to user’s home institution and to analyze it after experiments is required. To meet these requirements, we are developing a remote access infrastructure as a front-end for facility users based on public clouds. Recently, public clouds have been rapidly developed, so that development and operation schemes of computer systems have changed considerably. Various architectures provided by public clouds enable advanced systems to develop quickly and effectively. Our cloud-based infrastructure comprises services for experimental monitoring, data download and data analysis, using architectures, such as object storage, event-driven server-less computing, and virtual desktop infrastructure (VDI). Facility users can access this infrastructure using a web browser and a VDI client. This contribution reports the current status of the remote access infrastructure.
+
+ 
+
+
+
+
+
+
+Slides TUBPL04 [6.858 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUBPL04
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL05
+RecSyncETCD: A Fault-tolerant Service for EPICS PV Configuration Data
+714
+
+
+ 
+
+T. Ashwarya, E.T. Berryman, M.G. Konrad
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DESC0000661
+RecCaster is an EPICS module which is responsible for uploading Process Variables (PVs) metadata from the IOC database to a central server called RecCeiver. The RecCeiver service is a custom-built application that passes this data on to the ChannelFinder, a REST-based search service. Together, RecCaster and RecCeiver form the building blocks of RecSync. RecCeiver is not a distributed service which makes it challenging to ensure high availability and fault-tolerance to its clients. We have implemented a new version of RecCaster which uploads the PV metadata to ETCD. ETCD is a commercial off-the-shelf distributed key-value store intended for high availability data storage and retrieval. It provides fault-tolerance as the service can be replicated on multiple servers to keep data consistently replicated. ETCD is a drop-in replacement for the existing RecCeiver to provide data storage and retrieval for PV metadata. Also, ETCD has a well-documented interface for client operations including the ability to live-watch the PV metadata for its clients. This paper discusses the design and implementation of RecSyncETCD as a fault-tolerant service for storing and retrieving EPICS PV metadata.
+
+ 
+
+
+
+
+
+
+Slides TUBPL05 [1.099 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUBPL05
+
+ 
+
+
+About •
+paper received ※ 26 September 2019       paper accepted ※ 02 October 2020        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPL06
+Energy Consumption Monitoring With Graph Databases and Service Oriented Architecture
+719
+
+
+ 
+
+A. Kiourkos, S. Infante, K.S. Seintaridis
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+CERN is a major electricity consumer. In 2018 it consumed 1.25 TWh, 1/3 the consumption of Geneva. Monitoring of this consumption is crucial for operational reasons but also for raising awareness of the users regarding energy utilization. This monitoring is done via a system, developed internally and is quite popular within the CERN community therefore to accommodate the increasing requirements, a migration is underway that utilizes the latest technologies for data modeling and processing. We present the architecture of the new energy monitoring system with an emphasis on the data modeling, versioning and the use of graphs to store and process the model of the electrical network for the energy calculations. The algorithms that are used are presented and a comparison with the existing system is performed in order to demonstrate the performance improvements and flexibility of the new approach. The system embraces the Service Oriented Architecture principles and we illustrate how these have been applied in its design. The different modules and future possibilities are also presented with an analysis of their strengths, weaknesses, and integration within the CERN infrastructure.
+
+ 
+
+
+
+
+
+
+Slides TUBPL06 [3.018 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUBPL06
+
+ 
+
+
+About •
+paper received ※ 29 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

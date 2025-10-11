@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: THCC (Software and Hardware Technology)
+
+
+THCC —  Software and Hardware Technology   (06-Dec-12   14:55—15:25)
+Chair: D. Sarkar, VECC, Kolkata, India
+
+
+Paper
+Title
+Page
+
+
+
+THCC02
+Controls Architecture for the Diagnostic Devices at the European XFEL
+121
+
+
+ 
+
+O. Hensler
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The X-ray laser is an 3.4-km-long facility which runs essentially underground and comprises three sites above ground. For controlling all diagnostic devices like toroids, BPMs or BLMs, it is planned to use the new MTCA.4 crate standard instead of VME. ATCA is an emerging standard from the Telecom Industry and adapted with the PICMG MTCA.4 branch for physics usage. The communication on the backplane utilizes the high speed serial PCIe communication plus precise clock lines and SATA interface. The MTCA.4 hardware supports hot-plug mechanism and remote monitoring and control via IPMI over Ethernet. Some of the diagnostics will be connected to 16Bit ADCs with up to 125Mhz sampling rate from Struck company or to an internal DESY development call DAMC2. The software architecture is based on the DOOCS control system known from the FLASH accelerator. The raw data from the ADCs will be read via DMA transfer by one server process. Then this raw data will distributed locally on the CPU using a message passing system based on the ØMQ project. The receiving server processes are calculating these data into engineering units then. Everything works in an event driven way.
+
+ 
+
+
+
+
+
+
+Slides THCC02 [2.499 MB]
+            
+ 
+
+
+ 
+
+
+
+THCC03
+PC Based Real Time Data Exchange on 10GbE Optical Network Using RTOS
+124
+
+
+ 
+
+R.P. Gupta, H.D. Dave
+                       IPR, Bhat, Gandhinagar, India
+
+ 
+
+
+ 
+
+Funding: This work is supported by research grant No. BRFST/NFP/2012/Feb/N/05; dated 5th April, 2012, under the National Fusion Programme of the Board for research in Fusion Science & Technology at IPR
+The traditional embedded systems are expensive to adapt to the new requirements. The Personal Computer based systems offer alternatives for industrial controls. It reduces the capital cost and provides a solution for multiple applications. However, limitations of PC based controls should be resolved. PC operates on a non-real time OS with non-deterministic response to real time events and data. The real-time pre-emptive kernel for Linux uses Xenomai for better solution. A real-time 10GbE data exchange optical network using Xenomai extension for Linux is demonstrated. The hardware based on Intel_82599 10GbE Ethernet PCIe network card supports IEEE1588 standard for synchronization, deterministic response to real-time interrupts and events. The benchmark testing comprises multiple nodes and data sources, for data exchange among nodes, which would improve the performance of PC control systems. Data sources and consumers include time synchronization, hardware and software events broadcasting. A single fiber cable is used for exchange of measured status and calculated control data among nodes. Moreover, the open source Ubuntu Linux RTOS will help the future development.
+[1] KunJi et al, 'Real-Time Control via Ethernet', Int. J.of Control, Auto. and Sys, vol.3, no.4, pp.591-600, 2005. [2] F.Leroux et al, 'New Dev. on Acqu. Units', Proc. of ICALEPCS, Grenoble, France, pp. 922-925, 2011
+
+ 
+
+
+
+
+
+
+Slides THCC03 [0.595 MB]
+            
+ 
+
+
+ 
+
+
+
+

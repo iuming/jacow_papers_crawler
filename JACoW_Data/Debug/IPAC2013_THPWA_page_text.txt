@@ -1,0 +1,1120 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2013 - Table of Session: THPWA (Poster Session)
+
+
+THPWA —  Poster Session   (16-May-13   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPWA001
+Design of X-Band Medical Linear Accelerator with Multiple RF Feeds and RF Phase Focusing
+3627
+
+
+ 
+
+Y. N. Nour El-Din, T.M. Abuelfadl
+                       Cairo University, Giza, Egypt
+
+ 
+
+
+ 
+
+Funding: Work supported by the Egyptian Science and Technology Development Fund (STDF) No. 953.
+A design of 6 MeV X-band 9.3 GHz medical linear accelerator is presented. It is composed of four separate clusters of accelerating cavities, where a coherent RF excitation is provided separately to each cluster. The use of multiple accelerating sections with multiple RF feeds permits the use of inexpensive RF sources. The first cluster is Alternate Phase Focusing (APF) RF cavities, providing radial and longitudinal beam focusing without the use of heavy and bulky magnets or solenoids. The three other clusters used for acceleration are composed of multiple standing wave sections operating in the Pi-mode. Each section has been designed and optimized for high shunt impedance by means of 2D SUPERFISH code and 3D CST code. A two dimensional code, named PTCC, was developed to facilitate design and analysis of the different parts of the accelerating structure.
+
+ 
+
+
+ 
+
+
+
+THPWA002
+Optimization of the Photoneutron Flux Emitted by an Electron Accelerator for Neutron Interrogation Applications using MCNPX and TRIPOLI-4 Monte Carlo Codes
+3630
+
+
+ 
+
+A. Sari, F. Carrel
+                       CEA/DRT/LIST, Gif-sur-Yvette Cedex, France
+C. Jouanne, A. Lyoussi, O. Petit
+                       CEA, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+Various applications require neutron interrogation to detect special nuclear material. In a previous study*, we demonstrated the feasibility of this technique using the photoneutron flux emitted by a 16 MeV linear electron accelerator. This approach enables to reach average emission intensity on the order of one decade beyond the one produced by deuterium-tritium neutron generators traditionally used for such applications. Higher average emission intensities of the photoneutron flux would enable to expand boundaries of neutron interrogation. This new study aims at optimizing the photoneutron flux emitted by an electron accelerator. In order to ensure accuracy and reliability of our results, two Monte Carlo particle transport codes were used in parallel in this study: MCNPX developed by Los Alamos National Laboratory, and TRIPOLI-4 developed by the French Alternative Energies and Atomic Energy Commission. Potential discrepancies between results obtained with the two codes were investigated. Furthermore, careful attention was given to minimize the high-energy photon beam contained in the photoneutron flux in order to reduce spurious photofission reactions during measurements.
+*A. Sari et al., IEEE Trans. Nucl. Sci., vol. 59, no.3, pp. 605-611, 2012.
+
+ 
+
+
+ 
+
+
+
+THPWA003
+Novel Crate Standard MTCA.4 for Industry and Research
+3633
+
+
+ 
+
+T. Walter, F. Ludwig, K. Rehlich, H. Schlarb
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: This project is funded by the Helmholtz Association (Helmholtz Validation Fund HVF-0016).
+MTCA.4 is a novel electronic standard derived from the Telecommunication Computing Architecture (TCA) and championed by the xTCA for physics group, a network of physics research institutes and electronics manufacturers. MTCA.4 was released as an official standard by the PCI Industrial Manufacturers Group (PICMG) in 2011. Although the standard is originally physics-driven, it holds promise for applications in many other fields with equally challenging requirements. With substantial funding from the Helmholtz Association for a two-year validation project, DESY currently develops novel, fully MTCA.4-compliant components to lower the barriers to adoption in a wide range of industrial and research use scenarios. Core activities of the project are: refinement, test and qualification of existing components; market research, market education (web information services, workshops); coordinated development of missing MTCA.4 components; further advancement of the standard beyond the current PICMG specification; investigation of measures to counteract electro-magnetic interferences and incompatibilities; training, support and consultancy. This paper summarizes intermediate results and lessons learned at project half-time.
+
+ 
+
+
+ 
+
+
+
+THPWA004
+The HIT Gantry: From Commissioning to Operation
+3636
+
+
+ 
+
+M. Galonska, S. Brons, R. Cee, Th. Haberer, K. Höppner, J.M. Mosthaf, A. Peters, S. Scheloske, T. Winkelmann
+                       HIT, Heidelberg, Germany
+
+ 
+
+
+ 
+
+The patient treatment at the first 360° raster scanning heavy ion gantry of the Heidelberg Ion Therapy Facility (HIT) started in October 2012 using proton and carbon ion beams. HIT is the first dedicated proton and carbon cancer therapy facility in Europe. It uses full 3D intensity controlled raster scanning dose delivering method of pencil beams. The ion energy ranges from ~50 up to 430 MeV/u (ion penetration depths of 20 to 300 mm in water). Beams are provided by a linac-synchrotron-system to four high energy beam lines: 2 horizontal patient treatment rooms; 1 horizontal experimental cave for quality assurance, development, and research work; and the heavy ion gantry. From the first commissioning the libraries of carbon and proton pencil beams at the gantry had been offered with the whole variety of ion beam properties: 255 energy steps, 4 beam foci, 360°, and 10 intensities (106-1010/spill) regarding the central beam. This paper reflects the impact of the subsequent preclinical testing including beam size/position, and dose measurements within the irradiation field of 20x20 cm2 on the further improvement of the ion optical settings of the gantry high energy transfer line.
+
+ 
+
+
+ 
+
+
+
+THPWA005
+The HIT Accelerator as Part of a Medical Product: Impacts on the Maintenance Strategy
+3639
+
+
+ 
+
+A. Peters, R. Cee, Th. Haberer, T. Winkelmann
+                       HIT, Heidelberg, Germany
+
+ 
+
+
+ 
+
+The HIT accelerator produces protons and carbon beams with a large variety of parameters: 255 different energies, four foci and ten intensity steps per ion are independently available at 5 iso-centres to be requested by the dose delivery system for tumor treatment. Thus the whole accelerator chain is part of a medical product, in case of HIT an in-house manufactured device. The overall risk and quality management has deep influences on the maintenance process. Not only the huge volume of necessary documentation reflects this impact but also the organizational process before, along and after the services at HIT. Especially, the comprehensive testing after the maintenance procedures follows sophisticated checklists (e.g. the ion source service). On the other hand, a high operational availability of the accelerator in a hospital is mandatory. To realize 8250 hours of accelerator uptime per year in case of HIT, a maintenance strategy is necessary, which interleaves the regular service of the building infrastructure, e.g. air conditioning, with the periodic maintenance of the accelerator components. In detail, this approach will be discussed along the magnets and the gantry structure.
+
+ 
+
+
+ 
+
+
+
+THPWA008
+Design of a Fast-cycling High-gradient Rotating Linac for Protontherapy
+3642
+
+
+ 
+
+A. Degiovanni, U. Amaldi, D. Bergesio, C. Cuccagna, A. Lo Moro, P. Magagnin, P. Riboni, V. Rizzoglio
+                       TERA, Novara, Italy
+
+ 
+
+
+ 
+
+General interest has been shown over the last years for the development of single room facilities serving a population of about 2 million people for proton cancer therapy. Compact machines are needed to accelerate proton beams of few nanoamperes up to 230 MeV. In this framework the project TULIP (Turning LInac for Protontherapy), patented by TERA Foundation, foresees a linac mounted on a rotating gantry used as a booster for protons previously accelerated by a cyclotron. The linac is composed of modular units powered by independently controlled klystrons. The RF power transmission is made possible by high power rotating joints developed in collaboration with CLIC group. The final beam energy can be varied in steps of few MeV from pulse to pulse by amplitude and/or phase modulation of the klystron signals, making possible the implementation of active spot scanning technique with tumor multi-painting. The present paper provides the main characteristics of TULIP, describing the different choices for the linac design parameters together with the structural design of the supporting gantry and of the final beam line.
+
+ 
+
+
+ 
+
+
+
+THPWA009
+Generation of Laser Compton Scattered Gamma-rays from a 150-MeV Microtron
+3645
+
+
+ 
+
+R. Hajima, C.T. Angell, I. Daito, T. Hayakawa, M. Kando, T. Shizuma
+                       JAEA, Ibaraki-ken, Japan
+H. Ohgaki
+                       Kyoto University, Institute for Advanced Energy, Kyoto, Japan
+
+ 
+
+
+ 
+
+Funding: This work was supported in part by special coordination funds for promoting science and technology in Japan (Grant No. 066).
+We have developed a laser Compton scattered gamma-ray source based on a 150-MeV racetrack microtron at Japan Atomic Energy Agency. The microtron equipped with a photocathode RF gun accelerates a single bunch of electrons to collide with a laser pulse from a Nd:YAG laser. We have employed laser pulse compression by stimulated Brillouin scattering to obtain high-flux gamma-rays, > 105 ph/s. The gamma-ray source is a prototype of commercial machine for nuclear security applications, non-destructive detection of nuclear material hidden in a ship cargo. Design and performance of the gamma-ray source are presented.
+
+ 
+
+
+ 
+
+
+
+THPWA010
+Application of X-band 30 MeV Linac Neutron Source to Nuclear Material Analysis for Fukushima Nuclear Plant Accident
+3648
+
+
+ 
+
+M. Uesaka, K. Dobashi, T. Fujiwara
+                       The University of Tokyo, Nuclear Professional School, Ibaraki-ken, Japan
+H. Harada
+                       JAEA, Ibaraki-ken, Japan
+K. Tagi
+                       University of Tokyo, Tokyo, Japan
+M. Yamamoto
+                       Accuthera Inc., Kawasaki, Kanagawa, Japan
+
+ 
+
+
+ 
+
+We plan to use our X-band (11.424GHz) electron linac as a neutron source for the nuclear analysis for the Fukushima nuclear plant accident. Quantitative material analysis and forensics for nuclear security will start several years later after the safe settlement of the accident is established. For the purpose, we should now accumulate more precise nuclear data of U, Pu, TRU and MA especially in epithermal (0.1-10 eV) neutrons. Therefore, we have decided to move the linac into the core of the experimental nuclear reactor “Yayoi” which is now under the decommission procedure. First we plan to perform the TOF (Time Of Flight) transmission measurement of the total cross sections of the nuclei for 0.1-10 eV neutrons. Electron energy, macro-pulse length, power and neutron yield are ~30 MeV, 100 ns – 1 micros, <0.5 kW and <1012 n/s, respectively. Optimization of the design of a neutron target (Ta, W, U), TOF line and neutron detector (Ce:LiCAF) of high sensitivity and fast response is underway. Installation, commissioning and measurement starts in 2014. Detailed design and way how to contribute to the analysis of the Fukushima nuclear plant accident will be presented.
+
+ 
+
+
+ 
+
+
+
+THPWA011
+Concepts of 220 MeV Racetrack Microtron for Non-destructive Nuclear Material Detection System
+3651
+
+
+ 
+
+T. Hori, T. Kii, R. Kinjo, H. Ohgaki, M. Omer, H. Zen
+                       Kyoto University, Institute for Advanced Energy, Kyoto, Japan
+I. Daito, R. Hajima, T. Hayakawa, M. Kando, H. Kotaki
+                       JAEA, Kyoto, Japan
+F. Sakai
+                       SHI, Tokyo, Japan
+
+ 
+
+
+ 
+
+Funding: Japan Science and Technology Agency Special Coordination Funds for Promoting Science and Technology (Grant No. 066)
+A nuclear material detection system (NMDS) using the quasi-monochromatic gamma-ray beam from a laser Compton scattering (LCS) source is proposed for the container inspection, where nuclear resonance fluorescence method is to be employed for the specific isotope identification such as U-235. In the system an electron beam of good quality at about 220-MeV must be provided for LCS. One of the most promising electron source is a compact electron accelerator named racetrack microtron (RTM). Some concepts of RTM suitable for NMDS and expected beam qualities will be presented.
+
+ 
+
+
+ 
+
+
+
+THPWA012
+The Development of a New Type of Electron Microscope using Superconducting RF Acceleration
+3654
+
+
+ 
+
+N. Higashi
+                       The University of Tokyo, Graduate School of Science, Tokyo, Japan
+A. Enomoto, Y. Funahashi, T. Furuya, Y. Kamiya, S. Michizono, M. Nishiwaki, H. Sakai, M. Sawabe, K. Ueno, M. Yamamoto
+                       KEK, Ibaraki, Japan
+M. Kuriki
+                       HU/AdSM, Higashi-Hiroshima, Japan
+S. Yamashita
+                       ICEPP, Tokyo, Japan
+
+ 
+
+
+ 
+
+We are developing a new type of electron microscope (EM), which adopts RF acceleration in order to exceed the energy limit of DC acceleration used in conventional EMs. It enables us to make a high-voltage EM more compact and to examine thicker specimens, and possibly to get better spatial resolution. Using a superconducting RF cavity, we can operate the EM in CW mode to obtain a beam flux comparable to that in DC mode. Low energy dispersion ΔE/E , e.g. 10-6 or better, is required for good spatial resolution in EMs, while it is usually between 10-3 to 10-4 in accelerators. We have thus designed a special type of cavity that can be excited with the fundamental and second-harmonic frequencies simultaneously; TM010 and TM020. With the two-mode cavity, the energy dispersion of the order of 10-5 would be obtained by modifying the peak of accelerating field to be flattened. As the proof-of-principle of our concept, we are developing the prototype using a 300 keV transmission electron microscope (TEM), to which a new photocathode gun and the two-mode cavity are attached. We have already manufactured the cavity and it is under test, and the gun is under construction.
+
+ 
+
+
+ 
+
+
+
+THPWA013
+Direct Diagnostic Technique of High-intensity Laser Profile based on Laser-Compton Scattering
+3657
+
+
+ 
+
+Y. Yoshida, A. Endo, K. Sakaue, R. Sato, M. Washio
+                       Waseda University, Tokyo, Japan
+
+ 
+
+
+ 
+
+Funding: Work supported by NEDO (New Energy and Industrial Technology Development Organization).
+A high-intensity laser is essential for the LPP (Laser Produced Plasma) EUV generation, which is studied as the next generation light source of ultra-fine semiconductor lithography. Nevertheless, there is no way to directly measure the profile of high-intensity laser. Therefore, we have been developing a method for measuring high-intensity laser profile based on the laser-Compton scattering using a Cs-Te photo cathode RF-Gun at Waseda University. In this diagnostic technique, laser profile is obtained by scanning the extremely-focused electron beam, which is about 10μm by solenoid lens. We have obtained the 10μm beam size by solenoid lens using tracking code GPT (General Particle Tracer) by optimizing the beam parameter and lens shape. Recently, we have installed solenoid lens and generated focused beam. The focused beam size was evaluated by using radiochromic film called GAFCHROMIC dosimetry film type HD-810. In this conference, we will report the results of GPT simulations, beam size measurements and future prospects.
+
+ 
+
+
+ 
+
+
+
+THPWA014
+Development of Photon-induced Positron Annihilation Lifetime Spectroscopy using an S-band Compact Electron Linac
+3660
+
+
+ 
+
+Y. Taira, R. Kuroda, B.E. O'Rourke, N. Oshima, R. Suzuki, M. Tanaka, H. Toyokawa
+                       AIST, Tsukuba, Ibaraki, Japan
+K. Watanabe
+                       Nagoya University, Nagoya, Japan
+T. Yanagida
+                       Kyushu Institute of Technology, Fukuoka, Japan
+
+ 
+
+
+ 
+
+Funding: This work was supported by Grants-in-Aid for Scientific Research (22360297)
+Positron annihilation lifetime spectroscopy (PALS) is a very sensitive tool to characterize materials and study defects at the nanometer scale. However, the application of PALS has been restricted to thin samples because of the limited range of positrons in materials. PALS for thick samples is possible by using high energy photons to create positrons inside the sample via pair production. This technique is called photon-induced positron annihilation lifetime spectroscopy (PiPALS). We have developed a novel PiPALS system using ultra-short photon pulses based on bremsstrahlung radiation to carry out in-situ measurement of structural materials under special conditions (piping for supercritical water and nuclear reactor materials). Intense, ultra-short photon pulses with energies up to 40 MeV can be generated by using an electron linear accelerator with photocathode rf gun system at AIST. In this conference, we will present the experimental result of the positron annihilation lifetime spectrum of a metal target by using ultra-short photon pulses*.
+*Y. Taira et al., Rad. Phys. and Chem., accepted for publication 2012.
+
+ 
+
+
+ 
+
+
+
+THPWA016
+Design and Optimization of the Target in Electron Linear Accelerator
+3663
+
+
+ 
+
+Q. Gao, H.B. Chen, J. Shi, H. Zha
+                       TUB, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The target in electron linear accelerator plays an important role in the production of photon. Different materials and thickness of target have influence on dose rate. For 6MeV electron beam, this study gives the thickness of target for several materials in which the dose rate can be higher and drain electron can be lower. Then a X-ray target had been designed for 6MeV electron linac by FLUKA simulations. It can deliver 1000 cGy/min at 1 meter in front of the target if providing 6 MeV electron beam with 100uA current, which can achieve high-dose rate radiotherapy.
+
+ 
+
+
+ 
+
+
+
+THPWA018
+High Power Test of a C-band 6 MeV Standing-wave Linear Accelerator
+3666
+
+
+ 
+
+J.H. Shao, H.B. Chen, Y.-C. Du, Q.X. Jin, J. Shi, H. Zha
+                       TUB, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+A C-band 6MeV standing-wave bi-periodic on-axis coupled linear accelerator has been developed at the accelerator laboratory of Tsinghua University [1,2]. In the recent high power RF test, the capture ratio, the energy spectrum, the spot size and the dose rate of this accelerator have been measured. With a 2.07-MW input power, the peak current is 130mA and the output spot root-mean-square diameter is about 0.8mm. The output kinetic energy is 6.0MeV with a spectrum FWHM of 7.5%. In this paper, the setup and detailed results of the high power RF test are presented.
+
+ 
+
+
+ 
+
+
+
+THPWA019
+THEORY RESEARCH ON APPLICATION OF CT TECHNOLOGY TO SHIELDED NUCLEAR MATERIAL DISCRIMINATION
+3669
+
+
+ 
+
+Y. Zhang, H.B. Chen, Q. Gao, J. Shi
+                       TUB, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Smuggling of nuclear material is a serious threat to security of international society. Formal research on nuclear material discrimination can fulfil customs inspection requirement. This paper designs a situation that nuclear material which is packaged and shielded by heavy metal need to be discriminated accurately on the condition that the object being detected cannot be dismantled. Calculation results prove nuclear material could be discriminated accurately while the ideal condition is fulfilled. If multi-energy X-ray source is used the discrimination accuracy is declined. However the accuracy could be improved while energy spectrum shaping technique is used.
+
+ 
+
+
+ 
+
+
+
+THPWA021
+Studies of Density Distribution and Emittance Measurement for High Current Electronic Beam
+3672
+
+
+ 
+
+Q.C. Li, Z.-F. He, J.M. Huang, D.M. Li, Y.-T. Zhang, X.K. Zhu
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Beam density distribution and emittance are the important parameters of an accelerator. The accurate emittance measurement has an important reference significance for the design of accelerating tube, and provides a design basis for the aperture size of accelerating tube. This paper introduces a beam measurement method which uses multiwire, can rotate in the horizontal plane and adjust in the Z coordinate. The results of simulation show that this method can accurately measure the beam density distribution and emittance, and the accuracy can meet the requirements of applied accelerator.
+
+ 
+
+
+ 
+
+
+
+THPWA022
+An 800kV 30mA Line-Frequency Cockcroft-Walton Dc Generator Using Gas Insulated Transformer for Radiation Application
+3675
+
+
+ 
+
+Y.H. Liu, H.L. Guo, Z.-F. He, D.M. Li, M.X. Li, W.G. Shi, H.J. Su, S.L. Wang, Y.J. Yang, J.L. Zhang, Y.-T. Zhang
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+The design and construction of a line-frequency 800 kV Cockcroft-Walton DC generator using gas insulated transformers are described, as well as the motive to develop it into radiation application. Several features are underlined, preliminary test results of the prototype presented and some problems encountered discussed.
+
+ 
+
+
+ 
+
+
+
+THPWA023
+Research on Modeling of the High-density Current Electron Gun System Based on T-S Fuzzy Model
+3678
+
+
+ 
+
+B. Lv, D.M. Li, H.J. Su
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Abstract: The stability of the electron beam is considered as an important performance of industrial electron accelerators. For the beam control system of the accelerator, it is significant to obtain the accurate model of the electron gun system. The paper presents a fuzzy modeling method based on the Takagi-Sugeno (T-S) fuzzy model. A T-S model can be obtained using the system identification algorithms from input-output data. In our approach, fuzzy c-means (FCM) clustering algorithm is applied to identify the model structure. And a hybrid method based on quantum-inspired differential evolution algorithm (QDE) and genetic algorithm (GA) is proposed to learn the parameters of T-S fuzzy model. Experiments on the Box-Jenkins gas furnace data have verified the validity of the modeling approach. The simulation results show that the T-S fuzzy model is very well to describe the electron gun system and reveal its performance.
+
+ 
+
+
+ 
+
+
+
+THPWA027
+Evaluation of Zero-failure Data in Transient Ionizing Radiation Based on Ordering Method in the Sample Space
+3681
+
+
+ 
+
+X.Y. Bai, X.M. Jin, R.B. Li, Y. Liu, Q. Ma, Ch. Qi
+                       NINT, Xi'an, People's Republic of China
+
+ 
+
+
+ 
+
+The conventional method for the evaluation of data in lot acceptance testing (LAT) of transient ionizing radiation is non-parametric method. But the evaluation results are very conservative. After the discovery of data in transient ionizing radiation belonging to one universal data model “case 1 interval censored data”, ordering method in the sample space was introduced and applied to evaluate zero-failure data and was compared with non-parametric method both theoretically and via a practical LAT on QG-Ⅰ. Through the comparisons, it is concluded that ordering method can expand the scope of dose rate corresponding to the same lower confidence limit. It improves data utilization and this improvement could have practical significance in LAT. It can reduce requirements for the radiation source and can also reduce the number of trials.
+
+ 
+
+
+ 
+
+
+
+THPWA028
+Analysis of Uncertainty of Dose Rate Measurement on the Accelerator “QiangGuang-I”
+3684
+
+
+ 
+
+R.B. Li, X.Y. Bai, X.M. Jin, Q. Ma, C. Qi, G.Z. Wang
+                       NINT, Xi'an, People's Republic of China
+
+ 
+
+
+ 
+
+“QiangGuang-I”, working on short pulse state, can be used to research the transient radiation effects on electronic devices. The measurement of dose rate is significant for assessing devices’ radiation-resistant ability. This paper comprehensively analyzes the originations of uncertainty on dose rate’s measurement, such as thermoluminescent dosemeter’s linearity degree and response to X-rays energy spectrum, testing instruments’ resolution, waveforms’ transmission distortion , and positional error; figures out the extended uncertainty. The result shows that the expanded uncertainty of dose rate’s measurement is less than 20%, which is satisfactory for researching on devices’ transient radiation effects, and proves that the method used to measure dose rate is reasonable.
+
+ 
+
+
+ 
+
+
+
+THPWA029
+Transient Ionizing Radiation Effect of Bipolar Operational Amplifiers to Pulsed X-rays
+3687
+
+
+ 
+
+X.M. Jin
+                       Xiaoming Jin, People's Republic of China
+X.Y. Bai, R.B. Li, D.S. Lin, Q. Ma, C. Qi, G.Z. Wang, S.C. Yang
+                       NINT, Xi'an, People's Republic of China
+
+ 
+
+
+ 
+
+Abstract – The pulsed ionizing radiation effect of monolithic operational amplifiers is investigated using a flash X-ray facility. The experimental results show that the pulsed ionizing radiation produces voltage surges in the devices and the output voltage recovers linearly after transient disturbance which includes a negative peak and a positive peak. The recovery time depends on the amplitude of the positive peak and the inherent slew rate of the devices. The degradation of transient disturbance amplitude and the recovery time versus ionizing dose rate of pulsed X-rays is researched. The relationship of circuit effects to physical mechanisms is investigated in detail. The photocurrent induced by transient ionizing radiation in the PN junctions in integrated circuits is responsible for the electrical degradation. Keywords – Transient ionizing Radiation effect, Transient disturbance, Photocurrent, integrated circuits
+
+ 
+
+
+ 
+
+
+
+THPWA030
+Design and Prototype Test of C-band Standing-wave Accelerating Structure to Enhance RF Phase Focusing
+3690
+
+
+ 
+
+H. Yang, M.-H. Cho, W. Namkung, S.-G. Shin
+                       POSTECH, Pohang, Kyungbuk, Republic of Korea
+S.H. Kim
+                       ANL, Argonne, USA
+J.-S. Oh
+                       NFRI, Daejon, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This research was financially supported by the MOTIV, KIAT and Dongnam Institute for Regional Program Evaluation through the Leading Industry Development for Economic Region
+A C-band standing-wave accelerator for X-ray and electron beam sources of medical radiotherapy is designed and being fabricated. The accelerator system is to be operated in two modes, using the X-ray and electron beams. Because of the energy loss in electron mode, the accelerator is capable of producing 6-MeV, 100-mA electron beams with peak 2-MW RF power, and 7.5-MeV, 20 mA electron beams with peak 2.5-MW RF power. The beam radius at the end of column was < 0.5 mm without focusing magnets in PARMELA simulations, because the bunching cells are designed to enhance the RF phase focusing. Each cavity in the bunching and normal cells was designed by the MWS code to maximize the effective shunt impedance with 3.8% inter-cell coupling in normal cells. The dimensions of normal cells were determined by the low power RF test of prototype cells with 5711.06-MHz resonant frequency and 3.5% inter-cell coupling. In this paper, we present details of the accelerator design and prototype test.
+
+ 
+
+
+ 
+
+
+
+THPWA031
+Raising the Generating Current in the VITA Neutron Source for BNCT
+3693
+
+
+ 
+
+A.S. Kuznetsov, V.I. Aleynik, A.G. Bashkirtsev, D.A. Kasatov, A.N. Makarov, I.M. Schudlo, I.N. Sorokin, S.Yu. Taskaev, M.A. Tiunov
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Funding: The work was partially supported by the Ministry of Education and Science of the Russian Federation (contract № 14.518.11.7039).
+The Vacuum Insulated Tandem Accelerator (VITA) was developed in the Budker Institute of Nuclear Physics to produce epithermal neutrons for boron neutron capture therapy in the 7Li(p,n)7Be reaction. The parameters of the generated radiation allow us to carry out in vitro and in vivo investigations of BNCT. In present moment the modernization of the facility elements is carrying out to meet the parameters required for clinical usage. As the first step of the modernization the stripping target and electrode apertures were optimized. The experiments on fine beam injection were carried out as well as experiments on high current transportation. The output current in the range 1.5-2.5 mA with proton beam energy of 1 – 2 MeV was obtaned in the routine regimes of generation. In presented work the results of the experiments and possible way to rise the proton current higher then 3 mA level with energy 2 MeV are discussed.
+*S. Taskaev, et al. Vacuum-insulation Tandem Accelerator for Boron Neutron Capture Therapy. Proc. 2nd International Particle Accelerator Conference (IPAC-2011),2011, San Sebastian, Spain, p.3615-3617.
+
+ 
+
+
+ 
+
+
+
+THPWA032
+Fields of Charged Particle Bunches in Chiral Isotropic Medium
+3696
+
+
+ 
+
+S.N. Galyamin, A.A. Peshkov, A.V. Tyukhtin
+                       Saint-Petersburg State University, Russia
+
+ 
+
+
+ 
+
+Funding: Work is supported by Russian Foundation for Basic Research and the Dmitry Zimin "Dynasty" Foundation.
+We study electromagnetic fields produced by charged particle bunches moving in a chiral isotropic medium. Such properties are typical for most of organic matters and some artificial materials (metamaterials). Therefore, this subject is of interest for chemical, biological, and medical applications as well as for study of metamaterials. First, we investigate in detail the field of a point charge. We obtain exact and approximate formulas and develop algorithm for calculation of the point charge field. Further, we use these expressions for calculation of fields produced by finite size bunches. We also present the typical energetic patterns of radiation and spectra of energy losses. Possibilities of using the obtained results for different applications are discussed.
+
+ 
+
+
+ 
+
+
+
+THPWA033
+Material Discrimination Technology for Cargo Inspection with Pulse-to-pulse Linear Electron Accelerator
+3699
+
+
+ 
+
+S. Ogorodnikov, R. Apevalov, M. Arlychev, I. Polevchenko, A. Rodionov, I.E. Shevelev
+                       Scantronic Systems, St. Petersburg, Russia
+
+ 
+
+
+ 
+
+In the present article a complex of technological solutions based on 6/3.5 MeV pulse-to-pulse linear accelerator, detectors made of CWO scintillators coupled with PIN photodiodes and image processing algorithms proposed. Energies, dose rate and other parameters of accelerator were optimized to reach high performance of the x-ray system and to carry out robust and reliable material discrimination in the mass thickness range up to 120 g/cm2 at least. Evaluation of effective atomic number of materials of main three groups (organics, mineral/light metals, metals) was fulfilled with preciseness ±1 for the optimal mass thickness range at the scanning speed 60 cm/s. Instrument for evaluation of physical mass of the separate objects on the image is proposed and realized.
+
+ 
+
+
+ 
+
+
+
+THPWA034
+Overview of CERN Technology Transfer Strategy and Accelerator-related Activities
+3702
+
+
+ 
+
+E. Chesta, A. Bertarelli, F. Caspers, P. Chiggiato, S. Sgobba, T. Stora, M. Taborelli, W. Wuensch
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+CERN, the European Organization for Nuclear Research, is actively engaged in identifying technologies developed for its accelerator complex that could be profitably used by partner research organizations or commercial companies in applications with potentially high socio-economic impact beyond pure fundamental physics research. In the first part of the paper, an overview of CERN current strategy in the field of Technology Transfer and Intellectual Property Management will be presented, with details on the most effective models, implementation tools and processes developed to achieve satisfactory dissemination and valorisation of the knowledge generated within the Organization. In the second part, CERN currently available technology portfolio will be described with focus on cases originated from the Accelerator and Technology Sector. A selection of promising on-going projects embracing a variety of technology fields and application areas will be detailed to showcase technical challenges and possible benefits of initiatives driven by (but not limited to) the needs of CERN scientific programme.
+
+ 
+
+
+ 
+
+
+
+THPWA035
+Intervention Management from Operation to Shutdown
+3705
+
+
+ 
+
+C. Garino, B. Daudin, J. De Jonghe, A. Dorsival, F. B. Dos Santos Pedrosa, G. Dumont, K. Foraz, E.R.F. Reguero Fuentes
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The Intervention Management Planning and Coordination Tool (IMPACT) is now widely used in all the accelerator complex and beyond. This unique repository improves the availability of the intervention information for all facilities, and enhances its traceability. It supports a standardized approval workflow and direct link to the access system for improved control and productivity. IMPACT currently has 1418 active users who have defined 6880 intervention requests in 2012 so far. In 2013, the CERN Accelerator complex will enter a shutdown mode after a long period of operation. Careful preparation and scheduling of activities is paramount in order to keep the shutdown as short as possible, whilst guaranteeing safety. During execution, strict control of access will be enforced considering the radiation levels. This paper will summarize the main improvements to IMPACT in this context: work dose planning with respect to ALARA principles including integration with the operational dosimetry system and automatic generation of safety documents from intervention data.
+
+ 
+
+
+ 
+
+
+
+THPWA036
+Implementation and Commissioning of the New Electron Beam Test Facility (EBTF) at Daresbury Laboratory for Industrial Accelerator System
+3708
+
+
+ 
+
+P.A. McIntosh, D. Angal-Kalinin, R.K. Buckley, S.R. Buckley, J.A. Clarke, B.D. Fell, A.R. Goulden, C. Hill, F. Jackson, S.P. Jamison, J.K. Jones, A. Kalinin, B.P.M. Liggins, J.W. McKenzie, K.J. Middleman, B.L. Militsyn, T.C.Q. Noakes, Y.M. Saveliev, B.J.A. Shepherd, S.L. Smith, T.T. Thakker, A.E. Wheelhouse
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+N. Bliss, G. Cox, G.P. Diakun, A. Gleeson, L. Ma, B.G. Martlew, A.J. Moss, K. Robertson, M.D. Roper, R.J. Smith
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+The EBTF facility will provide enabling infrastructures targeted at the development and testing of novel and compact accelerator technologies, specifically through partnership with industry and aimed at addressing applications in medicine, health, security, energy and industrial processing. The facility has now been implemented at Daresbury Laboratory and the commissioning of the critical accelerator systems has been performed. The facility is now preparing for first exploitation with partnering industries that will be able to utilise the electron beam parameters available on EBTF to either demonstrate new techniques and/or processes or otherwise develop new technologies for future commercial realisation.
+
+ 
+
+
+ 
+
+
+
+THPWA037
+PIP: A Low Energy Recycling Non-scaling FFAG for Security and Medicine
+3711
+
+
+ 
+
+R.J. Barlow, T.R. Edgecock
+                       University of Huddersfield, Huddersfield, United Kingdom
+C. Johnstone
+                       Fermilab, Batavia, USA
+H.L. Owen
+                       UMAN, Manchester, United Kingdom
+S.L. Sheehy
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+PIP, the Producer of Interacting Protons, is a low energy (6-10 MeV) proton nsFFAG design that uses a simple 4-cell lattice. Low energy reactions involving the creation of specific nuclear states can be used for neutron production and for the manufacture of various medical isotopes. Unfortunately a beam rapidly loses energy in a target and falls below the resonant energy. A recycling ring with a thin internal target enables the particles that did not interact to be re-accelerated and used for subsequent cycles. The increase in emittance due to scattering in the target is partially countered by the re-acceleration, and accommodated by the large acceptance of the nsFFAG. The ring is essentially isochronous, the fields provide strong focussing so that losses are small, the components are simple, and it could be built at low cost with existing technology.
+
+ 
+
+
+ 
+
+
+
+THPWA038
+GEANT4 Studies of Magnets Activation in the HEBT Line for the  European Spallation Source
+3714
+
+
+ 
+
+C. Bungau, R.J. Barlow, A. Bungau, R. Cywinski, T.R. Edgecock
+                       University of Huddersfield, Huddersfield, United Kingdom
+P. Carlsson, H. Danared, F. Mezei
+                       ESS, Lund, Sweden
+A.I.S. Holm, S.P. Møller, H.D. Thomsen
+                       ISA, Aarhus, Denmark
+
+ 
+
+
+ 
+
+The High Energy Beam Transport (HEBT) line for the European Spallation Source is designed to transport the beam from the underground linac to the target at the surface level while keeping the beam losses small and providing the requested beam footprint and profile on the target. This paper presents activation studies of the magnets in the HEBT line due to backscattered neutrons from the target and beam interactions inside the collimators producing unstable isotopes.
+
+ 
+
+
+ 
+
+
+
+THPWA039
+GEANT4 Target Simulations for Low Energy Medical Applications
+3717
+
+
+ 
+
+N. Ratcliffe, R.J. Barlow, A. Bungau, C. Bungau, R. Cywinski
+                       University of Huddersfield, Huddersfield, United Kingdom
+
+ 
+
+
+ 
+
+The GEANT4 code offers an extensive set of hadronic models for various projectiles and energy ranges. These models include theoretical, parameterized and, for low energy neutrons, data driven models. Theoretical or semi-empirical models sometimes cannot reproduce experimental data at low energies(<100MeV), especially for low Z elements, and therefore recent GEANT4 developments included a new particle\hp package which uses evaluated nuclear databases for proton interactions below 200 MeV. These recent developments have been used to study target designs for low energy proton accelerators, as replacements of research reactors, for medical applications. Presented in this paper are results of benchmarking of these new models for a range of targets, from lithium neutron production targets to molybdenum isotope production targets, with experimental data. Also included is a discussion of the most promising target designs that have currently been studied.
+
+ 
+
+
+ 
+
+
+
+THPWA041
+Acceptance and Transmission Simulations of the FETS RFQ
+3720
+
+
+ 
+
+S. Jolly, R.T.P. D'Arcy
+                       UCL, London, United Kingdom
+A.P. Letchford
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+J.K. Pozimski
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+J.K. Pozimski
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+A 4m-long, 324MHz four-vane RFQ, consisting of four coupled sections, has been designed for the Front End Test Stand (FETS) at RAL in the UK. A novel design method, integrating the CAD and electromagnetic design of the RFQ with beam dynamics simulations, was used to optimise the design of the RFQ. With the design of the RFQ fixed, the focus has been on optimising the transmission of the RFQ at 3 MeV and matching the output of the FETS Low Energy Beam Transport (LEBT) to the RFQ acceptance. Extensive simulations have been carried out using General Particle Tracer (GPT) to map out the acceptance of the FETS RFQ for a 65 keV H− input beam. Particular attention has focussed on optimising the simulations to match the optimised output of the FETS Penning-type H− ion source. Results are presented of the transverse phase space limits on the RFQ input acceptance in both the zero current and full space charge regimes.
+
+ 
+
+
+ 
+
+
+
+THPWA042
+Investigation of Space Charge Compensation at FETS
+3723
+
+
+ 
+
+J.K. Pozimski, S.M.H. Alsari, P. Savage
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+D.C. Faircloth, A.P. Letchford
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+In order to contribute to the development of high power proton accelerators in the MW range, to prepare the way for an ISIS upgrade and to contribute to the UK design effort on neutrino factories, a front end test stand (FETS) is being constructed at the Rutherford Appleton Laboratory (RAL) in the UK. The aim of the FETS is to demonstrate the production of a 60 mA, 2 ms, 50 pps chopped beam at 3 MeV with sufficient beam quality. The ion source and LEBT are operational with the RFQ under manufacture. As a more detailed knowledge is of interest also for other projects like ESS and LINAC4 the FETS LEBT was updated to perform a detailed experimental analysis of space charge compensation utilizing a pulsed decompensation electrode together with a residual gas ion energy spectrometer and a fast emittance measurement device. In the FETS LEBT a high degree of space charge compensation (~90%) and a rise time of space charge compensation around ~ 50 μs could be concluded from measurements . In this paper the results of the experimental work will be presented together with discussion of the findings in respect to beam transport.
+
+ 
+
+
+ 
+
+
+
+THPWA043
+Production of the FETS RFQ
+3726
+
+
+ 
+
+P. Savage, M. Aslaninejad, J.K. Pozimski
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+M. Dudman, D.S. Wilsher
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+A. Garbayo
+                       AVS, Eibar, Gipuzkoa, Spain
+A.P. Letchford
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+The Front End Test Stand (FETS) project at RAL will use a 324 MHz 4-vane Radio Frequency Quadrupole (RFQ) to accelerate H− ions from 65keV to 3 MeV. This paper will report on the current status of the production of the FETS RFQ and will detail the manufacturing strategy used to produce the major and minor vanes. In addition the inspection results will be shown and the experiences from the assembly and alignment operations will be shared. Finally, the design of the bead-pull apparatus, end flanges, tuners and pick-ups required to measure the frequency and field-flatness of the assembled RFQ will be discussed.
+
+ 
+
+
+ 
+
+
+
+THPWA044
+R&D into Laser Applications for Accelerators
+3729
+
+
+ 
+
+C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Work supported by the EU under Grant Agreement 289191.
+Lasers can be used for the generation of high brightness electron and exotic ion beams, the acceleration of particles with the highest accelerating gradients, as well as for the characterization of many complex particle beams by means of laser-based beam diagnostics methods. In addition, (free electron) lasers can be used for achieving the highest time resolution and strongest fields for experiments in atomic physics, chemistry and biology, i.e. for studies into the dynamics of some of the most fundamental processes in nature. Without constant progress in laser technology and close collaboration between laser experts and accelerator scientists, many of today's most advanced experiments would simply be impossible. The LA3NET consortium combines developments into laser technology and sensors with their application at advanced accelerator facilities, providing complex beams ranging from highest brightness electron beams to high intensity proton beams. This contribution presents the consortium's broad, yet closely interconnected experimental program.
+
+ 
+
+
+ 
+
+
+
+THPWA045
+Accelerator R&D in the QUASAR Group
+3732
+
+
+ 
+
+C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Work supported by the STFC Cockcroft Institute Core Grant No. ST/G008248/1, HGF and GSI under contract VH-NG-328 and the EU under contracts 215080, 289181 and 289485.
+The QUASAR Group is a pan-European research group based at the Cockcroft Institute in the UK. It carries out R&D into methods to decelerate and store very low energy antiproton and exotic ion beams, beam diagnostics developments for medical accelerators, including imaging and dosimetry, as well as opto-electronics and laser applications. This contribution presents the latest results of the Group's studies into the USR/ELENA/AEgIS antimatter facilities, novel least destructive beam profile monitors for medical and industry applications, as well as laser applications for accelerators, includingμaccelerators and a laser velocimeter.
+
+ 
+
+
+ 
+
+
+
+THPWA046
+Accelerator Optimization within the oPAC Project
+3735
+
+
+ 
+
+C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Work supported by the EU under Grant Agreement 289485.
+Many of the today’s most advanced research infrastructures rely on the use of particle accelerators. This includes for example synchrotron light sources and FELs, high intensity hadron accelerators for the generation of exotic beams and spallation sources, as well as much smaller accelerator facilities for precision experiments and fundamental studies. Moreover, accelerators are very important for many commercial applications, such as for example medical applications, material studies and treatment, lithography, or security applications, such as scanners at airports or cargo stations. The full potential of any accelerator can only be exploited if the performance of all its parts are continuously optimized, if numerical tools are made available that allow for developing and improving advanced machine designs, if methods are developed in partnership between the academic and industry sectors to monitor beams with ever higher intensities and brightness, shorter pulse lengths or smaller dimensions. This contribution presents the R&D program of the oPAC project that optimizes existing and future accelerators.
+
+ 
+
+
+ 
+
+
+
+THPWA047
+GEM*STAR - New Nuclear Technology to Produce Inexpensive Diesel Fuel from Natural Gas and Carbon
+3738
+
+
+ 
+
+R.P. Johnson, F. Marhauser
+                       Muons. Inc., USA
+C. Bowman, R.B. Vogelaar
+                       ADNA, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+The 75,000 tons of US stored spent nuclear fuel (SNF) from conventional nuclear reactors is a resource that could provide 125 years of all US electrical power. Or it could also provide a great amount of process heat for many applications like producing green diesel fuel from natural gas and renewable carbon. An accelerator system like the SNS at ORNL can provide neutrons to convert SNF into fissile isotopes to provide high temperature heat using technology developed at the ORNL Molten Salt Reactor Experiment. In the GEM*STAR accelerator-driven subcritical reactor that we wish to build, the accelerator allows subcritical operation (no Chernobyls), the molten salt fuel allows volatiles to be continuously removed (no Fukushimas), and the SNF does not need to be enriched or reprocessed (to minimize weapons proliferation concerns). The molten salt fuel and the relaxed availability requirements of process heat applications imply that the required accelerator technology is available now. A new opportunity has arisen to use GEM*STAR to reduce the world’s inventory of weapons-grade plutonium leaving only remnants that are permanently unusable for nuclear weapons.
+* Charles D. Bowman et al., “GEM*STAR: The Alternative Reactor Technology Comprising Graphite, Molten Salt, and Accelerators,” Handbook of Nuclear Engineering, Springer (2010). 
+
+ 
+
+
+ 
+
+
+
+THPWA048
+New Generation X-band Linacs for Medical and Industrial Appplications
+3741
+
+
+ 
+
+A.V. Mishin, S. Proskin
+                       RMX, North Andover, USA
+
+ 
+
+
+ 
+
+The proposed designs of the new X-band linear accelerators for industrial and medical applications are based on a well-known side-coupled RF structure. The immediate applications envisioned for the new linear accelerators are security screening and intraoperative radiotherapy (IORT). The new design has promising features and presents cost reduction potential for electron beam and X-ray systems used in medical, industrial, and security screening applications.
+
+ 
+
+
+ 
+
+
+
+THPWA050
+Beam Conditioning System for Laser-driven Hadron Therapy
+3743
+
+
+ 
+
+K.E. Woods, S. Boucher, F.H. O'Shea
+                       RadiaBeam, Santa Monica, USA
+B.M. Hegelich
+                       The University of Texas at Austin, Austin, Texas, USA
+
+ 
+
+
+ 
+
+While the superior therapeutic efficacy of hadron therapy has been clearly demonstrated, its availability to cancer patients is limited by the cost and size of current systems. RadiaBeam Technologies, in collaboration with the UCLA Department of Radiation Oncology and the University of Texas at Austin, is proposing the utilization of innovative laser-driven ion acceleration (LDIA) technology for the development of a compact, inexpensive proton therapy system that can ultimately be adapted for the acceleration of carbon ions. At less than a third the price of the average proton therapy unit, the realization of this system would make hadron therapy a much more realistic option for hospitals and clinics worldwide. However, LDIA produces a beam with large divergence, wide energy spread with multiple ion species, and a significant background of electrons and X-rays. Thus, a major challenge for clinical implementation of LDIA is the development of a post-target beam conditioning system for collimation, focusing, energy selection, background shielding, and scanning. This paper will discuss the progress of our design of such a system and plans for future testing.
+
+ 
+
+
+ 
+
+
+
+THPWA051
+Compact, Inexpensive X-band Linacs as Radioactive Isotope Source Replacements
+3746
+
+
+ 
+
+S. Boucher, R.B. Agustsson, L. Faillace, J.J. Hartzell, A.Y. Murokh, A.V. Smirnov, S. Storms, K.E. Woods
+                       RadiaBeam, Santa Monica, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by DNDO Phase II SBIR HSHQDC-10-C-00148 and DOE Phase II SBIR DE- SC0000865.
+Radioisotope sources are commonly used in a variety of industrial and medical applications. The US National Research Council has identified as a priority the replacement of high-activity sources with alternative technologies, due to the risk of accidents and diversion by terrorists for use in Radiological Dispersal Devices (“dirty bombs”). RadiaBeam Technologies is developing novel, compact, inexpensive linear accelerators for use in a variety of such applications as cost-effective replacements. The technology is based on the MicroLinac (originally developed at SLAC), an X-band linear accelerator powered by an inexpensive and commonly available magnetron. Prototypes are currently under construction. This paper will describe the design, engineering, fabrication and testing of these linacs at RadiaBeam. Future development plans will also be discussed.
+
+ 
+
+
+ 
+
+
+
+THPWA052
+Proposal for a muSR Facility at BNL
+3749
+
+
+ 
+
+W. Fischer, J.G. Alessi, M. Blaskiewicz, K.A. Brown, C.J. Gardner, H. Huang, W.W. MacKay, P.H. Pile, D. Raparia, T. Roser
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. DOE under contract No DE-AC02-98CH10886 with the U.S. Department of Energy.
+By implanting positive muons in a substance (either gas, liquid or solid), their magnetic moments can be used to sample the magnetic properties of the material. The precession rate can give the magnetic field strength, and the field direction is given away after the muons decay into positrons that are detected. The information obtained from muSR can be complementary to that from other methods such as NMR, ESR, and neutron scattering. A low energy muon surface source is particularly interesting for studying thin films. To date, only four user facilities exist in the world but none in the US. We explore the possibility of using the AGS complex at BNL for a muSR facility for the production of positive surface muons.
+
+ 
+
+
+ 
+
+
+
+

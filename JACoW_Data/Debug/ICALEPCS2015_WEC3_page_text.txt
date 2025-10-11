@@ -1,0 +1,345 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: WEC3 (Timing and sync)
+
+
+WEC3 —  Timing and sync   (21-Oct-15   13:15—14:45)
+Chair: S. Perez, CEA, Arpajon, France
+
+
+Paper
+Title
+Page
+
+
+
+WEC3O01
+Trigger and RF Distribution Using White Rabbit
+619
+
+
+ 
+
+T. Włostowski, G. Daniluk, M.M. Lipinski, J. Serrano
+                       CERN, Geneva, Switzerland
+F. Vaga
+                       University of Pavia, Pavia, Italy
+
+ 
+
+
+ 
+
+White Rabbit is an extension of Ethernet which allows remote synchronization of nodes with jitters of around 10ps. The technology can be used for a variety of purposes. This paper presents a fixed-latency trigger distribution system for the study of instabilities in the LHC. Fixed latency is achieved by precisely time-stamping incoming triggers, notifying other nodes via an Ethernet broadcast containing these time stamps and having these nodes produce pulses at well-defined time offsets. The same system is used to distribute the 89us LHC revolution tick. This paper also describes current efforts for distributing multiple RF signals over a WR network, using a Distributed DDS paradigm.
+
+ 
+
+
+
+
+
+
+Slides WEC3O01 [1.465 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEC3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEC3O02
+The Phase-Locked Loop Algorithm of the Function Generation/Controller
+624
+
+
+ 
+
+M. Magrans de Abril, Q. King, R. Murillo-Garcia
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+This paper describes the phase-locked loop algorithms that are used by the real-time power converter controllers at CERN. The algorithms allow the recovery of the machine time and events received by an embedded controller through WorldFIP or Ethernet-based fieldbuses. During normal operation, the algorithm provides less than 10 μs of time precision and 0.5 μs of clock jitter for the WorldFIP case, and less than 2.5 μs of time precision and 40 ns of clock jitter for the Ethernet case.
+
+ 
+
+
+
+
+
+
+Slides WEC3O02 [1.459 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEC3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEC3O03
+Femtosecond Timing System Development in SSRF
+ 
+
+
+ 
+
+X.L. Dai, M. Liu, C.X. Yin, L.Y. Zhao
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: The project of femtosecond timing system was supported by the National Natural Science Foundation of China (No. 11305246).
+The current timing system in SSRF cannot satisfy the requirement of the pump-probe experiment in SSRF Phase-II project, so the femtosecond timing system was developed to realize 100fs jitter and 200fs phase drift in the long term. The femtosecond timing system is based on optical fiber networks and laser frequency stabilizing system. To achieve less than 100fs jitter, the narrow line-width Continues Wave (CW) laser is used to transmit RF signals in optical fiber networks. In order to achieve less than 200fs phase drift in the long term, the phase change in the optical fiber networks is detected by heterodyne interferometer and compensated by LLRF system to generate timing signals. The design and preliminary test result of femtosecond timing system is presented in this paper.
+
+ 
+
+
+
+
+
+
+Slides WEC3O03 [30.833 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEC3O04
+New Event Timing System for Damping Ring at SuperKEKB
+629
+
+
+ 
+
+H. Kaji, K. Furukawa, M. Iwasaki, T. Kobayashi, F. Miyahara, T.T. Nakamura, M. Satoh, M. Suetake, M. Tobiyama
+                       KEK, Ibaraki, Japan
+Y. Iitsuka
+                       EJIT, Hitachi, Ibaraki, Japan
+T. Kudou, S. Kusano
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+M. Liu, C.X. Yin
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+SuperKEKB is the upgrade of KEKB, which is the world's largest luminosity accelerator at KEK. One of key items to realize 40 times larger luminosity than that of KEKB is damping ring (DR) for positron injection. The injector linac (LINAC) once stores the produced positrons into DR and suppress their emittance. Then low emittance positrons are extracted from DR and injected into the main ring. For this complicated injection process, the Event Timing System* for LINAC** was upgraded and its soundness is demonstrated by injecting electrons into two light source rings***. New Event modules were also installed under the Event network for LINAC as the sub timing system for DR. New Event modules were developed which can be operated with the different Event clock from that of upstream modules. It solves the difference in RF frequency between LINAC (2856MHz) and DR (509MHz). This sub timing system can manage the triggers towards totally 84 BPMs at DR although it consists of only 5 Event modules. The timing of those triggers can be independently set in more precise than 100ps. The requirements to DR timing system and the newly developed modules with its configuration at DR are explained.
+*H. Kaji et al., THCOCA04, Proc. of ICALEPCS'13, San Francisco, CA.**H. Kaji et al., TUPRI109, Proc. of IPAC'14, Dresden, Germany.***Abstract submitted to IPAC'15.
+
+ 
+
+
+
+
+
+
+Slides WEC3O04 [1.500 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEC3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEC3O05
+Timing System for the HAPLS/L3 ELI Project
+633
+
+
+ 
+
+P. Camino, D. Monnier-Bourdin
+                       Greenfield Technology, Massy, France
+M.A. Drouin, J. Naylon
+                       ELI-BEAMS, Prague, Czech Republic
+C. Haefner, G.W. Johnson, S.J. Telford
+                       LLNL, Livermore, California, USA
+B. Rus
+                       Czech Republic Academy of Sciences, Institute of Physics, Prague, Czech Republic
+
+ 
+
+
+ 
+
+The High Repetition-Rate Advanced Petawatt Laser System (HAPLS) forms part of the European Union's Extreme Light Infrastructure Beamlines project (ELI-Beamlines) which will be the first international laser research infrastructure of its kind. HAPLS will generate peak powers greater than one petawatt at a repetition rate of 10 Hz with 30fs wide pulses. ELI will enable unprecedented techniques for many diverse areas of research. HAPLS requires a high-precision timing system that operates either independently or synchronized with ELI's system. Greenfield Technology, a producer of mature picosecond timing systems for several years, has been hired by LLNL* to provide just such a timing system. It consists of a central Master Timing Generator (MTG) that generates and transmits serial data streams over an optical network that synchronizes local multi-channel delay generators which generate trigger pulses to a resolution of 1ps. The MTG is phase-locked to an external 80 MHz reference that ensures a jitter of less than 10ps. The various qualities and functions of this timing system are presented including the LabVIEW interface and precision phase locking to the 80MHz reference.
+*LLNL is operated by Lawrence Livermore National Security, LLC, for the U.S. Department of Energy, National Nuclear Security Administration under Contract DE-AC52-07NA27344.
+
+ 
+
+
+
+
+
+
+Slides WEC3O05 [2.256 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEC3O05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEC3O06
+ERL Time Management System
+636
+
+
+ 
+
+P. K. Kankiya, T.A. Miller, B. Sheehy
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+The Energy Recovery LINAC (ERL) at BNL is an R&D project. A timing system was developed in conjunction with other available timing systems in order to operate and synchronize instruments at the ERL. This paper describes the time management software which is responsible for automating the delay configuration based on beam power and instrument limitations, for maintaining beam operational parameters, and respond to machine protection system.
+
+ 
+
+
+
+
+
+
+Slides WEC3O06 [4.239 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEC3O06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

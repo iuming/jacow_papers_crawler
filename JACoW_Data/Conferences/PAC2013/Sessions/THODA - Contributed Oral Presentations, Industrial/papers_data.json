@@ -1,0 +1,68 @@
+{
+  "session_info": {
+    "id": "THODA",
+    "name": "THODA - Contributed Oral Presentations, Industrial Accelerators and Applications",
+    "url": "https://proceedings.jacow.org/PAC2013/html/thoda.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THODA1",
+      "title": "Low Energy Fusion for a Safe and Compact Neutron Source",
+      "authors": [
+        "S.C.P. Albright",
+        "R. Seviour",
+        "University of Huddersfield",
+        "Huddersfield",
+        "United Kingdom",
+        "Lund University",
+        "Lund",
+        "Sweden",
+        "Neutrons are primarily produced at large international facilities using either spallation reactions or nuclear fission. There is a demand for small scale neutron production for use at hospitals and borders for a variety of applications. Isolated fission sources and sealed tube deuterium-tritium fusors are able to provide a reliable neutron flux at small scale but are impractical due to the associated radioactivity. A beam of protons or deuterons accelerated onto a thin target will undergo a fusion reaction resulting in the emission of a quasi-monochromatic neutron beam. The total flux and energy spectrum of the neutrons produced through fusion is primarily dependent on target material",
+        "target thickness",
+        "beam energy and projectile. The use of neutrons for security screening at border crossings",
+        "ports and airports has the potential to drastically improve threat detection and contents verification. Monte Carlo code MCNPX is being used to investigate the most suitable target and beam characteristics for a neutron source for security applications."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/thoda1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/thoda1.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/thoda1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-THODA1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THODA2",
+      "title": "Accelerator-based Neutron Damage Facility Using LEDA",
+      "authors": [
+        "N. Pogue",
+        "S. Assadi",
+        "P.M. McIntyre",
+        "A. Sattarov",
+        "P.V. Tsvetkov",
+        "Texas A&M University",
+        "College Station",
+        "Texas",
+        "USA",
+        "An accelerator based neutron damage facility (AND) is proposed to generate a high-dose fast neutron flux for testing of advanced reactor materials. The facility will be implemented in two stages. In AND-1",
+        "the 350 MHz LEDA RFQ will be re-commissioned to deliver 100 mA CW proton beam at 6.5 MeV. The beam will be targeted on a sheet-flow Li target to produce fast neurons. Samples located at a target station behind the sheet flow will receive up to 10 dpa/year of neutron damage with a mean neutron energy of 1.75 MeV. In AND-2",
+        "the LEDA beam will be modulated and passed through a spectrometer to produce three 117 MHz bunch trains",
+        "and two of them will be injected to two 100 MeV strong-focusing cyclotrons (SFC). The beams extracted from the two cyclotrons will be targeted in opposite directions onto sheet-flow Pb targets. Samples located in the space between the two targets will receive ~140 dpa/year of fast neutron damage with mean neutron energy ~10 MeV. AND-1 and AND-2 will provide the fast neutron flux needed for life-cycle damage studies for advance reactor technologies and for first-wall simulations for fusion systems."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/thoda2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/thoda2.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/thoda2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-THODA2",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 01:52:11"
+}

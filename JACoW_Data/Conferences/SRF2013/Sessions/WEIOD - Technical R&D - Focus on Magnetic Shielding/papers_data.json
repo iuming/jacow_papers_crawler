@@ -1,0 +1,68 @@
+{
+  "session_info": {
+    "id": "WEIOD",
+    "name": "WEIOD - Technical R&D - Focus on Magnetic Shielding",
+    "url": "https://proceedings.jacow.org/SRF2013/html/weiod.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEIOD01",
+      "title": "Review of  Magnetic Shielding Designs of  Low-Beta Cryomodules",
+      "authors": [
+        "TRIUMF",
+        "Canada's National Laboratory for Particle and Nuclear Physics",
+        "Vancouver",
+        "Canada",
+        "It is well known that superconducting cavities can trap magnetic flux while cooling through transition. The trapped flux adds to the residual rf surface resistance. For this reason magnetic shielding is added to the cryomodules to shield the cavities from the environmental magnetic field. The low beta portion of many superconducting hadron linear accelerators",
+        "either in operation or in production",
+        "includes cryomodules containing one or more high field superconducting solenoids. The operation of a high field solenoid in close proximity to a cavity adds a level of complexity to the cryomodule design considerations. The paper will summarize the various techniques that can be employed to reduce the risk of magnetic pollution from internal solenoids."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SRF2013/talks/weiod01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SRF2013/papers/weiod01.pdf",
+      "poster_url": "https://proceedings.jacow.org/SRF2013/posters/weiod01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2013-WEIOD01",
+      "page_number": "800",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIOD02",
+      "title": "Magnetic Shielding: Our Experience with Various Shielding Materials",
+      "authors": [
+        "M. Masuzawa",
+        "A. Terashima",
+        "K. Tsuchiya",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "A. Daël",
+        "O. Napoly",
+        "J. Plouin",
+        "CEA/DSM/IRFU",
+        "France",
+        "Magnetic shielding is a key technology for superconducting RF cavities. The tolerance of the ambient magnetic field depends on factors such as the operating RF frequency and acceleration gradient",
+        "but it can be as small as a few mG. Some high-Ni-content alloys",
+        "such as Cryperm 10 or Cryophy",
+        "which are claimed to maintain high permeability at cryogenic temperatures where superconducting cavities are operated",
+        "are commercially available at present and are used for magnetic shielding of superconducting cavities at many laboratories. Permeability measurements were made in order to understand the characteristics of such materials at both room and cryogenic temperatures",
+        "and the results will be used as a database for designing magnetic shields. It was found that the catalog performance of such materials was not always reproduced in the measurements. Some degradation was observed which depended on how the material was handled. The results of investigation into possible causes for the performance degradation of the shielding material at cryogenic temperature will be presented",
+        "along with permeability measurement results for various materials at different temperatures."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SRF2013/talks/weiod02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SRF2013/papers/weiod02.pdf",
+      "poster_url": "https://proceedings.jacow.org/SRF2013/posters/weiod02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2013-WEIOD02",
+      "page_number": "808",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 04:16:25"
+}

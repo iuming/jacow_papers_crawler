@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: THCOBB (Control Systems Upgrades)
+
+
+THCOBB —  Control Systems Upgrades   (10-Oct-13   15:00—16:30)
+Chair: L.J. Lagin, LLNL, Livermore, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+THCOBB01
+An Upgraded ATLAS Central Trigger for 2015 LHC Luminosities
+1388
+
+
+ 
+
+C. Ohm
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHC collides protons at a rate of ~40MHz and each collision produces ~1.5MB of data from the ATLAS detector (~60TB of data per second). The ATLAS trigger system reduces the input rate to a more reasonable storage rate of about 400Hz. The Level1 trigger reduces the input rate to ~100kHz with a decision latency of ~2.5us and is responsible for initiating the readout of data from all the ATLAS subdetectors. It is primarily composed of the Calorimeter Trigger, Muon Trigger, and the Central Trigger Processor (CTP). The CTP collects trigger information from all Level1 systems and produces the Level-­-1 trigger decision. The LHC has now shutdown for upgrades and will return in 2015 with an increased luminosity and a center of mass energy of 14TeV. With higher luminosities, the number and complexity of Level1 triggers will increase in order to satisfy the physics goals of ATLAS while keeping the total Level1 rates at or below 100kHz. In this talk we will discuss the current Central Trigger Processor, the justification for its upgrade, including the plans to satisfy the requirements of the 2015 physics run at the LHC.
+The abstract is submitted on behalf of the ATLAS Collaboration. The name of the presenter will be chosen by the collaboration and communicated upon acceptance of the abstract.
+
+ 
+
+
+
+
+
+
+Slides THCOBB01 [10.206 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBB02
+Recent Hardware and Software Achievements for the European XFEL
+ 
+
+
+ 
+
+K. Rehlich
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL will deliver photon beams to several users in parallel. In the first phase 5 beam lines for experiments are foreseen. A complex bunch distribution and protection system was developed to handle a huge number of bunches. Furthermore, high performance hardware based on MicroTCA together with efficient software to cope with the data rates, have been demonstrated at FLASH. FLASH operates since many years as a FEL with wavelengths down to 4nm. It is an ideal testbed for new hardware and software to be used later in the XFEL. This paper describes the architecture of the layered system with FPGA feedbacks, synchronized front-end hardware / software and data processing up to slow feedbacks running on central servers.
+
+ 
+
+
+
+
+
+
+Slides THCOBB02 [2.544 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBB03
+Automating Control of the Beams for the NASA Space Radiation Laboratory
+1392
+
+
+ 
+
+K.A. Brown, S. Binello, M.R. Costanzo, T. D'Ottavio, J.P. Jamilkowski, J. Morris, S. Nemesure, R.H. Olsen, C. Theisen
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The NASA Space Radiation Laboratory (NSRL) at BNL uses many different beams to do experiments associated with evaluating the possible risks to astronauts in space environments. This facility became operational in 2003 and operates from the AGS Booster synchrotron. In order to simulate the space radiation environment some of these experiments need to make use of beams of various energies. To simulate solar flare events, we implemented the Solar Particle Simulator in 2005. This system put in modifications to the accelerator controls to allow beam energies to be changed automatically, enabling target samples to be irradiated with many energies of the same type of ion, without having to make use of degraders. To simulate Galactic Cosmic events, they need to also be able to automatically change the ions used to irradiate a single sample. This project aims to allow NSRL to change ions as well as beam energies within a very short period of time. To do this requires modifications to existing controls as well as building new controls for a laser ion source. In this paper we describe NSRL, our plans to implement the Galactic Cosmic Event Simulator, and the status of the laser ion source.
+
+ 
+
+
+
+
+
+
+Slides THCOBB03 [4.853 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBB04
+Overview of the ELSA Accelerator Control System
+1396
+
+
+ 
+
+D. Proft, F. Frommberger, W. Hillert
+                       ELSA, Bonn, Germany
+
+ 
+
+
+ 
+
+The Electron Stretcher Facility ELSA provides a beam of polarized electrons with a maximum energy of 3.2 GeV for hadron physics experiments. The in-house developed control system has continuously been improved during the last 15 years of operation. Its top layer consists of a distributed shared memory database and several core applications which are running on a linux host. The interconnectivity to hardware devices is built up with a second layer of the control system operating on PCs and VMEs. High level applications are integrated into the control system using C and C++ libraries. An event based messaging system notifies attached applications about parameter updates in near real-time. The overall system structure and specific implementation details of the control system will be presented.
+
+ 
+
+
+
+
+
+
+Slides THCOBB04 [0.527 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBB05
+Switching Solution – Upgrading a Running System
+1400
+
+
+ 
+
+K.T. Tsubota, J.M. Johnson, J.A. Mader
+                       W.M. Keck Observatory, Kamuela, USA
+
+ 
+
+
+ 
+
+At Keck Observatory, we are upgrading our existing operational telescope control system and must do it with as little operational impact as possible. This paper describes our current integrated system and how we plan to create a more distributed system and deploy it subsystem by subsystem. This will be done by systematically extracting the existing subsystem then replacing it with the new upgraded distributed subsystem maintaining backwards compatibility as much as possible to ensure a seamless transition. We will also describe a combination of cabling solutions, design choices and a hardware switching solution we’ve designed to allow us to seamlessly switch signals back and forth between the current and new systems.
+
+ 
+
+
+
+
+
+
+Slides THCOBB05 [1.482 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBB06
+CLIC-ACM: Acquisition and Control System
+1404
+
+
+ 
+
+B.P. Bielawski, F. Locci, S. Magnoni
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+CLIC (Compact Linear Collider) is a world-wide collaboration to study the next “terascale” lepton collider, relying upon a very innovative concept of two-beam-acceleration. In this scheme, the power is transported to the main accelerating structures by a primary electron beam. The Two Beam Module (TBM) is a compact integration with a high filling factor of all components: RF, Magnets, Instrumentation, Vacuum, Alignment and Stabilization. This paper describes the very challenging aspects of designing the compact system to serve as a dedicated Acquisition & Control Module (ACM) for all signals of the TBM. Very delicate conditions must be considered, in particular radiation doses that could reach several kGy in the tunnel. In such severe conditions shielding and hardened electronics will have to be taken into consideration. In addition, with more than 300 channels per ACM and about 21000 ACMs in total, it appears clearly that power consumption will be an important issue. It is also obvious that digitalization of the signals acquisition will take place at the lowest possible hardware level and that neither the local processor, nor the operating system shall be used inside the ACM.
+
+ 
+
+
+
+
+
+
+Slides THCOBB06 [0.846 MB]
+            
+ 
+
+
+
+
+
+
+Poster THCOBB06 [0.747 MB]
+            
+ 
+
+
+ 
+
+
+
+

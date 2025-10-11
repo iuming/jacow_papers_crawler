@@ -1,0 +1,393 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: TUC3 (Personal safety and machine protection)
+
+
+TUC3 —  Personal safety and machine protection   (20-Oct-15   13:00—15:00)
+Chair: M.T. Heron, DLS, Oxfordshire, United Kingdom
+
+
+Paper
+Title
+Page
+
+
+
+TUC3I01
+Machine Protection and Interlock System for Large Research Instruments
+537
+
+
+ 
+
+R. Schmidt
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Major research instruments such as accelerators and fusion reactors operate with large amount of power and energy stored in beams and superconducting magnets. Highly reliable Machine Protection systems are required to operate such instruments without damaging equipment in case of failure. The increased interest in protection is related to the increasing beam power of high-power proton accelerators such as ISIS, SNS, ESS and the PSI cyclotron, to the large energy stored in the beam (in particular for hadron colliders such as LHC) and to the stored energy in magnet systems such as for ITER and LHC. Machine Protection includes process and equipment monitoring, a system to safely stop operation (e.g. dumping the beam or extracting the energy stored in the magnets) and an interlock system for highly reliable communication between protection systems. Depending on the application, the reaction of the protection function to failures must be very fast (for beam protection systems down to some us). In this paper an overview of the challenges for protection is given, and examples of interlock systems and their use during operation are presented.
+
+ 
+
+
+
+
+
+
+Slides TUC3I01 [1.887 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUC3I01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUC3O02
+Design, Implementation and Setup of the Fast Protection System for CSNS
+543
+
+
+ 
+
+D.P. Jin, Y.L. Zhang, P. Zhu
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Design, implementation and setup of a FPGA and RocketIO based FPS(Fast Protection System) for CSNS(China Spallation Neutron Source) is introduced. This system is a compact design with high speed serial transmission techniques. RocketIOs (or MGTs) and optical transceivers are used to transmit the interlock signals, with each link to carry 16 signals. Ground loop problems are avoided since the use of fibers. Dedicated firmware is developed for the auto-working of the serial links when both fibers are plugged in under power-on state. A real-time online heart-beat function is also implemented for each interlock signal to make sure the overall safety of the system. The whole system is under installation and will be put into use soon part by part according to the progress of the civil construction and equipment installation.
+
+ 
+
+
+
+
+
+
+Slides TUC3O02 [3.493 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUC3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUC3O03
+Development and Realisation of the ESS Machine Protection Concept
+545
+
+
+ 
+
+A. Nordt, R. Andersson, T. Korhonen, A. Monera Martinez, M. Zaera-Sanz
+                       ESS, Lund, Sweden
+A. Apollonio, R. Schmidt
+                       CERN, Geneva, Switzerland
+C. Hilbes
+                       ZHAW, Winterthur, Switzerland
+
+ 
+
+
+ 
+
+ESS is facing extremely high beam availability requirements and is largely relying on custom made, very specialised, and expensive equipment for its operation. The proton beam power with an average of 5MW per pulse will be unprecedented and its uncontrolled release can lead to serious damage of the delicate equipment, causing long shutdown periods, inducing high financial losses and, as a main point, interfering drastically with international scientific research programs relying on ESS operation. Implementing a fit-for-purpose machine protection concept is one of the key challenges in order to mitigate these risks. The development and realisation of the measures needed to implement such concept to the correct level in case of a complex facility like the ESS, requires a systematic approach, and will be discussed in this paper.
+
+ 
+
+
+
+
+
+
+Slides TUC3O03 [11.931 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUC3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUC3O04
+Reusable Patient Safety System Framework for the Proton Therapy Centre at PSI
+549
+
+
+ 
+
+P. Fernandez Carmona, M. Eichin, M. Grossmann, E. Johansen, A. Mayor, H.A. Regele
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+A new gantry for cancer treatment is being installed at the Proton Therapy Centre in the Paul Scherrer Institut (PSI), where already two gantries and a fixed line operate. A protection system is required to ensure the safety of patients, requiring stricter redundancy, verification and quality assurance (QA) measures than other accelerators. It supervises the Therapy System, sensors, monitors and operator interface and can actuate magnets and beam blockers. We built a reusable framework to increase the maintainability of the system using the commercial IFC1210 VME controller, developed for other PSI facilities. It features a FPGA implementing all the safety logic and two processors, one dedicated to debugging and the other to integrating in the facility's EPICS environment. The framework permitted us to reduce the design and test time by an estimated 40% thanks to a modular approach. It will also allow a future renovation of other areas with minimum effort. Additionally it provides built-in diagnostics such as time measurement statistics, interlock analysis and internal visibility. The automation of several tasks reduces the burden of QA in an environment with tight time constraints.
+
+ 
+
+
+
+
+
+
+Slides TUC3O04 [10.390 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUC3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUC3O05
+NSLS-II Active Interlock System for Fast Machine Protection
+554
+
+
+ 
+
+K. Ha, W.X. Cheng, L.R. Dalesio, J.H. De Long, Y. Hu, P. Ilinski, J. Mead, D. Padrazo, S. Seletskiy, O. Singh, R.M. Smith, Y. Tian
+                       BNL, Upton, Long Island, New York, USA
+G. Shen
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by DOE contract No: DE-AC02-98CD10886
+At National Synchrotron Light Source-II (NSLS-II), a field-programmable gate array (FPGA) based global active interlock system (AIS) has been commissioned and used for beam operations. The main propose of AIS is to protect insertion devices (ID) and vacuum chambers from the thermal damage of high density synchrotron radiation power. This report describes the status of AIS hardware, software architectures and operation experience.
+
+ 
+
+
+
+
+
+
+Slides TUC3O05 [21.152 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUC3O05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUC3O06
+Machine Protection System for the KOMAC 100-MeV Proton Linac
+558
+
+
+ 
+
+Y.G. Song, Y.-S. Cho, D.I. Kim, H.S. Kim, H.-J. Kwon, K.T. Seol, S.P. Yun
+                       KAERI, Daejon, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work has been supported through KOMAC operation fund of KAERI by MSIP(Ministry of Science, ICT and Future Planning)
+A Machine Protection System (MPS) is one of the important systems for the 100-MeV proton linear accelerator of the Korea Multi-purpose Accelerator Complex (KOMAC). The MPS is required to protect the very sensitive and essential equipment during machine operation. The purpose of the MPS is to shut off the beam when the Radio-Frequency (RF) and ion source are unstable or a beam loss monitor detects high activation. The MPS includes a variety of sources, such as beam loss, RF and high voltage converter modulator faults, fast closing valves for vacuum window leaks at the beam lines and so on. The MPS consists of a hard-wired protection for fast interlocks and a soft-wired protection for slow interlock. The hardware-based MPS has been fabricated, and the requirement has been satisfied with the results within 3 μs. The Experimental Physics and Industrial Control System (EPICS) control system has been also designed to monitor and control the MPS using a Programmable Logic Controller (PLC). This paper describes the design and implementation of the MPS for the 100-MeV proton linear accelerator of the Korea Multi-purpose Accelerator Complex (KOMAC).
+
+ 
+
+
+
+
+
+
+Slides TUC3O06 [12.870 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUC3O06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUC3O07
+Safety Integrity Level (SIL) Verification for SLAC Radiation Safety Systems
+561
+
+
+ 
+
+F. Tao, E. Carrone, J.M. Murphy, K.T. Turner
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+SIL is a key concept in functional safety standards: it is a performance measure on how reliable is a safety system performing a particular safety function. In the system design stage, SIL verification must be performed to prove that the SIL achieved meets/exceeds the SIL assigned during risk assessment, to comply with standards. Unlike industrial applications, where safety systems are usually composed of certified devices or devices with long usage history, safety systems in large physics laboratories are less standardized and more complex in terms of system architecture and devices used. In addition, custom designed electronics are often employed, with limited reliability information. Verifying SIL for these systems requires in-depth knowledge of reliability evaluation. In this paper, it is demonstrated how to determine SIL using SLAC radiation safety systems (Personnel Protection System (PPS) and Beam Containment System (BCS)) as examples. PPS utilizes commercial safety rated devices, while BCS also contains customized electronics. Choice of standards, methods of evaluation, reliability data gathering process (both from industry and from hardware development) are also discussed.
+
+ 
+
+
+
+
+
+
+Slides TUC3O07 [1.758 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUC3O07
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

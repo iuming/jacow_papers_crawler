@@ -1,0 +1,1227 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINAC2022 - Table of Session: TUPORI (Poster Session)
+
+
+TUPORI —  Poster Session   (30-Aug-22   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPORI02
+New Injection Beamline for TRIUMF Cyclotron
+545
+
+
+ 
+
+M. Marchetto, R.A. Baartman, Y. Bylinskii, P.E. Dirksen, M. Ilagan, P.M. Jung, O. Lawpresenter, R.E. Laxdal, S. Saminathan, V.A. Verzilov, V. Zvyagintsev
+                       TRIUMF, Vancouver, Canada
+B. Dos Remedios
+                       UBC & TRIUMF, Vancouver, British Columbia, Canada
+
+ 
+
+
+ 
+
+The TRIUMF Ion Source and Injection System (ISIS) beamline is used to transport the 300 keV H− beam from the ion source to the injection into the 500 MeV cyclotron. The vertical section of the beamline, upgraded in 2011, is very robust and reliable, while the horizontal section, now 50 years old, is very demanding in maintenance, and presents a high risk of downtime due to aging. The horizontal beamline is being re-designed with well proven optical concepts, and modern UHV technologies already used in the vertical section, and in the ARIEL RIB transport system; this will produce a more efficient system, easier to maintain and tune. The beamline will use electrostatic optical modules like matching, periodic, and 90-degree achromatic bend sections; updated elements include bunchers, a high-energy pulser, a 5:1 selector, and a new set of diagnostics. A crucial aspect of the new beamline is a magnetic shield, to compensate the cyclotron stray field, comprised of a mu-metal in-vacuum liner allowing HV feedthroughs and diagnostics insertion without breaking the shield continuity. The new injection beamline will be controlled via EPICS. The paper will present the status of the project.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI02
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 30 August 2022 — Accepted ※ 03 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI03
+Model Coupled Accelerator Tuning With an Envelope Code
+549
+
+
+SUPCRI05
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+O. Shelbaya, R.A. Baartman, O.K. Kester, S. Kiy, S.D. Rädel
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+Funding: National Research Council Canada
+Frequent linac re-tuning is needed at TRIUMF-ISAC for the delivery of rare isotope beams at a variety of mass-to-charge ratios and beam energies. This operation is of appreciable complexity due to the nature of the accelerator, consisting of a separated function, variable output energy DTL paired with an RFQ. Reference tunes, computed from a variety of beam and accelerator simulation codes, are scaled according to the beam properties, though changing beam parameters at the sources requires manual tuning of matching section quadrupoles. Using an end-to-end envelope model of the machine in the code TRANSOPTR, these tunes can now be rapidly computed, and using beam diagnostic inputs to reconstruct the beam matrix, the model can be used to dynamically re-optimize the machine tune on-line.
+
+ 
+
+
+
+
+
+
+Poster TUPORI03 [1.257 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI03
+
+ 
+
+
+About •
+Received ※ 13 August 2022 — Revised ※ 23 August 2022 — Accepted ※ 30 August 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI04
+Cavity Failure Compensation Strategies in Superconducting Linacs
+552
+
+
+ 
+
+A. Plaçais, F. Bouly
+                       LPSC, Grenoble Cedex, France
+
+ 
+
+
+ 
+
+RF cavities in linear accelerators are subject to failure, preventing the beam from reaching it’s nominal energy. This is particularly problematic for Accelerator Driven Systems (ADS), where the thermal fluctuations of the spallation target must be avoided and every fault shall be rapidly compensated for. In this study we present LightWin. This tool under development aims to create a database of the possible cavity failures and their associated compensation settings for a given accelerator. We apply it on the MYRRHA ADS, with a scenario including various faults distributed along the accelerator, and compare the settings found by LightWin to those found by the code TraceWin. We show that both tools find different compensation settings. We also outline the limitations of LightWin and explain the upcoming improvements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI04
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 20 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 11 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI05
+Beam Dynamic Simulations for the DTL Section of the High Brilliance Neutron Source
+556
+
+
+SUPCRI09
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S. Lamprecht, M. Droba, K. Kümpel, O. Meusel, N.F. Petry, H. Podlech, M. Schwarz, C. Zhang
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+As various experimental reactors in Europe are already or will be decommissioned over the next years, new neutron sources will be necessary to meet the demand for neutrons in research and development. The High Brilliance Neutron Source is an accelerator driven neutron source planned at the Forschungszentrum Jülich. The accelerator will accelerate a proton beam of 100 mA up to an end energy of 70 MeV, using 45 normal conducting CH-type cavities. Due to the high beam current, the beam dynamics concept requires special care. In this paper, the current status of the beam dynamics for the drift tube linac is presented.
+
+ 
+
+
+
+
+
+
+Poster TUPORI05 [0.917 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI05
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 24 August 2022 — Accepted ※ 31 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI06
+Harmonic Bunch Formation and Optional RFQ Injection
+559
+
+
+SUPCPA08
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+E. Sunar, U. Ratzinger, M. Syha, R. Tiede
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+With the aim of reduced beam emittances, a pre-bunching concept into an RFQ or a DTL has been developed. The structure has been designed by using a two harmonics double drift buncher which consists of two bunchers: the first one is driven by a fundamental frequency whereas the other is ex- cited with the second harmonic including a drift in between. This well-known "Harmonic Double-Drift-Buncher" is rein- vestigated under space charge conditions for RFQ, cyclotron, and for direct DTL-injection. There are significant benefits for this design such as to catch as many particles as possible from a dc beam into the longitudinal linac acceptance, or to reduce/optimize by up to an order of magnitude the lon- gitudinal emittance for low and medium beam currents. In accordance to these advantages, a new multi-particle track- ing beam dynamics code has been developed which is called "Bunch Creation from a DC beam - BCDC". In this paper we present this new code and some stimulating examples.
+
+ 
+
+
+
+
+
+
+Poster TUPORI06 [28.234 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI06
+
+ 
+
+
+About •
+Received ※ 14 August 2022 — Revised ※ 24 August 2022 — Accepted ※ 31 August 2022 — Issue date ※ 05 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI08
+End-to-End Simulations and Error Studies of the J-PARC Muon Linac
+562
+
+
+ 
+
+Y. Takeuchi, J. Tojo, T. Yamanaka
+                       Kyushu University, Fukuoka, Japan
+E. Cicek, H. Ego, K. Futatsukawa, N. Kawamura, T. Mibe, M. Otani, N. Saito, T. Yamazaki
+                       KEK, Ibaraki, Japan
+H. Iinuma, Y. Nakazawapresenter
+                       Ibaraki University, Ibaraki, Japan
+Y. Iwashita
+                       Kyoto University, Research Reactor Institute, Osaka, Japan
+R. Kitamura, Y. Kondo, T. Morishita
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+Y. Sato
+                       Niigata University, Niigata, Japan
+Y. Sue, K. Sumi, M. Yotsuzuka
+                       Nagoya University, Graduate School of Science, Chikusa-ku, Nagoya, Japan
+H.Y. Yasuda
+                       University of Tokyo, Tokyo, Japan
+
+ 
+
+
+ 
+
+A muon linac is under development for future muon ’’’ 2/EDM experiments at J-PARC. The linac provides a 212 MeV muon beam to an MRI-type compact storage ring. Af- ter the initial acceleration using the electrostatic field created by mesh and cylindrical electrodes, the muons are acceler- ated using four types of radio-frequency accelerators. To validate the linac design as a whole, end-to-end simulations were performed using General Particle Tracer. In addition, error studies is ongoing to investigate the effects on beam and spin dynamics of various errors in the accelerator com- ponents and input beam distribution. This paper describes the preliminary results of the end-to-end simulations and error studies.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI08
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 25 August 2022 — Accepted ※ 31 August 2022 — Issue date ※ 12 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI12
+Beam Dynamics for the MAX IV Transverse Deflecting Cavity Beamline
+565
+
+
+ 
+
+N. Blaskovic Kraljevic, L. Isaksson, E. Mansten, S. Thorin
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+The MAX IV 3 GeV linac delivers electron beams to two synchrotron rings and to a dedicated undulator system for X-ray beam delivery in the Short Pulse Facility (SPF). In addition, there are plans to use the linac as an injector for a future Soft X-ray Laser (SXL). For both SPF and SXL operations, longitudinal beam characterisation with a high temporal resolution is essential. For this purpose, a transverse deflecting cavity (TDC) system has been developed and is being installed in a dedicated electron beamline branch located downstream of the 3 GeV linac. This beamline consists of two consecutive 3 m long transverse S-band RF structures, followed by a variable vertical deflector dipole magnet used as an energy spectrometer. This conference contribution presents the beam dynamics calculations for the beam transport along the TDC beamline, and in particular the optics configurations for slice emittance and slice energy spread measurements. The operation of an analysis algorithm for use in the control room is discussed. The aim is to provide 1 fs temporal measurement resolution to access the bunch duration of highly compressed bunches and slice parameters for sub-10-fs bunches.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI12
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 25 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI13
+Beam Loading Simulation for Relativistic and Ultrarelativistic Beams in the Tracking Code RF-Track
+569
+
+
+ 
+
+J. Olivares Herrador, A. Latinapresenter
+                       CERN, Meyrin, Switzerland
+D. Esperante Pereira, N. Fuster, B. Gimeno
+                       IFIC, Valencia, Spain
+B. Gimeno
+                       UVEG, Burjasot (Valencia), Spain
+
+ 
+
+
+ 
+
+Medical and industrial electron linacs can benefit from the X-band accelerating technology developed for the Compact Linear Collider (CLIC) at CERN. However, when high-intensity beams are injected in such high-gradient structures (>35 MV/m), the beam loading effect must be considered by design since this beam-cavity interaction can result in a considerable gradient reduction with respect to the unloaded case. Studying energy conservation, a partial differential equation (PDE) has been derived for injected beams, in both the relativistic and ultrarelativistic limit. Making use of this, a specific simulation package within RF-track has been developed, allowing realistic tracking of charged particle bunches under this effect regardless of their initial velocity. The performance of such tool has been assessed by reproducing previously obtained beam loaded fields in CLIC main linac and CLIC Drive-Beam linac structures. In this paper we present the analytic PDE derivation and the results of the tests.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI13
+
+ 
+
+
+About •
+Received ※ 18 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 02 September 2022 — Issue date ※ 07 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI14
+A Start-to-End Optimisation Strategy for the CompactLight Accelerator Beamline
+573
+
+
+ 
+
+Y. Zhao, A. Latinapresenter
+                       CERN, Meyrin, Switzerland
+A. Aksoy
+                       Ankara University, Accelerator Technologies Institute, Golbasi, Turkey
+H.M. Castañeda Cortés, D.J. Dunning, N. Thompson
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+The CompactLight collaboration designed a compact and cost-effective hard X-ray FEL facility, complemented by a soft X-ray option, based on X-band acceleration, capable of operating at 1 kHz pulse repetition rate. In this paper, we present a new simple start-to-end optimisation strategy that is developed for the CompactLight accelerator beamline, focusing on the hard X-ray mode. The optimisation is divided into two steps. The first step improves the electron beam quality that finally leads to a better FEL performance by optimising the major parameters of the beamline. The second step provides matched twiss parameters for the FEL undulator by tuning the matching quadrupoles at the end of the accelerator beamline. A single objective optimisation method, with different objective functions, is used to optimise the performance. The sensitivity of the results to jitters is also minimised by including their effects in the final objective function.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI14
+
+ 
+
+
+About •
+Received ※ 15 August 2022 — Revised ※ 31 August 2022 — Accepted ※ 31 August 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI16
+The PSI Positron Production Project
+577
+
+
+SUPCJO09
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+N. Vallis, B. Auchmann, P. Craievich, M. Duda, H. Garcia Rodrigues, J. Kosse, F. Marcellini, M. Schaer, R. Zennaro
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Funding: CHART (Swiss Accelerator Research and Technology)
+The PSI Positron Production project (P3 or P-cubed) is a demonstrator for a novel positron source for FCC-ee. The high current requirements of future colliders can be compromised by the extremely high positron emittance at the production target and consequent poor capture and transport to the damping ring. However, recent advances in high-temperature superconductors allow for a highly efficient matching of such an emittance through the use a solenoid around the target delivering a field over 10 T on-axis. Moreover, the emittance of the matched positron beam can be contained through large aperture RF cavities surrounded by a multi-Tesla field generated by conventional superconducting solenoids, where simulations estimate a yield higher by one order of magnitude with respect to the state-of-the-art. The goal of P3 is to demonstrate this basic principle by implementing the aforementioned solenoids into a prototype positron source based on a 6 GeV electron beam from the SwissFEL linac, two RF capture cavities and a beam diagnostics section.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI16
+
+ 
+
+
+About •
+Received ※ 15 August 2022 — Revised ※ 24 August 2022 — Accepted ※ 02 September 2022 — Issue date ※ 09 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI17
+Emittance Measurement from the Proton Testbeam at KAHVELab
+581
+
+
+SUPCPA09
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D. Halis
+                       YTU, Istanbul, Turkey
+S. Aciksoz, E.V. Ozcan
+                       Bogazici University, Bebek / Istanbul, Turkey
+A. Adiguzel, S. Esen, S. Oz
+                       Istanbul University, Istanbul, Turkey
+H. Cetinkaya
+                       Dumlupinar University, Faculty of Science and Arts, Kutahya, Turkey
+T.B. Ilhan
+                       Bogaziçi University, Kandilli Accelerator, Istanbul, Turkey
+A. Kilicgedik
+                       Marmara University, Istanbul, Turkey
+S. Ogur
+                       Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France
+G. Unel
+                       UCI, Irvine, California, USA
+
+ 
+
+
+ 
+
+Funding: This study is supported by Istanbul University Scientific Research Commission Project ID 33250 and TUBITAK Project no : 119M774.
+A testbeam using a Radio Frequency Quadrupole (RFQ) operating at 800 MHz, to accelerate a 1.5mA proton beam to 2MeV energy has been designed, manufactured and is currently being commissioned at KAHVELab, Istanbul. The beam from the microwave discharge ion source (IS) must be matched to the RFQ via an optimized Low Energy Beam Transport (LEBT) line. The LEBT line consists of two solenoid magnets, two stereer magnets and a beam diagnostics station named MBOX. All the beamline components are locally designed, simulated, manufactured and tested with local resources. The MBOX should be able to measure the beam current and profile, as well as the beam emittance, to ensure an accurate match between IS and RFQ. It includes a number of diagnostic tools: a Faraday Cup, a scintillator screen, and a pepper pot plate (PP). An analysis software is developed and tested for the PP photo analysis. This contribution will present the proton beamline components and will focus on the MBOX measurements, especially on the PP emittance analysis.
+
+ 
+
+
+
+
+
+
+Poster TUPORI17 [5.641 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI17
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 09 September 2022 — Accepted ※ 26 September 2022 — Issue date ※ 29 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI18
+The Design of the Full Energy Beam Exploitation (FEBE) Beamline on CLARA
+585
+
+
+ 
+
+D. Angal-Kalinin, A.R. Bainbridge, J.K. Jones, T.H. Pacey, Y.M. Saveliev, E.W. Snedden
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+The CLARA facility at Daresbury Laboratory was orig-inally designed for the study of novel FEL physics utilis-ing high-quality electron bunches at up to 250 MeV/c. To maximise the exploitation of the accelerator complex, a dedicated full energy beam exploitation (FEBE) beam-line has been designed and is currently being installed in a separate vault on the CLARA accelerator. FEBE will allow the use of high charge (up to 250 pC), moderate energy (up to 250 MeV), electron bunches for a wide variety of accelerator applications critical to ongoing accelerator development in the UK and international communities. The facility consists of a shielded enclo-sure, accessible during beam running in CLARA, with two very large experimental chambers compatible with a wide range of experimental proposals. High-power laser beams (up to 100 TW) will be available for electron-beam interactions in the first chamber, and there are concrete plans for a wide variety of advanced diagnostics (includ-ing a high-field permanent magnet spectrometer and dielectric longitudinal streaker), essential for multiple experimental paradigms, in the second chamber. FEBE will be commissioned in 2024.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI18
+
+ 
+
+
+About •
+Received ※ 19 August 2022 — Revised ※ 23 August 2022 — Accepted ※ 28 August 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI19
+Beam Dynamics Framework Incorporating Acceleration Used to Define the Minimum Aperture of RF Cavity For FODO-like Focusing Scheme for Proton Radiotherapy Linac
+589
+
+
+SUPCRI04
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M.J.W. Southerby, R. Apsimon
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Supported by the Cockcroft Institute Core Grant, ST/P002056/1.
+In this paper, we present a generalised analytical framework for beam dynamics studies and lattice designs, while incorporating longitudinal acceleration of bunches of charged particles. We study a ’FODO-like’ scheme, whereby we have an alternating array of focusing and defocusing quadrupoles and study how this differs from a standard FODO lattice due to acceleration. We present optimisation techniques to provide quadrupole parameters, cavity lengths, and required drift lengths under different constraints.
+
+ 
+
+
+
+
+
+
+Poster TUPORI19 [0.997 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI19
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 27 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI20
+The Impact of Beam Loading Transients on the RF System and Beam Breakup Instabilities in Energy Recovery Linacs
+593
+
+
+ 
+
+S. Setiniyaz
+                       Lancaster University, Lancaster, United Kingdom
+R. Apsimon, M.J.W. Southerbypresenter
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+P.H. Williams
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+In multi-turn Energy Recovery Linacs (ERLs), the filling pattern describes the order that which bunches are injected into the ERL ring. The filling patterns and recombination schemes together can create various beam loading patterns/transients, which can have a big impact on the RF system, namely the cavity fundamental mode voltage, required RF power, and beam breakup instability. In this work, we demonstrate one can lower the cavity voltage fluctuation and rf power consumption by carefully choosing the right transient by using an analytical model and simulation.
+
+ 
+
+
+
+
+
+
+Poster TUPORI20 [0.659 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI20
+
+ 
+
+
+About •
+Received ※ 19 August 2022 — Revised ※ 28 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI23
+Investigation of the Beam Propagation Through the FNAL LEBT
+597
+
+
+ 
+
+D.C. Jones, D.S. Bollinger, V.V. Kapin, K. Seiya
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Fermilab Preaccelerator sends 25 mA H− beam with a 30 µs pulse length at 15 Hz. The machine’s uptime was increased in 2012 by the replacement of the Cockcroft Walton accelerator with an RFQ system to take the beam from 35 keV to 750 keV; however, this came with a reduction in transmitted beam between the source and the entrance to Tank 1 of the LINAC. Fermilab currently operates with less than 50% of the beam current from the ion source making it to the entrance of tank 1. In an effort to understand the causes of this reduction in transmission efficiency a vertically movable paddle was installed between the first two solenoids allowing the beam size to be investigated before entering the RFQ. Comparing this data to the emittance measurements done after the first solenoid in the Ion Source R&D lab a more complete picture of the beams propagation through the LEBT has begun to be established when compared with the simulation results. We will present these results here.
+
+ 
+
+
+
+
+
+
+Poster TUPORI23 [0.510 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI23
+
+ 
+
+
+About •
+Received ※ 14 August 2022 — Revised ※ 19 August 2022 — Accepted ※ 30 August 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI24
+Beam Dynamics Studies at the PIP-II Injector Test Facility
+601
+
+
+ 
+
+J.-P. Carneiro, B.M. Hanna, E. Pozdeyev, L.R. Prost, A. Saini, A.V. Shemyakinpresenter
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+A series of beam dynamic studies were performed in 2020-2021 at the PIP-II Injector Test Facility (PIP2IT) that has been built to validate the concept of the front-end of the PIP-II linac being constructed at Fermilab. PIP2IT is comprised of a 30-keV H− ion source, a 2 m-long Low Energy Beam Transport (LEBT), a 2.1- MeV CW RFQ, followed by a 10-m Medium Energy Beam Transport (MEBT), 2 cryomodules accelerating the beam to 16 MeV and a High-Energy Beam Transport (HEBT) bringing the beam to an absorber. This paper presents beam dynamics - related measurements performed at PIP2IT as the Twiss parameters with Allison scanners, beam envelopes along the injector, and transverse and longitudinal rms emittance reconstruction. These measurements are compared with predictions from the beam dynamics code Tracewin.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI24
+
+ 
+
+
+About •
+Received ※ 21 August 2022 — Revised ※ 25 August 2022 — Accepted ※ 31 August 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI25
+Finding Beam Loss Locations at PIP2IT Accelerator With Oscillating Dipole Correctors
+605
+
+
+TUOPA07
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A.V. Shemyakin
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics
+The PIP2IT accelerator was assembled in multiple stages in 2014 - 2021 to test concepts and components of the future PIP-II linac that is being constructed at Fermilab. In its final configuration, PIP2IT accelerated a 0.55 ms x 20 Hz x 2 mA H− beam to 16 MeV. To determine location of the beam loss in the accelerator’s low-energy part, where radiation monitors are ineffective, a method using oscillating trajectories was implemented. If the beam is scraped at an aperture limitation, moving its centroid with two dipole correctors located upstream and oscillating in sync, produces a line at the corresponding frequency in spectra of BPM sum signals downstream of the loss point. Comparison of these responses along the beam line allows to find the loss location. The paper describes the method and results of its implementation at PIP2IT.
+
+ 
+
+
+
+
+
+
+Slides TUPORI25 [0.447 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI25
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 31 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI26
+Longitudinal Beam Dynamics in Array of Equidistant Multicell Cavities
+609
+
+
+ 
+
+Y.K. Batygin
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE under contract 89233218CNA000001
+Linear accelerators containing the sequence of independently phase cavities with constant geometrical velocity along each cavity are widely used in practice. The chain of cavities with identical cell length is utilized within a certain beam velocity range, with subsequent transformation to the next chain with higher cavity velocity. Design and analysis of beam dynamics in this type of accelerators are usually performed using numerical simulations. In the present paper, we provide an analytical treatment of beam dynamics in such linacs. Expressions connecting beam energy gain and phase slippage along the cavity are implemented. The dynamics of the beam around the reference trajectory along the accelerator and matched beam conditions are discussed.
+
+ 
+
+
+
+
+
+
+Poster TUPORI26 [1.718 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI26
+
+ 
+
+
+About •
+Received ※ 20 August 2022 — Revised ※ 28 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI27
+Preliminary Study on the Implementation of the Orbit Correction to the 100 Mev Proton Linac at KOMAC
+613
+
+
+ 
+
+S. Lee, J.J. Dang, D.-H. Kim, H.S. Kimpresenter, H.-J. Kwon, S.P. Yun
+                       KOMAC, KAERI, Gyeongju, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work has been supported through KOMAC operation fund of KAERI by the Korean government (MIST)
+At Korea Multipurpose Accelerator Complex (KOMAC), we have been operating a 100 MeV linac consisting of 11 DTLs with several beam position monitors (BPMs) and steering magnets installed for the orbit correction of the proton beam. The orbit correction can be performed through the response matrix between the position measurements from the BPMs and the field strength of the steering magnets. In this work, we will show the calculated response matrix from the simulation results, and describe the detailed plans for the implementation of the orbit correction in the real linac system at KOMAC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI27
+
+ 
+
+
+About •
+Received ※ 20 August 2022 — Revised ※ 29 August 2022 — Accepted ※ 05 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI28
+Injector System Development for 1 MeV/n RFQ at KOMAC
+615
+
+
+ 
+
+H.S. Kim
+                       KAERI, Daejon, Republic of Korea
+J.J. Dang, D.-H. Kim, H.-J. Kwon, S. Lee, S.P. Yun
+                       KOMAC, KAERI, Gyeongju, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work has been supported through the KOMAC operation fund of KAERI by the Korean government (MSIT).
+A Radiofrequency quadrupole (RFQ) system with 200 MHz frequency and 1 MeV/n output energy is under development at KOMAC (Korea Multi-purpose Accelerator Complex) for multiple purposes such as a test-stand for an ion source and low energy beam transport study, ion beam implantation for semiconductors and polymers and neutron generation for material study. We developed an injector system for the RFQ, which is mainly composed of a 2.45 GHz microwave ion source, low energy beam transport with two solenoids, and a vacuum system with a diagnostic chamber. The RFQ was designed to be able to accelerate the beam with 2.5 mass-to-charge ratios (A/q) but we used the proton beam for an initial test to characterize the injector system. A Detailed describtion of the constructed injector system along with test results will be given in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI28
+
+ 
+
+
+About •
+Received ※ 22 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI29
+Space Charge and Electron Confinement in High Current Low Energy Transport Lines: Experience and Simulations From IFMIF/EVEDA and ESS Commissioning
+618
+
+
+TUOPA08
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+L. Bellan, M. Comunian, F. Grespan, A. Pisent
+                       INFN/LNL, Legnaro (PD), Italy
+E.M. Donegani, M. Eshraqi, F. Grespan, B. Jones, E. Laface, Y. Levinsen, N. Milas, R. Miyamoto, D. Noll, D.C. Plostinar, A.G. Sosa
+                       ESS, Lund, Sweden
+L. Neri
+                       INFN/LNS, Catania, Italy
+
+ 
+
+
+ 
+
+The mechanism of space charge compensation given by the residual gas ionization is a key factor for the emittance containment in the low energy beam transport (LEBT) lines of high intensity hadron injectors. A typical front end including a microwave Ion source, a LEBT and Radio Frequency Quadrupole (RFQ), is equipped with two repellers at each interface to prevent electrons from flowing back, to the source, or forward, to the RFQ. In this paper we will emphasize the importance of the ion Source and LEBT repellers on giving the appropriate boundary conditions for the space-charge compensation building-up mechanism. The theory and simulations are supported by experiments performed in the high intensity facility such as ESS and IFMIF/EVEDA.
+
+ 
+
+
+
+
+
+
+Slides TUPORI29 [1.633 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI29
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 03 September 2022 — Accepted ※ 06 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPORI30
+Application of Permanent Magnets in Solenoid and Quadrupole Focusing
+622
+
+
+ 
+
+J.D. Kaiser, A. Ateş, H. Hähnel, U. Ratzinger
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+Permanent magnets can be used to design compact high gradient focusing elements for particle accelerators. Based on cheap industrial standard Neodym permanent magnets, design studies for Solenoids and Quadrupoles are presented. The Solenoid design consists of three segments, where the outer segments possess a radial magnetization and the inner segments an axial magnetization. This increases the mean field strength in comparison to a singlet hollow cylinder solenoid. The quadrupole design consists of 16 block magnets and is designed to be rather simplistic. The casing consists of two half shells, which can be easily mounted around a beam pipe. For a quadrupole triplet configuration the influence of different geometric parameters on beam transport regarding focusing strength and emittance growth is investigated. Furthermore, a variation of the quadrupole design was mounted in vacuum in a triplet configuration. Using custom 3D-printed mounts for small raspberry pi cameras the beam could be observed inside the quadrupoles. A first prototype was constructed
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI30
+
+ 
+
+
+About •
+Received ※ 13 August 2022 — Revised ※ 17 August 2022 — Accepted ※ 02 September 2022 — Issue date ※ 04 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

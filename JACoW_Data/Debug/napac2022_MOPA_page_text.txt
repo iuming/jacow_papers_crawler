@@ -1,0 +1,3210 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: MOPA (Poster Session)
+
+
+MOPA —  Poster Session   (08-Aug-22   16:30—18:00)
+Chair: P.M. Anisimov, LANL, Los Alamos, New Mexico, USA
+
+
+Paper
+Title
+Page
+
+
+
+MOPA01
+Realistic CAD-Based Geometries for Arbitrary Magnets with Beam Delivery Simulation (BDSIM)
+55
+
+
+ 
+
+E. Ramoisiaux, R. Dantinne, E. Gnacadja, C. Hernalsteens, S. Musibau, B. Ndihokubwayo, N. Pauly, R. Tesse, M. Vanwelde
+                       ULB, Bruxelles, Belgium
+S.T. Boogert, L.J. Nevay, W. Shields
+                       Royal Holloway, University of London, Surrey, United Kingdom
+C. Hernalsteens
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Monte Carlo simulations are required to evaluate beam losses and secondary radiation accurately in particle accelerators and beamlines. Detailed CAD geometries are critical to account for a realistic distribution of material masses but increase the model complexity and often lead to code duplication. Beam Delivery Simulation (BDSIM) and the Python package pyg4ometry enable handling such accelerator models within a single, simplified workflow to run complete simulations of primary and secondary particle tracking and interactions with matter using Geant4 routines. Additional capabilities have been developed to model arbitrary bent magnets by associating externally modeled geometries to the magnet poles, yoke, and beampipe. Individual field descriptions can be associated with the yoke and vacuum pipe separately to provide fine-grained control of the magnet model. The implementation of these new features is described in detail and applied to the modeling of the CERN Proton Synchrotron (PS) combined function magnets.
+
+ 
+
+
+
+
+
+
+Poster MOPA01 [0.781 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA01
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 16 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA02
+Activation of the IBA Proteus One Proton Therapy Beamline Using BDSIM and FISPACT-II
+59
+
+
+ 
+
+E. Ramoisiaux, E. Gnacadja, C. Hernalsteens, N. Pauly, R. Tesse, M. Vanwelde
+                       ULB, Bruxelles, Belgium
+C. Hernalsteens
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Cyclotron-based proton therapy systems generate large fluxes of secondary particles due to the beam interactions with the beamline elements, with the energy degrader being the dominant source. Compact systems exacerbate these challenges for concrete shielding and beamline element activation. Our implementation of the Rigorous Two-Step method uses Beam Delivery Simulation (BDSIM), a Geant4-based particle tracking code, for primary and secondary particles transport and fluence scoring, and FISPACT-II for time-dependent nuclear inventory and solving the rate equations. This approach is applied to the Ion Beam Applications (IBA) Proteus®ONE (P1) system, for which a complete model has been built, validated, and used for shielding activation simulations. We detail the first simulations of the activation on quadrupole magnets in high-fluence locations downstream of the degrader. Results show the evolution of the long-lived nuclide concentrations for short and long timescales throughout the facility lifetime for a typical operation scenario.
+
+ 
+
+
+
+
+
+
+Poster MOPA02 [0.553 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA02
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 19 August 2022 — Issue date ※ 21 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA08
+Beamline Optimization Methods for High Intensity Muon Beams at PSI
+63
+
+
+ 
+
+E.V. Valetov
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Funding: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No. 884104 (PSI-FELLOW-III-3i).
+We perform beamline design optimization for the High Intensity Muon Beams (HIMB) project at the Paul Scherrer Institute (PSI), which will deliver muon beams at the unprecedented rate of 1·1010 muons/s to next-generation intensity frontier particle physics and material science experiments. For optimization of the design and operational parameters to maximize the beamline transmission, we use the asynchronous Bayesian optimization package DeepHyper and a custom build of G4beamline with variance reduction and measured cross sections. We minimize the beam spot size at the final foci using a COSY INFINITY model with differential-algebraic system knobs, where we minimize the respective transfer map elements using the Levenberg-Marquardt and simulated annealing optimizers. We obtained a transmission of 1.34·1010 muons/s in a G4beamline model of HIMB’s MUH2 beamline into the experimental area.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA08
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 23 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA09
+Design of a 4D Emittance Diagnostic for Low-Energy Ion Beams
+67
+
+
+ 
+
+T.R. Curtin, M.S. Curtin
+                       Ion Linac Systems, Inc., Albuquerque, USA
+
+ 
+
+
+ 
+
+Characterization of ion beams from an ion injector consisting of an electron-cyclotron-resonance (ECR) source in combination with a low-energy-beam-transport (LEBT) typically exhibits a complex four-dimensional transverse phase-space distribution. The importance of measuring the ion beam correlations following extraction and transport of the low-energy beam is critical to enabling optimization of beam transmission through downstream accelerating structures. A design for a transverse, four-dimensional emittance meter for low-energy protons from the Ion Linac Systems (ILS) ECR-LEBT ion injector is provided.
+
+ 
+
+
+
+
+
+
+Poster MOPA09 [0.479 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA09
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 27 September 2022 — Accepted ※ 05 December 2022 — Issue date ※ 05 December 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA12
+Commissioning of HOM Detectors in the First Cryomodule of the LCLS-II Linac
+69
+
+
+ 
+
+J.A. Diaz Cruz
+                       UNM-ECE, Albuquerque, USA
+B.T. Jacobson, N.R. Neveu, J.P. Sikora
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Long-range wakefields (LRWs) may cause emittance dilution effects. LWRs are especially unwanted at facilities with low emittance beams like the LCLS-II at SLAC. Dipolar higher-order modes (HOMs) are a set of LRWs that are excited by off-axis beams. Two 4-channel HOM detectors were built to measure the beam-induced HOM signals for TESLA-type superconducting RF (SRF) cavities; they were tested at the Fermilab Accelerator Science and Technology (FAST) facility and are now installed at SLAC. The HOM detectors were designed to investigate LRW effects on the beam and to help with beam alignment. This paper presents preliminary results of HOM measurements at the first cryomodule (CM01) of the LCLS-II linac and describes the relevant hardware and setup of the experiment.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA12
+
+ 
+
+
+About •
+Received ※ 09 August 2022 — Accepted ※ 20 August 2022 — Issue date ※ 31 August 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA13
+Design of a Surrogate Model for MUED at BNL Using VSim, Elegant and HPC
+72
+
+
+ 
+
+S.I. Sosa Guitron, S. Biedron, T.B. Bolin
+                       UNM-ECE, Albuquerque, USA
+S. Biedron
+                       Element Aero, Chicago, USA
+S. Biedron
+                       UNM-ME, Albuquerque, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, Program of Electron and Scanning Probe Microscopes, award number DE-SC0021365.
+The MeV Ultrafast Electron Diffraction (MUED) instrument at Brookhaven National Laboratory is a unique capability for material science. As part of a plan to make MUED a high-throughput user facility, we are exploring instrumentation developments based on Machine Learning (ML). We are developing a surrogate model of MUED that can be used to support control tasks. The surrogate model will be based on beam simulations that are benchmarked to experimental observations. We use VSim to model the beam dynamics of the radio-frequency gun and Elegant to transport the beam through the rest of the beam-line. We also use High Performance Computing resources from Argonne Leadership Computing Facility to generate the data for the surrogate model based on the original simulation as well as training the ML model.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA13
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 21 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA14
+A Wide Dynamic-Range Halo Monitor for 8 GeV Proton Beams at FNAL
+75
+
+
+ 
+
+Y. Hashimoto, C. Ohmori, T. Sasaki, M. Tejima, T. Toyama, M. Uota
+                       KEK, Tokai, Ibaraki, Japan
+R. Ainsworthpresenter
+                       Fermilab, Batavia, Illinois, USA
+H. Sakai
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+Y. Sato
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+Funding: Foundation: U.S.-Japan Science and Technology Cooperation Program in High Energy Physics.
+Eliminating harmful beam halos is the most important technique for high-intensity proton accelerators. Therefore, beam halo diagnosis is indispensable and becomes more and more important. At J-PARC, a wide dynamic range monitor was installed in the beam transport line in 2012. The device is a two-dimensional beam profile monitor [*, **], and it has a dynamic range of approximately six digits of magnitude by using Optical Transition Radiation and fluorescence screens. The FNAL accelerator complex has been upgrading through increased beam intensity and beam quality. A new beam halo diagnostic device is required in the beam transport line between the booster and recycler. It will be manufactured in a collaboration between J-PARC and FNAL as a part of the U.S.-Japan Science and Technology Cooperation Program in High Energy Physics. We are redesigning the monitor to satisfy FNAL specifications for beam energy, intensity, and size. The equipment will be manufactured at J-PARC and then shipped to FNAL in 2024. In this report, the design of the device will be described.
+* https://accelconf.web.cern.ch/IBIC2013/papers/tucl2.pdf  ** http://accelconf.web.cern.ch/HB2014/papers/tuo2ab04.pdf 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA14
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 09 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA15
+Synchronous High-Frequency Distributed Readout for Edge Processing at the Fermilab Main Injector and Recycler
+79
+
+
+ 
+
+J.R. Berlioz, J.M.S. Arnold, M.R. Austin, P.M. Hanlet, K.J. Hazelwood, M.A. Ibrahim, A. Narayanan, D.J. Nicklaus, G. Pradhan, A.L. Saewert, B.A. Schupbach, R.M. Thurman-Keup, N.V. Tran
+                       Fermilab, Batavia, Illinois, USA
+J. Jiang, H. Liu, S. Memik, R. Shi, M. Thieme, D. Ulusel
+                       Northwestern University, Evanston, Illinois, USA
+A. Narayanan
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No.De-AC02-07CH11359 with the United States Department of Energy. Additional funding provided by Grant Award No. LAB 20-2261
+The Main Injector (MI) was commissioned using data acquisition systems developed for the Fermilab Main Ring in the 1980s. New VME-based instrumentation was commissioned in 2006 for beam loss monitors (BLM), which provided a more systematic study of the machine and improved displays of routine operation. However, current projects are demanding more data and at a faster rate from this aging hardware. One such project, Real-time Edge AI for Distributed Systems (READS), requires the high-frequency, low-latency collection of synchronized BLM readings from around the approximately two-mile accelerator complex. Significant work has been done to develop new hardware to monitor the VME backplane and broadcast BLM measurements over Ethernet, while not disrupting the existing operations-critical functions of the BLM system. This paper will detail the design, implementation, and testing of this parallel data pathway.
+
+ 
+
+
+
+
+
+
+Poster MOPA15 [1.641 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA15
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 04 August 2022 — Accepted ※ 14 August 2022 — Issue date ※ 19 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA17
+Symplectic Particle Tracking in a Thick Nonlinear McMillan Lens for the  Fermilab Integrable Optics Test Accelerator (IOTA)
+83
+
+
+ 
+
+B.L. Cathey, G. Stancari, T. Zolkin
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics.
+The McMillan system is a novel method to increase the tune spread of a beam without decreasing its dynamic aperture due to the system’s integrability. While the ideal system is based on an infinitely thin kick, the physical design requires a thick electron lens, including a solenoid. Particle transport through the lens is difficult to simulate due to the nature of the force on the circulating beam. This paper demonstrates accurate simulation of a thick McMillan lens in a solenoid using symplectic integrators derived from Yoshida’s method.
+
+ 
+
+
+
+
+
+
+Poster MOPA17 [2.290 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA17
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 04 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 09 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA18
+Residual Dose and Environmental Monitoring for the Fermilab Main Injector Tunnel Using the Data Acquisition Logging Engine (Dale)
+87
+
+
+ 
+
+N. Chelidze, R. Ainsworth, B.C. Brown, D. Capista, K.J. Hazelwood, D.K. Morris, M.J. Murphy
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Fermi National Accelerator Laboratory
+The Recycler and the Main Injector are part of the Fermilab Accelerator complex used to deliver proton beam to the different experiments. It is very important to control and minimize losses in both machines during operation, to reduce personnel dose from residual activation and to preserve component lifetime. To minimize losses, we need to identify the loss points and adjust the components accordingly. The Data Acquisition Loss Engine (DALE) platform has been developed within the Main Injector department and upgraded throughout the years. DALE is used to survey the entire enclosure for residual dose rates and environmental readings when unrestricted access to the enclosure is possible. Currently DALE has two radiation meters, which are aligned along each machine, so loss points can be identified for both at the same time. DALE attaches to the enclosure carts and is continuously in motion monitoring dose rates and other environmental readings. In this paper we will describe how DALE is used to provide radiation maps of the residual dose rates in the enclosure. We will also compare the loss points with the Beam Loss monitor data.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA18
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 21 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA19
+The Effect of the Main Injector Ramp on the Recycler
+90
+
+
+ 
+
+N. Chelidze, R. Ainsworth, K.J. Hazelwood
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The Recycler and Main Injector are part of the Fermilab Accelerator complex used to deliver a high power proton beam. Both machines share the same enclosure with the Recycler mounted 6 ft above the Main Injector. The Main Injector accelerates beam from 8 GeV to 120 GeV. While the majority of the Recycler has mu metal shielding, the effect of the Main Injector ramp is still significant and can affect both the tunes and the orbit. In this paper, we detail the size of these effects.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA19
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Accepted ※ 04 August 2022 — Issue date ※ 23 August 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA21
+Effect of Electropolishing on Nitrogen Doped and Undoped Niobium Surfaces
+93
+
+
+ 
+
+V. Chouhan, F. Furuta, M. Martinello, T.J. Ring, G. Wu
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Cold electropolishing (EP) of a nitrogen-doped (N-doped) niobium (Nb) superconducting RF (SRF) cavity was found to improve its quality factor. In order to understand the effect of EP temperature on N-doped and undoped surfaces, a systematic EP study was conducted with 2/0 N-doped and heat-treated Nb samples in a beaker. The Nb samples were electropolished at different surface temperatures ranging from 0 to 42 C. The results showed that the doped surface was susceptible to the sample temperature during EP. EP resulted in the surface pitting on the doped samples where the number density of pits increased at a higher temperature. The surface results were compared with the surface of cutouts from a 9-cell cavity which was 2/0 N-doped and electropolished. This paper shows de-tailed surface features of the N-doped and undoped Nb surfaces electropolished at different temperatures.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA21
+
+ 
+
+
+About •
+Received ※ 20 July 2022 — Revised ※ 24 July 2022 — Accepted ※ 09 August 2022 — Issue date ※ 11 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA22
+Study on Electropolishing Conditions for 650 MHz Niobium SRF Cavity
+97
+
+
+ 
+
+V. Chouhan, D.J. Bice, F. Furuta, M. Martinello, M.K. Ng, H. Park, T.J. Ring, G. Wu
+                       Fermilab, Batavia, Illinois, USA
+B.M. Guilfoyle, M.P. Kelly, T. Reid
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+The PIP II linear accelerator includes different types of niobium SRF cavities including 650 MHz elliptical low (0.61) and high (0.92) beta cavities. The elliptical cavity surface is processed with the electropolishing method. The elliptical cavities especially the low-beta 650 MHz cavities showed a rough equator surface after the EP was performed with the standard EP conditions. This work was focused to study the effect of different EP parameters, including cathode surface area, temperature and voltage, and optimize them to improve the cavity surface.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA22
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 03 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA23
+Tests of the Extended Range SRF Cavity Tuners for the LCLS-II HE Project
+100
+
+
+ 
+
+C. Contreras-Martinez, T.T. Arkan, A.T. Cravatta, B.D. Hartsell, J.A. Kaluzny, T.N. Khabiboulline, Y.M. Pischalnikov, S. Posen, G.V. Romanov, J.C. Yun
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The LCLS-II HE superconducting linac will produce multi-energy beams by supporting multiple undulator lines simultaneously. This could be achieved by using the cavity SRF tuner in the off-frequency detune mode. This off-frequency operation method was tested in the verification cryomodule (vCM) and CM 1 at Fermilab at 2 K. In both cases, the tuners achieved a frequency shift of -565±80 kHz. This study will discuss cavity frequency during each step as it is being assembled in the cryomodule string and finally when it is being tested at 2 K. Tracking the cavity frequency helped enable the tuners to reach this large frequency shift. The specific procedures of tuner setting during assembly will be presented.
+
+ 
+
+
+
+
+
+
+Poster MOPA23 [0.654 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA23
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 19 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA24
+LCLS-II and HE Cryomodule Microphonics at CMTF at Fermilab
+103
+
+
+ 
+
+C. Contreras-Martinez, B.E. Chase, A.T. Cravatta, J.A. Einstein-Curtis, E.R. Harms, J.P. Holzbauer, J.N. Makara, S. Posen, R. Wang
+                       Fermilab, Batavia, Illinois, USA
+L.R. Doolittle
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Microphonics causes the cavity to detune. This study discusses the microphonics of 16 cryomodules, 14 for LCLS-II and 2 for LCLS-II HE tested at CMTF. The peak detuning, as well as the RMS detuning for each cryomodule, will be discussed. For each cryomodule, the data was taken with enough soaking time to prevent any thermalization effects which can show up in the detuning. Each data capture taken was 30 minutes or longer and sampled at 1 kHz.
+
+ 
+
+
+
+
+
+
+Poster MOPA24 [1.428 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA24
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 10 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 20 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA25
+Simulated Lorentz Force Detuning Compensation with a Double Lever Tuner on a Dressed ILC/1.3 GHz Cavity at Room Temperature
+106
+
+
+ 
+
+C. Contreras-Martinez, Y.M. Pischalnikov, J.C. Yun
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Pulsed SRF linacs with high accelerating gradients experience large frequency shifts caused by Lorentz force detuning (LFD). A piezoelectric actuator with a resonance control algorithm can maintain the cavity frequency at the nominal level thus reducing the RF power. This study uses a double lever tuner with a piezoelectric actuator for compensation and another piezoelectric actuator to simulate the effects of the Lorentz force pulse. A double lever tuner has an advantage by increasing the stiffness of the cavity-tuner system thus reducing the effects of LFD. The tests are conducted at room temperature and with a dressed 1.3 GHz 9-cell cavity.
+
+ 
+
+
+
+
+
+
+Poster MOPA25 [0.931 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA25
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 13 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA27
+Validation of the 650 MHz SRF Tuner on the Low and High Beta Cavities for PIP-II at 2 K
+109
+
+
+ 
+
+C. Contreras-Martinez, S.K. Chandrasekaran, S. Cheban, G.V. Eremeev, I.V. Gonin, T.N. Khabiboulline, Y.M. Pischalnikov, O.V. Prokofiev, A.I. Sukhanov, J.C. Yun
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The PIP-II linac will include thirty-six BG=0.61 and twenty-four BG=0.92 650 MHz 5 cell elliptical SRF cavities. Each cavity will be equipped with a tuning system consisting of a double lever slow tuner for coarse frequency tuning and a piezoelectric actuator for fine frequency tuning. The same tuner will be used for both the BG=0.61 and BG=0.92 cavities. Results of testing the cavity-tuner system for the BG=0.61 will be presented for the first time.
+
+ 
+
+
+
+
+
+
+Poster MOPA27 [0.782 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA27
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 10 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 04 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA28
+Semantic Regression for Disentangling Beam Losses in the Fermilab Main Injector and Recycler
+112
+
+
+ 
+
+M. Thieme, H. Liu, S. Memik, R. Shi
+                       Northwestern University, Evanston, Illinois, USA
+J.M.S. Arnold, M.R. Austin, P.M. Hanlet, K.J. Hazelwoodpresenter, M.A. Ibrahim, V.P. Nagaslaev, A. Narayanan, D.J. Nicklaus, G. Pradhan, A.L. Saewert, B.A. Schupbach, K. Seiya, R.M. Thurman-Keup, N.V. Tran
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No.De-AC02-07CH11359 with the United States Department of Energy. Additional funding provided by Grant Award No. LAB 20-2261, Batavia, IL USA
+Fermilab’s Main Injector enclosure houses two accelerators: the Main Injector (MI) and the Recycler (RR). In periods of joint operation, when both machines contain high intensity beam, radiative beam losses from MI and RR overlap on the enclosure’s beam loss monitoring (BLM) system, making it difficult to attribute those losses to a single machine. Incorrect diagnoses result in unnecessary downtime that incurs both financial and experimental cost. In this work, we introduce a novel neural approach for automatically disentangling each machine’s contributions to those measured losses. Using a continuous adaptation of the popular UNet architecture in conjunction with a novel data augmentation scheme, our model accurately infers the machine of origin on a per-BLM basis in periods of joint and independent operation. Crucially, by extracting beam loss information at varying receptive fields, the method is capable of learning both local and global machine signatures and producing high quality inferences using only raw BLM loss measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA28
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 03 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA29
+Second Generation Fermilab Main Injector 8 GeV Beamline Collimation Preliminary Design
+116
+
+
+ 
+
+K.J. Hazelwood, P. Adamson, B.C. Brown, D. Capista, R.M. Donahue, B.L. Klein, N.V. Mokhov, V.S. Pronskikh, V.I. Sidorov, M.C. Vincent
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The current Fermilab Main Injector 8 GeV beamline transverse collimation system was installed in 2006. Since then, proton beam intensities and rates have increased significantly. With the promise of even greater beam intensities and a faster repetition rate when the PIP-II upgrade completes later this decade, the current collimation system will be insufficient. Over the past 18 months, multiple collimation designs have been investigated, some more traditional and others novel. A preliminary design review was conducted and a design chosen. Work is underway to finalize the chosen design, prototype some of its novel components and procure parts for installation Summer 2023.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA29
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 15 August 2022 — Issue date ※ 25 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA30
+LCLS-II BCS Average Current Monitor
+120
+
+
+ 
+
+N.M. Ludlow, T.L. Allison, J.P. Sikora, J.J. Welch
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+LCLS-II is a 4th generation light source at the SLAC National Accelerator Laboratory. LCLS-II will accelerate a 30 µA electron beam with a 1 MHz bunch rate with a new superconducting Continuous Waveform (CW) RF accelerator. The Average Current Monitor (ACM) is part of the Beam Containment System (BCS) for the LCLS-II accelerator. The Beam Containment System is a safety system that provides paths to safely shut the accelerator beam off under a variety of conditions. The Average Current Monitor is a beam diagnostic within the BCS that is used to verify that the accelerator is producing the appropriate current level and to limit beam power to allowed values to protect the machine and beam dumps. The average beam current is obtained by measuring the power level induced by the beam in a low Q cavity. By knowing the Q, the beta, and the coupling of the cavity, the instantaneous charge can be calculated, then integrating the instantaneous charge over one millisecond will yield the average current. This paper will discuss progress in the checkout process of the ACM LLRF hardware leading to LCLS-II commissioning.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA30
+
+ 
+
+
+About •
+Received ※ 16 July 2022 — Revised ※ 05 August 2022 — Accepted ※ 24 August 2022 — Issue date ※ 06 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA33
+Waker Experiments at Fermilab Recycler Ring
+124
+
+
+ 
+
+O. Mohsen, R. Ainsworth, N. Eddy
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Attaining high-intensity hadron beams is often limited due to the transverse collective instabilities, whose understanding is thus required to see and possibly extend the intensity limitations. To explore such instabilities, a novel artificial wake system, the waker, has been built and tested at the Fermilab Recycler Ring (RR). In this report, we show recent upgrades of the waker. Also, we present experimental studies of instabilities at various space charge and wake parameters.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA33
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 28 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA34
+Noise in Intense Electron Bunches
+128
+
+
+ 
+
+S. Nagaitsev, D.R. Broemmelsiek, J.D. Jarvis, A.H. Lumpkin, J. Ruan, G.W. Saewert, R.M. Thurman-Keup
+                       Fermilab, Batavia, Illinois, USA
+Z. Huang, G. Stupakov
+                       SLAC, Menlo Park, California, USA
+Y.K. Kim
+                       University of Chicago, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+We report on our investigations into density fluctuations in electron bunches. Noise and density fluctuations in relativistic electron bunches, accelerated in a linac, are of critical importance to various Coherent Electron Cooling (CEC) concepts as well as to free-electron lasers (FELs). For CEC, the beam noise results in additional diffusion that counteracts cooling. In SASE FELs, a microwave instability starts from the initial noise in the beam and eventually leads to the beam microbunching yielding coherent radiation, and the initial noise in the FEL bandwidth plays a useful role. In seeded FELs, in contrast, such noise interferes with the seed signal, so that reducing noise at the initial seed wavelength would lower the seed laser power requirement. Status of the project will be presented.
+
+ 
+
+
+
+
+
+
+Poster MOPA34 [0.638 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA34
+
+ 
+
+
+About •
+Received ※ 10 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 14 August 2022 — Issue date ※ 24 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA36
+Optimization of Superconducting Linac for Proton Improvement Plan-II (PIP-II)
+132
+
+
+ 
+
+A. Pathak, E. Pozdeyev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+PIP-II is an essential upgrade of the Fermilab complex that will enable the world’s most intense high-energy beam of neutrinos for the international Deep Underground Neutrino Experiment at LBNF and support a broad physics program at Fermilab. Ultimately, the PIP-II superconducting linac will be capable of accelerating the H− CW beam to 800 MeV with an average power of 1.6 MW. To operate the linac with such high power, beam losses and beam emittance growth must be tightly controlled. In this paper, we present the results of global optimization of the Linac options towards a robust and efficient physics design for the superconducting section of the PIP-II linac. We also investigate the impact of the nonlinear field of the dipole correctors on the beam quality and derive the requirement on the field quality using statistical analysis. Finally, we assess the need to correct the quadrupole focusing produced by Half Wave, and Single Spoke accelerating cavities. We assess the feasibility of controlling the beam coupling in the machine by changing the polarity of the field of Linac focusing solenoids
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA36
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 04 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 01 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA38
+Accelerated Lifetime Test of the SRF Dressed Cavity/Tuner System for the LCLS II HE Project
+136
+
+
+ 
+
+Y.M. Pischalnikov, T.T. Arkan, C. Contreras-Martinez, B.D. Hartsell, J.A. Kaluzny, Y.M. Orlov, R.V. Pilipenko, J.C. Yun
+                       Fermilab, Batavia, Illinois, USA
+W. Lahmadi
+                       Wahid Lahmadi, Williston, USA
+
+ 
+
+
+ 
+
+The off-frequency detune method is being considered for application in the LCLS-II-HE superconducting linac to produce multi-energy electron beams for supporting multiple undulator lines simultaneously. Design of the tuner has been changed to deliver roughly 3 times larger frequency tuning range. Working requirements for off-frequency operation (OFO) state that cavities be tuned at least twice a month. This specification requires the increase of the tuner longevity by 30 times compared with LCLS-II demands. Accelerated longevity tests of the LCLS-II HE dressed cavity with tuner were conducted at FNAL’s HTS. Detail analysis of wearing and impacts on performances of the tuner’s piezo and stepper motor actuators will be presented. Additionally, results of longevity testing of the dressed cavity bellow, when cooled down to 2 K and compressed by 2.6 mm for roughly 2000 cycles, will be presented.
+
+ 
+
+
+
+
+
+
+Poster MOPA38 [3.026 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA38
+
+ 
+
+
+About •
+Received ※ 29 July 2022 — Revised ※ 06 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 11 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA41
+Diagnostics for LINAC Optimization with Machine Learning
+139
+
+
+ 
+
+R.V. Sharankova, M.W. Mwaniki, K. Seiya, M.E. Wesley
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The Fermilab Linac delivers 400 MeV H− beam to the rest of the accelerator chain. Providing stable intensity, energy, and emittance is key since it directly affects downstream machines. To operate high current beam, accelerators must minimize uncontrolled particle loss; this is generally accomplished by minimizing beam emittance. Ambient temperature and humidity variations are known to affect resonance frequency of the accelerating cavities which induces emittance growth. In addition, the energy and phase space distribution of particles emerging from the ion source are subject to fluctuations. To counter these effects we are working on implementing dynamic longitudinal parameter optimization based on Machine Learning (ML). As an input for the ML model, signals from beam diagnostic have to be well understand and reliable. We have been revisiting diagnostics in the linac. In this presentation we discuss the status of the diagnostics and beam studies as well as the status and plans for ML-based optimization.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA41
+
+ 
+
+
+About •
+Received ※ 05 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 07 September 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA42
+Considerations Concerning the Use of HTS Conductor for Accelerator Dipoles with Inductions above 15 T
+143
+
+
+ 
+
+M.A. Green
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the office of Science, under US Department of Energy contract number DE-AC-02-05CH11231.
+The use of high temperature superconductors for accelerator dipole has been discussed for about twenty years and maybe a little more. Conductors that can potentially be used for accelerator magnets have been available for about fifteen years. These conductors are REBCO tape conductors, which can be wound into coils with no reaction after winding, and BISSCO cable conductors, which require reaction after winding and insulation after reaction in a process similar to Nb3Sn cables. Both conductors are expensive and the process after reacting is expensive. Some unknown factors that remain: Will either conductor degrade in current carrying capacity with repeated cycling like Nb3Sn cables do? The other two issues are problems for both types of HTS conductors and they are; 1) quench protection in the event of a normal region run-away and 2) dealing with the superconducting magnetization inherent with HTS cables and tapes. This paper will discuss the last two issues and maybe will provide a partial solution to these problems.
+
+ 
+
+
+
+
+
+
+Poster MOPA42 [1.498 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA42
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 23 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA43
+Dee Voltage Regulator for the 88-Inch Cyclotron
+147
+
+
+ 
+
+M. Kireeff, P. Bloemhard, T. Hassan, L. Phair
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under Contract No. DE-AC02-05CH11231
+A new broadband Dee voltage regulator was designed and built for the 88-Inch Cyclotron at Lawrence Berkeley National Laboratory. The previous regulator was obsolete, consequently, it was difficult to troubleshoot and repair. Additionally, during operation, it displayed problems of distortion and stability at certain frequencies. The new regulator uses off-the-shelf components that can detect and disable the RF during sparking events, protecting the RF driver system. Furthermore, it improves the tuning of the cyclotron and allows consistency in operation.
+
+ 
+
+
+
+
+
+
+Poster MOPA43 [1.032 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA43
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 04 August 2022 — Accepted ※ 16 August 2022 — Issue date ※ 09 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA44
+Utilizing Python to Prepare the VENUS Ion Source for Machine Learning
+151
+
+
+ 
+
+A. Kireeff, L. Phair, M.J. Regis, M. Salathe, D.S. Todd
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under Contract No. DE-AC02-05CH11231.
+The fully superconducting electron cyclotron resonance (ECR) ion source VENUS is one of the world’s two highest-performing ECR ion sources, and a copy of this source will soon be used to produce ion beams at FRIB. The tuning and optimization of ECR ion sources is time consuming, and there are few detailed theoretical models to guide this work. To aid in this process, we are working toward utilizing machine learning to both efficiently optimize VENUS and reliably maintain its stability for long campaigns. We have created a Python library to interface with the programmable logic controller (PLC) in order to operate VENUS and collect and store source and beam data. We will discuss the design and safety considerations that went into creating this library, the implementation of the library, and some of the capabilities it enables.
+
+ 
+
+
+
+
+
+
+Poster MOPA44 [0.862 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA44
+
+ 
+
+
+About •
+Received ※ 17 July 2022 — Revised ※ 27 July 2022 — Accepted ※ 05 August 2022 — Issue date ※ 16 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA45
+Vacuum Electron Devices in the 88-Inch Cyclotron
+154
+
+
+ 
+
+M. Kireeff Covo, J.Y. Benitez, P. Bloemhard, J.P. Garcia, B. Ninemire, L. Phair, D.S. Todd, D.Z. Xie
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under Contract No. DE-AC02-05CH11231
+The 88-Inch Cyclotron at Lawrence Berkeley National Laboratory is a sector-focused cyclotron that has light- and heavy-ion capabilities and supports a local research program in Nuclear Science and is the home of the Berkeley Accelerator Space Effects Facility, which studies effects of radiation on microelectronics, optics, materials, and cells. The cyclotron utilizes several vacuum electron devices (VEDs) in different systems, mainly to convey plasma heating, high power RF generation, and high-voltage and current DC power generation. VEDs have been proven reliable, robust, and radiation resistant. They also have wide range, good response against transients, and stable operation with load mismatch during system tuning, instabilities, or breakdowns. The paper will describe applications of these devices in the 88-Inch Cyclotron
+
+ 
+
+
+
+
+
+
+Poster MOPA45 [1.434 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA45
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 12 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA46
+Cryogenic Dielectric Structure with GΩ/m Level Shunt Impedance
+157
+
+
+ 
+
+R.A. Kostin, C. Jing
+                       Euclid Beamlabs, Bolingbrook, USA
+
+ 
+
+
+ 
+
+Shunt impedance is one of the most important parameters characterizing particle acceleration efficiency. It is known that RF losses are reduced at cryogenic temperatures. For example, a record high shunt impedance of 350 MΩ/m was demonstrated recently for all metal X-band accelerating structure, which is more than 2 times higher than that at room temperature. In this article we present a novel hybrid dielectric structure which can achieve even higher shunt impedance due to the fact that losses in dielectric materials reduced much more than in pure copper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA46
+
+ 
+
+
+About •
+Received ※ 12 August 2022 — Revised ※ 16 August 2022 — Accepted ※ 23 August 2022 — Issue date ※ 17 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA50
+Integrated Photonics Structure Cathodes for Longitudinally Shaped Bunch Trains
+160
+
+
+ 
+
+S.J. Coleman, D.T. Abell, C.C. Hall
+                       RadiaSoft LLC, Boulder, Colorado, USA
+R. Kapadia
+                       University of Southern California, Los Angeles, California, USA
+S.S. Karkare
+                       Arizona State University, Tempe, USA
+S.Y. Kim, P. Piot, J.F. Power
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of High Energy Physics under Award Number DOE DE-SC0021681
+Compact, high-gradient structure wakefield accelerators can operate at improved efficiency using shaped electron beams, such as a high transformer ratio beam shape, to drive the wakes. These shapes have generally come from a photocathode gun followed by a transverse mask to imprint a desired shape on the transverse distribution, and then an emittance exchanger (EEX) to convert that transverse shape into a longitudinal distribution. This process discards some large fraction of the beam, limiting wall-plug efficiency as well as leaving a solid object in the path of the beam. In this paper, we present a proposed method of using integrated photonics structures to control the emission pattern on the cathode surface. This transverse pattern is then converted into a longitudinal pattern at the end of an EEX. This removes the need for the mask, preserving the total charge produced at the cathode surface. We present simulations of an experimental set-up to demonstrate this concept at the Argonne Wakefield Accelerator.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA50
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 26 August 2022 — Issue date ※ 03 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA55
+Facilitating Machine Learning Collaborations Between Labs, Universities, and Industry
+164
+
+
+ 
+
+J.P. Edelen, D.T. Abell, D.L. Bruhwiler, S.J. Coleman, N.M. Cook, A. Diaw, J.A. Einstein-Curtis, C.C. Hall, M.C. Kilpatrick, B. Nash, I.V. Pogorelov
+                       RadiaSoft LLC, Boulder, Colorado, USA
+K.A. Brown
+                       BNL, Upton, New York, USA
+S. Calder
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+A.L. Edelen, B.D. O’Shea, R.J. Roussel
+                       SLAC, Menlo Park, California, USA
+C.M. Hoffmann
+                       ORNL, Oak Ridge, Tennessee, USA
+E.-C. Huang
+                       LANL, Los Alamos, New Mexico, USA
+P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+C. Tennant
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+It is clear from numerous recent community reports, papers, and proposals that machine learning is of tremendous interest for particle accelerator applications. The quickly evolving landscape continues to grow in both the breadth and depth of applications including physics modeling, anomaly detection, controls, diagnostics, and analysis. Consequently, laboratories, universities, and companies across the globe have established dedicated machine learning (ML) and data-science efforts aiming to make use of these new state-of-the-art tools. The current funding environment in the U.S. is structured in a way that supports specific application spaces rather than larger collaboration on community software. Here, we discuss the existing collaboration bottlenecks and how a shift in the funding environment, and how we develop collaborative tools, can help fuel the next wave of ML advancements for particle accelerators.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA55
+
+ 
+
+
+About •
+Received ※ 10 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 22 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA57
+Online Models for X-Ray Beamlines
+170
+
+
+ 
+
+B. Nash, D.T. Abell, M.V. Keilman, P. Moeller, I.V. Pogorelov
+                       RadiaSoft LLC, Boulder, Colorado, USA
+Y. Du, A. Giles, J. Lynch, T. Morris, M.S. Rakitin, A. Walter
+                       BNL, Upton, New York, USA
+N.B. Goldring
+                       STATE33 Inc., Portland, Oregon, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Science, under Award Number DE-SC0020593
+X-ray beamlines transport synchrotron radiation from the magnetic source to the sample at a synchrotron light source. Alignment of elements such as mirrors and gratings are often done manually and can be quite time consuming. The use of photon beam models during operations is not common in the same way that they are used to great benefit for particle beams in accelerators. Linear and non-linear optics including the effects of coherence may be computed from source properties and augmented with measurements. In collaboration with NSLS-II, we are developing software tools and methods to include the model of the x-ray beam as it passes on its way to the sample. We are integrating the Blue-Sky beamline control toolkit with the Sirepo interface to several x-ray optics codes. Further, we are developing a simplified linear optics approach based on a Gauss-Schell model and linear canonical transforms as well as developing Machine Learning models for use directly from diagnostics data. We present progress on applying these ideas on NSLS-II beamlines and give a future outlook on this rather large and open domain for technological development.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA57
+
+ 
+
+
+About •
+Received ※ 27 July 2022 — Revised ※ 02 August 2022 — Accepted ※ 07 August 2022 — Issue date ※ 11 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA59
+Prediction of Gaseous Breakdown for Plasma Cleaning of RF Cavities
+174
+
+
+ 
+
+S.A. Ahmed
+                       Ansys, Inc., Canonsburg, USA
+
+ 
+
+
+ 
+
+The quest for a high accelerating gradient in superconducting radio frequency cavity attracted scientists to adopt the plasma cleaning technology. Generating an efficient plasma inside a complex cavity structure for a desired frequency, gas types, and pressure for a given temperature is a challenge. The onset of discharge can be obtained from the well-known Paschen curve. Setting up an experiment is expensive and time-consuming, which may lead to a significant delay in the project. A high-fidelity computer simulation, modeling an arbitrary geometry and tracking the Paschen curve in a complex electromagnetic environment is therefore necessary. Ansys HFSS through its Finite Element Mesh (FEM) for the full-wave EM simulations combined with the electron impact ionization of gases enables the successful prediction of plasma breakdown for an arbitrary configuration for a wide frequency band and variety of gases. A comprehensive study will be demonstrated at the conference.
+The author like to thank Robert Chao for the valuable discussions and his efforts in developing this capability in the Ansys Electronics Desktop.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA59
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 03 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 19 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA60
+HFSS Enables Multipaction Analysis of High Power RF/Microwave Components
+176
+
+
+ 
+
+S.A. Ahmed
+                       Ansys, Inc., Canonsburg, USA
+
+ 
+
+
+ 
+
+The radiofrequency (RF) components in particle accelerators operated under a vacuum and driven by high RF power may be prone to electron multipaction ’ an RF triggered electron resonance phenomenon causing malfunction or complete breakdown. Therefore, exploring the design challenges of vacuum RF windows, cavities, and other devices for the electron multipaction becomes necessary. Setting up an experiment to mitigate the failure of RF devices is expensive and time-consuming, which may cause a significant delay in the project. Therefore, a high-fidelity computer simulation modeling the arbitrary geometry and tracking the particles (electrons) in a complex electromagnetic environment is desirable. Ansys HFSS through Finite Element Mesh (FEM) for the full-wave RF simulation combined with the particle-in-cell (PIC) technique for tracking particles in EM fields; enables the engineers/physicist successful prediction of system failure against the electron multipaction. This paper will demonstrate the workflow of the HFSS multipaction analysis.
+The author like to thank Robert Chao for the valuable discussions and his efforts in developing this capability in the Ansys Electronics Desktop.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA60
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 13 August 2022 — Accepted ※ 26 August 2022 — Issue date ※ 06 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA61
+Modular Solid-State Switching and Arc Suppression for Vacuum Tube Bias Circuits
+179
+
+
+ 
+
+E.L. Atkinson, T.J. Houlahan, B.E. Jurczyk, R.A. Stubbers
+                       Starfire Industries LLC, Champaign, USA
+
+ 
+
+
+ 
+
+In this work, we present operational and performance data for a solid-state switching circuit that delivers pulsed power at up to 12 kV and 100 A. This circuit, which is comprised of a series configuration of IGBT-based subcircuits, is suitable for driving the high-power vacuum-tube amplifiers that are typically used in RF accelerator systems. Each subcircuit can switch up to 3 kV, and the subcircuits can be stacked in series to extend the overall voltage capabilities of the switch. The circuit is designed to prevent overvoltaging any single transistor during switching transients or faults, regardless of the number of series subcircuits. Further, the circuit also includes the capability for rapid arc detection and suppression. Testing has shown effective switching at up to 100 A at 12 kV and for pulse repetition frequencies and durations in the range of 1-200 Hz and 10-50 µs, respectively. Additionally, the arc suppression circuitry has been shown to reliably limit arcs at 8-12 kV with a quench time of <1 µs and with a total energy of <0.2 J, minimizing the grid erosion in the vacuum-tube during an arc.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA61
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 20 August 2022 — Issue date ※ 10 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA62
+High Quality Conformal Coatings on Accelerator Components via Novel Radial Magnetron with High-Power Impulse Magnetron Sputtering
+182
+
+
+ 
+
+W.M. Huber, I. Haehnlein, T.J. Houlahan, B.E. Jurczyk, A.S. Morrice, R.A. Stubbers
+                       Starfire Industries LLC, Champaign, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy under Award Numbers DE-SC0019784 and DE-SC0020481.
+In this work, we present two configurations of a novel radial magnetron design that are suitable for coating the complex inner surfaces of a variety of modern particle accelerator components. These devices have been used in conjunction with high-power impulse magnetron sputtering (HiPIMS) to deposit copper and niobium films onto the inner surfaces of bellows assemblies, waveguides, and SRF cavities. These films, with thicknesses of up to 3 µm and 40 µm for niobium and copper, respectively, have been shown to be conformal, adherent, and conductive. In the case of copper, the post-bake RRR values of the resulting films are well within the range specified for electroplating of the LCLS-II bellows and CEBAF waveguide assemblies. In addition to requiring no chemical processing beyond a detergent rinse and solvent degrease, this magnetron design exhibits over 80% target material utilization. Further, in the case of niobium, an enhancement in RRR over that of the bulk (target) material has been observed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA62
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 21 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA63
+Multiphysics Simulation of the Thermal Response of a Nanofibrous Target in a High-Intensity Beam
+185
+
+
+ 
+
+W.J. Asztalos
+                       IIT, Chicago, Illinois, USA
+S.K. Bidhar, F. Pellemoine
+                       Fermilab, Batavia, Illinois, USA
+P. Rath
+                       IIT Bhubaneswar, Jatni, India
+Y. Torun
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+
+ 
+
+
+ 
+
+Nanofibrous structures are of high interest to the fields of engineering and materials science, and investigation of their properties as well as discovery of novel applications for them both constitute lively areas of research. A very promising application of nanofiber mats lies in the field of accelerator technology: beam targets made from nanofiber mats offer a solution to the problem of advancing the "intensity frontier"–-the limit on the beam intensities that can be realized in fixed target experiments and neutrino production facilities. However, testing has shown that the survivability of these nanofiber targets depends strongly on their manufacturing parameters, such as the packing density of fibers. In this work, we will use multiphysics simulations to perform a thermal study on how nanofiber targets react to high intensity beams, so that the dependency of the targets’ lifetime on their construction parameters can be better understood.
+
+ 
+
+
+
+
+
+
+Poster MOPA63 [3.656 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA63
+
+ 
+
+
+About •
+Received ※ 14 July 2022 — Revised ※ 02 August 2022 — Accepted ※ 04 August 2022 — Issue date ※ 25 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA64
+Circular Modes for Mitigating Space-Charge Effects and Enabling Flat Beams
+189
+
+
+ 
+
+O. Gilanliogullari
+                       IIT, Chicago, Illinois, USA
+B. Mustaphapresenter
+                       ANL, Lemont, Illinois, USA
+P. Snopok
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, under Contract No. DE-AC02-06CH11357
+Flat beams are preferred in high-intensity accelerators and high-energy colliders due to one of the transverse plane emittances being smaller, which enhances luminosity and beam brightness. However, flat beams are devastating at low energies due to space charge forces which are significantly enhanced in one plane. The same is true, although to a lesser degree, for non-symmetric elliptical beams. In order to mitigate this effect, circular mode beam optics can be used. In this paper, we show that circular mode beams dilute space charge effects at lower energies, and can be transformed to flat beams later on.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA64
+
+ 
+
+
+About •
+Received ※ 09 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 23 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA66
+Hadron Monitor Calibration System for NuMI
+193
+
+
+ 
+
+N.L. Muldrow
+                       IIT, Chicago, Illinois, USA
+P. Snopok
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: CAST Fellowship
+NuMI (Neutrinos at Main Injector) beamline at Fermi National Accelerator Laboratory provides neutrinos to various neutrino experiments. The hadron monitor consisting of a 5 by 5 array of ionization chambers is part of the diagnostics for the beamline. In order to calibrate the hadron monitor, a gamma source is needed. We present the status and progress of the development of the calibration system for the hadron monitor. The system based on Raspberry Pi controlled CNC system, motors, and position sensors would allow us to place the gamma source precisely to calibrate the signal gain of individual pixels. The ultimate outcome of the study is a prototype of the calibration system.
+
+ 
+
+
+
+
+
+
+Poster MOPA66 [2.300 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA66
+
+ 
+
+
+About •
+Received ※ 18 July 2022 — Accepted ※ 12 August 2022 — Issue date ※ 05 September 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA67
+Examining the Effects of Oxygen Doping on SRF Cavity Performance
+196
+
+
+ 
+
+H. Hu, Y.K. Kim
+                       University of Chicago, Chicago, Illinois, USA
+D. Bafia
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Superconducting radiofrequency (SRF) cavities are resonators with extremely low surface resistance that enable accelerating cavities to have extremely high quality factors (Q0). High (Q0) decreases the capital required to keep accelerators cold by reducing power loss. The performance of SRF cavities is largely governed by the surface composition of the first 100 nm of the cavity surface. Impurities such as oxygen and nitrogen have been observed to yield high Q0, but their precise roles are still being studied. Here, we compare the performance of cavities doped with nitrogen and oxygen in terms of fundamental material properties to understand how these impurities affect performance. This enables us to have further insight into the underlying mechanisms that enable these surface treatments to yield high Q0 performance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA67
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Accepted ※ 05 August 2022 — Issue date ※ 03 October 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA69
+Adjoint Optimization Applied to Flat to Round Transformers
+199
+
+
+ 
+
+T.M. Antonsen, B.L. Beaudoin, S. Bernal, L. Dovlatyan, I. Haber, P.G. O’Shea, D.F. Sutter
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by DOE-HEP Awards No. DESC0010301 and DESC0022009
+We present the numerical optimization, using adjoint techniques, of Flat-to-Round (FTR) transformers operating in the strong self-field limit. FTRs transform an unmagnetized beam that has a high aspect ratio, elliptical spatial cross section, to a round beam in a solenoidal magnetic field. In its simplest form the flat to round conversion is accomplished with a triplet of quadrupoles, and a solenoid. FTR transformers have multiple applications in beam physics research, including manipulating electron beams to cool co-propagating hadron beams. Parameters that can be varied to optimize the FTR conversion are the positions and strengths of the four magnet elements, including the orientations and axial profiles of the quadrupoles and the axial profile and strength of the solenoid’s magnetic field. The adjoint method we employ [1] allows for optimization of the lattice with a minimum computational effort including self-fields. The present model is based on a moment description of the beam. However, the generalization to a particle description will be presented. The optimized designs presented here will be tested in experiments under construction at the University of Maryland.
+[1] Optimization of Flat to Round Transformers with self-fields using adjoint techniques, L. Dovlatyan, B. Beaudoin, S. Bernal, I. Haber, D. Sutter and TMA, PhysRevAccelBeams.25.044002 (2022).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA69
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 25 September 2022 — Accepted ※ 05 December 2022 — Issue date ※ 05 December 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA70
+Film Dosimetry Characterization of the Research Linac at the University of Maryland
+203
+
+
+ 
+
+A.S. Johnson, L.T. Gilde, M.K. Hottinger, T.W. Koeth
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+A heavily modified Varian linac was installed as part of the University of Maryland Radiation Facilities in the early 1980s. The electron linac was initially used for materials testing and pulsed radiolysis. Overtime, diagnostics such as a spectrometer magnet and scintillator screens have been removed, limiting the ability to describe the electron beam. The beamline is currently configured with a thin titanium window to allow the electrons to escape the vacuum region and interact with samples in air. A calibrated film dosimetry system was used to characterize the transverse beam dimensions and uniformity in air. The results of these experimental measurements will be described in this paper.
+
+ 
+
+
+
+
+
+
+Poster MOPA70 [3.423 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA70
+
+ 
+
+
+About •
+Received ※ 27 July 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 20 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA72
+Preliminary Tests and Beam Dynamics Simulations of a Straight-Merger Beamline
+206
+
+
+ 
+
+A.A. Al Marzouk, P. Piot, T. Xu
+                       Northern Illinois University, DeKalb, Illinois, USA
+S.V. Benson, K.E. Deitrick, J. Guo, A. Hutton, G.-T. Park, S. Wang
+                       JLab, Newport News, Virginia, USA
+D.S. Doran, G. Ha, P. Piot, J.G. Power, C. Whiteford, E.E. Wisniewski
+                       ANL, Lemont, Illinois, USA
+C.E. Mitchell, J. Qiang, R.D. Ryne
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: NSF award PHY-1549132 to Cornell University and NIU, U.S. DOE contract DE-AC02-06CH11357 with ANL and DE-AC05-06OR23177 with JLAB.
+Beamlines capable of merging beams with different energies are critical to many applications related to advanced accelerator concepts and energy-recovery linacs (ERLs). In an ERL, a low-energy "fresh" bright bunch is generally injected into a superconducting linac for acceleration using the fields established by a decelerated "spent" beam traveling on the same axis. A straight-merger system composed of a selecting cavity with a superimposed dipole magnet was proposed and recently test at AWA. This paper reports on the experimental results obtained so far along with detailed beam dynamics investigations of the merger concept and its ability to conserve the beam brightness associated with the fresh bunch.
+
+ 
+
+
+
+
+
+
+Poster MOPA72 [1.659 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA72
+
+ 
+
+
+About •
+Received ※ 11 August 2022 — Accepted ※ 13 August 2022 — Issue date ※ 02 October 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA74
+Design of a W-Band Corrugated Waveguide for Structure Wakefield Acceleration
+210
+
+
+ 
+
+B. Leung, X. Lu, C.L. Phillips, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+D.S. Doran, X. Lu, P. Piot, J.G. Power
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Current research on structure wakefield acceleration aims to develop radio-frequency structures that can produce high gradients, with work in the sub-terahertz regime being particularly interesting because of the potential to create more compact and economical accelerators. Metallic corrugated waveguides at sub-terahertz frequencies are one such structure. We have designed a W-band corrugated waveguide for a collinear wakefield acceleration experiment at the Argonne Wakefield Accelerator (AWA). Using the CST Studio Suite, we have optimized the structure for the maximum achievable gradient in the wakefield from a nominal AWA electron bunch at 65 MeV. Simulation results from different solvers of CST were benchmarked with each other, with analytical models, and with another simulation code, ECHO. We are investigating the mechanical design, suitable fabrication technologies, and the possibility to apply advanced bunch shaping techniques to improve the structure performance.
+
+ 
+
+
+
+
+
+
+Poster MOPA74 [1.518 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA74
+
+ 
+
+
+About •
+Received ※ 30 July 2022 — Revised ※ 03 August 2022 — Accepted ※ 07 August 2022 — Issue date ※ 26 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA75
+Machine Learning for Slow Spill Regulation in the Fermilab Delivery Ring for Mu2e
+214
+
+
+ 
+
+A. Narayanan
+                       Northern Illinois University, DeKalb, Illinois, USA
+J.M.S. Arnold, M.R. Austin, J.R. Berlioz, P.M. Hanlet, K.J. Hazelwood, M.A. Ibrahim, V.P. Nagaslaev, D.J. Nicklaus, G. Pradhan, P.S. Prieto, A.L. Saewert, B.A. Schupbach, K. Seiya, R.M. Thurman-Keup, N.V. Tran
+                       Fermilab, Batavia, Illinois, USA
+J. Jiang, H. Liu, S. Memik, R. Shi, M. Thieme, D. Ulusel
+                       Northwestern University, Evanston, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work done partly (READS) collaboration at Fermilab (Grant Award No. LAB 20-2261). Fermilab is managed by Fermi Research Alliance, LLC (FRA), acting under Contract No. DE-AC02-07CH11359.
+A third-integer resonant slow extraction system is being developed for the Fermilab’s Delivery Ring to deliver protons to the Mu2e experiment. During a slow extraction process, the beam on target is liable to experience small intensity variations due to many factors. Owing to the experiment’s strict requirements in the quality of the spill, a Spill Regulation System (SRS) is currently under design. The SRS primarily consists of three components - slow regulation, fast regulation, and harmonic content tracker. In this presentation, we shall present the investigations of using Machine Learning (ML) in the fast regulation system, including further optimizations of PID controller gains for the fast regulation, prospects of an ML agent completely replacing the PID controller using supervised learning schemes such as Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) ML models, the simulated impact and limitation of machine response characteristics on the effectiveness of both PID and ML regulation of the spill. We also present here nascent results of Reinforcement Learning efforts, including continuous-action soft actor-critic methods, to regulate the spill rate.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA75
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 18 September 2022 — Issue date ※ 05 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA76
+Wakefield Modeling in Sub-THz Dielectric-Lined Waveguides
+218
+
+
+ 
+
+C.L. Phillips, B. Leung, X. Lu, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+Dielectric-lined waveguides have been extensively studied to potentially support high-gradient acceleration in beam-driven dielectric wakefield acceleration (DWFA) and for beam manipulations. In this paper, we investigate the wakefield generated by a relativistic bunch passing through a dielectric waveguide with different transverse sections. We specifically consider the case of a structure consisting of two dielectric slabs, along with rectangular and square structures. Numerical simulations performed with the fine-difference time-domain of the WarpX program reveal some interesting features of the transverse wake and a possible experiment at the Argonne Wakefield Accelerator (AWA) is proposed.
+
+ 
+
+
+
+
+
+
+Poster MOPA76 [1.294 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA76
+
+ 
+
+
+About •
+Received ※ 12 August 2022 — Accepted ※ 13 August 2022 — Issue date ※ 12 September 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA78
+Temporally-Shaped Ultraviolet Pulses for Tailored Bunch Generation at Argonne Wakefield Accelerator
+222
+
+
+ 
+
+T. Xu, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+S. Carbajo
+                       UCLA, Los Angeles, California, USA
+S. Carbajo, R.A. Lemons
+                       SLAC, Menlo Park, California, USA
+P. Piot
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Photocathode laser shaping is an appealing technique to generate tailored electron bunches due to its versatility and simplicity. Most photocathodes require photon energies exceeding the nominal photon energy produced by the lasing medium. A common setup consists of an infrared (IR) laser system with nonlinear frequency conversion to the ultraviolet (UV). In this work, we present the numerical modeling of a temporal shaping technique capable of producing electron bunches with linearly-ramped current profiles for application to collinear wakefield accelerators. Specifically, we show that controlling higher-order dispersion terms associated with the IR pulse provides some control over the UV temporal shape. Beam dynamics simulation of an electron-bunch shaping experiment at the Argonne Wakefield Accelerator is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA78
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 06 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA79
+Studying the Emission Characteristics of Field Emission Cathodes with Various Geometries
+226
+
+
+ 
+
+M.R. Howard, S.M. Lidia
+                       FRIB, East Lansing, Michigan, USA
+J.E. Coleman
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the NNSA of US DOE under contract 89233218CNA000001 and partially supported by the US DOE under Cooperative Agreement award number DE-SC0018362 and Michigan State University.
+The cathode test stand (CTS) at LANL is designed to hold off voltages of up to 500kV and can supply pulse durations up to 2.6 μs. Using this test stand, we are able to test both field emission and photocathodes with different geometries and materials at various pulse lengths and PFN voltages. Currently, the test stand is used to evaluate field emission using a velvet cathode over various pulse lengths. The CTS employs various diagnostic tools, including E-dots, B-dots, and a scintillator coupled with a pepperpot mask in order to measure the extracted voltage, current, beam distribution, and transverse emittance. Xenos [1] has been used to create and simulate diode geometries that permits study to optimize various beam parameters. These geometries include changing the size and recess of the cathode as well as implementing a Pierce geometry. Here, we will discuss comparisons for various simulated cathodes and how changes in geometry impact given beam parameters.
+[1] See https://www.fieldp.com/xenos.html for information about the Xenos software.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA79
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 10 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 30 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA80
+Design Study for Non-Intercepting Gas-Sheet Profile Monitor at FRIB
+229
+
+
+ 
+
+A. Lokey, S.M. Lidia
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the US Department of Energy, Office of Science, High Energy Physics under Cooperative Agreement award number DE-SC0018362 and Michigan State University.
+Non-invasive profile monitors offer a significant advantage for continuous, online monitoring of transverse beam profile and tuning of beam parameters during operation. This is due to both the non-destructive nature of the measurement and the unique feature that some monitors have of being able to determine both transverse profiles in one measurement [1]. One method of interest for making this measurement is the use of a thin gas curtain, which intercepts the beam and generates both ions and photons, which can be collected at a detector situated perpendicular to the gas sheet. This study will investigate the requirements for developing such a measurement device for use at the Facility for Rare Isotope Beams (FRIB), which produces high-intensity, multi charge state, heavy ion beams. Included will be an initial design specifications and an analysis of alternatives between ionization and beam-induced fluorescence measurement techniques for acquiring signal from the gas sheet.
+[1] I. Yamada, M. Wada, K. Moriya, et al, "High-intensity beam profile measurement using a gas sheet monitor by beam induced fluorescence detection," Phys. Rev. Accel. Beams 24, 042801, 2021.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA80
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 06 August 2022 — Accepted ※ 06 September 2022 — Issue date ※ 07 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA81
+Study of Nonlinear Dynamics in the 4-D Hénon Map Using the Square Matrix Method and Iterative Methods
+232
+
+
+ 
+
+K.J. Anderson, Y. Hao
+                       FRIB, East Lansing, Michigan, USA
+L.H. Yu
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Accelerator Stewardship program under award number DE-SC0019403 US Department of Energy, Office of Science, High Energy Physics under award number DE-SC0018362 and Michigan State University
+The Hénon Map represents a linear lattice with a single sextupole kick. This map has been extensively studied due to its chaotic behavior. The case for the two dimensional phase space has recently been revisited using ideas from KAM theory to create an iterative process that transforms nonlinear perturbed trajectories into rigid rotations*. The convergence of this method relates to the resonance structure and can be used as an indicator of the dynamic aperture. The studies of this method have been extended to the four dimensional phase space case which introduces coupling between the transverse coordinates.
+*Hao, Y., Anderson, K., & Yu, L. H. (2021, August). Revisit of Nonlinear Dynamics in Hénon Map Using Square Matrix Method. https://doi.org/10.18429/JACoW-IPAC2021-THPAB016
+
+ 
+
+
+
+
+
+
+Poster MOPA81 [3.103 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA81
+
+ 
+
+
+About •
+Received ※ 19 July 2022 — Revised ※ 04 August 2022 — Accepted ※ 15 August 2022 — Issue date ※ 26 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA82
+Space Charge Driven Third Order Resonance at AGS Injection
+236
+
+
+ 
+
+M.A. Balcewicz, Y. Hao
+                       FRIB, East Lansing, Michigan, USA
+Y. Hao, H. Huang, C. Liu, K. Zeno
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy
+Resonance line crossings at significant space charge tune shifts can exhibit various phenomena due to periodic resonance crossing from synchrotron motion* and manifests as halo generation and bunch shortening along with the more mundane emittance growth and beam loss. An injection experiment is conducted at the AGS using the fast wall current monitor and electron collecting Ionization Profile Monitor (eIPM) to probe third order resonances to better characterize the resonance crossing over a 4 ms time scale. This experiment shows some agreement with previous experiments, save for lack of bunch shortening, possibly due to relative resonance strength.
+* G. Franchetti et al. PRSTAB 13, 114203. 2010
+
+ 
+
+
+
+
+
+
+Poster MOPA82 [1.924 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA82
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 19 August 2022 — Issue date ※ 24 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA83
+Automation of Superconducting Cavity and Superconducting Magnet Operation for FRIB
+239
+
+
+ 
+
+W. Chang, Y. Choi, X.-J. Du, W. Hartung, S.H. Kim, T. Konomi, S.R. Kunjir, H. Nguyen, J.T. Popielarski, K. Saito, T. Xu, S. Zhao
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+The superconducting (SC) driver linac for the Facility for Rare Isotope Beams (FRIB) is a heavy-ion accelerator that accelerate ions to 200 MeV per nucleon. The linac has 46 cryomodules that contain 324 SC cavities and 69 SC solenoid packages. For linac operation with high availability and high reliability, automation is essential for such tasks as fast device turn-on/off, fast recovery from trips, and real-time monitoring of operational performance. We have implemented several automation algorithms, including one-button turn-on/off of SC cavities and SC magnets; automated degaussing of SC solenoids; mitigation of field emission-induced multipacting during recovery from cavity trips; and real-time monitoring of the cavity field level calibration. The design, development, and operating experience with automation will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA83
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 03 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 26 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA84
+Superconducting Cavity Commissioning for the FRIB Linac
+242
+
+
+ 
+
+W. Chang, W. Hartung, S.H. Kim, T. Konomi, S.R. Kunjir, J.T. Popielarski, K. Saito, T. Xu, S. Zhao
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+The superconducting driver linac for the Facility for Rare Isotope Beams (FRIB) is a heavy ion accelerator that has 46 cryomodules with 324 superconducting (SC) cavities that accelerate ions to 200 MeV per nucleon. Linac commissioning was done in multiple phases, in parallel with technical installation. Ion beam have now been accelerated to the design energy through the full linac; rare isotopes were first produced in December 2021; and the first user experiment was completed in May 2022. All cryomodules were successfully commissioned. Cryomodule commissioning included establishing the desired cavity fields, measuring field emission X-rays, optimizing the tuner control loops, measuring the cavity dynamic heat load, and confirming the low-level RF control (amplitude and phase stability). Results on cryomodule commissioning and cryomodule performance will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA84
+
+ 
+
+
+About •
+Received ※ 13 July 2022 — Revised ※ 02 August 2022 — Accepted ※ 13 August 2022 — Issue date ※ 05 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA85
+Design of a 185.7 MHz Superconducting RF Photoinjector Quarter-Wave Resonator for the LCLS-II-HE Low Emittance Injector
+245
+
+
+ 
+
+S.H. Kim, W. Hartung, T. Konomi, S.J. Miller, M.S. Patil, J.T. Popielarski, K. Saito, T. Xu, T. Xu
+                       FRIB, East Lansing, Michigan, USA
+C. Adolphsen, L. Ge, F. Ji, J.W. Lewellen, L. Xiao
+                       SLAC, Menlo Park, California, USA
+M.P. Kelly, T.B. Petersen, P. Piot
+                       ANL, Lemont, Illinois, USA
+P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Contract DE-AC02-76SF00515.
+A 185.7 MHz superconducting quarter-wave resonator (QWR) was designed for the low emittance injector of the Linac Coherent Light Source high energy upgrade (LCLS-II-HE). The cavity was designed to minimize the risk of cathode efficiency degradation due to multipacting or field emission and to operate with a high RF electric field at the cathode for low electron-beam emittance. Cavity design features include: (1) shaping of the cavity wall to reduce the strength of the low-field coaxial multipacting barrier; (2) four ports for electropolishing and high-pressure water rinsing; and (3) a fundamental power coupler (FPC) port located away from the accelerating gap. The design is oriented toward minimizing the risk of particulate contamination and avoid harmful dipole components in the RF field. The ANL 162 MHz FPC design for PIP-II is being adapted for the gun cavity. We will present the RF design of the cavity integrated with the FPC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA85
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 30 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA86
+Conditioning of Low-Field Multipacting Barriers in Superconducting Quarter-Wave Resonators
+249
+
+
+ 
+
+S.H. Kim, W. Chang, W. Hartung, J.T. Popielarski, T. Xu
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661, the State of Michigan and Michigan State University.
+Multipacting (MP) barriers are typically observed at very low RF amplitude, at a field 2 to 3 orders of magnitude below the operating gradient, in low-frequency (<~100 MHz), quarter-wave resonators (QWRs). Such barriers may be troublesome, as RF conditioning with a fundamental power coupler (FPC) of typical coupling strength (external Q = 106 to 107) is generally difficult. For the FRIB \beta = 0.085 QWRs (80.5 MHz), the low barrier is observed at an accelerating gradient (Eacc) of ~10 kV/m; the operating Eacc is 5.6 MV/m. Theoretical and simulation studies suggested that the conditioning is difficult due to the relatively low RF power dissipated into multipacting rather than being a problem of the low barrier being stronger than other barriers. We developed a single-stub coaxial FPC matching element for external adjustment of the external Q by one order of magnitude. The matching element provided a significant reduction in the time to condition the low barrier. We will present theoretical and simulation studies of the low MP barrier and experimental results on MP conditioning with the single-stub FPC matching element.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA86
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 21 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA87
+Design of the Cathode Stalk for the LCLS-II-HE Low Emittance Injector
+253
+
+
+ 
+
+T. Konomi, W. Hartung, S.H. Kim, S.J. Miller, D.G. Morris, J.T. Popielarski, K. Saito, A. Taylor, T. Xu
+                       FRIB, East Lansing, Michigan, USA
+C. Adolphsen, J.W. Lewellen
+                       SLAC, Menlo Park, California, USA
+S. Gatzmaga, P. Murcek, R. Xiang
+                       HZDR, Dresden, Germany
+M.P. Kelly, T.B. Petersen
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Superconducting radio-frequency (SRF) electron guns are attractive for delivery of beams at a high bunch repetition rate with a high accelerating field. An SRF gun is the most suitable injector for the high-energy upgrade of the Linac Coherent Light Source (LCLS-II-HE), which will produce high-energy X-rays at high repetition rate. An SRF gun is being developed for LCLS-II-HE as a collaborative effort by FRIB, HZDR, ANL, and SLAC. The cavity operating frequency is 185.7 MHz, and the target accelerating field at the photocathode is 30 MV/m. The photocathode is replaceable. The cathode is held by a fixture (’cathode stalk’) that is designed for thermal isolation and particle-free cathode exchange. The stalk must allow for precise alignment of the cathode position, cryogenic or room-temperature cathode operating temperature, and DC bias to inhibit multipacting. We are planning a test of the stalk to confirm that the design meets the requirements for RF power dissipation and biasing. In this presentation, we will describe the cathode stalk design and RF/DC stalk test plan.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA87
+
+ 
+
+
+About •
+Received ※ 04 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 18 August 2022 — Issue date ※ 11 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA88
+FRIB and UEM LLRF Controller Upgrade
+256
+
+
+ 
+
+S.R. Kunjir, E. Bernal, D.G. Morris, S. Zhao
+                       FRIB, East Lansing, Michigan, USA
+C.-Y. Ruan
+                       MSU, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the U.S. DOE Office of Science under Cooperative Agreement DE-SC0000661, the State of Michigan, Michigan State University and U.S. National Science Foundation grant DMR-1625181.
+The Facility for Rare Isotope Beams (FRIB) is developing a 644 MHz superconducting (SC) cavity for a future upgrade project. The current low level radio frequency (LLRF) controller at FRIB is not able to operate at 644 MHz. The Ultrafast Electron Microscope (UEM) laboratory within the Department of Physics at Michigan State University designed an LLRF controller based on analog RF components to operate a 1.013 GHz room temperature (RT) cavity. With requirements for improved stability, performance and user controls there was a need to upgrade the analog LLRF controller. The FRIB radio frequency (RF) group designed, developed and fabricated a new digital LLRF controller, with high-speed serial interface between system on chip field programmable gate array and fast data converters and capable of high frequency direct sampling, to meet the requirements of 644 MHz SC cavity and 1.013 GHz UEM RT cavity. This paper gives an overview of the upgraded digital LLRF controller, its features, improvements and preliminary test results.
+
+ 
+
+
+
+
+
+
+Poster MOPA88 [2.818 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA88
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 03 August 2022 — Accepted ※ 04 August 2022 — Issue date ※ 16 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA89
+RHIC Electron Beam Cooling Analysis Using Principle Component and Autoencoder Analysis
+260
+
+
+ 
+
+A.D. Tran, Y. Hao
+                       FRIB, East Lansing, Michigan, USA
+X. Gu
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the US Department of Energy under contract No. DE-AC02-98CH10886.
+Principal component analysis and autoencoder analysis were used to analyze the experimental data of RHIC operation with low energy RHIC electron cooling (LEReC). This is unsupervised learning which includes electron beam settings and observable during operation. Both analyses were used to gauge the dimensional reducibility of the data and to understand which features are important to beam cooling.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA89
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 12 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA90
+Relating Initial Distribution to Beam Loss on the Front End of a Heavy-Ion Linac Using Machine Learning
+263
+
+
+ 
+
+A.D. Tran, Y. Hao
+                       FRIB, East Lansing, Michigan, USA
+J.L. Martinez Marin, B. Mustapha
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by a sub-reward from Argonne National Laboratory and supported by the U.S. Department of Energy, under Contract No. DE-AC02-06CH11357.
+This work demonstrates using a Neural Network and a Gaussian Process to model the ATLAS front-end. Various neural network architectures were created and trained on the machine settings and outputs to model the phase space projections. The model was then trained on a dataset, with non-linear distortion, to gauge the transferability of the model from simulation to machine.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA90
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 11 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPA91
+Plasma Processing of Superconducting Quarter-Wave Resonators Using a Higher-Order Mode
+267
+
+
+ 
+
+W. Hartung, W. Chang, K. Elliott, S.H. Kim, T. Konomipresenter, J.T. Popielarski, K. Saito, T. Xu
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+The Facility for Rare Isotope Beams (FRIB) is a superconducting ion linac with acceleration provided by 104 quarter-wave resonators (QWRs) and 220 half-wave resonators (HWRs); FRIB user operations began in May 2022. Plasma cleaning is being developed as a method to mitigate possible future degradation of QWR or HWR performance: in-situ plasma cleaning represents an alternative to removal and disassembly of cryomodules for refurbishment of each cavity via repeat etching and rinsing. Initial measurements were done on a QWR and an HWR with room-temperature-matched input couplers to drive the plasma via the fundamental mode. Subsequent plasma cleaning tests were done on two additional FRIB QWRs using the fundamental power coupler (FPC) to drive the plasma. When using the FPC, a higher-order mode (HOM) at 5 times the accelerating mode frequency was used to drive the plasma. Use of the HOM allowed for less mismatch at the FPC and hence lower field in the coupler relative to the cavity. A neon-oxygen gas mixture was used for plasma generation. Before and after cold tests showed a significant reduction in field emission X-rays after plasma cleaning. Results will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOPA91
+
+ 
+
+
+About •
+Received ※ 12 August 2022 — Revised ※ 16 August 2022 — Accepted ※ 25 August 2022 — Issue date ※ 16 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

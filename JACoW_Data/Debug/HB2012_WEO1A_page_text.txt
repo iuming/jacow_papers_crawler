@@ -1,0 +1,171 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB2012 - Table of Session: WEO1A (Working Group-A)
+
+
+WEO1A —  Working Group-A   (19-Sep-12   09:00—10:20)
+Chair: E. Métral, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+WEO1A01
+Impedance Studies of 2D Azimuthally Symmetric Devices of Finite Length
+344
+
+
+ 
+
+N. Biancacci, E. Métral, B. Salvant
+                       CERN, Geneva, Switzerland
+N. Biancacci
+                       Rome University La Sapienza, Roma, Italy
+M. Migliorati, L. Palumbo
+                       URLS, Rome, Italy
+V.G. Vaccaro
+                       Naples University Federico II, Mathematical, Physical and Natural Sciences Faculty, Napoli, Italy
+
+ 
+
+
+ 
+
+In circular accelerators, the beam quality can be strongly affected by the self-induced electromagnetic fields excited by the beam in the passage through the elements of the accelerator. The beam coupling impedance quantifies this interaction and allows predicting the stability of the dynamics of high intensity, high brilliance beams. The coupling impedance can be evaluated with finite element methods or using analytical methods, such as Field Matching or Mode Matching. In this paper we present an application of the Mode Matching technique for an azimuthally uniform structure of finite length: a cylindrical cavity loaded with a toroidal slab of lossy dielectric, connected with cylindrical beam pipes. In order to take into account the finite length of the structure, with respect to the infinite length approximation, we decompose the fields in the cavity into a set of orthonormal modes. We obtain a complete set of equations using the magnetic field matching and the non-uniform convergence of the electric field on the cavity boundaries. We present benchmarks done with CST Particle Studio simulations and existing analytical formulas, pointing out the effect of finite length and non-relativistic beta.
+
+ 
+
+
+
+
+
+
+Slides WEO1A01 [6.689 MB]
+            
+ 
+
+
+ 
+
+
+
+WEO1A02
+LHC Impedance Model: Experience with High Intensity Operation in the LHC
+349
+
+
+ 
+
+B. Salvant, O. Aberle, G. Arduini, R.W. Aßmann, V. Baglin, M.J. Barnes, P. Baudrenghien, A. Bertarelli, C. Bracco, R. Bruce, X. Buffat, F. Carra, F. Caspers, G. Cattenoz, S.D. Claudet, H.A. Day, J.F. Esteban Müller, M. Garlaschè, L. Gentini, B. Goddard, A. Grudiev, B. Henrist, W. Herr, S. Jakobsen, R.J. Jones, G. Lanza, L. Lari, T. Mastoridis, N. Mounet, E. Métral, A.A. Nosych, J.L. Nougaret, S. Persichelli, T. Pieloni, A.M. Piguiet, S. Redaelli, F. Roncarolo, G. Rumolo, B. Salvachua, M. Sapinski, E.N. Shaposhnikova, L.J. Tavian, M.A. Timmins, J.A. Uythoven, A. Vidal, R. Wasef, D. Wollmann
+                       CERN, Geneva, Switzerland
+A.V. Burov
+                       Fermilab, Batavia, USA
+S.M. White
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The CERN Large Hadron Collider (LHC) is now in luminosity production mode and has been pushing its performance in the past months by increasing the proton beam brightness, the collision energy and the machine availability. As a consequence, collective effects have started to become more and more visible and have effectively slowed down the performance increase of the machine. Among these collective effects, the interaction of brighter LHC bunches with the longitudinal and transverse impedance of the machine has been observed to generate beam induced heating and transverse instabilities since 2010. This contribution reviews the current LHC impedance model obtained from theory, simulations and bench measurements as well as a selection of measured effects with the LHC beam.
+
+ 
+
+
+
+
+
+
+Slides WEO1A02 [7.991 MB]
+            
+ 
+
+
+ 
+
+
+
+WEO1A03
+Resistive Wall Instability in CSNS/RCS
+354
+
+
+ 
+
+L. Huang, Y.D. Liu, S. Wang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Rapid Cycling Synchrotron (RCS) of the China Spallation Neutron Source (CSNS) is a high intensity proton accelerator, with average beam power of 100kW. The collective effects caused by the coupling impedance may be the limit to beam power. The impedance estimation for components on beam line shows that the resistive wall impedance and its instability are more serious than any others. Based on the impedance budget, the instability is theoretically estimated. A simple resistive wall wake field model is used to simulate the bunch oscillation and obtain the growth time. In this simulation model, the continuous resistive wall wake field is concentrated to one position in the ring and the long bunch is sliced into many micro-bunches. By tracking the dynamics of the macro-bunches, the transverse growth time are obtained. The simulation results are also confirmed the restriction to instability by natural chromaticity.
+# Supported by National Natural Science Foundation of China (11175193) *wangs@ihep.ac.cn
+
+ 
+
+
+
+
+
+
+Slides WEO1A03 [1.358 MB]
+            
+ 
+
+
+ 
+
+
+
+WEO1A04
+Longitudinal Instabilities in the SPS and Beam Dynamics Issues with High Harmonic RF Systems
+358
+
+
+ 
+
+E.N. Shaposhnikova, T. Argyropoulos, T. Bohl, J.F. Esteban Müller, H. Timko
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Even after a successful impedance reduction programme which eliminated the microwave instability in the SPS another longitudinal instability is still one of the main intensity limitations. It is observed during acceleration ramp for both single bunch and multibunch beams at intensities below the nominal LHC intensity. With the lower transition energy of the new SPS optics, under intensive studies now, the thresholds are increased. However, even in this case the operation of the 4th harmonic RF system is required for stability of the nominal beams. To cope with the higher intensity beams required for the future High Luminosity LHC an upgrade program for both RF systems is under way. The results of studies of the parameter space required for beam stability are presented and compared with operation modes of double RF systems in other accelerators.
+
+ 
+
+
+
+
+
+
+Slides WEO1A04 [6.135 MB]
+            
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,3828 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2015 - Table of Session: THPB (Poster Session)
+
+
+THPB —  Poster Session   (17-Sep-15   14:30—17:40)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPB001
+Propagation of the High Frequency Fields in the Chain of the Superconducting Cavities
+1049
+
+
+ 
+
+A. Novokhatski
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the Department of Energy. Contract no.DOE-AC03-76SF00515.
+Combination with the very high repetion rate requires to use the superconducting cavities to accelerate very short bunches for the FEL operation.. In the cavities these bunches excite very high frequency electromagnetic fields. There are severe concerns, that these fields will remain inside the structure for a long time, bring additional heating or even break up the Cooper pairs. We present results of the simulation of the transient dynamics of wake fields of very short bunches. We show how much of the energy is vanishing through the beam pipes immediately and how much energy is staying in the cavity for a long time.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB002
+Second Harmonic Cavity Design for Synchrotron Radiation Energy Compensator in eRHIC Project
+1052
+
+
+ 
+
+C. Xu, S.A. Belomestnykh, I. Ben-Zvi, W. Xu
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: DOE
+eRHIC project requires construction of a FFAG ring to accelerate electrons and connect to the existing ion ring of Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory. This new ring will have the same radius as the RHIC ring. Synchrotron radiation lost in the electron ring should be compensated by a CW superconducting radio frequency (SRF) cavity. Here we propose an 845 MHz single cell harmonic cavity. This cavity will experience a high average current (∼0.7 A) passing through it. With this consideration, this cavity design requires optimization to reduce higher order mode power. On the other hand, the cavity will operate at relatively high gradient up to 18 MV/m. Current design requires fundamental couplers to handle 400 kW forward RF power and HOM couplers to extract 2.5 kW HOM power.
+This work is supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. DOE. 
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB003
+Calculations for RF Cavities with Dissipative Material
+1056
+
+
+ 
+
+F. Marhauser
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177
+3D simulations have been performed for a variety of SRF cavities which incorporate Higher Order Mode dampers, either in form of coaxial couplers or waveguide dampers. Instead of utilizing the rather standard approach of matching the output port of the dampers with a broadband coaxial or waveguide port, dissipative materials are modelled for RF field absorption. This for instance not only avoids the otherwise required definition of the number of modes considered for damping, which has an impact on the computational time, but also allows tailoring the load material to conform with experimental data of e.g. non-perfect absorbers. The new calculation scheme is presented. Findings are partially compared with those achieved with the standard waveguide port approach by means of external quality factors. CPU speeds are briefly discussed for both approaches.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB004
+HOM Calculations for Different Cavities and Beam Induced HOM Power Analysis of ESS
+1061
+
+
+ 
+
+H.J. Zheng, J. Gao
+                       IHEP, Beijing, People's Republic of China
+J.F. Chen
+                       INFN/LASA, Segrate (MI), Italy
+C. Pagani
+                       Università degli Studi di Milano & INFN, Segrate, Italy
+
+ 
+
+
+ 
+
+For different design of ESS superconducting cavities, the higher order modes (HOM's) of monopoles, dipoles, quadrupoles and sextupoles are found. Their R/Q values are also calculated. Main HOM related issues are the beam instabilities and the HOM induced power especially from TM monopoles. The analysis for the beam induced HOM voltage and power in this paper showed that, if the HOM frequency is a few kHz away from the beam spectrum, it is not a problem. In order to understand the effects of the beam structure, analytic expressions are developed. With these expressions, the induced HOM voltage and power were calculated by assuming external Q for each HOM. Our analysis confirm that, with thebeam structure of ESS and a good cavity design, no special tight tolerances are required for cavity fabrication and no HOM couplers in the cavity beam pipes are planned.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB005
+Simulations of 3.9 GHz CW Coupler for LCLS-II Project
+1066
+
+
+ 
+
+I.V. Gonin, T.N. Khabiboulline, A. Lunin, N. Solyak
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+LCLS-II linac is based on XFEL/ILC superconducting technology. TTF-III fundamental power coupler for the 3.9 GHz 9-cell cavities has been modifies to satisfy requirements of LCLS-II, operating in CW regime. In this paper we discuss the results of COMSOL analysis of the possible modification of couplers, working at various operating regimes. We present also the results of mechanical study.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB006
+Improvements of Buildcavity Code
+1070
+
+
+ 
+
+J.F. Chen, M. Moretti, C. Pagani, P. Pierini
+                       INFN/LASA, Segrate (MI), Italy
+C. Pagani
+                       Università degli Studi di Milano & INFN, Segrate, Italy
+
+ 
+
+
+ 
+
+Recentely, we improve the BuildCavity code, which is a graphics interface to SUPERFISH for the study of superconducting cavities of elliptical shape. Now it works with latest SUPERFISH 7 and can be installed also on newer Windows system such as Win 7 and 8. Several improvements have been done in the code. As an example, a design of ESS median-beta cavity with BuildCavity will also be presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB007
+A Study of Resonant Excitation of Longitudinal HOMs in the Cryomodules of LCLS-II
+1073
+
+
+ 
+
+K.L.F. Bane, C. Adolphsen, A. Chao, Z. Li
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy under contract DE-AC02-76SF00515
+The Linac Coherent Light Source (LCLS) at SLAC, the world's first hard X-ray FEL, is being upgraded to the LCLS-II. The major new feature will be the installation of 35 cryomodules (CMs) of TESLA-type, superconducting accelerating structures. It is envisioned that LCLS-II will eventually be able to deliver 300 pC, 1 kA pulses of beam at a rate of 1 MHz. At a cavity temperature of 2K, any heat generated (even on the level of a few watts) is expensive to remove. In the last linac of LCLS-II, L3–-where the peak current is highest–-the power radiated by the bunch in the CMs is estimated at 14 W (charge 300 pC option, rep rate 1 MHz). But this calculation ignores resonances that can be excited between the bunch frequency and higher order mode (HOM) frequencies in the CMs, which in principle can greatly increase this number. In this report we develop a theory of resonant build up. Then, using 500 numerically obtained modes over the frequency range 3–5 GHz, we estimate the probability of significant resonant build up in L3 of LCLS-II. The effects of small random bunch phase and charge errors will also be addressed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB008
+RF Simulations for an LCLS-II 3rd Harmonic Cavity Cyromodule
+1078
+
+
+ 
+
+L. Xiao, C. Adolphsen, Z. Li, T.O. Raubenheimer
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The FNAL designed 3.9 GHz third harmonic cavity for XFEL will be used in LCLS-II for linearizing the longitudinal beam profile. The 3.9 GHz SRF cavity is scaled down from the 1.3 GHz TESLA cavity shape, but has a disproportionately large beampipe radius for better higher-order mode (HOM) damping. The HOM and fundamental power (FPC) couplers will generate asymmetric field in the beam region, and thereby dilute the beam emittance. Meanwhile, due to the large beampipe, all but a few of the HOMs are above the beampipe cutoff. Thus the HOM damping analyses need to be performed in a full cryomodule, rather than in an individual cavity. The HOM damping in a 4-cavity cryomodule was investigated to determine possible trapped modes using the parallel electromagnetic code suite ACE3P developed at SLAC. The coupler RF kicks induced by the HOM and FPC couplers in the 3.9 GHz cavity were evaluated. A possible cavity-to-cavity arrangement is proposed which could provide effective cancellation of these RF kicks. In this paper we present and discuss the RF simulation results in the 3.9 GHz third harmonic cavity cryomodule.
+Work supported by Department of Energy under contract Number DE-AC02-76SF00515.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB010
+INFN Milano - LASA Activities for ESS
+1081
+
+
+ 
+
+P. Michelato, M. Bertucci, A. Bignami, A. Bosotti, J.F. Chen, L. Monaco, M. Moretti, R. Paparella, P. Pierini, D. Sertore
+                       INFN/LASA, Segrate (MI), Italy
+C. Pagani
+                       Università degli Studi di Milano & INFN, Segrate, Italy
+H.J. Zheng
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+INFN Milano – LASA is involved in the development and industrialization for the production of 704.4 MHz medium beta (β = 0.67) cavities for the ESS project. In this framework, we are designing a medium beta prototype cavity exploring both Large Grain and Fine Grain Niobium for its production as well as a high beta (β = 0.86) Large Grain cavity. In the meanwhile, an activity is ongoing for upgrading the LASA test facility to be able to test these kind of resonators.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB011
+Superconducting Travelling Wave Accelerating Structure Development
+1085
+
+
+ 
+
+R.A. Kostin, P.V. Avrakhov, A.D. Didenko, A. Kanareykin
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+T.N. Khabiboulline, Y.M. Pischalnikov, N. Solyak, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US Department of Energy # DE-SC0006300
+The 3 cell superconducting TW accelerating structure was developed to experimentally demonstrate and to study tuning issues for a new experimental device - the superconducting traveling wave accelerator (STWA), a technology that may prove of crucial importance to the high energy SRF linacs by raising the effective gradient and therefore reducing the overall cost. Recently, a STWA structure with a feedback waveguide has been suggested. The structure was optimized and has phase advance per cell of 105° which provide 24% higher accelerating gradient than in SW cavities. Also STWA structure has no strong sensitivity of the field flatness and its length may be much longer than SW structure. With this presentation, we discuss the current status of a 3-cell L-band SC traveling wave along with the analysis of its tuning issues. Special attention will be paid to feedback loop operation with the two-coupler feed system. We also report on the development and fabrication of a niobium prototype 3-cell SC traveling wave structure to be tested at 2°K in fall 2015.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB013
+A Novel Design and Development of 650 MHz, β=0.61, 5-Cell  SRF Cavity for High Intensity Proton Linac
+1088
+
+
+ 
+
+S.S. Som, P. Bhattacharyya, A. Dutta Gupta, S. Ghosh, A. Mandal, S. Seth
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+Funding: DAE, Govt. of India
+DAE laboratories in India are involved in R&D activities on SRF cavity technology for the proposed high intensity proton linacs for ISNS/IADS and also FERMILAB PIP-II program under IIFC. VECC is responsible for design, analysis and development of a 650 MHz, β=0.61, 5-cell elliptical cavity. This paper describes the novel design of the cavity, with different aperture and wall angle, having better field flatness and mechanical stability, reliable surface processing facility and less beam loss. The cavity geometry has been optimized to get acceptable values of field enhancement factors, R/Q, Geometric factor, cell-to-cell coupling etc. The effective impedance of transverse and longitudinal HOMs are low enough to get rid of HOM damper for low beam current. 2-D analysis shows no possibility of multipacting. However, 3-D analysis using CST Particle Studio code confirms its presence and it can be suppressed by introducing a small convexity in the equator region. Two niobium half cells and beam pipes for the single cell cavity have been fabricated. Measurement and RF characterisation of half cells, prototype 1-cell and 5-cell and also 1-cell niobium cavities have been carried out.
+email:ssom@vecc.gov.in
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB014
+Mechanical Optimization of High Beta 650 MHz Cavity for Pulse and CW Operation of PIP-II Project
+1093
+
+
+ 
+
+T.N. Khabiboulline, I.V. Gonin, C.J. Grimm, A. Lunin, T.H. Nicol, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+P. Kumar
+                       RRCAT, Indore (M.P.), India
+
+ 
+
+
+ 
+
+The proposed design of the 0.8 GeV PIP-II SC Linac employs two families of 650 MHz 5-cell elliptical cavities with 2 different beta. The β=0.61 will cover the 185-500 MeV range and the β=0.92 will cover the 500-800 MeV range. In this paper we will present update of RF and mechanical design of dressed high beta cavity (β=0.92) for pulse regime of operation at 2 mA beam current. In previous CW version of PIP-II project the mechanical design was concentrated on minimization of frequency shift due to helium pressure fluctuation. In current case of pulse regime operation the main goal was Lorentz force detuning minimization. We present the scope of coupled RF-Mechanical issues and their resolution. Also detailed stress analysis of dresses cavity will be presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB015
+Design of a Medium Beta Half-Wave SC Prototype Cavity at IMP
+1097
+
+
+ 
+
+A.D. Wu, Y. He, T.C. Jiang, Y.M. Li, F.F. Wang, R.X. Wang, L.J. Wen, W.M. Yue, C. Zhang, S.H. Zhang, S.X. Zhang, H.W. Zhao
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+A superconducting half-wave resonator has been designed with frequency of 325 MHz and beta of 0.51. The geometry parameters and the three shapes of inner conductors (racetrack, ring-shape and elliptical-shape) were studied in details to decrease the peak electromagnetic fields to obtain higher accelerating gradients and minimize the dissipated power on the RF walls. To suppress the operation frequency shift caused by the helium pressure fluctuations and maximize the tuner ranges, the frequency shifts and mechanical characters were simulated in the electric and magnetic areas separately. At the end, the helium vessel was also designed to keep stability as possible. The fabrication and test of the prototype will be complete at the beginning of 2016.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB017
+A Higher Harmonic Cavity at 800 MHz for HL-LHC
+1100
+
+
+ 
+
+T. Roggen, P. Baudrenghien, R. Calaga
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Marie Curie action: Grant agreement PCOFUND-GA-2010-267194
+A superconducting 800 MHz second harmonic system is proposed for HL-LHC. It serves as a cure for beam instabilities with high beam currents by improving Landau damping and will allow for bunch profile manipulation. This can potentially help to reduce intra-beam-scattering, beam induced heating and e-cloud effects, pile-up density in the detectors and beam losses. An overview of the 800 MHz cavity design and RF power requirements is given. In particular the design parameters of the cavity shape and HOM couplers are described. Some other aspects such as RF power requirements and cryomodule layout are also addressed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB019
+Bead-Pull Measurements of the Main Deflecting Mode of the Double-Quarter-Wave Cavity for the HL-LHC
+1105
+
+
+ 
+
+M. Navarro-Tapia, R. Calaga
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: This research has received funding from the European Commission under the FP7 project HiLumi LHC (Grant agreement no. 284404), and under a Marie Curie action (Grant agreement PCOFUND-GA-2010-267194).
+A full-scale model of the double-quarter-wave (DQW) cavity towards the High-Luminosity Large Hadron Collider (HL-LHC) upgrade was built in aluminum to characterize the deflecting mode. Field strength measurements have been carried out for both the transverse and longitudinal electromagnetic fields, by using the bead-pull technique. Perturbation objects of different shapes and material were used to separate the electric and magnetic field components. A reasonably good agreement was found between numerical simulation and measurements, which confirm the reliability and accuracy of the measurements done.
+
+ 
+
+
+
+
+
+
+Poster THPB019 [0.237 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB021
+Balloon Variant of Single Spoke Resonator
+1110
+
+
+ 
+
+Z.Y. Yao, R.E. Laxdal, V. Zvyagintsev
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+Spoke resonators have been widely proposed and optimized for various applications. Good performance has been demonstrated by many cavity tests. Accompanying the great progress, the adverse impact of strong multipacting (MP) is also noted by recent test reports, consistent with modern 3D simulations. This paper will discuss MP behaviors in the single spoke resonator. In particular a phenomenological theory is developed to highlight the details of the geometry that affect MP. The analysis leads to an optimized geometry of a single spoke resonator defined here as the ‘balloon geometry’. A 325MHz β=0.3 single spoke resonator based on 'balloon' concept is under development by the RISP-TRIUMF Collaboration. The RF and mechanical design of this cavity will also be reported.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB022
+A Preliminary Design of a Superconducting Accelerating Structure for Extremely Low Energy Proton Working in TE210 Mode
+1115
+
+
+ 
+
+Z.Q. Yang, X.Y. Lu, W.W. Tan, D.Y. Yang, J. Zhao
+                       PKU, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+For the application of high intensity continuous wave (CW) proton beam acceleration, a new superconducting accelerating structure for extremely low β proton working in TE210 mode has been proposed at Peking University. The cavity consists of eight electrodes and eight accelerating gaps. The RF frequency is 162.5MHz, and the designed proton input energy is 200keV. A peak field optimization has been performed for the lower surface field. The accelerating gaps are adjusted by phase sweeping based on KONUS beam dynamics. Solenoids are placed outside the cavity to provide transverse focusing. Numerical calculation shows that the transverse defocusing of the KONUS phase is about three times smaller than that of the conventional negative synchronous RF phase. The beam dynamics of a 10mA CW proton beam is simulated by the TraceWin code. The simulation results show that the beam’s size is under effective control. Both the simulation and the numerical calculation show that the cavity has a relatively high effective accelerating gradient of 2.6MV/m. Our results show that this new accelerating structure may be a possible candidate for superconducting operation at such a low energy range.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB023
+The Statistics of Industrial XFEL Cavities Fabrication at E.ZANON
+1119
+
+
+ 
+
+A. Gresele, M. Giaretta, A. Visentin
+                       Ettore Zanon S.p.A., Nuclear Division, Schio, Italy
+A.A. Sulimov, J.H. Thie
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Serial production of superconducting cavities for European-XFEL will be completed at E.ZANON by the end of 2015. For that reason we can summarize the results and present the statistics of industrial cavity fabrication. Many parameters have been traced during different steps of cavity production. The most interesting of them, as cavity length, frequency, field flatness and eccentricity, are presented and discussed.
+
+ 
+
+
+
+
+
+
+Poster THPB023 [3.227 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB025
+Exchange and Repair of Titanium Service Pipes for the EXFEL Series Cavities
+1122
+
+
+ 
+
+M. Schalwat, S. Barbanotti, A. Daniel, H. Hintz, K. Jensch, A. Matheisen, S. Saegebarth, P. Schilling
+                       DESY, Hamburg, Germany
+A. Schmidt
+                       XFEL. EU, Hamburg, Germany
+
+ 
+
+
+ 
+
+Longitudinally-welded 72 mm ID service pipes (HSP) made from titanium grade 2 is used by the two suppliers of the helium tanks for the EU-XFEL accelerator. From the perspective of the PED DESY is legally designated as the manufacturer and is responsible for conformity to all relevant codes. During module assemblies at CEA Saclay the orbital welds of the interconnection bellows between cavities showed pores with dimensions outside the specifications set by DESY. These welds needed to be redone which caused a project delay of several months. The X-ray examination of the HSP showed that the pipes already exhibited many out-of- DESY spec pores in the longitudinal welds and were most likely the main cause of the problems in the orbital welds. It was decided to replace the extremities of the service pipes with seamless titanium tubes both on “naked” helium tanks as well as on tanks with cavities already welded in. At DESY more than 750 service pipes were exchanged over a period of 2 years. The qualification of the repair line according to PED regulation and the prove with RF test at 2 K that the repairs do not influence the high performance of the s.c. cavities were done.
+
+ 
+
+
+
+
+
+
+Poster THPB025 [0.172 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB026
+Update on SRF Cavity Design,  Production and Testing for BERLinPro
+1127
+
+
+ 
+
+A. Neumann, W. Anders, A. Burrill, A. Frahm, H.-W. Glock, J. Knobloch, O. Kugeler
+                       HZB, Berlin, Germany
+K. Brackebusch, T. Galek, J. Heller, U. van Rienen
+                       Rostock University, Faculty of Computer Science and Electrical Engineering, Rostock, Germany
+G. Ciovati, W.A. Clemens, C. Dreyfuss, D. Forehand, T. Harris, P. Kneisel, R.B. Overton, L. Turlington
+                       JLab, Newport News, Virginia, USA
+E.N. Zaplatin
+                       FZJ, Jülich, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by German Bundesministerium für Bildung und Forschung, Land Berlin, and grants of Helmholtz Association.
+The BERLinPro Energy Recovery Linac (ERL) is currently being built at Helmholtz-Zentrum Berlin in order to study the accelerator physics of operating a high current, 100 mA, 50 MeV low emittance ERL utilizing all SRF cavity technology. For this machine three different types of SRF cavities are being developed. For the injector section, consisting of an SRF photoinjector and a three two cell booster cavity module, fabrication is completed. The cavities were designed at HZB and manufactured, processed and vertically tested at Jefferson Laboratory. In this paper we will review the design and production process of the two structures and show the latest horizontal acceptance tests at HZB prior to installation into the newly designed cryo-module. For the Linac cavity the latest cavity and module design studies are being shown.
+
+ 
+
+
+
+
+
+
+Poster THPB026 [1.535 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB027
+Welding a Helium Vessel to a 1.3 GHz 9-Cell Nitrogen Doped Cavity at Fermilab for LCLS-II
+1132
+
+
+ 
+
+C.J. Grimm, J.A. Kaluzny, D.J. Watkins
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Fermilab has developed a TIG welding procedure that is used attach a nitrogen doped 1.3 GHz 9-cell niobium (Nb) cavity to a titanium (Ti) helium vessel. These cavities will be used in the two prototype cryomodules for the Linac Coherent Light Source (LCLS-II) upgrade at SLAC National Accelerator Laboratory. Discussion in further detail will include setting up TIG welding parameters and tooling requirements for assembly and alignment of the cavity to the helium vessel. The weld designs and glovebox environment produce the best quality TIG welds that meet ASME Boiler and Pressure Vessel Code. The cavity temperature was monitored to assure the nitrogen doping is preserved, and RF measurements are taken throughout the process to monitor the cavity for excessive cell deformation due to heat loads from welding.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB028
+ESS Medium Beta Cavity Prototypes Manufacturing
+1136
+
+
+ 
+
+E. Cenni, C. Arcambal
+                       CEA/IRFU, Gif-sur-Yvette, France
+P. Bosland, G. Devanz, X. Hanus, P. Hardy, V.M. Hennion, F. Leseigneur, F. Peauger, J. Plouin, D. Roudier
+                       CEA/DSM/IRFU, France
+G. Costanza
+                       Lund University, Lund, Sweden
+C. Darve
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The ESS elliptical superconducting linac consists of two types of 704.42 MHz cavities, medium and high beta, to accelerate the beam from 216 MeV (spoke cavity linac) up to the full energy at 2 GeV. The last linac optimization, called Optimus+, has been carried out taking into account the limitations of SRF cavity performance (field emission). The medium and high-beta parts of the linac are composed of 36 and 84 elliptical cavities, with geometrical beta values of 0.67 and 0.86 respectively. We describe here the procedures and numerical analysis leading from half-cells to a complete medium cavity assembly, which take into account not only the frequency of the fundamental accelerating mode but also the higher order modes near the machine line. The half cell selection process to form dumb bells will be described, as well as the reshaping and trimming procedure.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB029
+MHI's Production Activities of Superconducting Cavity
+1141
+
+
+ 
+
+A. Miyamoto, H. Hara, K. Kanaoka, K. Okihira, K. Sennyu, T. Yanagisawa
+                       MHI, Hiroshima, Japan
+
+ 
+
+
+ 
+
+Mitsubishi Heavy Industries (MHI) have developed manufacturing process of superconducting cavities for a long time. In this presentation, recent progress will be reported.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB030
+Fabrication and Evaluation of Low RRR Large Grain 1-Cell Cavity
+1146
+
+
+ 
+
+H. Shimizu, H. Inoue, E. Kako, T. Saeki, K. Umemori, Y. Watanabe, M. Yamanaka
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Successive R&D studies of SRF cavities are ongoing at KEK by using existing facilities of Cavity Fabrication Facility (CFF) and other equipment of Superconducting Test facility (STF). Recently, there are studies on the low RRR of niobium material with high and uniform concentration of tantalum which could be used for the fabrication of high performance SRF cavity, and hence it could reduce the fabrication cost of cavities [1]. In order to confirm the advantage of the material, a large-grain single-cell cavity was fabricated at CFF/KEK with sheets sliced from a low RRR niobium ingot with high and uniform concentration of tantalum. The resistivity measurement of sample from sliced sheet showed the RRR value of 100, whereas it is about 400 for the nominal qualification of fine-grain sheets at KEK. The low RRR large-grain single-cell cavity was already fabricated at CFF/KEK. The quality control of the fabrication processes are well under control. Then several vertical tests of the cavity were done at STF/KEK. In this presentation, the results of the vertical tests are shown. The potential of the low RRR niobium material for SRF cavity are discussed.
+*P.Kneisel et al, NIM A774(2015)133
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB031
+Operation Experience with Half Cell Measurement Machine and Cavity Tuning Machine in 3 Years of European XFEL Cavity Series Production
+1149
+
+
+ 
+
+J.H. Thie, A. Gössel, J. Iversen, D. Klinke, C. Müller, A.A. Sulimov, D. Tischhauser
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+For the European XFEL superconducting Cavity series production at both cavity vendors’ four manufacturing machines for production key functions, HAZEMEMA and CTM, are supplied by DESY. Among three years of cavity production in two companies a lot of experience is gathered about influence of surroundings and production quality on cycle times, machine drop outs, general stability time of machines and parts subject to wear. Significant factors on cycle time for tuning operation like temperature stability and drift during tuning and measurements, precision of cell trimming before welding and tuning and generally geometrical factors are shown. RF aspects of tuning and production quality control as additional measurements for TM011-mode to estimate quality of its damping is presented. Performed full Cavity RF measurements exceeds XFEL specifications gives a possibility for additional quality control on welding shrinkage stability and it’s homogeneously distribution. The use of HAZEMEMA and CTM to assess the impact of asymmetric trimming, including calculation of it’s influence on the higher-order modes, is shown.
+
+ 
+
+
+
+
+
+
+Poster THPB031 [0.201 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB032
+Release Processes and Documentation Methods During Series Treatment of SRF Cavities for the European XFEL by Using an Engineering Data Management System
+1154
+
+
+ 
+
+J. Iversen, J.A. Dammann, A. Matheisen, N. Steinhau-Kühl
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+For the European XFEL more than 800 superconducting cavities need to be treated. At least 65 quality documents per cavity have to be emitted and transferred to DESY by the vendor; two acceptance levels must be passed successfully to release a cavity for transportation to DESY. All quality documents, non-conformity reports and acceptance levels are automatically processed by using DESY’s Engineering Data Management System (EDMS). We summarize documentation methods, document transfer procedures, review and release processes; we describe the exchange of process information between customer and vendor; and report about experiences.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB033
+Frequency Measurement and Tuning of a 9-Cell Superconducting Cavity Developed with UK Industry
+1158
+
+
+ 
+
+L.S. Cowie, P. Goudket, A.R. Goulden, P.A. McIntosh, A.E. Wheelhouse
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+J.R. Everard, N. Shakespeare
+                       Shakespeare Engineering, South Woodham Ferrers, Essex, United Kingdom
+B. Lamb, S. Postlethwaite, N. Templeton
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+As part of an STFC Innovations Partnership Scheme (IPS) grant, in support of enabling UK industry to address the large potential market for superconducting RF structures, Daresbury Laboratory and Shakespeare Engineering Ltd are collaborating to produce a 1.3 GHz 9 cell niobium cavity. This paper describes the procedures to ensure the cavity reaches the required frequency and field flatness. The frequency of each half-cell was measured using a custom measurement apparatus. Combined mechanical and RF simulations were used to compensate for cavity deformation during measurement. Results of Coordinate Measurement Machine measurements of one half-cell are presented. The same procedure will be used to trim the cells at the dumbbell stage, and the full 9-cell cavity will be tuned once welded.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB035
+Fabrication of the 3.9 GHz SRF Structures for the European XFEL
+1162
+
+
+ 
+
+P. Pierini, M. Bertucci, A. Bosotti, J.F. Chen, P. Michelato, L. Monaco, M. Moretti, R. Paparella, D. Sertore
+                       INFN/LASA, Segrate (MI), Italy
+A. Gresele
+                       Ettore Zanon S.p.A., Nuclear Division, Schio, Italy
+C.G. Maiano, P. Pierini, E. Vogel
+                       DESY, Hamburg, Germany
+C. Pagani
+                       Università degli Studi di Milano & INFN, Segrate, Italy
+M. Rizzi
+                       Ettore Zanon S.p.A., Schio, Italy
+
+ 
+
+
+ 
+
+One batch of 10 cavities has been completed and eight structures have been installed in the 3.9 GHz cryomodule for the European XFEL Injector operation. A second batch of 10 RF structures for a spare injector module is under fabrication. The fabrication has been performed according to the European Pressure Vessel regulations, as needed for the EXFEL operation. This paper describes the fabrication, quality control/assurance procedures and frequency preparation steps in order to achieve cavities at the correct frequency and length within the specifications.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB038
+XFEL Database Structure & Loading System
+1166
+
+
+ 
+
+S. Yasar, P.D. Gall, V. Gubarev
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+XFEL database was designed to store cavity production, preparation, and test data for the whole LINAC on the very detailed level: from half cells up to module tests. To load this amount of data (more than 140 files per cavity) in automatic regime the special Data Loading System was developed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB039
+XFEL Database User Interface
+1168
+
+
+ 
+
+S. Yasar, P.D. Gall, V. Gubarev, D. Reschke, A.A. Sulimov, J.H. Thie
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The XFEL database plays an important role for an effective part of the quality control system for the whole cavity production and preparation process for the European XFEL on a very detailed level. Database has the Graphical User Interface based on the web-technologies, and it can be accessed via low level Oracle SQL.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB040
+Hydroforming of Large Grain Niobium Tube
+1171
+
+
+ 
+
+A. Mapar, F. Pourboghrat
+                       MSU, East Lansing, Michigan, USA
+T.R. Bieler
+                       Michigan State University, East Lansing, Michigan, USA
+C. Compton
+                       FRIB, East Lansing, Michigan, USA
+J.E. Murphy
+                       University of Nevada, Reno, Reno, Nevada, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of High Energy Physics, through Grant No. DE-FG02-09ER41638.
+Currently most of Niobium (Nb) cavities are manufactured from fine grain Nb sheets. As-cast ingots go through a series of steps including forging, milling, rolling, and intermediate annealing, before they are deep-drawn into a half-cell shape and subsequently electron beam welded to make a full cavity. Tube hydroforming, a manufacturing technique where a tube is deformed using a pressurized fluid, is an alternative to the current costly manufacturing process. A whole cavity can be made from a tube using tube hydroforming. This study focuses on deformation of large grain Nb tubes during hydroforming. The crystal orientation of the grains is recorded. The tube is marked with a square-circle-grid which is used to measure the strain after deformation. The deformation of the tube is going to be modeled with crystal plasticity finite element and compared with experiments. This paper only covers the characterization of the tube and the hydroforming process.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB041
+Hydroforming SRF Cavities from Seamless Niobium Tubes
+1176
+
+
+ 
+
+M. Yamanaka, H. Inoue, H. Shimizu, K. Umemori
+                       KEK, Ibaraki, Japan
+A. Hocker
+                       Fermilab, Batavia, Illinois, USA
+T. Tajima
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+The authors are developing the manufacturing method for super conducting radio frequency (SRF) cavities by using a hydroforming instead of an electron beam welding, which is the major manufacturing method. We expect a cost reduction by hiring the hydroforming. To realize this development, getting a high-purity seamless niobium tube with good forming ability and an advancement of hydroforming technique are necessary. We got the seamless niobium tube made by ATI Wah Chang with the cooperation of Fermilab, and succeeded to manufacture the 1-cell cavity by hydroforming. The accelerating gradient attained to 36 MV/m, and we confirmed it was available to use as the SRF cavity.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB042
+Advance Additive Manufacturing Method for SRF Cavities of Various Geometries
+1181
+
+
+ 
+
+P. Frigola, R.B. Agustsson, L. Faillace, A.Y. Murokh
+                       RadiaBeam, Santa Monica, California, USA
+G. Ciovati, W.A. Clemens, P. Dhakal, F. Marhauser, R.A. Rimmer, J.K. Spradlin, R.S. Williams
+                       JLab, Newport News, Virginia, USA
+J. Mireles, P.A. Morton, R.B. Wicker
+                       University of Texas El Paso, W.M. Keck Center for 3D Innovation, El Paso, Texas, USA
+
+ 
+
+
+ 
+
+An alternative fabrication method for superconducting radio frequency (SRF) cavities is presented. The novel fabrication method, based on 3D printing (or additive manufacturing, AM) technology capable of producing net-shape functional metallic parts of virtually any geometry, promises to greatly expand possibilities for advance cavity and end-group component designs. A description of the AM method and conceptual cavity designs are presented along with material analysis and RF measurement results of additively manufactured niobium samples.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB043
+Alternative Fabrication Methods for the ARIEL e-Linac SRF Separator Cavity
+1185
+
+
+ 
+
+D.W. Storey
+                       Victoria University, Victoria, B.C., Canada
+R.E. Laxdal, N. Muller
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+The ARIEL e-Linac RF deflecting cavity is a 650 MHz superconducting deflecting mode cavity that will allow simultaneous beam delivery to both the Rare Isotope Beam program and an Energy Recovery Linac. The cavity will be operated at 4 K and with deflecting voltages of up 0.6 MV, resulting in a dissipated RF power of less than 1 W. Due to the modest performance requirements, alternative methods are being employed for the fabrication of this cavity. These include fabricating the entire cavity from reactor grade Niobium and welding the cavity using tungsten inert gas (TIG) welding in a high purity Argon environment. A post purification heat treatment will be performed in an RF induction oven to increase the cavity performance.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB044
+A Superconducting RF Deflecting Cavity for the ARIEL e-Linac Separator
+1187
+
+
+ 
+
+D.W. Storey
+                       Victoria University, Victoria, B.C., Canada
+R.E. Laxdal, L. Merminga, B.S. Waraich, Z.Y. Yao, V. Zvyagintsev
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+A 650 MHz SRF deflecting mode cavity has been designed for the ARIEL e-Linac to separate interleaved beams heading towards either Rare Ion Beam production or a recirculation loop for energy recovery, allowing the e-Linac to provide beam delivery to multiple users simultaneously. The cavity geometry has been optimized for the ARIEL specifications, resulting in a very compact cavity with high shunt impedance and low dissipated power. Analyses have been performed on the susceptibility to multipacting, input coupling considering beam loading and microphonics, and extensive studies into the damping of transverse and longitudinal higher order modes. The pressure sensitivity, frequency tuning, and thermal behaviour have also been studied using ANSYS. The cavity design resulting from these considerations will be discussed here.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB045
+Progress in IFMIF Half Wave Resonators Manufacturing and Test Preparation
+1191
+
+
+ 
+
+G. Devanz, N. Bazin, G. Disset, P. Hardy, O. Piquet, J. Plouin
+                       CEA/DSM/IRFU, France
+H. Dzitko, H. Jenhani, J. Neyret, N. Sellami
+                       CEA/IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+The IFMIF accelerator aims to provide an accelerator-based D-Li neutron source to produce high intensity high energy neutron flux to test samples as possible candidate materials to a full lifetime of fusion energy reactors. The first phase of the project aims at validating the technical options for the construction of an accelerator prototype, called LIPAc (Linear IFMIF Prototype Accelerator). A cryomodule hosting 8 Half Wave Resonators (HWR) at 175 MHz will provide the acceleration from 5 to 9 MeV. We report on the progress of the HWR manufacturing. A pre-series cavity will be used to assess and optimize the tuning procedure of the HWR, as well as the processing steps and related tooling. A new horizontal test cryostat (SATHORI) is also being set up at Saclay in the existing SRF test area. The SATHORI is dedicated to the IFMIF HWR performance check, fully equipped with its power coupler and cold tuning system. A 30kW-RF power will be available for these tests.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB046
+Design and Development of Superconducting Spoke Cavity for Compact Photon Source
+1196
+
+
+ 
+
+M. Sawamura
+                       Japan Atomic Energy Agency (JAEA), Gamma-ray Non-Destructive Assay Research Group, Tokai-mura, Ibaraki-ken, Japan
+E. Cenni
+                       CEA/IRFU, Gif-sur-Yvette, France
+R. Hajima
+                       JAEA, Ibaraki-ken, Japan
+H. Hokonohara, Y. Iwashita, H. Tongu
+                       Kyoto ICR, Uji, Kyoto, Japan
+T. Kubo, T. Saeki
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: This study is supported by Photon and Quantum Basic Research Coordinated Development Program of MEXT, Japan.
+The spoke cavity is expected to have advantages for compact ERL accelerator for X-ray source based on laser Compton scattering. We have been developing the spoke cavity under a research program of MEXT, Japan to establish the fabrication process. Since our designed shape of the spoke cavity is complicated due to increase the RF properties, we have been designing the mold including the process of press work and the support parts for vacuum tolerance with the mechanical simulation. In this paper we present status of the spoke cavity fabrication.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB047
+Analysis of a 750 MHz SRF Dipole Cavity
+1200
+
+
+ 
+
+A. Castilla, J.R. Delayen
+                       ODU, Norfolk, Virginia, USA
+A. Castilla, J.R. Delayen
+                       JLab, Newport News, Virginia, USA
+A. Castilla
+                       DCI-UG, León, Mexico
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U. S. DOE Contract No. DE-AC05-06OR23177.
+There is a growing interest in using rf transverse deflecting structures for a plethora of applications in the current and future high performance colliders. In this paper, we present the results of a proof of principle superconducting rf dipole, designed as a prototype for a 750 MHz crabbing corrector for the Medium Energy Electron-Ion Collider (MEIC), which has been successfully tested at 4.2 K and 2 K at the Jefferson Lab’s Vertical Testing Area (VTA). The analysis of its rf performance during cryogenic testing, along with Helium pressure sensitivity, Lorentz detuning, surface resistance, and multipacting processing analysis are presented in this work. Detailed calculations of losses at the port flanges are included for completeness of the cavity’s cryogenic performance studies.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB048
+Design of a Compact Superconducting Crab-Cavity for LHC Using Nb-on-Cu-Coating Technique
+1205
+
+
+ 
+
+A. Grudiev, S. Atieh, R. Calaga, S. Calatroni, O. Capatina, F. Carra, G. Favre, L.M.A. Ferreira, J.-F. Poncet, T. Richard, A. Sublet, C. Zanoni
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The design of a compact superconducting crab-cavity for LHC using Nb-on-Cu-coating technique is presented. The cavity shape is based on the ridged waveguide resonator with wide open apertures to provide access to the inner surface of the cavity for coating. It also provides natural damping for HOMs and rather low longitudinal and transverse impedances. The results of the cavity shape optimization taking into account RF performance, coating, and thermo-mechanical considerations as well as the design and fabrication plans of the first prototype for coating and cold tests are presented.
+
+ 
+
+
+
+
+
+
+Poster THPB048 [0.534 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB050
+Performance Evaluation of HL-LHC Crab Cavity Prototypes in a CERN Vertical Test Cryostat
+1210
+
+
+ 
+
+K.G. Hernández-Chahín
+                       DCI-UG, León, Mexico
+G. Burt
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+C. Christophe, A. Macpherson, M. Navarro-Tapia, R. Torres-Sanchez
+                       CERN, Geneva, Switzerland
+S.U. De Silva
+                       ODU, Norfolk, Virginia, USA
+A.R.J. Tutte
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+S. Verdú-Andrés
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: My work is supported by the Mexican CONACYT(Consejo Nacional de Ciencia y Tecnologia) program through the Mexican national scholarship (Becas Nacionales y Becas Mixtas).
+Three proof-of-principle compact crab cavity designs have been fabricated in bulk niobium and cold tested at their home labs, as a first validation step towards the High Luminosity LHC project. As a cross check, all three bare cavities have been retested at CERN, in order to cross check their performance, and cross-calibrate the CERN SRF cold test facilities. While achievable transverse deflecting voltage is the key performance indicator, secondary performance aspects derived from multiple cavity monitoring systems are also discussed. Temperature mapping profiles, quench detection, material properties, and trapped magnetic flux effects have been assessed, and the influence on performance discussed. The significant effort invested in developing expertise in preparation and testing of these crab cavities has already been fruitful for all partners, and more is to come within this ongoing program.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB051
+Lorentz Detuning for a Double-Quarter Wave Cavity
+1215
+
+
+ 
+
+S. Verdú-Andrés, S.A. Belomestnykh, Q. Wu, B. P. Xiao
+                       BNL, Upton, Long Island, New York, USA
+S.A. Belomestnykh
+                       Stony Brook University, Stony Brook, USA
+J. Wang
+                       CST of America, Wellesley Hills, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE via BSA LLC contract No.DE-AC02-98CH10886 and US LARP program and by EU FP7 HiLumi LHC grant No.284404. Used NERSC resources by US DOE contract No.DE-AC02-05CH11231.
+The Lorentz detuning is the resonant frequency change in an RF cavity due to the radiation pressure on the cavity walls. We present benchmarking studies of Lorentz detuning calculations for a Double-Quarter Wave Crab Cavity (DQWCC) using the codes ACE3P. The results are compared with the Lorentz detuning measurements performed during the cold tests of the Proof-of-Principle DQWCC at BNL.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB052
+Thermal Losses in Couplers and Ports of a SPS Double-Quarter Wave Crab Cavity
+1219
+
+
+ 
+
+S. Verdú-Andrés, S.A. Belomestnykh, Q. Wu, B. P. Xiao
+                       BNL, Upton, Long Island, New York, USA
+S.A. Belomestnykh
+                       Stony Brook University, Stony Brook, USA
+G. Burt
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+G. Burt
+                       Lancaster University, Lancaster, United Kingdom
+R. Calaga, O. Capatina, F. Carra, C. Zanoni
+                       CERN, Geneva, Switzerland
+F. Carra
+                       Politecnico di Torino, Torino, Italy
+T.J. Jones
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+Z. Li
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Supported by US DOE via US LARP, through BSA LLC under contract No. DE-AC02-98CH10886 and using NERSC resources under contract No. DE-AC02-05CH11231. Also supported by EU FP7 HiLumi LHC No.284404.
+The Double-Quarter Wave Crab Cavity for beam tests at SPS will be equipped with a Fundamental Power Coupler (FPC), three HOM filters and one pickup. FPC and HOM couplers are located in high magnetic field region and have a hook shape. The FPC will be made in copper while HOM and pickup are in niobium. This paper explains the material choice for the FPC, HOM and pickup couplers given the calculated power dissipation for fundamental and selected high order modes. It also describes the envisaged cooling system and corresponding thermal distribution for each coupler.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB053
+Electromagnetic Design of 400 MHz RF-Dipole Crabbing Cavity for LHC High Luminosity Upgrade
+1222
+
+
+ 
+
+S.U. De Silva, J.R. Delayen, H. Park
+                       ODU, Norfolk, Virginia, USA
+Z. Li
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The beam crabbing proposed for the LHC High Luminosity Upgrade requires two crabbing systems operating in both horizontal and vertical planes. In addition, the crabbing cavity design needs to meet strict dimensional constraints and functional specifications of the cavities. This paper presents the detailed electromagnetic design including em properties, multipole analysis, multipacting levels of the 400 MHz rf-dipole crabbing cavity.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB055
+RF Performance Results of the 2nd ELBE SRF Gun
+1227
+
+
+ 
+
+A. Arnold, M. Freitag, P.N. Lu, P. Murcek, J. Teichert, H. Vennekate, R. Xiang
+                       HZDR, Dresden, Germany
+G. Ciovati, P. Kneisel, M. Stirbet, L. Turlington
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+As in 2007 the first 3.5 cell superconducting radio frequency (SRF) gun was taken into operation at Helmholtz-Zentrum Dresden-Rossendorf, it turned out that the specified performance to realize an electron energy of 9.4 MeV has not been achieved. Instead, the resonator of the gun was limited by field emission to about one third of this value and the measured beam parameters remained significantly below its expectations. However, to demonstrate the full potential of this electron source for the ELBE linear accelerator, a second and slightly modified SRF gun was developed and built in collaboration with Thomas Jefferson National Accelerator Facility. We will report on commissioning of this new SRF gun and present a full set of RF performance results. Additionally, investigations are shown that try to explain a particle contamination that happened recently during our first cathode transfer.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB056
+SRF Gun Cavity R&D at DESY
+1231
+
+
+ 
+
+D. Kostin, C. Albrecht, A. Brinkmann, Th. Buettner, J. Eschke, T. Feldmann, A. Gössel, D. Klinke, A. Matheisen, W.-D. Möller, D. Reschke, M. Schmökel, J.K. Sekutowicz, W. Singer, X. Singer, N. Steinhau-Kühl, J. Ziegler, B. van der Horst
+                       DESY, Hamburg, Germany
+M. Barlak, J.A. Lorkiewicz, R. Nietubyć
+                       NCBJ, Świerk/Otwock, Poland
+
+ 
+
+
+ 
+
+SRF Gun Cavity is an ongoing accelerator R&D project at DESY, being developed since several years. Currently several SRF Gun cavity prototypes were simulated, built and tested in our Lab and elsewhere. Lately the 1.6 cells Pb thin film cathode niobium cavity was tested in a vertical cryostat with a different cathode plug configurations. Cathode plug design was improved, as well as SRF Gun Cavity cleaning procedures. Results of the last cavity performance tests are presented and discussed.
+
+ 
+
+
+
+
+
+
+Poster THPB056 [1.257 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB057
+ELBE SRF Gun II - Emittance Compensation Schemes
+1235
+
+
+ 
+
+H. Vennekate, A. Arnold, D. Janssen, P.N. Lu, P. Murcek, J. Teichert, R. Xiang
+                       HZDR, Dresden, Germany
+P. Kneisel
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+In May 2014 the first SRF photo injector at HZDR has been replaced by a new gun, featuring a new resonator and cryostat. The intention for this upgrade has been to reach for higher beam energies, bunch charges and therefore an increased average beam current, which is to be injected into the superconducting, CW ELBE accelerator, where it can be used for multiple purposes, such as THz generation or Compton backscattering. Because of the increased bunch charge of this injector compared to its predecessor, it demands upgrades of the existing and/or novel approaches to alleviate the transverse emittance growth. One of these methods is the integration of a superconducting solenoid into the cryostat. Another method, the so called RF focusing, is realized by displacing the photo cathode's tip and retracting it from the last cell of the resonator. In this case, part of the accelerating field is sacrificed for a better focus of the electron bunch right at the start of its generation. Besides particle tracking simulations, a recent study, investigating on the exact position of the cathode tip with respect to the cell's back plane after tuning and cool down, has been performed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB058
+Commissioning of the 112 MHz SRF Gun
+1240
+
+
+ 
+
+S.A. Belomestnykh, I. Ben-Zvi, J.C. Brutus, T. Hayes, V. Litvinenko, K. Mernick, G. Narayan, P. Orfin, I. Pinayev, T. Rao, F. Severino, J. Skaritka, K.S. Smith, R. Than, J.E. Tuozzolo, E. Wang, Q. Wu, B. P. Xiao, A. Zaltsman
+                       BNL, Upton, Long Island, New York, USA
+S.A. Belomestnykh, I. Ben-Zvi, V. Litvinenko, T. Xin
+                       Stony Brook University, Stony Brook, USA
+
+ 
+
+
+ 
+
+Funding: Work is supported by Brookhaven Science Associates, LLC under contract No. DE-AC02-98CH10886 with the US DOE.
+A 112 MHz superconducting RF photoemission gun was designed, fabricated and installed in RHIC for the Coherent electron Cooling Proof-of-Principle (CeC PoP) experiment at BNL. The gun was commissioned first without beam. This was followed by generating the first photoemission beam from a multi-alkali cathode. The paper presents the commissioning results.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB059
+Design, Fabrication and Performance of SRF-Gun Cavity
+1243
+
+
+ 
+
+T. Konomi, E. Kako, Y. Kobayashi, K. Umemori, S. Yamaguchi
+                       KEK, Ibaraki, Japan
+R. Matsuda
+                       Mitsubishi Heavy Industries Ltd. (MHI), Takasago, Japan
+T. Yanagisawa
+                       MHI, Hiroshima, Japan
+
+ 
+
+
+ 
+
+The development of superconducting RF gun has been started at KEK. The performance targets are that average current is 100 mA, normalized emittance is less than 1 μm.rad, beam energy is 2 MeV and energy spread is less than 0.1 %. The SRF gun consists of 1.3 GHz and 1.5 cell elliptical cavity and backward illuminated photocathode. The cavity shape was designed by using SUPERFISH and GPT. The cavity has been fabricated by Japanese industry. Accelerating field tuning and vertical test without cathode plug was done. The surface peak electric field reached 66 MV/m, and this meet the target value 42 MV/m sufficiently. For next vertical test, cathode rod without photocathode is in preparation. In the workshop, the SRF-Gun concepts and vertical test results will be reported.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB060
+Development of SRF Cavity Tuners for CERN
+1247
+
+
+ 
+
+K. Artoos, R. Calaga, O. Capatina, T. Capelli, F. Carra, L. Dassa, N. Kuder, R. Leuxe, P. Minginette, W. Venturini Delsolaro, G. Villiger, C. Zanoni, P. Zhang
+                       CERN, Geneva, Switzerland
+G. Burt
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+J.R. Delayen, H. Park
+                       ODU, Norfolk, Virginia, USA
+T.J. Jones, N. Templeton
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+S. Verdú-Andrés, B. P. Xiao
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Superconducting RF cavity developments are currently on-going for new accelerator projects at CERN such as HIE ISOLDE and HL-LHC. Mechanical RF tuning systems are required to compensate cavity frequency shifts of the cavities due to temperature, mechanical, pressure and RF effects on the cavity geometry. A rich history and experience is available for such mechanical tuners developed for existing RF cavities. Design constraints in the context of HIE ISOLDE and HL-LHC such as required resolution, space limitation, reliability and maintainability have led to new concepts in the tuning mechanisms. This paper will discuss such new approaches, their performances and planned developments.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB061
+Performance of the Tuner Mechanism for SSR1 Resonators During Fully Integrated Tests at Fermilab
+1252
+
+
+ 
+
+D. Passarelli, J.P. Holzbauer, L. Ristori
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+In the framework of the Proton Improvement Plan-II (PIPII) at Fermilab, a cavity tuner was developed to control the frequency of 325 MHz spoke resonators (SSR1). The behavior of the tuner mechanism and compliance with technical specifications were investigated through a campaign of experimental tests in operating conditions in the spoke test cryostat (STC) and at room temperature. Figures of merit for the tuner such as tuning range, stiffness, components hysteresis and overall performance were measured and are reported in this paper.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB062
+Accelerated Life Testing of LCLS-II Cavity Tuner Motor
+1257
+
+
+ 
+
+N.A. Huque, M.E. Abdelwhab, E. Daly
+                       JLab, Newport News, Virginia, USA
+Y.M. Pischalnikov
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+An Accelerated Life Test (ALT) of the Phytron stepper motor used in the LCLS-II cavity tuner is being carried out at JLab. Since the motor will reside inside the cryomodule, any failure would lead to a very costly and arduous repair. As such, the motor will be tested for the equivalent of five lifetimes before being approved for use in the production cryomodules. The 9-cell LCLS-II cavity will be simulated by disc springs with an equivalent spring constant. Hysteresis plots of the motor position vs. tuner position – measured via an installed linear variable differential transformer (LVDT) – will be used to determine any drift from the required performance. The titanium spindle will also be inspected for loss of lubrication. This paper outlines the ALT plan and latest results.
+
+ 
+
+
+
+
+
+
+Poster THPB062 [2.794 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB063
+BNL 56 MHz HOM Damper Fabrication at JLab
+1262
+
+
+ 
+
+N.A. Huque, W.A. Clemens, E. Daly
+                       JLab, Newport News, Virginia, USA
+S. Bellavia, G.T. McIntyre, S.K. Seberg, Q. Wu
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The Higher-Order Mode (HOM) Dampers for the Relativistic Heavy-Ion Collider’s (RHIC) 56 MHz cavity at Brookhaven National Laboratory (BNL) are currently being fabricated at JLab. The coaxial damper is primarily constructed with high RRR niobium, with a combination of niobium and sapphire rings as the filter assembly. Several design changes have been made with respect to the performance of a prototype damper – also fabricated at JLab – which was found to quench at low power. The production dampers are being tuned and tested in the JLab vertical test area (VTA) prior to delivery. Two HOM dampers will be delivered to BNL; they are to be used in the RHIC in November, 2015. This paper outlines the challenges faced in the fabrication and tuning process.
+
+ 
+
+
+
+
+
+
+Poster THPB063 [2.315 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB065
+Reliability of the LCLS II SRF Cavity Tuner
+1267
+
+
+ 
+
+Y.M. Pischalnikov, B. Hartman, J.P. Holzbauer, W. Schappert, S.J. Smith, J.C. Yun
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The SRF cavity tuner for LCLS II must work reliably for more than 20 years in a cryomodule environment. Tuner’s active components- electromechanical actuator and piezo-actuators must work reliably in an insulating vacuum environment at low temperature for the lifetime of the machine. Summary of the accelerated lifetime tests (ALT) of the electromechanical and piezo actuators inside cold/ insulated vacuum environment and irradiation hardness test (dose level up to 5*108 Rad) of tuner components are presented. Methodology to design and build reliable SRF cavity tuner, based on “lessons learned” approach, are discussed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB066
+RF Analysis of Equator Welding Stability for the European XFEL Cavities
+1272
+
+
+ 
+
+A.A. Sulimov
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+In order to guaranty a sufficient High Order Modes (HOM) damping in the European XFEL cavities, a detailed analysis of the mechanical cavity production was performed. The mechanical measurements are precise enough to control the shape of cavity parts, but cannot be used for a welded cavity. To estimate the shape deformation during equator welding, the eigenfrequencies of cavity cells are compared with frequencies of cavity parts. This simple RF analysis can indicate irregularity of 9 equator welds and was used in addition to control of mean values for longitudinal and transverse deformations.
+
+ 
+
+
+
+
+
+
+Poster THPB066 [0.148 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB067
+HOM Coupler Notch Filter Tuning for the European XFEL Cavities
+1274
+
+
+ 
+
+A.A. Sulimov
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The notch filter (NF) tuning prevents the extraction of fundamental mode (1.3 GHz) RF power through Higher Order Modes (HOM) couplers. The procedure of NF tuning was optimized at the beginning of serial European XFEL cavities production. It allows keeping the filter more stable against temperature and pressure changes during cavity cool down. Some statistics of NF condition during cavities and modules cold tests is presented.
+
+ 
+
+
+
+
+
+
+Poster THPB067 [0.404 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB068
+Practical Aspects of HOM Suppression Improvement for TM011
+1277
+
+
+ 
+
+A.A. Sulimov, A. Ermakov, J.H. Thie
+                       DESY, Hamburg, Germany
+A. Gresele
+                       Ettore Zanon S.p.A., Nuclear Division, Schio, Italy
+
+ 
+
+
+ 
+
+Some Higher Order Modes (HOM) pass bands were controlled during cryo-tests at DESY for the European XFEL cavities. The second monopole mode (TM011) showed most instabilities and suppression degradation. The authors will explain this phenomenon on the example of cavity CAV00553 and present the practical method of TM011 damping improvement.
+
+ 
+
+
+
+
+
+
+Poster THPB068 [0.182 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB069
+Engineering Design and Prototype Fabrication of HOM Couplers for HL-LHC Crab Cavities
+1279
+
+
+ 
+
+C. Zanoni, S. Atieh, I. Aviles Santillana, R. Calaga, O. Capatina, T. Capelli, F. Carra, P. Freijedo Menendez, M. Garlaschè, J.-M. Geisser, R. Leuxe, L. Marques Antunes Ferreira, E. Rigutto
+                       CERN, Geneva, Switzerland
+S.A. Belomestnykh, S. Verdú-Andrés, Q. Wu, B. P. Xiao
+                       BNL, Upton, Long Island, New York, USA
+G. Burt
+                       Lancaster University, Lancaster, United Kingdom
+S.U. De Silva, J.R. Delayen, R.G. Olave, H. Park
+                       ODU, Norfolk, Virginia, USA
+T.J. Jones, N. Templeton
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+Z. Li
+                       SLAC, Menlo Park, California, USA
+A.J. May, S.M. Pattalwar
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+T.H. Nicol
+                       Fermilab, Batavia, Illinois, USA
+A. Ratti
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The High-Luminosity upgrade for the LHC relies on a set of RF Crab Cavities for reaching its goals. Two parallel concepts, the Double Quarter Wave (DQW) and the RF Dipole (RFD), are going through a comprehensive design process along with preparation of fabrication in view of extensive tests with beam in SPS. High Order Modes (HOM) couplers are critical in providing damping in RF cavities for operation in accelerators. HOM prototyping and fabrication have recently started at CERN. In this paper, an overview of the final shape is provided along with an insight in the mechanical and thermal analyses performed to validate the design of these critical components. Emphasis is also given to test campaigns, material selection, prototyping and initial fabrication that are aimed at fulfilling the highly demanding tolerances of the couplers.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB070
+Design of Dressed Crab Cavities for the HL-LHC Upgrade
+1284
+
+
+ 
+
+C. Zanoni, K. Artoos, S. Atieh, I. Aviles Santillana, J.P. Brachet, R. Calaga, O. Capatina, T. Capelli, F. Carra, L. Dassa, G. Favre, P. Freijedo Menendez, M. Garlaschè, M. Guinchard, N. Kuder, S.A.E. Langeslag, R. Leuxe, L. Prever-Loiri, G. Vandoni
+                       CERN, Geneva, Switzerland
+S.A. Belomestnykh, I. Ben-Zvi, S. Verdú-Andrés, Q. Wu, B. P. Xiao
+                       BNL, Upton, Long Island, New York, USA
+I. Ben-Zvi
+                       Stony Brook University, Stony Brook, USA
+G. Burt
+                       Lancaster University, Lancaster, United Kingdom
+S.U. De Silva, R.G. Olave, H. Park
+                       ODU, Norfolk, Virginia, USA
+J.R. Delayen
+                       JLab, Newport News, Virginia, USA
+T.J. Jones, N. Templeton
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+Z. Li
+                       SLAC, Menlo Park, California, USA
+K.B. Marinov, A.J. May, S.M. Pattalwar
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+T.H. Nicol
+                       Fermilab, Batavia, Illinois, USA
+A. Ratti
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The HL-LHC upgrade relies on a set of RF crab cavities for reaching its goals. Two parallel concepts, the Double Quarter Wave (DQW) and the RF Dipole (RFD), are going through a comprehensive design process along with preparation of fabrication in view of extensive tests with beam in SPS. High Order Modes (HOM) couplers are critical in providing damping in RF cavities for operation in accelerators. HOM prototyping and fabrication have recently started at CERN. In this paper, an overview of the final geometry is provided along with an insight in the mechanical and thermal analyses performed to validate the design of this critical component. Emphasis is also given to material selection, prototyping, initial fabrication and test campaigns that are aimed at fulfilling the highly demanding tolerances of the couplers.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB071
+Developments of SiC Damper for SuperKEKB Superconducting Cavity
+1289
+
+
+ 
+
+M. Nishiwaki, K. Akai, T. Furuya, A. Kabe, S. Mitsunobu, Y. Morita
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Upgrade works for SuperKEKB is in the final stage and the commissioning operation will start in this JFY. Eight superconducting accelerating cavities were operated for more than ten years at KEKB electron ring and are to be used at SuperKEKB. The cavity operation at those high current accelerators requires sufficient absorption of the beam-induced HOM power. In KEKB, the absorbed HOM power of 16 kW in two ferrite dampers attached to each cavity was achieved at the beam current of 1.4 A. On the other hand, the expected HOM power at SuperKEKB is calculated to be 37 kW in the beam current of 2.6 A. To cope with the HOM power issue, we developed additional HOM dampers made of SiC to be installed to the downstream of the cavity module. From precise calculations, it was found that the additional dampers reduce the HOM power loads of the ferrite dampers more effectively than the large beam pipe model of cavity module, which is another option to reduce the HOM loads. New SiC dampers were fabricated and high power-tested. Those SiC dampers successfully absorbed the expected HOM power. In this report, we will describe the results of calculations and high-power RF tests of new SiC dampers.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB072
+Higher Order Mode Damping in a Higher Harmonic Cavity for the Advanced Photon Source Upgrade
+1293
+
+
+ 
+
+S.H. Kim, J. Carwardine, Z.A. Conway, G. Decker, M.P. Kelly, B. Mustapha, P.N. Ostroumov, G.J. Waldschmidt
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Results in this report are derived from work performed at Argonne National Laboratory. Argonne is operated by UChicago Argonne, LLC, for the U.S. Department of Energy under contract DE-AC02-06CH11357.
+A superconducting higher-harmonic cavity (HHC) is under development for the Advanced Photon Source Upgrade based on a Multi-Bend Achromat lattice. This cavity will be used to improve the Touschek lifetime and the single bunch current limit by lengthening the beam. A single-cell 1.4 GHz (the 4th harmonic of the main RF) cavity is designed based on the TESLA shape. Two adjustable fundamental mode power couplers are included. The harmonic cavity voltage of 0.84 MV will be driven by the 200 mA beam with a bunch length of >50 ps RMS. Higher-order modes (HOM) must be extracted and damped. This will be done with two silicon carbide beamline HOM absorbers to minimize heating of RF structures such as the superconducting cavity and/or couplers and suppress possible beam instabilities. The HHC system is designed such that 1) most monopole and dipole HOMs are extracted along the beam pipes and damped in the ‘beamline’ silicon carbide absorbers and 2) a few HOMs, resulting from introduction of the couplers, are extracted through the coupler and dissipated in a room temperature water-cooled load. We will present time and frequency domain simulation results and discuss damping of HOMs.
+
+ 
+
+
+
+
+
+
+Poster THPB072 [2.187 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB073
+Beamline Silicon Carbide Higher Order Mode Damper for the Advanced Photon Source Upgrade Harmonic Cavity
+ 
+
+
+ 
+
+S.H. Kim, J. Carwardine, Z.A. Conway, G. Decker, R.L. Fischer, M.P. Kelly, P.N. Ostroumov, T. Reid, K.W. Shepard
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Results in this report are derived from work performed at Argonne National Laboratory. Argonne is operated by UChicago Argonne, LLC, for the U.S. Department of Energy under contract DE-AC02-06CH11357.
+A superconducting higher harmonic cavity (HHC) is under development for Advanced Photon Source Upgrade based on a Multi-Bend Achromat lattice. The HHC improves the Touschek lifetime and the single bunch current limit by lengthening the bunch. A TESLA-shaped single-cell 1.4 GHz (4th harmonic of the main RF) cavity will be used. Monopole and dipole higher order modes (HOMs) will be extracted primarily along the beam pipes and damped in a pair of ‘beamline’ silicon carbide (SiC) HOM dampers. These water-cooled SiC dampers will be placed just outside of the cryomodule. Maximum power dissipation in both SiC HOM dampers is estimated to be 1.7 kW at the beam current of 200 mA total and 4.2 mA max/bunch with the bunch length of RMS >50 ps. The SiC cylinder is cooled by a precision fit copper sleeve with water cooling channels. The thermal contact conductance at the interface between SiC and copper has been experimentally measured. In this paper, we will present design details of the SiC HOM dampers and experimental results of the thermal contact conductance at the interface.
+
+ 
+
+
+
+
+
+
+Poster THPB073 [1.675 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB074
+High Current eRHIC Cavity Design and HOM Damping Scheme
+1297
+
+
+ 
+
+W. Xu, S.A. Belomestnykh, I. Ben-Zvi, H. Hahn
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by LDRD program of Brookhaven Science Associates.
+A 422 MHz cavity was designed for high current FFAG lattice ERLs for high luminosity eRHIC. The cavity was optimized to be able to propagate all the HOMs out of the cavity for high BBU threshold current and low HOM power (loss factor). Coupling the full spectrum (up to 30 GHz) HOMs out of the cavity and delivering the HOM power (up to 8 kW) out of the cryomodule is a challenge. A damping scheme with 6 coaxial line HOM couplers for low frequency HOMs and 3 waveguide HOM dampers for high frequency (so that the waveguide is small) is proposed to damp the full spectrum and high power HOMs. This paper will present the cavity design and HOM damping scheme.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB076
+Quality Control of Welding, Brazing Joints and Cu Deposition on EU-XFEL Coupler Parts
+1301
+
+
+ 
+
+A. Ermakov, D. Kostin, W.-D. Möller
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+In frames of EU-XFEL Project the quality control of fundamental 1.3GHz power couplers is very important task. The power coupler consists of a several number of parts including itself the different types of welding and brazing joints between ceramic, copper and stainless steel components. The quality of these joints is subject to be investigated and controlled according to EU-XFEL Coupler specification taking into account the different coupler manufacturers involved. The quality of Cu deposition on some EU-XFEL coupler parts is also the issue to be qualified according to specs. The number of microscope images of different types of joints and Cu deposition on some EU-XFEL 1.3GHz coupler parts are presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB077
+Modified TTF3 Couplers for LCLS-II
+1306
+
+
+ 
+
+C. Adolphsen, K. Fant, Z. Li, C.D. Nantista, G. Stupakov, J. Tice, F.Y. Wang, L. Xiao
+                       SLAC, Menlo Park, California, USA
+I.V. Gonin, K. Premo, N. Solyak
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The LCLS-II 4 GeV SC electron linac will use 280 TESLA cavities and TTF3 couplers, modified for CW operation with input power up to about 7 kW. The coupler modifications include shortening the antenna to achieve higher Qext and thickening the copper plating on the warm section inner conductor to lower the peak temperature. Another change is the use a waveguide transition box that is machined out of a solid piece of aluminum, significantly reducing its cost and improving its fit to the warm coupler window section. This paper describes the changes, simulations of the coupler operation (heat loads and temperatures), rf processing results and CW tests with LCLS-II dressed cavities.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB078
+Status of the Power Couplers for the ESS Elliptical Cavity Prototypes
+1309
+
+
+ 
+
+C. Arcambal
+                       CEA/IRFU, Gif-sur-Yvette, France
+P. Bosland, M. Desmons, G. Devanz, G. Ferrand, A. Hamdi, P. Hardy, H. Jenhani, F. Leseigneur, C. Marchand, F. Peauger, O. Piquet, D. Roudier, C. Servouin
+                       CEA/DSM/IRFU, France
+C. Darve
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+In the frame of the European Spallation Source (ESS) project, a linear accelerator composed of a superconducting section is being developed. This accelerator owns two kinds of cavities called “medium beta cavity” (β=0.67) and “high beta cavity” (β= 0.86). These cavities are equipped with RF power couplers whose main characteristics are: fundamental frequency: 704.42MHz, peak RF power: 1.1MW, repetition rate: 14Hz, RF pulse width>3.1ms. These couplers are common to the two cavities. The CEA Saclay is responsible for the design, the manufacture, the preparation and the conditioning of the couplers used for the Elliptical Cavities Cryomodule Technological Demonstrators (ECCTD). This work is performed in collaboration with ESS and the IPNO. This paper describes the coupler architecture, its different components, the main characteristics and the specific features of its elements (RF performance, dissipated power, cooling, coupler box test for the conditioning). The status of the manufacture of each coupler part is also presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB079
+Improved Capacitive Coupling Type RF Power Couplers for a Cryomodule With Two 9-Cell Cavities
+1313
+
+
+ 
+
+D.H. Zhuang, P.L. Fan, L.W. Feng, L. Lin, K.X. Liu, S.W. Quan, F. Wang, Z.L. Wang
+                       PKU, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Work supported by Major State Basic Research Development Program of China(Grant No. 2011CB808302 and 2011CB808304)
+A capacitive coupling RF power coupler was used for the DC-SRF photoinjector at Peking University. Recently, improved capacitive coupling power couplers, which will be used for a new cryomodule with two 9-cell cavities have been designed and fabricated. The main modifications include enlarging the supporting rods of inner conductors in order to increase heat conduction, moving the bellows from the quarter-wave transformer to the 50 Ω coaxial line to avoid the mismatch during Qext adjusting. Two modified power coupler have already finished RF conditioning up to 10kW, TW, duty factor 30%. In this paper, detailed design based on multi-physics analysis and the conditioning of this improved capacitive coupling RF Power coupler will be presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB080
+Next Generation Cavity and Coupler Interlock for the European XFEL
+1316
+
+
+ 
+
+D. Tischhauser, A. Gössel, M. Mommertz
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The safe operation of cavities and couplers in the European XFEL accelerator environment is secured by a new technical interlock (TIL) design, which is based on the XFEL crate standard (MTCA(TM).4). The new interlock is located inside the accelerator tunnel. Several remote test capabilities ensure the correct operation of sensors for light, temperature and free electrons. Due to the space costs and the very high number of channels, the electronic concept was moved from a conservative, mostly analog electronic approach, with real comparators and thresholds, to a concept, where the digitizing of the signals is done at a very early stage. Filters, thresholds and comparators are moved into the digital part. The usage of an FPGA and an additional watchdog increase the flexibility dramatically, with respect to be as reliable as possible. An overview of the system is shown.
+MTCA (Micro Telecommunications Computing Architecture) is a standard defined by the PCI Industrial Computer Manufacturers Group (PICMG, www.picmg.org).
+
+ 
+
+
+
+
+
+
+Poster THPB080 [1.123 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB081
+FPC and HOM Coupler Test Boxes for HL-LHC Crab Cavities
+1321
+
+
+ 
+
+A.R.J. Tutte, G. Burt
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+R. Calaga, A. Macpherson, E. Montesinos
+                       CERN, Geneva, Switzerland
+S.U. De Silva
+                       ODU, Norfolk, Virginia, USA
+Z. Li
+                       SLAC, Menlo Park, California, USA
+B. P. Xiao
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The LHC luminosity upgrade will involve the installation of thirty-two 400 MHz SRF crab cavities. The cavities have two variants known as the RF dipole and double quarter-wave crab cavities. Each cavity has a fundamental power coupler (FPC) at 400 MHz and two or three HOM couplers. Before integration onto the cavities it is necessary to condition the FPC, and to measure the transmission on the HOM couplers at low power to ensure the operate as designed, each requiring a special test box. The FPC test box should provide a high transmission between two couplers without creating high surface fields. The low power HOM test boxes should be terminated to a load such that the natural stop and pass-bands of the couplers are preserved allowing the reflection to me measured and compared to simulations. In addition, due to the possibility of high HOM power in the LHC crab cavities, the concept of creating a broadband high power HOM coupler test box in order to condition and test the couplers at high power has been investigated. The Rf design of all test boxes is presented and discussed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB082
+Design of QWR Power Coupler for the Rare Isotope Science Project in Korea
+1326
+
+
+ 
+
+I. Shin, M.O. Hyun
+                       IBS, Daejeon, Republic of Korea
+E. Kako
+                       KEK, Ibaraki, Japan
+C.K. Sung
+                       Korea University Sejong Campus, Sejong, Republic of Korea
+
+ 
+
+
+ 
+
+A power coupler has been designed for the Rare Isotope Science Project (RISP) in Korea. The power couplers will provide 4 kW RF power to 81.25 MHz superconducting quarter wave resonators with β=0.047. The coupler is a coaxial capacitive type with an impedance of 50 ohms using a disc type ceramic window. Design studies of the coupler are presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB083
+Energetic Copper Coating on Stainless Steel Power Couplers for SRF Application
+1330
+
+
+ 
+
+I. Irfan, S.F. Chapman, M. Krishnan, K.M. Velas
+                       AASC, San Leandro, California, USA
+W. Kaabi
+                       LAL, Orsay, France
+
+ 
+
+
+ 
+
+Funding: This research is supported by the US DOE via and SBIR grant: DE-SC0009581
+Delivering RF power from the outside (at room temperature) to the inside of SRF cavities (at ~4 K temperature), requires a power coupler to be thermally isolating, while still electrically conducting on the inside. Stainless steel parts that are coated on the insides with a few skin depths of copper can meet these conflicting requirements. The challenge has been the adhesion strength of copper coating on stainless steel coupler parts when using electroplating methods. These methods also require a nickel flash layer that is magnetic and can therefore pose problems. Alameda Applied Sciences Corporation (AASC) uses Coaxial Energetic Deposition (CED) from a cathodic arc plasma to grow copper films directly on stainless steel coupler parts with no Ni layer and no electrochemistry. The vacuum arc plasma consists of ~100 eV Cu ions that penetrate a few monolayers into the stainless steel substrate to promote growth of highly adhesive films with crystalline structure. Adhesion strength and coating quality of copper coatings on complex stainless steel tubes, bellows, mock coupler parts and an actual Tesla Test Facility (TTF) type coupler part, are discussed.
+* Adhesion and Cu quality testing were done for us by the Fermilab Technical Division, Superconducting RF Development Department
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB084
+Design of Input Coupler for RIKEN Superconducting Quarter-Wavelength Resonator
+1335
+
+
+ 
+
+K. Ozeki, O. Kamigaito, H. Okuno, N. Sakamoto, K. Suda, Y. Watanabe, K. Yamada
+                       RIKEN Nishina Center, Wako, Japan
+E. Kako, H. Nakai, K. Umemori
+                       KEK, Ibaraki, Japan
+K. Okihira, K. Sennyu, T. Yanagisawa
+                       MHI, Hiroshima, Japan
+
+ 
+
+
+ 
+
+In RIKEN Nishina Center, for the purpose of development of elemental technology for the superconducting linear accelerator, the designing and construction of accelerator system based on superconducting quarter-wavelength resonator are carried out. The basic designs of the input coupler are as follows: The resonance frequency of the cavity is 75.5 MHz and assumed beam loading is about 1 kW. Double vacuum windows, which are disk-type, are adopted. A thermal anchor of 40 K is installed near the cold-window. The optimum positions of the cold-window and the thermal anchor depending on the effective RRR of copper-plate are being studied. In this contribution, the details of these designs will be reported. This work was funded by ImPACT Program of Council for Science, Technology and Innovation (Cabinet Office, Government of Japan).
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB086
+LCLS-II Fundamental Power Coupler Mechanical Integration
+1340
+
+
+ 
+
+K.S. Premo, T.T. Arkan, Y.O. Orlov, N. Solyak
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: DOE
+LCLSII is a planned upgrade project for the linear coherent light source (LCLS) at SLAC. The LCLSII linac will consist of thirtyfive 1.3 GHz and two 3.9 GHz superconducting RF continuous wave (CW) cryomodules that Fermilab and Jefferson Lab will assemble in collaboration with SLAC. The LCLSII 1.3 GHz cryomodule design is based on the European XFEL pulsed mode cryomodule design with modifications needed for CW operation. The 1.3 GHz cryomodules for LCLSII will utilize a modified TTF3 syle fundamental power coupler design. Due to CW operation heat removal from the power coupler is critical. This paper presents the details of the mechanical integration of the power coupler into the cryomodule. Details of thermal braids, connections, and other interfaces are discussed.
+
+ 
+
+
+
+
+
+
+Poster THPB086 [1.031 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB087
+Design and Simulation of High Power Input Coupler for C-ADS Linac 5-Cell Elliptical Cavities
+1343
+
+
+ 
+
+K.X. Gu
+                       Institute of High Energy Physics (IHEP), Chinese Academy of Sciences, Beijing, People's Republic of China
+X. Chen, T.M. Huang, Q. Ma, W.M. Pan
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Two 650 MHz elliptical cavity sections (elliptical 063, elliptical 082) are chosen to accelerate medium energy protons for China Accelerator Driven sub-critical System (C-ADS) linac. For each 5-cell cavity, RF power up to 150 kW in CW mode is required to be fed by a fundamental power coupler (FPC). A coaxial type coupler is designed to meet the power and RF coupling requirements. This paper presents the RF design, thermal analysis and multipacting simulations of the coupler for C-ADS 5-cell elliptical cavities.
+
+ 
+
+
+
+
+
+
+Poster THPB087 [0.593 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB088
+20 kW CW Power Couplers for the APS-U Harmonic Cavity
+1346
+
+
+ 
+
+M.P. Kelly, A. Barcikowski, Z.A. Conway, D. Horan, M. Kedzie, S.H. Kim, P.N. Ostroumov
+                       ANL, Argonne, Illinois, USA
+S.V. Kutsaev
+                       RadiaBeam, Santa Monica, California, USA
+J. Rathke
+                       AES, Medford, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work supported by the U.S. DOE, Office of Nuclear Physics, Contract No. DE-AC02-06CH11357. This research used resources of ANL’s ATLAS facility, which is a DOE Office of Science User Facility.
+A pair of 20 kW CW adjustable RF power couplers optimized for 1.4 GHz have been designed and are being built as part of the APS-U bunch lengthening system. The system uses one superconducting RF cavity to be installed into the APS Upgrade electron storage ring and will provide a tremendous practical benefit to the majority of users by increasing the beam lifetime by 2-3 times. The 80 mm diameter, 50 Ω coaxial couplers include 4 cm (~20 dB) of adjustability. This allows optimization of bunch lengthening for a range of storage ring beam currents and fill patterns while, simultaneously, maintaining the required 0.84 MV harmonic cavity voltage. To provide bunch lengthening, the cavity/coupler system must extract RF power (up to 32 kW) from the beam. Each coupler will transmit roughly half of the total extracted power to external water-cooled loads. The design extends upon on a well-tested ANL two RF window concept, using a pair of simple rugged 80 mm diameter alumina disks. A new feature is the ‘hourglass-shaped’ inner conductor chosen to maximize transmission at 1.4 GHz. Results of electromagnetic and thermal simulations, as well as, prototyping and initial RF testing are presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB089
+HOM Coupler Performance in CW Regime in Horizontal and Vertical Tests
+1349
+
+
+ 
+
+N. Solyak, M.H. Awida, A. Grassellino, C.J. Grimm, A. Hocker, J.P. Holzbauer, T.N. Khabiboulline, O.S. Melnychuk, A.M. Rowe, D.A. Sergatskov, N. Solyak
+                       Fermilab, Batavia, Illinois, USA
+J.K. Sekutowicz
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Power dissipation in HOM coupler antenna can limit cavity gradient in cw operation. XFEL design of HOM coupler, feedthrough and thermal connection to 2K pipe was accepted for LCLS-II cavity based on simulation results. Recently a series of vertical and horizontal tests was done to prove design for cw operation. In vertical test was found no effect of HOM coupler heating on high-Q cavity performance. In horizontal cryostat HOM coupler was tested up-to 23MV/m in continuous wave mode. Result proves that XFEL HOM coupler meets LCLS-II specifications.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB091
+Mechanical Design of a High Power Coupler for the PIP-II 325 MHz SSR1 RF Cavity
+1354
+
+
+ 
+
+O.V. Pronitchev, S. Kazakov
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The Project X Injector Experiment (PXIE) at Fermilab will include one cryomodule with eight 325 MHz single spoke superconductive cavities (SSR1). Each cavity requires approximately 2 kW CW RF power for 1 mA beam current operation. A future upgrade will require up to 8 kW RF power per cavity. Fermilab has designed and procured ten production couplers for the SSR1 type cavities. Status of the 325 MHz main coupler development for PXIE SSR1 cryomodule is reported.
+
+ 
+
+
+
+
+
+
+Poster THPB091 [1.821 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB092
+Mechanical Design of a High Power Coupler for the PIP-II 162.5 MHz RF Quadrupole
+1357
+
+
+ 
+
+O.V. Pronitchev, S. Kazakov
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+PXIE is a prototype front end system for the proposed PIP-II accelerator upgrade at Fermilab. An integral component of the front end is a 162.5 MHz, normal conducting, continuous wave (CW), radiofrequency quadrupole (RFQ) cavity. Two identical couplers will deliver approximately 100 kW total CW RF power to the RFQ. Fermilab has designed and procured main couplers for the CW RFQ accelerating cavity. The mechanical design of the coupler, along with production status, is presented below.
+
+ 
+
+
+
+
+
+
+Poster THPB092 [0.476 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB093
+A 1.3 GHz Waveguide to Coax Coupler for Superconducting Cavities With a Minimum Kick
+1360
+
+
+ 
+
+J.A. Robbins, C. Egerer, R.G. Eichhorn, V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Transversal forces as a result of asymmetric field generated by the fundamental power couplers have become a concern for low emittance beam in future accelerators. In pushing for smallest emittances, Cornell has finished a physics design for a symmetric coupler for superconducting accelerating cavities. This coupler consists of a rectangular waveguide that transforms into a coaxial line inside the beam pipe, eventually feeding the cavity. We will report on the RF design yielding to the extremely low transversal kick. In addition, heating, heat transfer and thermal stability of this coupler has been evaluated.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB094
+Status of the Fundamental Power Coupler Production for the European XFEL Accelerator
+1364
+
+
+ 
+
+S. Sierra, G. Garcin, C. Lievin, G. Vignette
+                       TED, Velizy, France
+A. Gallas, W. Kaabi
+                       LAL, Orsay, France
+M. Knaak, M. Pekeler, L. Zweibaeumer
+                       RI Research Instruments GmbH, Bergisch Gladbach, Germany
+
+ 
+
+
+ 
+
+For the XFEL accelerator, Thales, RI Research Instrument and LAL are working on the manufacturing, assembly and conditioning of fundamental power couplers. 670 couplers have to be manufactured according to strict specifications. The paper describes the full production activity from the program starting to the currentphase with main measurements for the coupler characteristic: copper and TiN coating characteristics. The status of the production is given with an output rate of 8 couplers per week. The status for more than 500 couplers manufactured and conditionned is presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB095
+Automatic RF Conditioning Test Bench of Fundamental Power Couplers for the European XFEL Accelerator
+1367
+
+
+ 
+
+S. Sierra, C. Lievin, P. Rouillon
+                       TED, Velizy, France
+H. Guler, W. Kaabi, A. Verguet
+                       LAL, Orsay, France
+
+ 
+
+
+ 
+
+In order to perform the RF conditioning of the fundamental coupler for the XFEL accelerator, Thales and LAL developed together a test bench being able to make the automatic RF conditioning. The capability of this test bench is of 4 pairs of coupler at the same time with automatic sequences of increasing the RF power. The test bench is composed of the overall RF station providing up to 5 MW peak power at 1.3 GHz. The waveguide distribution allows 4 individual RF lines for conditionning,and the automatic sequence applied to the couplers in respect with all signals monitored and controlled during the RF process. The paper will also provide some examples of such process.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB096
+Lesson Learned on the Manufacturing of Fundamental Power Couplers for the European XFEL Accelerator
+1370
+
+
+ 
+
+S. Sierra, G. Garcin, C. Lievin, G. Vignette
+                       TED, Velizy, France
+M. Knaak, M. Pekeler
+                       RI Research Instruments GmbH, Bergisch Gladbach, Germany
+
+ 
+
+
+ 
+
+In this paper we described lesson learned during the production of Fundamental Power Couplerfor the European XFEL accelerator and different steps necessaries for obtaining a rate of 8 couplers a week. From the manufacturing of individual components up to the RF conditioning. This paper also propose some possible ways to be optimized for a future mass production of such components. With comparison of processes and adaptation which could benefit to an increase rate or a more secure program. Some of them which could be studies from the coupler definition to the manufacturing process in order to obtain a stable and possible increased rate or lower cost of production by decreasing the risks on programs. This analysis is based on a current production of more than 500 couplers
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB097
+New Possible Configuration of 3.9 GHz Coupler
+1373
+
+
+ 
+
+S. Kazakov
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The LCLS-II superconducting accelerator supposedly will use 3.9 GHz (3-d harmonic) superconductive cavities. A new possible configuration of 3.9 GHz main coupler is presented in the papar. This configuration contains two coaxial ceramic windows, a cold and a warm one. Inner conductors of windows are connected through the capacitive gap and have no mechanical no thermal contacts. It allows to avoid using bellows and thus avoid the problem of heating and cooling. The windows have shields protecting shields against the electron, and this prevents the window ceramics from charging. Results of computer simulation of the new coupler are posted.
+
+ 
+
+
+
+
+
+
+Poster THPB097 [1.036 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB098
+Testing of 325 MHz Couplers at Test Stand in Resonance Mode
+1376
+
+
+ 
+
+S. Kazakov, B.M. Hanna, O.V. Pronitchev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The linear accelerator for the PIP-II program utilizes two types of 325 MHz Single Spoke resonator cavities: SSR-I and SSR-II. Operating power of SSR-II is about 17 kW and requires input couplers which can reliably work at power levels > 20 kW with full reflection at any reflected phase. Currently only one 10 kW RF amp is available for coupler testing. To increase testing power, a special resonance configuration were used. This configuration allows us to raise RF power approximately 3 times. The testing scheme and results are discussed in the paper.
+
+ 
+
+
+
+
+
+
+Poster THPB098 [1.600 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB100
+Nb Coatings on Bellows Used in SRF Accelerators
+1379
+
+
+ 
+
+S.F. Chapman, I. Irfan, M. Krishnan, K.M. Velas
+                       AASC, San Leandro, California, USA
+
+ 
+
+
+ 
+
+Funding: This research is supported by the US DOE via SBIR grant: DE-SC0007678
+Alameda Applied Sciences Corporation (AASC) is developing bellows with the strength and flexibility of stainless steel and the low surface impedance of a superconductor. Such unique bellows would enable alignment of SRF cavity sections with greatly reduced RF losses. To that end, we grow Nb thin films via Coaxial Energetic Deposition (CED) from a cathodic arc plasma. Films of Nb were grown on stainless steel bellows, with and without an intermediate layer of Cu deposited via the same technique, to produce a working bellows with a well adhered superconducting inner layer. The Nb coated bellows have undergone tests conducted by our collaborators to evaluate their RF performance.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB101
+High Power Input Couplers for C-ADS
+1383
+
+
+ 
+
+T.M. Huang, X. Chen, H.Y. Lin, Q. Ma, F. Meng, W.M. Pan, G.W. Wang, X.Y. Zhang
+                       IHEP, Beijing, People's Republic of China
+K.X. Gu
+                       Institute of High Energy Physics (IHEP), Chinese Academy of Sciences, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+High power input couplers are key components of the superconducting system for China Accelerator Driven sub-critical System (C-ADS) project. For the first phase, C-ADS includes four types of superconducting cavities (SCCs) of two frequencies, 162.5 MHz HWR SCC and 325 MHz Spoke SCC up to the energy of 25 MeV. All input couplers for the SCCs are developed in IHEP. This paper will describe the development status of the high power input couplers for C-ADS.
+
+ 
+
+
+
+
+
+
+Poster THPB101 [0.430 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB102
+RF Conditioning of the XFEL Power Couplers at the Industrial Scale
+1387
+
+
+ 
+
+H. Guler, A. Gallas, W. Kaabi, D.J.M. Le Pinvidic, C. Magueur, M. Oublaid, A. Thiebault, A. Verguet
+                       LAL, Orsay, France
+
+ 
+
+
+ 
+
+LAL has in charge the production monitoring and the RF conditioning of 800 power couplers to equip 100 XFEL cryomodules. The conditioning process and all the preceding preparation steps are performed in a 70m2 clean room. This infrastructure, its equipment and the RF station are designed to allow the treatment of 8 couplers in the same time, after a ramp-up phase. Clean room process and conditioning results are presented and discussed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB103
+High Power Coupler Test for ARIEL SC Cavities
+1390
+
+
+ 
+
+Y. Ma, P.R. Harmer, D. Lang, R.E. Laxdal, B.S. Waraich, V. Zvyagintsev
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+TRIUMF ARIEL[1](The Advanced Rare Isotope Laboratory) project employs five 1.3 GHz 9-cell superconducting elliptical cavities[2] for acceleration of 10 mA electron beam up to energy of 50 MeV. 100 kW CW RF power will be delivered into each cavity by means of pair of Power Couplers: 50 kW per each coupler. Before installing the power couplers with the cavities, they have to be assembled on Power Coupler Test Stand(PCTS) and conditioned with a 30 kW IOT. Six couplers have been conditioned at room temperature and four of them have been installed to the cavities and tested during beam commissioning. Test results of the power couplers will be described and discussed in this paper.
+#mayanyun@triumf.ca
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB104
+Higher Order Modes Simulation and Measurements for 2400 MHz Cavity
+1394
+
+
+ 
+
+Ya.V. Shashkov, D.S. Bazyl, R.V. Donetskiy, M.V. Lalayan, N.P. Sobenin
+                       MEPhI, Moscow, Russia
+R. Calaga
+                       CERN, Geneva, Switzerland
+A.A. Zavadtsev
+                       Nano, Moscow, Russia
+M. Zobov
+                       INFN/LNF, Frascati (Roma), Italy
+
+ 
+
+
+ 
+
+Funding: *Work supported by Ministry of Education and Science grant 3.245.2014/r and the EU FP7 HiLumi LHC – Grant Agreement 284404
+In the frameworks of the High Luminosity LHC upgrade program an application of additional harmonic cavities operating at multiples of the main RF system frequency of 400 MHz is currently under discussion. The 800 MHz superconducting cavities with grooved beam pipes were suggested for implementation. A scaled aluminum prototype with a frequency of the operational mode of 2400 MHz was manufactured for testing the results of simulations. The load reflection coefficient measurements were performed as well as the Qload measurements for cavities with the load. Here we discuss the prototype design and report the obtained measurement results.
+Higher order modes, superconducting cavities, srf
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB105
+Demonstration of Coaxial Coupling Scheme at 26 MV/m for 1.3 GHz Tesla-Type SRF Cavities
+1397
+
+
+ 
+
+Y. Xie, A. Kanareykin
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+T.N. Khabiboulline, A. Lunin, V. Poloubotko, A.M. Rowe, N. Solyak, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+J. Rathke
+                       AES, Medford, New York, USA
+
+ 
+
+
+ 
+
+Superconducting ILC-type cavities have an rf input coupler that is welded on. A detachable input coupler will reduce conditioning time (can be conditioned separately), reduce cost and improve reliability. The problem with placing an extra flange in the superconducting cavity is about creating a possible quench spot at the seal place. Euclid Techlabs LLC has developed a coaxial coupler which has an on the surface with zero magnetic field (hence zero surface current). By placing a flange in that area we are able to avoid disturbing surface currents that typically lead to a quench. The coupler is optimized to preserve the axial symmetry of the cavity and rf field. The surface treatments and rf test of the proto- type coupler with a 1.3 GHz ILC-type single-cell cavity at Fermilab will be reported and discussed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB109
+ESS Spoke Cryomodule and Test Valve Box
+1400
+
+
+ 
+
+D. Reynet, S. Bousson, S. Brault, P. Duchesne, P. Duthil, N. Gandolfo, G. Olry, M. Pierens, E. Rampnoux
+                       IPN, Orsay, France
+C. Darve
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+ESS project aims being the world’s most powerful neutron source feeding multidisplinary researches. The superconducting part of the ESS linear accelerator includes 28 b=0.5 352.2 MHz SRF niobium double Spoke cavities. Paired in 13 cryomodules and held at 2K in a saturated helium bath those cavities will generate of an accelerating field of 9MV/m. The prototype Spoke cryomodule holds two cavities and their RF power couplers and integrates all the interfaces necessary to be operational within the linac machine. It is now being fabricated and its assembly will be performed with dedicated tooling and procedures in and out of the clean room. This prototype will be tested by the end of 2015 at IPNO site and then at full power at FREIA (Uppsala university) test stand. A valve box has thus been designed to take into account the specific features of this prototype cryomodule and of the cryogenic environments of both test sites. This valve box is also considered as a prototype of the cryogenic distribution of the linac Spoke section. This element will then be used for the tests of the series cryomodules. We propose to present this prototype Spoke cryomodule for ESS and the test valve box.
+
+ 
+
+
+
+
+
+
+Poster THPB109 [2.852 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB110
+Procurements for LCLS-II Cryomodules at JLab
+1405
+
+
+ 
+
+E. Daly, G. Cheng, G.K. Davis, T. Hiatt, N.A. Huque, F. Marhauser, H. Park, J.P. Preble, K.M. Wilson
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the LCLS-II Project and the U.S. Department of Energy, Contract DE-AC02-76SF00515.
+The Thomas Jefferson National Accelerator Facility is currently engaged, along with several other DOE national laboratories, in the Linac Coherent Light Source II project (LCLS II). The SRF Institute at Jefferson Lab will be building 1 prototype and 17 production cryomodules based on the TESLA / ILC / XFEL design. Each cryomodule will contain eight nine cell cavities with coaxial power couplers operating at 1.3 GHz. Procurement of components for cryomodule construction has been divided amongst partner laboratories in a collaborative manner. JLab has primary responsibility for six procurements include the dressed cavities, cold gate valves, higher-order-mode (HOM) and field probe feedthroughs, beamline bellows cartridges, cavity tuner assemblies and HOM absorbers. For procurements led by partner laboratories, JLab collaborates and provides technical input on specifications, requirements and assembly considerations. This paper will give a detailed description of plans and status for JLab procurements.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB115
+TRIUMF's Injector and Accelerator Cryomodules
+1409
+
+
+ 
+
+N. Muller, P.R. Harmer, J.J. Keir, D. Kishi, P. Kolb, A. Koveshnikov, C. Laforge, D. Lang, R.E. Laxdal, Y. Ma, A.K. Mitra, R.R. Nagimov, R. Smith, B.S. Waraich, L. Yang, Z.Y. Yao, V. Zvyagintsev
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+TRIUMF's ARIEL project includes a 50 MeV-10mA electron linear accelerator (e-Linac) using 1.3 GHz superconducting technology. The accelerator consists of three cryomodules; an injector cryomodule with one cavity and two accelerating cryomodules with two cavities each. One injector and one accelerator have been assembled and commissioned at TRIUMF with a second injector cryomodule being assembled for VECC in Kolkata. Both Injector and Accelerator cryomodules utilize a top-loaded cold mass design contained in a box-type cryomodule; design and early test results of both cryomodules are presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB116
+Modified ELBE Type Cryomodules for the Mainz Energy-Recovering Superconducting Accelerator MESA
+1413
+
+
+ 
+
+T. Stengler, K. Aulenbacher, R.G. Heine, F. Schlander, D. Simon
+                       IKP, Mainz, Germany
+M. Pekeler, D. Trompetter
+                       RI Research Instruments GmbH, Bergisch Gladbach, Germany
+
+ 
+
+
+ 
+
+At the Institut für Kernphysik of Johannes Gutenberg-Universität Mainz, the new multiturn energy recovery linac MESA is under construction. Two modified ELBE-type cryomodules with two 9-cell TESLA/XFEL cavities each will provide an energy gain of 50 MeV per turn. Those are currently in the production process at RI Research Instruments GmbH, Bergisch Gladbach, Germany. Modifications for the tuner and the HOM damper are under development. In addition, a 4K/2K Joule Thomson expansion stage will also be integrated into the cryomodule. The current status of the development of the cryomodules and their modifications will be discussed.
+
+ 
+
+
+
+
+
+
+Poster THPB116 [1.472 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB119
+LCLS-II 1.3 GHz Cryomodule Design – Modified TESLA-Style Cryomodule for CW Operation
+1417
+
+
+ 
+
+T.J. Peterson, T.T. Arkan, C.M. Ginsburg, Y. He, J.A. Kaluzny, M.W. McGee, Y.O. Orlov
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported, in part, by the US DOE and the LCLS-II Project.
+We will present the design of the 1.3 GHz cryomodule for the Linear Coherent Light Source upgrade (LCLS-II) at SLAC. Fermilab is responsible for the design of this cryomodule, a modified TESLA-style cryomodule to accommodate continuous wave (CW) mode operation and LCLS-II beam parameters, consisting of eight 1.3 GHz superconducting RF cavities, a corrector magnet package, and instrumentation. Thirty-five of these cryomodules, approximately half built at Fermilab and half at Jefferson Lab, will become the main accelerating elements of the 4 GeV linac. The modifications and special features of the cryomodule include: thermal and cryogenic design to handle high heat loads in CW operation, magnetic shielding and cool-down configurations to enable high quality factor (Q0) performance of the cavities, liquid helium management to address the different liquid levels in the 2-phase pipe with 0.5% SLAC tunnel longitudinal slope, support structure design to meet California seismic design requirements, and with the overall design consistent with space constrains in the existing SLAC tunnel. The prototype cryomodule assembly will begin in August 2015 and is to be completed in early 2016.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPB120
+Status of LCLS-II QA Systems Collaboration for Cyromodule Construction at TJNAF and FNAL
+1422
+
+
+ 
+
+E.A. McEwen, V. Bookwalter, J. Leung
+                       JLab, Newport News, Virgina, USA
+J.N. Blowers, J.B. Szal
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+At the Thomas Jefferson National Accelerator Facility (JLab), we are supporting the LCLS-II Project at SLAC. The plan is to build thirty-five 1.3 GHz continuous wave cryomodules, production to be split between JLab and FNAL (Fermilab). This has required a close collaboration between the partner labs, including enhancing our existing quality systems to include this collaboration. This over view describes the current status of the Quality System development as of August 2015, when the partner labs start the assembly of the prototype cryomodules.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

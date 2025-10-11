@@ -1,0 +1,76 @@
+{
+  "session_info": {
+    "id": "TUIO",
+    "name": "TUIO - Tuesday Keynote and Invited Oral",
+    "url": "https://proceedings.jacow.org/medsi2020/html/tuio.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUIO01",
+      "title": "System and Subsystem Engineering of Long Baseline Detectors",
+      "authors": [
+        "LBNL",
+        "Berkeley",
+        "California",
+        "USA",
+        "This talk will give an overview of the system and subsystem engineering and development of long baseline detectors",
+        "with a focus on neutrino experiments such as DUNE",
+        "and gravitational wave detectors such as LIGO. It will emphasize common features to the development and execution of these decade long programs",
+        "across the various phases of technology development and system integration. It will highlight key features of the development process to handle the complexity of these large systems. The presentation will cover the various phases of the system development",
+        "starting from definition of requirements and general system architecture",
+        "driven on the one hand by high level science goals and on the other hand by technology readiness. Continuing with the conceptual design phases",
+        "and the selection of most suitable technology to meet not only the science requirements",
+        "but also the project constraints on cost and schedule",
+        "and operations goals on duty-cycle",
+        "reliability and longevity. We will cover the important steps of prototyping and testing necessary to demonstrate technology readiness and to inform the final design. Following up with phases of interface definitions in between sub-systems and with conventional facilities",
+        "and related system integration steps. We will describe the final design and engineering phases with respect to the subsequent steps of installation",
+        "testing",
+        "commissioning and operations."
+      ],
+      "institutions": [],
+      "abstract": "Your browser cannot play the video. Consider download from Link Address. Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!",
+      "presentation_url": "https://proceedings.jacow.org/medsi2020/talks/tuio01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/medsi2020/papers/tuio01.pdf",
+      "poster_url": "https://proceedings.jacow.org/medsi2020/posters/tuio01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-MEDSI2020-TUIO01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUIO02",
+      "title": "Mechatronics Approach for the Development of a Nano-Active-Stabilization-System",
+      "authors": [
+        "T. Dehaeze",
+        "J. Bonnefoy",
+        "ESRF",
+        "Grenoble",
+        "France",
+        "ULB",
+        "Bruxelles",
+        "Belgium",
+        "With the growing number of fourth generation light sources",
+        "there is an increased need of fast positioning end-stations with nanometric precision. Such systems are usually including dedicated control strategies",
+        "and many factors may limit their performances. In order to design such complex systems in a predictive way",
+        "a mechatronic design approach also known as \"model based design\"",
+        "may be utilized. In this paper",
+        "we present how this mechatronic design approach was used for the development of a nano-hexapod for the ESRF ID31 beamline. The chosen design approach consists of using models of the mechatronic system (including sensors",
+        "actuators and control strategies) to predict its behavior. Based on this behavior and closed-loop simulations",
+        "the elements that are limiting the performances can be identified and re-designed accordingly. This allows to make adequate choices concerning the design of the nano-hexapod and the overall mechatronic architecture early in the project and save precious time and resources. Several test benches were used to validate the models and to gain confidence on the predictability of the final system’s performances. Measured nano-hexapod’s dynamics was shown to be in very good agreement with the models. Further tests should be done in order to confirm that the performances of the system match the predicted one. The presented development approach is foreseen to be applied more frequently to future mechatronic system design at the ESRF."
+      ],
+      "institutions": [],
+      "abstract": "Your browser cannot play the video. Consider download from Link Address. Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!",
+      "presentation_url": "https://proceedings.jacow.org/medsi2020/talks/tuio02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/medsi2020/papers/tuio02.pdf",
+      "poster_url": "https://proceedings.jacow.org/medsi2020/posters/tuio02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-MEDSI2020-TUIO02",
+      "page_number": "93",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 23:24:58"
+}

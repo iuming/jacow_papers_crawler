@@ -1,0 +1,233 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: FROAA (Contributed Oral Presentations, Beam Dynamics and Electromagnetic Fields)
+
+
+FROAA —  Contributed Oral Presentations, Beam Dynamics and Electromagnetic Fields   (04-Oct-13   08:30—09:30)
+Chair: A. J. Dragt, UMD, College Park, Maryland, USA
+
+
+Paper
+Title
+Page
+
+
+
+FROAA1
+The University of Maryland Electron Ring (UMER) Program - Recent Developments
+ 
+
+
+ 
+
+R.A. Kishek, B.L. Beaudoin, S. Bernal, M. Cornacchia, D.W. Feldman, R.B. Fiorito, I. Haber, T.W. Koeth, Y. Mo, K. Poor Řežaei, K.J. Ruisard, W.D. Stem, D.F. Sutter, H.D. Zhang
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the US Dept. of Energy, Office of High Energy Physics, and by the US Dept. of Defense, Office of Naval Research and the Joint Technology Office.
+Space charge, especially in the beam source and low energy regions, can substantially impact the dynamics of advanced accelerators at the intensity frontier. UMER uses scaled electron beams at nonrelativistic energies (10 keV) to inexpensively access the intense space charge dynamics directly relevant to low-energy hadron and ion beams, in both rings and linacs. In UMER, space charge tune depressions at injection are adjustable in the range of 0.14 - 0.8, enabling scaled examination of a wide range of phenomena. Longitudinal induction focusing is used to counteract the space charge force at the edges of a long rectangular bunch, confining it for 100s of turns. This paper reviews recent experimental, computational, and theoretical research on UMER. Specific topics include longitudinal induction bunch-end focusing; generation and propagation of longitudinal space charge waves, including large-amplitude solitons; bunch end interpenetration and observation of a resulting multi-stream instability; beam halo studies; beam current-dependence of classical ring parameters (natural chromaticity, lattice dispersion and momentum compaction); and diagnostic development.
+
+ 
+
+
+
+
+
+
+Slides FROAA1 [5.696 MB]
+            
+ 
+
+
+ 
+
+
+
+FROAA2
+Transverse Beam Transfer Functions via the Vlasov Equation
+1427
+
+
+ 
+
+M. Blaskiewicz, V.H. Ranjbar
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work performed under the auspices of the United States Department of Energy.
+A semi-numerical method of integrating the Vlasov equation to obtain beam transfer functions directly as a function of frequency is presented. The results are compared with beam transfer functions calculated via particle tracking and excellent agreement is shown. The technique works well with both transverse wakes and detuning wakes from space charge.
+
+ 
+
+
+
+
+
+
+Slides FROAA2 [2.253 MB]
+            
+ 
+
+
+ 
+
+
+
+FROAA3
+Control of Intrabunch Dynamics at CERN SPS Ring using 3.2 GS/s Digital Feedback Channel
+1430
+
+
+ 
+
+C.H. Rivetta, J.M. Cesaratto, J.D. Fox, K.M. Pollock, O. Turgut
+                       SLAC, Menlo Park, California, USA
+H. Bartosik, W. Höfle, G. Kotzian, K.S.B. Li
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy under contract # DE-AC02-76SF00515 and the US LHC Accelerator Research Program (LARP).
+The feedback control of intra-bunch instabilities driven by electron-clouds or strong head-tail coupling requires bandwidth sufficient to sense the vertical position and apply correction fields to multiple se ctions of a nanosecond-scale bunch. These requirements impose challenges and limits in the design of the feedback channel. We present experimental measurements taken from CERN SPS machine development studies with an intra-bunch feedback channel prototype. The performance of a 3.2 GS/s digital processing system is evaluated, quantifying the effect of noise and limits of the feedback channel in the bunch stability as well as transient and steady state motion of the bunch. The controllers implemented are general purpose 16 tap FIR filters and the impact on the bunch stability of controller parameters are analyzed and quantified. These studies based on the limited feedback prototype are crucial to validate reduced models of the system and macro-particle simulation codes including the feedback channel. These models will allow us predicting the beam dynamics and controller limits when future wide-band hardware is installed in the final prototype to stabilize multiple bunches.
+
+ 
+
+
+
+
+
+
+Slides FROAA3 [1.247 MB]
+            
+ 
+
+
+ 
+
+
+
+FROAA4
+Simulation Study on Transverse Laser Cooling and Ordering of Heavy-Ion Beams in a Storage Ring
+1434
+
+
+ 
+
+Y. Yuri
+                       JAEA/TARRI, Gunma-ken, Japan
+
+ 
+
+
+ 
+
+Molecular dynamics approach in which stochastic interaction between laser photons and ions is incorporated is employed to study the formation of three-dimensionally ultralow-temperature coasting beams by means of laser cooling in a storage ring. The effect of momentum dispersion on the laser-cooling process is investigated for efficient transverse cooling through tapered cooling and resonant coupling. The indirect transverse cooling force is dependent on the displacement of the laser axis and laser detuning as well as on dispersion. A string-like crystalline state of the beam can be attained at low line density by means of three-dimensional (3D) cooling. On the other hand, 3D ordered structures can be formed at higher line density by adjusting the tapered laser-cooling force. The characteristics of Coulomb-ordered beams are discussed.
+
+ 
+
+
+
+
+
+
+Slides FROAA4 [1.571 MB]
+            
+ 
+
+
+ 
+
+
+
+FROAA5
+Electron Cloud Measurements Using a Shielded Pickup in a Quadrupole at CesrTA
+1437
+
+
+ 
+
+J.P. Sikora, M.G. Billing, J.V. Conway, J.A. Crittenden, J.A. Lanzoni, Y. Li
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the US National Science Foundation PHY-0734867, PHY-1002467, and the US Department of Energy DE-FC02-08ER41538, DE-SC0006505.
+We have recently constructed a shielded pickup in a quadrupole magnet for time-resolved detection of electron cloud. Cloud electrons pass into the detector through an array of small holes in the wall of the beam-pipe that shield the collecting electrode from the direct beam signal. There are two collectors, each aligned on a pole face: one near the longitudinal center of the quadrupole, the other in the fringe field. The signals from the collectors are recorded with a digital oscilloscope. We present a summary of the design, construction and commissioning of this device, as well as initial beam measurements. This work was performed at the Cornell Electron Storage Ring which has been reconfigured as a test accelerator (CesrTA) with positron or electron beam energies ranging from 2 GeV to 5 GeV.
+
+ 
+
+
+
+
+
+
+Slides FROAA5 [4.262 MB]
+            
+ 
+
+
+ 
+
+
+
+FROAA6
+Experimental Study of Halo Formation in Space Charge Dominated Beam
+1440
+
+
+ 
+
+H.D. Zhang, B.L. Beaudoin, R.A. Kishek
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the US Dept. of Energy, Office of High Energy Physics, and by the US Dept. of Defense, Office of Naval Research and the Joint Technology Office.
+Beam halos are a group of particles with low density that far away from the well-defined central beam core and have large transverse velocities. Beam losses from halos can require a larger aperture and impose restrictions on the beam current. Several theoretical techniques have been applied to analyze and understand halo formation, including particle-core model, free energy model as well as particle in cell (PIC) simulations. However, few experiments on beam halos have been carried out. Here, we describe an experimental study at the University of Maryland to understand and characterize space-charge induced halo formation. The experiments are conducted on the University of Maryland Electron Beam (UMER) and the results are compared with PIC simulations using WARP.
+
+ 
+
+
+
+
+
+
+Slides FROAA6 [1.696 MB]
+            
+ 
+
+
+ 
+
+
+
+

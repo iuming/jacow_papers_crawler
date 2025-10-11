@@ -1,0 +1,116 @@
+{
+  "session_info": {
+    "id": "TUZAT02",
+    "name": "TUZAT02 - WG5: Machine Detector Interface",
+    "url": "https://proceedings.jacow.org/eefact2022/html/tuzat02.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUZAT0201",
+      "title": "MDI Design for CEPC",
+      "authors": [
+        "S. Bai",
+        "J. Gao",
+        "H.Y. Shi",
+        "H. Wang",
+        "Y. Wang",
+        "IHEP",
+        "Beijing",
+        "People’s Republic of China",
+        "The Circular Electron Positron Collider (CEPC) is a proposed Higgs factory with center of mass energy of 240 GeV to measure the properties of Higgs boson and test the standard model accurately. Machine Detector Interface (MDI) is the key research area in electron-positron colliders",
+        "especially in CEPC",
+        "it is one of the criteria to measure the accelerator and detector design performance. In this paper",
+        "we will introduce the CEPC MDI layout and (Interaction Region) IR design",
+        "IR beam pipe design",
+        "thermal analysis and injection background etc on",
+        "which are the most critical physics problem."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/eefact2022/talks/tuzat0201_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/eefact2022/papers/tuzat0201.pdf",
+      "poster_url": "https://proceedings.jacow.org/eefact2022/posters/tuzat0201_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-EEFACT2022-TUZAT0201",
+      "page_number": "77",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUZAT0202",
+      "title": "FCC-ee MDI: Trapped modes and other Power Losses",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "We discuss the beam power loss related to the heating of the vacuum beam pipe walls of the FCC-ee interaction region (IR). We analyse the excitation of trapped modes",
+        "which can accumulate electromagnetic energy and determine the locations of these modes. We study the unavoidable resistive-wall wake field",
+        "which is responsible for the direct beam pipe walls heating. We present the distribution of the heat load along the central part of IR. The results are very important for knowledge of the temperature distribution and the following cooling system design."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/eefact2022/talks/tuzat0202_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/eefact2022/papers/tuzat0202.pdf",
+      "poster_url": "https://proceedings.jacow.org/eefact2022/posters/tuzat0202_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-EEFACT2022-TUZAT0202",
+      "page_number": "81",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUZAT0203",
+      "title": "Machine Induced Backgrounds in the FCC-ee MDI Region and Beamstrahlung Radiation",
+      "authors": [
+        "A. Ciarma",
+        "G. Ganis",
+        "E. Perez",
+        "CERN",
+        "Meyrin",
+        "Switzerland",
+        "LNF-INFN",
+        "Frascati",
+        "Italy",
+        "The new design for the central chamber of the FCC-ee beam pipe has a reduced radius of R=10mm and length of L=18cm",
+        "allowing to have the inner layer of the Vertex Detector Barrel closer to the interaction point. The effect of the background induced occupancy due to Incoherent Pairs Creation (IPC)",
+        "beam losses in the MDI area and Synchrotron Radiation are explored for the CLD detector",
+        "using the updated version of the Vertex Detector for the new central beam pipe. Also",
+        "the characterisation of the intense Beamstrahlung radiation produced at FCC-ee is given."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/eefact2022/talks/tuzat0203_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/eefact2022/papers/tuzat0203.pdf",
+      "poster_url": "https://proceedings.jacow.org/eefact2022/posters/tuzat0203_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-EEFACT2022-TUZAT0203",
+      "page_number": "85",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUZAT0205",
+      "title": "Fast Luminosity Monitor for FCC-ee  based on the LEP Experience",
+      "authors": [
+        "INFN-Roma",
+        "Roma",
+        "Italy"
+      ],
+      "institutions": [
+        "The measurement of luminosity and beam divergence performed by the LEP-5 experiment at CERN based on the detection of photons from the single bremsstrahlung process e+e− -> e+e− gamma at the LEP interaction point 1 is briefly reviewed. A possible implementation of the same methodology for a very fast luminosity monitor at FCC-ee is preliminarily discussed."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/eefact2022/talks/tuzat0205_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/eefact2022/papers/tuzat0205.pdf",
+      "poster_url": "https://proceedings.jacow.org/eefact2022/posters/tuzat0205_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-EEFACT2022-TUZAT0205",
+      "page_number": "91",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 4,
+  "scrape_time": "2025-10-11 08:34:53"
+}

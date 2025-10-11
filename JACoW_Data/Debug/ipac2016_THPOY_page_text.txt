@@ -1,0 +1,2181 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2016 - Table of Session: THPOY (Poster Session)
+
+
+THPOY —  Poster Session   (12-May-16   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPOY001
+Implementation of a New Ramp Computation Scheme for the Magnet Power Supplies at ELSA
+4085
+
+
+ 
+
+D. Proft, W. Hillertpresenter
+                       ELSA, Bonn, Germany
+
+ 
+
+
+ 
+
+At the ELSA electron stretcher facility new power supply control units have been commissioned. These require a new software interface for set-point calculation based on the accelerator and timing model. Goal of the new scheme is a strict separation of the bidirectional ramp computation into an accelerator model dependent, a magnet dependent and a power supply dependent part. This introduces possible calibration/correction factors on each layer, thus allowing easy component replacement of the power supplies, the control units or even the magnets without the need for recalibration of the whole chain. In this contribution we will provide insights into the implementation of the new modeling scheme.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY001
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY002
+The New External Beamline for Detector Tests at ELSA
+4088
+
+
+ 
+
+N. Heurich, F. Frommberger, P. Hänisch, W. Hillertpresenter
+                       ELSA, Bonn, Germany
+
+ 
+
+
+ 
+
+At the electron accelerator ELSA, a new external beam line has been constructed whose task is to provide a primary electron beam for detector tests. Using a slow resonance extraction method, it is possible to extract a quasi continuous electron beam with a maximum energy of 3.2 GeV to the test area. An external beam current of 100 pA to 1 fA can be realized. A further reduction of the beam current is envisaged as well. The beam width can be changed in both transverse directions from 1 mm to 8 mm. To dump and simultaneously measure the current of the electron beam behind the detector components a Faraday cup consisting of depleted uanium is used. The residual radiation leaving the cup is absorbed in a concrete casing. The radiation protection concept for the entire area of the new beamline was designed with the help of the Monte Carlo simulation program Fluka. In addition to the concrete casing, radiation protection walls were built to allow a safe working environment in the neighboring control room.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY003
+The Turn-key Control System for the ELI-NP Gamma Beam System
+4091
+
+
+ 
+
+S. Pioli, G. Di Pirro
+                       INFN/LNF, Frascati (Roma), Italy
+F. Amand, V.A. Isaev, A. Jesenko, A. Manojlovic, R. Modic, I. Mustac, G. Pajor
+                       Cosylab, Ljubljana, Slovenia
+B.G. Martlew, A. Oates
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+The new Gamma Beam System (GBS) under construction in Magurele (RO) by the consortium EuroGammas led by INFN, as part of the ELI-NP project, can provide gamma rays that open new possibilities for nuclear photonics and nuclear physics. In the ELI-GBS, gamma rays are produced by means of Compton back-scattering to get mono-chromaticity (0,1% bandwidth), a high flux (1013 photon/s the highest in the world), tunable directions and energies up to 19 MeV. Such gamma beam characteristic is obtained when a high-intensity laser collides a high-brightness electron-beam with energies up to 720 MeV. In order to increase the gamma beam flux, the electron beam operates at a repetition rate of 100 Hz in a multi-bunch mode: trains of 32 bunches, 16 ns apart, interact with the laser pulse recirculated 32 times through the interaction point. The EPICS Control System collects data from all sub-systems, constantly monitoring to ensure the safety of the ELI-GBS facility. This paper describes all the aspects of the ELI-GBS turn-key Control System, such as hardware integration, micro-bunches diagnostics, high level applications, the data network and the pico-second timing system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY003
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY005
+Virtual Accelerator System for Online and Offline Simulations
+4094
+
+
+ 
+
+S. Ma, C. Li, G. Liupresenter, J.G. Wang, W. Xu, K. Xuan
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+Synchrotron radiation light sources have been becoming import scientific tools in various research areas. To build a state-of-the-art synchrotron radiation light source, one need to carefully study the linear and nonlinear dynamics of the charged beam in each of the light source components, such as the linac, transfer line, booster synchrotron and storage ring. There are many mature software tools, including MAD, elegant and Accelerator toolkit (AT), can be used to accomplish these tasks. In order to achieve a high performance light source, up-to-date technologies are adopt to build various subsystems. The integration of these subsystems need to be fully tested before the light source is operated. However, there lacks of a good software to perform this work. The virtual light source (VLS), a software based upon EPICS and AT, is developed at the National Synchrotron Radiation Laboratory (NSRL) to fulfill this purpose. This paper presents the details of this software. Some critical applications are also illustrated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY005
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY007
+Application of Embedded Linux Boards in SSRF and SXFEL Control System
+4098
+
+
+ 
+
+Y.B. Yan, G.H. Chen, L.W. Lai, Y.B. Lengpresenter, L.Y. Yu, W.M. Zhou
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: CAS Key Technology Talent Program and Youth Innovation Promotion Association
+The embedded Linux boards, such as Raspberry Pi B+ and Beaglebone Black, are credit-card-sized single-board computer. They are low-cost and equipped with a huge array of GPIO (general purpose input output), which can be used to take readings from sensors and control external devices. The active development community and open-source nature also make them ideal choices for many applications. They can be integrated with the accelerator control system and make more devices 'intelligent' via an economical way. It will be helpful to improve the efficiency of the accelerator. The details of the applications in SSRF and SXFEL control system will be reported in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY007
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY008
+Tango Based Control System at SOLARIS Synchrotron
+4101
+
+
+ 
+
+P.P. Goryl, C.J. Bocchetta, Ł.J. Dudek, P. Galuszka, A. Kisiel, W.T. Kitka, M.P. Kopec, M.J. Stankiewicz, A.I. Wawrzyniak, K. Wawrzyniak, L. Zytniakpresenter
+                       Solaris, Kraków, Poland
+I. Dolin'ek, U. Legat
+                       Cosylab, Ljubljana, Slovenia
+V.H. Hardion, J.J. Jamróz, D.P. Spruce
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+P. Kurdziel, M. Ostoja-Gajewski, J. Szota-Pachowicz
+                       Solaris National Synchrotron Radiation Centre, Jagiellonian University, Kraków, Poland
+
+ 
+
+
+ 
+
+A National Synchrotron Radiation Centre SOLARIS has been recently built in Kraków, Poland. The accelerator is in commissioning phase. The control system is in operation and provides all functionalities required for the commissioning process. The system is based on Tango Controls and has been developed with strong collaboration with MAX-IV, Lund Sweden and the Tango Community. Protections systems uses Rockwell and Siemens PLC hardware. Synchronization system is based on the MRF hardware. Status, technologies and performance experience will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY008
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY009
+Control System of the C-Band Standing-Wave Accelerator for the Medical Application
+4104
+
+
+ 
+
+H. Lim, D.H. Jeong, M.W. Lee, M.J. Lee, S.W. Shin, J. Yi
+                       Dongnam Institute of Radiological and Medical Sciences, Busan, Republic of Korea
+
+ 
+
+
+ 
+
+A control system has been developed for the 6 MeV C-band accelerator which will be used for the medical application. It is built in the PXI platform and implemented for the operation and the monitoring of sub-components by the LabView programs. To communicate with components in the RF noise environment and to send/store the various monitoring data to the storage server, the interface based on Ethernet is used and it allows the real-time monitoring and the safe and fast feed-back system. In order to achieve the beam stability < 3.3 %, the automatic frequency controller for the magnetron is implemented by the feed-back scheme using the frequency waveform data and the constant cavity temperature is controlled by the real-time monitoring and interlock. In addition, the dose rate and flatness are controlled by a monitor chamber. The interlock system is also designed to protect the patients and also linac components against the improper operation, largely radiation, the misbehavior of monitoring parameters, etc. The architecture and main features are described and operation results are reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY009
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY010
+EPICS Integration of Simple Network Management Protocol for RISP
+4107
+
+
+ 
+
+M.J. Park, H. Jang, S. Lee, C.W. Son, H.J. Son
+                       IBS, Daejeon, Republic of Korea
+S.H. Nam
+                       Korea University, Seoul, Republic of Korea
+
+ 
+
+
+ 
+
+The Rare Isotope Science Project (RISP) Control System is comprised of ethernet-based devices and equipment. Control system is based on Experimental Physics and Industrial Control System (EPICS) Framework, known as a distributed control system through network. So, we need a way for integrating ethernet-based devices into EPICS Framework. Most of these devices support Simple Network Management Protocol (SNMP). SNMP is based on the manager and agent model and it is similar to EPICS Channel Access (CA) protocol. Therefore, SNMP helps to develop a unified network-based control system with EPICS. In this paper, we will show the network device monitoring system RAON customized SNMP integration into EPICS.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY012
+Implementation of Data Acquisition System for Operating Condition in the 100 Mev Proton Linac
+4110
+
+
+ 
+
+J.H. Kim, Y.-S. Cho, H.-J. Kwon, Y.G. Song
+                       Korea Atomic Energy Research Institute (KAERI), Gyeongbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: The Ministry of Science, ICT & Future Planning of the Korean Government.
+The goal of data acquisition system is to provide an efficient user interface to analyze operating condition of the KOMAC linac. The KOMAC control system which is based on Experimental physics and Industrial Control System (EPICS) has been monitoring and archiving the operating condition using Channel Access (CA) protocol. A data acquisition system has been developed with Qt framework that accesses EPICS IOCS and MySQL database via EPICS CA protocol. The data acquisition system provides calibrated data and efficient function to analyze data easily. In this paper, we are describing the implementation of data acquisition system for operating condition in the 100-MeV proton linac.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY012
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY013
+Signal Archiving System for RISP Heavy-ion Accelerator Control System
+4113
+
+
+SUPSS076
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S.H. Nam
+                       Korea University, Seoul, Republic of Korea
+H. Jang, S. Lee, M.J. Park, C.W. Son, H.J. Son
+                       IBS, Daejeon, Republic of Korea
+E.-S. Kim
+                       Korea University Sejong Campus, Sejong, Republic of Korea
+
+ 
+
+
+ 
+
+RISP control system uses the EPICS real time distributed control system, which is software framework for stable operation of the accelerator. The output signal from all machines and devices must be archived by EPICS framework, and optimized signal archiver system is needed for each accelerator facility. Signal archiver method using the EPICS framework has three significant ways. First is the classic channel archiver using the file base method and the second is the RDB archiver using the relational database. But classic channel archiver has a problem that the index file containing information of data block corresponding PV data mismatch with real data. Also, there is a problem in the performance of file I/O in RDB archiver. SLAC has developed archiver appliance utility to resolve these problems, and the usage of archiver appliance in EPICS community has gradually increased. RISP choose the archiver appliance to also signal archiver solution. However, archiver appliance is not optimized for our RISP heavy-ion accelerator control system. Thus, we will develop the customized signal archiver system for RISP heavy-ion accelerator control system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY013
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY015
+Control System Developments for the MYRRHA Linac
+4116
+
+
+ 
+
+R. Modic
+                       Cosylab, Ljubljana, Slovenia
+J.-L. Biarrotte
+                       IPN, Orsay, France
+D. Bondoux, F. Bouly
+                       LPSC, Grenoble Cedex, France
+L. Medeiros Romão, D. Vandeplassche
+                       SCK•CEN, Mol, Belgium
+
+ 
+
+
+ 
+
+Funding: This work is being supported by the Euratom research and training programme 2014-2018 under grant agreement N°662186 (MYRTE project).
+The goal of the MYRRHA project is to demonstrate the technical feasibility of transmutation in a 100 MWth Accelerator Driven System by building a new flexible irradiation complex in Mol (Belgium). The MYRRHA facility requires a 600 MeV linear accelerator delivering a maximum proton flux of 4 mA in continuous operation, with an additional requirement for exceptional reliability. The control system of the future MYRRHA linac will have an essential role to play in this extreme reliability scenario. On the one hand the intrinsic reliability of the entire control system must be ensured. On the other hand control system will have to take up very high level duties of complex decision taking. This paper summarizes the ongoing developments for the concept design of such a control system. The related experimental activities performed and planned around the MYRRHA injector platform (ECR ion source + LEBT + RFQ) will also be described.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY016
+Fast Machine Interlock Platform for Reliable Machine Protection Systems
+4119
+
+
+ 
+
+R. Tavčar, J. Dedič, E. Erjavec, R. Modicpresenter
+                       Cosylab, Ljubljana, Slovenia
+M. Liu, C.X. Yin
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+This article presents a machine interlock system (MIS), designed and developed in collaboration between SINAP and Cosylab. The design is based on the experience and requirements of different accelerator facilities around the world, with the goal of providing, out of the box, the flexibility, reliability, availability, determinism, response speed, etc., which facilities need for a Machine Protection System (MPS). The goal of the MIS platform is to provide a reliable tool, which covers all the common MIS behaviour, required by an MPS designer. The system is based on a proven hardware platform, uses radiation-tolerant FPGAs, has built-in redundancies for power supply, hardware components and logic and is configurable from EPICS. We present several design principles that were used and explain the features and principles of application. Furthermore, we present the system architecture, from hardware and firmware to software. The MIS system is currently being installed at the BNCT facility at the Ibaraki Neutron Medical Research Center in Japan and is planned in the treatment interlock system of APTRON, the Advanced Proton Therapy Facility in Shanghai, China.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY016
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY017
+Design and Implementation of Embedded Applications with EPICS Support for Accelerator Controls
+4122
+
+
+ 
+
+Y.-S. Cheng, K.T. Hsu, K.H. Hu, C.H. Huang, D. Lee, C.Y. Liaopresenter
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Low-cost credit-card size SBCs (single-board computer) are with small footprint, powerful in CPU performance and rich interfaces solution to widely adopted for educational purposes and also suitable for small scale embedded applications. The card-size SBCs have been applied for several applications with EPICS support at the TPS control system environment as auxiliary supports which are not suitable to use standard platform in existed control system due to economics, simplicity, specialty view points. The more efforts of several implemented applications are summarized in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY017
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY018
+Main Operation Improvements on Taiwan Light Source
+4125
+
+
+ 
+
+C.H. Kuo, H.H. Chen, H.C. Chen, K.T. Hsu, S.J. Huang, J.A. Li, C.Y. Liaopresenter, M.-C. Lin, Y.K. Lin, Y.-C. Liu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+With the beam energy of 1.5 GeV, the storage ring of Taiwan Light Source (TLS) in National Synchrotron Radiation Research Center (NSRRC) has provided research service to users for more than twenty years. It takes a lot of efforts to keep this accelerator reliable and to improve its stability. NSRRC has finished the construction and commissioning of the new 3-GeV accelerator Taiwan Photon Source (TPS) which will be opened to users with limited beam lines in 2016. On the other hand, TLS has 25 beamlines and still serves users very well as being benefited by its mature operation skills and continuous efforts on maintenance and system improvement. Main challenges and corresponding solutions on TLS operation in these recent years t are presented herein, together with the statistics on operation performance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY018
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY019
+Design and Implementation of Control Interface and Timing Support of TPS Phase-I Beamlines
+4128
+
+
+ 
+
+C.Y. Wu, J. Chen, Y.-S. Cheng, K.T. Hsu, K.H. Hu, C.H. Huang, D. Lee, C.Y. Liaopresenter
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Taiwan Photon Source (TPS) with low emittance provides extremely bright X-rays. Seven advanced phase-I beamlines of TPS are being constructed and commissioned. The control interfaces for a beamline or experimental station and support from the accelerator control system are designed and are being implemented. The beamline control interface and supports include a beamline interlock status monitor, accelerator timing transmission, broadcast of accelerator operating status, transmission of the beam-current reading and control of insertion devices. This report summarizes the efforts in implementing the beamline EPICS IOC and support from the accelerator control system during beamline commissioning in TPS phase-I.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY020
+Neural Network Modeling of the PXIE RFQ Cooling System and Resonant Frequency Response
+4131
+
+
+ 
+
+A.L. Edelen, S. Biedron, S.V. Miltonpresenter
+                       CSU, Fort Collins, Colorado, USA
+D.L. Bowring, B.E. Chase, J.P. Edelen, J. Steimel
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+As part of the PIP-II Injector Experiment (PXIE) accel-erator, a four-vane radio frequency quadrupole (RFQ) accelerates a 30-keV, 1-mA to 10-mA H' ion beam to 2.1 MeV. It is designed to operate at a frequency of 162.5 MHz with arbitrary duty factor, including continuous wave (CW) mode. The resonant frequency is controlled solely by a water-cooling system. We present an initial neural network model of the RFQ frequency response to changes in the cooling system and RF power conditions during pulsed operation. A neural network model will be used in a model predictive control scheme to regulate the resonant frequency of the RFQ.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY020
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY021
+NSLS-II Dedicated Python Tools for Simulation and Analysis
+4134
+
+
+ 
+
+J. Choi
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: DOE contract No: DE-SC0012704
+Python is a high-level interpreted programming language. Despite its slow benchmarks, because of its fast coding cycle and dynamic property, the users are increasing fast in all areas. Also, because it does not need special care for the memory management, both professional and non-professional programmers can easily make bug-free code just by concentrating on logics. Furthermore, fast increasing libraries are making the language more and more useful. With these advantages, we developed python tools which simulate and analyze the particle accelerator with some parts being dedicated to NSLS-II operation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY021
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY022
+Database Development for NSLS-II Accelerator Data Management
+4137
+
+
+ 
+
+J. Choi, T.V. Shaftan
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: DOE contract No: DE-SC0012704
+NSLS-II is developing a database which will be used for the accelerator data management. The information related to the operation is the main target at this stage. Also, various documents are being collected to provide easy access and installing workflow management is under consideration. The database will have web-based interfaces to communicate with the users. This paper overviews the database structures and required functionalities.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY022
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY023
+Upgrade of NSLS-II Active Interlock System
+4140
+
+
+ 
+
+S. Seletskiy, J. Choipresenter, K. Ha, R.M. Smith
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The NSLS-II Storage Ring is protected from possible damage from synchrotron radiation by a dedicated active interlock system (AIS). The AIS monitors electron beam position and angle and triggers beam drop if beam orbit exceeds the boundaries of pre-calculated active interlock envelope. The one year worth of the AIS operation showed that there is a number of erroneous machine trips associated with the AIS. In this paper we describe an upgrade of the AIS that allowed us to get rid of the Storage Ring faults and improved the overall NSLS-II reliability.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY024
+Demagnetization of an Entire Accelerator Vault
+4143
+
+
+ 
+
+T. Planche, R.A. Baartman, S.R. Koscielniakpresenter
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+G. Arias, T.C. LeRoss, K.K.S. Multani
+                       UBC, Vancouver, B.C., Canada
+D.A. Bissky Dziadyk
+                       McGill University, Montréal,, Canada
+T. Zuiderveen
+                       University of Ottawa, Ottawa, Ontario, Canada
+
+ 
+
+
+ 
+
+The ARIEL electron linac produced its first high-energy beam on 31 September 2014. Despite over 40 years of experience with ion beams, transporting electrons constituted a new challenge for TRIUMF. With good reason: the difference in rest mass makes electrons orders of magnitude more sensitive than ions to magnetic fields (for the same kinetic energy). In this paper we show how beam steering could have been seriously compromised by the remament field from the structural steel of the building, and how this issue was addressed using a technique developed to demagnetize steel-hull ships: we degaussed the entire accelerator vault.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY025
+From Standby Operation to Patient Treatment in 13 Months: Setting Up the MIT Accelerator Team
+4146
+
+
+ 
+
+A. Peters, Th. Haberer
+                       HIT, Heidelberg, Germany
+U. Scheeler
+                       MIT, Marburg, Germany
+
+ 
+
+
+ 
+
+When the University Hospital Heidelberg took over the responsibility for the Marburg Ionbeam Therapy Centre (MIT), HIT as their daughter company was mandated to build up the operation team, especially for the accelerator. Based on long-standing experiences of HIT a very similar personnel concept was already available to be adapted to the MIT specialties. Within 9 months the directly started hiring process resulted in three technical teams with excellent engineers and technicians but with little or no accelerator experience. In parallel, three accelerator physicists were appointed for the executive team of MIT. Nevertheless for all hired persons a training program was set up consisting of technical instructions, lectures on fundamental accelerator physics and control system basics. These common trainings were complemented by individual skills development schedules for the tasks in the technical teams. HIT accelerator experts substantially carried out the recommissioning but in addition the new MIT employees were trained in designated shifts in the control room. Thus after only 13 months the MIT operation crew was able to operate the accelerator facility from the first patient treatment day on.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY026
+Recent Challenges for the 1.5 GeV MAMI-C Accelerator at JGU Mainz
+4149
+
+
+ 
+
+M. Dehn, K. Aulenbacher, H.-J. Kreidel, F. Nillius, B.S. Schlimme, V. Tioukine
+                       IKP, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by DFG (CRC 1044) and the German federal state of Rhineland-Palatinate
+The MAMI-C accelerator is a 1.5 GeV microtron cascade for up to 100 μA polarised electrons operating CW at Mainz University. Recent experiments required spin manipulations and beam energies not routinely supported by the accelerator. In particular, this required a spin orientation vertical to the accelerator plane and operation at beam energies which could not be achieved by the so far established methods. This paper describes the challenges to provide and to characterise the unusual modes of operation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY026
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY027
+Commissioning Status of SuperKEKB Injector Linac
+4152
+
+
+ 
+
+M. Satoh, M. Akemoto, D.A. Arakawa, Y. Arakida, A. Enomoto, Y. Enomoto, S. Fukuda, Y. Funakoshi, K. Furukawa, T. Higo, H. Honma, N. Iida, M. Ikeda, H. Iwase, H. Kaji, K. Kakihara, T. Kamitani, H. Katagiri, S. Kazama, M. Kikuchi, H. Koiso, S. Matsumoto, T. Matsumoto, H. Matsushita, S. Michizono, K. Mikawa, T. Mimashi, T. Miura, F. Miyahara, T. Mori, A. Morita, H. Nakajima, K. Nakao, T. Natsui, Y. Ogawa, Y. Ohnishi, S. Ohsawa, F. Qiu, I. Satake, D. Satoh, Y. Seimiya, T. Shidara, A. Shirakawa, M. Suetake, H. Sugimoto, T. Suwada, M. Tanaka, M. Tawada, Y. Yano, K. Yokoyama, M. Yoshida, R. Zhang, X. Zhou
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The SuperKEKB main ring is currently being constructed for aiming at the peak luminosity of 8 x 1035 cm-2s−1. The electron/positron injector linac upgrade is also going on for increasing the intensity of bunch charge with keeping the small emittance. The key upgrade issues are the construction of positron damping ring, a new positron capture system, and a low emittance photo-cathode rf electron source. The injector linac beam commissioning started in the October of 2013. In this paper, we report the present status and future plan of SuperKEKB injector commissioning.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY027
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY028
+Operational Status of HLS-II
+4155
+
+
+ 
+
+J.Y. Li, G. Huang, W. Wei, W. Xu, K. Xuan, Y.L. Yang, Z.R. Zhou
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+After a major renovation, the Hefei light source (HLS), renamed HLSII, was brought into operation in the beginning of 2015. The operational result shows that the HLS-II not only provides much brighter synchrotron radiation beam for various users, but also shows much higher reliability than the old light source. This paper first gives an overview of the HLS-II. The overall performance of the light source is then summarized in this paper. Some measured key parameters of the light source, including emittance, orbit stability, beam lifetime and so on, are also presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY028
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY030
+Dependability Studies for CERN PS Booster RF System Upgrade
+4159
+
+
+ 
+
+O. Rey Orozko, A. Apollonio, M. Jonker, M.M. Paoluzzipresenter
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Radio frequency systems are a vital part of almost all accelerators. The request for a higher beam bright-ness from the injector chain of CERN's Large Hardon Collider, as demanded by the future High-Luminosity program, has motivated, among many other upgrades, the construction of new RF equipment in the PS Boost-er. Because availability and reliability have an im-portant impact on the luminosity production in a col-lider environment, dependability studies have been performed on the new design of the RF system assum-ing different maintenance strategies. This paper will present the model, made with the commercial software Isograph, for dependability studies. In addition, a comparative study will be presented between the re-sults obtained from Isograph and from an analytical analysis.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY031
+A Holistic Approach to Accelerator Reliability Modeling
+4163
+
+
+ 
+
+M. Reščič, R. Seviourpresenter
+                       University of Huddersfield, Huddersfield, United Kingdom
+W. Blokland
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Reliability has been identified as a key factor limiting the development of certain particle accelerator applications, for example Accelerator-Driven Systems (ADS) for energy production and waste-transmutation*. Previous studies of particle accelerator reliability have been undertaken using conventional techniques, such as Reliability Block Diagrams (RBD), Fault Tree Analysis (FTA), etc. Although limited data surrounding components and their failure modes limits the applicability of conventional techniques for analysing the reliability of particle accelerators. In addition industrial applications of particle accelerators, i.e. energy production, require a real time response to failure. In this paper we examine a holistic approach to accelerator reliability modelling using Electric Network Frequency (ENF) criterion to look for emergent behaviour of the particle accelerator, from complex datasets, such as beam current/charge, created by the diagnostics systems during the machines operation. To look for predictive characteristics just prior to a machine trip.
+* Report from the DOE ADS White Paper Working Group, Stuart Henderson, Fermilab, October 26, 2011
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY031
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY032
+The Dual Use of Beam Loss Monitors at FAIR-SIS100: General Diagnostics and Quench Prevention of Superconducting Magnets
+4167
+
+
+ 
+
+S. Damjanovic, P. Kowina, C. Ometpresenter, M. Sapinski, M. Schwickert, P.J. Spiller
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+In view of the planned coverage of the FAIR-SIS100 synchrotron with beam loss monitors (BLMs), FLUKA studies were performed aiming at two goals: i) evaluation of the sensitivity of the LHC-IC type detectors to the potential beam losses at SIS100; ii) estimation of the BLM quench prevention threshold via the correlation between the energy deposition inside the superconducting coils and the BLM active volume. A full spectrum of ion species and energies to be accelerated with SIS100 were considered in the simulations, showing a great sensitivity to the beam losses. An interesting finding of this study was that, for the same beam loss location, the quench prevention thresholds were almost identical for all ion species/energies including protons.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY032
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY033
+SIS100 Availability and Machine Protection
+4171
+
+
+ 
+
+C. Omet, H. Kisker, M.S. Mandakovic, D. Ondreka, P.J. Spiller, R.J. Steinhagen
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+For the future FAIR driver accelerator, SIS100, a detailed System-FMEA (Failure Modes and Effects Analysis) according to IEC 61508 has been done. One the one hand, this has been done to identify possible shortcomings for machine protection and on the other hand to predict the machine's availabilty for beam on target. The methodology for the analysis and the main failure modes currently known for the machine and its environment are described in detail. An estimate of the total machine's availability is given.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY034
+Simulations of the Beam Loss Distribution at J-PARC Main Ring
+4175
+
+
+ 
+
+B. Yee-Rendón, H. Kuboki, Y. Sato, K. Satou, M.J. Shirakata, T. Toyama
+                       KEK, Ibaraki, Japan
+H. Harada
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+The Japan Proton Accelerator Research Complex (J-PARC) is integrated by a set of high intensity proton accelerators. At this operation level, the monitoring and control of the beam losses and residual radiation are priority for its safe performance and maintenance. At Main Ring (MR), a discrepancy appears between the beam loss signal detected by the monitors and the residual dose measured. To understand this difference and the mechanism that produces these losses, a beam simulation study is implemented using the Strategic Accelerator Design (SAD) and Geometry and Tracking (Geant4) code. The first stage of the survey uses SAD to obtain the location of the losses around the lattice per turn. Then, Geant4 produces the secondary showers in the elements. Finally, we make the extrapolation with the residual radiation and compare with the measurements. The description and results of this work are presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY034
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY035
+Machine Protection and Safe Operation of LIPAc Linear Accelerator
+4178
+
+
+ 
+
+A. Marqueta, J. Knaster, K. Nishiyama
+                       IFMIF/EVEDA, Rokkasho, Japan
+P.-Y. Beauvais, H. Dzitko
+                       F4E, Germany
+P. Cara
+                       Fusion for Energy, Garching, Germany
+H. Kobayashi
+                       KEK, Ibaraki, Japan
+I. Podadera
+                       CIEMAT, Madrid, Spain
+
+ 
+
+
+ 
+
+A Li(d, xn) fusion relevant neutron source with a broad peak at 14 MeV is indispensable to characterize and qualify suitable structural materials for the plasma facing components in future fusion reactors. LIPAc (Linear IFMIF Prototype Accelerator), presently under its installation and commissioning phase in Rokkasho, will validate the concept of a 40 MeV deuteron accelerator with its 125 mA CW and 9 MeV deuteron beam for a total beam average power of 1.125 MW. The Machine Protection System (MPS) of LIPAc provides the essential interlock function of stopping the beam in case of excessive beam loss or other hazardous situations. However, approaching LIPAc beam commissioning Phase B (including RFQ powered by total 1.6 MW RF power) a risk analysis has been performed on all major technical systems to identify the sources of risk, apply the necessary countermeasures and enhance accelerator availability, avoiding unnecessary beam stop triggers and allowing a fast beam recovery whenever possible. The overall strategy for the machine protection at LIPAc is presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY035
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY036
+A New Fast RF Trip Diagnostic System in SSRF
+4182
+
+
+ 
+
+S.J. Zhao, Q. Chang, H.T. Hou, Z. Li, K. Xu, W.Z. Zhang, Zh.G. Zhang, Y.B. Zhao, X. Zheng
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+A RF trip diagnostic system is essential to find out the trip source when a trip happened. In this paper, a fast RF trip diagnostic system, in storage ring RF system of SSRF, is reported. This system includes a synchronous acquisition recorder to sampling the trip data and a trip server to analysis the data. The recorder has more than 100 channels and maximum sampling rate of each channel is up to 60 MSPS. High precision I/Q cards are designed to detect RF signals. Trip server has been developed to process the trip data.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY036
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY039
+Development of an Analysis Framework for the Beam Instrumentation Interface to the Beam Interlock System at ESS
+4185
+
+
+SUPSS080
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+R. Andersson, E. Bargalló, A. Nordt
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The European Spallation Source (ESS) is currently being built in Lund, Sweden. When it is fully operational in 2025, it will host the most powerful neutron spallation facility in the world. The high-power proton beam needs to be carefully controlled and monitored in order to avoid possible damage to the sensitive equipment. Some of the most critical inputs to the beam interlock system are the beam monitors, delivered by the beam instrumentation group at ESS. In case local protection systems along the accelerator do not foresee a loss of beam, the beam monitors are the last line of defence to stop the proton beam and avoid equipment damage and consecutive downtime. It is essential for the protection of the machine that the whole beam permit signal chain, from monitors to actuators, fulfills strict reliability requirements. This paper describes the role and importance of the beam monitors to correctly measure beam losses and interface with the beam interlock system. It also describes one of several reliability studies that are performed to develop appropriate interfaces in the beam permit signal chain.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY039
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY041
+CERN Beam Interlock Redundant Dump Trigger Module Performance during LHC Run 2
+4189
+
+
+ 
+
+D.O. Calcoen, S. Gabourin, A.P. Siemko
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+During the Long Shutdown 1 an additional link between the Beam Interlocks System and the LHC Beam Dumping System was installed. This third channel is a direct access from the BIS to the asynchronous dump triggering lines. This paper describes the experience collected for the first 10 months of operation and the improvements proposed for a future upgrade of the module.
+IPAC 2014 THPRI021
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY041
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY042
+Evolution and Perspectives of Second Generation Magnet Interlock Systems at CERN
+4192
+
+
+ 
+
+I. Romera, Y. Bastian, G. Csendes, P. Dahlen, R. Mompo, C. Von Siebenthal, M. Zerlauth
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN accelerator complex relies on thousands of superconducting and normal conducting magnets to guide the particle beams on their trajectories throughout the accelerator chain. In order to protect magnet and powering equipment from damage, complex magnet interlock systems are deployed and operated in the LHC and its injectors. Despite a very good track record during the first 10 years of operation, important consolidation activities are ongoing and planned to further increase the dependability of the injector chain and enhance the sys-tem functionality where required. This paper reviews the performance of the various magnet interlock systems at CERN during the past years of operation and presents the ongoing renovation projects carried out in the LHC in-jector complex to achieve the high level of dependability and maintainability required for long term operation. Finally, some design aspects of the existing LHC magnet interlocks will be discussed and possibilities to further enhance the dependability and functionality of the mag-net powering system will be presented in view of the High Luminosity LHC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY042
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY043
+Time Scale of Crab Cavity Failures Relevant for High Luminosity LHC
+4196
+
+
+ 
+
+K.N. Sjobak, R. Bruce, H. Burkhardt, A. Macpherson, A. Santamaría Garcíapresenter
+                       CERN, Geneva, Switzerland
+R. Kwee-Hinzmann
+                       Royal Holloway, University of London, Surrey, United Kingdom
+A. Santamaría Garcíapresenter
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+Funding: Research supported by the High Luminosity LHC project
+A good knowledge of the effects of the crab cavities, required for the baseline High Luminosity LHC (HL-LHC), is needed before the results of the first tests of crab cavity prototypes in the SPS, planned for 2018, will be available. In case of crab cavity failures, we have to make sure that time scales are long enough so that the beams can be cleanly dumped before damage by beam loss occurs. We discuss our present knowledge and modeling of crab cavity induced beam losses, combined with mechanical deformation. We discuss lower limits on the time scales required for safe operation, and possible failure mitigation methods.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY043
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY044
+Experimental Setup to Measure the Damage Limits of Superconducting Magnets due to Beam Impact at CERN's HiRadMat Facility
+4200
+
+
+ 
+
+D. Kleiven
+                       Kleiven, David, Geneva, Switzerland
+B. Auchmann, V. Raginel, R. Schmidt, A.P. Verweij, D. Wollmannpresenter
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Research supported by the High Luminosity LHC project
+The future upgrade of CERN's injector chain for the Large Hadron Collider (LHC) will lead to an increase of the beam brightness in the LHC. Beam absorbers are capturing missteered beams, but some limited beam impact on superconducting magnets can hardly be avoided. Therefore, it is planned to measure the damage limits of superconducting magnet components due to beam impact at CERN's HiRad- Mat facility using the 440 GeV proton beam from the Super Proton Synchrotron. Two experiments are proposed. One at ambient and one at cryogenic temperatures, where several pre-stressed stacks of LHC main dipole Nb-Ti cables and some single strands will be irradiated with varying beam intensities. The electrical integrity and the degradation of critical current will be measured after the removal from the HiRadMat facility. In the cold experiment some sample magnets will be added and the degradation of performance will be monitored online. In this contribution the experimental setup of the first experiment, including the sample container and cable stacks, is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY044
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY045
+Commissioning of the Machine Protection Systems of the Large Hadron Collider Following its First Long Shutdown
+4203
+
+
+ 
+
+D. Wollmann, R. Schmidt, J.A. Uythoven, J. Wenninger, M. Zerlauth
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+During the first long shutdown of the Large Hadron Collider (LHC) extending for more than 18 months, most Machine Protection Systems (MPS) have undergone significant changes, and upgrades. A full re-commissioning of the MPS was performed at the end of the shutdown and during the LHC beam commissioning in 2015. To verify the correct functioning of all protection-relevant systems with beam, a step-wise intensity ramp-up was performed, reaching at the end of 2015 a record stored beam energy of ~280 MJ per beam, nearly 80% of the value in the design report. This contribution summarizes the results of the MPS commissioning, the intensity ramp-up and the continuous follow-up during operation, focusing mainly on near misses and false triggers and their proposed mitigations. A strategy to minimize risks during machine development periods for future operation of the LHC, when the protection parameters are modified for several tests, is discussed. The machine protection strategy for the LHC run in 2016 is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY045
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY046
+Data Analysis and System Survey Framework for the LHC Beam Loss Monitoring System
+4207
+
+
+ 
+
+C. Xu, B. Dehning, C. Zamantzas
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+A data analysis framework has been developed to perform systematic queries and automatic analysis of the large amount of data produced by the LHC beam loss monitoring system. The framework is used to provide continuous system supervision and can give advance warning of any potential system failures. It is also used to facilitate LHC beam loss analysis for determining the critical beam-abort threshold values. This paper describes the functionality of the framework and the results achieved from the analysis.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY046
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY047
+Comprehensive Approach to Synchrotron Radiation Protection of NSLS-II
+4211
+
+
+ 
+
+S. Seletskiy, T.V. Shaftanpresenter
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+To protect the NSLS-II Storage Ring components from possible damage from synchrotron radiation produced by insertion devices (IDs) and bending magnets (BMs) the Active Interlock System (AIS) keeps electron beam within the AI safe envelope (AIE) in the transverse phase space. The NSLS-II beamlines (BLs) and frontends (FEs) are designed under assumption that above certain safe beam current the ID synchrotron radiation (IDSR) fan is produced by the interlocked e-beam. In this paper we describe a new approach to defining the AIS parameters and settings, which significantly simplifies the process of the FE and BL design.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY047
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY048
+NSLS-II Active Interlock System and Post-Mortem Architecture
+4214
+
+
+ 
+
+K. Ha, E.B. Blum, W.X. Cheng, J. Choi, Y. Hu, D. Padrazo, S. Seletskiy, O. Singh, R.M. Smith, J. Tagger, Y. Tian, G. Wang, T. Yang
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+The NSLS-II at Brookhaven National Laboratory (BNL) started the user beam service in early 2015, and is currently operating 13 of the insertion device (ID) and beamlines as well as constructing new beamlines. The fast machine protection consists of an active interlock system (AIS), beam position monitor (BPM), cell controller (CCs) and front-end (FE) systems. The AIS measures the electron beam envelop and the dumps the beam by turning off RF system, and then the diagnostic system provides the post-mortem data for an analysis of which system caused the beam dump and the machine status analysis. NSLS-II post-mortem system involves AIS, CCs, BPMs, radio frequency system (RFs), power supply systems (PSs) as well as the timing system. This paper describes the AIS architecture and PM performance for NSLS-II safe operations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY048
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY049
+Helical Undulator as a Source of Spectromicroscopy Beamline of ILSF
+4217
+
+
+ 
+
+S. Amiri, A. Gholampour, M. Jafarzadehpresenter, M. Lamehi, J. Rahighi
+                       ILSF, Tehran, Iran
+M. Lamehi, J. Rahighi
+                       IPM, Tehran, Iran
+
+ 
+
+
+ 
+
+Regarding user requirements of spectromicroscopy beamline such as high flux, small spot size, linear and circular polarization light, a helical undulator have been chosen as a source for this beamline. Radiation properties of the source e.g. flux, flux density, brilliance, size and divergence of the photon beam, power, power density, angular distribution of power and flux on the axis of the undulator have been considered by theoretical formula and using SPECTRA code. At the circular polarization, the first harmonic covers the energies in the 100-1300 eV range and for the linear polarization energy ranges, 100-1000 eV and 1000-1500 eV, are provided by the first and third harmonics respectively. In the case of circular and linear polarization mode, maximum flux in the central cone for maximum undulator strength are 4.5 × 1016 (ph/s) at kX=ky=3.6 and 2.4 × 1016 (ph/s) at K=5.
+* James A. Clarke, "The science and technology of undulators and wigglers", 2004.  ** H. Onuki, P. Elleaume, "WIGGLERS UNDULATORs and their APLICATIONS", 2003. 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY049
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY050
+Time Response of a Gridded  X-ray Beam Ionization Chamber
+4220
+
+
+SUPSS083
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Y.H. Xu, Z.H. Sun
+                       DongHua University, Songjiang, People's Republic of China
+D.V. Campen, W.J. Corbett
+                       SLAC, Menlo Park, California, USA
+C.L. Li
+                       East China University of Science and Technology, Shanghai, People's Republic of China
+W.J. Zhang
+                       University of Saskatchewan, Saskatoon, Canada
+
+ 
+
+
+ 
+
+Recently, Quick-Scanning Extended X-ray Absorption Spectroscopy (QEXAS) has become an important tool for in-situ characterization of materials and measurement of associated electronic structure. In this case the time response of the ionization chamber affects the measurement resolution and therefore overall performance of the QEXAS system. Common parallel-plate ionization chambers have a step-response rise time of about 0.1 sec, which does not meet the requirements of QEXAS. To speed up the response, we constructed a gridded ionization chamber with variable bias voltage and optional background gas (N2 or He, respectively). To characterize the system we used a high-frequency beam chopper upstream of the ionization chamber and a high-speed, low-noise preamplifier to measure the step response of the chamber as a function of bias voltage and background gas conditions.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY050
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY051
+Upgrades to the SPEAR3 Single-Photon Bunch Measurement System
+4223
+
+
+ 
+
+T.M. Cope, S. Allison, W.J. Corbett, Y.H. Xupresenter
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The SPEAR3 accelerator uses a Single Photon Time-Correlated Counting (TCSPC) system to accurately measure the time profile of electron bunches circulating in the storage ring. The detection hardware uses the PicoHarp 300 TCSPC processor module initially equipped with an available Hamamatsu H7360-01 photon counting head. The H7360-01 was later replaced with a PicoQuant Hybrid-06 PMA to decrease single-photon arrival time jitter. At the same time we adopted an EPICS-based TCSPC software package developed at DIAMOND for robust data acquisition and display. In this paper we report on recent beam profile measurements and upgrades to the data acquisition software system including installation of a local EPICS IOC for real-time access to the bunch profile from SLAC's centralized Accelerator Control Room (ACR). High-level operator interface and monitoring applications developed in Python are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY051
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY052
+Current Status of HES (Hard X-ray EndStation)-2 Beamline at PAL-XFEL
+4225
+
+
+ 
+
+S. Kim, B. Kim, K.H. Nampresenter, J. Park
+                       PAL, Pohang, Republic of Korea
+
+ 
+
+
+ 
+
+HES (Hard X-ray EndStation)-2 beamline is located at the hard X-ray experimental hall at PAL-XFEL. The main objective of HES-2 beamline is to deliver a hard X-ray FEL beam to target materials in such a manner that a coherent diffraction study is possible. This endstation is supposed to provide brilliant hard x-rays and to measure the diffraction patterns with forward scattering geometry. In particular, the instruments are designed for serial femtosecond X-ray crystallography (SFX) and coherent diffraction imaging (CDI). In this poster, we introduce HES-2 beamline at PAL-XFEL in terms of two perspectives: beamline instrumentation and sample environment. In the instrumentation part, the current status of HES-2 beamline is described in details. This includes beamline layout, x-ray optics, beam diagnositics and the upcoming commissioning plan for HES-2 beamline. In the sample environment part, we aim to present scientific goals based on the sample environments for CXI and SFX respectively. Finally, we discuss the feasible demo-experiments, which is expected to be done in 2016.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY052
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY054
+An External Synchronization of PHIL to a High Power Femtosecond Laser
+4228
+
+
+ 
+
+N. ElKamchi, V. Chaumat
+                       LAL, Orsay, France
+
+ 
+
+
+ 
+
+The synchronization accuracy between laser systems and RF wave is a crucial ingredient for the successful operation of any particle accelerator based on photo-emission. In the case of ultra-short highly charged electron accelerator, the beam is highly sensitive to timing jitter. Thus, a high level of synchronization accuracy is needed. In this paper, we describe the current synchronization system of PHIL (electron accelerator at LAL), and a new approach to synchronize PHIL externally with a high power femtosecond laser (LASERIX) . The main goal of the experience is to design and study a compact way to obtain ultra-short electron bunches (few tens to few hundreds of femtoseconds) under high charge levels (hundred pC). We continue with a description of different modifications made on PHIL timing master to adapt it to external synchronization.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY054
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY056
+Implementation of SINAP Timing System in Shanghai Proton Therapy Project
+4231
+
+
+SUPSS082
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+B.Q. Zhao, M. Liu, C.X. Yin, L.Y. Zhao
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: The project of SINAP Timing System was supported by the National Natural Science Foundation of China (No. 11305246).
+SINAP v2 timing system was implemented in the timing system of Shanghai Proton Therapy Project. The timing system in Shanghai Proton Therapy Project is required not only to generate operation sequence for medical proton synchrotron, but also to realize irradiation flow for beam delivery system. For these purposes, the firmware of SINAP v2 timing system is redesigned to satisfy both event code sequenced broadcasting to generate operation sequence and bidirectional event code transmit to realize irradiation flow. Thanks of the hardware advantage of SINAP v2 timing system, the event receiver (EVR) could transmit event code to event generator (EVG) and then broadcast to timing network by bidirectional transmit ability. By this design, the EVR installed in treatment room has ability to send event code to timing network to stop/start beam during slow extraction. The architecture of the timing system in Shanghai Proton Therapy Project is presented in the paper. The risk analysis is also described in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY056
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY057
+RF Timing Distribution and Laser Synchronization Commissioning of PAL-XFEL
+4234
+
+
+ 
+
+C.-K. Min, S.H. Jung, H.-S. Kang, C. Kim, I.S. Ko, S.J. Park
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+PAL-XFEL requires <100 fs synchronization of LLRF systems and optical lasers for stable operation and even lower jitter is favorable in higher performance and pump-probe experiments. The RF timing distribution system is based on a 476 MHz reference line, which is converted to 2.856 GHz at 16 locations over 1.5 km distance using phase-locked DRO. The 2.856 GHz signals are amplified and split to 10 outputs, which is connected to LLRFs, BAMs, and DCMs through low timing drift cables. The jitter between two different PLDRO units is estimated to ~1 fs from 1 Hz to 1 MHz. The synchronization jitter between a Ti:sapphire laser and the 2.856 GHz signal is measured less than 20 fs.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY057
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY059
+Synchronization System for Tsinghua Thomson Scattering X-ray Source
+4237
+
+
+ 
+
+J. Yang, Y.-C. Du, W.-H. Huang, D. Wangpresenter, L.X. Yan
+                       TUB, Beijing, People's Republic of China
+J.M. Byrd, L.R. Doolittle, Q. Du, G. Huang, R.B. Wilcox, Y.L. Xu
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Tsinghua Thomson scattering X-ray Source (TTX) generates X-ray based on inverse thomson scattering method. The synchronization system for TTX includes reference distribution, normal conducting cavity Low Level RF control and Laser-RF synchronization. In collaboration with LBNL, we're working on a prototype synchronization system for TTX. Some test result based on Tsinghua Thomson scattering X-ray Source were obtained. In this paper we will show the synchronization system design and preliminary test result.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY059
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOY060
+Four Beam Generation for Simultaneous Four-Hall Operation at CEBAF
+4240
+
+
+ 
+
+R. Kazimi, J.M. Grames, J. Hansknecht, A.S. Hofler, G.E. Lahti, T. E. Plawski, M. Poelker, R. Suleiman, Y.W. Wang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by JSA, LLC under U.S. DOE Contract No. DE-AC05-06OR23177. The U.S. Gov't retains a non-exclusive, paidup, irrevocable, worldwide license to publish or reproduce this for U.S. Gov't purposes.
+As part of the CEBAF 12 GeV upgrade at Jefferson Lab, a new experimental hall was added to the existing three halls. To deliver beam to all four halls simultaneous-ly, a new timing pattern for electron bunches is needed at the injector. This pattern change has consequences for the frequency of the lasers at the photogun, beam behavior in the chopping system, beam optics due to space charge, and setup procedures. We have successfully demonstrated this new pattern using the three existing drive lasers. The implementation of the full system will occur when the fourth laser is added and upgrades to the Low Level RF (LLRF) are complete. In this paper we explain the new bunch pattern, the challenges for setting and measuring the pattern such as 180° RF phase ambiguity, addition of the fourth laser to the laser table and LLRF upgrade.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-THPOY060
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

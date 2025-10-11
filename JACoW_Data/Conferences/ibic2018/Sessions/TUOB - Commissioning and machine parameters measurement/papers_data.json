@@ -1,0 +1,132 @@
+{
+  "session_info": {
+    "id": "TUOB",
+    "name": "TUOB - Commissioning and machine parameters measurement",
+    "url": "https://proceedings.jacow.org/ibic2018/html/tuob.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUOB01",
+      "title": "Coherent Electron Cooling Diagnostics: Design Principles and Demonstrated Performance",
+      "authors": [
+        "I. Pinayev",
+        "J.C.B. Brutus",
+        "D.M. Gassner",
+        "R.L. Hulsart",
+        "P. Inacker",
+        "V. Litvinenko",
+        "R.J. Michnoff",
+        "T.A. Miller",
+        "M.C. Paniccia",
+        "W.E. Pekrul",
+        "Z. Sorrell",
+        "J.E. Tuozzolo",
+        "BNL",
+        "Upton",
+        "Long Island",
+        "New York",
+        "USA"
+      ],
+      "institutions": [
+        "The Coherent electron Cooling (CeC) Proof of Principle Experiment at Brookhaven National Laboratory utilizes a 14 MeV CW electron accelerator and an FEL structure to demonstrate longitudinal cooling of gold ions circulating in the Relativistic Heavy Ion Collider. This unique combination requires proper selection of the diagnostics devices and their parameters. In this paper we present how we transformed design beam parameters into specifications for the instrumentation and hardware configuration. We also have developed tools enhancing diagnostics capabilities including solenoid beam-based alignment and in-line energy measurement. The achieved beam parameters as well as instrument performance are also shown."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ibic2018/talks/tuob01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ibic2018/papers/tuob01.pdf",
+      "poster_url": "https://proceedings.jacow.org/ibic2018/posters/tuob01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2018-TUOB01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOB02",
+      "title": "Optics Measurements in Storage Rings: Simultaneous 3-Dimensional Beam Excitation and Novel Harmonic Analysis",
+      "authors": [
+        "L. Malina",
+        "J.M. Coello de Portugal",
+        "J. Dilly",
+        "P.K. Skowroński",
+        "R. Tomás",
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "Optics measurements in storage rings employ turn-by-turn data of transversely excited beams. Chromatic parameters need measurements to be repeated at different beam energies",
+        "which is time-consuming. We present an optics measurement method based on adiabatic simultaneous 3-dimensional beam excitation",
+        "where no repetition at different energies is needed. In the LHC",
+        "the method has been successfully demonstrated utilising AC-dipoles combined with RF frequency modulation. It allows measuring the linear optics parameters and chromatic properties at the same time without resolution deterioration. We also present a new accurate harmonic analysis algorithm that exploits the noise cleaning based on singular value decomposition to compress the input data. In the LHC",
+        "this sped up harmonic analysis by a factor up to 300. These methods are becoming a \"push the button\" operational tool to measure the optics."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ibic2018/talks/tuob02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ibic2018/papers/tuob02.pdf",
+      "poster_url": "https://proceedings.jacow.org/ibic2018/posters/tuob02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2018-TUOB02",
+      "page_number": "177",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOB03",
+      "title": "Demonstration of a Newly Developed Pulse-by-pulse X-Ray Beam Position Monitor in SPring-8",
+      "authors": [
+        "H. Aoyagi",
+        "Y. Furukawa",
+        "S. Takahashi",
+        "A. Watanabe",
+        "JASRI/SPring-8",
+        "Hyogo",
+        "Japan",
+        "A newly designed pulse-by-pulse X-ray beam position monitor (XBPM)",
+        "which is photoemission type",
+        "has been demonstrated successfully in the SPring-8 synchrotron radiation beamline. Conventional XBPMs work in the direct-current (DC) mode",
+        "because it is difficult to measure a beam position in the pulse mode under the sever heat load condition. The key point of the design is aiming at improving heat-resistance property without degradation of high frequency property [1]. This monitor is equipped with microstripline structure for signal transmission line to achieve pulse-by-pulse beam position signal. A photocathode is titanium electrode that is sputtered on a diamond heat sink to achieve high heat resistance. We have manufactured the prototype",
+        "and demonstrated feasibility at the SPring-8 bending magnet beamline. As a result",
+        "we observed a unipolar single pulse with the pulse length of less than 1 ns FWHM and confirmed that it has pulse-by-pules position sensitivity [2]. Furthermore",
+        "this monitor can be also used in the direct-current mode with good stability and good resolution. The operational experience will be also presented."
+      ],
+      "institutions": [],
+      "abstract": "[1] http://accelconf.web.cern.ch/AccelConf/medsi2016/papers/wepe10.pdf [2] http://www.pasj.jp/webpublish/pasj2017/proceedings/PDF/THOM/",
+      "presentation_url": "https://proceedings.jacow.org/ibic2018/talks/tuob03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ibic2018/papers/tuob03.pdf",
+      "poster_url": "https://proceedings.jacow.org/ibic2018/posters/tuob03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2018-TUOB03",
+      "page_number": "182",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOB04",
+      "title": "A Vertical Phase Space Beam Position and Emittance Monitor for Synchrotron Radiation",
+      "authors": [
+        "University of Saskatchewan",
+        "Saskatoon",
+        "Canada",
+        "L.D. Chapman",
+        "L.O. Dallin",
+        "CLS",
+        "Saskatoon",
+        "Saskatchewan",
+        "Canada",
+        "[1] A phase-space beam position monitor for synchrotron radiation. J Synchrotron Radiat",
+        "2015. 22(4): p. 946-55."
+      ],
+      "institutions": [],
+      "abstract": "We report on a system (ps-BPM) that can measure the electron source position and angular motion at a single location in a synchrotron bend magnet beamline using a combination of a monochromator and an absorber with a K-edge to which the monochromator was tuned in energy. The vertical distribution of the beam was visualized with an imaging detector where horizontally one part of the beam was with the absorber and the other part with no absorber. The small range of angles from the source onto the monochromator crystals creates an energy range that allows part of the beam to be below the K-edge and the other part above. Measurement of the beam vertical location without the absorber and edge vertical location with the absorber gives the source position and angle. Measurements were made to investigate the possibility of using the ps-BPM to correct experimental imaging data. We have introduced periodic electron beam motion using a correction coil in the storage ring lattice. The measured and predicted motions compared well for two different frequencies. We then show that measurement of the beam width and edge width gives information about the vertical electron source size and angular distribution.",
+      "presentation_url": "https://proceedings.jacow.org/ibic2018/talks/tuob04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ibic2018/papers/tuob04.pdf",
+      "poster_url": "https://proceedings.jacow.org/ibic2018/posters/tuob04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2018-TUOB04",
+      "page_number": "186",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 4,
+  "scrape_time": "2025-10-10 17:46:42"
+}

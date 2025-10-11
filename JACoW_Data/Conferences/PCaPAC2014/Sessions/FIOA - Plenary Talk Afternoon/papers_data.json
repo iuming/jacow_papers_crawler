@@ -1,0 +1,30 @@
+{
+  "session_info": {
+    "id": "FIOA",
+    "name": "FIOA - Plenary Talk Afternoon",
+    "url": "https://proceedings.jacow.org/PCaPAC2014/html/fioa.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FIOA01",
+      "title": "Accelerator Availability Monitoring",
+      "authors": [
+        "DESY",
+        "Hamburg",
+        "Germany"
+      ],
+      "institutions": [],
+      "abstract": "Maximized availability has become an important issue in the field of today's particle accelerator operation, where downtimes of even a few minutes can have a significant influence. Thus a reliable online monitoring of accelerator states within the control system is required, including both declared operation modes as well as alarm states. Would it be possible to rely completely on fully automated data collection for predefined states and predefined operation schedules? And if so, how would we best go about doing this? Or is offline data manipulation unavoidable? Some practical experience will be presented.",
+      "presentation_url": "https://proceedings.jacow.org/PCaPAC2014/talks/fioa01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PCaPAC2014/papers/fioa01.pdf",
+      "poster_url": "https://proceedings.jacow.org/PCaPAC2014/posters/fioa01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2014-FIOA01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-11 02:06:51"
+}

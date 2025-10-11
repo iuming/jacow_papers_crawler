@@ -1,0 +1,91 @@
+{
+  "session_info": {
+    "id": "TUCL",
+    "name": "TUCL - Beam Profile 1",
+    "url": "https://proceedings.jacow.org/IBIC2013/html/tucl.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUCL1",
+      "title": "Overview of Imaging Sensors and Systems Used in Beam Instrumentation",
+      "authors": [
+        "CERN",
+        "Geneva",
+        "Switzerland"
+      ],
+      "institutions": [],
+      "abstract": "The presentation will give an overview of applicable image sensors and sensor systems for an application in the beam instrumentation. The overview will cover fast imaging cameras as well as sensors and cameras to be used in radiation fields. The critical parameters will be discussed and measurements presented if available. Frame grabbers and digital cameras will also be included in the presentation.",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/tucl1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/tucl1.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/tucl1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-TUCL1",
+      "page_number": "331",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUCL2",
+      "title": "A Development of High Sensitive Beam Profile Monitor using Multi-Screen",
+      "authors": [
+        "Y. Hashimoto",
+        "T. Toyama",
+        "J-PARC",
+        "KEK & JAEA",
+        "Ibaraki-ken",
+        "Japan",
+        "T.M. Mitsuhashi",
+        "M. Tejima",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "Mitsubishi Electric System & Service Co.",
+        "Ltd",
+        "Tsukuba",
+        "Japan",
+        "The diagnostics of beam halo as well as beam core are very important for the regulation of the beam collimator. We have developed a monitor to observe two-dimensional beam profile with a large dynamic range. The monitor has been installed in 122m downstream from the beam collimator in 3-50 BT in the J-PARC. For measuring the beam core and the halo alternatively",
+        "the monitor has three kinds of screens. The first one is titanium foil OTR screen to measure a beam core",
+        "the second one is aluminum foil OTR screen having a hole (50 mm diameter) in the center",
+        "and the last one is a pair of alumina fluorescent screen with a separation of 80 mm in horizontal to observe the beam halo in surroundings. We designed an optical system based on the Offner optics for the observation of fluorescence and OTR lights. This optical system has an entrance aperture of 300 mm and it can cover the large opening angle (± 13.5 degree) of the OTR from 3GeV protons. A CID camera with an image intensifier (II) was use to observe the profile. We have succeeded to observe a profile of beam halo to 10-6 order to the peak of beam core by using proton beams of 9.6 x 1012 protons/pulse by this multi-screen scheme."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/tucl2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/tucl2.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/tucl2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-TUCL2",
+      "page_number": "338",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUCL3",
+      "title": "Gas Electron Multipliers Versus Multi Wire Proportional Chambers",
+      "authors": [
+        "Delft University of Technology",
+        "Opto-electronic Section",
+        "Delft",
+        "The Netherlands",
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "Gas Electron Multiplication technology is finding more and more applications in beam instrumentation and at CERN these detectors have recently been adapted for use in transverse profile measurements at several of our facilities. In the experimental areas of CERN’s Antiproton Decelerator",
+        "low energy Gas Electron Multipliers successfully replaced all Multi-Wire Proportional Chambers in 2012 and another detector type has now been developed for high energy applications in the experimental areas of the SPS",
+        "totalling a potential of more than a hundred profile detectors to be replaced by GEM detectors of different types. This paper aims to describe the historical evolution of GEM technology by covering the many different applications but with specific focus on its potential to replace Multi-Wire Proportional Chambers for standard transverse profile measurement."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/tucl3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/tucl3.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/tucl3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-TUCL3",
+      "page_number": "342",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 17:59:22"
+}

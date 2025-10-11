@@ -1,0 +1,131 @@
+{
+  "session_info": {
+    "id": "WEAPP",
+    "name": "WEAPP - Control System Infrastructure 2",
+    "url": "https://proceedings.jacow.org/icalepcs2019/html/weapp.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEAPP01",
+      "title": "Old and New Generation Control Systems at ESA",
+      "authors": [
+        "ESA/ESOC",
+        "Darmstadt",
+        "Germany",
+        "Traditionally Mission Control Systems for spacecraft operated at the European Space Operations Centre (ESOC) have been developed based on large re-use of a common implementation covering the majority of the required functions",
+        "which is referred to as mission control system infrastructure. The generation currently in operations has been successfully used for all categories of missions",
+        "including many commercial ones operated outside ESOC. It is however anticipated that its implementation is going to face obsolescence in the coming years",
+        "thus an ambitious Project is currently on-going aiming at the development and deployment of a completely new generation. This Project capitalizes as much as possible on the European initiative (referred to as EGS-CC) which is progressively developing and delivering a modern and advanced platform forming the basis for any type of monitoring and control applications for space systems. This paper is going to provide a technical overview of the two infrastructure generations",
+        "highlighting the main differences from a technical and usability standpoints. Lessons learned from previous and current developments will also be analyzed."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2019/talks/weapp01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2019/papers/weapp01.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2019/posters/weapp01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2019-WEAPP01",
+      "page_number": "859",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEAPP02",
+      "title": "Modernization Challenges for the IT Infrastructure  at the National Ignition Facility",
+      "authors": [
+        "A.D. Casey",
+        "P. Adams",
+        "M.J. Christensen",
+        "E.P. Ghere",
+        "N.I. Spafford",
+        "M.R.V. Srirangapatanam",
+        "K.L. Tribbey",
+        "R. Vadlamani",
+        "K.S. White",
+        "D.P. Yee",
+        "LLNL",
+        "Livermore",
+        "California",
+        "USA",
+        "As the National Ignition Facility (NIF) enters its second decade of full-scale operations",
+        "the demands on all aspects of the Information Technology (IT) infrastructure are becoming more varied",
+        "complex",
+        "and critical. Cybersecurity is an increasing focus area for the NIF IT team with the goal of securing the data center whilst providing the flexibility for developers to continue to access the sensitive areas of the controls system and the production tools. This must be done whilst supporting the interoperability of controls system elements executing on legacy bare metal hardware in an increasingly homogenized virtual environment in addition to responding to the user’s requests for ever-increasing storage needs and the introduction of cloud services. While addressing these evolutionary changes",
+        "the impact to continuous 24/7 Shot Operations must also be minimized. The challenges",
+        "strategies and implementation approaches being undertaken by the NIF IT team at the NIF to address the issues of infrastructure modernization will be presented."
+      ],
+      "institutions": [
+        "Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2019/talks/weapp02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2019/papers/weapp02.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2019/posters/weapp02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2019-WEAPP02",
+      "page_number": "866",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEAPP03",
+      "title": "Converting From NIS to Redhat Identity Management",
+      "authors": [
+        "T.S. McGuckin",
+        "R.J. Slominski",
+        "JLab",
+        "Newport News",
+        "Virginia",
+        "USA",
+        "The Jefferson Lab (JLab) accelerator controls network has transitioned to a new authentication and directory service infrastructure. The new system uses the Red Hat Identity Manager (IdM) as a single integrated front-end to the Lightweight Directory Access Protocol (LDAP) and a replacement for NIS and a stand-alone Kerberos authentication service. This system allows for integration of authentication across Unix and Windows environments and across different JLab computing environments",
+        "including across firewalled networks. The decision making process",
+        "conversion steps",
+        "issues and solutions will be discussed."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2019/talks/weapp03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2019/papers/weapp03.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2019/posters/weapp03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2019-WEAPP03",
+      "page_number": "871",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEAPP04",
+      "title": "ICS Infrastructure Deployment Overview at ESS",
+      "authors": [
+        "B. Bertrand",
+        "S. Armanet",
+        "J. Christensson",
+        "A. Curri",
+        "A. Harrisson",
+        "R. Mudingay",
+        "ESS",
+        "Lund",
+        "Sweden",
+        "The ICS Control Infrastructure group at the European Spallation Source (ESS) is responsible for deploying many different services. We treat Infrastructure as code to deploy everything in a repeatable",
+        "reproducible and reliable way. We use three main tools to achieve that: Ansible (an IT automation tool)",
+        "AWX (a GUI for Ansible) and CSEntry (a custom in-house developed web application used as Configuration Management Database). CSEntry (Control System Entry) is used to register any device with an IP address (network switch",
+        "physical machines",
+        "virtual machines). It allows us to use it as a dynamic inventory for Ansible. DHCP and DNS are automatically updated as soon as a new host is registered in CSEntry. This is done by triggering a task that calls an Ansible playbook via AWX API. Virtual machines can be created directly from CSEntry with one click",
+        "again by calling another Ansible playbook via AWX API. This playbook uses proxmox (our virtualization platform) API for the VM creation. By using Ansible groups",
+        "different proxmox clusters can be managed from the same CSEntry web application. Those tools give us an easy and flexible solution to deploy software in a reproducible way."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2019/talks/weapp04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2019/papers/weapp04.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2019/posters/weapp04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2019-WEAPP04",
+      "page_number": "875",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 4,
+  "scrape_time": "2025-10-10 18:11:02"
+}

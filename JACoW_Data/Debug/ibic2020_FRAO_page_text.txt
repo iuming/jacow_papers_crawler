@@ -1,0 +1,451 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2020 - Table of Session: FRAO (Beam Position Monitors and Data Acquisition)
+
+
+FRAO —  Beam Position Monitors and Data Acquisition   (18-Sep-20   13:00—14:40)
+
+
+
+Paper
+Title
+Page
+
+
+
+FRAO01
+Developing Electronics for Radiation Environments
+ 
+
+
+ 
+
+S. Danzeca
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In every particle accelerators installed, electronics are exposed to a radiation field of mixed particles over a wide range of energies. There are several radiation-induced effects, some of which affect directly the functionalities of the electronic systems, as they have a direct impact upon the accelerator’s availability and experiment acquisitions. The risks related to radiation and to a radiation tolerant project flow, are investigated. In addition, the key concepts and challenges are described, aiming for high reliability in a radiation field. Finally, the development methodologies and the radiation hardness assurance procedures will be analysed with examples from the LHC.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides FRAO01 [3.256 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAO02
+Direct Digitization and ADC Parameter Trade-off for Bunch-by-Bunch Signal Processing
+288
+
+
+ 
+
+I. Degl’Innocenti, L. Fanucci
+                       Università di Pisa, Pisa, Italy
+A. Boccardi, I. Degl’Innocenti, M. Wendt
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+With the technology improvements of analog-to-digital converters in terms of sampling rate and achievable resolution, direct digitization of beam signals is of growing interest in the field of beam diagnostics. The selection of a state-of-the-art analog-to-digital converter for such a task imposes a trade-off between sampling frequency and resolution. Understanding the dependency of the system performance on these features is fundamental. This paper presents an analysis and design methodology for such architectures. Analytical tools are used to guide the designer and to estimate the system performance as a function of the analog-to-digital converter performance. These estimations are then validated by Monte-Carlo simulations. As an example of this methodology an analysis for the next-generation electronics of the Large Hadron Collider beam position monitoring system is presented. The analytical model and the results obtained are discussed, along with comparisons to beam measurements obtained at the Large Hadron Collider.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides FRAO02 [4.539 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-FRAO02
+
+ 
+
+
+About •
+paper received ※ 02 September 2020       paper accepted ※ 16 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAO03
+BPM Electronics With Self-Calibration at the ALS
+ 
+
+
+ 
+
+G.J. Portmann, M.J. Chin, W.E. Norum, J.M. Weber
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the Director of the Office of Science of the US Department of Energy under Contract no. DEAC02-05CH11231
+As light source electron beam sizes shrink, orbit stability demands increase. There are many factors that contribute to orbit stability. This paper will focus on beam position monitor (BPM) electronics and describe a self-calibration technique implemented at the ALS. The ALS commissioned new BPM electronics about 3 years ago. The electronic design is similar to that of the NSLS-II BPMs. For instance, the digital front end is the same as the NSLS-II design. The ALS team changed the analog front end (although conceptually similar) and the FPGA firmware to further the pilot tone calibration method begun at NSLS-II. The choice of bandpass filters is critical to the success of a pilot tone calibration scheme, as is the digital processing applied to the beam signal and pilot tones. The initial goal was to accurately track and calibrate slow thermally induced position errors. This capability has been expanded to track and remove differences between the BPM channels up to the system bandwidth of about 5kHz.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides FRAO03 [4.132 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAO04
+Commissioning of the Beam Energy Position Monitor System for the Superconducting RIKEN Heavy-ion Linac
+295
+
+
+ 
+
+T. Watanabe, N. Fukunishi, H. Imao, O. Kamigaito, T. Nishi, K. Ozeki, N. Sakamoto, A. Uchiyama, Y. Watanabe, K. Yamada
+                       RIKEN Nishina Center, Wako, Japan
+K. Hanamura
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+A. Kamoshida
+                       National Instruments Japan Corporation, MInato-ku, Tokyo, Japan
+R. Koyama
+                       SHI Accelerator Service Ltd., Tokyo, Japan
+T. Toyama
+                       KEK, Tokai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The beam commissioning for the RIKEN Heavy-ion Linac (RILAC) upgrade, including the new Superconducting Linac (SRILAC) has been successfully completed. These RILAC upgrade aims at promoting super-heavy element searches and the radioactive isotope (RI) production for medical use. When we accelerate the beam by the SRILAC, we must definitely reduce the beam loss under 1 W/m. To constantly monitor the beam nondestructively, we have developed the new system (BEPM) measuring simultaneously not only the beam position but also the beam energy by measuring the time of flight of the beam. This system has the great advantage that can handle time-chopped beam by synchronizing the measurement system with the beam-chopping signal. At the beginning of the commissioning, the beam was chopped to 3% duty to make the SRILAC cavity protected from the beam loss. Even though the beam intensity was 15 enA, the beam position and energy were accurately measured. We measure the beam position to an accuracy of ±0.1 mm and the beam energy to that of several 10-4. Here, we present details concerning the BEPM system and commissioning results.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides FRAO04 [23.775 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-FRAO04
+
+ 
+
+
+About •
+paper received ※ 07 September 2020       paper accepted ※ 28 October 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAO05
+High Performance Data Acquisition for a Modern Accelerator
+303
+
+
+ 
+
+G. Shen, N.D. Arnold, T.G. Berenc, J. Carwardine, E. Chandler, T. Fors, T.J. Madden, D.R. Paskvan, C. Roehrig, S.E. Shoaf, S. Veseli
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Argonne National Laboratory’s work was supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under contract DE-AC02-06CH11357
+The modern and state-of-the-art technology provides great potential to acquire accelerator high speed data, and the possibility to fine tune the particle beam. The widely use of embedded controllers, like field-programmable gate arrays (FPGA, enriches the opportunity to collect fast data from accelerator technical subsystem, for example diagnostics and low-level radiofrequency (LLRF) for monitoring, statistics, diagnostics or fault recording of like. A modern embedded controller may contain several gigabytes of memory for such purposes. This presents a number of challenges related to data acquisition and data management to collect, transfer, manage, and utilize a large amount of data from numerous controllers. Currently at APS Upgrade project, a general purpose DAQ system is under active development, which interfaces with a number of technical subsystems to provide time-correlated and synchronously sampled data acquisition for commissioning, performance monitoring, troubleshooting and early fault detection. This paper will present the status and progress of APS-U general purpose DAQ system, and its use cases at APS-U project.
+
+ 
+
+
+
+
+
+
+Slides FRAO05 [8.519 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-FRAO05
+
+ 
+
+
+About •
+paper received ※ 02 September 2020       paper accepted ※ 31 October 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAO06
+HEPS Storage Ring BPM Development
+ 
+
+
+ 
+
+S.J. Wei, J.S. Cao, Y.Y. Du, H.Z. Ma, Y.F. Sui, J. Yang, Q. Ye, J.H. Yue, X.E. Zhang
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+Beam Position Monitors BPM is the most important and frequent non-destructive diagnostics used at nearly all synchrotrons. In HEPS project, the BPM electronics have been developed all by the BI group staffs. There are 4 main parts are involved in development: the hardware of AFE (RF analog circuit) and DFE (Digital signal processing circuit), the firmware of algorithm, the data acquisition software (DAS), and the BPM testing system. In order to get a better performance, the RF analog circuit (AFE) is design carefully, and the algorithm (HDL in DFE) has been designed and optimized. At the same time, several related techniques are studied to improve the system long-term resolution, such as the thermally controlled racks, 2-way analog switching, the thermal compensation algorithm, etc. Moreover, testing system for BPM is a very important during the BPM electronics development, in manufacturing stage, it can provide the testing tools for the hardware and firmware. And in system running stage, it can be used for a diagnose tools, calibration tools, and monitoring tools for the BPM system. So the BPM testing system can make the system more robust.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides FRAO06 [8.311 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

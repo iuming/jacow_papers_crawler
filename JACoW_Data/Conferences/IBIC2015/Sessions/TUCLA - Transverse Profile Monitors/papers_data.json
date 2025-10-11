@@ -1,0 +1,102 @@
+{
+  "session_info": {
+    "id": "TUCLA",
+    "name": "TUCLA - Transverse Profile Monitors",
+    "url": "https://proceedings.jacow.org/IBIC2015/html/tucla.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUCLA01",
+      "title": "Direct Observation of Ultralow Vertical Emittance Using a Vertical Undulator",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "In recent work",
+        "the first quantitative measurements of electron beam vertical emittance using a vertical undulator were presented",
+        "with particular emphasis given to ultralow vertical emittances*. Using this apparatus",
+        "a geometric vertical emittance of 0.9 ± 0.3 pm rad has been observed. A critical analysis is given of measurement approaches that were attempted",
+        "with particular emphasis on systematic and statistical uncertainties. The method used is explained",
+        "compared to other techniques and the applicability of these results to other scenarios discussed.",
+        "*K.P. Wootton",
+        "M.J. Boland and R.P. Rassool (2014) Phys. Rev. ST Accel. Beams",
+        "17",
+        "112802."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2015/talks/tucla01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2015/papers/tucla01.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2015/posters/tucla01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2015-TUCLA01",
+      "page_number": "278",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUCLA02",
+      "title": "Recent Progress in X-Ray Emittance Diagnostics at SPring-8",
+      "authors": [
+        "S. Takano",
+        "M. Masaki",
+        "JASRI/SPring-8",
+        "Hyogo-ken",
+        "Japan",
+        "SES",
+        "Hyogo-pref.",
+        "Japan",
+        "Synchrotron radiation in the X-ray range is suitable for non-destructive diagnostics of beam emittance *. Both direct imaging and interferometric techniques can resolve the micrometer-order transverse beam size. The beam emittance is obtained from the measured beam size with the knowledge of the betatron and dispersion functions and the beam energy spread. At the SPring-8 storage ring",
+        "we have recently developed two X-ray instruments for emittance diagnostics. The one for a bending magnet source is the X-ray pinhole camera which directly images the beam profile. A pinhole in the atmosphere is composed of combined narrow X-Y slits made of tungsten. A scintillator crystal is used to convert the X-ray beam image to a visible image. The spatial resolution is about 7 micrometers. It is operated for continuous emittance diagnostics and coupling correction of user operation of SPring-8. The other for an undulator source is the X-ray Fresnel diffractometry monitor **. Monochromatic X-rays are cut out by a single slit",
+        "and the vertical beam size is deduced from the depth of the central dip in a double-lobed diffraction pattern. Resolving beam size less than 5 micrometers is feasible.",
+        "* S. Takano"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2015/talks/tucla02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2015/papers/tucla02.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2015/posters/tucla02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2015-TUCLA02",
+      "page_number": "283",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUCLA03",
+      "title": "Design of Coronagraph for the Observation of Beam Halo at LHC",
+      "authors": [
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "E. Bravin",
+        "O.R. Jones",
+        "F. Roncarolo",
+        "H. Schmickler",
+        "G. Trad",
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "In the LHC",
+        "the beam halo due to higher beam energy and intensities will increase the impact on LHC machine protection and on luminosity performance. Measurement of the beam halo distribution is therefore important for understanding and controlling the beam halo. A coronagraph was designed for the observation of the beam halo population. A new optical design of the coronagraph is made for the halo observation in the LHC. For convenience of masking the core image",
+        "we need a large transverse magnification. For this purpose",
+        "a telephoto lens arrangement is applied to the adjective lens to extend the focal length to obtain a large transverse magnification. The result of diffraction analysis",
+        "the contrast is estimated better than 106. Since the beam halo is estimated to 104 -105 of the core intensity",
+        "the coronagraph is estimated to have enough contrast for the observation of beam halo distribution at LHC. This paper describes the detail study of the coronagraph for the LHC for the observation of transverse profile of the beam halo with a contrast down to a level of 10-6 compared to the peak intensity of the beam core."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2015/talks/tucla03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2015/papers/tucla03.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2015/posters/tucla03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2015-TUCLA03",
+      "page_number": "288",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 17:54:25"
+}

@@ -1,0 +1,135 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WESH4 (Speakers’ Corner)
+
+
+WESH4 —  Speakers’ Corner   (09-Oct-19   18:00—19:45)
+Chair: S. Nemesure, BNL, Upton, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+WESH4002
+A PyDM User Interface for an LCLS Simulator
+1525
+
+
+WEPHA055
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M.L. Gibbs, W.S. Colocho, A. Osman, J. Shtalenkova, H.H. Slepicka
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+PyDM (Python Display Manager) is a framework for building control system user interfaces. A user interface for the LCLS (Linac Coherent Light Source) simulator has been built in PyDM. The simulator interface gives a realistic experience of operating many parts of the LCLS accelerator, and can be used for training new accelerator operators on routine tasks. This interface also provides a good demonstration of the experience of using PyDM in a real-world environment.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WESH4002
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WESH4003
+Continuous Integration for PLC-based Control Systems
+1527
+
+
+WEPHA140
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+B. Schofield, E. Blanco Viñuela
+                       CERN, Geneva, Switzerland
+J.H.P.D.C. Borrego
+                       IPFN - IST, Bobadela, Portugal
+
+ 
+
+
+ 
+
+Continuous integration is widespread in software development, but a number of factors have thus far limited its use in PLC (Programmable Logic Controller) application development. A key requirement of continuous integration is that build and test stages must be automated. Automation of the build stage can be difficult for PLC developers, as building is typically performed with proprietary engineering tools. This has been solved by developing command line utilities which use the APIs of these tools. Another issue is that the program must be deployed to a real target (PLC) in order to test, something that is typically easier to do in other types of software development, where virtual environments may easily be used. This is solved by expanding the command line utilities to allow fully automated deployment of the PLC program. Finally, testing the PLC program presents its own challenges, as it is typically undesirable to alter the program in order to implement the tests natively in the PLC. This is avoided by using an industry standard protocol (OPC UA) to access PLC variables for testing purposes, allowing tests to be performed on an unaltered program.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WESH4003
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

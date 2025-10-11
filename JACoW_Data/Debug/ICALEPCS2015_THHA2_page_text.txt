@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: THHA2 (Hardware Technology)
+
+
+THHA2 —  Hardware Technology   (22-Oct-15   09:30—10:30)
+Chair: J. Serrano, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+THHA2I01
+Developing Distributed Hard-Real Time Software Systems Using FPGAs and Soft Cores
+1073
+
+
+ 
+
+T. Włostowski, J. Serrano
+                       CERN, Geneva, Switzerland
+F. Vaga
+                       University of Pavia, Pavia, Italy
+
+ 
+
+
+ 
+
+Hard real-time systems guarantee by design that no deadline is ever missed. In a distributed environment such as particle accelerators, there is often the extra requirement of having diverse real-time systems synchronize to each other. Implementations on top of general-purpose multi-tasking operating systems such as Linux generally suffer from lack of full control of the platform. On the other hand, solutions based on logic inside FPGAs can result in long development cycles. A mid-way approach is presented which allows fast software development yet guarantees full control of the timing of the execution. The solution involves using soft cores inside FPGAs, running single tasks without interrupts and without an operating system underneath. Two CERN developments are presented, both based on a unique free and open source HDL core comprising a parameterizable number of CPUs, logic to synchronize them and message queues to communicate with the local host and with remote systems. This development environment is being offered as a service to fill the gap between Linux-based solutions and full-hardware implementations.
+
+ 
+
+
+
+
+
+
+Slides THHA2I01 [2.530 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHA2I01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHA2O02
+The LASNCE FPGA Embedded Signal Processing Framework
+1079
+
+
+ 
+
+J.O. Hill
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US Department of Energy under contract DE-AC52-06NA25396.
+During the replacement of some LANSCE LINAC instrumentation systems a common architecture for timing system synchronized embedded signal processing systems was developed. The design follows trends of increasing levels of electronics system integration; a single commercial-off-the-shelf (COTS) board assumes the roles of analog-to-digital conversion and advanced signal processing while also providing the LAN attached EPICS IOC functionality. These systems are based on agile FPGA-based COTS VITA VPX boards with an VITA FMC mezzanine site. The signal processing is primarily developed at a high level specifying numeric algorithms in software source code to be integrated together with COTS signal processing intellectual property components for synthesis of hardware implementations. This paper will discuss the requirements, the decision point selecting the VPX together with the FMC industry standards, the benefits along with costs of system integrating multi-vendor COTS components, the design of some of the signal processing algorithms, and the benefits along with costs of embedding the EPICS IOC within an FPGA.
+
+ 
+
+
+
+
+
+
+Slides THHA2O02 [2.113 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHA2O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHA2O03
+Message Signalled Interrupts in Mixed-Master Control
+1083
+
+
+ 
+
+W.W. Terpstra, M. Kreider
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Timing Receivers in the FAIR control system are a complex composition of multiple bus-connected components. The bus is composed of Wishbone crossbars which connect master devices to their controlled slaves. These crossbars are in turn connected in master-slave relationships forming a DAG where source nodes are masters, interior nodes are crossbars, and terminal nodes are slaves. In current designs, masters may be found at multiple levels in the composed bus. Bus masters range from embeddedμcontrollers, to DMA controllers, to bridges from PCIe, VME, USB, or the network. In such a system, delivery of interrupts from controlled slaves to masters is non-trivial. The master may reside multiple levels up the hierarchy. In the case of network control, the master may be kilometres of fibre away. Our approach is to use message signalled interrupts (MSI). This is especially important as a particular slave may be controlled by different masters depending on the use-case. MSI allows the routing of interrupts via the same topology used in master-slave control. This paper explores the benefits, disadvantages, and challenges uncovered by our current implementation.
+
+ 
+
+
+
+
+
+
+Slides THHA2O03 [0.762 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHA2O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

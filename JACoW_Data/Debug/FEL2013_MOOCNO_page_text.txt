@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FEL2013 - Table of Session: MOOCNO (Beam Physics)
+
+
+MOOCNO —  Beam Physics   (26-Aug-13   14:30—15:30)
+Chair: G. Geloni, DESY, Hamburg, Germany
+
+
+Paper
+Title
+Page
+
+
+
+MOOCNO01
+Emittance Control in the Presence of Collective Effects in the FERMI@Elettra Free Electron Laser Linac Driver
+6
+
+
+ 
+
+S. Di Mitri, E. Allaria, D. Castronovo, M. Cornacchia, P. Craievich, M. Dal Forno, G. De Ninno, W.M. Fawley, E. Ferrari, L. Fröhlich, L. Giannessi, E. Karantzoulis, A.A. Lutman, G. Penco, C. Serpico, S. Spampinati, C. Spezzani, M. Trovò, M. Veronese
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+P. Craievich
+                       PSI, Villigen PSI, Switzerland
+M. Dal Forno
+                       University of Trieste, Trieste, Italy
+G. De Ninno, S. Spampinati
+                       University of Nova Gorica, Nova Gorica, Slovenia
+E. Ferrari
+                       Università degli Studi di Trieste, Trieste, Italy
+L. Giannessi
+                       ENEA C.R. Frascati, Frascati (Roma), Italy
+A.A. Lutman
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Recent beam transport experiments conducted on the the linac driving the FERMI@Elettra free electron laser have provided new insights concerning the transverse emittance degradation due to both coherent synchrotron radiation (CSR) and geometric transverse wakefield (GTW), together with methods to counteract such degradation. For beam charges of several 100's of pC, optics control in a magnetic compressor results to minimize the CSR once the H-function is considered*. We successfully extended this approach to the case of a modified double bend achromat system, opening the door to relatively large bending angles and compact transfer lines**. At the same time, the GTWs excited in few mm diameter iris collimators*** and accelerating structures have been characterized in terms of the induced emittance growth. A model integrating both CSR and GTW effects suggests that there is a limit on the maximum obtainable electron beam brightness in the presence of such collective effects.
+* S. Di Mitri et al., PRST-AB 15, 020701 (2012)  ** S. Di Mitri et al., PRL 110, 014801 (2013) *** S. Di Mitri et al., PRST-AB 15, 061001 (2012)
+
+ 
+
+
+
+
+
+
+Slides MOOCNO01 [6.919 MB]
+        
+ 
+
+
+ 
+
+
+
+MOOCNO02
+Multi-Objective Genetic Optimization for LCLS-II X-Ray FEL
+12
+
+
+ 
+
+L. Wang, T.O. Raubenheimer
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The Linac Coherent Light Source II (LCLS-II) will build on the success of the world's most powerful X-ray laser, the Linac Coherent Light Source (LCLS). It will add two new X-ray laser beams and room for additional new instruments, greatly increasing the number of experiments carried out each year. Multiple operation modes are proposed to accommodate a variety of user requirements. There are a large number of variables and objectives in the design. For each operation mode, Multi-Objective Genetic Algorithm (MOGA) is applied to optimize the machine parameters in order to minimize the jitters, energy spread, collective effects and emittance. The optimal designs for various operation modes are presented in this paper. The phase and voltage of the linac RF, R56 at the two bunch compressors are optimized. The CSR (coherent synchrotron radiation) can induce large emittance growth, which is minimized by optimizing the phase advance between the compressor and the bend section. The final emittance at the beginning of the undulator is just about 1um and even lower.
+
+ 
+
+
+
+
+
+
+Slides MOOCNO02 [3.046 MB]
+        
+ 
+
+
+ 
+
+
+
+MOOCNO03
+Suppressing the Shot Noise in Charged Electron Beams at Short Wavelengths
+ 
+
+
+ 
+
+A. Gover, E. Dyunin, A. Nause
+                       University of Tel-Aviv, Faculty of Engineering, Tel-Aviv, Israel
+M.G. Fedurin
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported in part by the Israel Science Foundation Grant No. 353/09
+Shot noise in electron beam remains one of the features beyond control of accelerator physicist. Current results attained in experiment at ATF (BNL), published in Nature Physics, suggest that the control of the shot noise in electron beam in visible range of spectrum (and therefore spontaneous radiation) become a reality. Similar results had been obtained at SLAC. In this talk the authors will present experimental results of the experiments demonstration of the noise suppression and plans for next generation of the experiments. Possibility of extending of the noise suppression to shorter wavelength will be also discussed.
+
+ 
+
+
+
+
+
+
+Slides MOOCNO03 [0.886 MB]
+        
+ 
+
+
+ 
+
+
+
+MOOCNO04
+Using a Lienard-Wiechert Solver to Study Coherent Synchrotron Radiation Effects
+17
+
+
+ 
+
+R.D. Ryne
+                       LBNL, Berkeley, California, USA
+B.E. Carlsten, N.A. Yampolsky
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+We report on coherent synchrotron radiation (CSR) modeling using a new first-principles Lienard-Wiechert solver (CSR3D) that simulates real-world number of particles (624 million to 6.24 billion for 100-pC to 1-nC bunch charges). Using this tool, we have verified the limits of applicability of the common 1-D CSR model, including effect due to transverse beam size and shape. We also have observed energy dependent, wavelength dependent, and transverse-size dependent effects on CSR enhancement from microbunching. Additionally, we describe statistics of CSR shot noise, including dependencies on beam energy and transverse position and resulting energy diffusion. We consider the full transverse equation of motion and also quantify the effect of emittance growth from the bunch’s transverse radiation force.
+
+ 
+
+
+
+
+
+
+Slides MOOCNO04 [6.258 MB]
+        
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,517 @@
+{
+  "conference_info": {
+    "name": "2016",
+    "code": "cyclotrons2016",
+    "url": "https://proceedings.jacow.org/cyclotrons2016/",
+    "status": "pending"
+  },
+  "sessions": [
+    {
+      "session_info": {
+        "id": "MOAW",
+        "name": "MOAW - Welcoming Remarks and Practical Information",
+        "url": "https://proceedings.jacow.org/cyclotrons2016/html/moaw.htm"
+      },
+      "papers": [
+        {
+          "paper_id": "MOAW01",
+          "title": "Welcome",
+          "authors": [
+            "PSI",
+            "Villigen PSI",
+            "Switzerland"
+          ],
+          "institutions": [],
+          "abstract": "Welcome address from Conference Chair.",
+          "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/moaw01_talk.pdf",
+          "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/moaw01.pdf",
+          "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/moaw01_poster.pdf",
+          "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MOAW01",
+          "page_number": "",
+          "presentation_available": true,
+          "paper_available": false,
+          "poster_available": false
+        },
+        {
+          "paper_id": "MOAW02",
+          "title": "Welcome Address",
+          "authors": [
+            "ETH",
+            "Zurich",
+            "Switzerland"
+          ],
+          "institutions": [
+            "Welcome address from Prof. Klaus Kirch of ETH Zurich and Paul Scherrer Institute"
+          ],
+          "abstract": "",
+          "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/moaw02_talk.pdf",
+          "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/moaw02.pdf",
+          "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/moaw02_poster.pdf",
+          "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MOAW02",
+          "page_number": "",
+          "presentation_available": true,
+          "paper_available": false,
+          "poster_available": false
+        }
+      ],
+      "paper_count": 2,
+      "scrape_time": "2025-10-10 17:22:53"
+    },
+    {
+      "session_info": {
+        "id": "MOBS",
+        "name": "MOBS - Special Memorial Presentations",
+        "url": "https://proceedings.jacow.org/cyclotrons2016/html/mobs.htm"
+      },
+      "papers": [
+        {
+          "paper_id": "MOBS01",
+          "title": "In Memorium: Henk Hagendoorn and Yasuo Hirao",
+          "authors": [
+            "KVI",
+            "Groningen",
+            "The Netherlands"
+          ],
+          "institutions": [],
+          "abstract": "",
+          "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/mobs01_talk.pdf",
+          "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/mobs01.pdf",
+          "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/mobs01_poster.pdf",
+          "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MOBS01",
+          "page_number": "",
+          "presentation_available": true,
+          "paper_available": false,
+          "poster_available": false
+        },
+        {
+          "paper_id": "MOBS02",
+          "title": "In Memorium: Mike Craddock",
+          "authors": [
+            "TRIUMF",
+            "Canada's National Laboratory for Particle and Nuclear Physics",
+            "Vancouver",
+            "Canada",
+            "Michael K. Craddock",
+            "TRIUMF accelerator physicist and UBC professor",
+            "died on 11 November",
+            "2015 after a brief illness. Michael left the UK to join the UBC Nuclear Physics group in 1966",
+            "just at the time a new accelerator to replace the aging Van de Graaff was under consideration. He was a leading member of the founding team that decided on a 500 MeV HÂ¯ cyclotron and directed the beam dynamics design of the cyclotron to first beam in December 1974. With the cyclotron running at full intensity he moved his interest to higher energies and led the accelerator physics team in the design of the 30 GeV KAON Factory (1982-1994). After retirement from UBC in 2001 he moved his research interest to FFAGs."
+          ],
+          "institutions": [],
+          "abstract": "",
+          "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/mobs02_talk.pdf",
+          "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/mobs02.pdf",
+          "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/mobs02_poster.pdf",
+          "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MOBS02",
+          "page_number": "11",
+          "presentation_available": true,
+          "paper_available": true,
+          "poster_available": false
+        }
+      ],
+      "paper_count": 2,
+      "scrape_time": "2025-10-10 17:22:56"
+    },
+    {
+      "session_info": {
+        "id": "MODM",
+        "name": "MODM - Mini Orals: Young Scientists",
+        "url": "https://proceedings.jacow.org/cyclotrons2016/html/modm.htm"
+      },
+      "papers": [
+        {
+          "paper_id": "MODM01",
+          "title": "Design Study of the 250 MeV Isochronous Superconducting Cyclotron Magnet",
+          "authors": [
+            "W. Chen",
+            "Z.K. Liang",
+            "X. Liu",
+            "Huazhong University of Science and Technology",
+            "State Key Laboratory of Advanced Electromagnetic Engineering and Technology",
+            "Hubei",
+            "People's Republic of China",
+            "K. Fan",
+            "K.F. Liu",
+            "B. Qin",
+            "HUST",
+            "Wuhan",
+            "People's Republic of China",
+            "Superconducting cyclotron is an optimum choice to deliver high quality continuous wave (CW) proton beams for proton therapy with its compactness and power saving. Field isochronism and tune optimization are the two crucial factors of cyclotrons during the magnet design. This paper is concentrated on the superconducting magnet design",
+            "mainly including the spiral magnet",
+            "isochronous field and the tune optimization. The main parameters and some features of the machine will be presented."
+          ],
+          "institutions": [],
+          "abstract": "",
+          "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/modm01_talk.pdf",
+          "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/modm01.pdf",
+          "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/modm01_poster.pdf",
+          "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MODM01",
+          "page_number": "33",
+          "presentation_available": true,
+          "paper_available": true,
+          "poster_available": false
+        },
+        {
+          "paper_id": "MODM02",
+          "title": "Magnet Optimization and Beam Dynamic Calculation of the 18 MeV Cyclotron by TOSCA and CYCLONE Codes",
+          "authors": [
+            "N. Rahimpour Kalkhoran",
+            "H. Afarideh",
+            "M. Afkhami Karaei",
+            "S. Sabounchipresenter",
+            "AUT",
+            "Tehran",
+            "Iran",
+            "SKKU",
+            "Suwon",
+            "Republic of Korea",
+            "Designing and manufacturing of the 18 MeV cyclotron has been started for producing H− for applications in Posi-tron Emission Tomography (PET) radioisotopes at Amirkabir University Of Technology. Up to this point",
+            "there were 2 steps in magnet design: Initial design and optimization processes. The AVF structure with hill and valley was selected for getting strong axial focusing in magnet design and achieving up to 18MeV energy for the particle. After finishing the initial design",
+            "optimization process in magnet design was started for achieving the best coincidence in magnetic field. Checking the beam dynamic of the particle is one of the most important and necessary steps after magnet simulation. The phenomenon which confirms simulated magnet validity is obtaining reasonable particle trajectory. This paper focused on the optimization process in magnet design and simulation of the beam dynamic. Some results which ensure a particle can be accelerated up to 18 MeV energy",
+            "are presented. All magnetic field calculation in whole magnet was calculated by OPERA-3D(TOSCA) code. Also beam dynamic analysis by applying magnetic field data from the magnet simulation was done in CYCLONE code."
+          ],
+          "institutions": [],
+          "abstract": "",
+          "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/modm02_talk.pdf",
+          "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/modm02.pdf",
+          "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/modm02_poster.pdf",
+          "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MODM02",
+          "page_number": "36",
+          "presentation_available": false,
+          "paper_available": true,
+          "poster_available": true
+        },
+        {
+          "paper_id": "MODM03",
+          "title": "Equivalent Circuit Model of Cyclotron RF System",
+          "authors": [
+            "M. Mohamadian",
+            "H. Afarideh",
+            "S. Sabounchi",
+            "M. Salehi",
+            "AUT",
+            "Tehran",
+            "Iran",
+            "SKKU",
+            "Suwon",
+            "Republic of Korea",
+            "Cyclotron cavity modeled via electromagnetic circuits in the desired frequency. The design performed according to resonator basis and also cyclotron acceleration requirements with ADS software and compared to simulations made by the CST microwave studio. The scattering parameters obtained for main resonators of the cyclotron and Dee parts as a diaphragm for each of cavity sections and also for the whole structure. All the characteristics modeled and calculated by the electromagnetic rules and theory of resonators from circuit model. Then it analysed with numerical methods for bench-marking. Finally",
+            "it shows that the circuit model able to modeled accurately the cyclotron cavity and especially it can estimate precisely the structure parameters without any time consuming numerical method simulations."
+          ],
+          "institutions": [],
+          "abstract": "M. Ghergherehchipresenter",
+          "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/modm03_talk.pdf",
+          "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/modm03.pdf",
+          "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/modm03_poster.pdf",
+          "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MODM03",
+          "page_number": "39",
+          "presentation_available": false,
+          "paper_available": true,
+          "poster_available": true
+        },
+        {
+          "paper_id": "MODM04",
+          "title": "Design of the Fast Scanning Magnets for HUST Proton Therapy Facility",
+          "authors": [
+            "X. Liu",
+            "W. Chen",
+            "Z.K. Liang",
+            "Huazhong University of Science and Technology",
+            "State Key Laboratory of Advanced Electromagnetic Engineering and Technology",
+            "Hubei",
+            "People's Republic of China",
+            "Q.S. Chen",
+            "K.F. Liu",
+            "B. Qin",
+            "HUST",
+            "Wuhan",
+            "People's Republic of China",
+            "For implementation of proton therapy",
+            "Huazhong University of Science and Technology has planned to construct a 250 MeV/500 nA superconducting cyclotron for proton therapy. In the beam-line",
+            "the scanning system spreads out the proton beam on the target according to the complex tumor shape by two magnets for horizontal and vertical scanning independently. As dipole magnets are excited by alternating currents and the maximum repetition rate is up to 100 Hz",
+            "the eddy currents are expected to be large. This paper introduces the design of these two scanning magnets and analyzes the eddy current effect. Slits in the end pole are proven to be an effective way to reduce the eddy current. Different directions",
+            "distributions and width sizes of slits are simulated and compared to determine the slits arrangement. At last",
+            "the maximum temperature of the optimized scanning magnets reaches the temperature requirements."
+          ],
+          "institutions": [],
+          "abstract": "",
+          "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/modm04_talk.pdf",
+          "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/modm04.pdf",
+          "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/modm04_poster.pdf",
+          "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MODM04",
+          "page_number": "42",
+          "presentation_available": true,
+          "paper_available": true,
+          "poster_available": false
+        }
+      ],
+      "paper_count": 4,
+      "scrape_time": "2025-10-10 17:23:01"
+    },
+    {
+      "session_info": {
+        "id": "FRBF",
+        "name": "FRBF - Conference Summary",
+        "url": "https://proceedings.jacow.org/cyclotrons2016/html/frbf.htm"
+      },
+      "papers": [
+        {
+          "paper_id": "FRBF01",
+          "title": "Conference Summary",
+          "authors": [
+            "RIKEN Nishina Center",
+            "Wako",
+            "Japan"
+          ],
+          "institutions": [],
+          "abstract": "A conference summary and concluding remarks.",
+          "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/frbf01_talk.pdf",
+          "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/frbf01.pdf",
+          "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/frbf01_poster.pdf",
+          "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-FRBF01",
+          "page_number": "",
+          "presentation_available": true,
+          "paper_available": false,
+          "poster_available": false
+        }
+      ],
+      "paper_count": 1,
+      "scrape_time": "2025-10-10 17:23:03"
+    }
+  ],
+  "all_papers": [
+    {
+      "paper_id": "MOAW01",
+      "title": "Welcome",
+      "authors": [
+        "PSI",
+        "Villigen PSI",
+        "Switzerland"
+      ],
+      "institutions": [],
+      "abstract": "Welcome address from Conference Chair.",
+      "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/moaw01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/moaw01.pdf",
+      "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/moaw01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MOAW01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOAW02",
+      "title": "Welcome Address",
+      "authors": [
+        "ETH",
+        "Zurich",
+        "Switzerland"
+      ],
+      "institutions": [
+        "Welcome address from Prof. Klaus Kirch of ETH Zurich and Paul Scherrer Institute"
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/moaw02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/moaw02.pdf",
+      "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/moaw02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MOAW02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOBS01",
+      "title": "In Memorium: Henk Hagendoorn and Yasuo Hirao",
+      "authors": [
+        "KVI",
+        "Groningen",
+        "The Netherlands"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/mobs01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/mobs01.pdf",
+      "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/mobs01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MOBS01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOBS02",
+      "title": "In Memorium: Mike Craddock",
+      "authors": [
+        "TRIUMF",
+        "Canada's National Laboratory for Particle and Nuclear Physics",
+        "Vancouver",
+        "Canada",
+        "Michael K. Craddock",
+        "TRIUMF accelerator physicist and UBC professor",
+        "died on 11 November",
+        "2015 after a brief illness. Michael left the UK to join the UBC Nuclear Physics group in 1966",
+        "just at the time a new accelerator to replace the aging Van de Graaff was under consideration. He was a leading member of the founding team that decided on a 500 MeV HÂ¯ cyclotron and directed the beam dynamics design of the cyclotron to first beam in December 1974. With the cyclotron running at full intensity he moved his interest to higher energies and led the accelerator physics team in the design of the 30 GeV KAON Factory (1982-1994). After retirement from UBC in 2001 he moved his research interest to FFAGs."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/mobs02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/mobs02.pdf",
+      "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/mobs02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MOBS02",
+      "page_number": "11",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MODM01",
+      "title": "Design Study of the 250 MeV Isochronous Superconducting Cyclotron Magnet",
+      "authors": [
+        "W. Chen",
+        "Z.K. Liang",
+        "X. Liu",
+        "Huazhong University of Science and Technology",
+        "State Key Laboratory of Advanced Electromagnetic Engineering and Technology",
+        "Hubei",
+        "People's Republic of China",
+        "K. Fan",
+        "K.F. Liu",
+        "B. Qin",
+        "HUST",
+        "Wuhan",
+        "People's Republic of China",
+        "Superconducting cyclotron is an optimum choice to deliver high quality continuous wave (CW) proton beams for proton therapy with its compactness and power saving. Field isochronism and tune optimization are the two crucial factors of cyclotrons during the magnet design. This paper is concentrated on the superconducting magnet design",
+        "mainly including the spiral magnet",
+        "isochronous field and the tune optimization. The main parameters and some features of the machine will be presented."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/modm01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/modm01.pdf",
+      "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/modm01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MODM01",
+      "page_number": "33",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MODM02",
+      "title": "Magnet Optimization and Beam Dynamic Calculation of the 18 MeV Cyclotron by TOSCA and CYCLONE Codes",
+      "authors": [
+        "N. Rahimpour Kalkhoran",
+        "H. Afarideh",
+        "M. Afkhami Karaei",
+        "S. Sabounchipresenter",
+        "AUT",
+        "Tehran",
+        "Iran",
+        "SKKU",
+        "Suwon",
+        "Republic of Korea",
+        "Designing and manufacturing of the 18 MeV cyclotron has been started for producing H− for applications in Posi-tron Emission Tomography (PET) radioisotopes at Amirkabir University Of Technology. Up to this point",
+        "there were 2 steps in magnet design: Initial design and optimization processes. The AVF structure with hill and valley was selected for getting strong axial focusing in magnet design and achieving up to 18MeV energy for the particle. After finishing the initial design",
+        "optimization process in magnet design was started for achieving the best coincidence in magnetic field. Checking the beam dynamic of the particle is one of the most important and necessary steps after magnet simulation. The phenomenon which confirms simulated magnet validity is obtaining reasonable particle trajectory. This paper focused on the optimization process in magnet design and simulation of the beam dynamic. Some results which ensure a particle can be accelerated up to 18 MeV energy",
+        "are presented. All magnetic field calculation in whole magnet was calculated by OPERA-3D(TOSCA) code. Also beam dynamic analysis by applying magnetic field data from the magnet simulation was done in CYCLONE code."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/modm02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/modm02.pdf",
+      "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/modm02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MODM02",
+      "page_number": "36",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": true
+    },
+    {
+      "paper_id": "MODM03",
+      "title": "Equivalent Circuit Model of Cyclotron RF System",
+      "authors": [
+        "M. Mohamadian",
+        "H. Afarideh",
+        "S. Sabounchi",
+        "M. Salehi",
+        "AUT",
+        "Tehran",
+        "Iran",
+        "SKKU",
+        "Suwon",
+        "Republic of Korea",
+        "Cyclotron cavity modeled via electromagnetic circuits in the desired frequency. The design performed according to resonator basis and also cyclotron acceleration requirements with ADS software and compared to simulations made by the CST microwave studio. The scattering parameters obtained for main resonators of the cyclotron and Dee parts as a diaphragm for each of cavity sections and also for the whole structure. All the characteristics modeled and calculated by the electromagnetic rules and theory of resonators from circuit model. Then it analysed with numerical methods for bench-marking. Finally",
+        "it shows that the circuit model able to modeled accurately the cyclotron cavity and especially it can estimate precisely the structure parameters without any time consuming numerical method simulations."
+      ],
+      "institutions": [],
+      "abstract": "M. Ghergherehchipresenter",
+      "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/modm03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/modm03.pdf",
+      "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/modm03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MODM03",
+      "page_number": "39",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": true
+    },
+    {
+      "paper_id": "MODM04",
+      "title": "Design of the Fast Scanning Magnets for HUST Proton Therapy Facility",
+      "authors": [
+        "X. Liu",
+        "W. Chen",
+        "Z.K. Liang",
+        "Huazhong University of Science and Technology",
+        "State Key Laboratory of Advanced Electromagnetic Engineering and Technology",
+        "Hubei",
+        "People's Republic of China",
+        "Q.S. Chen",
+        "K.F. Liu",
+        "B. Qin",
+        "HUST",
+        "Wuhan",
+        "People's Republic of China",
+        "For implementation of proton therapy",
+        "Huazhong University of Science and Technology has planned to construct a 250 MeV/500 nA superconducting cyclotron for proton therapy. In the beam-line",
+        "the scanning system spreads out the proton beam on the target according to the complex tumor shape by two magnets for horizontal and vertical scanning independently. As dipole magnets are excited by alternating currents and the maximum repetition rate is up to 100 Hz",
+        "the eddy currents are expected to be large. This paper introduces the design of these two scanning magnets and analyzes the eddy current effect. Slits in the end pole are proven to be an effective way to reduce the eddy current. Different directions",
+        "distributions and width sizes of slits are simulated and compared to determine the slits arrangement. At last",
+        "the maximum temperature of the optimized scanning magnets reaches the temperature requirements."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/modm04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/modm04.pdf",
+      "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/modm04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-MODM04",
+      "page_number": "42",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRBF01",
+      "title": "Conference Summary",
+      "authors": [
+        "RIKEN Nishina Center",
+        "Wako",
+        "Japan"
+      ],
+      "institutions": [],
+      "abstract": "A conference summary and concluding remarks.",
+      "presentation_url": "https://proceedings.jacow.org/cyclotrons2016/talks/frbf01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cyclotrons2016/papers/frbf01.pdf",
+      "poster_url": "https://proceedings.jacow.org/cyclotrons2016/posters/frbf01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-CYCLOTRONS2016-FRBF01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "stats": {
+    "total_sessions": 4,
+    "total_papers": 9,
+    "scrape_time": "2025-10-10 17:23:04"
+  }
+}

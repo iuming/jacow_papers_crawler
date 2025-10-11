@@ -1,0 +1,2473 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2019 - Table of Session: TUPP (Tuesday Poster Session)
+
+
+TUPP —  Tuesday Poster Session   (10-Sep-19   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPP001
+KALYPSO: Linear Array Detector with Continuous Read-Out at MHz Frame Rates
+271
+
+
+ 
+
+C. Gerth, B. Steffen
+                       DESY, Hamburg, Germany
+M. Caselle, L. Rota
+                       KIT, Karlsruhe, Germany
+D.R. Makowski, A. Mielczarek
+                       TUL-DMCS, Łódź, Poland
+
+ 
+
+
+ 
+
+The novel linear array detector KALYPSO has been developed for beam diagnostics based on 1-dimensional profile measurements at high-repetition rate free-electron lasers (FEL) and synchrotron radiation facilities. The current version of KALYPSO has 256 pixels with a maximum frame rate of 2.7~MHz. The detector board, which comprises the radiation sensor, analog signal amplification, and analog-to-digital signal conversion, has been designed as a mezzanine card that can be plugged onto application-specific carrier boards for data pre-processing and transmission. Either a Si or InGaAs sensor can be mounted for the detection of visible or near infrared radiation. Results obtained in several beam diagnostics applications at the European XFEL and FLASH are presented to demonstrate the powerful capabilities of the KALYPSO detector.
+* The KAYLYPSO detector is a collaboration between the Karlsruhe Institute of Technology, Paul Scherrer Institut, Łódź University of Technology, and Deutsches-Elektronen Synchrotron. 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP001
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP002
+Direct-Sampling Coarse Bunch Arrival Time Monitor in the Free Electron Laser FLASH Based on the Fast Digitizer Implemented in the FMC VITA 57.1 Standard
+275
+
+
+ 
+
+J. Zink, M.K. Czwalinna, M. Fenner, S. Jabłoński, J. Marjanovic, H. Schlarb
+                       DESY, Hamburg, Germany
+F. Gerfers
+                       Technische Universität Berlin, Berlin, Germany
+
+ 
+
+
+ 
+
+At the free-electron lasers FLASH and European-XFEL bunch arrival times are monitored with a high-accuracy electro-optical based data acquisition system (BAM). Due to only a couple of picoseconds time measurement range of this system, large timing changes might cause the monitor to fail. To remove any ambiguity and for health status monitoring a high-speed direct-sampling FPGA mezzanine card (FMC) and an analogue RF front-end was added. The circuitry has lower precision than the electro-optical based BAM, but it can determine bunch arrival time with respect to a reference signal over a large time range, i.e. of the order of 1 ms. After restarts or larger energy changes during operation, the electron bunch arrival time may have been changed by tens or even hundreds of picoseconds, which causes that the BAM is out of its operation range and needs to be recalibrated. With the solution developed, the BAM gets the coarse bunch timing from the digitizer and adjusts its optical delay lines accordingly. This allows for finding the operation point fast and automatically. Performance data of the fast direct-sampling digitizer FMC and first measurement data from FLASH will be presented.
+
+ 
+
+
+
+
+
+
+Poster TUPP002 [3.810 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP002
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP003
+A Common Diagnostic Platform for Elettra 2.0 and FERMI
+280
+
+
+ 
+
+G. Brajnik, S. Cleva, R. De Monte, D. Giuressi
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Elettra 2.0 is the project of upgrading the current synchrotron light source to a low emittance machine. In this framework, various components of diagnostics have to be refurbished due to the obsolescence of the same or due to the tight requirements of the new accelerator. In this paper we present a high performance FPGA-based (Altera/Intel Arria 10) digital board developed internally, capable of hosting two FMC modules, equipped with DDR3 ram and 10 Gb/s Ethernet links. The presence of the FMC connectors allows a flexible use of the board: various configurations of A/D and D/A converters (different number of channels, resolution, sampling rate) can be obtained, also with various I/O ports for trigger and synchronisation. These features make it applicable as a base platform for various applications not only for Elettra (electron and photon BPMs, DLLRF systems, etc.) but also for Fermi (cavity BPMs, bunch arrival monitor, link stabiliser). The peripherals on board have been fully debugged, and probably a new version with a SoC (System on Chip) will be released in the next future.
+
+ 
+
+
+
+
+
+
+Poster TUPP003 [1.586 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP003
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP004
+High-Speed Beam Signal Processor for SHINE
+283
+
+
+ 
+
+L.W. Lai, Y.B. Leng
+                       SSRF, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+A CW hard X-ray FEL is under construction in SSRF, which pulse rate is designed to 1MHz. A new high-speed sampling BPM signal processor is under development to meet the high performance requirements of beam position measurement system. The processor¿s sampling rate can be up to 500MHz, and beam position information of each bunch (1MHz rate) can be retrieved with the power of FPGA. Time stamp is aligned with the position data for offline analysis. The processor is designed to be a common signal processing platform for beam diagnostics. The first application is cavity BPM, and other applications, including button BPM, stripline BPM, and even wire scanner processor will be developed based on this platform. At the same time, a RF direct sampling processor is designed for cavity BPM signal processing. This novel technology will greatly simplify the cavity BPM electronic system, and make the system design more efficient and more flexible.
+
+ 
+
+
+
+
+
+
+Poster TUPP004 [0.983 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP004
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP005
+PLC Based Flexible and Scalable Vacuum Control at the Argonne Tandem Linear Accelerator System (ATLAS)
+285
+
+
+ 
+
+Y. Luo, D.G. Bilbrough, C. Dickerson, A.E. Germain, M.R. Hendricks, C.E. Peters, S.I. Sharamentov
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC02-06CH11357.  This research used resources of ANL¿s ATLAS facility, a DOE Office.
+The beamline sections of an accelerator and different ion sources require a vacuum system capable of providing pressures down to 10-10 Torr.  To control, monitor, and provide interlock protection of the vacuum equipment, a PLC-based vacuum control system was developed and tested at the Argonne Tandem Linear Accelerator (ATLAS). This system was designed to be highly flexible and scalable to meet the variety of equipment and configurations at ATLAS. The current FGPA-based system is reliable and fast, but is very difficult to maintain and upgrade. Particular attention was paid to the signal distribution to promote standard cable connections, minimize the usage of terminal blocks, and reduce the time to troubleshoot problematic channels. The system monitors the status of fast acting relays for interlock or control purposes, and utilizes RS-485 communication to gather lower priority information such as pump speeds or vacuum pressure readouts. The vacuum levels are monitored to interlock the high voltages of some beam instruments to protect against sparks as the Paschen minimum is approached. This paper mainly presents work on hardware interface to various vacuum devices.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP005
+
+ 
+
+
+About •
+paper received ※ 30 August 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP006
+Transverse Emittance Measurement of a 2.5 MeV Proton Beam on LIPAc, IFMIF’s Prototype
+288
+
+
+ 
+
+J. Marroncle, P. Abbon, B. Bolzon, T. Chaminade, N. Chauvin, S. Chel, J.F. Denis, A. Gaget
+                       CEA-DRF-IRFU, France
+T. Akagi, K. Kondo, M. Sugimoto
+                       QST, Aomori, Japan
+L. Bellan, M. Comunian, E. Fagotti, F. Grespan, A. Pisent, F. Scantamburlo
+                       INFN/LNL, Legnaro (PD), Italy
+P. Cara
+                       IFMIF/EVEDA, Rokkasho, Japan
+H. Dzitko, D. Gex, A. Jokinen
+                       F4E, Germany
+J.M. García, D. Jiménez-Rey, A. Ros, V. Villamayor
+                       CIEMAT, Madrid, Spain
+A. Rodríguez Páramo
+                       ESS Bilbao, Zamudio, Spain
+
+ 
+
+
+ 
+
+IFMIF (International Fusion Materials Irradiation Fa-cility) is an accelerator-driven neutron source aiming at testing fusion reactor materials. Under the Broader Ap-proach Agreement, a 125 mA / 9 MeV CW deuteron accelerator called LIPAc (Linear IFMIF Prototype Accel-erator) is currently under installation and commissioning at Rokkasho, Japan, to validate the IFMIF accelerator. During the beam commissioning at 5 MeV which started in June 2018, the horizontal and vertical transverse emit-tance of a 2.5 MeV proton beam have been measured downstream of the RFQ for different machine configura-tions. Such measurements were done with an emittance measurement unit composed of slits defining a beamlet of 200 µm width, then of steerers and finally of a SEM grids monitor. In this paper, the process and the system are first described. The secondary electron emission of SEM-Grid wires is then estimated based on measure-ments and results are close to the usual rule of thumb. Finally, emittance measurements are presented and comparisons with beam dynamics simulations show good agreement.
+
+ 
+
+
+
+
+
+
+Poster TUPP006 [1.974 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP006
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP007
+Transverse Phase Space Scanner Developments at IPHC
+293
+
+
+ 
+
+F.R. Osswald, T. Adam, P.G. Graehling, M. Heine, C. Maazouzi, E.K. Traykov
+                       IPHC, Strasbourg Cedex 2, France
+
+ 
+
+
+ 
+
+Emittance characterization of charged particle beams is a standard and important tool to assess the performances of a facility. Due to emittance growth, beam losses and space charge the measurement of the transverse phase space distributions of the charged particles is still an up-to-date issue even at low energy and for wide beams. It enables detailled characterization of particle position and incidence in addition to other diagnostics. It gives access to the particles distribution at the boarder, a region of lower density important for high power accelerators and high intensity radioactive beams as they request reduced losses and damages thus less contaminated parts and nuclear waste for a safe handling during maintenance. Transverse Phase Space Scanners are designed at IPHC and based on the Allison system. They are currently used on different injection channels of large facilities as SPIRAL 2 and FAIR and will be used in the future on the DC280/SHE facility at JINR. A review of the IPHC’s high resolution scanner design, development programme and future challenges are presented espacially for beam halo analysis and "loss less" beam transport lines.
+
+ 
+
+
+
+
+
+
+Poster TUPP007 [1.475 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP007
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP008
+Thermal Simulations of Optical Transition Radiation Targets
+297
+
+
+ 
+
+J. Pforr, M. Arnold, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by DFG through GRK 2128
+The recirculating electron linac S-DALINAC* provides beams with currents up to 20 µA and energies up to 130 MeV. It is planned to extend the beam diagnostics by adding multiple emittance measurement systems in order to investigate the emittance evolution along the beamline. The emittance measurement is based on the quadrupole scan technique and utilizes the existing quadrupoles and newly built optical transition radiation targets. As the targets are heated by the beam and destruction must be avoided, simulations of the thermal behaviour of the target were conducted. In particular, the dependence of the target temperature on the target design, but also variable parameters as beam spot size and current were investigated. This contribution will present these parameter studies.
+* N. Pietralla, Nuclear Physics News, Vol. 28, No. 2, 4 (2018)
+
+ 
+
+
+
+
+
+
+Poster TUPP008 [1.114 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP008
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP009
+Determination of the Momentum Spread While Running in the ERL Mode at the S-DALINAC*
+300
+
+
+ 
+
+F. Schließmann, M. Arnold, M. Dutine, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: *Work supported by DFG through GRK 2128 and BMBF through grant No. 05H18RDRB2
+The recirculating superconducting electron accelerator S-DALINAC [1] at TU Darmstadt is capable to run as a onefold or twofold Energy Recovery Linac (ERL) with a maximum energy of approximately 34 or 68 MeV in ERL mode, respectively. After the final acceleration in ERL mode, the momentum spread at the intended interaction point has to be determined. In order to investigate that momentum spread, a nondestructive measurement method is necessary. For this reason, it is planned to expand the beam horizontally in a section close to the interaction point by providing a well-defined horizontal dispersion. Using a wire scanner in this section for measuring the horizontal profile of the electron distribution, one can determine the momentum spread. The method of determining the momentum spread using the horizontal dispersion and the design of the wire scanner will be presented in this contribution.
+[1] N. Pietralla, Nuclear Physics News, Vol. 28, No. 2, 4 (2018).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP009
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP010
+A Fast Wire Scanner System for the European XFEL
+304
+
+
+ 
+
+T. Lensch, B. Beutner, T. Wamsat
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European-XFEL is an X-ray Free Electron Laser facility located in Hamburg (Germany). The 17.5 GeV superconducting accelerator will provide photons simultaneously to several user stations. Currently 14 Wire Scanner stations are used to image transverse beam profiles in the high energy sections. These scanners provide a slow scan mode for beam halo studies and beam optics matching. When operating with long bunch trains (>100 bunches) fast scans will be used to measure beam sizes in an almost non-destructive manner. This paper briefly describes the wire scanner setup and focusses on the fast scan concept and first measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP010
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP011
+Observation of Scintillators Charging Effects at the European XFEL
+308
+
+
+ 
+
+A.I. Novokshonov, B. Beutner, G. Kube
+                       DESY, Hamburg, Germany
+S.A. Strokov
+                       TPU, Tomsk, Russia
+
+ 
+
+
+ 
+
+Scintillating screens are widely used for beam profile diagnostics at various kinds of particle accelerators. At modern linac based electron machines with ultrashort bunches as the European XFEL in Hamburg (Germany), scintillators help to overcome the limitation of standard OTR based monitors imposed by the emission of coherent radiation. The XFEL injector section is equipped with four off-axis screens allowing to perform online beam profile diagnostics, i.e. a single bunch out of a bunch train is kicked onto the screen and the profile is analyzed. However, during user operation a decrease of the SASE level was observed in cases that one of the of-axis screens was used. The observation is explained by charging of the scintillator screen: each deflected bunch hitting the screens causes ionization and charging of the screen. The scintillator as good insulator keeps the charge for some time such that the non-deflected part of the bunch-train feels their Coulomb force and experiences a kick, resulting in a drop of the SASE level. This report summarizes the observations at the European XFEL and introduces a simple model for quantification of this effect.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP011
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP012
+Image of the Transverse Bunch Profile via COTR
+313
+
+
+ 
+
+A. Potylitsyn, T. Gusvitskii, L.G. Sukhikh
+                       TPU, Tomsk, Russia
+G. Kube, A.I. Novokshonovpresenter
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: This work was supported by the grant of the Russian Ministry of Science # 3/1903.2017.
+Transverse beam profile diagnostics based on Optical Transition Radiation (OTR) is a routine technique at most modern electron linear accelerators (linacs) which is difficult to implement for FEL beams [*] and LWPA accelerators [**]. The reason is that a standard OTR beam profile monitor with a few micrometers space resolution cannot be used for measurements of ultrashort bunch profiles due to coherent effects in the OTR emission process [***]. We have developed an approach which allows calculating the propagation of coherent optical transition radiation (COTR) through a standard optical system consisting of a focusing lens and a spatial resolving detector placed in the image plane. Strict summation of the OTR fields emitted coherently by electrons inside the bunch and its focusing onto the detector plane allows obtaining a COTR image of the bunch profile. With the assumption of a Gaussian transverse bunch profile it is shown that the resulting image has a typical "ring" shape, characteristics of which are depended on the bunch transverse rms size and optical system parameters.
+* E. Saldin, et al., "The Physics of Free Electron Lasers", Springer-Verlag, 2010.  ** N. Bourgeois, et al., AIP Conf. Proc., 1507, 258 (2012). *** H. Loos, R. Akre, et al., SLAC-PUB-13395 (2008).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP012
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP013
+Slit-Based Slice Emittance Measurements Optimization at PITZ
+318
+
+
+ 
+
+R. Niemczyk, P. Boonpornprasert, Y. Chen, J.D. Good, M. Groß, H. Huck, I.I. Isaev, C. Koschitzki, M. Krasilnikov, S. Lal, X. Li, O. Lishilin, G. Loisch, D. Melkumyan, A. Oppelt, H.J. Qian, H. Shaker, G. Shu, F. Stephan, G. Vashchenko
+                       DESY Zeuthen, Zeuthen, Germany
+W. Hillert
+                       University of Hamburg, Institut für Experimentalphysik, Hamburg, Germany
+
+ 
+
+
+ 
+
+At the Photo Injector Test Facility at DESY in Zeuthen (PITZ) high-brightness electron sources are optimized for use at the X-ray free-electron lasers FLASH and European XFEL. Transverse projected emittance measurements are carried out by a single-slit scan technique in order to suppress space charge effects at an energy of ~20 MeV. Previous slice emittance measurements, which employed the emittance measurement in conjunction with a transverse deflecting structure, suffer from limited time resolution and low signal-to-noise ratio (SNR) due to a long drift space from the mask to the observation screen. Recent experimental studies at PITZ show improvement of the temporal resolution and SNR by utilizing quadrupole magnets between the mask and the screen. The measurement setup is described and first results are shown.
+
+ 
+
+
+
+
+
+
+Poster TUPP013 [1.121 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP013
+
+ 
+
+
+About •
+paper received ※ 26 August 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP014
+New Combined Function Wire Scanner-Screen Station for the High Resolution Transverse Profile Measurements at FERMI
+322
+
+
+ 
+
+M. Veronese, A. Abrami, M. Bossi, M. Ferianis, S. Grulja, G. Penco, M. Tudor
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+We present the upgrade of the transverse profile diagnostics at the end of the FERMI Linac with a new high resolution instrumentation with the aim of improving the accuracy of the measurement of the twiss parameters and of the emittance. A scintillating screen, has been adopted instead of OTR screen due to known COTR issues. We used the same COTR suppression geometry that we had already implemented on our intra undulator screens and YAG:Ce as scintillating material. Screen based transverse profile diagnostics provide single shot measurements with a typical resolution of the order of tens of microns mainly due to refraction effects, geometry and other physical material properties. To extend the resolution to the micron level needed in case of low charge operation, we have equipped the same vacuum chamber with a wire scanner housing 10 micron tungsten wires. This paper describes the design and the first operational experience with the new device and discusses advantages as well as limitations.
+
+ 
+
+
+
+
+
+
+Poster TUPP014 [0.638 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP014
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP015
+Wire Scanner Diagnostic System
+326
+
+
+ 
+
+S. Grulja, S. Cleva, R. De Monte, M. Ferianis
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Elettra Sincrotrone Trieste Research Center (Elettra) is one of the Italian Institutions, together with Istituto Nazionale di Fisica Nucleare (INFN) and Consiglio Nazionale delle Ricerche (CNR), committed to the realization of the Italian in-kind contributions for the European Spallation Source. One part of the Elettra in-kind contributions to the proton accelerator is the construction of acquisition system for ESS Wire Scanner (WS).This paper presents an overview of the diagnostic system of the ESS Wire Scanner, including the first measurements with beam performed at CERN on LINAC4.
+
+ 
+
+
+
+
+
+
+Poster TUPP015 [7.121 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP015
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP016
+Beam Profile Monitors for the CNAO Experimental Line
+328
+
+
+ 
+
+C. Viviani, G.M.A. Calvi, L. Lanzavecchia, M. Manzini, A. Parravicini, E. Rojatti
+                       CNAO Foundation, Milan, Italy
+
+ 
+
+
+ 
+
+The CNAO (Centro Nazionale di Adroterapia Oncologica) Foundation is the first Italian center for deep hadrontherapy. Since 2011, more than 2000 patients have been treated using Protons and Carbon ions. During the last 3 years an experimental line for research purposes has been built. The experimental line is equipped with three Scintillating Fibers with Photodiode array (SFP) detectors. The SFP is a profile and position monitor, whose sensitive part is made up of two harps of scintillating fibers. Each fiber is readout by a cell of a photodiode array. The SFP has been developed from the Scintillating Fibers Harp (SFH) detector, the monitor presently installed along the CNAO extraction lines. The passage to the SFP results in a significant advantage in terms of cost, dimension, acquisition rate speed and flexibility. On 19th May 2019 the first beam was extracted in the CNAO experimental room and first in line beam measurement was performed with the SFP. The present work describes the SFP detectors, their achieved performances and the results obtained by means of the most recent beam measurements, performed during experimental line commissioning.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP016
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP017
+Thermal Performance of Diamond SR Extraction Mirrors for SuperKEKB
+332
+
+
+ 
+
+J.W. Flanagan, M. Arinaga, H. Fukuma, H. Ikeda, G. Mitsuka, Y. Suetsugu
+                       KEK, Ibaraki, Japan
+E. Mulyani
+                       BATAN, Yogyakarta, Indonesia
+E. Mulyani
+                       Sokendai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The SuperKEKB accelerator is a high-current, low-emittance upgrade to the KEKB double ring collider. The beryllium extraction mirrors used for the synchrotron radiation (SR) monitors at KEKB suffered from heat distortion due to incident SR, leading to systematic changes in magnification with beam current, and necessitating continuous monitoring and compensation of such distortions in order to correctly measure the beam sizes.* To minimize such mirror distortions, quasi-monocrystalline CVD diamond mirrors have been designed and installed at SuperKEKB.** Diamond has a very high heat conductance and a low thermal expansion coefficient. With such mirrors it is hoped to reduce the beam current-dependent magnification to the level of a few percent at SuperKEKB. Preliminary measurements of mirror distortion during SuperKEKB commissioning show very promising results with regard to thermal performance, though full beam currents have not yet been stored in the SuperKEKB rings. Measurements of the thermal deformation of the diamond mirrors will be presented in this paper, along with a description of the design of the mirrors and their mounts, and issues encountered during commissioning.
+*M. Arinaga et al., NIM, A499, p. 100 (2003). **J.W. Flanagan et al., "Diamond mirrors for the SuperKEKB synchrotron radiation monitors," Proc. IBIC2012, Tsukuba, Japan p. 515 (2012).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP017
+
+ 
+
+
+About •
+paper received ※ 09 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP018
+Synchrotron Radiation Monitor for SuperKEKB Damping Ring in Phase-III Operation
+336
+
+
+ 
+
+H. Ikeda, J.W. Flanagan, H. Fukuma, H. Sugimoto, M. Tobiyama
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The SuperKEKB damping ring (DR) commissioned in March 2019, before main ring (MR) Phase-III operation. The design luminosity of SuperKEKB is 40 times that of KEKB with high current and low emittance. We constructed the DR in order to deliver a low-emittance positron beam. A synchrotron radiation monitor (SRM) was installed for beam diagnostics at the DR. Streak camera and gated camera were used for measurement of the damping time and the beam size. This paper shows the design of DR SRM and the result of the measurement.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP018
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP019
+Experimental Tests of Screen Materials for High-Precision Transverse Beam-Size Measurements at the SuperKEKB Injector Linac
+340
+
+
+ 
+
+F. Miyahara, K. Furukawa, M. Satoh, Y. Seimiya, T. Suwada
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The SuperKEKB injector linac is required to deliver low-emittance electron and positron beams. Wire scanners are employed to measure Twiss parameters and to adjust beam optics conditions. Screen monitors also play important roles for single-shot measurements. However, the beam size became more than 10-times smaller compared with that of the KEKB injection. Beam tests have been performed in order to evaluate materials for high-precision transverse beam-size measurements at the injector. The main purpose of the beam tests is to quantitatively investigate the saturation effect of each screen material for generating the scintillation light, which is strongly depending on the beam-charge density. Several scintillating screen materials including YAG:Ce, LYSO:Ce, BGO and aluminum ceramic have been tested with high energy and high charge-density electron beams. The results are compared with that obtained by the OTR measurement. The saturation of the luminescence was confirmed for all crystals and evaluated in the charge density of 0.5-1.5 nC/mm2. The cause of the saturation and the effect to the measurement are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP019
+
+ 
+
+
+About •
+paper received ※ 07 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP020
+Development of a Gated IPM System for J-PARC MR
+343
+
+
+ 
+
+K. Satou
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+In the Main Ring (MR) of Japan Proton Accelerator Research Complex (J-PARC), a residual-gas ionization profile monitor (IPM) is used to measure bunched beam profiles. After injection, the beam widths of the first ~20 bunched beams are analysed to correct the Quadruple oscillation. While only a few dozen profiles are required for this correction, the present IPM auto-matically measures all bunched beams, more than 2·106 bunches from injection to the extraction, because the present IPM operates using DC. This system is unde-sirable due to the limited lifetime of the Micro Channel Plate (MCP) detector; the more particles the MCP senses, the more it loses gain flatness and thus lifetime. To improve this situation, a gated IPM system has been developed, in which the High Voltage (HV) is operated in pulse mode. Results of performance analysis of a new HV power supply, improvement of the electrodes, and particle-tracking simulation considering the space-charge-electric field of the bunched beam are de-scribed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP020
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP021
+Development of 16 Electrodes Beam-size Monitors for J-PARC MR
+347
+
+
+ 
+
+M. Tajima, T. Nakaya
+                       Kyoto University, Kyoto, Japan
+T. Koseki, T. Toyama
+                       KEK, Tokai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+For J-PARC, 16 electrodes beam-monitors are developed. It is possible to measure the transverse moments of beams from the induced voltages. A beam size is calculated from these in two locations with different values of beta functions. Beam-monitors such as a Flying Wire Monitor and an Ionization Profile Monitor (IPM) are already installed. However, the two monitors have issues in measuring higher intensity beams. The former is that the wire gets easily burned out and the latter is that there is a sign of the saturation by a space charge effect. Therefore, these aim at measuring the sizes of high intensity proton beams up to 4.2·10+13 protons/bunch, which corresponds to 1.3 MW in 1.16 s cycle operation of the MR. Furthermore, with high accuracy measurements, the injection mismatch from the RCS is to be decreased. In the beam test in February 2019, the signal-noise ratio (SNR) of this monitor in bunch-by-bunch measurements was nearly 40 dB and lower than the SNR > 50 dB which is comparable to IPM. To improve the SNR, we developed new LPFs for anti-aliasing and improved signal processing. In addition, the second monitor will be installed in August 2019 and tested with beams in November.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP021
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP022
+Development of the Calculation Method of Injection Beam Trajectory of RIKEN AVF Cyclotron with 4D Emittance Measured by the Developed Pepper-Pot Emittance Monitor
+351
+
+
+ 
+
+Y. Kotaka, N. Imai, Y. Ohshiro, Y. Sakemi, S. Shimoura, H. Yamaguchi
+                       CNS, Saitama, Japan
+A. Goto, M. Kase, T. Nagatomo, T. Nakagawa, J. Ohnishi
+                       RIKEN Nishina Center, Wako, Japan
+K. Hatanaka
+                       RCNP, Osaka, Japan
+H. Muto
+                       Suwa University of Science, Chino, Nagano, Japan
+
+ 
+
+
+ 
+
+The Center for Nuclear Study, the University of Tokyo and RIKEN Nishina Center have been developing the AVF Cyclotron system at RIKEN. One of the important developments is to improve the transport system of the injection beam line. The transport efficiencies tend to decrease as beam intensities increase. To solve this problem, we developed the calculation method to trace a beam trajectory with a four-dimensional (4D) beam emittance measured by pepper-pot emittance monitor (PEM) as initial value. The reason for using the 4D beam emittance is that the transport system has rotating quadrupole magnets and solenoid coils, and that the space charge effect can be introduced. The beams through a pepper-pot mask can be detected on the potassium bromide fluorescent plate inclined 45 degree to the beam to be recorded by digital camera using developed PEM. We compared the calculated beam trajectory with the measurement of other beam diagnostics and quantified the degree of fit. It has been found that the degree of fit is improved by changing fiducial points on the fluorescent plate and optimizing the thickness of the fluorescent agent and the exposure time and gain of the digital camera.
+
+ 
+
+
+
+
+
+
+Poster TUPP022 [2.306 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP022
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP023
+Two-dimensional Beam Profile Monitor for Alpha Emitter
+355
+
+
+ 
+
+K.S. Tanaka, K. Harada, M. Itoh, H. Kawamura, A. Terakawa, A. Uchiyama
+                       CYRIC, Sendai, Japan
+T. Hayamizu, H. Nagahama, N. Ozawa, Y. Sakemi
+                       CNS, Saitama, Japan
+
+ 
+
+
+ 
+
+We developed two-dimensional beam profile monitors for alpha-emitters along with other larger number of ions to measure the permanent electric dipole moment of the electron using francium atoms at CYRIC in Tohoku university. Francium is produced by the fusion reaction between the oxygen beam from the cyclotron accelerator and gold target, and a far larger number of other ions such as fold or potassium are also emitted from the target. Thus it was difficult to measure the beam profile of francium hidden by these ions. We installed two beam profile monitor consisted of the micro-channel plate and phosphor screen. If we stop the beam after the beam injection to the monitor in sufficient time, we can only observe the fluorescence of the alpha particle emitted by francium atoms on the surface of the plates. By using this monitoring system, we improved the beam transport efficiency by several times and improved beam purity of francium with Wien filter.
+
+ 
+
+
+
+
+
+
+Poster TUPP023 [185.216 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP023
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP024
+Development of a Beam Induced Fluorescence Monitor for Non-Destructively Profiling MW Proton Beam at the J-PARC Neutrino Beamline
+358
+
+
+ 
+
+S.V. Cao, M.L. Friend, K. Sakashita
+                       KEK, Tsukuba, Japan
+M. Hartz
+                       Kavli IPMU, Kashiwa, Japan
+A. Nakamura
+                       Okayama University, Okayama, Japan
+
+ 
+
+
+ 
+
+A Beam Induced Fluorescence (BIF) monitor is under development for non-destructively monitoring the future MW-power proton beam at the neutrino extraction beamline at J-PARC. The §I{30}{GeV} protons are bombarded onto a graphite target, producing one of the most intense neutrino beams in the world for the Tokai-to-Kamioka (T2K) long-baseline neutrino oscillation experiment, where beam profile monitoring is essential for protecting beamline equipment and understanding the neutrino flux. For the BIF monitor, gas is injected into the beam pipe and the spatial distribution of the fluorescence light induced by proton-gas interactions is measured, allowing us to continuously and non-destructively monitor the proton beam profile. However, the specifications of the beamline require us to carefully control the gas localization by pulsed injection. Radiation hardness of all monitor components and profile distortion caused by space charge effects must also be considered. We will show how to address these challenges and realize a working prototype.
+
+ 
+
+
+
+
+
+
+Poster TUPP024 [8.094 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP024
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP025
+The Installation and Application of Multi-wire Profile Monitor for PBW in CSNS
+363
+
+
+ 
+
+M. Meng
+                       DNSC, Dongguan, People’s Republic of China
+F. Li, P. Li, R.Y. Qiu, A.X. Wang, T. Yang
+                       IHEP CSNS, Guangdong Province, People’s Republic of China
+T.G. Xu, Zh.H. Xu, L. Zeng
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+To monitor the size and position of 1.6 Gev proton beam in front of proton beam window(PBW) of China spallation neutron source (CSNS), one multi-wire profile monitor (MWPM) is designed and installed with PBW. It can bear the heat caused by beam and generate signal to electronic in local station. We can monitor the situation of beam and protect PBW using MWPM.
+
+ 
+
+
+
+
+
+
+Poster TUPP025 [0.514 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP025
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP026
+Diagnostic Beamlines at the Solaris Storage Ring
+366
+
+
+ 
+
+A. Kisiel, S. Cabala, A.M. Marendziak, M. Ptaszkiewiczpresenter, A.I. Wawrzyniak, I.S. Zadworny, Z. Zbylut
+                       NSRC SOLARIS, Kraków, Poland
+
+ 
+
+
+ 
+
+Precise measurement and control of the particle beam emittance is a very important input to characterize the performance of any accelerator/SRS. Beam characterizations at the SOLARIS National Synchrotron Radiation Centre are provided by two independent diagnostic beamlines called the X-ray synchrotron radiation (PINHOLE) and optical synchrotron radiation (LUMOS) beamlines, respectively. The PINHOLE beamline depicts the electron beam by analyzing the emitted X-rays. However this method is predominantly applied to the middle and high energy storage rings. At Solaris storage ring with the nominal energy of 1.5 GeV and critical photon beam energy of c.a. 2 keV, the design of the beamline was modified to provide sufficient X-ray photon flux for proper imaging. Second diagnostic beamline LUMOS will be installed and commissioned in next few months. Issues discussed include the general design philosophy, choice of instrumentation, limits to resolution, and actual performance.
+*e-mail: adriana.wawrzyniak@uj.edu.pl
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP026
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP027
+Development of a Precision Pepper-Pot Emittance Meter
+369
+
+
+ 
+
+G. Hahn
+                       PAL, Pohang, Republic of Korea
+J.G. Hwang
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+A fast single-shot emittance measurement device, a pepper-pot emittance meter, was developed. In the manufacturing stage, in order to guarantee the quality of the holes in the pepper-pot mask, we fabricated two mask using different methods that are made of phosphor bronze by optical lithography process and SUS by laser cutting. After the comparison of each SEM (Scanning Electron Microscope) measurement data, the phosphor bronze mask fabricated by lithography was found to be suitable. The rotation and translation matrices are applied on all images obtained by the camera to mitigate the relative angular misalignment errors between MCP, mirror and CMOS camera with respect to the mask. By applying the instrument in the NFRI ion source, the four-dimensional phase-space distribution of ion beams is retrieved and compared with the result measured by using a slit-scan method. In this paper, we describe the fabrication process, data analysis method and beam measurement results of the developed emittance meter.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP027
+
+ 
+
+
+About •
+paper received ※ 09 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP028
+Double-Wire Vibrating Wire Monitor (DW-VWM) for Beam Halo Monitoring in High-intensity Accelerators
+373
+
+
+ 
+
+D.H. Kwak, M. Chungpresenter
+                       UNIST, Ulsan, Republic of Korea
+S.G. Arutunian, A.V. Margaryan
+                       ANSL, Yerevan, Armenia
+G.S. Harutyunyan, E.G. Lazareva
+                       YSU, Yerevan, Armenia
+
+ 
+
+
+ 
+
+Funding: This work was partly supported by the National Research Foundation of Korea (Grants No. 2017M1A7A1A02016413).
+Double-Wire Vibrating Wire Monitor (DW-VWM) has been designed and manufactured to monitor the beam halo in high-intensity accelerators. Compared with the previous VWM, we increase the ratio between the aperture and wire length by using strong 5 mm x 5 mm Samarium-Cobalt magnets. In addition, we install two stainless steel vibrating wires on the same frame. The first wire is placed in the beam halo region for measurements, and the second wire, which is separated from the beam by a screen, is used to subtract background signal caused by ambient temperature shifts. The new electronics of the DW-VWM consist of two main boards: auto-generation unit which is placed near the VWM, and the frequency measurement unit which is placed in the control room (100 m distance operation was tested). Typical frequency of the VWM (at start tension about 0.7 of tensile strength) is about 8000 Hz. The temperature sensitivity is about 110 Hz/K with 0.2 mK Hz resolution. The VWM was tested in vacuum tank and the frequency corresponding to each vacuum level was analyzed. The process of oscillation excitation at different levels of vacuum was also investigated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP028
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 11 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP029
+Stripline-based Non-destructive Beam Profile Monitoring System for Muon g-2/EDM Experiment at J-PARC
+377
+
+
+ 
+
+C.K. Sung, M. Chung
+                       UNIST, Ulsan, Republic of Korea
+S. Hacıömeroğlu
+                       IBS, Daejeon, Republic of Korea
+Y.K. Semertzidis
+                       CAPP/IBS, Daejeon, Republic of Korea
+Y.K. Semertzidis
+                       KAIST, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+The muon g-2/EDM experiment at J-PARC aims to measure the muon magnetic moment anomaly, a¿ and electric dipole moment, d¿ by introducing an approach excluding any electric field with measurement goal of 450 and 70 ppb for statistical and systematic uncertainty of a¿ , respectively, and sensitivity of 1.5·10-21 e¿cm for d¿. In order to achieve the precision, the beam needs to manipulated such that the X and Y components are coupled by means of skew quadrupole magnets through the transmission line. The XY coupling quality can affect the transmission and storage efficiency so that its failure causes systematic error. Since it is significant to monitor the XY coupling status during the beam operation, a non-destructive beam profile monitoring system is under development to investigate the XY coupling quality so as to reduce the source of systematic uncertainties. The device consists of stripline electrodes installed with 45 deg. rotational symmetry. It will reconstruct the coupling parameters such as skew angle and beam size by using the FFT-based algorithm. This work presents the simulation result on the reconstruction and the wire test result for the prototype device.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP029
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP030
+Analysis of Heavy Ion Irradiation Field Nonuniformity Using Track Detectors during Electronic Components Testing
+381
+
+
+ 
+
+A.S. Bychkov, P.A. Chubunov, A.S. Konyukhov, A.A. Pavlov
+                       ISDE, Moscow, Russia
+
+ 
+
+
+ 
+
+Determining the applicability of electronic components in spacecrafts involves conducting the tests using heavy ions. The Branch of URSC - ISDE and FLNR of JINR have created and operate the only in Russia test facilities based on the FLNR JINR accelerators allowing for heavy ion irradiation over a large area up to 200x200 mm. During simultaneous irradiation of several electronic components with heavy ions, it is necessary to ensure the device under test (DUT) location within the area of minimal nonuniformity. This problem is being solved by pretest determination of the irradiation field nonuniformity for each type of ion (Ne, Ar, Kr, Xe, Bi) and nonuniformity validation every 12 hours. Fluence is determined by a metrologically certified method using track detectors. In order to visualize the irradiation field nonuniformity, additional experiments were carried out with the irradiation of track detec-tors covering the entire irradiation area for each ion species. Based on the data obtained, a map of nonuniformity was plotted, which allows us to conclude that nonuniformity does not exceed 10% in the most frequently used areas of the irradiation field (100x150 mm) during SEE testing.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP030
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP031
+Electron Beam Size Measurements Using the Heterodyne Near Field Speckles at ALBA
+383
+
+
+ 
+
+M. Siano, M.A.C. Potenza
+                       Universita’ degli Studi di Milano & INFN, Milano, Italy
+U. Irisopresenter, C.S. Kamma-Lorger, A.A. Nosych
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+S. Mazzoni, G. Trad
+                       CERN, Geneva, Switzerland
+B. Paroli
+                       Universita’ degli Studi di Milano, Milano, Italy
+
+ 
+
+
+ 
+
+Experiments using the heterodyne near field speckle method (HNFS) have been performed at ALBA to characterize the spatial coherence of the synchrotron radiation, with the ultimate goal of measuring both the horizontal and vertical electron beam sizes. The HNFS technique consists on the analysis of the interference between the radiation scattered by a colloidal suspension of nanoparticles and the synchrotron radiation, which in this case corresponds to the hard x-rays (12keV) produced by the in-vacuum undulator of the NCD-Sweet beamline. This paper describes the fundamentals of the technique, possible limitations, and shows the first experimental results changing the beam coupling of the storage ring.
+
+ 
+
+
+
+
+
+
+Poster TUPP031 [2.093 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP031
+
+ 
+
+
+About •
+paper received ※ 06 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP032
+J-PARC Test of ESS Beam on Target Diagnostics Prototypes Aperture Monitor and GRID
+387
+
+
+ 
+
+C.A. Thomas, J. Etxeberria, H. Kocevar, J.P.S. Martins, T.J. Shea
+                       ESS, Lund, Sweden
+A.J. Johansson, M. Törmänen
+                       Lund University, Lund, Sweden
+S.I. Meigo, M. Ooi
+                       JAEA/J-PARC, Tokai-mura, Japan
+H. Niu, B. Zhang
+                       IMP/CAS, Lanzhou, People’s Republic of China
+
+ 
+
+
+ 
+
+The ESS high power beam will be delivered to the spallation target with high degree of control. To this end, we have designed a suite of instruments which provide measurement of the beam characteristics in a drift space a few meters from the target. Two of these instruments, the APTerure Monitor (APTM) and the GRID are presented. The APTM is designed to measure the fraction of beam going through the defined aperture; its time acquisition ranges from intra-pulse at µs sampling rate to many pulses over seconds. The GRID measures the projected horizontal and vertical profiles, sampling the pulse at 1MHz. A prototype of these two instruments has been designed and installed in the 3NBT dump line of J-PARC. They are designed to test functionality of these instruments in a similar environment as ESS. The 3NBT Dump line at J-PARC presents such an environment. In the second part of the paper we report the results and the measurements performed to test the prototypes. Before concluding we will discuss the results and propose improvements to the instruments final design.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP032
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP033
+Laboratory and Beam Based Studies for Assessing the Performance of the New Fast Wire Scanners for the CERN Injector Complex
+392
+
+
+ 
+
+J. Emery, P. Andersson, W. Andreazza, J.M. Fernandez Ochoa, A. Goldblatt, D. Gudkov, F. Roncarolo, J.L. Sirvent, J. Tassan-Viol, R. Veness
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+At CERN, fast beam wire scanners serve as reference transverse profile monitors in all synchrotrons. As part of the LHC Injector Upgrade project, a new generation of scanners has been designed to improve system reliability, precision and accuracy in view of higher brightness beams. This paper will discuss the performance achieved during both laboratory calibration and prototype testing with beam. The beam measurements performed in 2018 demonstrated excellent system reliability and reproducibility, while calibration in the laboratory showed that an accuracy below 10 um can be achieved on the wire position determination.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP033
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP034
+Analysis of Quadrupolar Measurements for Beam Size Determination in the LHC
+397
+
+
+ 
+
+D. Alves, M. Gąsior, T. Lefèvre
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Due to limitations with non-invasive beam size diagnostics in the LHC, particularly during the energy ramp, there has been an interest to explore quadrupolar-based measurements for estimating the transverse beam size, and hence determining the transverse emittance. This technique is especially attractive as it is completely passive and can use the existing beam position instrumentation. In this work, we perform an analysis of this method and present recent measurements taken during energy ramps. Quadrupolar-based measurements are compared with wire-scanner measurements and a calibration strategy is proposed to overcome present limitations.
+
+ 
+
+
+
+
+
+
+Poster TUPP034 [0.897 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP034
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP035
+Development of Modular Spare Parts for the Profile and Position Monitors of the 590 MeV Beam Line at HIPA
+402
+
+
+ 
+
+R. Dölling, D.C. Kiselev, F. Marcellini, K.M. Zehnder
+                       PSI, Villigen PSI, Switzerland
+D. Berisha, J. Germanovic, K.M. Zehnder
+                       ABBTS, Baden, Switzerland
+
+ 
+
+
+ 
+
+A new generation of monitor plugs is under development for the ageing wire profile monitors and beam position monitors which are inserted into massive shielding of the 590 MeV proton beam line at HIPA. The modular mechanical design, aspects of handling, vacuum compatibility, radiation hardness, shielding, cabling and monitor environment are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP035
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP036
+Performance of an In-Air Secondary Emission Grid Profile Monitor at the ISIS Neutron and Muon Source
+407
+
+
+ 
+
+D.W. Posthuma de Boer, C. Bovo, H.V. Cavanagh, B. Jones, A.H. Kershaw, A. Pertica
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+The ISIS neutron and muon source, located in the UK, consists of an H− linear accelerator, a rapid cycling proton synchrotron and extraction lines to two target stations. A project is currently under way to replace the target assembly of the First Target Station (TS1) in order to secure its continued operation and improve operational flexibility. In addition to a number of other diagnostic tools, a new secondary emission (SEM) grid profile monitor is expected to be located within the helium atmosphere of the new target assembly. To investigate the performance of an out-of-vacuum SEM grid, a prototype monitor was positioned in-air between a beam exit window and a dump. Profile measurements taken with this monitor are presented, including tests at a range of bias voltages with a fast data acquisition system to investigate secondary signal sources.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP036
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP037
+Studies of the Time Structure of Ionisation Beam Profile Measurements in the ISIS Extracted Proton Beamline
+412
+
+
+ 
+
+C.C. Wilcox, W.A. Frank, A. Pertica, R.E. Williamson
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+Ionisation Profile Monitors (IPMs) are used at the ISIS neutron and muon source to perform non-destructive transverse beam profile measurements. An in-house particle tracking code, combined with 3D CST modelling of the electric fields within the monitors, has been used to improve understanding of the various error sources within the IPMs, and shows close agreement with profile measurements in the synchrotron. To allow for detailed benchmarking studies, an IPM has been installed in Extracted Proton Beamline 1 (EPB1), enabling comparison with secondary emission (SEM) grid measurements. However, the IPM measurements taken in EPB1 show increased levels of profile broadening at operational beam intensities, which are not reproduced by SEM measurements or simulation. To investigate these differences, studies of the time structure of measured profiles are being performed. This paper details the development of new, high-speed multichannel data acquisition electronics, required to perform these studies. Resulting measurements are discussed, along with an analysis of the data¿s time structure and a comparison with that predicted by the IPM code.
+
+ 
+
+
+
+
+
+
+Poster TUPP037 [1.102 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP037
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 11 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP038
+Spatial Resolution of an X-ray Pinhole Camera using a Multi-layer Monochromator
+417
+
+
+ 
+
+L. Bobb, G. Rehm
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+X-ray pinhole cameras are widely used for beam emittance monitoring at synchrotron light sources. Due to the reduction in beam emittance expected for the many fourth generation machine upgrades, the spatial resolution of the pinhole camera must be improved accordingly. It is well known that there are many contributions to the point spread function. However, a significant contribution arises from diffraction by the pinhole aperture. Given that diffraction is dependent on the spectral distribution of the incident synchrotron radiation, the spatial resolution can be improved by using a monochromatic beam. For optimal performance, the photon energy should be matched to the pinhole aperture size. Here we investigate the spatial resolution of the pinhole camera as a function of photon energy using a multi-layer monochromator.
+
+ 
+
+
+
+
+
+
+Poster TUPP038 [0.617 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP038
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP039
+Horizontal and Vertical Emittance Measurements of the Advanced Photon Source Booster Synchrotron Beam at High Charge
+420
+
+
+ 
+
+K.P. Wootton, W. Berg, J.R. Calvey, K.C. Harkay, A.H. Lumpkin, A. Xiao, B.X. Yang, C. Yao
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This research used resources of the Advanced Photon Source, operated for the U.S. Department of Energy Office of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357.
+In order to maximise the injection efficiency from the booster synchrotron into the proposed Advanced Photon Source Upgrade storage ring, beam-based optimisation of the booster electron optical lattice is anticipated. In the present work, we present non-destructive beam size and emittance measurements using the booster synchrotron light monitor and destructive quadrupole scan emittance measurements in the booster to storage ring transport line. Destructive measurements are performed with a 0.1 mm thickness Cerium-doped Yttrium Aluminium Garnet screen. In order to characterise performance, both the beam energy at extraction (5, 6 and 7 GeV) and the bunch charge are varied.
+
+ 
+
+
+
+
+
+
+Poster TUPP039 [0.973 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP039
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP040
+Digital Cameras for Photon Diagnostics at the Advanced Photon Source
+425
+
+
+ 
+
+K.P. Wootton, N.D. Arnold, W. Berg, T. Fors, N. Sereno, H. Shang, G. Shen, S.E. Shoaf, B.X. Yang
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This research used resources of the Advanced Photon Source, operated for the U.S. Department of Energy Office of Science by Argonne National Laboratory under Contract No. DE-AC02-06CH11357.
+Cameras can be a very useful accelerator diagnostic, particularly because an image of the beam distribution can be quickly interpreted by human operators, and increasingly can serve as an input to machine learning algorithms. We present an implementation of digital cameras for triggered photon diagnostics at the Advanced Photon Source using the areaDetector framework in the Experimental Physics and Industrial Controls System. Beam size measurements from the synchrotron light monitors in the Particle Accumulator Ring using the new architecture are presented.
+
+ 
+
+
+
+
+
+
+Poster TUPP040 [0.708 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP040
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP041
+Observations of Long-Range and Short-Range Wakefield Effects on Electron-Beam Dynamics in TESLA-type Superconducting RF Cavities
+428
+
+
+ 
+
+A.H. Lumpkin, N. Eddy, D.R. Edstrom, J. Ruan, R.M. Thurman-Keup
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics.
+The Fermilab Accelerator Science and Technology (FAST) facility has a unique configuration of a photocathode rf gun beam injecting two TESLA-type single cavities (CC1 and CC2) in series prior to the cryomodule. Beam propagation off axis in these cavities can result in both long-range and short-range transverse wakefields which can lead to emittance dilution within the macropulses and micropulses, respectively. Two configurations of a Hamamatsu C5680 streak camera viewing a downstream OTR screen were utilized to track centroid shifts during the macropulse (framing mode) for the long-range case and during the micropulse for the short-range case (~10-micron spatial resolution and 2-ps temporal resolution). Steering off axis before CC1, resulted in a 100-kHz bunch centroid oscillation within the macropulse that was detected by the downstream rf BPMs and the streak camera*. At 500 pC/b, 50b, and 4-mrad off-axis vertical steering into CC2, we observed an ~ 100-micron head-tail centroid shift in the streak camera image y(t) profiles which we attributed to a short-range wakefield effect. Additional results for kick-angle compensations and model results will be presented.
+*A.H. Lumpkin et al., Phys. Rev. Accel. and Beams 21,064401 (2018).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP041
+
+ 
+
+
+About •
+paper received ※ 10 September 2019       paper accepted ※ 11 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP042
+Turn-by-Turn Synchrotron Radiation Transverse Profile Monitor for IOTA
+432
+
+
+ 
+
+N. Kuklev, Y.K. Kim
+                       University of Chicago, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by National Science Foundation award PHY-1549132, the Center for Bright Beams. Fermi Research Alliance operates Fermilab under Contract DE-AC02-07CH11359 with the US Dept. of Energy.
+The Integrable Optics Test Accelerator is a research electron and proton storage ring recently commissioned at Fermilab. A key part of its beam diagnostics suite are synchrotron radiation monitors, used for measuring transverse beam profile, position, and intensity. So far, this system has used only visible light cameras, which are optimal for orbit measurements but do not provide turn-by-turn temporal resolution needed for beam dynamics analysis. Current electrostatic BPM system, while capable of turn-by-turn acquisition, will be pushed to its limits of accuracy and linearity by the requirements of planned nonlinear integrable optics experiments, and furthermore does not provide transverse profile data. To address these drawbacks, we present in this paper the design of a turn-by-turn BPM system based on a multi-anode photomultiplier detector. Extensive simulations are shown, combining both particle and optics tracking. A potential hardware and readout architecture is described. Statistical and systematic errors are explored. We conclude by outlining the prototype testing plans for run 2 in the fall of 2019, and other future work.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP042
+
+ 
+
+
+About •
+paper received ※ 11 September 2019       paper accepted ※ 12 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP043
+Fast and Robust Wire Scanners with Novel Materials for Profiling High Intensity Beams
+436
+
+
+ 
+
+G. Andonian, T.J. Campese, A. Laurich, M. Ruelas
+                       RadiaBeam, Marina del Rey, California, USA
+G. Andonian, J.K. Penney
+                       UCLA, Los Angeles, California, USA
+J. Gubeli, K. Jordan, J. Yan
+                       JLab, Newport News, Virginia, USA
+C.F. Huff, L.R. Scammell, R.R. Whitney
+                       BNNT, LLC, Newport News, USA
+
+ 
+
+
+ 
+
+Wire scanners are robust devices for beam characterization in accelerator facilities. However, prolonged usage with intense particle beams leads to wire damage, requiring replacement and beam diagnostic downtime. The fast, robust wire scanner was recently designed and engineered with swappable and modular wire cards, that can accommodate different wire materials under tension. Testing is currently underway at the Jefferson Laboratory (JLab) Low Energy Recirculating Facility. During the course of the diagnostic development and commissioning, we will test Tungsten, Carbon, and boron-nitride nanotube in wire form. The latter is particularly relevant as early results on the material show that it has very high thermal thresholds and may withstand the high-power of the beam during regular operations. This paper will report on the system design and engineering, and preliminary results with operation on the beamline.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP043
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP044
+Multiple Synchrotron Light Monitors for Transverse Matching and Monitoring at CEBAF
+439
+
+
+ 
+
+B.G. Freeman, J. Gubelipresenter, M.G. Tiefenback
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: DOE Contract No. DE-AC05-06OR23177
+Beam setup at the Continuous Electron Beam Accelerator Facility (CEBAF) involves threading beam through the machine, monitoring global transfer functions to identify and address cumulative lattice errors. Transverse beam emittance may grow by as much as two orders of magnitude, mediated by synchrotron radiation. Re-matching the enlarged beam phase space into successive re-circulation arcs minimizes this emittance growth but requires knowledge of the actual beam distribution. This is now accomplished through quadrupole scans using wire profile monitors, the most time-consuming activity in our setup process. We propose to use Synchrotron Light Monitors (SLMs) to image the beam at homologous points in the four super-period recirculation arc lattices. Benefits include real-time monitoring of beam parameters and reduced elapsed time for initial setup. These SLMs will be installed in Arc 7 of the CEBAF machine, where Synchrotron Radiation contributes moderately to emittance growth. One of four required SLMs will be installed and commissioned this year, with the rest being installed next year.
+
+ 
+
+
+
+
+
+
+Poster TUPP044 [0.170 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP044
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP047
+Ionization Profile Monitor Design and Experiments in HIRFL-CSR
+444
+
+
+ 
+
+H.M. Xie, Z. Du, K. Gu, X.J. Hu, L. Jing, Z.X. Li, L.J. Mao, Y. Wei, J.X. Wu, Y. Zhang, G. Zhu
+                       IMP/CAS, Lanzhou, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by the National Natural Science Foundation of China (Nos. 11805250
+To meet the needs of real-time profile monitoring, injection match optimization, transverse cooling mechanism research in Cooling Storage Ring of Heavy Ion Research Facility of Lanzhou (HIRFL-CSR), and the profile measurement of future intense facilities like High Intensity Heavy-ion Accelerator Facility (HIAF) and China Initiative Accelerator Driven System (CiADS) in Huizhou China, some IPM research and experiments has been proceed since 2013. In 2016, the first IPM was developed with MCPs, phosphor screen and camera acquisition system for vertical profile monitoring in HIRFL-CSRm. Then another horizontal IPM with new framework and less field distortion was also deployed in CSRm at 2018 summer. Besides, two more IPMs will be installed in HIRFL-CSRe during next summer maintenance. This paper mainly presents the horizontal IPM design concerns, HV settings influence, some experiment anomalies, as well as experiments for transverse electron cooling and normal operation mode orbit variation at HIRFL-CSR in December 2018.
+
+ 
+
+
+
+
+
+
+Poster TUPP047 [1.532 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUPP047
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPP048
+Quadrupole Scan Transverse Emittance Measurements at ELBE
+ 
+
+
+ 
+
+S. Ma, A. Arnold, A.A. Ryzhov, J. Schaber, J. Teichert, R. Xiang
+                       HZDR, Dresden, Germany
+
+ 
+
+
+ 
+
+Two quadrupoles and one screen are used for beam transverse emittance Measurements at HZDR ELBE. The emittance calculated with two different methods, one with thin-lens approximation and the other one without this approximation. The results are compared and analyzed. To analyze the measurement error, quadrupole calibration is need. Two aspects about quadrupole analysis are made. The first one is thin-lens approximation error and the second one is quadrupole¿s converged or diverged ability in reality.
+
+ 
+
+
+
+
+
+
+Poster TUPP048 [1.281 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

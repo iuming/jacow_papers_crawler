@@ -1,0 +1,63 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: FRCD (Verification & Validation)
+
+
+FRCD —  Verification & Validation   (07-Dec-12   15:10—15:25)
+Chair: W. Mexner, KIT, Karlsruhe, Germany
+
+
+Paper
+Title
+Page
+
+
+
+FRCD02
+Process Control for Parallel Run of Two Helium Liquefiers at VEC Centre, Kolkata
+285
+
+
+ 
+
+S. Pal, U. Panda
+                       VECC, Kolkata, India
+R. Basak
+                       WBSEDCL, India
+
+ 
+
+
+ 
+
+Two helium liquefiers are working in tandem while one is always connected with the superconducting cyclotron. High pressure (HP) and low pressure (LP) controls are necessary to maintain varying helium flow to the cold box. Since these two liquefiers share the same HP and LP pipelines, any pressure fluctuation due to rapid change in flow sometimes causes trip to the liquefiers. To overcome this problem there is a need for fast responsive HP control. Introduction of derivative gain in the PID loop for fast action is not desirable as it creates instability to the control system. This problem was rectified by introducing a novel control scheme based on the forced opening of the unloading valve to push back helium gas to buffer tank by changing the offset of PI control as a function of Buffer Tank pressure. A simulation using Matlab Simulink was performed initially to check the performance of pressure control loop. The same is implemented in the control loop of the new liquefier and an experiment was performed. The experimental results obtained will be discussed in the final paper.
+
+ 
+
+
+
+
+
+
+Slides FRCD02 [1.375 MB]
+            
+ 
+
+
+ 
+
+
+
+

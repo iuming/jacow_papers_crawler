@@ -1,0 +1,357 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2021 - Table of Session: THXB (Thursday Oral Parallel B)
+
+
+THXB —  Thursday Oral Parallel B   (27-May-21   11:00—12:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THXB01
+3D Tracking of a Single Electron in IOTA
+3708
+
+
+ 
+
+A.L. Romanov, S. Nagaitsev, J.K. Santucci, G. Stancari, A. Valishev
+                       Fermilab, Batavia, Illinois, USA
+N. Kuklev, I. Lobach
+                       University of Chicago, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+High-resolution observations of single-particle dynamics have potential as a powerful tool in the diagnostics, tuning and design of storage rings. We are presenting the results of experiments with single electrons that were conducted at Fermilab’s IOTA ring to explore the feasibility of this approach. A set of sensitive, high-resolution digital cameras was used to detect the synchrotron radiation emitted by an electron, and the resulting images were used to reconstruct the time evolution of oscillation amplitudes in all three degrees of freedom. From the evolution of the oscillation amplitudes, we deduce transverse emittances, momentum spread, damping times, beam energy and estimated residual-gas density and composition. To our knowledge, this is the first time that the dynamics of a single particle in a storage ring has been tracked in all three dimensions. We discuss farther development of a single particle diagnostics that may allow reconstruction of its turn-by-turn coordinates over macroscopic periods of time facilitating ultra-precise lattice diagnostics and direct benchmarking of tracking codes.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2021-THXB01
+
+ 
+
+
+About •
+paper received ※ 24 May 2021       paper accepted ※ 29 July 2021        issue date ※ 11 August 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXB02
+Beam Arrival Stability at the European XFEL
+3714
+
+
+ 
+
+M.K. Czwalinna, J. Kral, B. Lautenschlager, J. Müller, H. Schlarb, S. Schulz, B. Steffen
+                       DESY, Hamburg, Germany
+R. Boll, H. Kirkwood, J. Koliyadu, R. Letrun, J. Liu, F. Pallas, D.E. Rivas, T. Sato
+                       EuXFEL, Schenefeld, Germany
+
+ 
+
+
+ 
+
+Free electron laser facilities, such as the European XFEL, make increasingly high demands on the longterm temporal stability and uniformity of the electron bunches, as pump-probe experiments meanwhile aim for timing stabilities of few femtoseconds residual jitter only. For a beam-based feedback control of the linear accelerator, electro-optical bunch arrival-time monitors are deployed, achieving a time resolution better than 3 fs. In a first attempt, we recently demonstrated a beam-based feedback system, reducing the arrival time jitter of the electron bunches to the 10 fs level with stable operation over hours. For pump-probe experiments it is crucial to equally verify this new level of precision in the FEL pulse arrival time with independent methods. In this work, we are discussing first results from examining the facility-wide temporal stability at the European XFEL, with attention to the contributions of various sub-systems and on the different time scales.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2021-THXB02
+
+ 
+
+
+About •
+paper received ※ 19 May 2021       paper accepted ※ 20 July 2021        issue date ※ 23 August 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXB03
+High Precision RF Control: from Particle Accelerators to Quantum bits
+ 
+
+
+ 
+
+G. Huang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Office of Advanced Scientific Computing Research, Office of High Energy Physics, Office of Science of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231.
+Superconducting circuit quantum bit (qubits) is one of the leading implementation of a quantum computer. The qubits are controlled and read by 4-8 GHz RF pulses. High precision FPGA based RF control technique has been widely used in the various particle accelerator subsystems, including the cavity field control (LLRF) system and timing/synchronization system. Based on the technique developed from the accelerator control, we are developing an open source qubit control system. The prototype module is tested with the superconducting qubits and demonstrated the single and two qubits gate operation with good fidelity and multi-module synchronization is under development.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXB04
+Non-Invasive Dispersion Function Measurement during Light Source Operations
+3720
+
+
+ 
+
+B. Podobedov, Y. Hidaka
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+We implemented a completely parasitic measurement of lattice dispersion functions in both horizontal and vertical planes, which is fully compatible with light source user operations. The measurement is performed by applying principal component analysis and adaptive filtering to very small residual orbit noise components introduced by the RF system and detected in the beam orbit data, sampled at 10 kHz. No changes in RF frequency are required. The measurement, performed once a minute, was shown to be robust and immune to changes in the beam current, residual orbit noise amplitude and frequency content as well as other factors. At low current it was shown to provide similar accuracy to the traditional method (which shifts the 500 MHz RF frequency by ±500 Hz). In this paper we will explain our measurement technique and present typical dispersion function stability achieved during NSLS-II operations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2021-THXB04
+
+ 
+
+
+About •
+paper received ※ 26 June 2021       paper accepted ※ 13 July 2021        issue date ※ 23 August 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXB05
+Inverse Orbit Response Matrix Measurements: A Possible On-Line Tool for Optics Control in Storage Rings
+3724
+
+
+ 
+
+Z. Martí, G. Benedetti, U. Iriso, E. Morales
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+We propose a novel technique to measure the linear optics in storage rings based on the acquisition of the inverse orbit response matrix (iORM). The iORM consists in the orbit correctors magnets (OCM) strength changes needed to produce a local orbit variation in each beam position monitor (BPM). This measurement can be implemented by introducing sequentially small changes in the BPM offsets and logging the OCM setting variations when the orbit correction is running. Very high precision and accuracy in the OCM set-points is required which poses a considerable challenge. Since the orbit feedback (FOFB) is kept running, the iORM could potentially be acquired in parallel to users storage ring operation. Since the iORM is very linear and local, optics perturbations could be easily diagnosed online. This paper introduces the iORM measurement concept and presents the progress of these studies at ALBA, where the implementation of this technique is limited by hysteresis effects in the OCM and the FOFB performance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2021-THXB05
+
+ 
+
+
+About •
+paper received ※ 19 May 2021       paper accepted ※ 29 July 2021        issue date ※ 12 August 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXB06
+Results of the First Alignment Run for Sirius
+3728
+
+
+ 
+
+R. Junqueira Leão, R. Oliveira Neto
+                       CNPEM, Campinas, SP, Brazil
+H. Geraissate, F. Rodrigues, G.R. Rovigatti de Oliveira
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+It is widely known that the position of particle accelerator components is critical for its performance. For the latest generation light sources, whose magnetic lattice is optimized for achieving very low emittance, the tolerable misalignments are in the order of a few dozen micrometers. Due to the perimeter of these machines, the requirements push the limits of large-volume dimensional metrology and associated instruments and techniques. Recently a fine alignment campaign of the Sirius accelerators was conducted following the pre-alignment performed during the installation phase. To conform with the strict relative positioning demands, measurement good practices were followed, and several 3D metrology procedures were developed. Also, to improve positioning resolution, high rigidity translation devices were produced. Finally, the special target holders designed as removable fiducials for the magnets were revisited to assure maximum reliability. Data processing algorithms were implemented to evaluate the alignment results in a robust and agile manner. This paper will present the final positioning errors for Sirius magnets with an expression of the estimated uncertainty.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2021-THXB06
+
+ 
+
+
+About •
+paper received ※ 20 May 2021       paper accepted ※ 02 July 2021        issue date ※ 01 September 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXB07
+Coherent Radiation From Inverse Compton Scattering Sources by Means of Particle Trapping
+3732
+
+
+ 
+
+A. Fallahi, L. Novotny
+                       ETH Zurich, Photonics Laboratory, Zurich, Switzerland
+N. Kuster
+                       ETH, Zurich, Switzerland
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Swiss National Science Foundation (SNSF) under the Spark grant CRSK-2-190840.
+Inverse Compton scattering (ICS) sources are one of the promising compact tools to generate short wavelength radiation from electron beams based on the relativistic Doppler effect. Nonetheless, these sources suffer from a few shortcomings such as incoherent radiation and low-efficiency in radiation generation. This contribution presents a novel scheme based on the scattering of an optical beam from a trapped electron beam inside an optical cavity. Inverse-Compton scattering off both free and trapped electrons are simulated using a full-wave solution of first-principle equations based on FDTD/PIC in the co-moving frame of electron beams. It is shown that the strong space-charge effect in low-energies is the main obstacle in acquiring coherent gain through the ICS mechanism. Subsequently, it is shown that by trapping the electron beam to the high-intensity spots, the space-charge effect is compensated, and additionally, the ultrahigh charge density enables high FEL-gain at trapping spots, thereby augmenting the coherence of the output radiation and concurrently increasing the source efficiency by three orders of magnitude.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2021-THXB07
+
+ 
+
+
+About •
+paper received ※ 28 May 2021       paper accepted ※ 01 July 2021        issue date ※ 24 August 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

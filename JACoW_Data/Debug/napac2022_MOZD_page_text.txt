@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: MOZD (Photon Sources and Electron Accelerators)
+
+
+MOZD —  Photon Sources and Electron Accelerators   (08-Aug-22   14:00—16:00)
+Chair: K.C. Harkay, ANL, Lemont, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+MOZD1
+Commissioning of LCLS-II
+ 
+
+
+ 
+
+Y. Ding
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The LCLS-II is a CW FEL based on a 4 GeV SRF linac. Commissioning of the CW Electron Gun and SRF linac was begun during the winter of 2022 with expectations of 1st light during Summer 2022. Results will be presented.
+
+ 
+
+
+
+
+
+
+Slides MOZD1 [9.598 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOZD2
+Preliminary Study of a High Gain THz FEL in a Recirculating Cavity
+30
+
+
+ 
+
+A.C. Fisher, P. Musumeci
+                       UCLA, Los Angeles, California, USA
+
+ 
+
+
+ 
+
+The THz gap is a region of the electromagnetic spectrum where high average and peak power radiation sources are scarce while at the same time scientific and industrial applications are growing in demand. Free-electron laser coupling in a magnetic undulator is one of the best options for radiation generation in this frequency range, but slippage effects require the use of relatively long and low current electron bunches to drive the THz FEL, limiting amplification gain and output peak power. Here we use a circular waveguide in a 0.96 m strongly tapered helical undulator to match the radiation and e-beam velocities, allowing resonant energy extraction from an ultrashort 200 pC 5.5 MeV electron beam over an extended distance. E-beam energy measurements, supported by energy and spectral measurement of the THz FEL radiation, indicate an average energy efficiency of ~ 10%, with some particles losing > 20% of their initial kinetic energy.
+
+ 
+
+
+
+
+
+
+Slides MOZD2 [7.005 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOZD2
+
+ 
+
+
+About •
+Received ※ 04 August 2022 — Revised ※ 04 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 13 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOZD3
+Development of Two-Color Sub-Femtosecond Pump/Probe Techniques with X-Ray Free-Electron Lasers
+ 
+
+
+ 
+
+Z.H. Guo, P.L. Franz
+                       Stanford University, Stanford, California, USA
+D.B. Cesar, J.P. Cryan, T.D.C. Driver, J.P. Duris, Z. Huang, K. Larsen, S. Li, A. Marinelli, J.T. O’Neal, R. Robles, N.S. Sudar, A.L. Wang, Z. Zhang
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy (DOE), Office of Science, Office of Basic Energy Sciences (BES), Accelerator and Detector research program.
+We report the generation of GW-level attosecond pump/probe pulse pairs with tunable sub-femtosecond delays at the Linac Coherent Light Source (LCLS). The attosecond 370 eV pump pulse is first generated via the Enhanced Self-Amplified Spontaneous Emission (ESASE) method, then the attosecond 740 eV probe pulse is produced by re-amplifying the electron beam microbunching after the magnetic chicane. Due to the harmonic amplification, the minimal delay between pump-probe pulse pairs (limited by slippage between the light field and the electron bunch) can be shorter than 1 femtosecond. We use the angular streaking technique to measure temporal delays between pump/probe pulse pairs at multiple beamline configurations. When the delay chicane is turned off, the averaged delay is increased by ~150 attoseconds by adding one undulator module for probe pulses. Long delays can be set up by turning the delay chicane on. These experimental results are in agreement with start-to-end XFEL simulations. Looking toward future experiments, our sub-femtosecond pump/probe technique can be applied to observe electronic charge dynamics in molecular systems.
+
+ 
+
+
+
+
+
+
+Slides MOZD3 [13.059 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOZD4
+Uncertainty Quantification of Beam Parameters in a Linear Induction Accelerator Inferred from Bayesian Analysis of Solenoid Scans
+34
+
+
+ 
+
+M.A. Jaworski, D.C. Moir, S. Szustkowski
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Linear induction accelerators (LIAs) such as the DARHT at Los Alamos National Laboratory make use of the beam envelope equation to simulate the beam and design experiments. Accepted practice is to infer beam parameters using the solenoid scan technique with optical transition radiation (OTR) beam profiles. These scans are then analyzed with an envelope equation solver to find a solution consistent with the data and machine parameters (beam energy, current, magnetic field, and geometry). The most common code for this purpose with flash-radiography LIAs is xtr [1]. The code assumes the machine parameters are perfectly known and that beam profiles will follow a normal distribution about the best fit and solves by minimizing a chi-square-like metric. We construct a Bayesian model of the beam parameters allowing maching parameters, such as solenoid position, to vary within reasonable uncertainty bounds. Posterior distribution functions are constructed using Markov-Chain Monte Carlo (MCMC) methods to evaluate the accuracy of the xtr solution uncertainties and the impact of finite precision in measurements.
+[1] P.W. Allison, "Beam dynamics equations for xtr," Los Alamos Technical Report LA-UR-01-6585. November 2001.
+
+ 
+
+
+
+
+
+
+Slides MOZD4 [1.082 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOZD4
+
+ 
+
+
+About •
+Received ※ 05 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 20 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOZD5
+ERL-Based Compact X-Ray FEL
+37
+
+
+ 
+
+F. Lin, V.S. Morozov
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+J. Guo, Y. Zhang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by UT-Battelle, LLC, under contract DE-AC05-00OR22725, and by Jefferson Science Associates, LLC, under contract DE-AC05-06OR23177
+We propose to develop an energy-recovery-linac (ERL)-based X-ray free-electron laser (XFEL). Taking advantage of the demonstrated high-efficiency energy recovery of the beam power in the ERL, the proposed concept offers the following benefits: i) recirculating the electron beam through high-gradient superconducting RF (SRF) cavities shortens the linac, ii) energy recovery in the SRF linac saves the klystron power and reduces the beam dump power, iii) the high average beam power produces a high average photon brightness. In addition, such a concept has the capability of delivering optimized high-brightness CW X-ray FEL performance at different energies with simultaneous multipole sources. In this paper, we will present the preliminary results on the study of feasibility, optics design and parameter optimization of such a device.
+
+ 
+
+
+
+
+
+
+Slides MOZD5 [2.870 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOZD5
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 04 August 2022 — Accepted ※ 04 August 2022 — Issue date ※ 11 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOZD6
+Accelerator Physics Lessons from CBETA, the First Multi-Turn SRF ERL
+41
+
+
+ 
+
+K.E. Deitrick
+                       JLab, Newport News, Virginia, USA
+G.H. Hoffstaetter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+The Cornell-BNL ERL Test Accelerator (CBETA) has been designed, constructed, and commissioned in a collaboration between Cornell and BNL. It focuses on energy-saving measures in accelerators, including permanent magnets, energy recovery, and superconductors; it has thus been referred to as a green accelerator. CBETA has become the world’s first Energy Recovery Linac (ERL) that accelerates through multiple turns and then recovers the energy in SRF cavities though multiple decelerating turns. The energy is then available to accelerate more beam. It has also become the first accelerator that operates 7 beams in the same large-energy aperture Fixed Field Alternating-gradient (FFA) lattice. The FFA is constructed of permanent combined function magnets and transports energies of 42, 78, 114, and 150 MeV simultaneously. Accelerator physics lessons from the commissioning period will be described and applications of such an accelerator from hadron cooling to EUV lithography and from nuclear physics to a compact Compton source will be discussed.
+
+ 
+
+
+
+
+
+
+Slides MOZD6 [3.207 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-MOZD6
+
+ 
+
+
+About •
+Received ※ 23 July 2022 — Revised ※ 27 July 2022 — Accepted ※ 03 August 2022 — Issue date ※ 06 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

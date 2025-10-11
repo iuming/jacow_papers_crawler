@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: THHB2 (Hardware Technology)
+
+
+THHB2 —  Hardware Technology   (22-Oct-15   11:00—11:45)
+Chair: K. Furukawa, KEK, Ibaraki, Japan
+
+
+Paper
+Title
+Page
+
+
+
+THHB2O01
+Preliminary Design of a Real-Time Hardware Architecture for eRHIC
+1099
+
+
+ 
+
+R.J. Michnoff, P. Cerniglia, M.R. Costanzo, R.L. Hulsart, J.P. Jamilkowski, W.E. Pekrul, Z. Sorrell, C. Theisen
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+The 3.8 km circumference Relativistic Heavy Ion Collider (RHIC) at BNL has been in operation since 2000. An electron-ion collider (eRHIC), which is in the design phase, plans to use one of the existing ion rings and new electron rings constructed in the existing tunnel to provide collisions of up to 21.2 GeV electrons with up to 100 GeV gold ions, 250 GeV polarized protons, as well as other species. Many new real-time systems will be required to satisfy the needs of eRHIC, including over 2000 beam position monitors, 1000 beam loss monitors, 18 current monitors, feedback systems, controls for about 10,000 power supplies, machine protection system, new beam timing systems, and more. The selected architecture must be flexible, expandable, cost-effective, reliable, and easy to maintain. Interface with existing and new accelerator timing systems is required, and compatibility with existing infrastructure and equipment must be maintained. Embedded modules based on the Xilinx Zynq gate array, with direct Ethernet connection and on-board Linux, housed in multi-slot chassis (VME, VPX, TCA, etc.) is under consideration. Preliminary design concepts for the architecture will be presented.
+
+ 
+
+
+
+
+
+
+Slides THHB2O01 [7.739 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHB2O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHB2O02
+A Modular Approach to Acquisition Systems for Future CERN Beam Instrumentation Developments
+1103
+
+
+ 
+
+A. Boccardi, M. Barros Marin, T.E. Levens, B. Szuk, W. Viganò, C. Zamantzas
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+This paper will present the new modular architecture adopted as a baseline by the CERN Beam Instrumentation Group for its future acquisition system developments. The main blocks of this architecture are: radiation tolerant digital front-ends; a latency deterministic multi gigabit optical link; a high pin count FMC carrier used as a VME-based back-end for data concentration and processing. Details will be given on the design criteria for each of these modules as well as examples of their use in systems currently being developed at CERN.
+
+ 
+
+
+
+
+
+
+Slides THHB2O02 [2.055 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHB2O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHB2O03
+The Global Trigger with Online Vertex Fitting for Low Energy Neutrino Research
+1107
+
+
+ 
+
+G.H. Gong, H. Li, T. Xue
+                       Tsinghua University, Beijing, People's Republic of China
+H. Gong
+                       TUB, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Neutrino research is of great importance for particle physics, astrophysics and cosmology, the JUNO (Jiangmen Underground Neutrino Observatory) is a multi-purpose neutrino experiment for neutrino mass ordering determination and precision measurement of neutrino mixing parameters. A brand new global trigger scheme with online vertex fitting has been proposed, aiming at the ultra-low anti-neutrino energy threshold as down to 0.1MeV which is essential for the study of solar neutrino and elastic scattering of neutrinos on supernova burst. With this scheme, the TOF (time of flight) difference of photons fly through the liquid media from the interaction point to the surface of central detector can be corrected online with real time, the width of trigger window to cover the whole period of a specific neutrino generated photons can be significantly reduced which lessen the integrated dark noise introduced from the large amount of PMT devices hence a lower energy threshold can be achieved. The scheme is compatible, flexible and easy to implement, it can effectively extend the physics potential of the JUNO for low energy neutrino research topics.
+
+ 
+
+
+
+
+
+
+Slides THHB2O03 [4.257 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHB2O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

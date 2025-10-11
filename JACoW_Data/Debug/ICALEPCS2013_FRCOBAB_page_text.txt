@@ -1,0 +1,194 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: FRCOBAB (Feedback Systems)
+
+
+FRCOBAB —  Feedback Systems   (11-Oct-13   13:30—15:15)
+Chair: T. Korhonen, PSI, Villigen PSI, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+FRCOBAB01
+Feedback and Feed-Forward Systems Improve the Reliability and Performance of the Heidelberg Ion Beam Therapy Center
+ 
+
+
+ 
+
+Th. Haberer, S. Brons, E. Feldmeier, J. Naumann, R.E. Panse, A. Peters, C. Schömers
+                       HIT, Heidelberg, Germany
+
+ 
+
+
+ 
+
+The linac-synchrotron-system of the Heidelberg Ion Beam Therapy Centre (HIT) routinely delivers pencil beams to the dose delivering rasterscanning devices at 3 treatment rooms, including the worldwide first scanning ion gantry and 1 experimental cave. At HIT the quality-assured library of pencil beam parameters covers roughly 100.000 combinations of the ion, energy, intensity and beam size. In addition, the world-wide first scanning ion gantry allows for 0.1 degree entrance angle selection. Each patient-specific treatment plan defines a subset of these pencil beams being subsequently requested during the dose delivery. Aiming at shortened irradiation times, improved reliability and optimum dose-delivery precision an upgrade program making heavy use of feed-forward as well as feed-back mechanisms is under way. Driven by patient-specific data out of the scanning beam dose delivery process central synchrotron and beam transfer line components are coupled to the therapy control system in order to tailor the beam characteristics in real-time to the clinical requirements. The paper will discuss the functional upgrades and report about the impact on the medical application at HIT.
+
+ 
+
+
+
+
+
+
+Slides FRCOBAB01 [3.656 MB]
+            
+ 
+
+
+ 
+
+
+
+FRCOBAB02
+Ultra-fast Longitudinal Feedbacks for the European XFEL
+ 
+
+
+ 
+
+H. Schlarb, S. Pfeiffer, Ch. Schmidt
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Free Electron Lasers, like the European XFEL, a 3.5 km long accelerator complex under construction in Hamburg, put stringent demands on the stabilization and the control of the electron beam properties. The pulsed superconducting RF accelerator of the European XFEL can provide more than thirty thousand Angstrom wavelength laser pulses per second to various types of X-ray user experiments. Ideally, these laser pulses have constant properties from shot-to-shot, such as central wavelength, duration, arrival-time and intensity. However, to meet these goals, multiple slow- and fast-feedback loops acting on the RF system have to operate in concert. In this paper, the new MTCA.4 based hardware architecture, MIMO FPGA feedback algorithm, and the cascaded feedback architecture based on RF-signals and beam based measurements relative to a femtosecond synchronization system is presented.
+
+ 
+
+
+
+
+
+
+Slides FRCOBAB02 [3.633 MB]
+            
+ 
+
+
+ 
+
+
+
+FRCOBAB03
+The New Multicore Real-time Control System of the RFX-mod Experiment
+1493
+
+
+ 
+
+G. Manduchi, A. Luchetta, C. Taliercio
+                       Consorzio RFX, Associazione Euratom-ENEA sulla Fusione, Padova, Italy
+
+ 
+
+
+ 
+
+The real-time control system of RFX-mod nuclear fusion experiment has been in operation since 2004 and has been used to control the plasma position and the MagnetoHydroDinamic (MHD) modes. Over time new and more computing demanding control algorithm shave been developed and the system has been pushed to its limits. Therefore a complete re-design has been carried out in 2012. The new system adopts radically different solutions in Hardware, Operating System and Software management. The VME PowerPc CPUs communicating over Ethernet used in the former system have been replaced by a single multicore server. The VxWorks Operating System , previously used in the VME CPUs has now been replaced by Linux MRG, that proved to behave very well in real-time applications. The previous framework for control and communication has been replaced by MARTe, a modern framework for real-time control gaining interest in the fusion community. Thanks to the MARTe organization, a rapid development of the control system has been possible. In particular, its intrinsic simulation ability of the framework gave us the possibility of carrying out most debugging in simulation, without affecting machine operation.
+
+ 
+
+
+
+
+
+
+Slides FRCOBAB03 [1.301 MB]
+            
+ 
+
+
+ 
+
+
+
+FRCOBAB04
+Beam Feedback System Challenges at SuperKEKB Injector Linac
+1497
+
+
+ 
+
+K. Furukawa, R. Ichimiya, M. Iwasaki, H. Kaji, F. Miyahara, T.T. Nakamura, M. Satoh, T. Suwada
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+SuperKEKB electron/positron asymmetric collider is under construction in order to elucidate new physics beyond the standard model of elementary particle physics. This will be only possible by a precise measurement with 40-times higher luminosity compared with that of KEKB. The injector linac should be upgraded to enable a 20-times smaller beam size of 50 nm at the collision point and twice-larger stored beam current with short lifetime of 10 minutes. At the same time two light source rings, PF and PF-AR, should be filled in top-up injection mode. To this end the linac should be operated with precise beam controls. Dual-layer controls with EPICS and MRF event systems are being enhanced to support precise pulse-to-pulse beam modulation (PPM) at 50Hz. A virtual accelerator (VA) concept is introduced to enable a single linac behaving as four VAs switched by PPM, where each VA corresponds to one of four top-up injections into storage rings. Each VA should be accompanied with independent beam orbit and energy feedback loops to maintain the required beam qualities. The requirements from SuperKEKB HER and LER for beam emittance, energy-spread, and charge are especially challenging.
+
+ 
+
+
+
+
+
+
+Slides FRCOBAB04 [1.596 MB]
+            
+ 
+
+
+ 
+
+
+
+FRCOBAB05
+Distributed Feedback Loop Implementation in the RHIC Low Level RF Platform
+1501
+
+
+ 
+
+F. Severino, M. Harvey, T. Hayes, G. Narayan, K.S. Smith
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DEAC02-98CH10886 with the U.S. Department of Energy.
+We present a brief overview of distributed feedback systems based on the RHIC LLRF Platform. The general architecture and sub-system components of a complex feedback system are described, emphasizing the techniques and features employed to achieve deterministic and low latency data and timing delivery between local and remote sub-systems: processors, FPGA fabric components and the high level control system. In particular, we will describe how we make use of the platform to implement a widely distributed multi-processor and FPGA based longitudinal damping system, which relies on task sharing, tight synchronization and integration to achieve the desired functionality and performance.
+
+ 
+
+
+
+
+
+
+Slides FRCOBAB05 [3.147 MB]
+            
+ 
+
+
+ 
+
+
+
+

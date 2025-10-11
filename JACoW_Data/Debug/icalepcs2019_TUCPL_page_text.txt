@@ -1,0 +1,427 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: TUCPL (Feedback Control and Process Tuning)
+
+
+TUCPL —  Feedback Control and Process Tuning   (08-Oct-19   14:15—16:00)
+Chair: M. Lonza, Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+
+Paper
+Title
+Page
+
+
+
+TUCPL01
+Adding Machine Learning to the Analysis and Optimization Toolsets at the Light Source BESSY II
+754
+
+
+ 
+
+L. Vera Ramirez, T. Mertens, R. Müller, J. Viefhaus
+                       HZB, Berlin, Germany
+G. Hartmann
+                       University of Kassel, Kassel, Germany
+
+ 
+
+
+ 
+
+The Helmholtz Association has initiated the implementation of the Data Management and Analysis concept across its centers in Germany. At Helmholtz-Zentrum Berlin, both the beamline and the machine (accelerator) groups have started working towards setting up the infrastructure and tools to introduce modern analysis, optimization, automation and AI techniques for improving the performance of the (large scale) user facility and its experimental setups. This paper focuses on our first steps with Machine Learning techniques over the past months at BESSY II as well as organizational topics and collaborations. The presented results correspond to two complementary scenarios. The first one is based on supervised ML models trained with real accelerator data, whose target are real-time predictions for several measurements (lifetime, efficiency, beam loss, …); some of these techniques are also used for additional tasks such as outlier detection or feature importance analysis. The second scenario includes first prototypes towards self-tuning of machine parameters in different optimization cases (injection efficiency, orbit correction, …) with Deep Reinforcement Learning agents.
+
+ 
+
+
+
+
+
+
+Slides TUCPL01 [8.894 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUCPL01
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL02
+Processing System Design for Implementing a Linear Quadratic Gaussian (LQG) Controller to Optimize the Real-Time Correction of High Wind-Blown Turbulence
+761
+
+
+ 
+
+M. Kim, S.M. Ammons, B. Hackel, L. Poyneer
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344 with document release number LLNL-PROC-792238.
+LLNL has developed a low latency, real-time, closed-loop, woofer-tweeter Adaptive Optics Control (AOC) system with a feedback control update rate of greater than 16 kHz. The Low-Latency Adaptive Mirror System (LLAMAS) is based on controller software previously developed for the successful Gemini Planet Imager (GPI) instrument which had an update rate of 1 kHz. By tuning the COTS operating system, tuning and upgrading the processing hardware, and adapting existing software, we have the computing power to implement a Linear-Quadratic-Gaussian (LQG) Controller in real time. The implementation of the LQG leverages hardware optimizations developed for low latency computing and the video game industry, such as fused multiply add accelerators and optimized Fast Fourier Transforms. We used the Intel Math Kernel Library (MKL) to implement the high-order LQG controller with a batch mode execution of 576 6x6 matrix multiplies. We will share our progress, lessons learned and our plans to further optimize performance by tuning high order LQG parameters.
+
+ 
+
+
+
+
+
+
+Slides TUCPL02 [2.521 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUCPL02
+
+ 
+
+
+About •
+paper received ※ 03 October 2019       paper accepted ※ 02 October 2020        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL03
+The LMJ Target Diagnostics Integration
+767
+
+
+ 
+
+S. Tranquille-Marques, P. Prunet
+                       CEA, LE BARP cedex, France
+
+ 
+
+
+ 
+
+The French Laser Megajoule (LMJ) is, behind the US NIF, the second largest inertial fusion facility in the World. The main activity of this facility is the acquisition of several physical phenomena as neutron, gamma, X rays produced by the indirect attack of hundreds of high power laser beams on targets through measurement devices called "target diagnostics". More than 30 diagnostics will be installed and driven in a huge and complex integrated computer control system. All this Targets Diagnostics arrived one at a time, each one with its particularity and complexity. The Tango Architecture and Panorama are used for the command control of these equipment. The aim of this paper is first, to introduce how Targets Diagnostics are progressively integrated in the command control. We will then see how Targets Diagnostics managed to cohabit even if they are in different phases of their integration. The paper concludes how Target Diagnostics are configured and computer-driven during all the shot sequence.
+
+ 
+
+
+
+
+
+
+Slides TUCPL03 [56.870 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUCPL03
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL04
+A Model-Based Simulator for the LCLS Accelerator
+773
+
+
+ 
+
+M.L. Gibbs, W.S. Colocho, A. Osman, J. Shtalenkova
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The Linac Coherent Light Source (LCLS) at the SLAC National Accelerator Laboratory is currently undergoing a major upgrade. In order to facilitate the development of new software that will be needed to operate the upgraded machine, a simulator has been developed to simulate the LCLS electron beam and the accelerator devices that measure and manipulate it. The simulator is comprised of several small "services" that simulate different types of devices, and provide an EPICS interface identical to the real control system. All of the services communicate with a central beam line model to change accelerator parameters and retrieve information about the simulated beam.
+
+ 
+
+
+
+
+
+
+Slides TUCPL04 [5.784 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUCPL04
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL05
+ESRF-Double Crystal Monochromator Prototype - Control Concept
+776
+
+
+ 
+
+M. Brendike, R. Baker, G. Berruyer, L. Ducotté, H. Gonzalez, C. Guilloud, M. Perez
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+The ESRF-Double Crystal Monochromator (ESRF-DCM) has been designed and developed in-house to enable spectroscopy beamlines to exploit the full potential of the ESRF-EBS upgrade. To reach concomitant beam positioning accuracy and beam stability at nanometer scale with a reliable, robust and simple control system, a double cascaded control architecture is implemented. The cascade is comprised of three modes: classic open loop actuation, an optimized open loop mode with error mapping, and closed loop real-time actuation. Speedgoat hardware, programmable from MATLAB/SIMULINK and running at 10 kHz loop frequency is used for the real-time mode. From the EBS startup 2020, the ESRF plans to deploy BLISS – the new BeamLine Instrumentation Support Software control system – for running experiments. An interface between Speedgoat hardware and BLISS has therefore been developed. The DCM and its control architecture have been tested in laboratory conditions. An overview of the concept, implementation and results of the cascaded control architecture and its three modes will be presented
+
+ 
+
+
+
+
+
+
+Slides TUCPL05 [5.113 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUCPL05
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL06
+Accelerating Machine Learning for Machine Physics (an AMALEA-project at KIT)
+781
+
+
+ 
+
+T. Boltz, E. Bründermann, M. Caselle, A. Kopmann, W. Mexnerpresenter, A.-S. Müller, W. Wang
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+The German Helmholtz Innovation Pool project will explore and provide novel cutting edge Machine Learning techniques to address some of the most urgent challenges in the era of large data harvests in accelerator physics. Progress in virtually all areas of accelerator based physics research relies on recording and analyzing enormous amounts of data. This data is produced by progressively sophisticated fast detectors alongside increasingly precise accelerator diagnostic systems. As KIT contribution to AMALEA it is planned to investigate a design of a fast and adaptive feedback system that reacts to small changes in the charge distribution of the electron bunch and establishes extensive control over the longitudinal beam dynamics. As a promising and well-motivated approach, reinforcement learning methods are considered. In a second step the algorithm will be implemented as a pilot experiment to a novel PCIe FPGA readout electronics card based on Zynq UltraScale+ MultiProcessor System on-Chip (MPSoC).
+
+ 
+
+
+
+
+
+
+Slides TUCPL06 [5.955 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUCPL06
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 01 November 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL07
+Optimal Control for Rapid Switching of Beam Energies for the ATR Line at BNL
+789
+
+
+ 
+
+J.P. Edelen, N.M. Cook
+                       RadiaSoft LLC, Boulder, Colorado, USA
+K.A. Brown, P.S. Dyer
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under Award Number DE-SC0019682.
+The Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory will undergo a beam energy scan over the next several years. To execute this scan, the transfer line between the Alternating Gradient Synchrotron (AGS) and RHIC or the so-called the ATR line, must be re-tuned for each energy. Control of the ATR line has four primary constraints: match the beam trajectory into RHIC, match the transverse focusing, match the dispersion, and minimize losses. Some of these can be handled independently, for example orbit matching. However, offsets in the beam can affect the transverse beam optics, thereby coupling the dynamics. Furthermore, the introduction of vertical optics increases the possibilities for coupling between transverse planes, and the desire to make the line spin transparent further complicates matters. During this talk, we will explore three promising avenues for controlling the ATR line, model predictive control (MPC), on-line optimization methods, and hybrid MPC and optimization methods. We will provide an overview of each method, discuss the tradeoffs between these methods, and summarize our conclusions.
+
+ 
+
+
+
+
+
+
+Slides TUCPL07 [4.459 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUCPL07
+
+ 
+
+
+About •
+paper received ※ 08 October 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

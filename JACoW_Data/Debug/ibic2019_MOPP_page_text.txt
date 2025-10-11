@@ -1,0 +1,2234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2019 - Table of Session: MOPP (Monday Poster Session)
+
+
+MOPP —  Monday Poster Session   (09-Sep-19   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPP001
+Safety Classified System Using Beam Intensity Monitoring for the Respect of Nuclear Requirements of SPIRAL2 Facility
+55
+
+
+ 
+
+P. Anger, C. Berthe, F. Bucaille, V. Desmezières, C.H. Haquin, C. Jamet, S. Leloir, G. Normand, JC-P. Pacary, S.P.G. Perret-Gatel, A. Savalle
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The SPIRAL2 Facility at GANIL is based on the construction of a superconducting ion CW LINAC (up to 5 mA - 40 MeV deuteron beams and up to 1 mA - 14.5 MeV/u heavy ion beams) with 2 experimental areas called S3 and NFS. The building, the accelerator and experimental equipment studies started in 2009. For safety classified system using beam intensity monitoring, SPIRAL2 project system engineering sets up a specific reinforced process, based on V-Model, to validate, at each step, all the requirements (technical, nuclear safety, quality, reliability, interfaces…) from the functional specifications to the final validation. Since 2016, the main part of the safety devices is installed and is currently under testing. These tests which are pre-requisites to deliver the first beam will demonstrate that both functional and safety requirements are fulfilled. This contribution will describe the requirements (operation field, limitation of equipment activation¿), the technical studies, the failure mode and effects analysis, the tests, the status and results of the SPIRAL2 Machine Protection System using AC and DC current transformers to measure and control the beam intensity.
+
+ 
+
+
+
+
+
+
+Poster MOPP001 [1.786 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP001
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP002
+Current Per Bunch Distribution Measurement at ESRF
+59
+
+
+ 
+
+L. Torino, B. Roche, B. Vedder
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+During the last run of the ESRF machine, several instrumentation improvements have been carried out in order to be exported on the new EBS storage ring. In particular, the top-up operation mode has been implemented and it demanded for an accurate, fast, and reliable measurement of the current per bunch distribution. In this proceeding, we describe the characteristics and the performance of the setup chosen to perform this measurement, which consists in a stripline, connected with a high dynamic range oscilloscope and a dedicated data analysis. We also comment on the integration of the measurement in the top-up routine to selectively refill less populated bunches.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP002
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP003
+Beam Current Measurements with Sub-Microampere Resolution using CWCT and BCM-CW-E
+63
+
+
+ 
+
+F. Stulle, L. Dupuypresenter, E.T. Touzain
+                       BERGOZ Instrumentation, Saint Genis Pouilly, France
+W.A. Barth, P. Forck, M. Miski-Oglu, T. Sieber
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The CWCT current transformer and its accompanying BCM-CW-E electronics allow accurate, high-resolution beam current measurements. This is achieved by combining a high-droop current transformer with low-noise sample-and-hold electronics. Thanks to a fast response time on the microseconds level the system can be applied not only to CW beams but also macropulses. Pulse repetition rates may range from 10MHz to 500MHz, rendering CWCT and BCM-CW-E suitable for a wide variety of accelerators. We report on test bench measurements achieving sub-microampere resolution. And we discuss results of beam measurements performed at the cwLINAC (GSI), which confirm the expected performance.
+
+ 
+
+
+
+
+
+
+Poster MOPP003 [6.507 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP003
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP004
+Development and Calibration of a Multi-Leaf Faraday Cup for the Determination of the Beam Energy of a 50 MeV Electron LINAC in Real-Time
+67
+
+
+ 
+
+C. Makowski, A. Schüllerpresenter
+                       PTB, Braunschweig, Germany
+
+ 
+
+
+ 
+
+The Physikalisch-Technische Bundesanstalt (PTB), Germany’s national primary standard laboratory, operates an electron LINAC with variable energy (0.5 - 50 MeV). All parameters of the LINAC which influence the RF power (as e.g. the high voltage at modulator) as well as the number of charged particles in a bunch to be accelerated (as e.g. via gun emission) also change the beam energy. To measure the energy during the preparation or optimization of a beam, a Multi-Leaf Faraday Cup (MLFC) was developed. This MLFC allows the measurement of energy and pulse charge in real time, so the influence of the manipulated variables on energy and beam power can be immediately assessed. The MLFC consists of 128 electrically isolated Al plates where the thickness of the entire stack is sufficient to stop a 50 MeV electron beam. After each beam pulse, the charge collected by the Al plates is recorded sequentially. The MLFC was calibrated with monoenergetic electron beams at output of a magnetic spectrometer. Then the MLFC was installed at the end of the accelerator structure. From the recorded charge distributions, the corresponding energy is determined in real time and displayed for each beam pulse.
+
+ 
+
+
+
+
+
+
+Poster MOPP004 [3.739 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP004
+
+ 
+
+
+About •
+paper received ※ 30 August 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP005
+Radiation hardness investigation of Zinc oxide fast scintillators with relativistic heavy ion beams.
+71
+
+
+ 
+
+P. Boutachkov, A. Reiter, M. Saifulin, B. Walasek-Höhne
+                       GSI, Darmstadt, Germany
+E.I. Gorokhova
+                       GOI, St Petersburg, Russia
+P. Rodnyi, I.D. Venevtsev
+                       SPbPU, St. Petersburg, Russia
+
+ 
+
+
+ 
+
+At GSI ion beams of many elements, from H up to U, are produced with energy as high as 4.5 GeV/u with the SIS-18 synchrotron. For absolute beam intensity and micro-spill structure measurements a BC400 organic scintillator is used. Due to the low radiation hardness of this material, alternative inorganic scintillators like ZnO:Ga and ZnO:In were investigated. The properties and possible application of these novel radiation hard fast scintillators will be discussed. Their response to Sn, Xe and U ion beams will be reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP005
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP006
+Commissioning of the Beam Loss Monitoring system for the HADES beam-line at GSI
+74
+
+
+ 
+
+P. Boutachkov, S. Damjanovic, M. Sapinski, B. Walasek-Höhne
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The High Acceptance Di-Electron Spectrometer experiments at GSI (HADES) require high-intensity heavy ion beams. Monitoring and minimization of the beam losses are critical for the operation at the desired beam intensities. FAIR-type Beam Loss Monitor (BLM) system based on sixteen plastic scintillator detectors is installed along the beam line from the SIS-18 synchrotron to the experiment location. The detectors are used in counting mode, with maximum counting rate of order of 20 MHz. The system has been commissioned during the 2018 beam time. Details on the detector setup, its calibration procedure and how it can be used for quantitative beam loss determination are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP006
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP007
+Versatile Beamline Cryostat for the Cryogenic Current Comparator (CCC) for FAIR
+78
+
+
+ 
+
+D.M. Haider, F. Kurian, M. Schwickert, T. Sieber, T. Stöhlker, F. Ucar
+                       GSI, Darmstadt, Germany
+H. De Gersem, N. Marsic, W.F.O. Müller
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+J. Golm
+                       FSU Jena, Jena, Germany
+J. Golm, T. Koettig
+                       CERN, Meyrin, Switzerland
+M. Schmelz, R. Stolz, V. Zakosarenko
+                       IPHT, Jena, Germany
+T. Stöhlker
+                       IOQ, Jena, Germany
+T. Stöhlker, V. Tympel
+                       HIJ, Jena, Germany
+V. Zakosarenko
+                       Supracon AG, Jena, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by AVA - Accelerators Validating Antimatter the EU H2020 Marie-Curie Action No. 721559 and by the BMBF under contract No. 05P15SJRBA and 5P18SJRB1.
+The Cryogenic Current Comparator (CCC) extends the measurement range of traditional non-destructive current monitors used in accelerator beamlines down to a few nano-amperes of direct beam current. This is achieved by a cryogenic environment of liquid helium around the beamline, in which the beam’s magnetic field is measured with a Superconducting Quantum Interference Device (SQUID), which is itself enclosed in a superconducting shielding structure. For this purpose, a versatile UHV-beamline cryostat was designed for the CCCs at FAIR and is currently in production. It is built for long-term autonomous operation with a closed helium re-liquefaction cycle and with good access to all inner components. The design is supported by simulations of the cryostat’s mechanical eigenmodes to minimize the excitation by vibrations in an accelerator environment. A prototype at GSI has demonstrated the self-contained cryogenic operation in combination with a 15 l/day re-liquefier. The cryostat will be used in CRYRING to compare the FAIR-CCC-X with newly developed CCC-types for 150 mm beamlines. Both which will supply a nA current reading during commissioning and for the experiments.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP007
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP008
+First Measurements of a New Type of Coreless Cryogenic Current Comparators (4C) for Non-Destructive Intensity Diagnostics of Charged Particles
+82
+
+
+ 
+
+V. Tympel, T. Stöhlker
+                       HIJ, Jena, Germany
+S. Anders, J. Kunert, M. Schmelz, R. Stolz, V. Zakosarenko
+                       IPHT, Jena, Germany
+H. De Gersem, N. Marsic, W.F.O. Müller
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+J. Golm, F. Schmidl, T. Schönau, P. Seidel, M. Stapelfeld
+                       FSU Jena, Jena, Germany
+D.M. Haider, M. Schwickert, T. Sieber, T. Stöhlker
+                       GSI, Darmstadt, Germany
+T. Stöhlker
+                       IOQ, Jena, Germany
+J. Tan
+                       CERN, Geneva, Switzerland
+V. Zakosarenko
+                       Supracon AG, Jena, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by the BMBF, project numbers 05P15SJRBA, 05P18RDRB1 and 05P18SJRB1.
+The non-destructive and highly sensitive measurement of a charged particle beam is of utmost importance for modern particle accelerator facilities. A Cryogenic Current Comparator (CCC) can be used to measure beam currents in the nA-range. Therein, charged particles passing through a superconducting toroid induce screening currents at the surface of the toroid, which are measured via SQUIDs. Classical CCC beam monitors make use of a high magnetic permeability core as a flux-concentrator for the pickup coil. The core increases the pickup inductance and thus coupling to the beam, but unfortunately also raises low-frequency noise and thermal drift. In the new concept from the Leibniz Institute of Photonic Technology the Coreless Cryogenic Current Comparator (4C) completely omits this core and instead uses highly sensitive SQUIDs featuring sub-micron cross-type Josephson tunnel junctions. Combined with a new shielding geometry a compact and comparably lightweight design has been developed, which exhibits a current sensitivity of about 6 pA/sqrt(Hz) in the white noise region and a measured shielding factor of about 134 dB*.
+* V. Zakosarenko et al., Coreless SQUID-based cryogenic current comparator for non-destructive intensity diagnostics of charged particle beams, Supercond. Sci. Technol. 32 (2019) 014002.
+
+ 
+
+
+
+
+
+
+Poster MOPP008 [13.550 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP008
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP009
+Retrieving Beam Current Waveforms from ACCT Output Using Experimental Response Function for Use in Long Pulse Accelerators
+85
+
+
+ 
+
+Y. Hirata, J. Franco Campos, A. Kasugai
+                       QST, Aomori, Japan
+
+ 
+
+
+ 
+
+Current transformers (ACCT/DCCT) are used as non-interceptive means of beam current measurement in many accelerators. In the case of long pulse to CW accelerators for fusion neutron sources such as IFMIF, A-FNS, etc., current measurement using current transformers for pulses with around 10-100 ms or longer suffer such problems as drooping and the measurement accuracy is deteriorated. So, improving the accuracy for long pulse beams is highly required. We have proposed a method for retrieving the beam currents from the ACCT output using the transfer function obtainable from simple experiments. It was confirmed from numerical calculation that beam currents longer than a second could be theoretically retrieved*. The effects of associated circuits and cables such as stray capacitance, inductance and magnetic materials nearby are inherently included in the transfer function. We are working for implementing this method into FPGA. For calculation convenience, the transfer function is converted into a form of impulse function and the convolution with the digitized ACCT output is to be carried out to retrieve the beam current. The theory, algorithm and design will be discussed.
+Y. Hirata, et al., IEEE Trans. Plasma Sci., Vol. 46 (2018), pp. 2272.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP009
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP010
+Design and Properties of a New DCCT Chamber for the PF-Ring at KEK
+91
+
+
+ 
+
+R. Takai, T. Honda, T. Nogami, T. Obina, Y. Tanimoto
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+A DC current transformer (DCCT) for the PF-ring was renewed during the 2018 summer shutdown. A vacuum chamber for the new DCCT was designed based on a circular duct with an inner diameter of 100 mm and has a structure housing a toroidal core inside of electromagnetic shields. The geometry of the ceramic break for interrupting the wall current flow was optimized using a three-dimensional electromagnetic field simulator, and the break was fabricated considering some technical limitations. Both ends of the ceramic break were short-circuited in a high-frequency manner by a sheet-like capacitive structure to suppress the radiation of unneeded higher-order modes (HOMs) into the core housing. The ceramic break is also equipped with water-cooling pipes on metal sleeves brazed to the both ends to efficiently remove the heat generated by HOMs. The new DCCT chamber has been used already in user operation without any problems. A temperature rise near the ceramic break is still approximately six degrees Celsius, even when a 50-mA isolated bunch is stored.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP010
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP011
+A Dual Functional Current Monitor for Stripping Efficiency Measurement in CSNS
+96
+
+
+ 
+
+W.L. Huang, F. Li, R.Y. Qiu, A.X. Wang
+                       IHEP CSNS, Guangdong Province, People’s Republic of China
+M.Y. Huang, M.Y. Liu, T.G. Xu
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: This work is supported by National Natural Science Fund(No.11605214).
+China Spallation Neutron Source (CSNS), the biggest platform for neutron scattering research in China, has been finished construction and already in user operation stage by the end of 2017. During the multi-turn charge-exchange injection, H− stripping by a carbon primary stripper foil (100 ¿g/cm2) and a secondary stripper foil (200 ¿g/cm2) is adopted for this high intensity proton synchrotron. In order to evaluate the stripping efficiency and the foil aging, a dual-function low noise current transformer and corresponding electronics are designed to measure the ultra-low intensity of H− and H0, which are not stripped completely by the 1st foil but totally stripped charge changing to H+ and delivered to the IN-DUMP. The self-designed CT sensors made of domestic nanocrystalline toroids, the noise analysis and elimination, measurement results and further improvement proposals are presented in this paper.
+
+ 
+
+
+
+
+
+
+Poster MOPP011 [3.186 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP011
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP012
+Development of Compact Ionization Chambers for Particle Therapy Facilities
+100
+
+
+ 
+
+M. Liu, C.X. Yin
+                       SSRF, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+Dose monitors and position monitors are critical equipment for particle therapy facilities. Performance of the monitors affects precision of irradiation dose and dose distribution. Parallel plate ionization chambers with free air are adopted for dose monitors and position monitors. Radiation-hardened front-end electronics are integrated in the chambers, and the output of the chambers are digital signals. The structure of the monitors is compact, modularized and easy-to-use. The ionization chambers are implemented successfully in Shanghai Advanced Proton Therapy Facility. The development details and implementation status are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP012
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP013
+Faraday Cup Selector for DC-280 Cyclotron
+103
+
+
+ 
+
+V.V. Aleinikov, S. Pachtchenko
+                       JINR, Dubna, Moscow Region, Russia
+K.P. Sychev, V. Zabanova
+                       JINR/FLNR, Moscow region, Russia
+
+ 
+
+
+ 
+
+New isochronous cyclotron DC-280, the basic facility of Super Heavy Element (SHE) factory was put into operation in the FLNR JINR on March 25, 2019. Key role in beam diagnostics for lossless transportation is played by Faraday cups. Five elements were installed along the two injection lines, and 12 elements on the five transport channels to the experimental facilities. The software was developed to automatically select the active Faraday cup depending on its location and track the current on a single indicator. This paper describes basic principles and algorithm of the Faraday cup Selector module which is a part of the DC-280 cyclotron control system.
+
+ 
+
+
+
+
+
+
+Poster MOPP013 [2.214 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP013
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP014
+Design of the ESS MEBT Faraday Cup
+106
+
+
+ 
+
+A. Rodríguez Páramo, I. Bustinduy, I. Mazkiaran, R. Miracoli, V. Toyos, S. Varnasseri, D. de Cos, C. de la Cruz
+                       ESS Bilbao, Zamudio, Spain
+E.M. Doneganipresenter, J.P.S. Martins
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The European Spallation Source (ESS) is currently under construction and the Medium Energy Beam Transfer (MEBT) is developed by ESS-Bilbao as an in-kind contribution. In the MEBT a set of diagnostics is included for beam characterization, among them the MEBT Faraday Cup is used to measure beam current and as a beam stopper for the commissioning modes. The main challenges for the design and manufacturing of the Faraday Cup are the high irradiation loads and the necessity of a compact design due to the space constraints in the MEBT. We describe the design of the FC, characterized by a graphite collector, required to withstand irradiation, and a repeller for suppression of secondary electrons. For the operation of the Faraday Cup acquisition electronics and control system are developed, all systems have been integrated in the ESS-Bilbao ECR ion source to test operation under beam conditions. In this work, we discuss the design of the Faraday Cup, the results of the tests and how they agree with the expected performance of the Faraday Cup.
+
+ 
+
+
+
+
+
+
+Poster MOPP014 [1.786 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP014
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP015
+Charge Detection System for the CLARA/VELA Facility
+111
+
+
+ 
+
+S.L. Mathisen, Y.M. Saveliev, R.J. Smith
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+The CLARA/VELA facility at Daresbury Laboratory combines an FEL test facility and an electron accelerator for scientific and industrial applications, capable of providing up to 40 MeV electrons, with an eventual goal of 250 MeV. Accurate measurement of the bunch charges in a wide range (1 - 250 pC) at a repetition rate up to 400 Hz is required. We present a new system of analogue electronics developed to interface with existing and future bunch charge measurement devices (wall current monitors, faraday cups, etc.) to measure the bunch charges accurately and precisely. The system is based on a charge amplifier with switchable sensitivity, dark current gating and on-board self-calibration. Results of circuit simulations, offline calibration tests and online beam tests of a prototype system are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP015
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP016
+Particle interactions with diamond detectors
+115
+
+
+ 
+
+C. Weiss, M. Cerv, E. Griesmayer, P. Kavrigin
+                       CIVIDEC Instrumentation, Wien, Austria
+
+ 
+
+
+ 
+
+Chemical vapor deposition (CVD) diamond as radiation detector material has a wide range of applications, in par- ticular for harsh radiation environments and at high tem- peratures. The sensitivity of diamond is exploited in meas- urements with charged particles, neutrons and photons. Diamond detectors are used as beam loss monitors in particle accelerators, for photon detection in Synchrotron Light Sources, for neutron diagnostics in thermal neutron fields and for Deuterium-Deuterium (D-D) fusion and Deuterium-Tritium (D-T) fusion plasma neutrons. In this paper we present the simulated and measured re- sponse functions of single-crystal (sCVD) diamond detec- tors to charged particles, heavy ions, thermal neutrons, fast neutrons, X-rays and gamma radiation. All measurements were performed with CIVIDEC diamond detectors and re- lated electronics [1] at various research facilities.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP016
+
+ 
+
+
+About •
+paper received ※ 09 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP017
+New Beam Loss Monitor System at SOLEIL
+118
+
+
+ 
+
+N. Hubert, M. El Ajjouri, D. Pédeau
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+SOLEIL is currently upgrading its Beam Loss Monitor (BLM) system from pin-diode detectors to plastic scintillators associated with photosensor modules. This new kind of monitor, associated to its dedicated electronics, can be used to record slow or fast losses. Monitors have been calibrated with a diode and with a Cesium source. Both methods are compared. After preliminary tests, a first set of 20 new BLMs have been installed on 2 cells of the storage ring. Installation setup, calibration procedure and first measurements will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP017
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP019
+Development and Evaluation of an Alternative Sensor Lifetime Enhancement Technique Used with the Online-Radiation-Monitoring System (DosiMon) at the European XFEL at DESY, Hamburg
+122
+
+
+ 
+
+F. Schmidt-Föhre, S. Arab, D. Nölle, R. Susen
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL (E-XFEL), that started operation in September 2017 at the DESY/XFEL site in Hamburg/Germany uses a single-tunnel concept, forcing all frontend machine devices and electronics to be located inside the accelerator tunnel. Electro-magnetic showers, mainly produced by gun dark-current, RF cavity field-emission and beam-losses expose these devices to damaging irradiation. The new Online-Radiation-Monitoring-System (DosiMon) is mainly used for surveillance of radiation sensitive permanent magnet structures, diagnostic devices and rack-housed electronics. The integrated dose from Gamma- and optional future Neutron-radiation measurements can be monitored online by the DosiMon system. Safety limits ensure the correct function of monitored devices, provided by lifecycle estimations as measures for on time part exchange, to prevent significant radiation damage. A first expansion state currently enables more than 500 gamma measuring points. The development of a new sensor lifetime enhancement technique for the utilized RadFet sensors is presented together with corresponding evaluation measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP019
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP020
+First Tests Using Sipm Based Beam Loss Monitors at the European XFEL
+127
+
+
+ 
+
+T. Wamsat, P.A. Smirnov
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL MTCA based Beam Loss Monitor System (BLM) is composed of about 450 monitors using photomultiplier tubes (PMTs). BLMs installed in the SASE undulator intersections show high signals at electron energy higher 16 GeV or photon energy higher 14 keV due to background synchrotron radiation which directly affects the PMT. The amplitude of this signal can get that high that, also without using any scintillating material, the BLMs get blind for real losses. Also different lead arrangements did not shield the signal sufficiently. First tests show that a Silicon photomultiplier (SiPM) is not affected. Also there are several advantages to use SiPM, they are cheaper by factor of 40 and operating voltage is below 45V. First test will be presented and how it can get implemented in the existing BLMs and BLM system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP020
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP022
+Neutron Sensitive Beam Loss Monitoring System for the ESS Linac
+131
+
+
+ 
+
+I. Dolenc Kittelmann, F.S. Alves, E.C. Bergman, C.S. Derrez, V. Grishin, K.E. Rosengren, T.J. Shea
+                       ESS, Lund, Sweden
+Q. Bertrand, T.J. Joannem, Ph. Legou, Y. Mariette, V. Nadot, T. Papaevangelou, L. Segui
+                       CEA-IRFU, Gif-sur-Yvette, France
+W. Cichalewski, G.W. Jabłoński, W. Jałmużna, R. Kiełbik
+                       TUL-DMCS, Łódź, Poland
+
+ 
+
+
+ 
+
+The European Spallation Source, currently under construction in Lund, Sweden, will be a neutron source based on partly superconducting linac, accelerating protons to 2GeV with a peak current of 62.5mA, ultimately delivering a 5MW beam to a rotating tungsten target. For a successful tuning and operation of a linac, a Beam Loss Monitoring (BLM) system is required. The system is designed to protect the machine from beam-induced damage and unnecessary activation of the components. This contribution focuses on one of the BLM systems to be deployed at the ESS linac, namely the neutron sensitive BLM (nBLM). Recently, test of the nBLM data acquisition chain including the detector has been performed at LINAC4, at CERN. The test represents first evaluation of the system prototype in realistic environment. Results of the test will be presented together with an overview of the ESS nBLM system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP022
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP023
+Ionisation Chamber Based Beam Loss Monitoring System for the ESS Linac
+136
+
+
+ 
+
+I. Dolenc Kittelmann, F.S. Alves, E.C. Bergman, C.S. Derrez, T.J. Grandsaert, V. Grishin, T.J. Shea
+                       ESS, Lund, Sweden
+W. Cichalewski, G.W. Jabłoński, W. Jałmużna, R. Kiełbik
+                       TUL-DMCS, Łódź, Poland
+
+ 
+
+
+ 
+
+The European Spallation Source, currently under construction in Lund, Sweden, will be a neutron source based on partly superconducting linac, accelerating protons to 2GeV with a peak current of 62.5mA, ultimately delivering a 5MW beam to a rotating tungsten target. One of the most critical elements for the protection of an accelerator is its Beam Loss Monitoring (BLM) system. The system is designed to protect the machine from beam-induced damage and unnecessary activation of the components. This contribution focuses on one of the BLM systems to be deployed at the ESS linac, namely the Ionisation Chamber based BLM (ICBLM). Several test campaigns have been performed at various facilities. Results of these tests will be presented here together with an overview of the ESS ICBLM system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP023
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP024
+Development of New Loss Monitor Electronics for the HIPA Facility
+141
+
+
+ 
+
+R. Dölling, E. Johansen, W. Koprek, D. Llorente Sancho, M. Roggli
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+A replacement for the ageing electronics of loss monitors at HIPA is under development. We discuss requirements, concepts and first tests of a prototype.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP024
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP025
+Enhancements to the SNS* Differential Current Monitor to Minimize Errant Beam
+146
+
+
+ 
+
+W. Blokland
+                       ORNL, Oak Ridge, Tennessee, USA
+C.C. Peters, T.B. Southern
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by UT-Battelle, LLC, under Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy.
+The existing Differential Beam Current Monitor (DBCM) has been modified to not only compare beam current waveforms between upstream and downstream locations, but also to compare the previous beam current waveform with the incoming beam current waveform. When there is an unintended change in the beam current, the DBCM now aborts the beam to prevent beam loss on the next pulse. This addition has proved to be crucial to allow beam during specific front-end problems. All data is saved when an abort is issued for post-mortem analy-sis. This paper describes the additions to the implementa-tion, our operational experience, and future plans for the differential beam current monitor.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP025
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP026
+A Longitudinal Kicker Cavity for the BESSY II Booster
+150
+
+
+ 
+
+T. Atkinson, M. Dirsat, A.N. Matveenko, A. Schälicke, B. Schriefer, Y. Tamashevich
+                       HZB, Berlin, Germany
+T. Flisgen
+                       FBH, Berlin, Germany
+
+ 
+
+
+ 
+
+As part of the global refurbishment of the injector systems at BESSY II, a new longitudinal kicker cavity and suitable feedback will be installed in the booster. Both a flexible bunch charge and spacing is essential for efficient injection. Such a cavity is needed to mitigate the unwanted couple bunch instabilities associated with these elaborate filling patterns and the HOMs of additional accelerating structures. This paper covers the conceptual design, simulation strategy, manufacture and bench tests of the longitudinal kicker cavity before it is installed in the ring.
+
+ 
+
+
+
+
+
+
+Poster MOPP026 [4.756 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP026
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP027
+First Beam-based Test of Fast Closed Orbit Feedback System at GSI SIS18
+154
+
+
+ 
+
+R. Singh, A. Doring, P. Forck, K. Lang, S.H. Mirzapresenter, D. Rodomonti, D. Schupp, M. Schwickert, H. Welker
+                       GSI, Darmstadt, Germany
+A. Bardorfer
+                       I-Tech, Solkan, Slovenia
+
+ 
+
+
+ 
+
+Funding: European Unions Horizon 2020 Research and Innovation programme under Grant Agreement No. 730871 (ARIES). German Academic Exchange Service under Personal Reference No. 91605207.
+The SIS18 synchrotron of GSI will be used as a booster ring for the SIS100 synchrotron built in the scope of the FAIR project. In order to preserve the beam quality during the whole acceleration ramp, a new closed orbit feedback (COFB) system is implemented at the SIS18 which operates with the existing BPMs and steerer magnets. The system aims for a bandwidth of several 100 Hz and robustness against the variation of the response matrix and the beam rigidity during the ramp. The architecture of the system and the results of the first beam-based test of the COFB hardware are presented. As a first step, the orbit correction is performed over the entire ramp using the response matrix corresponding to injection energy only taking the beam rigidity into account. Experimental observations of the bandwidth limitations arising from the temporal delay of the steerer power supplies and the spatial model variation during the ramp are compared with simulations. It is found that the temporal and the spatial model mismatch have similar effect on the achievable bandwidth of the COFB.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP027
+
+ 
+
+
+About •
+paper received ※ 07 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP028
+Longitudinal Bunch-by-Bunch Feedback Systems for SuperKEKB LER
+159
+
+
+ 
+
+M. Tobiyama, J.W. Flanagan, T. Kobayashi, S. Terui
+                       KEK, Ibaraki, Japan
+J.D. Fox
+                       Stanford University, Stanford, California, USA
+
+ 
+
+
+ 
+
+Longitudinal bunch-by-bunch feedback systems to suppress coupled bunch instabilities with minimum bunch spacing of 2 ns have been constructed in SuperKEKB LER. Through the grow-damp and excite-damp experiments with several filling patterns and the transient-domain analysis of unstable modes, the behaviors of possible impedance sources have been evaluated. The measured performance of the system, together with the performance of the related systems such as slow phase feedback to the reference RF clock are reported.
+
+ 
+
+
+
+
+
+
+Poster MOPP028 [0.519 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP028
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP030
+Preliminary Test of XBPM Local Feedback in TPS
+163
+
+
+ 
+
+P.C. Chiu, J.-Y. Chuangpresenter, K.T. Hsu, K.H. Hu, C.H. Huang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+TPS is 3-GeV synchrotron light source which have opened for public users since September 2016 and now offers 400 mA top-up mode operation. The requirements of the long term orbit stability have been gradually more and more stringent. The report investigates the long-term orbit stability improved by applying local XBPM feedback.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP030
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP031
+Optimisation of the ISIS Proton Synchrotron Experimental Damping System
+167
+
+
+ 
+
+A. Pertica, D.W. Posthuma de Boer, R.E. Williamson
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+J. Komppula
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The ISIS Neutron and Muon Source, located in the UK, consists of a H− linear accelerator, a rapid cycling proton synchrotron and two extraction lines delivering protons onto heavy metal targets. One of the limiting factors for achieving higher intensities in the accelerator is the head-tail instability present in the synchrotron, around 2ms after injection. In order to mitigate this instability, an experimental damping system is being developed for the ISIS synchrotron. Initial tests using a split electrode BPM as a pickup and a ferrite loaded kicker as a damper showed positive results. This paper describes the different developments made to the damping system and planned improvements to optimize its performance for use in normal operations.
+
+ 
+
+
+
+
+
+
+Poster MOPP031 [1.557 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP031
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP032
+Fast Feedback Using Electron Beam Steering to Maintain the X-Ray Beam Position at a Monochromatic X-Ray Diagnostic at Diamond Light Source
+172
+
+
+ 
+
+C. Bloomer, G. Rehm, A. Tipper
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+A new feedback system is being developed at Diamond Light Source, applying a modulation to the position of the electron beam to keep the synchrotron X-ray beam fixed at the sample-point. Beamline detectors operating in the 100-1000Hz regime are becoming common, and the X-ray beam stability demanded by beamlines is thus of comparable bandwidths. In this paper we present a feedback system operating at these bandwidths, using a diagnostic instrument permanently installed in the X-ray beam path to measure the error in beam position at the sample point, and fast air-cored magnets to apply a small modulation to the electron beam to compensate. Four magnets are used to generate electron beam bumps through an ID straight. This modulation of the beam away from the nominal orbit is small, less than 10 microns, but should be sufficient to compensate for the bulk of the X-ray motion observed at the sample. It is small enough that the impact on the machine will be negligible. This system aims to maintain X-ray beam stability to within 3% of a beam size, at bandwidths of up to 500Hz.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP032
+
+ 
+
+
+About •
+paper received ※ 09 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP033
+Preliminary Design of Mu2E Spill Regulation System (SRS)
+177
+
+
+ 
+
+M.A. Ibrahim, E. Cullerton, J.S. Diamond, K.S. Martin, P.S. Prieto, V.E. Scarpinepresenter, P. Varghese
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy under contract No. DE-AC02-07CH11359.
+Direct µ->e conversion requires resonant extraction of a stream of pulsed beam, comprised of short micro-bunches (pulses) from the Delivery ring (DR) to the Mu2e target. Experimental needs and radiation protection apply strict requirements on the beam quality control and regulation of the spill. The objective of the Spill Regulation System (SRS) is to maintain the intensity uniformity of a stream of ~25K pulses as 1012 protons are extracted at 590.08kHz over a 43msec spill period. To meet the specified performance, two regulation elements will be driven simultaneously: a family of three zero-harmonic quadrupoles (tune ramp quads) and a RF Knock-Out (RFKO) system. The SRS will use two separate control loops to control each regulation element simultaneously. It will be critical to coordinate the SRS¿ processes within the machine cycle and within each spill interval. The SRS has been designed to have a total Gain-Bandwidth product of 10KHz, which can be used to mitigate several sources of ripple in the spill profile.
+
+ 
+
+
+
+
+
+
+Poster MOPP033 [0.522 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP033
+
+ 
+
+
+About •
+paper received ※ 30 August 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP034
+Beam Instrumentation Challenges for the Fermilab PIP-II Accelerator
+181
+
+
+ 
+
+V.E. Scarpine, N. Eddy, D. Frolov, M.A. Ibrahim, L.R. Prost, R.M. Thurman-Keup
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy under contract No. DE-AC02-07CH11359.
+Fermilab is undertaking the development of a new 800 MeV superconducting RF linac to replace it’s present normal conducting 400 MeV linac. The PIP-II linac warm front-end consists of an ion source, LEBT, RFQ and MEBT which includes an arbitrary pattern bunch chopper, to generate a 2.1 MeV, 2mA H− beam. This is followed immediately by a series of superconducting RF cryomodules to produce a 800 MeV beam. Commissioning, operate and safety present challenges to the beam instrumentation. This paper describes these beam instrumentation challenges and the choices made for PIP-II.
+
+ 
+
+
+
+
+
+
+Poster MOPP034 [0.999 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP034
+
+ 
+
+
+About •
+paper received ※ 10 September 2019       paper accepted ※ 11 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP035
+Electron Beam Diagnostics Concept for the LWFA Driven FEL at ELI-Beamlines
+184
+
+
+ 
+
+K.O. Kruchinin, D. Kocon, A.Y. Molodozhentsev
+                       ELI-BEAMS, Prague, Czech Republic
+A. Lyapin
+                       JAI, Egham, Surrey, United Kingdom
+
+ 
+
+
+ 
+
+Uniquely short high energy electron bunches produced by compact Laser Wakefield Accelerators (LWFA) are attractive for the development of new generation Free Electron Lasers (FEL). Although the beam quality of LWFA is still significantly lower than provided by conventional accelerators, with persistent progress seen in the area of laser plasma acceleration, they have a great potential to be considered the new generation drivers for FELs and even colliders. A new LWFA based FEL project called "LUIS" is currently being commissioned at ELI-beamlines in Czech Republic. LUIS aims to demonstrate a stable generation of X-ray photons with a wavelengths of 6 nm and lower, suitable for user applications. Electron beam diagnostics are absolutely crucial for achieving LUIS’s aims. Low charge, poor beam stability and other beam properties inherent for a LWFA require rethinking and adaptation of the conventional diagnostic tools and, in some cases, development of new ones. In this paper we provide an overview of the electron beam instrumentation in LUIS with a focus on the current challenges and some discussion of the foreseen future developments.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP035
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP036
+SPIRAL2 Diagnostic Qualifications with RFQ beams
+188
+
+
+ 
+
+C. Jamet, T. Andre, V. Langlois, T. Le Ster, G. Ledu, P. Legallois, S. Leloir, F. Lepoittevin, S. Loret, C. Potier de courcy, R.V. Revenko
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The SPIRAL2 accelerator, built on the GANIL’s facility, at CAEN in FRANCE is dedicated to accelerate light and heavy ion beams up to 5mA and 40 MeV. The continuous wave accelerator is based on two ECR ion sources, a RFQ and a superconducting LINAC. The beam commissioning of the RFQ finished at the end of 2018. This paper presents the Diagnostic-Plate installed behind the RFQ, with all associated accelerator diagnostics. Diagnostic monitors, measured beam parameters, results are described and analyzed. A brief presentation of the next steps is given.
+
+ 
+
+
+
+
+
+
+Poster MOPP036 [1.558 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP036
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP037
+Status of Beam Instrumentation for FAIR HEBT
+193
+
+
+ 
+
+M. Schwickert, P. Boutachkov, T. Hoffmann, H. Reeg, A. Reiter, B. Walasek-Höhne
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+At present the Facility for Antiproton and Ion Research (FAIR) is under construction at the GSI site. As part of the FAIR project the beamlines of the High Energy Beam Transport (HEBT) section interconnect the synchrotrons, storage rings and experimental caves. The large range of beam energies (MeV to GeV) and beam intensities up to 1012 particles per pulse for uranium, or up to 2·1013 particles per pulse for protons, demand in many cases for purpose-built beam diagnostic devices. Presently, the main diagnostic components are being manufactured by international in-kind partners in close collaboration with GSI. This contribution presents an overview of the beam instrumentation layout of the FAIR HEBT and summa-rizes the present status of developments for HEBT beam diagnostics. We focus on the status of the foreseen beam current transformers, particle detectors, scintillating screens and profile grids.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP037
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP038
+The Beam Diagnostics Test Bench for the Commissioning of the Proton Linac at FAIR
+196
+
+
+ 
+
+S. Udrea, P. Forck, C.M. Kleffner, K. Knie, T. Sieber
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+A dedicated proton injector for FAIR (the pLinac) is presently under construction at GSI Darmstadt. This accelerator is designed to deliver a beam current of up to 70 mA with a final energy of 68 MeV for the FAIR anti-proton program. For the commissioning of the pLinac a movable beam diagnostics test bench will be used to characterize the proton beam at different locations during the stepwise installation. The test bench will consist of all relevant types of diagnostic devices as BPM’s, ACCT’s, SEM grids, a slit-grid emittance device and a bunch shape monitor. Moreover, a magnetic spectrometer is supposed to measure the energy spread of the proton beam. Point-to-point imaging is foreseen to enable high energy resolution independently on the transverse emittance. Due to the limited space in the accelerator tunnel a special design must be chosen with the inclusion of quadrupole magnets. The present contribution gives an overall presentation of the test bench and its devices with a special emphasis on the magnetic spectrometer design.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP038
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP039
+Overview of Beam Diagnostics System for Heavy Ion Accelerator Facility, RAON
+ 
+
+
+ 
+
+H.J. Woo
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+The ultimate goal of the superconducting LINAC at RISP is to accelerate uranium and proton beams up to 200 MeV/u and 600 MeV, with a maximum beam currents of 8.3 puA and 660 puA, respectively. The driver linac is divided into several sections: low energy superconducting linac SCL1 for stable ions and SCL3 for rare isotopes, charge stripper section, and high energy superconducting linac (SCL2). Various types of beam diagnostic devices such as beam current monitor, beam position monitor, beam profile monitor, beam phase monitor, and beam loss monitor, etc. are required for the setting of accelerator parameters, the monitoring and control of beam acceleration and transport, and improvement of accelerator system. The arrangement of beam diagnostic devices was initially based on the result of beam dynamics calculation, and now the overall layout becomes almost settled. More than 600 devices will be installed for commissioning and normal operation. This report introduces the overall layout of the beam diagnostic system and presents status of the system construction including a commissioning diagnostic station to characterize the accelerated beam from the superconducting LINAC.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP040
+Introduction and Test of the In-air Beam Diagnostics at the Komac Proton Irradiation Test Facility
+ 
+
+
+ 
+
+S.P. Yun, H.S. Kim, Y.M. Kim, H.-J. Kwon, Y.G. Song
+                       Korea Atomic Energy Research Institute (KAERI), Gyeongbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work has been supported through KOMAC (Korea Multi-purpose Accelerator Complex) operation fund of KAERI by MSIT (Ministry of Science and ICT)
+At KOMAC (Korea Multi-purpose Accelerator Complex), a 100-MeV proton linac has been started to operate since 2013. Nowadays, the constructions of the total six beamlines are completed. Among them, 20 MeV or 100 MeV proton beam has been provided to users through the three beamlines. The proton beam irradiation facilities could provide the proton beam and the available proton energy range is from 20 MeV to 100 MeV. The proton irradiation is performed in the air, therefore, the intensity and profile and position of provided proton beam should be measured in the air. For in-situ beam intensity and profile monitoring, in-air type ACCT, the large area transmission ionization chamber and multi-wire grid were adopted to the new experimental set-up for the proton beam irradiation test. As a reference dosimetry, the farmer-type ionization chamber and in-air type faraday-cup will be utilized for the fluence and dose measurement at the sample position. In this paper, we will introduce the operation status of the proton beam irradiation facility at KOMAC, the test results of in-air beam diagnostics tool and their lessons in these facilities will be given.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP042
+Beam Diagnostics for the Multi-MW High Energy Beam Transport Line of DONES
+200
+
+
+ 
+
+I. Podadera, A. Ibarra, D. Jiménez-Rey, J. Mollá, C. Oliver, R. Varela, V. Villamayor
+                       CIEMAT, Madrid, Spain
+O. Nomen, D. Sánchez-Herranz
+                       IREC, Sant Adria del Besos, Spain
+
+ 
+
+
+ 
+
+Funding: Work carried out within the framework of the EUROfusion Consortium and funded from the Euratom research and training programme 2014-2018 and 2019-2020 under grant agreement No 633053.
+In the frame of the material research for future fusion reactors, the construction of a simplified version of the IFMIF plant, the so-called DONES (Demo-Oriented Neutron Early Source), is under preparatory phase to allow materials testing with sufficient radiation damage for the new design of DEMO. The DONES accelerator system will deliver a deuteron beam at 40 MeV, 125 mA. The 5 MW beam will impact onto a lithium flow target to form an intense neutron source. One of the most critical tasks of the accelerator is the beam diagnostics along high energy beam transport, especially in the high radiation areas close to the lithium target. This instrumentation is essential to provide the relevant data for ensuring the high availability of the whole accelerator system, the beam characteristics and machine protection. Of outmost importance is the control of the beam characteristics impinging on the lithium curtain. Several challenging diagnostics are being designed and tested for that purpose. This contribution will report the present status of the design of the beam diagnostics, focusing on the high radiation areas of the high energy beam transport line.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP042
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP044
+Status of the Faraday Cups for the ESS linac
+205
+
+
+ 
+
+E.M. Donegani, C.S. Derrez, T.J. Grandsaert, T.J. Shea
+                       ESS, Lund, Sweden
+I. Bustinduy, A. Rodríguez Páramo
+                       ESS Bilbao, Zamudio, Spain
+
+ 
+
+
+ 
+
+The European Spallation Source (ESS) will be a 5 MW pulsed neutron source, relying on a 2 GeV linac delivering 2.86 ms long pulses with 14 Hz repetition rate. During the commissioning and the tuning phases of the ESS linac, four Faraday Cups (FC) serve as beam dumps and provide an absolute measurement of the proton beam current. This contribution summarizes the challenges in the design and production of all the FCs mainly requiring: - Thermo-mechanical analysis to keep heat load and mechanical stress below the mechanical limits; - Inclusion of an electron repeller to prevent the escape of secondary charged particles from the cup that would limit the accuracy of the current measurements; - Monte Carlo simulations to compute material activation, dose at contact and corresponding necessary shielding; - Design of high-resolution detection circuits for low current to fulfill the requirements on bandwidth, gain and noise. In addition, the performance of the LEBT FC during the commissioning of the ion source and LEBT is reported. The LEBT FC system is under continuous improvement and serves as benchmark for the protection from unwanted operation, and in case of actuator or cooling faults.
+
+ 
+
+
+
+
+
+
+Poster MOPP044 [1.121 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP044
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP045
+MAX IV Operations - Diagnostic Tools and Lessons Learned
+209
+
+
+ 
+
+B. Meirose, V. Abelin, B.E. Bolling, M. Brandin, R. Høier, A. Johansson, P. Lilja, J.S. Lundquist, S. Molloy, F. Persson, J.E. Petersson, R. Svärd
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+In this contribution, I present some of the new beam diagnostic and monitoring tools developed by the MAX IV Operations Group. In particular, new BPM and accelerator tunes visualization tools and other simple but useful applications we have developed, such as our RF System Monitor, are presented. I also briefly share our experience with the development of audible alarms, which help operators monitor various parameters of the machine and explain how the implementation of all these tools have improved accelerator operations at MAX IV.
+
+ 
+
+
+
+
+
+
+Poster MOPP045 [2.879 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP045
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP046
+Electron Beam Diagnostics for SLS2.0
+ 
+
+
+ 
+
+C. Ozkan Loch, R. Ischebeck, G.L. Orlandi, V. Schlott, A. Streun
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+In the near future the SLS storage ring will be upgraded for significantly higher brightness and coherence. Although the upgrade will require similar instrumentation to that already implemented for current SLS operation, significant changes in the number of devices, their specifications and their technical realizations will have to be made according to the specific requirements of SLS 2.0, using the newly available technologies and standardizations at PSI. This poster will provide an overview of the design, technical specifications, implementation and expected challenges of these systems. The beam position monitors and fast-orbit feedbacks are not included in this presentation.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP047
+Design and Development of Beam Diagnostics for an FFA-FFA Ring for ISIS-II Upgrade Studies
+214
+
+
+ 
+
+E. Yamakawa
+                       JAI, Oxford, United Kingdom
+S. Machida, A. Pertica, C.C. Wilcox
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+The ISIS-II project aims to deliver a new spallation neu- tron source by 2034, driven by a 1.2 GeV proton accelerator capable of delivering a beam power of 1.25 MW with a rep- etition rate of 50 Hz or higher. One of the options for this future accelerator is a Fixed Field alternating gradient Accelerator (FFA). To demonstrate the suitability of FFAs for use in a user facility such as ISIS, there is a plan to construct a smaller scale proof of concept machine: FETS-FFA. Developing beam diagnostics for the FETS-FFA ring presents a challenge due to a large orbit excursion and aperture ( 60 mm x 700 mm). Diagnostics must cover the full size of beam chamber whilst still providing measurement sensitivity and resolution comparable to that seen in the ISIS synchrotron. This paper presents the current design and development of beam diagnostics for the FETS-FFA ring, including finite element studies of Beam Position Monitors (BPMs) and Ionisation Profile Monitors (IPMs).
+
+ 
+
+
+
+
+
+
+Poster MOPP047 [9.355 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP047
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPP048
+Development of the Linac Extension Area 450-MeV Electron Test Beam Line at the Advanced  Photon Source*
+219
+
+
+ 
+
+W. Berg, J.C. Dooling, S.H. Lee, Y. Sun, A. Zholents
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: *Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-ACO2O6CH11357.
+A low-emittance electron beam line for accelerator-based R&D hardware experimentation and study of novel accelerator techniques is under development at the injection linac of the Advanced Photon Source (APS). The Linac Extension Area (LEA) beam line will operate at the full 400 MeV energy of the APS linac. The electron beam is generated from a photo-cathode (PC) electron gun delivering 300 pC of charge with a 3 ps, rms bunch length and normalized beam emittance of ~ 1 micron. The bunch length can be compressed to 150 fs in a flexible chicane at a beam energy of 150 MeV. The APS linac contains an extensive set of conventional and advanced beam diagnostics including a recently commissioned s-band transverse deflecting cavity. The low-emittance electron beam is transported to an independent experimental tunnel enclosure that contains the LEA beam line. Implementing the LEA beam line separate from the APS injector complex allows for on-demand access to the area to perform work without interrupting beam operations of the APS. We discuss the overall scheme of the existing linac beam delivery & diagnostic systems, and report the design of the LEA beam line and initial planned experiments.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOPP048
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

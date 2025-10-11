@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: THXD (Beam Instrumentation and Controls)
+
+
+THXD —  Beam Instrumentation and Controls   (11-Aug-22   08:00—10:00)
+Chair: J.C. Dooling, ANL, Lemont, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+THXD1
+Machine Learning for Improved Accelerator Health and Reliability
+ 
+
+
+ 
+
+Y.A. Yucesan
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+This talk will summarize the effort by the community in using machine learning for improved accelerator operations. This talk will also discuss efforts to implement a machine learning framework to improve accelerator reliability at the Spallation Neutron Source. It will describe new prognostics algorithms for detecting beam faults, classification of the fault sources, and efforts to integrate the algorithms into operations. it will also describe additional efforts to utilize ML for health and predictive prognostics on critical accelerator hardware and targets.
+
+ 
+
+
+
+
+
+
+Slides THXD1 [9.659 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXD2
+6D Phase Space Diagnostics Based on Adaptive Tuning of the Latent Space of Encoder-Decoder Convolutional Neural Networks
+837
+
+
+ 
+
+A. Scheinker
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+We present a general approach to 6D phase space diagnostics for charged particle beams based on adaptively tuning the low-dimensional latent space of generative encoder-decoder convolutional neural networks (CNN). Our approach first trains the CNN based on supervised learning to learn the correlations and physics constrains within a given accelerator system. The input of the CNN is a high dimensional collection of 2D phase space projections of the beam at the accelerator entrance together with a vector of accelerator parameters such as magnet and RF settings. The inputs are squeezed down to a low-dimensional latent space from which we generate the output in the form of projections of the beam’s 6D phase space at various accelerator locations. After training the CNN is applied in an unsupervised adaptive manner by comparing a subset of the output predictions to available measurements with the error guiding feedback directly in the low-dimensional latent space. We show that our approach is robust to unseen time-variation of the input beam and accelerator parameters and a study of the robustness of the method to go beyond the span of the training data.
+
+ 
+
+
+
+
+
+
+Slides THXD2 [19.086 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THXD2
+
+ 
+
+
+About •
+Received ※ 18 July 2022 — Revised ※ 05 August 2022 — Accepted ※ 08 August 2022 — Issue date ※ 09 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXD3
+Improved Multi-Dimensional Bunch Shape Monitor
+ 
+
+
+ 
+
+S.V. Kutsaev, R.B. Agustsson, A.C. Araujo Martinezpresenter, A. Moro, K.V. Taletski
+                       RadiaBeam, Santa Monica, California, USA
+A.V. Aleksandrov
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy , Office of Basic Energy Sciences, under contract DE-SC0020590.
+RadiaBeam is developing the Bunch Shape Monitor (BSM) with improved performance that incorporates three major innovations. First, the collection efficiency is improved by adding a focusing field between the wire and the entrance slit. Second, an improvement of the measurement speed is achieved by sampling longitudinal profiles of multiple energy slices simultaneously. Finally, the design is augmented with both a movable wire and a microwave deflecting cavity to add functionality and enable measuring the transverse profile as a wire scanner. In this paper we present the design of the BSM and its sub-systems as well as the initial test results of the new focusing system at SNS beamline.
+
+ 
+
+
+
+
+
+
+Slides THXD3 [4.308 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXD4
+Online Accelerator Tuning with Adaptive Bayesian Optimization
+842
+
+
+ 
+
+N. Kuklev, M. Borland, G.I. Fystro, H. Shang, Y. Sun
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: The work is supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+Particle accelerators require continuous adjustment to maintain beam quality. At the Advanced Photon Source (APS) this is accomplished using a mix of operator-controlled and automated tools. To improve the latter, we explored the use of machine learning (ML) at the APS injector complex. The core approach we chose was Bayesian optimization (BO), which is well suited for sparse data tasks. To enable long-term online use, we modified BO into adaptive Bayesian optimization (ABO) though auxiliary models of device drift, physics-informed quality and constraint weights, time-biased data subsampling, digital twin retraining, and other approaches. ABO allowed for compensation of changes in inputs and objectives without discarding previous data. Benchmarks showed better ABO performance in several simulated and experimental cases. To integrate ABO into the operational workflow, we developed a Python command line utility, pysddsoptimize, that is compatible with existing Tcl/Tk tools and the SDDS data format. This allowed for fast implementation, debugging, and benchmarking. Our results are an encouraging step for the wider adoption of ML at APS.
+
+ 
+
+
+
+
+
+
+Slides THXD4 [4.797 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THXD4
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 08 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXD5
+Machine Learning-Based Tuning of Control Parameters for LLRF System of Superconducting Cavities
+ 
+
+
+ 
+
+J.A. Diaz Cruz, S. Biedron
+                       UNM-ECE, Albuquerque, USA
+J.A. Diaz Cruz
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The multiple systems involved in the operation of particle accelerators use diverse control systems to reach the desired operating point for the machine. Each system needs to tune several control parameters to achieve the required performance. Low-Level RF (LLRF) systems can be implemented using proportional-integral (PI) feedback loops, whose gains need to be optimized. In this paper, we explore Machine Learning (ML) as a tool to improve a traditional LLRF controller by tuning its gains using a Neural Network(NN).
+
+ 
+
+
+
+
+
+
+Slides THXD5 [0.970 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXD6
+A Quasi-Optical Beam Position Monitor
+846
+
+
+ 
+
+S.V. Kuzikov
+                       Euclid TechLabs, Solon, Ohio, USA
+
+ 
+
+
+ 
+
+There is a strong demand for non-destructive electron Beam Position Monitors (BPMs) for non-perturbative diagnostics of the electron beam position. Challenges are related to the shortness of the electron beam and the noisy chamber environment that are typical for modern RF-driven and plasma-driven accelerators. We propose using a pair of identical high-quality quasi-optical resonators attached to opposite sides of the beam pipe. The resonators can introduce Photonic Band Gap (BPM) structures. These open resonators sustain very low numbers of high-quality modes. We intend to operate at the lowest mode among the others that are capable of being excited by the bunches. The mentioned mode has a coupling coefficient with the beam that depends on the distance between the bunch and the coupling hole. The lower this distance, the higher the coupling. Therefore, comparing the pick-up signals of both resonators with an oscilloscope, we can determine the beam position.
+
+ 
+
+
+
+
+
+
+Slides THXD6 [3.745 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THXD6
+
+ 
+
+
+About •
+Received ※ 25 July 2022 — Accepted ※ 06 August 2022 — Issue date ※ 27 September 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

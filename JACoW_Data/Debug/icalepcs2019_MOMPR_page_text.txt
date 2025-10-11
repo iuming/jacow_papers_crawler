@@ -1,0 +1,533 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: MOMPR (Mini-Oral)
+
+
+MOMPR —  Mini-Oral   (07-Oct-19   16:30—17:00)
+Chair: A.J. Venter, SKA Organisation, Macclesfield, United Kingdom
+
+
+Paper
+Title
+Page
+
+
+
+MOMPR002
+Improving User Information by Interfacing the Slow Control’s Log and Alarm Systems to a Flexible Chat Platform
+152
+
+
+MOPHA122
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Ritzert
+                       Heidelberg University, Heidelberg, Germany
+
+ 
+
+
+ 
+
+Research groups operating large experiments are often spread out around the globe, so that it can be a challenge to stay informed about current operations. We have therefore developed a solution to integrate a slow control system’s alarm and logging systems with the chat system used for communication between experimenters. This integration is not intended to replace a control screen containing the same information, but offers additional possibilities: - Instead of having to open the control system’s displays, which might involve setup work (VPN, remote desktop connections, …), a web interface or an app can be used to track important events in the system. - Messages can easily be filtered and routed to different recipients (individual persons or chat rooms). - Messages can be annotated and commented on. The system presented uses Apache Camel to forward messages received via JMS to Rocket. Chat. Since no binding to Rocket. Chat was available, this interface has been implemented. On the sending side, a C++ logging library that integrates with EPICS IOCs and interfaces with JMS has been designed.
+For the Belle II PXD collaboration.
+
+ 
+
+
+
+
+
+
+Poster MOMPR002 [1.194 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPR002
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPR003
+Data Visualization With Data Browser Software
+155
+
+
+MOPHA125
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+K. Saintin
+                       CEA-IRFU, Gif-sur-Yvette, France
+R. Girardot
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+Scientific facilities need to visualize a large amount of data through several dedicated applications. They can monitor variables from a PLC, visualize data acquisition or browse them offline. Thus, an intuitive GUI is necessary to handle multiple data sources. In 2012, SOLEIL** computing team started the Data browser development. It uses modular and extendable frameworks on which several institutes collaborated: - CDMA (Common Data Model Access) initiated by ANSTO**** and maintained by SOLEIL developers, unifies the access to data regardless of its physical container (files, databases) or its logical organization. - COMETE (COMmunity of Extendable Toolkit for Experiment) framework, initiated by SOLEIL, provides data visualization widgets and unifies the way there are connected to the data regardless of its source. Since then, SOLEIL developed several plugins for Data browser: HDF/Nexus, Tango*****. Recently, IRFU* control software team decided to use this software for EPICS*** data and to collaborate with SOLEIL. Data browser integrates new EPICS plugins: Channel Access, Archiver Appliance.
+*IRFU, http://irfu.cea.fr  **SOLEIL, https://www.synchrotron-soleil.fr  ***EPICS, https://epics-controls.org  ****ANSTO, https://www.ansto.gov.au *****Tango, https://www.tango-controls.org
+
+ 
+
+
+
+
+
+
+Slides MOMPR003 [2.230 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPR003
+
+ 
+
+
+About •
+paper received ※ 10 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPR004
+Control and Analysis Software Development at the European XFEL
+158
+
+
+MOPHA126
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+H. Santos, M. Beg, M. Bergemann, V. Bondar, S. Brockhauserpresenter, C. Carinan, R. Costa, F. Dall’Antonia, C. Danilevski, W. Ehsan, S.G. Esenov, R. Fabbri, H. Fangohr, G. Flucke, D. Fulla Marsa, G. Giovanetti, D. Goeries, S. Hauf, D.G. Hickin, T. Jarosiewicz, E. Kamil, Y. Kirienko, A. Klimovskaia, T.A. Kluyver, D. Mamchyk, T. Michelat, I. Mohacsi, A. Parenti, R. Rosca, D.B. Rück, R. Schaffer, A. Silenzi, M. Spirzewski, S. Trojanowski, C. Youngman, J. Zhu
+                       EuXFEL, Schenefeld, Germany
+S. Brockhauserpresenter
+                       BRC, Szeged, Hungary
+H. Fangohr
+                       University of Southampton, Southampton, United Kingdom
+
+ 
+
+
+ 
+
+Agile Project Management (Agile PM), coupled with the DevOps concept, has been worked out as a fundamental approach in a highly uncertain and unpredictable environment to achieve mature software development and to efficiently support concurrent operation*. At the European XFEL**, Agile PM and DevOps have been applied to provide adaptability and efficiency in the development and operation of its control system: Karabo***. In this context, the Control and Analysis Software Group (CAS) has developed in-house a management platform composed of the following macro-artefacts: (1) Agile Process; (2) Release Planning; (3) Testing Infrastructure; (4) Roll-out and Deployment Strategy; (5) Automated tools for Monitoring Control Points (i.e. Configuration Items****) and; (6) Incident Management*****. The software engineering management platform is also integrated with User Relationship Management to establish and maintain a proper feedback loop with our scientists who set up the requirements. This article aims to briefly describe the above points and show how agile project management has guided the software strategy, development and operation of the Karabo control system at the European XFEL.
+*Toward Project Management 2.0  **The European X-ray Free Electron Laser technical design report ***Karabo:An integrated software framework combining control, data management, and scientific comp.
+
+ 
+
+
+
+
+
+
+Poster MOMPR004 [0.871 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPR004
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPR005
+Development of a New Data Acquisition System for a Photon Counting Detector Prototype at SOLEIL Synchrotron
+162
+
+
+MOPHA144
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+G. Thibaux, Y.-M. Abiven, D. Bachiller-Perea, J. Bisou, A. Dawiec, A. Jarnac, B. Kanoute, F. Langlois, C. Laulhé, C. Menneglier, A. Noureddine, F. Orsini, Y. Sergent
+                       SOLEIL, Gif-sur-Yvette, France
+P. Grybos, A. Koziol, P. Maj
+                       AGH University of Science and Technology, Kraków, Poland
+C. Laulhe
+                       Université Paris-Saclay, Saint-Aubin, France
+
+ 
+
+
+ 
+
+Time-resolved pump-probe experiments at SOLEIL Synchrotron (France) have motivated the development of a new and fast photon counting camera prototype. The core of the camera is a hybrid pixel detector, based on the UFXC32k readout chips bump-bonded to a silicon sensor. This detector exhibits promising performances with very fast readout time, high dynamic range, extended count rate linearity and optimized X-ray detection in the energy range 5-15 keV. In close collaboration with CRISTAL beamline, SOLEIL’s Detector, Electronics and Software Groups carried out a common R&D project to design and realize a 2-chips camera prototype with a high-speed data acquisition system. The system has been fully integrated into Tango and Lima data acquisition framework used at SOLEIL. The development and first experimental results will be presented in this paper.
+
+ 
+
+
+
+
+
+
+Poster MOMPR005 [1.832 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPR005
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPR006
+Performance of the ALICE Luminosity Leveling Software Architecture in the Pb-Pb Physics Run
+167
+
+
+MOPHA150
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+G. Valentino
+                       University of Malta, Information and Communication Technology, Msida, Malta
+G. De Cataldo, M. Hostettler
+                       CERN, Geneva, Switzerland
+A. Franco
+                       INFN-Bari, Bari, Italy
+O.B. Visnyei
+                       KFKI, Budapest, Hungary
+
+ 
+
+
+ 
+
+Luminosity leveling is performed in the ALICE experiment of the Large Hadron Collider (LHC) in order to limit the event pile-up probability, and ensure a safe operation for the detectors. It will be even more important during Run 3 when 50 KHz Pb ion-Pb ion (Pb-Pb) collisions will be delivered in IP2. On the ALICE side, it is handled by the ALICE-LHC Interface project, which also ensures an online data exchange between ALICE and the LHC. An automated luminosity leveling algorithm was developed for the proton-proton physics run, and was also deployed for the Pb-Pb run with some minor changes following experience gained. The algorithm is implemented in the SIMATIC WinCC SCADA environment, and determines the leveling step from measured beam parameters received from the LHC, and the luminosity recorded by ALICE. In this paper, the software architecture of the luminosity leveling software is presented, and the performance achieved during the Pb-Pb run and Van der Meer scans is discussed.
+
+ 
+
+
+
+
+
+
+Poster MOMPR006 [3.292 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPR006
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPR007
+Scalable High Demand Analytics Environments with Heterogeneous Clouds
+171
+
+
+MOPHA161
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+K. Woods, R.J. Clegg, R. Millward
+                       Tessella, Abingdon, United Kingdom
+F. Barnsely, C. Jones
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+Funding: UK Research and Innovation - Science & Technology Facilities Council (UK SBS IT18160)
+The Ada Lovelace Centre (ALC) at STFC provides on-demand, data analysis, interpretation and analytics services to scientists using UK research facilities. ALC and Tessella have built software systems to scale analysis environments to handle peaks and troughs in demand as well as to reduce latency by provision environments closer to scientists around the world. The systems can automatically provision infrastructure and supporting systems within compute resources around the world and in different cloud types (including commercial providers). The system then uses analytics to dynamically provision and configure virtual machines in various locations ahead of demand so that users experience as little delay as possible. In this poster, we report on the architecture and complex software engineering used to automatically scale analysis environments to heterogeneous clouds, make them secure and easy to use. We then discuss how analytics was used to create intelligent systems in order to allow a relatively small team to focus on innovation rather than operations.
+
+ 
+
+
+
+
+
+
+Poster MOMPR007 [1.650 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPR007
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPR008
+SharePoint for HEPS Technical Systems and Project Management
+175
+
+
+MOPHA162
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+X.H. Wu, L. Bai, C.P. Chu
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+High Energy Photon Source is the latest planned synchrotron light source in China which is designed for ultra-low emittance and high brightness. The accelerator and beamlines contains tens of thousands of devices which require systematic management. It is also necessary to capture project management information systematically. HEPS chooses the Microsoft SharePoint as the document tool for the project and all technical systems. Additionally, Microsoft Project Server on top of SharePoint is used for the project management. Utilizing the SharePoint and Project software can facilitate a lot of daily work for the HEPS project. This paper describes the SharePoint and Project setup and various applications been developed so far.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPR008
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPR009
+Prototype Design for Upgrading East Safety and Interlock System
+179
+
+
+MOPHA168
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Z. Zhang, Z. Ji, Y. Wang, B. Xiao
+                       ASIPP, Hefei, People’s Republic of China
+F. Xia
+                       Southwestern Institute of Physics, Chengdu, Sichuan, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: This work is supported by the National Key R&D Program of China under Grant No.2017YFE0300504, 2018YFE0302104.
+The national project of experimental advanced superconducting tokamak (EAST) is an important part of the fusion development stratagem of China, which is the first fully superconducting tokamak with a non-circle cross-section of the vacuum vessel in the world. The safety and interlock system (SIS) is in charge of the supervision and control of all the EAST components involved in the protection of human and tokamak from potential accidents. A prototype for upgrading EAST SIS has been designed. This paper presents EAST machine and human protection mechanism and the architecture of the upgrading safety and interlock system.
+
+ 
+
+
+
+
+
+
+Poster MOMPR009 [1.678 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPR009
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

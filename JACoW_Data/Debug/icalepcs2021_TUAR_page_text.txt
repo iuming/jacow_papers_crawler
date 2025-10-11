@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: TUAR (Control System Upgrades II)
+
+
+TUAR —  Control System Upgrades II   (19-Oct-21   12:30—13:15)
+Chair: A.J. Rose, DLS, Oxfordshire, United Kingdom
+
+
+
+TUAR
+   Video of full session  »Control System Upgrades II« (total time: 0:43:52 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+TUAR01
+Upgrade of the CMS ECAL Detector Control System During the CERN Large Hadron Collider Long Shutdown II
+297
+
+
+ 
+
+L. Marchese, D.R.S. Di Calafiori, G. Dissertori, L. Djambazov, R. Jiménez Estupiñán, W. Lustermann
+                       ETH, Zurich, Switzerland
+
+ 
+
+
+ 
+
+As part of the Compact Muon Solenoid (CMS) experiment, the Electromagnetic Calorimeter (ECAL) Detector Control System (DCS) is undergoing a large software and hardware upgrade during the second long shutdown (LS2) of the CERN Large Hadron Collider (LHC). The DCS software running under the WinCC Open Architecture (OA) platform, required fundamental changes in the architecture as well as several other upgrades on the hardware side. The extension of the current long shutdown (2019-2021) is offering a unique opportunity to perform more updates, improve the detector safety and robustness during operations and achieve new control features with an increased modularity of the software architecture. Starting from the main activities of the ECAL DCS upgrade plan, we present the updated agenda for the LS2. This covers several aspects such as the different software migrations of the DCS, the consolidation of toolkits as well as some other improvements preceding the major ECAL upgrade foreseen for the next long shutdown (2025-2026).
+
+ 
+
+
+
+
+
+
+Slides TUAR01 [1.966 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUAR01
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 20 October 2021       
+Accepted ※ 30 November 2021        Issue date ※ 22 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAR02
+The Phase-1 Upgrade of the ATLAS Level-1 Calorimeter Trigger
+ 
+
+
+ 
+
+A.G. Kazarov
+                       PNPI, Gatchina, Leningrad District, Russia
+T. Mkrtchyanpresenter
+                       KIP, Heidelberg, Germany
+
+ 
+
+
+ 
+
+The ATLAS level-1 calorimeter trigger (L1Calo) is a hardware-based system that identifies events containing calorimeter-based physics objects, including electrons, photons, taus, jets, and missing transverse energy. In preparation for Run 3, when the LHC will run at higher energy and instantaneous luminosity, L1Calo is currently implementing a significant programme of planned upgrades. The existing hardware will be replaced by a new system of FPGA-based feature extractor (FEX) modules, which will process finer-granularity information from the calorimeters and execute more sophisticated algorithms to identify physics objects; these upgrades will permit better performance in a challenging high-luminosity and high-pileup environment. This talk will introduce the features of the upgraded L1Calo system and the plans for production, installation, and commissioning. In addition, the expected performance of L1Calo in Run 3 will be discussed.
+
+ 
+
+
+
+
+
+
+Slides TUAR02 [1.741 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAR03
+The Control System of the Linac-200 Electron Accelerator at JINR
+302
+
+
+ 
+
+A. Trifonov, M. Gostkin, V.V. Kobets, M.A. Nozdrin, A. Zhemchugov, P.P. Zhuravlyov
+                       JINR, Dubna, Moscow Region, Russia
+
+ 
+
+
+ 
+
+The linear accelerator Linac-200 at JINR is constructed to provide electron test beams with energy up to 200 MeV to carry out particle detector R&D, to perform studies of advanced methods of beam diagnostics, and to work as an irradiation facility for applied research. While the accelerator largely reuses refurbished parts of the MEA accelerator from NIKHEF, the accelerator control system is completely redesigned. A new distributed control system has been developed using the Tango toolkit. The key subsystems of the accelerator (including focusing and steering magnets control, vacuum control system, synchronization system, electron gun control system, precise temperature regulation system) were redesigned or deeply modernized. This report presents the design and the current status of the control system of the Linac-200 machine.
+
+ 
+
+
+
+
+
+
+Slides TUAR03 [1.449 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUAR03
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 16 October 2021       
+Accepted ※ 22 December 2021        Issue date ※ 27 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

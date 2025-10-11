@@ -1,0 +1,240 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ERL2019 - Table of Session: FRCOXBS (WG2: ERL beam dynamics and instrumentation)
+
+
+FRCOXBS —  WG2: ERL beam dynamics and instrumentation   (20-Sep-19   10:45—12:30)
+Chair: T. Kamps, HZB, Berlin, Germany
+
+
+Paper
+Title
+Page
+
+
+
+FRCOXBS01
+Electronic Modulation of the FEL-Oscillator Radiation Power Driven by ERL
+ 
+
+
+ 
+
+O.A. Shevchenko, E.V. Bykov, Ya.V. Getmanov, S.S. Serednyakov, S.V. Tararyshkin
+                       BINP SB RAS, Novosibirsk, Russia
+M.V. Fedin, S.L. Veber
+                       International Tomography Center, SB RAS, Novosibirsk, Russia
+Ya.V. Getmanov, S.S. Serednyakov
+                       NSU, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Funding: RSF grant no. 17-13-01412
+FEL oscillators usually operate in CW mode and produce periodic train of radiation pulses but some user experiments require modulation of radiation power. Conventional way to obtain this modulation is using of mechanical shutters however it cannot provide very short switching time and may lead to decreasing of the radiation beam quality. Another way could be based on the electron beam current modulation but it cannot be used in the ERL. We propose a simple way of fast control of the FEL lasing which is based on periodic phase shift of electron bunches with respect to radiation stored in optical cavity. The phase shift required to suppress lasing is relatively small and it does not change significantly repetition rate. This approach has been realized at NovoFEL facility. It allows to generate radiation macropulses of desirable length down to several microseconds (limited by quality factor of optical cavity and FEL gain) which can be synchronized with external trigger. We present detailed description of electronic power modulation scheme and discuss the results of experiments.
+
+ 
+
+
+
+
+
+
+Slides FRCOXBS01 [7.025 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRCOXBS03
+Beam Dynamics Simulations for the Twofold ERL Mode at the S-DALINAC*
+155
+
+
+ 
+
+F. Schließmann, M. Arnold, M. Dutine, J. Pforr, N. Pietralla, M. Steinhorst
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: *Work supported by DFG through GRK 2128 and BMBF through grant No. 05H18RDRB2
+The recirculating superconducting electron accelerator S-DALINAC [1] at TU Darmstadt is capable to run as a onefold or twofold Energy Recovery Linac (ERL) with a maximum energy of approximately 34 or 68 MeV in ERL mode, respectively. Since the maximum kinetic energy for the twofold ERL mode at injection is less than 8 MeV (v/c<0.9982) and since several multi-cell cavities designed for v/c=1 are used in the main accelerator, the electrons suffer from the effect of phase slippage. Therefore, beam dynamics simulations for the 6D phase space were performed in order to provide a sufficient beam guiding.
+[1] N. Pietralla, Nuclear Physics News, Vol. 28, No. 2, 4 (2018).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ERL2019-FRCOXBS03
+
+ 
+
+
+About •
+paper received ※ 17 October 2019       paper accepted ※ 01 November 2019        issue date ※ 24 June 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRCOXBS04
+Status of the Control System for the Energy Recovery Linac BERLinPro at HZB
+159
+
+
+ 
+
+T. Birke, P. Echevarria, D. Eichel, R. Fleischhauer, J.G. Hwang, G. Klemz, R. Müller, C. Schröder, E. Suljoti, A. Ushakov
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+BERLinPro is an energy recovery linac (ERL) demonstrator project built at HZB. It features CW SRF technology for the low emittance, high brightness gun, the booster module and the recovery linac. Construction and civil engineering are mostly completed. Synchronized with the device integration the EPICS based control system is being set-up for testing, commissioning and finally operation. In the warm part of the accelerator technology is used that is already operational at BESSY and MLS (e.g. CAN-bus and PLC/OPCUA). New implementations like the machine protection system and novel major subsystems (e.g. LLRF, Cryo-Controls, photo cathode laser) need to be integrated. The first RF transmitters have been tested and commissioned. Around the time of this workshop the first segment of the accelerator is scheduled to become online. For commissioning and operation of the facility the standard set of EPICS tools form the back-bone. A set of generic python applications already developed at BESSY/MLS will be adapted to the specifics of BERLinPro. Scope and current project status are described in this paper.
+
+ 
+
+
+
+
+
+
+Slides FRCOXBS04 [11.021 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ERL2019-FRCOXBS04
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 11 November 2019        issue date ※ 24 June 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRCOXBS05
+Adjusting BERLinPro Optics to Commissioning Needs
+165
+
+
+ 
+
+B.C. Kuske, M. McAteer
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by German Bundesministerium für Bildung und Forschung, Land Berlin and grants of Helmholtz Association
+BERLinPro is an Energy Recovery Linac (ERL) project currently being set up at HZB, Berlin. During the turn of the project, many adaptations of the optics to changing hardware realities were necessary. To name only one, commissioning of the recirculator will now be realized with the superconducting linac module fabricated for the Mainz ERL project MESA, as the BERLinPro linac is delayed. The Mainz linac will supply roughly 60% of the energy planned for the BERLinPro linac module and will be limited by higher order modes in the cavities to few mA of current. While the adapted optics shows similar parameters as the original 50MeV optics, studies of longitudinal space charge and coherent synchrotron radiation show that the energy leads to large emittance blow up due toμbunching. Furthermore, preparations for commissioning with gun fields much lower than the original 30MV/m in the 1.4 cell SRF gun are introduced and according optics are presented.
+
+ 
+
+
+
+
+
+
+Slides FRCOXBS05 [9.766 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ERL2019-FRCOXBS05
+
+ 
+
+
+About •
+paper received ※ 19 September 2019       paper accepted ※ 04 November 2019        issue date ※ 24 June 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

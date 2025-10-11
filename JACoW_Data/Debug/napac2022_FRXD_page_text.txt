@@ -1,0 +1,338 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: FRXD (Beam Dynamics)
+
+
+FRXD —  Beam Dynamics   (12-Aug-22   08:00—10:00)
+Chair: J.A. Diaz Cruz, UNM-ECE, Albuquerque, USA
+
+
+Paper
+Title
+Page
+
+
+
+FRXD1
+Demonstration of Optical Stochastic Cooling in an Electron Storage Ring
+ 
+
+
+ 
+
+J.D. Jarvis, D.R. Broemmelsiek, K. Carlson, D.R. Edstrom, V.A. Lebedev, S. Nagaitsev, H. Piekarz, A.L. Romanov, J. Ruan, J.K. Santucci, G. Stancari, A. Valishev
+                       Fermilab, Batavia, Illinois, USA
+S. Chattopadhyay, A.J. Dick, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+I. Lobach
+                       University of Chicago, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Optical stochastic cooling (OSC), proposed nearly thirty years ago, replaces the conventional microwave elements of stochastic cooling (SC) with optical-frequency analogs, such as undulators, optical lenses and optical amplifiers. Here we discuss the first experimental observation of OSC, which was performed at the Fermi National Accelerator Laboratory’s Integrable Optics Test Accelerator (IOTA) with 100-MeV electrons and a radiation wavelength of 950 nm. The experiment employed a non-amplified configuration of OSC and achieved a longitudinal damping rate close to one order of magnitude larger than the beam’s natural damping due to synchrotron radiation. The integrated system demonstrated sub-femtosecond stability and a bandwidth of ~20 THz, a factor of ~2000-times higher than conventional microwave SC systems. Coupling to the transverse planes enabled simultaneous cooling of the beam in all degrees of freedom. This first demonstration of SC at optical frequencies serves as a foundation for more advanced experiments with high-gain optical amplification and advances opportunities for future operational OSC systems at colliders and other accelerator facilities.
+
+ 
+
+
+
+
+
+
+Slides FRXD1 [32.041 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRXD2
+Experimental Demonstration of Multi-Function Longitudinal Beam Phase-Space Manipulation via Double Emittance-Exchange
+ 
+
+
+ 
+
+J. Seok
+                       ANL, Lemont, Illinois, USA
+J. Seok
+                       UNIST, Ulsan, Republic of Korea
+
+ 
+
+
+ 
+
+Beam manipulation in the longitudinal direction is not straightforward due to the speed and duration of the bunch. Longitudinal manipulation usually require dedicated radio-frequency (RF) cavities and anisochronous beamlines (e.g., chicane) to control beam’s time-energy correlation (called chirp). In this talk, a new method using a double emittance exchange (DEEX) beamline was demonstrated for the first time at the Argonne Wakefield Accelerator Facility. It allows control of the longitudinal phase space using relatively simple transverse manipulation techniques. This method enables various longitudinal manipulations such as tunable bunch compression, longitudinal chirp control, and nonlinearity compensation in a remarkably flexible manner. We report proof-of-principle experiment results demonstrating three key functions of the DEEX bunch compressor.
+
+ 
+
+
+
+
+
+
+Slides FRXD2 [3.396 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRXD3
+Measurements of the Five-Dimensional Phase Space Distribution of an Intense Ion Beam
+910
+
+
+ 
+
+A.M. Hoover, A.V. Aleksandrov, S.M. Cousineau, K.J. Ruisard, A.P. Zhukov
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the U.S. Department of Energy, Office of Science, Office of High Energy Physics; authored by UT- Battelle, LLC under Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy.
+No simulation of intense beam transport has accurately reproduced measurements at the level of beam halo. One potential explanation of this discrepancy is a lack of knowledge of the initial distribution of particles in six-dimensional (6D) phase space. A direct 6D measurement of an ion beam was recently performed at the Spallation Neutron Source (SNS) Beam Test Facility (BTF), revealing nonlinear transverse-longitudinal correlations in the beam core that affect downstream evolution. Unfortunately, direct 6D measurements are limited in resolution and dynamic range; here, we discuss the use of three slits and one screen to measure a 5D projection of the 6D phase space distribution, overcoming these limitations at the cost of one dimension. We examine the measured 5D distribution before and after transport through the BTF and compare to particle-in-cell simulations. We also discuss the possibility of reconstructing the 6D distribution from 5D and 4D projections.
+
+ 
+
+
+
+
+
+
+Slides FRXD3 [4.078 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-FRXD3
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRXD4
+Suppressing the Microbunching Instability at ATF using Laser Assisted Bunch Compression
+914
+
+
+ 
+
+Q.R. Marksteiner, P.M. Anisimov, B.E. Carlsten, G. Latour, E.I. Simakov, H. Xu
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: This project was supported by funding from the Los Alamos National Laboratory Laboratory Research and Development program.
+The microbunching instability in linear accelerators can significantly increase the energy spread of an electron beam. The instability can be suppressed by artificially increasing the random energy spread of an electron beam, but this leads to unacceptably high energy spreads for future XFEL systems. One possibility of suppressing this instability is to use laser assisted bunch compression (LABC) instead of the second chicane in an XFEL system, thereby eliminating the cascaded chicane effect that magnifies the microbunching instability. An experiment is proposed at ATF to test this concept, and numerical simulations of the experiment are shown.
+
+ 
+
+
+
+
+
+
+Slides FRXD4 [4.629 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-FRXD4
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 28 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRXD5
+Nonlinearly Shaped Pulses at LCLS-II
+ 
+
+
+ 
+
+N.R. Neveu, S. Carbajo, Y. Ding, J.P. Duris, R.A. Lemons, A. Marinelli, J. Tang
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: DOE
+With the goal of improving emittance and longitudinal phase space of the electron beam, we consider nonlinear shaping of the temporal laser profile at the cathode. The operational Ultraviolet (UV) optics installed at the LCLS and LCLS-II currently produce Gaussian shaped pulses. Our simulations show the potential to reduce emittance and increase peak brightness when comparing nonlinear UV laser shapes on the cathode to baseline Gaussian pulses at the cathode.
+
+ 
+
+
+
+
+
+
+Slides FRXD5 [3.597 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRXD6
+Bunch Length Measurements at the CEBAF Injector at 130 kV
+917
+
+
+ 
+
+S. Pokharel, G.A. Krafft
+                       ODU, Norfolk, Virginia, USA
+M.W. Bruker, J.M. Grames, A.S. Hofler, R. Kazimi, G.A. Krafft, S. Zhang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177.
+In this work, we investigated the evolution in bunch length of beams through the CEBAF injector for low to high charge per bunch. Using the General Particle Tracer (GPT), we have simulated the beams through the beamline of the CEBAF injector and analyzed the beam to get the bunch lengths at the location of chopper. We performed these simulations with the existing injector using a 130 kV gun voltage. Finally, we describe measurements to validate these simulations. The measurements have been done using chopper scanning technique for two injector laser drive frequency modes: one with 500 MHz, and another with 250 MHz.
+
+ 
+
+
+
+
+
+
+Slides FRXD6 [0.800 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-FRXD6
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

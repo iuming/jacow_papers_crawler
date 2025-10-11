@@ -1,0 +1,677 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: TUPAC (Poster Session)
+
+
+TUPAC —  Poster Session   (01-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPAC01
+Kinetic Theory of Halo Formation in Charged Particle Beams
+448
+
+
+ 
+
+W. Simeoni, F.B. Rizzato
+                       IF-UFRGS, Porto Alegre, Brazil
+
+ 
+
+
+ 
+
+The proceeding proposes a derivation of the Vlasov-Poisson equation where the distribution function is splitted in a main part standing for the core and a fluctuating part standing for the halo, with which core-halo dynamics is analysed.
+
+ 
+
+
+ 
+
+
+
+TUPAC02
+Beam Dynamics Studies of a 30 MeV Standing Wave Electron Linac
+451
+
+
+ 
+
+R. Dash
+                       Homi Bhbha National Institute (HBNI), DAE, Mumbai, India
+K.C. Mittal, J. Mondal, A.S. Sharma
+                       BARC, Mumbai, India
+
+ 
+
+
+ 
+
+Funding: One of the author (R. Dash) would like to thank Department of Atomic Energy, India (DAE) for all kind of assistances and support under DAE Graduate Fellowship Scheme
+For a high quality beam delivery to the users in application areas like material science and neutron spectroscopy, it is very important for the linac to keep the growth of transverse emittance and self field effects a minimum in order to limit the radioactivity and the cost of the linac itself and increase the transmission efficiency. This paper presents the results of electron beam tracking for a 30 MeV standing wave electron linac. This is a general purpose facility for neutron generation and will produce 1012-1013 n/sec for measurement of neutron cross-section of (n, gamma), (n, xn) and (n, f) reactions. The effects of input beam size, divergence, field gradient and space charge effect on the beam quality have been studied with ASTRA beam dynamics code. This beam dynamics study explores the optimized beam parameters and beam quality for the linac operation
+*K. Floettmann, ASTRA  **K. Floettmann, Some basic features of the beam emittance, Phys. Rev.ST Accel. Beams.6(2003)034202 ***M. Reiser, Theory and Design of Charged Particle Beams, Willey, 2008
+
+ 
+
+
+ 
+
+
+
+TUPAC04
+Pre-separator Design of the In-flight Fragment Separator Using High-power Beam
+454
+
+
+ 
+
+J.Y. Kim, D.G. Kim, E.H. Kim, J.-W. Kim, M. Kim, M. Kim, C.C. Yun
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+In-flight fragment separator of the rare isotope science project (RISP) is a main device to produce isotope beams for nuclear science research and applications. The separator is divided into pre and main stages. The pre-separator contains a thin target to produce the isotope beam and beam dump to remove unreacted primary beam. The maximum primary beam power is 400 kW. As a result, radiation level is very high in the target area and some of the magnets will utilize high-Tc superconductor coils operating at 20-50 K to efficiently remove the radiation heat deposited on the coil. A major function of the pre-separator is to remove the primary beam, which is complicated by different charge states produced when the primary beam passes through the target and wedge-shaped energy degrader. Some detailed calculations in beam optics and on the layout of the major separator components have been performed using GICOSY and LISE++ considering contaminant isotope beams due to nuclear reactions. Simulation results and some prototyping works will be presented.
+
+ 
+
+
+ 
+
+
+
+TUPAC06
+Horizontal Dispersion Studies for the CERN Proton Synchrotron Booster Rings
+457
+
+
+ 
+
+V. Raginel, S.S. Gilardoni, B. Mikulec
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: CERN
+In order to confirm the value of horizontal dispersion of the CERN Proton Synchrotron Booster (PSB) given by the MADX model, the horizontal dispersion has been measured using pick-ups and wire scanners on its four rings. The dispersion value of the PSB rings is of interest for example as input for the emittance measurements critical for high-brightness beam production for the LHC, for future optics studies related to the planned upgrades of the PSB or for optics studies of the ejection lines. In this study, the dispersion measurement protocol and the analysis of the measurements are presented. The measurement results point out differences with respect to the MADX model and also differences between the four rings. It was then investigated using the CERN survey database and MADX tracking modules whether misalignments of quadrupole magnets could explain these differences
+
+ 
+
+
+ 
+
+
+
+TUPAC07
+Beam Dynamics and Wakefield Suppression in Interleaved Damped and Detuned Structures for CLIC
+460
+
+
+ 
+
+A. D'Elia, R.M. Jones, I. Nesmiyan
+                       UMAN, Manchester, United Kingdom
+T. Higo
+                       KEK, Ibaraki, Japan
+V.F. Khan, A. Latina, G. Riddone
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Acceleration of multiple bunches of charged particles in the main linacs of the Compact Linear Collider (CLIC) is disrupted due self-excited wakefields. The CLIC baseline design uses heavy damping of the modes which constitute the wakefield (Q~10). In this damping scheme only the wake from the immediately preceding bunch has a significant impact on the projected emittance and figures of merit to ensure an acceptable emittance dilution are discussed in *. Here we discuss an alternative damping scheme based on the experience of the NLC **. The wakefield suppression is provided by a strong detuning and moderate damping (Q~700) by 4 manifolds which are slot-coupled to each cell. Interleaving neighboring structure frequencies helps to enhance wakefield suppression. In this damping scheme it is the total wake distribution produced by the whole bunch train which has an impact on the projected emittance. We use the beam tracking code PLACET to analyze the stability of the full system made of more than 71,000 structures, over a relatively large number of slightly different machines and the influence of random frequency errors also be incorporated.
+* D. Schulte, CLIC-Note-805, 2009 ** R. M. Jones, et. al, PRST-AB, 9, 102001, 2006
+
+ 
+
+
+ 
+
+
+
+TUPAC08
+Beam-Based Alignment of Sextupoles at the APS
+463
+
+
+ 
+
+A. Xiao, V. Sajaev
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357
+Sextupole offset plays a large role in modern storage ring coupling control. Due to the non-linear field, the beam-based alignment of sextupoles becomes more difficult and often requires a sophisticated post-data process. A simple method had been developed at the APS that measures the vertical orbit variation (orbit change at BPM with variation of sextupole strength) versus beam trajectory through a sextupole in one plane while keeping the trajectory in other plane fixed. This method converts the non-linear problem into a linear one, and experiment results show very good reproducibility and accuracy.
+
+ 
+
+
+ 
+
+
+
+TUPAC10
+Energy Calibration in the AGS Using Depolarization Through Vertical Intrinsic Spin Resonances
+466
+
+
+ 
+
+Y. Dutheil, L. Ahrens, H. Huang, F. Méot, V. Schoefer
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The AGS tune jump system accelerates the crossing of 82 horizontal intrinsic resonances using two fast pulsed quadrupoles. Timing of the tune jumps requires accurate tune and energy measurements. Although cross calibration using measurements of the beam revolution frequency shows good accuracy for most of the AGS energy range it is not adequately sensitive as the beam becomes highly relativistic. This drives a strong interest for a new independent energy measurement method. Reduction in the vertical tune across vertical intrinsic spin resonances can induce important depolarization of the beam. Therefore it was proposed to use the negative vertical tune shift created by this tune jump system to calibrate the energy measurement at few locations along the AGS acceleration cycle. The fast tune jump, of ΔQ≈-0.02 within 100μs in the vertical plane, allows to accurately locate the spin resonant condition, independently from orbit or field conditions. Simulations using the AGS Zgoubi on-line model facilitates the interpretation of the experimental results. This paper introduces the experimental procedure and shows some of the latest results.
+
+ 
+
+
+ 
+
+
+
+TUPAC11
+Halo Control and Generation in RHIC
+469
+
+
+ 
+
+C. Montag, K.A. Drees
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+In the next 5-10 years, RHIC will be colliding gold ions in the center-of-mass energy range of 5 to 20 GeV, which is below the regular injection energy. Though the machine has already successfully provided collisions at CM-energies of 7.7 and 11.5 GeV, a significantly higher luminosity than so far achieved is required for a meaningful physics program. While an electron cooler is presently being designed to provide the desired luminosity gain, this is a long-term project that is expected to be completed in 2018. As a short-term alternative the STAR collaboration has proposed installation of an internal halo target in the STAR detector beam pipe. To study the generation and control of the beam halo, we have performed dedicated beam experiments aimed at the bunch-by-bunch uniformity, and long as well as short-term stability of collimator loss rates.
+
+ 
+
+
+ 
+
+
+
+TUPAC12
+A Graphic Interface for Full Control of the RHIC Optics
+472
+
+
+ 
+
+G. Robert-Demolaize, M. Bai
+                       BNL, Upton, Long Island, New York, USA
+X. Shen
+                       Indiana University, Bloomington, Indiana, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+A high level application has been developed for the RHIC collider to provide a complete package for optics control. Optics can be measured using three different algorithms to process turn-by-turn (TBT) beam position monitor (BPM) data from either free (tune meter) or driven (AC dipole) betatron oscillations, and corrected via SVD on a response matrix built around specific sets of quadrupoles. The following reviews the details of those methods, and includes the first results of the operational commissioning of the application.
+
+ 
+
+
+ 
+
+
+
+TUPAC13
+Trajectories of Low Energy Electrons in Particle Accelerator Magnetic Structures
+475
+
+
+ 
+
+E.E. Cowan
+                       Syracuse University, Syracuse, USA
+K.G. Sonnad
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+S.A. Veitzer
+                       Tech-X, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by DOE Award DE-FC02-08ER41538, NSF Award PHY-0734867, PHY-1068662 and the Lepton Collider R&D Coop Agreement: NSF Award PHY-1002467
+Low energy electrons, often referred to as electron clouds are known to cause detrimental effects on positively charged beams. In addition, such low energy electrons can contribute to the heat load of cryogenic systems in particle accelerators. When these particles get trapped in magnetic structures such as quadrupoles, wigglers and undulators, they can further exacerbate such effects. The study aims to better understand the conditions under which such electrons get trapped and for how long. This will be achieved by understanding the dynamics of such particles through perturbation analysis, and numerical tracking using the plasma simulation code Vorpal.
+
+ 
+
+
+ 
+
+
+
+TUPAC14
+A Linear Envelope Model for Multi-Charge State Linac
+478
+
+
+ 
+
+Z.Q. He, Z. Liu, J. Wei, Y. Zhang
+                       FRIB, East Lansing, USA
+R.M. Talman
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy
+The traditional linear envelope tracking model is widely used in linac design and on-line tuning. However, for multi-charge state acceleration situation, where the transfer matrix is different between charge-states, the linear envelope tracking model cannot be utilized. A direct way to handle multi-charge state acceleration is using multi-particle tracking, which is usually high in precision, but lack in efficiency, therefore is not suitable for linac on-line beam tuning. In this paper, a new approach of adapting linear envelope tracking model onto multi-charge state acceleration situation is proposed. The lattice of FRIB is used to test the scheme in both linac segment and folding segment. And the result is then benchmarked with a multi-particle tracking program IMPACT to ensure its precision with enhancement in efficiency.
+
+ 
+
+
+ 
+
+
+
+TUPAC15
+Calculation of the Kick Maps Generated by a Hollow Electron Lens for Studies of High-energy Hadron Beam Collimation
+481
+
+
+ 
+
+G. Stancari, M. Chung, A. Valishev
+                       Fermilab, Batavia, USA
+H.-J. Lee
+                       Pusan National University, Pusan, Republic of Korea
+V. Moens
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+Funding: Fermi Research Alliance, LLC operates Fermilab under Contract DE-AC02-07CH11359 with the US Department of Energy. Research supported in part by US LARP and EU FP7 HiLumi LHC, Grant Agreement 284404.
+Collimation with hollow electron beams is a technique for halo removal in high-power hadron beams. It was experimentally studied at the Fermilab Tevatron collider using electron lenses and it is being considered as an option to complement the collimation system for the LHC upgrades. In the ideal case, the magnetically confined electron beam has a hollow, axially symmetric current-density distribution, whose fields affect the beam halo, leaving the core of the circulating beam unperturbed. We address the effects of imperfections in the current density based upon profiles measured in the Fermilab electron lens test stand. We also study the effect of the bends used to inject and to extract the electron beam from the overlap region. The calculated field distributions will serve as inputs for tracking simulations, which are needed to estimate the effects of the electron lens imperfections on beam core dynamics, such as nonlinearities and emittance growth.
+
+ 
+
+
+ 
+
+
+
+TUPAC17
+Limitations of Increasing the Intensity of a Relativistic Electron Beam
+484
+
+
+ 
+
+J.E. Coleman, M.T. Crawford, C. Ekdahl, B.T. McCuistian, D.C. Moir, G. Sullivan
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the National Nuclear Security Administration of the U.S. Department of Energy under contract DE-AC52-06NA25396.
+A 7 cm cathode has been deployed for use on a 3.8 MV, 80 ns blumlein, to increase the current from the nominal 1.7 kA to 2.9 kA. The intense relativistic electron bunch is accelerated and transported through a nested solenoid and ferrite induction core lattice consisting of 64 elements, exiting the accelerator with a nominal energy of 19.8 MeV. The principal objective of these experiments is to quantify the space charge limitations on the beam quality, in addition to its coupling with the corkscrew and the beam break-up (BBU) instabilities. Time resolved centroid measurements indicate a reduction in BBU >5x with simply a 20% increase in the average B-field used to transport the beam though the accelerator. A qualitative comparison of experimental and calculated results are presented, which include time resolved current density distributions, axial beam centroid oscillations, and corkscrew and BBU amplitude with different accelerator lattice tunes.
+
+ 
+
+
+ 
+
+
+
+TUPAC18
+Synchrotron Radiation Near Field In 3D
+487
+
+
+ 
+
+C. Huang, B.E. Carlsten, T.J. Kwan
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy through the Laboratory Directed Research and Development (LDRD) program at Los Alamos National Laboratory.
+We extend the well-known 1D CSR analytic model into higher dimensions and develop a simple numerical algorithm based on the Lienard-Wiechert formula for the CSR field of a stiff beam. The CSR numerical model includes the 2D/3D spatial dependence of the field and is accurate for arbitrary beam energy. It also removes the singularity in space charge field presented in a 1D model. Good agreement is obtained with 1D CSR analytic result for FEL related beam parameters but deviations are also found for low-energy or large spot size beams and off-axis fields. To conduct self-consistent beam dynamics study, we also employ fully electromagnetic Particle-In-Cell (PIC) simulations for CSR modeling. The relatively large numerical phase error and anisotropy in the standard PIC algorithm is improved with a high order Finite Difference Time Domain scheme. We benchmark PIC results with our new numerical model. Detail self-consistent PIC simulations of the CSR fields and beam dynamics will be presented and discussed.
+
+ 
+
+
+ 
+
+
+
+TUPAC19
+Experimental Verification of Dipole Edge Focusing in Linear Model by Operating in the Weak Focusing Regime at the Los Alamos Proton Storage Ring
+490
+
+
+ 
+
+J.S. Kolski, D.B. Barlow, R.J. Macek, T. Spickermann
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Linear optics models are important for the operation of circular accelerators because of their ability to predict lattice functions, primarily betatron amplitude functions and tunes. The accuracy of the model’s prediction is dependent on how well the real machine’s focusing lattice is known and represented. While quadrupoles may be mapped magnetically and their focusing properties well understood, the focusing effect due to dipole edge fields is less certain. For rings with rectangular dipoles like the Proton Storage Ring (PSR) at Los Alamos National Laboratory, the dipole edge focusing can be a significant contributor to the vertical focusing. Most accelerator modeling codes, like MAD and AT, use the K. Brown formulation and can lead to errors ~10% in the model’s betatron tune prediction. Here we discuss particle tracking through simulated dipole fields, including edge effects, with TOSCA 3D to obtain the focal lengths of the edge focusing. We verify model focal lengths by operating the PSR in the weak focusing regime (without vertically focusing quadrupoles) and show that the model predicts the betatron amplitude functions and tunes even in this unusual operating condition.
+
+ 
+
+
+ 
+
+
+
+TUPAC20
+Coherent Space Charge Tune Shift Measurements in the Los Alamos Proton Storage Ring
+493
+
+
+ 
+
+J.S. Kolski, R.J. Macek, T. Spickermann
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+The coherent space charge tune shift describes the average frequency shift experienced by particles due to the force of the beam’s image charge and is proportional to the instantaneous beam current. For long beam pulses like the 290 ns long accumulated beam bunch in the Los Alamos Proton Storage Ring, we can observe the change in the coherent space charge tune shift longitudinally along the pulse. We measure an asymmetric tune distribution about the bunch center even though the beam current profile is symmetric about the peak intensity. We also observe the tune shift to vary with turn during a store. Quality measurements of the coherent space charge tune shift may provide a unique handle on interesting physics including wake field effects and electron cloud buildup. We digitize beam signals from a beam position monitor, stack the digitized vector turn-by-turn, and fit the tune for each slice (0.5 ns digitization bin) along the pulse after a single-turn vertical kick. We compare the difference between the measured and theoretical tune shifts and infer a charge neutralization, which we relate to the electron cloud density along the pulse and buildup in turn number.
+
+ 
+
+
+ 
+
+
+
+TUPAC21
+Performance Comparisons of Emittance-exchanger Beamlines
+496
+
+
+ 
+
+C.R. Prokop, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+B.E. Carlsten
+                       LANL, Los Alamos, New Mexico, USA
+M.D. Church, P. Piot
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by LDRD project #20110067DR and by the U.S. DoE Contract No. DE-FG02-08ER41532 with NIU and No. DE-AC02-07CH11359 with Fermilab.
+Earlier experiments at Fermilab’s A0 Photoinjector Laboratory demonstrated successful transverse-to-longitudinal emittance exchange (EEX) using a transverse-deflecting cavity (TDC) located between two identical doglegs. Such a design has the disadvantage of transversely displacing the beam. An alternative is an EEX beamline designed out of a variable R56 bunch compressor chicane. In this paper, we present designs and simulation comparisons for several emittance-exchanger beamlines, including the double-dogleg and chicane designs, as well as variations of the chicane design that allow for increasing its dispersion which proportionally decreases the field-strength requirements on the TDC. These comparisons are performed with PIC models of space charge and coherent synchrotron radiation.
+
+ 
+
+
+ 
+
+
+
+TUPAC24
+Studies of Ion Beam Charge Neutralization by Ferroelectric Plasma Sources
+499
+
+
+ 
+
+A.D. Stepanov, R.C. Davidson, E.P. Gilson, L. Grisham
+                       PPPL, Princeton, New Jersey, USA
+
+ 
+
+
+ 
+
+Funding: *This work is supported by US DOE contract DE-AC02-09CH11466
+Space charge forces limit the possible transverse compression of high perveance ion beams that are used in Heavy Ion Fusion; the minimum radius to which a beam can be focused is an increasing function of perveance. The limit can be overcome if a plasma is introduced in the beam path between the focusing element and the target in order to neutralize the space charge of the beam. This concept is implemented on the Neutralized Drift Compression eXperiment (NDCX) at LBNL using Ferroelectric Plasma Sources (FEPS). FEPS are developed at PPPL where we are currently conducting experiments on beam neutralization by FEPS plasma. A 30-60 keV space charge dominated Argon beam is focused with an Einzel lens into a FEPS located approximately at the waist of the unneutralized beam. The beam is intercepted downstream from the FEPS by a movable Faraday cup array that provides time-resolved 2D current density profiles of the beam spot on target. Our goal is to study the 1) dependence of charge neutralization on FEPS plasma density 2) beam emittance growth, and 3) time-dependent effects due to the short duration of the FEPS discharge, which is on the order of microseconds.
+
+ 
+
+
+ 
+
+
+
+TUPAC25
+Identification of Intra-Bunch Dynamics Using CERN SPS Machine Measurements
+502
+
+
+ 
+
+O. Turgut, J.M. Cesaratto, J.E. Dusatko, J.D. Fox, K.M. Pollock, C.H. Rivetta
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy under contract DE-AC02-76SF00515 and the US LHC Accelerator Research program (LARP)
+Modern control techniques can be used to design feedback systems for stabilizing the intra-bunch dynamics in the presence of electron cloud (ECI) and transverse mode coupling (TMCI) instabilities. These techniques require reduced models of the bunch dynamics. We present a methodology to identify reduced order linear models representing single bunch dynamics using CERN SPS machine measurements. Vertical motion, in response to a wideband excitation signal, is sampled multiple times across the 5 ns bunch. The data and an observable canonical structure are used to identify the dynamics, which is represented as discrete time multi-input multi-output (MIMO) system. We focused on mode 0 (barycentric) and mode 1 (head-tail) data to identify a reduced order model. Results show that models clearly capture dominant dynamics and replicate machine measurements with corresponding central tune, damping values for each mode and correct separation between modes.
+
+ 
+
+
+ 
+
+
+
+TUPAC26
+Nonlinear Beam Dynamics Studies of High Intensity, High Brightness Proton Drivers
+505
+
+
+ 
+
+S. Assadi, P.M. McIntyre, K.E. Melconian
+                       Texas A&M University, College Station, Texas, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Texas ASE Fund and by the Mitchel Family Foundation.
+Space charge effects, beam losses, wake fields, and orbital control are significant collective effects that affect beam dynamics. The strong-focusing cyclotron incorporates helical orbits with a strong-focusing lattice and high-gradient cavities. It makes it possible to fully separate orbits and suppress interaction between bunches on neighboring orbits. We simulate nonlinear synchrobetratron coupling explore methods to use the tools of the strong-focusing cyclotron to suppress beam blowup mechanisms.
+Department of Physics and Astronomy, Texas A&M University, College Station, TX 77843 USA
+
+ 
+
+
+ 
+
+
+
+TUPAC28
+Interaction Region Design and Detector Integration at JLab's MEIC
+508
+
+
+ 
+
+F. Lin, P.D. Brindza, Y.S. Derbenev, R. Ent, V.S. Morozov, P. Nadel-Turonski, Y. Zhang
+                       JLAB, Newport News, Virginia, USA
+C. Hyde
+                       Old Dominion University, Norfolk, Virginia, USA
+M.K. Sullivan
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177, DE-AC02-06CH11357 and DE-AC03-76SF00515.
+The Electron Ion Collider (EIC) will be a next-generation facility for the study of the strong interaction (QCD). JLab’s MEIC is designed for high luminosities of up to 1034 cm-2 s-1. This is achieved in part due to an aggressively small beta-star, which imposes stringent requirements on the collider rings’ dynamical properties. Additionally, one of the unique features of MEIC is a full-acceptance detector with a dedicated, small-angle, high-resolution detection system, capable of covering a wide range of momenta (and charge-to-mass ratios) with respect to the original ion beam to enable access to new physics. We present an interaction region design developed with close integration of the detection and beam dynamical aspects. The dynamical aspect of the design rests on a symmetry-based concept for compensation of non-linear effects. The optics and geometry have been optimized to accommodate the detection requirements and to ensure the interaction region’s modularity for easiness of integration into the collider ring lattices. As a result, the design offers an excellent detector performance combined with the necessary non-linear dynamical properties.
+
+ 
+
+
+ 
+
+
+
+TUPAC29
+Modeling Space Charge Effects in Optical Bunchers
+511
+
+
+ 
+
+L.V. Ho, J.P. Duris, R.K. Li, P. Musumeci
+                       UCLA, Los Angeles, California, USA
+
+ 
+
+
+ 
+
+Funding: DOE grant DE-FG02-92ER40693
+This paper introduces a 1-D, self-consistent simulation of Inverse Free Electron Laser (IFEL) based optical bunchers. Starting with a review of the conventional (monochromatic) IFEL bunching, we consider slow amplitude variation and multiple harmonics of the fundamental radiation wave. We model two new bunching schemes – the adiabatic and harmonic microbuncher and compare the bunching mechanisms between the optical bunchers as well as space charge effects to the modified IFEL interaction. Here, we present a model approximating the space charge fields and verification of the simulation with the well-known Free Electron Laser (FEL) simulator, Genesis 1.3.
+
+ 
+
+
+ 
+
+
+
+TUPAC31
+Stability of Emittance vs. Space-Charge Dominated Beams in an Electron Recirculator
+514
+
+
+ 
+
+S. Bernal, B.L. Beaudoin, M. Cornacchia, D.F. Sutter
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: This work is funded by the US Dept. of Energy Office of High Energy Physics.
+We report on experiments and simulations of beam lifetime at the University of Maryland Electron Ring (UMER) for an emittance as well as a strongly space-charge dominated beam. The beam transmission is studied by-the-turn for over 2,000 operating tunes; for this, the ring quadrupoles in the 11.52m-circumference ring are powered over a range of currents corresponding to bare tunes in the range 5.5 to 8.0 approximately. The main beam parameters of the electron beams at 10 keV are 0.6 and 6.0 mA, 0.4 and 1.3 μm initial normalized rms emittances, and 100 ns bunch duration. We note the presence of expected (and strong) integer resonances for both beam currents and the absence, for moderate envelope mismatch, of some half-integer resonances for the high current beam only. The observations are related to existing theory and to particle-tracking simulations with the matrix code Elegant. The simulations employ a simple incoherent space charge model for a continuous beam, as well as different lattice and magnet errors and orders of calculation.
+
+ 
+
+
+ 
+
+
+
+TUPAC32
+Experimental Detection of Envelope Resonance in a Space-Charge-Dominated Electron Ring
+517
+
+
+ 
+
+W.D. Stem, B.L. Beaudoin, I. Haber, T.W. Koeth
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the US Dept. of Energy Office of High Energy Physics and the US Dept. of Defense Office of Naval Research and Joint Technology Office.
+Linear perturbation analysis of the RMS envelope equations predicts a frequency splitting of the transverse envelope modes with the onset of space charge. The resulting resonances are a potential source of beam degradation for circular particle accelerators and storage rings encountering space charge. Following WARP simulations that predict measurable consequences of these resonances, an experiment has been designed for their direct detection. This paper provides a detailed description and preliminary results of an experiment to study envelope resonances in the beam at the University of Maryland Electron Ring (UMER), a scalable high intensity electron storage ring.
+
+ 
+
+
+ 
+
+
+
+TUPAC33
+Measurement of Plasma Wave Speed from Electron Beam End Erosion
+520
+
+
+ 
+
+D.F. Sutter, B.L. Beaudoin
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: *Work funded by the US Dept. of Energy Office of High Energy Physics and the US Dept. of Defense Office of Naval Research and Joint Technology Office.
+The University of Maryland Electron Ring (UMER) normally injects a beam that is square in longitudinal profile (constant line density), filling one half the ring. When operating without longitudinal focusing, the beam head and tail erode at a constant plasma wave speed. Because the beam is very long (580 cm) compared to the beam pipe diameter (5 cm), the two eroding edges remain sharply defined until they meet. This paper describes how the plasma wave speed in the beam can be obtained experimentally by measuring only the initial pulse length, the time it takes for the eroding ends to meet and the kinetic energy. The plasma wave velocity can then be used to get an estimate of the average beam radius during the erosion time. Experimental results are compared to theoretical predictions and to measurements of the plasma wave velocity obtained from induced plasma density wave measurements.
+
+ 
+
+
+ 
+
+
+
+

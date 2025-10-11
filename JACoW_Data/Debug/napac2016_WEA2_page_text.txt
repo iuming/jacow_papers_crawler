@@ -1,0 +1,234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2016 - Table of Session: WEA2 (Oral Presentations (MC5))
+
+
+WEA2 —  Oral Presentations (MC5)   (12-Oct-16   11:00—12:30)
+Chair: M. Blaskiewicz, BNL, Upton, Long Island, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEA2IO01
+Calculating Spin Lifetime
+667
+
+
+ 
+
+V.H. Ranjbar
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the US Department of Energy under contract number DE-SC0012704.
+We have extended a lattice independent code to integrate the Thomas-BMT equation over 2 hours of beam time in the presence of two orthogonal Siberian snakes. In tandem to this we have recast the Thomas-BMT equation in the presences of longitudinal dynamics, into the parametric resonance formalism recently developed to understand overlapping spin resonances *
+* V. H. Ranjbar, "Approximations for crossing two nearby spin  resonances," Phys. Rev. ST Accel. Beams 18, no. 1, 014001 (2015). doi:10.1103/PhysRevSTAB.18.014001
+
+ 
+
+
+
+
+
+
+Slides WEA2IO01 [2.252 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEA2IO01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEA2IO02
+Proposed Experimental Validation of Hamiltonian Perturbation Theory in IOTA
+ 
+
+
+ 
+
+D.L. Bruhwiler, N.M. Cook, C.C. Hall, R.A. Kishek, S.D. Webb
+                       RadiaSoft LLC, Boulder, Colorado, USA
+S. Nagaitsev, A.L. Romanov, A. Valishev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The Integrable Optics Test Accelerator (IOTA) is a small ring under construction to explore advanced concepts in beam dynamics, initially with electron pencil beams to emulate single-particle dynamics and later with low-energy proton beams including significant space charge tune depression. Hamiltonian perturbation theory and simulations with Synergia, Warp and other codes are being used to develop an experimental program for beam dynamics, including the highly nonlinear 'elliptic' magnet originally proposed by Danilov and Nagaitsev. The results suggest a number of experiments that could be performed at IOTA. For example, small changes in the linear tune and the strength of the elliptic magnet can be used to control dynamic aperture. Both electron and proton beams can be used to measure the tune spread as a function of the elliptic magnet strength, for comparison with theory. Space charge driven halo formation due to envelope oscillations can be measured over a range of elliptic magnet strengths. Theoretical and computational results will be presented to guide future decisions regarding experimental diagnostics for IOTA.
+
+ 
+
+
+
+
+
+
+Slides WEA2IO02 [1.181 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEA2CO03
+Incoherent Vertical Emittance Growth from Electron Cloud at CesrTA
+672
+
+
+ 
+
+S. Poprocki, J.A. Crittenden, S.N. Hearth, J.D. Perrin, D. L. Rubin, S. Wang
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the US National Science Foundation PHY-1416318, PHY-0734867, and PHY-1002467, and the U.S. Department of Energy DE-FC02-08ER41538.
+We report on measurements of electron cloud (EC) induced tune shifts and emittance growth at the Cornell Electron-Positron Storage Ring Test Accelerator (CesrTA) with comparison to tracking simulation predictions. Experiments were performed with 2.1 GeV positrons in a 30 bunch train with 14 ns bunch spacing and 9 mm bunch length, plus a witness bunch at varying distance from the train to probe the cloud as it decays. Complementary data with an electron beam were obtained to distinguish EC effects from other sources of tune shifts and emittance growth. High resolution electric field maps are computed with EC buildup simulation codes (ECLOUD) in the small region around the beam as the bunch passes through the cloud. These time-sliced field maps are input to a tracking simulation based on a weak-strong model of the interaction of the positron beam (weak) with the electron cloud (strong). Tracking through the full lattice over multiple radiation damping times with electron cloud elements in the dipole and field-free regions predict vertical emittance growth, and tune shifts in agreement with the measurements.
+
+ 
+
+
+
+
+
+
+Slides WEA2CO03 [1.227 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEA2CO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEA2CO04
+Vlasov Analysis of Microbunching Gain for Magnetized Beams
+675
+
+
+ 
+
+C.-Y. Tsai
+                       Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA
+Y.S. Derbenev, D. Douglas, R. Li, C. Tennant
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE- AC05-06OR23177.
+For a high-brightness electron beam with low energy and high bunch charge traversing a recirculation beamline, coherent synchrotron radiation and space charge effect may result in the microbunching instability (MBI). Both tracking simulation and Vlasov analysis for an early design of Circulator Cooler Ring* for the Jefferson Lab Electron Ion Collider reveal significant MBI. It is envisioned these could be substantially suppressed by using a magnetized beam. In this work, we extend the existing Vlasov analysis, originally developed for a non-magnetized beam, to the description of transport of a magnetized beam including relevant collective effects. The new formulation will be further employed to confirm prediction of microbunching suppression for a magnetized beam transport in a recirculating machine design.
+*Ya. Derbenev and Y. Zhang, COOL'09 (FRM2MCCO01)
+
+ 
+
+
+
+
+
+
+Slides WEA2CO04 [4.662 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEA2CO04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

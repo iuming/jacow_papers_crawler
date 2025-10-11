@@ -1,0 +1,54 @@
+{
+  "session_info": {
+    "id": "TUOBI",
+    "name": "TUOBI - XFELs",
+    "url": "https://proceedings.jacow.org/FEL2012/html/tuobi.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUOBI01",
+      "title": "System Design for Self-Seeding the LCLS at Soft X-ray Energies",
+      "authors": [
+        "Y. Feng",
+        "J.W. Amann",
+        "D. Cocco",
+        "R.C. Field",
+        "J.B. Hastings",
+        "P.A. Heimann",
+        "Z. Huang",
+        "H. Loos",
+        "J.J. Welch",
+        "J. Wu",
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "K. Chow",
+        "P. Emma",
+        "L. Rodes",
+        "R.W. Schoenlein",
+        "LBNL",
+        "Berkeley",
+        "California",
+        "USA",
+        "The complete design for self-seeding the LCLS at soft X-ray energies from 400 to 1000 eV based on a grating monochromator is described. The X-ray optics system consists of a toroidal variable-line-space (VLS) grating with a resolving power greater than 5000 for creating a nearly transform-limited seed pulse from the upstream SASE undulator for pulse durations of the order of 25 fs",
+        "and focusing mirrors for imaging the seed pulse onto the downstream seeding undulator. Diagnostics for ensuring overlap with the reentrant electron beam are included in the design. The optical system is sufficiently compact to fit within a single 3.4 m LCLS undulator segment. The electron chicane system which serves to delay the electron beam to match the less than 1 ps delay from the optical system is similar to the chicane used in the hard X-ray self-seeding at LCLS. The seeded FEL pulse is expected to be nearly transform-limited with a bandwidth in the 10-4 range",
+        "potentially increasing the low-charge FEL X-ray peak brightness by 1-2 orders of magnitude."
+      ],
+      "institutions": [
+        "Funding: Portions of this research were carried out at the LCLS at the SLAC. LCLS is an Office of Science User Facility operated for the U.S. DOE Office of Science by Stanford University"
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/FEL2012/talks/tuobi01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/FEL2012/papers/tuobi01.pdf",
+      "poster_url": "https://proceedings.jacow.org/FEL2012/posters/tuobi01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-FEL2012-TUOBI01",
+      "page_number": "205",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 17:34:06"
+}

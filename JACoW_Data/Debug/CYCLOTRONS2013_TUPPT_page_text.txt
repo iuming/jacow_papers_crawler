@@ -1,0 +1,602 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyclotrons2013 - Table of Session: TUPPT (Poster Session: Controls, Diagnostics, Ion Sources, Injection, RF, Vacuum)
+
+
+TUPPT —  Poster Session: Controls, Diagnostics, Ion Sources, Injection, RF, Vacuum   (17-Sep-13   13:30—15:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPPT001
+Control System of 10 MeV Baby Cyclotron
+156
+
+
+ 
+
+A. Abdorrahman, H. Afarideh, G.R. Aslani, S. Malakzade
+                       AUT, Tehran, Iran
+A. Afshar
+                       Amirkabir University of Technology, Tehran, Iran
+J.-S. Chai, M. Ghergherehchi
+                       SKKU, Suwon, Republic of Korea
+
+ 
+
+
+ 
+
+For controlling all the equipment and services required for operating the 10 MeV baby cyclotron and optimizing various parameters, an extensive control system is used. Most of the control systems are located in the control room which is situated outside the biological shield. The control console in the control room has switches for all the power supplies like main magnet, radio frequency system, vacuum system, ion-source, deflector, etc. Several Programmable Logic Controllers (PLC's) which are located near the equipment control the whole system. A technique of Supervisory Control and Data Acquisition (SCADA) is presented to monitor, control, and log actions of the PLC's on a PC through use of I/O communication interface coupled with an Open Process Control/Object Linking and Embedding [OLE] for Process Control (OPC) Server/Client architecture. In order to monitor and control different part of system, OPC data is then linked to a National Instruments (NI) LabVIEW. In this paper, details of the architecture and insight into applicability to other systems are presented.
+
+ 
+
+
+ 
+
+
+
+TUPPT004
+The Development of Control System for 9 MeV Cyclotron
+159
+
+
+ 
+
+Y.S. Lee, J.-S. Chai, S.Y. Jung, H.S. Kim, H.W. Kim, S.H. Kim, J.C. Lee, S.H. Lee, J.K. Park, S. Shin, H.S. Song, Y.H. Yeon
+                       SKKU, Suwon, Republic of Korea
+K.-H. Park
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+The Sungkyunkwan University has developed the 9 MeV cyclotron for producing radio isotopes. In order to operate the cyclotron stably, all sub-systems in the cyclotron are controlled and monitored consistently. Therefore, each sub-system includes control devices, which is developed based on PLC, or DSP chip and the sub control modules interface with main control system in real time. As main control system, we choose the CompactRIO system from NI (National Instrument) to take into account the latency and robust control. The control system has high-performance processor running real-time OS, so that the system can control the cyclotron fast and exactly. In addition, the system can be remotely accessed over the network to monitor the status of cyclotron easily. The configuration of control system for 9 MeV cyclotron and performance test result will be described in this paper.
+
+ 
+
+
+ 
+
+
+
+TUPPT005
+Temperature Stability of the TRIUMF Cyclotron RF Controls
+162
+
+
+ 
+
+M.P. Laverty, K. Fong, Q. Zheng
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+Factors which contribute to ambient temperature sensitivity in the TRIUMF cyclotron RF control system are examined and characterized. Seasonal temperature variations together with air conditioning system limitations can give rise to unwanted temperature variations in the rack space housing the control system. If these are large enough, they can cause excursions in the cyclotron accelerating voltage. The critical components responsible are characterized and some possible remedies outlined.
+
+ 
+
+
+ 
+
+
+
+TUPPT006
+The Development of Radial Probe for CYCIAE-100
+165
+
+
+ 
+
+F.P. Guan, Z.G. Li, C. Wang, L.P. Wen, H.D. Xie, Z.G. Yin, T.J. Zhang
+                       CIAE, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+In the design of CYCIAE-100 beam diagnostics system, three radial probes distribute on the mid plane. These radial probes can be used for beam centering measurement. By blocking beam on five finger target and one stopping block, the radial probe can measure the radial and axial envelope of H− beam at the same time. During beam commissioning, the radial probe can also be used for beam intensity measurement. The changeable probe head design makes it possible to replace the damaged part and optimization of the structure.
+
+ 
+
+
+ 
+
+
+
+TUPPT008
+A Profile Analysis Method for High-Intensity DC Beams Using a Thermographic Camera
+168
+
+
+ 
+
+K. Katagiri, S. Hojo, T. Honma, A. Noda, K. Noda
+                       NIRS, Chiba-shi, Japan
+
+ 
+
+
+ 
+
+A new analysis method for the digital-image processing apparatus has been developed to evaluate profiles of high-intensity DC beams from temperature images of irradiated-thin foils. Numerical calculations were performed to examine the reliability and the performance of the profile analysis method. To simulate the temperature images acquired by a thermographic camera, temperature distributions were numerically calculated for various beam parameters. The noises in the temperature images, which are added by the camera sensor, were also simulated to be taken its effect into account. By using the profile analysis method, the beam profiles were evaluated from the simulated-temperature images, and they were compared with the exact solution of the beam profiles. We found that the profile analysis method is adaptable over a wide beam current range of ~0.1 – 10 μA, even if a general-purpose thermographic camera with rather high noise (NETD ~ 0.3 K, NETD: Noise Equivalent Temperature Difference) is employed.
+
+ 
+
+
+ 
+
+
+
+TUPPT009
+Development of Rapid Emittance Measurement System
+171
+
+
+ 
+
+K. Kamakura, M. Fukuda, N. Hamatani, K. Hatanaka, M. Kibayashi, S. Morinobu, K. Nagayama, T. Saito, H. Tamura, H. Ueda, H. Yamamoto, Y. Yasuda, T. Yorita
+                       RCNP, Osaka, Japan
+
+ 
+
+
+ 
+
+We have developed a new system to measure the beam emittance. With our conventional emittance measurement system, it takes about 30 minutes to get emittances in both the horizontal and vertical plane. For quick measurements, we have developed a new system consisting of a fast moving slit with a fixed width and a BPM83 (rotating wire beam profile monitor). BPM83 uses a rotating helical wire made of tungsten, the speed is 18 rps. Fast moving slit consists of a shielding plate with two slits, and is inserted into the beam path at an angle of 45 degrees. The slit is driven by PLC controlled stepping motor, and it takes 70 seconds to move the full stroke of 290 mm. While moving the slit, the output from BPM83 and the voltage of potentiometer that corresponds to the slit position are recorded simultaneously. We are using CAMAC for data acquisition. Trigger signals are generated by BPM83 and NIM modules. Data analysis takes about 1 second. With this system we can get the horizontal and vertical emittance plots within 75 seconds. This system will definitely make it easier to optimize parameters of ion sources and the beam transport system.
+
+ 
+
+
+ 
+
+
+
+TUPPT010
+Variants of Grounding and Shielding in a Beam Diagnostics Measurement of Low Signal Currents
+174
+
+
+ 
+
+R. Dölling
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The performance of several variants of grounding and shielding of long measurements cables for small currents against ground potential differences has been estimated analytically.
+
+ 
+
+
+ 
+
+
+
+TUPPT011
+Measurement of Turn Structure in the Central Region of TRIUMF Cyclotron
+177
+
+
+ 
+
+T. Planche, R.A. Baartman, Y.-N. Rao
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+To get the most out of the existing beam diagnostics in the TRIUMF cyclotron, we started in 2011 to developed new data processing and visualization tools. The main advantage of these Matlab-based tools, compared to old VMS-based tools, is that they can benefit from a much larger library of modern data processing and visualization algorithms. This effort has already shown itself very useful to highlight essential features of the beam dynamics which remained unnoticed before. In this paper we present measurements results displaying beam dynamics process, and in particular space charge related process, happening in the central region of the TRIUMF cyclotron.
+
+ 
+
+
+
+
+
+
+Poster TUPPT011 [32.212 MB]
+            
+ 
+
+
+ 
+
+
+
+TUPPT013
+Simulation of Sufficient Spindle Cusp Magnetic Field for 28 GHz ECRIS
+180
+
+
+ 
+
+M.H. Rashid, A. Chakrabarti
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+A cusp magnetic field (CMF) configuration is proposed for achieving more plasma confinement. It is an improved version of CMF compared to the classical one used earlier to design arbitrarily ECR ion source (ECRIS) of low frequency. The CMF has been reconfigured here adopting a simple, novel and cost-effective technique to shrink the loss area and to achieve denser plasma than in traditional ECRIS. The strength of the electron (plasma) confinement is demonstrated through electron simulations. It consists of a mid-iron disk, two end-plugs and a pair of superconducting magnet coils cooled by cryo-coolers. It is designed for high-B mode operation of the cusp ECRIS of as high as 28 GHz RF frequency for producing an intense beam of highly charged heavy ions. The electric current in the coil at the extraction end can be manipulated to optimize the operation to achieve high extracted beam current of highly charged ions.
+
+ 
+
+
+ 
+
+
+
+TUPPT014
+Characterization of the Versatile Ion Source (VIS) for the Production of Monocharged Light Ion Beams
+183
+
+
+ 
+
+L. Celona, L. Calabretta, G. Castro, G. Ciavola, S. Gammino, D. Mascali, L. Neri, G. Torrisi
+                       INFN/LNS, Catania, Italy
+G. Castro
+                       Universita Degli Studi Di Catania, Catania, Italy
+F. Di Bartolo
+                       INFN & Messina University, S. Agata, Messina, Italy
+
+ 
+
+
+ 
+
+Funding: The support of the 5th National Committee of INFN is gratefully acknowledged.
+The Versatile Ion Source (VIS) is an off-resonance Microwave Discharge Ion Source which produces a slightly overdense plasma at 2.45 GHz of pumping frequency. In the measurements carried out at INFN-LNS in the last two years, VIS was able to produce more than 50 mA of proton beams and He+ beams at 65 kV, while for H2+ a current of 15 mA was obtained. The know-how obtained with the VIS source has been useful for the design of the proton source of the European Spallation Source, to be built in Lund, Sweden, and it will be used also for other facilities. In particular, the design modifications of the VIS source under study at INFN-LNS, in order to use the new source as the injector of H2+ at the ISODAR facility, will be also presented.
+
+ 
+
+
+ 
+
+
+
+TUPPT015
+A Center Region Upgrade of the LBNL 88-Inch Cyclotron
+186
+
+
+ 
+
+K. Yoshiki Franzen, J.Y. Benitez, M.K. Covo, A. Hodgkinson, C.M. Lyneis, B. Ninemire, L. Phair, P. Pipersky, M.M. Strohmeier, D.S. Todd
+                       LBNL, Berkeley, California, USA
+D. Leitner
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+This paper describes the design and results of an upgraded cyclotron center region in which a mirror field type inflector was replaced by a spiral inflector. The main goals of the design were a) to facilitate injection at higher energies in order to improve transmission efficiency and b) to reduce down-time due to the need of replacing mirror inflector wires which rapidly break when exposed to high beam currents. The design was based on a detailed model of the spiral inflector and matching center region electrodes using AMaze, a 3D finite element suite of codes. Tests showed promising results indicating that the 88-Inch cyclotron will be able to provide a 2.0 pμA beam of 250 MeV 48Ca ions.
+
+ 
+
+
+ 
+
+
+
+TUPPT016
+Developments of Ion Source Complex for Highly Intense Beam at RCNP
+189
+
+
+ 
+
+T. Yorita, M. Fukuda, K. Hatanaka, K. Kamakura, S. Morinobu, A. Tamii, H. Ueda, Y. Yasuda
+                       RCNP, Osaka, Japan
+
+ 
+
+
+ 
+
+Several developments of Ion Source Complex at RCNP has been carried for the purpose of increasing beam intensity. For an 18 GHz superconducting ECRIS, studies for its beam extraction and transportation have been done. The parameters of extraction systems and electrostatic lens are optimized taking account with magnetic field leakage from AVF Cyclotron. HIP-ECR the 2.45GHz permanent magnet ECR has also been developed for highly intense proton beam.
+
+ 
+
+
+ 
+
+
+
+TUPPT018
+Critical Analysis of Negative Hydrogen Ion Sources for Cyclotrons
+192
+
+
+ 
+
+S. Korenev
+                       Siemens Medical Solutions Molecular Imaging, Knoxville, TN, USA
+
+ 
+
+
+ 
+
+The ion sources for cyclotrons based on negative hydrogen ions found applications as basic injectors for cyclotrons. The main important questions of negative hydrogen ion sources are following: i) method of production for negative hydrogen ions, ii) the extraction of ions and iii) separation of negative ions from electrons. Among of ion internal and external ion sources the common question is efficiency for production of negative hydrogen ions and increasing of kinetic energy of these ions. The critical analysis of different ions sources (PIG, Multicusps, etc.) is given. The comparison of these ion sources regarding applications for industrial cyclotrons for production of medical isotopes is presented in the paper.
+
+ 
+
+
+
+
+
+
+Poster TUPPT018 [0.231 MB]
+            
+ 
+
+
+ 
+
+
+
+TUPPT019
+Development Study of Penning Ion Source for Compact 9 MeV Cyclotron
+195
+
+
+ 
+
+Y.H. Yeon, J.-S. Chai, T.V. Cong, Kh.M. Gad, M. Ghergherehchi, S.Y. Jung, H.S. Kim, H.W. Kim, S.H. Kim, S.H. Lee, Y.S. Lee, X.J. Mu, S.Y. Oh, S. Shin
+                       SKKU, Suwon, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This research was supported by WCU (World Class University) program through the National Research Foundation of Korea funded by the Ministry of Education, Science and Technology (R31-2008-10029).
+Penning Ion Gauge(PIG) have been used in internal source for cyclotron. PIG source for internal source of 9 MeV cyclotron produces H− ion. This source consists of cold cathode which discharges electrons for producing H− ion and anode for making plasma wall. Cold cathode material tantalum was used for emitting electrons and tungsten copper alloy was used for anode. The size of PIG source is related to size of cyclotron magnet. Optimization of cathode and anode location and sizing were needed for simplifying this source for reducing the size of compact cyclotron. Transportation of electrons and number of secondary electrons has been calculated by CST particle studio. Motion of H2 gas has been calculated by ANSYS. Calculation of PIG source in 9 MeV cyclotron has been performed by using various chimneys with different size of expansion gap between the plasma boundary and the chimney wall. In this paper design process and experiment result is reported.
+
+ 
+
+
+ 
+
+
+
+TUPPT022
+A 20 mA H− Ion Source with Accel-Accel-Decel Extraction System at TRIUMF
+198
+
+
+ 
+
+K. Jayamanna, I. Aguilar, I.V. Bylinskii, G. Cojocaru, R.L. Dube, R.K. Laplante, W. L. Louie, M. Lovera, M. Minato, M. Mouat, S. Saminathan, T.M. Tateyama, E. Tikhomolov
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+During the last three decades, TRIUMF has developed H− cusp ion sources for the 500 MeV, TR30, TR13 cyclotrons, as well as many other machines. These ion sources can be categorized as high current versions, producing up to 20mA of CW H− beam within a normalized emittance (4RMS) of 0.6 π-mm-mrad. A new accel-accel-decel extraction system is being developed in order to run the source at optimum source extraction voltage for a large range of beam energies with minimal impact on beam properties. With this extraction system, beam energy can be as low as ~1keV and as high as 60keV while source extraction voltage can be at its optimum within 90kV. The source performances, as well as relevant emittance measurements, are discussed.
+
+ 
+
+
+ 
+
+
+
+TUPPT023
+Design and Simulation of Cavity for 10 MeV Compact Cyclotron
+200
+
+
+ 
+
+V. Afzalan, H. Afarideh, R. Azizi
+                       AUT, Tehran, Iran
+J.-S. Chai, M. Ghergherehchi
+                       SKKU, Suwon, Republic of Korea
+
+ 
+
+
+ 
+
+RF system is known as one of the most vital parts to produce the efficient accelerator system. In this paper, the RF system and cavity of 10 MeV AVF ( Azimuthally Varying Field ) Cyclotron for radioisotope production are designed. The Cyclotron works on 4th harmonic with Dee's voltage of 50 KV. In order to supply the expected accelerating voltages RF power coupling and RF tuner has been considered. The RF system is simulated using commercially available simulator, CST Microwave Studio code. In contrast the geometry of cavity is optimized to achieve suitable Q value in desired frequency. Since the factors are non-ideal during the fabrication process, the actual Q value of cavities is estimated.
+
+ 
+
+
+ 
+
+
+
+TUPPT024
+Design of a Digital Low-Level RF System for BEST Medical Cyclotrons
+203
+
+
+ 
+
+G. Gold, V. Sabaiduc
+                       BCSI, Vancouver, BC, Canada
+
+ 
+
+
+ 
+
+A versatile digital low-level RF system has been designed for the range of cyclotrons being developed by Best Cyclotron Systems Inc. (BCSI). Primary design considerations are given to robustness, low cost and the flexibility to be used on all BCSI resonator designs. As such, the system allows for operating frequency selection from 49 to 80 MHz and is compatible with single or double resonator configurations through the use of local oscillator synchronization and high-speed command exchange. An IQ demodulation/modulation scheme is employed allowing for frequency and amplitude control. High-speed phase control of separated resonators allows for beam intensity modulation techniques to be applied. This paper discusses the overall system design as well as integration results on both a single and double resonator cyclotron.
+
+ 
+
+
+ 
+
+
+
+TUPPT025
+Resonator System for the BCSI Test Stand Cyclotron
+206
+
+
+ 
+
+G. Gold, V. Sabaiduc, J. Zhu
+                       BCSI, Vancouver, Canada
+J. Panama
+                       Best Theratronics Ltd., Ottawa, Ontario, Canada
+L. AC. Piazza
+                       INFN/LNL, Legnaro (PD), Italy
+
+ 
+
+
+ 
+
+Best Cyclotron Systems Inc. is presently developing a test facility for beam injection into a center region cyclotron operating at maximum 1MeV. The test stand cyclotron will operate at various fixed frequencies that will cover the entire range from 49MHz to 80MHz as estimated for the current cyclotron models under development at BCSI. The resonator was designed with a variable coaxial section allowing for the frequency to be continuously adjusted as required for the particular model in study. Having interchangeable dee tip geometries presented various thermal management challenges which have been addressed. Three operational frequencies, 49MHz, 56MHz and 73MHz have been simulated with CST Microwave Studio. The paper will report the theoretical parameters of the cavity, mechanical design considerations and resonator commissioning on the first operational frequency of 49MHz.
+
+ 
+
+
+ 
+
+
+
+TUPPT026
+The Design and Testing of an Automatic RF Conditioning System for the Compact Medical Cyclotron
+209
+
+
+ 
+
+Y. Lei, B. Ji, P.Z. Li, C. Wang, J.Y. Wei, Z.G. Yin, T.J. Zhang
+                       CIAE, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The multipacting phenomenon for a compact medical cyclotron is induced by the fringing magnet field inside the accelerating structure. And it will become more interesting, when the vacuum system is equipped with diffusion pump. A method used for CYCIAE-14 cavity conditioning is reported together with the testing results of an automatic conditioning circuit designed on such basis. Apart from traditional Low Level RF control, in which close-loop regulation plays an important role, the automatic conditioning system emphasizes on the cavity startup process. It takes advantage of the modern digital signal processing technique, combined with the direct digital synthesizer to accurately limit the reflection, will condition the cavity by means of sweeping frequency, using the low RF driven power, in continuous wave mode. The electronics are designed and tested first; it will be used later in the RF system commissioning of other compact medical cyclotrons built by BRIF division of CIAE.
+
+ 
+
+
+ 
+
+
+
+TUPPT028
+Development of 20 kW RF Amplifier for Compact Cyclotron
+212
+
+
+ 
+
+S.H. Lee, J.-S. Chai, T.V. Cong, H.S. Kim, Y.S. Lee, H.S. Song, Y.H. Yeon
+                       SKKU, Suwon, Republic of Korea
+J.H. Kim
+                       KIRAMS, Seoul, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work was supported by Nuclear R&D program through the National Research Foundation of Korea funded by the Ministry of Education, Science and Technology. (2012-0925001)
+Compact cyclotron for PET RI production accelerates H− ions using electric field. For accelerating ions in cyclotron, RF amplifier is developed to transmit RF power to RF resonating cavity. RF amplifier generates high-power RF signal up to 20 kW with narrow band frequency. The amplifier device was used of triode vacuum tube operated in cathode-driven. Impedance matching systems were composed of bridge-network system. Components of impedance matching system had rigid structure to endure high-power RF signal. Variable inductors of matching components have been used of short-bar movement system for changing reactance of characteristic impedance. The experiment results were measured by VSWR meter and network analyzer.
+
+ 
+
+
+ 
+
+
+
+TUPPT029
+Design Study of a 83.2 MHz RF Cavity for the 9 MeV Compact Cyclotron
+215
+
+
+ 
+
+S. Shin, J.-S. Chai, J.C. Lee
+                       SKKU, Suwon, Republic of Korea
+B.N. Lee
+                       KAERI, Daejon, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: National Research Foundation of Korea funded by the Ministry of Education, Science and Technology (2010-0025953)
+A compact cyclotron accelerating H− ion for producing a radioactive isotope FDG (FluoroDeoxyGlucose) for PET (Positron Emission Tomography) has been designed at Sungkyunkwan University. The H− ion which generated from the PIG (Panning Ion Gauge) ion source will be accelerated at the normal conducting RF cavity which uses 83.2 MHz of resonance frequency and extracted at the carbon foil striper at the energy of 9 MeV. This cyclotron has to be small to install local hospital while FDG production needs more than 9 MeV of proton beam energy. Chasing two hare at once, deep valley type of magnet has been selected for high energy and compact cyclotron. Due to the small size of valley space where RF cavities will be installed, lots of difficulties have been introduced. Despite of those difficulties at the designing process, we could achieve resonance frequency of 83.2 MHz and Q-factor of 4500 with very compact size of RF cavity.
+
+ 
+
+
+ 
+
+
+
+TUPPT030
+Development of 1.5 kW RF Driver for Compact Cyclotron
+218
+
+
+ 
+
+H.S. Song, J.-S. Chai, T.V. Cong, S.Y. Jung, H.S. Kim, S.H. Lee, Y.S. Lee, S. Shin, Y.H. Yeon
+                       SKKU, Suwon, Republic of Korea
+J.H. Kim
+                       KIRAMS, Seoul, Republic of Korea
+
+ 
+
+
+ 
+
+1.5 kW RF driver is being designed and manufactured with the resonance frequency of 83.2 MHz. Triode (3CX1500A7) is used for RF power amplification, and ground grid amplifier (G.G. Amp.) type was adopted for this RF driver since the circuit design and realization is simple. Anode, and cathode voltage of RF driver is approximately 3500V, and 5V respectively. In this paper, impedance matching process of RF driver is described. Variable capacitor and variable inductor is utilized to implement the impedance matching for cathode and anode. In addition, RF power output characteristics compared with RF input is shown.
+
+ 
+
+
+ 
+
+
+
+

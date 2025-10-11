@@ -1,0 +1,139 @@
+{
+  "session_info": {
+    "id": "TUYBB",
+    "name": "TUYBB - Tuesday Parallel Session 4",
+    "url": "https://proceedings.jacow.org/napac2019/html/tuybb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUYBB1",
+      "title": "Vacuum System Solutions for Small Vacuum Chamber Next Generation Storage Rings",
+      "authors": [
+        "LBNL",
+        "Berkeley",
+        "California",
+        "USA"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/napac2019/talks/tuybb1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2019/papers/tuybb1.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2019/posters/tuybb1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUYBB2",
+      "title": "Manipulating H⁻ Beams with Lasers",
+      "authors": [
+        "A. Rakhman",
+        "A.V. Aleksandrov",
+        "S.M. Cousineau",
+        "T.V. Gorlov",
+        "Y. Liu",
+        "A.P. Shishlo",
+        "ORNL",
+        "Oak Ridge",
+        "Tennessee",
+        "USA",
+        "In recent years lasers have been playing a vital role in many H− beam measurements and experiments. This talk will review current state of development of various applications using lasers for manipulating H− ion beams in accelerators. A wide range of applications will be reviewed such as beam diagnostics",
+        "laser-assisted charge-exchange injection",
+        "generation of arbitrary H0 pulse patterns and others. An overview of ongoing developments and prospects for other laser H− beam interactions will also be given."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/napac2019/talks/tuybb2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2019/papers/tuybb2.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2019/posters/tuybb2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB2",
+      "page_number": "309",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUYBB3",
+      "title": "Final Design of the APS-Upgrade Storage Ring Vacuum System",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/napac2019/talks/tuybb3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2019/papers/tuybb3.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2019/posters/tuybb3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB3",
+      "page_number": "315",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": true
+    },
+    {
+      "paper_id": "TUYBB4",
+      "title": "Online Modelling and Optimization of Nonlinear Integrable Systems",
+      "authors": [
+        "N. Kuklev",
+        "Y.K. Kim",
+        "University of Chicago",
+        "Chicago",
+        "Illinois",
+        "USA",
+        "Fermilab",
+        "Batavia",
+        "Illinois",
+        "USA",
+        "Nonlinear integrable optics was recently proposed as a design approach to increase the limits on beam brightness and intensity imposed by fast collective instabilities. To study these systems experimentally",
+        "a new research electron and proton storage ring",
+        "the Integrable Optics Test Accelerator",
+        "was constructed and recently commissioned at Fermilab. Beam-based diagnostics and online modelling of nonlinear systems presents unique challenges - in this paper",
+        "we report on our efforts to develop optimization methods suited for such lattices. We explore the effectiveness of neural networks as fast online surrogate estimators",
+        "and integrate them into a beam-based tuning algorithm. We also develop a method of knob dimensionality reduction and subsequent robust multivariate optimization for maximizing key performance metrics under complicated lattice optics constraints."
+      ],
+      "institutions": [
+        "Funding: Work supported by National Science Foundation award PHY-1549132, the Center for Bright Beams. Fermi Research Alliance operates Fermilab under Contract DE-AC02-07CH11359 with the US Dept. of Energy."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/napac2019/talks/tuybb4_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2019/papers/tuybb4.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2019/posters/tuybb4_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB4",
+      "page_number": "318",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUYBB5",
+      "title": "Design and Analysis of a Halo-Measurement Diagnostics",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/napac2019/talks/tuybb5_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2019/papers/tuybb5.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2019/posters/tuybb5_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB5",
+      "page_number": "322",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUYBB6",
+      "title": "Beam Dynamics in a High Gradient RF Streak Camera",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/napac2019/talks/tuybb6_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2019/papers/tuybb6.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2019/posters/tuybb6_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB6",
+      "page_number": "326",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 6,
+  "scrape_time": "2025-10-11 00:44:46"
+}

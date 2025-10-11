@@ -1,0 +1,383 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2020 - Table of Session: TUAO (Beam Charge, Beam Loss, Machine Protection and Feedback Systems)
+
+
+TUAO —  Beam Charge, Beam Loss, Machine Protection and Feedback Systems   (15-Sep-20   13:00—14:10)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUAO01
+Precise Bunch Charge Measurement Using BPM Pickup
+21
+
+
+ 
+
+J. Chen, S.S. Cao, F.Z. Chen, B. Gao, L.W. Lai, Y.B. Leng, T. Wu, X.Y. Xu, R.X. Yuan, Y.M. Zhou
+                       SSRF, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+Precise bunch charge measurement is the fundamental of charge feedback, beam lifetime measurement, beam loss monitor, as well as the basis of the related interlocking work. Beam position monitor (BPM) is often used for high-precision bunch charge measurement due to its superior performance. In this paper, the pros and cons of different types of BPM for measurement of bunch charge in storage ring and free electron laser (FEL) will be discussed. The related simulations, beam experiment and signal processing methods are also mentioned. The beam experiments results show that the relative bunch charge resolution of the Button BPM can reach 0.02％ in SSRF, 0.073％ and 0.021％ of the SBPM and CBPM in SXFEL, respectively. Besides, based on the method of beam experiments, we systematically studied the position dependence of BPM pickup and related compensation algorithms for high-precision bunch charge measurement.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides TUAO01 [7.299 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-TUAO01
+
+ 
+
+
+About •
+paper received ※ 02 September 2020       paper accepted ※ 17 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAO02
+Diagnostics for Collimator Irradiation Studies in the Advanced Photon Source Storage Ring
+26
+
+
+ 
+
+J.C. Dooling, W. Berg, M. Borland, J.R. Calvey, G. Decker, L. Emery, K.C. Harkay, R.R. Lindberg, A.H. Lumpkin, G. Navrotski, V. Sajaev, J.B. Stevens, Y.P. Sun, K.P. Wootton, A. Xiao
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. D.O.E.,Office of Science, Office of Basic Energy Sciences, under contract number DE-AC02- 06CH11357
+The Advanced Photon Source (APS) is building a fourth-generation storage ring (4GSR), replacing the present double-bend achromat lattice with a multibend achromat system thereby allowing the production of ultra-bright x-ray beams. The new lattice enables a two-order-of-magnitude reduction in horizontal beam emittance and a factor of two increase in beam current. The result is an electron beam of very high energy- and power-densities. Initial predictions suggest virtually any material struck by the undiluted electron beam will be damaged. Two experimental beam abort studies have been conducted on collimator test pieces in the present APS SR to inform the design of a fully-functional machine protection system for APS 4GSR operations at 200 mA. A comprehensive suite of diagnostics were employed during the studies The diagnostics used in these experiments are not new, but employed in different ways to obtain unique data sets. With these data sets now in hand, we are developing new numerical tools to guide collimator design.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides TUAO02 [26.053 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-TUAO02
+
+ 
+
+
+About •
+paper received ※ 03 September 2020       paper accepted ※ 15 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAO03
+Ionization Chamber for Electron Beam Monitoring at Ultra High Dose Rate
+ 
+
+
+ 
+
+C. Lahaye, S. Salvador
+                       CNRS/IN2P3/LPC CAEN, Caen, France
+J.-M. Fontbonne, J. Thariat
+                       LPC, Caen, France
+
+ 
+
+
+ 
+
+Ultra high dose rate (FLASH) electron beam therapy consists in treating tumors by delivering a dose above 1 Gy in pulse of 1 µs. Despite ionization chambers are reference detectors in dose monitoring, no real-time beam monitor based on ionization chambers exists for such ultra high dose rates. In this study, we present the response of an ionization chamber to ultra high dose rates. Simulations were performed to compute the current measured by a chamber using a 1D transport model. The transport equations included recombination*, electron capture [**,***] and electric field change due to space charge****. Simulations were compared to measurements performed using a 800 µm gap, 1 cm2 active surface ionization chamber irradiated by 5 MeV electron pulses up to 4 Gy/µs, and varying high voltage from 400 V/mm up to 1200 V/mm. Despite high recombination rates, the signal produced by the electrons moving in the chamber was proportional to the dose rate up to ~100 ns. Preliminary results suggest that a real-time dose measurement can be done by considering only the signal induced by the electrons. This opens the development for a real-time dose rate monitor based on ionization chambers.
+*J. W. Boag et al 1996 Phys. Med. Biol. 41 885  **F. Di Martino et al 2005 Med. Phys. Vol.32, No 7  ***K. Petersson et al 2017 Med. Phys. Vol.44, No 3 ****M. Gotz et al 2017 Phys. Med. Biol. 62 8634
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAO04
+Investigation of Novel Radiation Hard and Fast Scintillator for Heavy Ions Detection
+ 
+
+
+ 
+
+M. Saifulin, P. Boutachkov, P. Simon, C. Trautmann, B. Walasek-Höhne
+                       GSI, Darmstadt, Germany
+E.I. Gorokhova
+                       GOI, St Petersburg, Russia
+P. Rodnyi, I.D. Venevtsev
+                       SPbPU, St. Petersburg, Russia
+
+ 
+
+
+ 
+
+ZnO is a well known semiconductor material, that has found application in many fields of technology: phosphors, scintillators, varistors, gas sensors, etc*. Recently it was found that fast near-band-edge luminescence in ZnO ceramics can be significantly enhanced by introducing In3+ and Ga3+ impurities**. Due to this property, doped ZnO is of great interest for fast counting applications, in particular for beam diagnostics application at future FAIR facility***. In this contribution, we present the results of swift heavy ion induced luminescence measurements of ZnO(In) ceramics performed at GSI. Samples were irradiated with 4.8 MeV/u 48Ca and 197Au ions up to fluences of 5·10+12 and 2·10+11 ion/cm2 respectively. Iono-luminescence spectra were monitored on-line as a function of fluence. ZnO(In) and ZnO(Ga) ceramics demonstrate several orders of magnitude higher radiation hardness than plastic scintillators. This investigation is part of a larger research program for beam intensity, spill structure and beam profile measurements with ZnO fast scintillators.
+* Klingshirn et al., Phys. Stat. Solidi B, Vol.247, No.6, (2010), 1424-1447  ** Rodnyi et al., IEEE T.Nucl. Sci. Vol.59, No.5, (2012), 2152-2155 *** Boutachkov et al., Proceedings of IBIC19, (2019)
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides TUAO04 [1.644 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAO05
+System Identification and Stability Considerations for Closed Orbit Feedback at SIS-18
+ 
+
+
+ 
+
+R. Singh, S.H. Mirza
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+A new fast feedback system designed for fast ramping synchrotron SIS-18 at GSI. First controlled tests with beam were performed in the previous engineering run beam-time. The system was tested for robustness by operation under mismatched spatial model for several controller settings. This contribution discusses the open and closed loop system identification efforts as well as the first experiences with respect to the stability limits of this COFB system.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides TUAO05 [2.598 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

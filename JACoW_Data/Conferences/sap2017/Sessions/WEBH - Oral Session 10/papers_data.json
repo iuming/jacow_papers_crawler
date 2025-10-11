@@ -1,0 +1,83 @@
+{
+  "session_info": {
+    "id": "WEBH",
+    "name": "WEBH - Oral Session 10",
+    "url": "https://proceedings.jacow.org/sap2017/html/webh.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEBH3",
+      "title": "Experimental Polarization Control of Thomson Scattering X-ray Source",
+      "authors": [
+        "Tsinghua University",
+        "Beijing",
+        "People's Republic of China",
+        "Thomson scattering of intense laser pulses from relativistic electrons allows us to generate high-brightness and tunable-polarization X/gama-ray pulses. In this paper we demonstrate the polarization control of the Thomson scattering source experimentally. We control the incident laser polarization by rotating a quarter-wave plate",
+        "thus controlling X/gama-ray polarization. In order to measure the polarization",
+        "we use Compton scattering method. Meanwhile",
+        "stokes parameters of X/gama-ray whose energy varies between tens of keV and MeV are simulated. The simulation results show that with the increasing of X-ray Energy",
+        "X-ray polarization is a constant value in a small cone of motivation. According to modulation curves analyzed from experiment results",
+        "we can get the conclusion that the polarization of Thomson scattering source is tunable and controllable."
+      ],
+      "institutions": [],
+      "abstract": "reference for this paper ※ https://doi.org/10.18429/JACoW-SAP2017-",
+      "presentation_url": "https://proceedings.jacow.org/sap2017/talks/webh3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/sap2017/papers/webh3.pdf",
+      "poster_url": "https://proceedings.jacow.org/sap2017/posters/webh3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SAP2017-WEBH3",
+      "page_number": "176",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEBH4",
+      "title": "Beam Optimization and Measurment of CAEP FEL-THz Injector",
+      "authors": [
+        "D. Wu",
+        "C.L. Lao",
+        "M. Li",
+        "P. Li",
+        "S.F. Lin",
+        "X. Luo",
+        "Q. Pan",
+        "L.J. Shan",
+        "H. Wang",
+        "J. Wang",
+        "D.X. Xiao",
+        "X. Yang",
+        "K. Zhou",
+        "CAEP/IAE",
+        "Mianyang",
+        "Sichuan",
+        "People's Republic of China",
+        "TUB",
+        "Beijing",
+        "People's Republic of China",
+        "The FEL-THz facility in Chinese Academy of Engineering Physics (CAEP) requires high brightness high repetition electron beam",
+        "which needs optimization of multi-parameter and multi-objective",
+        "such as emittance",
+        "energy spread",
+        "bunch length",
+        "etc. In this paper",
+        "some studies of beam optimization based on differential evolution (DE) algorithm and Astra code are shown. Dozens of the DC-SRF-injector parameters have been considered in the optimization. Some measurements of the electron beam are also introduced",
+        "including emittance measurement with the three-profile method",
+        "energy spread measurement with analyzing magnet and beam length diagnostics with zero-phasing method. These studies indicate that the injector beam quality satisfies the requirement of the FEL-THz facility."
+      ],
+      "institutions": [
+        "Funding: Work supported by the National Natural Science Foundation of China with grant (11475159, 11505173, 11576254 and 11605190)"
+      ],
+      "abstract": "reference for this paper ※ https://doi.org/10.18429/JACoW-SAP2017-",
+      "presentation_url": "https://proceedings.jacow.org/sap2017/talks/webh4_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/sap2017/papers/webh4.pdf",
+      "poster_url": "https://proceedings.jacow.org/sap2017/posters/webh4_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SAP2017-WEBH4",
+      "page_number": "179",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 02:56:47"
+}

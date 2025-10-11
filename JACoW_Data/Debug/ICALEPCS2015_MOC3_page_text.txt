@@ -1,0 +1,394 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: MOC3 (Feedback systems, tuning)
+
+
+MOC3 —  Feedback systems, tuning   (19-Oct-15   13:00—14:45)
+Chair: M. Lonza, Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+
+Paper
+Title
+Page
+
+
+
+MOC3O01
+Comprehensive Fill Pattern Control Engine: Key to Top-Up Operation Quality
+18
+
+
+ 
+
+T. Birke, F. Falkenstern, R. Müller, A. Schälicke
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by BMBF and Land Berlin.
+At the light source BESSY II numerous experiments as well as machine development studies benefit from a very flexible and stable fill pattern: standard operation mode comprises a multibunch train for the average users, a purity controlled high current camshaft bunch in a variable length ion clearing gap for pump/probe experiments and a mechanical pulse picking chopper, three high current bunches for femto second slicing opposite to the gap and a specific bunch close to the end of the ion clearing gap for resonant excitation pulse picking. The fill pattern generator and control software is based on a state machine. It controls the full chain from gun timing, linac pulse trains, injection and extraction elements as well as next shot predictions allowing triggering the next DAQ cycle. Architecture and interplay of the software components as well as implemented functionality with respect to hardware control, performance surveillance and reasoning of next actions, radiation protection requirements are described.
+
+ 
+
+
+
+
+
+
+Slides MOC3O01 [3.692 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOC3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOC3O02
+PID_TUNE: A PID Autotuning Software Tool on UNICOS CPC
+22
+
+
+ 
+
+E. Blanco Vinuela, B. Bradu, R. Marti Martinez
+                       CERN, Geneva, Switzerland
+R. Mazaeda, L. de Frutos, C. de Prada
+                       University of Valladolid, Valladolid, Spain
+
+ 
+
+
+ 
+
+PID (Proportional, integral and derivative) is the most used feedback control algorithm in the process control industry. Despite its age, its simplicity in terms of deployment and its efficiency on most of industrial processes allow this technique to still have a bright future. One of the biggest challenges in using PID control is to find its parameters, the so-called tuning of the controller. This may be a complex problem as it mostly depends on the dynamics of the process being controlled. In this paper we propose a tool that is able to provide the engineers a set of PID parameters in an automated way. Several auto-tuning methods, both in open and close loop, are selectable and others can be added as the tool is designed to be flexible. The tool is fully integrated in the UNICOS framework and can be used to tune multiple controllers at the same time.
+
+ 
+
+
+
+
+
+
+Slides MOC3O02 [2.793 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOC3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOC3O03
+Automatic FEL Optimization at FERMI
+26
+
+
+ 
+
+G. Gaio, M. Lonza
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+FERMI is a seeded Free Electron Laser (FEL) located in Trieste, Italy. The machine setup and optimization is a non-trivial problem due to the high sensitivity of the FEL process to several machine parameters. In particular, the electron bunch trajectory and its spatial overlap with the seed laser beam represent one of the key aspects to optimize and then preserve during machine operation. In order to ease the FEL tuning and to guarantee a long term stability of the photon beam, a software process integrated into the feedback systems performs automatic trajectory optimization of both the seed laser and the electron beams. The algorithm implementation, the results and the operational issues are presented.
+
+ 
+
+
+
+
+
+
+Slides MOC3O03 [8.962 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOC3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOC3O04
+System Identification and Robust Control for the LNLS UVX Fast Orbit Feedback
+30
+
+
+ 
+
+D.O. Tavares
+                       LNLS, Campinas, Brazil
+D.R. Grossi
+                       Sao Paulo University, São Carlos Campus, São Carlos, Brazil
+
+ 
+
+
+ 
+
+This paper describes the optimization work carried out to improve the performance of the LNLS UVX fast orbit feedback system. Black-box system identification techniques were applied to model the dynamic behavior of BPM electronics, orbit correctors, communication networks and vacuum chamber eddy currents. Due to the heterogeneity on the dynamic responses among several units of those subsystems, as well as variations on the static response matrix due to accelerator optics changes during operation, robust control techniques were employed to achieve appropriate closed-loop performance and robustness.
+
+ 
+
+
+
+
+
+
+Slides MOC3O04 [3.796 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOC3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOC3O05
+NSLS-II Fast Orbit Feedback System
+34
+
+
+ 
+
+Y. Tian, W.X. Cheng, L.R. Dalesio, J.H. De Long, K. Hapresenter, L. Yu
+                       BNL, Upton, Long Island, New York, USA
+W.S. Levine
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+This paper presents the NSLS-II fast orbit feedback (FOFB) system, including the architecture, the algorithm and the commissioning results. A two-tier communication architecture is used to distribute the 10kHz beam position data (BPM) around the storage ring. The FOFB calculation is carried out in field programmable gate arrays (FPGA). An individual eigenmode compensation algorithm is applied to allow different eigenmodes to have different compensation parameters. The system is used as a regular tool to maintain the beam stability at NSLS-II.
+
+ 
+
+
+
+
+
+
+Slides MOC3O05 [10.295 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOC3O05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOC3O06
+The Laser Megajoule Facility: The Computational System PARC
+38
+
+
+ 
+
+S. Vermersch
+                       CEA, LE BARP cedex, France
+
+ 
+
+
+ 
+
+The Laser MegaJoule (LMJ) is a 176-beam laser facility, located at the CEA CESTA Laboratory near Bordeaux (France). It is designed to deliver about 1.4 MJ of energy to targets, for high energy density physics experiments, including fusion experiments. The assembly of the first line of amplification (8 beams) was achieved in October 2014. A computational system, PARC has been developed and is under deployment to automate the laser setup process, and accurately predicts the laser energy and temporal shape. PARC is based on the computer simulation code MIRO. For each LMJ shot, PARC determines the characteristics of the laser injection system required to achieve the desired main laser output, provide parameter checking needed for all equipment protections, determines the required diagnostic setup, and supplies post-shot data analysis and reporting. This paper presents the first results provided by PARC. It also describe results obtained with the PARC demonstrator during the first experiments conducted on the LMJ facility.
+
+ 
+
+
+
+
+
+
+Slides MOC3O06 [4.985 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOC3O06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOC3O07
+Low Level RF Control Implementation and Simultaneous Operation of Two FEL Undulator Beamlines at FLASH
+42
+
+
+ 
+
+V. Ayvazyan, S. Ackermann, J. Branlard, B. Faatz, M.K. Grecki, O. Hensler, S. Pfeiffer, H. Schlarb, Ch. Schmidtpresenter, M. Scholz, S. Schreiber
+                       DESY, Hamburg, Germany
+A. Piotrowski
+                       FastLogic Sp. z o.o., Łódź, Poland
+
+ 
+
+
+ 
+
+The Free-Electron Laser in Hamburg (FLASH) is a user facility delivering femtosecond short radiation pulses in the wavelength range between 4.2 and 45 nm using the SASE principle. The tests performed in the last few years have shown that two FLASH undulator beamlines can deliver FEL radiation simultaneously to users with a large variety of parameters such as radiation wavelength, pulse duration, intra-bunch spacing etc. FLASH has two injector lasers on the cathode of the gun to deliver different bunch trains with different charges, needed for different bunch lengths. Because the compression settings depend on the charge of bunches the low level RF system needs to be able to supply different compression for both beamlines. The functionality of the controller has been extended to provide intra-pulse amplitude and phase changes while maintaining the RF field amplitude and the phase stability requirements. The RF parameter adjustment and tuning for RF gun and accelerating modules can be done independently for both laser systems. Having different amplitudes and phases within the RF pulse in several RF stations simultaneous lasing of both systems has been demonstrated.
+
+ 
+
+
+
+
+
+
+Slides MOC3O07 [4.645 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOC3O07
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

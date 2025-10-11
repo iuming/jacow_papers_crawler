@@ -1,0 +1,359 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: THYD (Photon Sources and Electron Accelerators)
+
+
+THYD —  Photon Sources and Electron Accelerators   (11-Aug-22   10:30—12:30)
+Chair: N.A. Moody, LANL, Los Alamos, New Mexico, USA
+
+
+Paper
+Title
+Page
+
+
+
+THYD1
+XFEL as a Low-Emittance Injector for a 4th-Generation Synchrotron Radiation Source
+850
+
+
+ 
+
+T. Hara
+                       RIKEN SPring-8 Center, Hyogo, Japan
+
+ 
+
+
+ 
+
+Low-emittance beam injection is required for the future SPring-8-II due to its small injection beam aperture. To meet this requirement, the SACLA linac has been used as a low-emittance injector since 2020 [1]. In order to perform the beam injection in parallel with XFEL operation, three accelerators are virtually constructed in a control system for the two XFEL beamlines and the beam injection, and thus the accelerator parameters can be independently tuned. Since the reference clock frequencies of the two accelerators are not related by an integer multiple, a new timing system was developed that achieves 3.8 ps (rms) synchronization. To maintain bunch purity better than 1e-8, which is routinely requested at SPring-8, an electron sweeper and an RF knock-out system are introduced for the SACLA injector and the SPring-8 storage ring. Although 0.1 nm-rad emittance of SACLA is increased by an order of magnitude at a transport line mainly due to quantum excitation of synchrotron radiation, it is still small enough for SPring-8-II. By shutting down an old dedicated injector complex, energy consumption has been significantly reduced, and it contributes to create a low-carbon society.
+The speaker present this work on behalf of RIKEN-JASRI project team. [1] Toru Hara et al., Phys. Rev. Accel. Beams 24, 110702 (2021).
+
+ 
+
+
+
+
+
+
+Slides THYD1 [10.103 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THYD1
+
+ 
+
+
+About •
+Received ※ 29 July 2022 — Revised ※ 05 August 2022 — Accepted ※ 07 August 2022 — Issue date ※ 23 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THYD2
+The Challenging Physics Regimes of High Current Electron Beams
+ 
+
+
+ 
+
+J.E. Coleman
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Electrons with intense space charge produce truly challenging physics regimes every step of the way. Hollow electron beams produced in the injector with thin enhanced edges are subject to the diocotron instability or a velocity shear, which is related to the Kelvin Helmholtz instability. Misaligned focusing elements and non-uniform current densities lead to non-linear transport effects in accelerator transport. Electrons focused to intensities >105 J/cm2 or ne ~ 1019 m-3 can produce hot, Te > 1 eV, solid density plasmas that expand slowly over several hundred nanoseconds. The subsequent temperature and density gradients that are produced can generate magnetic fields. Example measurements and calculations of each of these phenomena are presented.
+
+ 
+
+
+
+
+
+
+Slides THYD2 [7.608 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THYD3
+Update on the Status of C-Band Research and Facilities at LANL
+855
+
+
+ 
+
+E.I. Simakov, A.M. Alexander, D.V. Gorelov, T.W. Hall, M.E. Middendorf, D. Rai, T. Tajima, M.R.A. Zuboraj
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Los Alamos National Laboratory LDRD Program
+We will report on the status of two C-band test facilities at Los Alamos National Laboratory (LANL): C-band Engineering Research Facility in New Mexico (CERF-NM), and Cathodes and Rf Interactions in Extremes (CARIE). Modern applications such as X-ray sources require accelerators with optimized cost of construction and operation, naturally calling for high-gradient acceleration. At LANL we commissioned a high gradient test stand powered by a 50 MW, 5.712 GHz Canon klystron. CERF-NM is the first high gradient C-band test facility in the United States. It was fully commissioned in 2021. In the last year, multiple C-band high gradient cavities and components were tested at CERF-NM. Currently we work to implement several updates to the test stand including the ability to remotedly operate at high gradient for the round-the-clock high gradient conditioning. Adding capability to operate at cryogenic temperatures is considered. The construction of CARIE will begin in October of 2022. CARIE will house a cryo-cooled copper RF photoinjector with a high quantum-efficiency cathode and a high gradient accelerator section.
+
+ 
+
+
+
+
+
+
+Slides THYD3 [3.331 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THYD3
+
+ 
+
+
+About •
+Received ※ 31 July 2022 — Revised ※ 08 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 04 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THYD4
+Progress on the APS-U Injector Upgrade
+859
+
+
+ 
+
+J.R. Calvey, T. Fors, K.C. Harkay, U. Wienands
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+For the APS-Upgrade, it was decided to leave the present APS injector chain in place and make individual improvements where needed. The main challenges faced by the injectors are delivering a high charge bunch (up to 16 nC in a single shot) to the storage ring, operating the booster synchrotron and storage ring at different rf frequencies, and maintaining good charge stability during APS-U operations. This paper will summarize recent progress on the injector upgrade. Topics include bucket targeting with the new injection/extraction timing system (IETS), modeling of high charge longitudinal instability in the PAR, and measurements of charge stability for different modes of operation.
+
+ 
+
+
+
+
+
+
+Slides THYD4 [2.015 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THYD4
+
+ 
+
+
+About •
+Received ※ 19 July 2022 — Accepted ※ 11 August 2022 — Issue date ※ 22 August 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THYD5
+Development of Nanopatterned Strong Field Emission Cathodes
+863
+
+
+ 
+
+G.E. Lawler, N. Majernik, J.I. Mann, N. Montanez, J.B. Rosenzweig
+                       UCLA, Los Angeles, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Center for Bright Beams, National Science Foundation Grant No. PHY-1549132 and DOE HEP Grant DE-SC0009914.
+Increasing brightness at the cathode is highly desirable for a diverse suite of applications in the electron accelerator community. These applications range from free electron lasers to ultrafast electron diffraction. Many options for higher brightness cathodes are under investigation notably semiconductor cathodes. We consider here the possibility for an alternative paradigm whereby the cathode surface is controlled to reduce the effective area of illumination and emission. We fabricated nanoblade metallic coated cathodes using common nanofabrication techniques. We have demonstrated that a beam can be successfully extracted with a low emittance and we have reconstructed a portion of the energy spectrum. As a result of our particular geometry, our beam possesses a notably high aspect ratio in its transverse plane. We can now begin to consider modifications for the production of intentionally patterned beams such as higher aspect ratios and hollow beams.
+
+ 
+
+
+
+
+
+
+Slides THYD5 [4.652 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THYD5
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Accepted ※ 08 August 2022 — Issue date ※ 05 October 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THYD6
+Arrival Time and Energy Jitter Effects on the Performance of X-Ray Free Electron Laser Oscillator
+866
+
+
+ 
+
+G. Tiwari
+                       BNL, Upton, New York, USA
+K.-J. Kim, R.R. Lindberg
+                       ANL, Lemont, Illinois, USA
+K.-J. Kim
+                       University of Chicago, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Dept. of Energy Office of Sciences under Contract No. DE-AC02-06CH11357.
+We report on the effects of electron beam arrival time and energy jitter on the power level and the fluctuations of the output of an X-ray FEL oscillator (XFELO). For this study, we apply the FEL driven paraxial resonator model of XFELO along with an analytical reflectivity profile to mimic the phase shift and spectral filtering effects of Bragg-crystals. The thresholds for acceptable timing jitters and energy jitters are determined in terms of the fluctuations of the steady-state power output. We explore potential ways to mitigate the power output fluctuations in the presence of unavoidable electron beam jitters.
+
+ 
+
+
+
+
+
+
+Slides THYD6 [1.935 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THYD6
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 03 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

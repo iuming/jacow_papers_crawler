@@ -1,0 +1,653 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEDSI2020 - Table of Session: MOPB (Monday Poster PM Session B)
+
+
+MOPB —  Monday Poster PM Session B   (26-Jul-21   13:15—14:15)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPB02
+Cryogenic Systems for Optical Elements Cooling at Sirius/LNLS
+21
+
+
+ 
+
+M. Saveri Silva, M.P. Calcanha, G.V. Claudiano, A.F.M. Fontoura, B.A. Francisco, L.M. Kofukuda, F.R. Lena, F. Meneau, G.B.Z.L. Moreno, G.L.M.P. Rodrigues, L. Sanfelici, H.C.N. Tolentino, L.M. Volpe
+                       LNLS, Campinas, Brazil
+J.H. Řežende
+                       CNPEM, Campinas, SP, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology and Innovation (MCTI)
+Sirius, the Brazilian 4th-generation light source at the Brazilian Synchrotron Light Laboratory (LNLS), presents high-performance requirements in terms of preserving photon-beam quality, particularly regarding wavefront integrity and position stability. In this context, it is imperative that many silicon optical elements* be effectively cooled, such that temperatures and their control-related parameters can be precisely handled to the point in which thermal effects are acceptable concerning figure distortions and drifts at different timescales. For this class of precision equipment, the required performance can only be achieved with robust thermal management.** For this, relevant aspects related to the implementation of liquid nitrogen cooling systems need to be emphasized. Currently, two solutions are present at the first-phase beamlines, according to the component thermal load: (1) an in-house low-cost system for components under moderate loads (< 50 W), such as the mirror systems and the four-bounce monochromators, comprising a commercial cryostat connected to an instrumented vessel, whose level and pressure are controlled by the standard beamline automation system that can automatically feed it from a secondary service unit or a dedicated transfer line; (2) a commercial cryocooler for high-heat-load applications (50 - 3000 W), such as the double-crystal monochromators. This work presents the in-house solution: requirements, design aspects, operation range, as well as several discoveries and improvements deployed during the commissioning of the CATERETÊ and the CARNAÚBA beamlines, such as the prevention of ice formation, stabilization of both thermal load and flow-rate, and auto-filling parameters, among others.
+*TOLENTINO. Innovative instruments (…) for the CARNAÚBA beamline at Sirius-LNLS. SRI (2018). **VOLPE. Performance validation of the thermal model for optical components. Submit to MEDSI (2020)
+
+ 
+
+
+
+
+
+
+Poster MOPB02 [2.364 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB02
+
+ 
+
+
+About •
+paper received ※ 25 July 2021       paper accepted ※ 13 October 2021        issue date ※ 09 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB03
+Commissioning and Prospects of the High-Dynamic DCMs at Sirius/LNLS
+25
+
+
+ 
+
+R.R. Geraldes, J.L. Brito Neto, R.M. Caliari, M.A.S. Eleoterio, S.A.L. Luiz, M.A.L. Moraes, A.V. Perna, M.S. Silva, G.S. de Albuquerque
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology and Innovation (MCTI)
+The High-Dynamic Double-Crystal Monochromator (HD-DCM)*,** is an opto-mechatronic system with unique architecture, and deep paradigm changes as compared to traditional beamline monochromators. Aiming at unmatching scanning possibilities and positioning stability in vertical-bounce DCMs, it has been developed since 2015 for hard X-ray beamlines at Sirius Light Source at the Brazilian Synchrotron Light Laboratory (LNLS). Two units are currently operational at the MANACA (macromolecular crystallography) and the EMA (extreme conditions) undulator beamlines, whereas a model for extended scanning capabilities in the energy range between 3.1 to 43 keV, the so-called HD-DCM-Lite, is in advanced development stage for two new beamlines, namely: QUATI (quick absorption spectroscopy), with a bending-magnet source; and SAPUCAIA (small-angle scattering), with an undulator source. In this work, online commissioning and operating results of the HD-DCMs are presented with emphasis on: the 10 nrad RMS (1 Hz - 2.5 kHz) pitch-parallelism performance; energy calibration; energy-dependent beam motion at sample; and flyscan with monochromator-undulator synchronization, which is a well-known control challenge at beamlines. To conclude, the Sirius HD-DCM family prospects, including the HD-DCM-Lite, are discussed.
+*Geraldes, R. R., et al. "The New High-dynamics DCM for Sirius." Proc. of MEDSI 2016.  **Geraldes, R. R., et al. "The Status of the New High-Dynamic DCM for Sirius." Proc. of MEDSI 2018. 
+
+ 
+
+
+
+
+
+
+Poster MOPB03 [1.829 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB03
+
+ 
+
+
+About •
+paper received ※ 25 July 2021       paper accepted ※ 01 October 2021        issue date ※ 02 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB04
+Four-Bounce Crystal Monochromators for the Sirius/LNLS Beamlines
+29
+
+
+ 
+
+M. Saveri Silva, L.M. Kofukuda, S.A.L. Luiz, A.P.S. Sotero, H.C.N. Tolentino, L.M. Volpe, G.S. de Albuquerque
+                       LNLS, Campinas, Brazil
+L. Martins dos Santos, J.H. Řežende
+                       CNPEM, Campinas, SP, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology, and Innovation (MCTI)
+Beamlines of new 4th-generation machines present high-performance requirements in terms of preserving beam quality, in particular wavefront integrity and position stability at micro and nanoprobe stations. It brings about numerous efforts to cope with engineering challenges comprehending high thermal load, cooling strategy, crystal manufacturing, vibration sources, alignment and coupled motion control. This contribution presents the design and performance of a four-bounce silicon-crystal monochromator for the Sirius beamlines at the Brazilian Synchrotron Light Source (LNLS), which is basically composed of two channel-cut crystals mounted on two goniometers that counter-rotate synchronously. The mechanical design ascertained the demands for the nanoprobe and coherent scattering beamlines - namely, CARNAÚBA and CATERETÊ - focusing on solutions to minimize misalignments among the parts, to grant high stiffness and to ensure that the thermal performance would not impair beam characteristics. Hence, all parts were carefully simulated, machined, and measured before assembling. This work details mechanical, thermal, diagnostics, and dynamic aspects of the instruments, from the design phase to their installation and initial commissioning at the beamlines.
+
+ 
+
+
+
+
+
+
+Poster MOPB04 [3.518 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB04
+
+ 
+
+
+About •
+paper received ※ 25 July 2021       paper accepted ※ 30 August 2021        issue date ※ 06 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB05
+Stability Performance of the Cryocooled Horizontal Double Crystal Monochromator for DanMAX
+ 
+
+
+ 
+
+L. Mateos
+                       FMB Oxford, Oxford, United Kingdom
+
+ 
+
+
+ 
+
+The new 4th generation storage rings beamlines with improved smaller emittance require an increasingly vibrational stability on every beamline component to maintain a high beam quality. The horizontal double crystal monochromators (H-DCM) are specially well suited for these, providing an outstanding beam energy and position stability while coping with high power loads and maintaining UHV conditions. FMB Oxford has recently delivered a new generation cryocooled H-DCM for DanMAX beamline at MAX IV, this is an evolved version of the previous designs already installed at MAX IV and other facilities*. The redesign features have improved the excellent stability performance of the system and its usability. Particularly, it includes an axial cooling feedthrough which allow the cooling lines to the optics to remain short and they don’t need to accommodate the scanning motion of the crystal cage. After the system was installed in the optics hutch of DanMAX, onsite measurements at operating conditions were performed achieving a relative pitch stability of 22nrad RMS and a vertical stability as low as 3.30nrad RMS. We are awaiting beam stability results to correlate with our findings.
+*P. Kristiansen et al., J. Synchrotron Rad. (2016). 23, 1076-1081
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB06
+Installation and Commissioning of the Exactly-Constrained X-Ray Mirror Systems for Sirius/LNLS
+33
+
+
+ 
+
+V.B. Zilli, C.S.N.C. Bueno, G.V. Claudiano, R.R. Geraldes, G.N. Kontogiorgos, F.R. Lena, S.A.L. Luiz, G.B.Z.L. Moreno, A.C. Pinto, G.L.M.P. Rodrigues, M.S. Souza, L.M. Volpe
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology and Innovation (MCTI)
+Innovative exactly-constrained thermo-mechanical de-signs for beamline X-ray mirrors have been developed since 2017 at the 4th-generation Sirius Light Source at the Brazilian Synchrotron Light Laboratory (LNLS). Due to the specific optical layouts of the beamlines, multiple systems cover a broad range of characteristics, including: power management from a few tens of mW to tens of W, via passive room-temperature operation, water cooling or indirect cryocooling using copper braids; mirror sizes ranging from 50 mm to more than 500 mm; mirrors with single or multiple optical stripes, with and without coat-ings; and internal mechanics with one or two degrees of freedom for optimized compromise between alignment features, with sub-100-nrad resolution, and high dynamic performance, with first resonances typically above 150 Hz. Currently, nearly a dozen of these in-house mirror systems is operational or in commissioning at 5 beam-lines at Sirius: MANACÁ, CATERETÊ, CARNAÚBA, EMA and IPÊ, whereas a few more are expected by the end of 2021 with the next set of the forthcoming beam-lines. This work highlights some of the design variations and describes in detail the workflow and the lessons learned in the installation of these systems, including: modal and motion validations, as well as cleaning, as-sembling, transportation, metrology, fiducialization, alignment, baking and cooling. Finally, commissioning results are shown for dynamic and thermal stabilities, and for optical performances.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Poster MOPB06 [1.959 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB06
+
+ 
+
+
+About •
+paper received ※ 12 August 2021       paper accepted ※ 13 October 2021        issue date ※ 07 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB08
+Vibration Assessment at the CARNAÚBA Beamline at Sirius/LNLS
+37
+
+
+ 
+
+C.S.N.C. Bueno, F.A. Borges, G.R.B. Ferreira, R.R. Geraldes, L.M. Kofukuda, M.A.L. Moraes, G.B.Z.L. Moreno, D.V. Rocha e Silva, M.H.S. Silva, H.C.N. Tolentino, L.M. Volpe, V.B. Zilli, G.S. de Albuquerque
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology and Innovation (MCTI)
+CARNAÚBA (Coherent X-Ray Nanoprobe Beamline) is the longest beamline at Sirius Light Source at the Brazilian Synchrotron Light Laboratory (LNLS), working in the energy range between 2.05 and 15 keV and hosting two stations: the sub-microprobe TARUMÃ, with coherent beam size varying from 550 to 120 nm; and the nanoprobe SAPOTI, with coherent beam size varying from 150 to 30 nm. Due to the long distances from the insertion device to the stations (136 and 143 m) and the extremely small beam sizes, the mechanical stability of all opto-mechanical systems along the facility is of paramount importance. In this work we present a comprehensive set of measurements of both floor stability and modal analyses for the main components, including: two side-bounce mirror systems; the four-crystal monochromator; the Kirkpatrick-Baez (KB) focalizing optics; and the station bench and the sample stage at TARUMÃ. To complement the components analyses, we also present synchronized long-distance floor acceleration measurements that make it possible to evaluate the relative stability through different floor slabs: the accelerator slab, over which the insertion device and first mirror are installed; experimental hall slab, which accommodates the second mirror; and the slabs in satellite building, consisting of three inertial blocks lying over a common roller-compacted concrete foundation, the first with the monochromator and the remaining ones with an station each. In addition to assessing the stability across this beamline, this study benchmarks the in-house design of the recently-installed mirrors, monochromators and end-stations.
+
+ 
+
+
+
+
+
+
+Poster MOPB08 [3.006 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB08
+
+ 
+
+
+About •
+paper received ※ 29 July 2021       paper accepted ※ 16 September 2021        issue date ※ 09 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB09
+The Design and Manufacturing of Superconducting Undulator Magnets for the Advanced Photon Source Upgrade
+41
+
+
+ 
+
+E.A. Anliker, Q.B. Hasse, Y. Ivanyushenkov, M. Kasa, Y. Shiroyanagi
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science under Control DE-AC02-06CH11357.
+The Advanced Photon Source Upgrade (APSU) will include four full length Superconducting Undulators (SCUs). These SCUs require new undulator magnets to achieve the required performance of the new machine. The magnets are fabricated from low carbon steel and wound with NbTi superconductor. To meet the needs of the users of the new machine these magnets will be manufactured in different lengths and magnetic periods to accommodate SCUs in both inline and canted configurations. Because the magnets for the SCUs cannot be shimmed like permanent magnet undulators, they need to have very tight tolerances for the poles and the winding grooves. This poses unique manufacturing and fabrication challenges. This paper will cover the design of the 1.9 m long magnets for the inline SCUs, their measurement data, lessons learned from manufacturing, and an overview of design changes that were made for the magnets to be used in the canted SCU configurations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB09
+
+ 
+
+
+About •
+paper received ※ 21 July 2021       paper accepted ※ 29 October 2021        issue date ※ 05 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB10
+The Advanced Photon Source Upgrade (APSU) Superconducting Undulator (SCU) Component Database (CDB) Utilization
+44
+
+
+ 
+
+G.C. Avellar, E.A. Anliker, J.E. Lerch, J.G. Saliba, M.E. Szubert
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science under Control DE-AC02-06CH11357.
+The Component Database (CDB) is a document management platform created for the use of the Advanced Photon Source Upgrade (APSU) Project. It serves two major functions: (1) a centralized location to link all data relating to field-replaceable upgrade components, and (2) a way to track the components throughout the machine’s 25-year lifetime. There are four (4) Superconducting Undulators (SCUs): two (2) Inline 16.5mm period devices, one (1) Canted 16.5mm period device, and one (1) Canted 18.5mm period device. Throughout the production process for these devices, tracking components between the different designs of SCU’s has proven to be a logistical issue, as there are uniform components among all 4 devices, but many unique components as well. As the scope evolved from a Research and Development (R&D) activity to a production scope, the CDB has been critical in communicating with a growing team, allowing anyone to identify a part or assembly and access all its design and manufacturing data. The 4.8-meter long SCUs are the first of their kind, requiring thorough onsite inspections, intricate assembly procedurals, and approved safety protocols. This is ideal information to document in an electronic traveler (e-traveler), which can then be attached to an item within the CDB. By providing a straightforward process for technicians to follow, the risk of miscommunication and unsafe practices are minimized. The CDB plays a vital role in simplifying and optimizing the transition of the SCU from an R&D unit to a production scope, from procurement to inspection, assembly and installation, and throughout the lifespan of machine maintenance.
+
+ 
+
+
+
+
+
+
+Poster MOPB10 [0.744 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB10
+
+ 
+
+
+About •
+paper received ※ 28 July 2021       paper accepted ※ 05 October 2021        issue date ※ 10 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB11
+The Advanced Photon Source Upgrade (APSU) Straight Section Vacuum Systems First Article Fabrication
+47
+
+
+ 
+
+M.E. Szubert, E.A. Anliker, G.C. Avellar, J.E. Lerch
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Control DE-AC02-06CH11357.
+The Advanced Photon Source Upgrade (APSU) includes 40 straight sections, 35 of which will be outfitted with Superconducting Undulators (SCUs) or Hybrid-Permanent Magnetic Undulators (HPMUs). The vacuum systems for these devices are primarily fabricated from aluminum extrusions and are required to provide Ultra-High Vacuum continuity between storage ring (SR) sec-tors for a nominal distance of ~5.4 meters. Each vacuum system has unique fabrication challenges, but all first article (FA) components have been produced successfully. The FAs arrived onsite at ANL installation-ready, but have undergone functional testing activities to verify the production and vacuum certifications. The Insertion Device Vacuum Chamber (IDVC), used in HPMU sec-tors, is produced by SAES Rial Vacuum (Parma, Italy). The SCU vacuum system components are produced by two vendors, Cinel Instruments (Venice, Italy) and Anderson Dahlen (Ramsey, MN, USA). Based on the reliable outcomes and lessons learned from the FAs, production of the straight section vacuum systems is underway.
+
+ 
+
+
+
+
+
+
+Poster MOPB11 [2.357 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB11
+
+ 
+
+
+About •
+paper received ※ 27 July 2021       paper accepted ※ 05 October 2021        issue date ※ 27 October 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB13
+Automated Mechanical Inspection and Calibration of Insertion Devices in APS Storage Ring
+50
+
+
+ 
+
+N.R. Weir, E. Gubbels
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Argonne National Laboratory under Contract No. DE-AC02-06CH11357.
+A novel technique has been developed to automatically inspect and calibrate the 53 permanent magnet insertion devices in the Advanced Photon Source (APS) storage ring. This technique employs standard frequency domain analysis to create easily identifiable signatures in an actionable format. We will discuss the mechanisms and actions taken behind various observed trends and its application for continuous monitoring and predictive maintenance of these devices. This technique has enabled predictive maintenance and provided new insights into optimizing device performance.
+
+ 
+
+
+
+
+
+
+Poster MOPB13 [1.783 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB13
+
+ 
+
+
+About •
+paper received ※ 26 July 2021       paper accepted ※ 01 October 2021        issue date ※ 30 October 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPB15
+A Comparison of Front-End Design Requirements
+53
+
+
+ 
+
+S.K. Sharma
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Front ends of the NSLS-II storage ring have numerous design requirements to ensure equipment and personal safety aspects of their designs. These design requirements, especially many pertaining to ray tracings, have gradually become overly stringent and a review is underway to simplify them for building future front ends. As a part of this effort we have assembled the front-end design requirements used in several other light sources. In this paper the assembled design requirements are discussed in comparison with those currently in use at NSLS-II.
+
+ 
+
+
+
+
+
+
+Poster MOPB15 [0.433 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-MOPB15
+
+ 
+
+
+About •
+paper received ※ 20 July 2021       paper accepted ※ 01 October 2021        issue date ※ 10 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

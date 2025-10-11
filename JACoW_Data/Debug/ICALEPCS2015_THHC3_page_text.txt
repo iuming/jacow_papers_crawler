@@ -1,0 +1,274 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: THHC3 (User interfaces and tools)
+
+
+THHC3 —  User interfaces and tools   (22-Oct-15   13:00—14:15)
+Chair: N. Yamamoto, KEK, Ibaraki, Japan
+
+
+Paper
+Title
+Page
+
+
+
+THHC3O01
+The MeerKAT Graphical User Interface Technology Stack
+1134
+
+
+ 
+
+M. Alberts, F. Joubert
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: SKA South Africa National Research Foundation of South Africa Department of Science and Technology 3rd floor, The Park Park Road Pinelands ZA - Cape Town 7405 +27 21 506 7300
+The South African MeerKAT radio telescope, currently being built some 90 km outside the small Northern Cape town of Carnarvon, is a precursor to the Square Kilometre Array (SKA) telescope and will be integrated into the mid-frequency component of SKA Phase 1. Providing the graphical user interface (GUI) for MeerKAT required a reassessment of currently employed technologies with a strong focus on leveraging modern user interface technologies and design techniques. An extensive investigation was performed to evaluate and assess potential GUI technologies and frameworks. The result of this investigative study identified a responsive web application for the frontend and asynchronous web server for the backend. In particular the AngularJS framework used in combination with Material Design principles, Websockets and other popular javascript layout and imaging libraries, such as D3.js, proved an ideal fit for the requirements of the MeerKAT GUI frontend. This paper will provide a summary of the user interface technology investigation and further expound on the whole technology stack adopted to provide a modern user interface with real time capabilities.
+
+ 
+
+
+
+
+
+
+Slides THHC3O01 [10.206 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHC3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHC3O02
+WebPODS: Accessing Control Data Through Web Standards (WebSockets, JSON, HTML, CSS)
+ 
+
+
+ 
+
+G. Carcassi, K. Shroffpresenter
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+WebPODS is a set of tools to access and display soft real-time publish/subscribe data using Web standards. The server uses JSON encoding over WebSockets to push updates to the clients, which could include browsers, standalone Java/C applications or python scripts. A client Javascript is also provided, together with a number of HTML widgets that can be customized using standard CSS. The data layer used by the server is the same of Control System Studio, thus providing a broad and consistent set of functionality out of the box.
+
+ 
+
+
+
+
+
+
+Slides THHC3O02 [1.388 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHC3O03
+Effortless Creation of Control & Data Acquisition Graphical User Interfaces with Taurus
+1138
+
+
+ 
+
+C. Pascual-Izarra, G. Cuní, C.M. Falcón Torres, D. Fernández-Carreiras, Z. Reszela, M. Rosanes Siscart
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+T.M. Coutinho
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+Creating and supporting Graphical User Interfaces (GUIs) for experiment control and data acquisition has traditionally been a major drain of time and resources for laboratories. GUIs often need to be adapted to new equipment or methods, but typical users lack the technical skills to perform the required modifications, let alone to create new GUIs. Here we present the Taurus* framework which allows a non-programmer to create a fully-featured GUI (with forms, plots, synoptics, etc) from scratch in a few minutes using a "wizard" as well as to customize and expand it by drag-and-dropping elements around at execution time. Moreover, Taurus also gives full control to more advanced users to access, create and customize a GUI programmatically using Python. Taurus is a free, open source, multi-platform pure Python module (it uses PyQt for the GUI). Its support and development are driven by an active and welcoming community participated by several major laboratories and companies which use it for their developments. While Taurus was originally designed within the Sardana** suite for the Tango*** control system, now it can also support other control systems (even simultaneously) via plug-ins.
+* Taurus Home Page: http://taurus-scada.org** Sardana Home Page: http://sardana-controls.org*** Tango Home Page: http://tango-controls.org
+
+ 
+
+
+
+
+
+
+Slides THHC3O03 [23.185 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHC3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHC3O04
+A Web-Based User Interface for MX1 and MX2 Beamline Data collection at the Australian Synchrotron
+ 
+
+
+ 
+
+L.M. Jong, D. Aragao, T. Caradoc-Davies, M. Clift, N. Cowieson, C.U. Felzmann, N. Mudie
+                       SLSA, Clayton, Australia
+
+ 
+
+
+ 
+
+The MX1 and MX2 beamlines at the Australian Synchrotron are single crystal diffraction beamlines, servicing the needs of protein and chemical crystallography communities. A web-based user interface for driving data collections, called YAIBEX (Yet Another Integrated Beamline Environment for Crystallography) has been developed. This system is designed to replace the collect tab on the SSRL BluICE system which is written in TCL language and was forked at deployment from the original code making it difficult to take advantage of bug fixes and improvements from the upstream. Our system utilises Flask, a minimalist Python web application framework, chosen to leverage the existing Python-based infrastructure existing at the beamline, the language's widespread use in the scientific community including existing libraries, and better support from the local Controls and Scientific Computing groups. Improvements on the existing system include integration with custom beamline libraries, user portal integration for pre-filling information and an easy, tabular layout to view a history of data collections for the current session and remote access directly in the user internet browser.
+
+ 
+
+
+
+
+
+
+Slides THHC3O04 [3.418 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHC3O05
+National Ignition Facility (NIF) Experiment Interface Consolidation and Simplification to Support Operational User Facility
+1143
+
+
+ 
+
+A.D. Casey, E.J. Bond, B.A. Conrad, M.S. Hutton, P.D. Reisdorf, S.M. Reisdorf
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344
+The National Ignition Facility (NIF) at the Lawrence Livermore National Laboratory is a 192-beam 1.8 MJ ultraviolet laser system designed to support high-energy-density science. NIF can create extreme states of matter, including temperatures of 100 million degrees and pressures that exceed 100 billion times Earth's atmosphere. At these temperatures and pressures, scientists explore the physics of planetary interiors, supernovae, black holes and thermonuclear burn. In the past year, NIF has transitioned to an operational facility and significant focus has been placed on how users interact with the experimental tools. The current toolset was developed with a view to commissioning the NIF and thus allows flexibility that most users do not require. The goals of this effort include enhancing NIF's external website, easier proposal entry, reducing both the amount and frequency of data the users have to enter, and simplifying user interactions with the tools while reducing the reliance on custom software. This paper will discuss the strategies adopted to meet the goals, highlight some of the user tool improvements that have been implemented and planned future directions for the toolset.
+
+ 
+
+
+
+
+
+
+Slides THHC3O05 [3.167 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHC3O05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,309 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2018 - Table of Session: MOPAF (Monday Parallel Fiesta Key)
+
+
+MOPAF —  Monday Parallel Fiesta Key   (22-Oct-18   11:00—12:15)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPAF01
+Muon g-2: An Interplay of Beam Dynamics and HEP
+ 
+
+
+ 
+
+M.J. Syphers
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+The Fermilab experiment E989, Muon g-2, unites particle beam physics with a high energy physics experiment in a unique way. The close interplay of the understanding of particle beam dynamics and the preparation of the beam properties for the experimental measurement is tantamount to the reduction of systematic errors in the determination of the anomalous magnetic moment of the muon to unprecedented precision. The precision of the g-2 measurement will be increased by a factor of four over the most recent case (BNL, E821) mostly due to the increased statistics offered by the higher proton flux delivered by the Fermilab accelerators. However, it is possible that even further gains can be made through a better understanding of the muon beam being delivered to the g-2 Storage Ring. Several effects come into play that can contribute to systematic errors and for which detailed calculations and modeling of the incoming muon beam properties will aid in interpreting the results.  Various correlations of spin and momentum, spin and position along the bunch, etc., will become important to understand during the analysis of the experiment’s data sets. While orders of magnitude of these types of effects are straightforward to estimate, detailed calculations and experimental verification of beam properties will be necessary to contribute to the sub-ppm accuracy of the g-2 measurement.
+
+ 
+
+
+
+
+
+
+Slides MOPAF01 [19.478 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPAF02
+Realistic Modeling of the Muon g-2 Experiment Beamlines at Fermilab
+134
+
+
+ 
+
+D. Tarazona, M. Berz, K. Makino
+                       MSU, East Lansing, Michigan, USA
+D. Stratakis, M.J. Syphers
+                       Fermilab, Batavia, Illinois, USA
+M.J. Syphers
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy under Award No. DE-FG02-08ER41546, by the PhD Accelerator Program at Fermilab, and by a Strategic Partnership Grant from the MSU Foundation.
+The main goal of the Muon g-2 Experiment at Fermilab (E989) is to measure the muon anomalous magnetic moment (a, also dubbed as the "anomaly’’) to unprecedented precision. This new measurement will allow to test the completeness of the Standard Model (SM) and to validate other theoretical models beyond the SM. Simulations of the beamlines from the pion production target to the entrance of the g-2 Storage Ring using COSY INFINITY contribute to the understanding and characterization of the muon beam production in relation to the statistical and systematics uncertainties of the E989 measurement. The effect of nonlinearites from fringe fields and high-order contributions on the beam delivery system performance are considered, as well as interactions with the beamline elements apertures, particle decay channels, spin dynamics, and beamline misalignments.
+
+ 
+
+
+
+
+
+
+Slides MOPAF02 [14.110 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-MOPAF02
+
+ 
+
+
+About •
+paper received ※ 22 October 2018       paper accepted ※ 28 January 2019        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPAF03
+Polarization Lifetime in an Electron Storage Ring, an Ergodic Approach in eRHIC EIC
+140
+
+
+ 
+
+F. Méot
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy
+Electron polarization in a storage ring is subject to two very long term effects: Sokolov-Ternov polarization and depolarization by diffusion. This leads to an equilibrium state over a very long time scale, and, simulation-wise, is highly CPU-time and -memory consuming. Simulations aimed at determining optimal ring storage energy in an electron-ion collider in this context, are always based on tracking bunches with thousands of particles, and in addition for short time scales in comparison, due to HPC limitations. Based on considerations of ergodicity of electron bunch dynamics in the presence of synchrotron radiation, and on the very slow depolarization aimed at in a collider, tracking a single particle instead is investigated, here. This saves a factor of more than 2 orders of magnitudes in the parameter CPU-time*Memory-allocation, it allows much longer tracking and thus improved accuracy on the evaluation of polarization and time constants. The concept is illustrated with polarization lifetime and equilibrium polarization simulations at the eRHIC electron-ion collider.
+
+ 
+
+
+
+
+
+
+Slides MOPAF03 [1.758 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-MOPAF03
+
+ 
+
+
+About •
+paper received ※ 23 October 2018       paper accepted ※ 27 January 2019        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPAF04
+Spin Dynamics in Modern Electron Storage Rings: Computational Aspects
+146
+
+
+ 
+
+O. Beznosov, J.A. Ellison, K.A. Heinemann
+                       UNM, Albuquerque, New Mexico, USA
+D. Appelö
+                       University of Colorado at Boulder, Boulder, USA
+D.P. Barber
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: This material is based on work supported by the U.S. Department of Energy, Office of Science, Office of High Energy Physics, under Award Number DE-SC0018008.
+In this talk we present some numerical results from our work on the spin polarization in high energy electron storage rings. The motivation of our work is to understand spin polarization in very high energy rings like the proposed Future Circular Collider* (FCC-ee) and Circular Electron Positron Collider** (CEPC). This talk is a supplement to K. Heinemann’s talk and gives further numerical details and results. As discussed in Heinemann’s talk our work is based on the initial value problem of the full Bloch equations*** (FBEs) which in turn determines the polarization vector of the bunch. The FBEs take into account spin diffusion effects and spin-flip effects due to synchrotron radiation. The FBEs are a system of three uncoupled Fokker-Planck equations plus coupling terms. Neglecting the spin flip terms in the FBEs one gets the reduced Bloch equations (RBEs) which poses the main computational challenge. Our numerical approach has three parts. Firstly we approximate the FBEs analytically using the method of averaging, resulting in FBEs which allow us to use large time steps (without the averaging the time dependent coefficients of the FBEs would necessitate small time steps). The minimum length of the time interval of interest is of the order of the orbital damping time. Secondly we discretize the averaged FBEs in the phase space variables by applying the pseudospectral method, resulting in a system of linear first-order ODEs in time. The phase space variables come in d pairs of polar coordinates where d = 1, 2, 3 is the number of degrees of freedom allowing for a d-dimensional Fourier expansion. The pseudospectral method is applied by using a Chebychev grid for each radial variable and a uniform Fourier grid for each angle variable. Thirdly we discretize the ODE system by a time stepping scheme. The presence of parabolic terms in the FBEs necessitates implicit time stepping and thus solutions of linear systems of equations. Dealing with 2d + 1 independent variables p
+* See http://tlep.web.cern.ch  ** See http://cepc.ihep.ac.cn *** See http://ipac2018.vrws.de/papers/thpak144.pdf
+
+ 
+
+
+
+
+
+
+Slides MOPAF04 [0.993 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-MOPAF04
+
+ 
+
+
+About •
+paper received ※ 20 October 2018       paper accepted ※ 24 October 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPAF05
+Approaches to Optimizing Spin Transmission in Lattice Design
+151
+
+
+ 
+
+V.H. Ranjbar
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+We present our experiences in optimizing the proposed Rapid Cycling Synchrotron (RCS) injector for the eRHIC Storage ring and the RHIC 2017 lattice. We have develop python code to drive lattice calculations in MADX which are then used to calculate spin resonances using the DEPOL algorithm. This approach has been used to minimize intrinsic spin resonances during the RCS acceleration cycle while controlling lattice parameters such as dispersion and beta functions. This approach has also been used to construct localized imperfection bumps using a spin response matrix and SVD. This approach has also been used to reduce interfering intrinsic spin resonances during the RHIC acceleration ramp.
+
+ 
+
+
+
+
+
+
+Slides MOPAF05 [1.333 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-MOPAF05
+
+ 
+
+
+About •
+paper received ※ 17 October 2018       paper accepted ※ 24 October 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FLS2018 - Table of Session: TUP1WD (WG-D)
+
+
+TUP1WD —  WG-D   (06-Mar-18   14:00—15:30)
+Chair: Y.B. Leng, SINAP, Shanghai, People's Republic of China
+
+
+Paper
+Title
+Page
+
+
+
+TUP1WD01
+Comparative Study of RF BPM Performance via Beam Measurements at NSLS-II
+ 
+
+
+ 
+
+D. Padrazo Jr, T.V. Shaftan
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+NSLS-II developed and built RF BPM receivers that have been used in the past three years during commissioning of 200 MeV linac, 3 GeV booster and storage ring and now are in routine operations. Recently we completed an upgrade of BPM DFE Digital Front End gaining benefits of a Xilinx Zynq FPGA. This FPGA includes a hard dual-core ARM A9 processor which will permit more advanced signal processing routines, faster ethernet communication, as well as resources to implement a pilot tone based active calibration, eliminating the need of thermal controlled racks. In the past year we procured a Libera Brilliance Plus BPM electronics unit to benchmark the outcome of our upgrade with respect to one of the best commercially available solutions. This presentation is focused on comparison of performance between NSLS-II RF BRM version 2 with the Libera unit focusing on the following performance parameters: Long term stability for 10Hz, as well as characterization of FA, TBT and ADC Raw data set. We conclude our presentation by outlining future directions in upgrading NSLS-II RF BPM AFE, DFE and high-level controls to enable breakthrough in the area of diagnostics of charged particle beams.
+
+ 
+
+
+
+
+
+
+Slides TUP1WD01 [3.555 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUP1WD02
+A Study on the Improved Cavity Bunch Length Monitor for FEL
+39
+
+
+ 
+
+Q. Wang, X.Y. Liu, P. Lu, Q. Luo, B.G. Sun, L.L. Tang, J.H. Wei, F.F. Wu, Y.L. Yang, T.Y. Zhou, Z.R. Zhou
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by The National Key Research and Development Program of China (2016YFA0401900), NSFC (11375178, 11575181) and the Fundamental Research Funds for the Central Universities (WK2310000046)
+Bunch length monitors based on cavities have great potential especially for future high quality beam sources because of many advantages such as simple structure, wide application rage, and high signal-to-noise ratio (SNR). The traditional way to measure bunch length needs two cavities at least. One is reference cavity, whose function is to get the beam intensity. The other one is defined as main cavity, which is used to calculate the bunch length. There are some drawbacks. To improve performance, the mode and the cavity shape are changed. At the same time, the position and orientation of coaxial probe are designed to avoid interference modes which come from the cavity and beam tube according to the analytic formula of the electromagnetic field distribution. A series simulation based on CST is performed to verify the feasibility, and the simulation results reveal that the improved monitor shows good performance in bunch length measurement.
+
+ 
+
+
+
+
+
+
+Slides TUP1WD02 [3.505 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-FLS2018-TUP1WD02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUP1WD03
+The Development and Applications of the Digital BPM Signal Processor at SINAP
+43
+
+
+ 
+
+L.W. Lai, S.S. Cao, F.Z. Chen, Y.B. Leng, Y.B. Yan, W.M. Zhou
+                       SSRF, Shanghai, People's Republic of China
+J. Chen, Y.B. Leng, Y.B. Yan, W.M. Zhou
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+BPM signal processor is one of key beam diagnostics instruments. It has been progressing from analog to digital. The current major processors are digital BPM signal processor (DBPM). Except for some commercial products on-the-shelf, several laboratories developed in-house DBPMs for their own facilities. SINAP started the DBPM development since 2009, when the SSRF phase-I has been completed. After years of optimization, the DBPM has been used in large-scale on some facilities, including SSRF, DCLS and SXFEL. At the same time, some extended functions have been developed to meet special applications on accelerator based on the hardware platform. This topic will introduce the development and applications of the DBPM at SINAP, also the future DBPM development for next generation light source will be discussed here.
+
+ 
+
+
+
+
+
+
+Slides TUP1WD03 [14.850 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-FLS2018-TUP1WD03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

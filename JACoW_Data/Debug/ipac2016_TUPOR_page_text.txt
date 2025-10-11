@@ -1,0 +1,1226 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2016 - Table of Session: TUPOR (Poster Session)
+
+
+TUPOR —  Poster Session   (10-May-16   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPOR001
+Lifetime Improvements with a Harmonic RF System for the ESRF EBS
+1644
+
+
+ 
+
+N. Carmignani, L. Farvacque, J. Jacob, S.M. Liuzzo, B. Nash, T.P. Perron, P. Raimondi, R. Versteegen, S.M. White
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+A third-harmonic RF system to increase the Touschek lifetime is under study for the European Synchrotron Radiation Facility (ESRF) Extremely Brilliant Source (EBS) storage ring, in particular for modes with high current per bunch. Multi-particle simulations have been done to study the bunch lengthening and shape in presence of inductive impedance and a third-harmonic RF system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR001
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR002
+Residual Ion Dynamics in ThomX Electron Storage Ring
+1648
+
+
+ 
+
+A.R. Gamelin, C. Bruni
+                       LAL, Orsay, France
+
+ 
+
+
+ 
+
+Funding: Work is supported by ANR-10-EQPX-51, by grants from Région Ile-de-France, IN2P3 and Pheniics Doctoral School.
+ThomX is a compact Compton Backscattering Source (CBS) which is being built in Orsay, France. Ions produced from residual gas in the storage ring can induce several instabilities. However the electron beam stability is crucial to attain the nominal performances foreseen. In order to prevent instabilities ion cleaning is considered. Complete studies of the beam effect on the ions have been undertaken. It shows that there are preferential ion accumulation points depending on the storage ring lattice. This paper will detail the ion longitudinal and transverse dynamics considering the optics of ThomX storage ring.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR003
+CSR-Driven Longitudinal Single Bunch Instability with Negative Momentum Compaction Factor
+1651
+
+
+ 
+
+P. Kuske
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Acceptable agreement is found between experimental results obtained at the Metrology Light Source (MLS) operated with negative momentum compaction factor, α, and theoretical estimates of the CSR-driven threshold currents. Theoretical instability thresholds are estimated by numerically solving the Vlasov-Fokker-Planck equation and/or by multi particle tracking and taking into account the shielded CSR-interaction. Some of the issues with the calculations, the determination of the theoretical thresholds as well as the derivation of a general scaling law will be presented
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR003
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR004
+Calculation of Transverse Coupled Bunch Instabilities in Electron Storage Rings Driven By Quadrupole Higher Order Modes
+1655
+
+
+ 
+
+M. Ruprecht, P. Goslawski, M. Ries, G. Wüstefeld
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+This paper presents a formula that estimates the growth rate of a transverse coupled bunch instability driven by quadrupole higher order modes (HOMs) in electron storage rings. Thus far, quadrupole HOMs are usually ignored in HOM driven instability studies for electron storage rings due to their weak nature compared to the lower orders. However, they may become relevant when high gradient SC multi-cell cavities with their potentially strong impedance spectrum are operated at high currents in a third generation or future synchrotron light source. An example is BESSY VSR, a scheme where 1.7 ps and 15 ps long bunches (rms) can be stored simultaneously in the BESSY II storage ring[*]. With the presented formula, instability thresholds are discussed for a recent BESSY VSR cavity model and different beam parameters.
+* A. Jankowiak, J. Knobloch, P. Goslawski, and N. Neumann, eds., BESSY VSR - Technical Design Study, Helmholtz-Zentrum Berlin für Materialien und Energie GmbH, 2015. 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR004
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR005
+A Parallelized Vlasov-Fokker-Planck-Solver for Desktop PCs
+1658
+
+
+ 
+
+P. Schönfeldt, M. Brosi, A.-S. Müller, J.L. Steinmannpresenter
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+In order simulate the dynamics of an electron bunch due to the self-interaction with its own coherent synchrotron radiation it is a well established method to numerically solve the Vlasov-Fokker-Planck equation. In this paper we present a new, modularly extensible program that uses OpenCL to massively parallelize the computation, allowing a standard desktop PC to work with appropriate accuracy and yield reliable results within minutes. We provide numerical stability studies of over a huge parameter range and comparisons of our numerical results to other techniques.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR005
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR006
+Systematic Studies of Short Bunch-Length Bursting at ANKA
+1662
+
+
+ 
+
+M. Brosi, E. Blomley, E. Bründermann, N. Hiller, B. Kehrer, A.-S. Müller, M. Schedler, M. Schuh, P. Schönfeldt, J.L. Steinmannpresenter
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by the German Federal Ministry of Education and Research (05K13VKA), the Helmholtz Association (VH-NG-320) and by the Helmholtz International Research School for Teratronics (HIRST).
+At ANKA, the Karlsruhe synchrotron radiation source, the so called short bunch-length operation mode allows the reduction of the bunch length down to a few picoseconds. The micro-bunching instability resulting from the high degree of longitudinal compression leads to fluctuations in the emitted intensity in the THz regime, referred to as bursting. For extremely compressed bunches at ANKA bursting also occurs, in a certain current range, below the main bursting threshold. This contribution shows measurements of this short bunch-length bursting and makes first comparisons with theory.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR006
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR008
+Effect of the Various Impedances on Longitudinal Beam Stability in the CERN SPS
+1666
+
+
+ 
+
+A. Lasheen, T. Argyropoulos, J. Repond, E.N. Shaposhnikova
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The High Luminosity (HL)-LHC project at CERN aims at a luminosity increase by a factor ten and one of the necessary ingredients is doubling the bunch intensity to 2.4x1011 ppb for beams with 25 ns bunch spacing. Many improvements are already foreseen in the frame of the LHC Injector Upgrade (LIU) project, but probably this intensity would still not be reachable in the SPS due to longitudinal instabilities. Recently a lot of effort went into finding the impedance sources of the instabilities. Particle simulations based on the latest SPS impedance model are now able to reproduce the measured instability thresholds and were used to determine the most critical impedance sources by removing them one by one from the model. It was found that impedance of vacuum flanges and of the already damped 630 MHz HOM of the main RF system gave for 72 bunches the comparable intensity thresholds. Possible intensity gains are defined for realistic impedance modifications and for various beam configurations (number of bunches, longitudinal emittances) and RF programs (single and double RF). The results of this study are used as a guideline for planning of a new campaign of the SPS impedance reduction.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR008
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR009
+Single Bunch Longitudinal Instability in the CERN SPS
+1670
+
+
+SUPSS055
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A. Lasheen, T. Bohl, S. Hancock, T. Roggen, E.N. Shaposhnikova
+                       CERN, Geneva, Switzerland
+E. Radvilas
+                       Gediminas Technical University, Vilnius, Lithuania
+
+ 
+
+
+ 
+
+The longitudinal single bunch instability observed in the SPS leads to uncontrolled emittance blow-up and limits the quality of high intensity beams required for the High Luminosity LHC and AWAKE projects at CERN. The present SPS impedance model developed from a thorough survey of machine elements was used in macro-particle simulations (with the code BLonD) of the bunch behavior through the acceleration cycle. Comparison of simulations with measurements of the synchrotron frequency shift, performed on the SPS flat bottom to probe the impedance, show a reasonable agreement. During extensive experimental studies various beam and machine parameters (bunch intensity, longitudinal emittance, RF voltage, with single and double RF systems) were scanned in order to further benchmark the SPS impedance model with measurements and to better understand the mechanism behind the instability. It was found that the dependence of instability threshold on longitudinal emittance and beam energy has an unexpected non-monotonic behavior, leading to islands of (in)stability. The results of this study are presented and can be used to define possible parameter settings for the future CERN projects.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR009
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR010
+Simulation of Instability at Transition Energy with a New Impedance Model for CERN PS
+1674
+
+
+ 
+
+N. Wang
+                       IHEP, Beijing, People's Republic of China
+S. Aumon, N. Biancacci, M. Migliorati, G. Sterbinipresenter, N. Wang
+                       CERN, Geneva, Switzerland
+M. Migliorati
+                       INFN-Roma1, Rome, Italy
+S. Persichelli
+                       University of Rome La Sapienza, Rome, Italy
+
+ 
+
+
+ 
+
+Instabilities driven by the transverse impedance are proven to be one of the limitations for the high intensity reach of the CERN PS. Since several years, fast single bunch vertical instability at transition energy has been observed with the high intensity bunch serving the neu-tron Time-of-Flight facility (n-ToF). In order to better understand the instability mechanism, a dedicated meas-urement campaign took place. The results were compared with macro-particle simulations with PyHEADTAIL based on the new impedance model developed for the PS. Instability threshold and growth rate for different longitu-dinal emittances and beam intensities were studied.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR011
+Study of Microwave Instability for SLS-2
+1678
+
+
+ 
+
+H.S. Xu, P. Craievich, M.M. Dehler, L. Stingelin
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+An ultra-low emittance electron storage ring is under development for the Upgrade of Swiss Light Source (SLS-2). An antechamber scheme consisting of round beam channel with 10 mm inner radius is considered to accommodate the required strong quadrupole and sextupole magnets, achieve the ultra-high vacuum, and absorb the undesired synchrotron radiation. However, the small size of vacuum chamber increases the susceptibility of the beam to the impedance induced collective instabilities. We will present the preliminary study of the microwave instability for SLS-2 storage ring considering the longitudinal Resistive-Wall (RW) impedance due to three different options for the beam chamber. The microwave instability thresholds are calculated under the conditions of two possible RF frequencies (100 MHz and 500 MHz) and three different materials (aluminum, copper, and stainless steel). The influences of third-harmonic cavities are also studied.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR012
+THz Coherent Synchrotron Radiation from Ultra-low Alpha Operating Mode at Diamond Light Source
+1682
+
+
+ 
+
+T. Chanwattana, M. Atay, R. Bartolinipresenter
+                       JAI, Oxford, United Kingdom
+R. Bartolinipresenter, G. Cinque, M. Frogley, E. Koukovini-Platia, I.P.S. Martin
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Diamond Light Source is regularly operated in low-alpha mode to provide THz coherent synchrotron radiation (CSR) and short X-ray pulses for users. In order to maintain the wide frequency range of the coherent radiation whilst improving the signal to noise ratio, an ultra-low alpha mode has been considered to shorten the bunch length even further. In order to study this mode, the analysis of single bunch dynamics resulting from a variety of wakefield sources has been investigated using a single bunch multiparticle tracking code. These results are compared with measurements recorded using a Fourier transform infrared (FTIR) interferometer on the MIRIAM beam-line at Diamond.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR012
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR013
+Analysis of Multi-bunch Instabilities at the Diamond Storage Ring
+1685
+
+
+ 
+
+R. Bartolini, R.T. Fielder, G. Rehm
+                       DLS, Oxfordshire, United Kingdom
+V.V. Smaluk
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+We present recent results of analytical, numerical and experimental analysis of multi-bunch instabilities at the Diamond storage ring. The works compares the impedance estimates from numerical modelling with the analysis of the growth rates of the excited multi-bunch modes in different machine configurations. The contribution of a number of wakefield sources has been identified with very high precision thanks to high quality data provided by the existing Transverse multi-bunch feedback diagnostics
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR013
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR016
+A Multi-GeV Recirculating Proton Linac
+1688
+
+
+ 
+
+J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+A high power GeV proton linac has many scientific applications. Recirculating RF linac as an efficient accelerator has been used and proposed to accelerate both electron and muon beams. In this paper, we propose using a multi-pass recirculating RF linac to attain a multi-GeV high power proton beam. This linac consists of three types of superconducting RF cavities that accelerate the proton beam multiple times from 150 MeV to final multiple GeV energy. Such a recirculating linac can significantly reduce the number of RF cavities in the accelerator and lower the cost of the facility.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR016
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR017
+Beam-beam Simulation of Crab Cavity with Frequence Dependent Noise for LHC Upgrade
+1691
+
+
+ 
+
+J. Qiang
+                       LBNL, Berkeley, California, USA
+G. Arduini, Y. Papaphilippou, T. Pieloni
+                       CERN, Geneva, Switzerland
+J. Barranco
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+High luminosity LHC upgrade will improve the luminosity of the current LHC operation by an order of magnitude. Crab cavity as a critical component for compensating luminosity loss from large crossing angle collision and also providing luminosity leveling for the LHC upgrade is being actively pursued. In this paper, we will report on the study of potential effects of the frequence-dependent crab cavity noise on the beam luminosity lifetime using strong-strong beam-beam simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR017
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR018
+Design Optimization of Compensation Chicanes in the LCLS-II Transport Lines
+1695
+
+
+ 
+
+J. Qiang, C.E. Mitchell, M. Venturini
+                       LBNL, Berkeley, California, USA
+Y. Ding, P. Emma, Z. Huang, G. Marcus, Y. Nosochkov, T.O. Raubenheimer, L. Wang, M. Woodley
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+LCLS-II is a 4th-generation high-repetition rate Free Electron Laser (FEL) based x-ray light source to be built at the SLAC National Accelerator Laboratory. To mitigate the microbunching instability, the transport lines from the exit of the Linac to the undulators will include a number of weak compensation chicanes with the purpose of cancelling the momentum compaction generated by the main bend magnets of the transport lines. In this paper, we will report on our design optimization study of these compensation chicanes in the presence of both longitudinal and transverse space-charge effects.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR018
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR019
+RF Injector Beam Dynamics Optimization and Injected Beam Energy Constraints for LCLS-II
+1699
+
+
+ 
+
+C.E. Mitchell, H.J. Qian, J. Qiang, F. Sannibale, M. Venturini
+                       LBNL, Berkeley, California, USA
+P. Emma, T.O. Raubenheimer, J.F. Schmerge, F. Zhou
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the Office of Science of the US Department of Energy under Contract no. DEAC02-05CH11231.
+LCLS-II is a proposed high-repetition rate (>1 MHz) Free Electron Laser (FEL) X-ray light source, based on a CW, superconducting linac, to be built at SLAC National Accelerator Laboratory. The injector technology is based on a high-repetition rate RF photoinjector gun developed as part of the Advanced Photoinjector Experiment (APEX) at Lawrence Berkeley National Laboratory. Exploration of the injector design settings is performed using a multiobjective genetic optimizer to optimize the beam quality at the injector exit (~100 MeV). In this paper, we describe the current status of LCLS-II injector design optimization, with a focus on the sensitivity of the optimized solutions to the beam energy at the injector exit, which is constrained by the requirements of the downstream laser heater system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR020
+Combination of Density and Energy Modulation in Microbunching Analysis
+1703
+
+
+ 
+
+C.-Y. Tsai
+                       Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA
+R. Li
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+Microbunching instability (MBI) has been one of the most challenging issues in the transport of high-brightness electron beams for modern recirculating or energy recovery linac machines. Recently we have developed and implemented a Vlasov solver* to calculate microbunching gain for an arbitrary beamline lattice design, based on the extension of early theoretical formulation** for the microbunching amplification from an initial density perturbation to the final density modulation. For more thorough analyses, in addition to the case of (initial) density to (final) density amplification, we in this paper extend the previous formulation to more general cases, including energy-to-density, density-to-energy and energy-to-energy amplifications for a recirculation machine. Such semi-analytical formulae are then incorporated into our Vlasov solver, and reasonable agreement is obtained when the semi-analytical results are benchmarked with particle tracking simulation using ELEGANT***.
+* C.Y. Tsai et al, FEL'15  ** S. Heifets et al, PRSTAB 5, 064401 (2002), Z. Huang and K. Kim, PRSTAB 5, 074401 (2002), M. Vneturini, PRSTAB 10, 104401 (2007)  *** M. Borland, APS LS-287, 2000 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR020
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR021
+Incoherent Vertical Emittance Growth from Electron Cloud at CesrTA
+1707
+
+
+ 
+
+S. Poprocki, J.A. Crittenden, S.N. Hearth, J.D. Perrin, D. L. Rubin, S. Wang
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the US National Science Foundation PHY-1416318, PHY-0734867, and PHY-1002467, and the U.S. Department of Energy DE-FC02-08ER41538
+We report on measurements of electron cloud (EC) induced tune shifts and emittance growth at the Cornell Electron-Positron Storage Ring Test Accelerator (CesrTA) with comparison to tracking simulation predictions. The simulations are based on a weak-strong model of the interaction of the positron beam (weak) with the electron cloud (strong), using electric fields computed with established EC buildup simulation codes (ECLOUD). Experiments were performed with 2.1 GeV positrons in a 30 bunch train with 14 ns bunch spacing and 9 mm bunch length, plus a witness bunch at varying distance from the train to probe the cloud as it decays. Measurements of the horizontal and vertical coherent tune shifts and horizontal and vertical bunch size were obtained for a range of train and witness bunch currents, and compared to simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR021
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR023
+Investigation of Trapped Resonant Modes in Insertion Devices at the Australian Synchrotron
+1710
+
+
+ 
+
+R.T. Dowd, M.P. Atkinson, M.J. Boland, G. LeBlanc, Y.E. Tan
+                       SLSA, Clayton, Australia
+D. Teytelman
+                       Dimtel, San Jose, USA
+
+ 
+
+
+ 
+
+The Australian Synchrotron light Source has 3 variable gap in-vacuum undulators (IVU) in the storage ring. Since installation, these devices have been the source of strong beam instabilities. These instabilities seem to behave as trapped resonant modes of very high Q and high frequency, although a definite source has not been identified. The presence of these instabilities has necessitated operating at unusually high chromaticity for much of the light source's operations. More recently transverse feedback has been able to control the instabilities and recent developments in diagnostics have allowed some investigation of the frequency and mode response of these resonances. The results of this investigation will be presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR025
+Beam Break-up Measurements at the Recirculating Electron Accelerator S-DALINAC
+1714
+
+
+ 
+
+T. Kürzeder, M. Arnold, L.E. Jürgensen, J. Pforr, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+F. Hug
+                       IKP, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by the German Federal Ministry for Education and Research (BMBF) under Grant No. 05K13RDA
+Beam break-up (BBU) instability is an important limitation to the current which can be accelerated in a superconducting linac. In particular recirculating machines and Energy Recovery Linacs have to deal with that problem. Therefore, it is important to find strategies for increasing the threshold currents of these machines. The superconducting accelerator S-DALINAC at the Technische Universität Darmstadt provides electron beams in c.w. for nuclear physics experiments since 1991. It consists of a 10 MeV injector and a 40 MeV main linac where two and eight 20-cell elliptical 3-GHz cavities are operated in a liquid helium bath at 2 K. Using two recirculation beam lines the main accelerator can be used up to 3 times. Operational experiences have shown that the design-beam current of 20 μA could not be reached. One reason is the occurrence of BBU. We will report on measurements of the threshold current at various energy settings of the S-DALINAC. The results of a first test to increase the BBU limit by using skew quadrupole magnets in the first recirculation beam line will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR026
+Final Design and Status of the Third Recirculation for the S-DALINAC*
+1717
+
+
+ 
+
+M. Arnold, T. Kuerzederpresenter, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+F. Hug
+                       IKP, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: *Work supported by DFG through CRC 634 and RTG 2128
+Since 1991 the twice-recirculating superconducting accelerator S-DALINAC is providing electron beams for nuclear physics experiments. Due to a reduced quality factor of its cavities in comparison to their design values it was not possible to operate the accelerator with its maximum design energy of 130 MeV in cw mode. To provide electron beams of this energy in the future it was decided to add one recirculation beam line in order to use the main linac four times, operating the cavities on decreased accelerating gradients. The necessary modifications consist of several different aspects: A new beamline needs to be installed and other pre-existing beam line sections have to be modified for matching new boundary conditions. These new conditions are mainly a result of beam dynamics simulations and of the design of a new separation dipole magnet, which will bend the different beams energy-dependent in the various recirculation beam lines. We will present the implemented design and give a status report on the project.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR026
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR027
+Interaction of RF Phase Modulation and Coupled-Bunch Instabilities at the DELTA Storage Ring
+1720
+
+
+ 
+
+M. Sommer, B.D. Isbarn, B. Riemann, T. Weis
+                       DELTA, Dortmund, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by the BMBF under contract no. 05K13PEB.
+Analyzing the interaction of RF phase modulation and coupled-bunch instabilities requires a method to determine damping rates of coupled-bunch modes at presence of RF phase modulation. This paper shows, that the common way of using exponential fits to determine damping rates is not viable for high modulation amplitudes. It presents a new method, which is capable of acquiring damping rates of coupled-bunch modes for phase shifts up to 5°, using a bunch-by-bunch feedback system. For this purpose a specific mode is excited by the feedback system and the saturation value, i.e. the maximum excitation, is measured to calculate the damping rate. With this new method, the modulation amplitude of the RF phase modulation is swept from 0° to 5° and it can be shown, that the damping rate is proportional to the square of the modulation amplitude.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR027
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR028
+Excitation of Longitudinal Coupled-bunch Oscillations with the Wide-band Cavity in the CERN PS
+1724
+
+
+ 
+
+L. Ventura, M. Migliorati
+                       INFN-Roma1, Rome, Italy
+H. Damerau, M. Migliorati, G. Sterbini
+                       CERN, Geneva, Switzerland
+M. Migliorati
+                       University of Rome "La Sapienza", Rome, Italy
+
+ 
+
+
+ 
+
+Longitudinal coupled-bunch oscillations in the CERN Proton Synchrotron have been studied in the past years and they have been recognized as one of the major challenges to reach the high brightness beam required by the High Luminosity LHC project. In the frame of the LHC Injectors Upgrade project in 2014 a new wide-band Finemet cavity has been installed in the Proton Synchrotron as a part of the coupled-bunch feedback system. To explore the functionality of the Finemet cavity during 2015 a dedicated measurement campaign has been performed. Coupled-bunch oscillations have been excited with the cavity around each harmonic of the revolution frequency with both a uniform and nominal filling pattern. In the following the measurements procedure and results are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR028
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR029
+Study of Fast Instability in Fermilab Recycler
+1728
+
+
+ 
+
+S. A. Antipov
+                       University of Chicago, Chicago, Illinois, USA
+P. Adamson, S. Nagaitsev, M.-J. Yang
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+One of the factors which may limit the intensity in the Fermilab Recycler is a fast transverse instability. It develops within a hundred turns and, in certain conditions, may lead to a beam loss. Various peculiar features of the instability: its occurrence only above a certain intensity threshold, and only in horizontal plane, as well as the rate of the instability, suggest that its cause is electron cloud. We studied the phenomena by observing the dynamics of stable and unstable beam. We found that beam motion can be stabilized by a clearing bunch, which confirms the electron cloud nature of the instability. The findings suggest electron cloud trapping in Recycler combined function mag-nets. Bunch-by-bunch measurements of betatron tune show a tune shift towards the end of the bunch train and allow the estimation of the density of electron cloud and the rate of its build-up. The experimental results are in agreement with numerical simulations of electron cloud build-up and its interaction with the beam.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR029
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR030
+Design of Octupole Channel for Integrable Optics Test Accelerator
+1731
+
+
+SUPSS099
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S. A. Antipov
+                       University of Chicago, Chicago, Illinois, USA
+K. Carlson, A. Valishev, S.J. Wesseln
+                       Fermilab, Batavia, Illinois, USA
+R. Castellotti
+                       SSSUP, Pisa, Italy
+
+ 
+
+
+ 
+
+We present the design of octupole channel for Integrable Optics Test Accelerator (IOTA). IOTA is a test accelerator at Fermilab, aimed to conduct research towards high-intensity machines. One of the goals of the project is to demonstrate high nonlinear betatron tune shifts while retaining large dynamic aperture in a realistic accelerator design. At the first stage the tune shift will be attained with a special channel of octupoles, which creates a variable octupole potential over a 1.8 m length. The channel consists of 18 identical air-cooled octupole magnets. The magnets feature a simple low-cost design, while meeting the requirements on maximum gradient - up to 1.4 kG/cm3, and field quality - strength of harmonics below 1%. Numerical simulations show that the channel is capable of producing a nonlinear tune shift of 0.08 without restriction of dynamic aperture of the ring.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR031
+Trapped Ion Effects and Mitigation During High Current Operation in the Cornell DC Photoinjector
+1735
+
+
+SUPSS054
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S.J. Full, A.C. Bartnik, I.V. Bazarov, J. Dobbins, B.M. Dunham, G.H. Hoffstaetter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy (Grant No. DE-SC0012493), National Science Foundation (Award No. NSF-DMR 0807731)
+The Cornell high intensity photoinjector reaches a new regime of linac beam parameters where high continuous-wave electron beam currents lead to ion trapping. Above 10 mA, we have observed beam trips that limit stable machine operation to approximately 10-15 minutes. By applying known ion clearing methods, the machine lifetime increases to at least 24 hours of continuous operation, suggesting that trapped ions are the most likely cause of the trips. In this paper we share some of our observations ion trapping in the photoinjector, as well as experimental tests of three common ion mitigation methods: clearing electrodes, beam shaking and bunch gaps.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR031
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOR033
+Experimental Study of Single Bunch Instabilities at NSLS-II Storage Ring
+1738
+
+
+ 
+
+W.X. Cheng, B. Bacha, G. Bassi, A. Blednykh, B. Podobedov, O. Singh, V. Smalyuk
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Single bunch instabilities have been observed since the early stage of NSLS-II storage ring commissioning. After installing the super-conducting cavity, the single bunch instability threshold current was similar at 0.7mA. The instability was eventually determined to be due to transverse mode coupling. Microwave instability has been characterized using streak camera bunch profile, horizontal beam sizes at dispersion location and beam spectrums. Microwave instability threshold current dependency on bunch lengths and IUV gaps has been studied. Most recent experimental results will be presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-TUPOR033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

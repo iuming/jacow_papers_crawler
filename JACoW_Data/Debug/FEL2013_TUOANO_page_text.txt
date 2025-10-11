@@ -1,0 +1,192 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FEL2013 - Table of Session: TUOANO (Technology II)
+
+
+TUOANO —  Technology II   (27-Aug-13   09:30—10:30)
+Chair: T. Hara, RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+
+
+Paper
+Title
+Page
+
+
+
+TUOANO01
+Towards High Energy and Timing Stability in SCRF Linacs
+ 
+
+
+ 
+
+J.M. Byrd, L.R. Doolittle, G. Huang, M. Mellado, J.A.G. Olivieri, S. Paret, A. Ratti, C. Serrano
+                       LBNL, Berkeley, California, USA
+C.H. Rivetta
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+One of the concepts for the next generation of linac-driven FELs is a CW superconducting linac driving an electron beam with MHz repetition rates. One of the challenges for next generation FELs is improve the stability of the x-ray pulses by improving the shot-to-shot stability of the energy, charge, peak current, and timing jitter of the electron beam. A high repetition rate FEL with a CW linac presents an opportunity to use a variety of broadband feedbacks to stabilize the beam parameters. We present results on using this model to understand and predict the potential stability of such a machine. We also describe how we are implementing an SVD approach for broadband beam-based feedback to improve stability.
+
+ 
+
+
+
+
+
+
+Slides TUOANO01 [9.439 MB]
+        
+ 
+
+
+ 
+
+
+
+TUOANO02
+Long-term Stable, Large-scale, Optical Timing Distribution Systems With Sub-femtosecond Timing Stability
+156
+
+
+ 
+
+M.Y. Peng, P.T. Callahan, F.X. Kaertner, A.H. Nejadmalayeri
+                       MIT, Cambridge, Massachusetts, USA
+K. Ahmed, S. Valente, M. Xin
+                       DESY, Hamburg, Germany
+P. Battle, T.D. Roberts
+                       AdvR, Inc., Montana, USA
+J.M. Fini, L. Grüner-Nielsen, E. Monberg, M. Yan
+                       OFS Laboratories, New Jersey, USA
+F.X. Kaertner
+                       CFEL, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: US Department of Energy Contract DE-SC0005262 and Center for Free-Electron Laser Science, DESY, Hamburg
+Sub-fs X-ray pulse generation in kilometer-scale FEL facilities will require sub-fs long-term timing stability between optical sources over kilometer distances. We present here key developments towards a completely fiber-coupled, sub-fs optical timing distribution system. Our approach [*] is to lock a femtosecond pulsed laser to a microwave reference and distribute its pulse train through fiber links stabilized by balanced optical cross-correlators (BOCs) [**]. First, we verified that low-noise optical master oscillators for sub-fs timing distribution are available today; the measured jitter for two commercial femtosecond lasers is less than 70 as for frequencies above 1 kHz. Second, we developed a novel 1.2 km dispersion-compensated, polarization-maintaining fiber link to eliminate drifts induced by polarization mode dispersion. Link stabilization for 16 days showed 0.6 fs RMS timing drift and during a 3-day interval only 0.13 fs drift. Lastly, we fabricated a hybrid-integrated BOC using PPKTP waveguides [***] to eliminate alignment drifts and to reduce the link operation power by a factor of 10-100, which will reduce timing errors induced by fiber nonlinearities.
+* J. Kim et al., Nat. Photon., 2, 12, 733–736, 2008.  ** J. Kim et al., Opt. Lett., 32, 9, 1044–1046, 2007.  *** A. H. Nejadmalayeri et al., Opt. Lett., 34, 16, 2522–2524, 2009. 
+
+ 
+
+
+
+
+
+
+Slides TUOANO02 [1.387 MB]
+        
+ 
+
+
+ 
+
+
+
+TUOANO03
+Bunch Profile Measurement of the LCLS Electron Beam via Mid-IR Spectroscopy
+ 
+
+
+ 
+
+T.J. Maxwell, Y. Ding, A.S. Fisher, J.C. Frisch, H. Loos
+                       SLAC, Menlo Park, California, USA
+C. Behrens
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by US Department of Energy contract number DE-AC02-76SF00515.
+For the generation of ultrashort x-ray FEL pulses, a similarly short, high-brightness electron beam is needed with compression tuned to the extent that a narrow energy spread can still be preserved. Further reduction of the nominal LCLS bunch length by lowering the bunch charge or employing an upstream, emittance-spoiling foil promises to reduce the pulse duration to the level of only a few femtoseconds, presenting a challenge to the temporal resolution of existing longitudinal diagnostics. In answer to this, we have recently commissioned a single-shot, middle-infrared spectrometer for the LCLS. Developed as a robust and cost-effective alternative to other femtosecond-scale beam diagnostics, coherent mid-IR beam radiation measurements and analysis are then employed to probe the LCLS beam just prior to the undulator. Results resolving beam structure to the few-fs level for 20 - 150 pC beams will be presented. Practical design challenges and diagnostic limitations will also be discussed.
+
+ 
+
+
+
+
+
+
+Slides TUOANO03 [2.337 MB]
+        
+ 
+
+
+ 
+
+
+
+TUOANO04
+PITZ Experience on the Experimental Optimization of the RF Photo Injector for the European XFEL
+160
+
+
+ 
+
+M. Krasilnikov, H.-J. Grabosch, M. Groß, L. Hakobyan, I.I. Isaev, L. Jachmann, M. Khojoyan, W. Köhler, M. Mahgoub, D. Malyutin, A. Oppelt, M. Otevřel, B. Petrosyan, A. Shapovalov, F. Stephan, G. Vashchenko, S. Weidinger, R.W. Wenndorff
+                       DESY Zeuthen, Zeuthen, Germany
+G. Asova
+                       INRNE, Sofia, Bulgaria
+K. Flöttmann, M. Hoffmann, G. Klemz, S. Lederer, H. Schlarb, S. Schreiber
+                       DESY, Hamburg, Germany
+Ye. Ivanisenko
+                       PSI, Villigen PSI, Switzerland
+M.A. Nozdrin
+                       JINR, Dubna, Moscow Region, Russia
+V.V. Paramonov
+                       RAS/INR, Moscow, Russia
+D. Richter
+                       HZB, Berlin, Germany
+S. Rimjaem
+                       Chiang Mai University, Chiang Mai, Thailand
+I.H. Templin, I. Will
+                       MBI, Berlin, Germany
+
+ 
+
+
+ 
+
+The Photo Injector Test facility at DESY, Zeuthen site (PITZ), develops high brightness electron sources for modern free electron lasers. A continuous experimental optimization of the L-band photo injector for such FEL facilities like FLASH and the European XFEL has been performed for a wide range of electron bunch charges – from 20 pC to 2 nC – yielding very small emittance values for all charge levels. Experience and results of the experimental optimization will be presented in comparison with beam dynamics simulations. The influence of various parameters onto the photo injector performance will be discussed.
+Phys. Rev. ST Accel. Beams 15, 100701 (2012)
+
+ 
+
+
+
+
+
+
+Slides TUOANO04 [3.126 MB]
+        
+ 
+
+
+ 
+
+
+
+

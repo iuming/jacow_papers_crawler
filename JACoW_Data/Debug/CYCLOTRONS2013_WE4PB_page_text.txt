@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cyclotrons2013 - Table of Session: WE4PB (Particle Dynamics, Tracking)
+
+
+WE4PB —  Particle Dynamics, Tracking   (18-Sep-13   17:00—18:00)
+Chair: H. Schweickert, ZAG, Eggenstein-Leopoldshafen, Germany
+
+
+Paper
+Title
+Page
+
+
+
+WE4PB01
+Tracking in a Cyclotron with Geant4
+423
+
+
+ 
+
+F.W. Jones, T. Planche, Y.-N. Rao
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+Building on its precursor GEANT, the tracking and simulation toolkit Geant4 has been conceived and realised in a very general fashion, with much attention given to the modeling of electric and magnetic fields and the accuracy of tracking charged particles through them. As evidenced by the G4Beamline application, Geant4 offers a unique simulation approach to beam lines and accelerators, in a 3D geometry and without some of the limitations posed by conventional optics and tracking codes. Here we apply G4Beamline to the TRIUMF cyclotron, describing the generation and input of the field data, accuracy of closed orbits, stability of multi-turn tracking, tracking accelerated orbits, and phase acceptance. Geant4's 3D visualization tools allow detailed examination of trajectories as well as a particle's-eye view of the acceleration process.
+
+ 
+
+
+
+
+
+
+Slides WE4PB01 [4.146 MB]
+            
+ 
+
+
+ 
+
+
+
+WE4PB02
+An All-Purpose Accelerator Code, Zgoubi
+426
+
+
+ 
+
+F. Méot
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The ray-tracing code Zgoubi* has long been 6D-tracking through all possible types of fixed field rings**, including, recently, 6D transmission from injection-up to extraction-down in high power cyclotrons in the frame of ADS-Reactor R/D. This is to be added to the long exploited many other capabilities of the code as spin transport, in-flight decay, synchrotron radiation energy loss, etc. An overview will be given, including recent space-charge developments, with illustration including recent high power cyclotron applications.
+*http://sourceforge.net/projects/zgoubi/, http://www.osti.gov/bridge/basicsearch.jsp **6-D beam dynamics simulations in FFAGs, F. Meot, ICFA Beam Dyn. Newslett.43:44-50 (2007)
+
+ 
+
+
+
+
+
+
+Slides WE4PB02 [4.414 MB]
+            
+ 
+
+
+ 
+
+
+
+WE4PB03
+Optimizing the Radioisotope Production with a Weak Focusing Compact Cyclotron
+429
+
+
+ 
+
+C. Oliver, P. Abramian, B. Ahedo, P. Arce, J.M. Barcala, J. Calero, E. Calvo, L. García-Tabarés, D. Gavela, A. Guirao, J.L. Gutiérrez, J.I. Lagares, L.M. Martinez Fresno, T. Martínez de Alvaro, E. Molina Marinas, J. Munilla, D. Obradors-Campos, F.J. Olivert, J.M. Perez Morales, I. Podadera, E. Rodriguez, L. Sanchez, F. Sansaloni, F. Toral, C. Vázquez
+                       CIEMAT, Madrid, Spain
+
+ 
+
+
+ 
+
+A classical weak focusing cyclotron can result in a simple and compact design for the radioisotope production for medical applications. Two main drawbacks arise from this type of machine. The energy limit imposed by the non RF-particle isochronism requires a careful design of the acceleration process, resulting in challenging requirements for the RF system. On the other hand, the weak focusing forces produced by the slightly decreasing magnetic field make essential to model the central region of the machine to improve the electric focalization with a reasonable phase acceptance. A complete analysis of the different beam losses, including vacuum stripping, has been performed. The main cyclotron parameters have been obtained by balancing the maximum energy we can obtain and the maximum beam transmission, resulting in an optimum radioisotope production.
+
+ 
+
+
+
+
+
+
+Slides WE4PB03 [2.904 MB]
+            
+ 
+
+
+ 
+
+
+
+

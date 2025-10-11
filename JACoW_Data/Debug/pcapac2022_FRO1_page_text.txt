@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2022 - Table of Session: FRO1 (Oral presentation)
+
+
+FRO1 —  Oral presentation   (07-Oct-22   10:00—10:30)
+
+
+
+Paper
+Title
+Page
+
+
+
+FRO11
+Taskomat & Taskolib: A Versatile, Programmable Sequencer for Process Automation
+94
+
+
+ 
+
+L. Fröhlich, O. Hensler, U. Jastrow, M. Walla, J. Wilgen
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+This contribution introduces the Taskolib library, a powerful framework for automating processes. Users can easily assemble sequences out of process steps, execute these sequences, and follow their progress. Individual steps are fully programmable in the lightweight Lua language. If desired, sequences can be enhanced with flow control via well-known constructs such as IF, WHILE, or TRY. The library is written in platform-independent C++17 and carries no dependency on any specific control system or communication framework. Instead, such dependencies are injected by client code; as an example, the integration with a DOOCS server and a graphical user interface is demonstrated.
+
+ 
+
+
+
+
+
+
+Slides FRO11 [3.529 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-PCaPAC2022-FRO11
+
+ 
+
+
+About •
+Received ※ 26 September 2022 — Accepted ※ 15 February 2023 — Issue date ※ 17 February 2023
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRO12
+Autoparam, a Generic Asyn Port Driver with Dynamic Parameters
+98
+
+
+ 
+
+J. Varlec
+                       COSYLAB, Control System Laboratory, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+Implementing EPICS device support for a specific device can be tricky; implementing generic device support that can integrate different kinds of devices sharing a common interface is trickier still. Yet such a driver can save a lot of time down the road. A well-known example is the Modbus EPICS module: the same support module can be used to integrate any device that speaks the Modbus protocol. It is up to the EPICS database to map device registers to EPICS records. Because no changes to the driver code are needed to integrate a device, a lot of effort is saved. At Cosylab, we often encounter device controllers that speak bespoke protocols. To facilitate development of generic drivers, we wrote the Autoparam EPICS module. It is a base class derived from asynPortDriver that handles low-level details that are common to all generic drivers: it creates handles for device data based on information provided in EPICS records and provides facilities for handling hardware interrupts. Moreover, it strives to provide a more ergonomic API for handling device functions than vanilla asynPortDriver.
+
+ 
+
+
+
+
+
+
+Slides FRO12 [1.653 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-PCaPAC2022-FRO12
+
+ 
+
+
+About •
+Received ※ 27 September 2022 — Accepted ※ 15 February 2023 — Issue date ※ 20 February 2023
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRO13
+Progression Towards Adaptability in the PLC Library at the EuXFEL
+102
+
+
+ 
+
+T. Freyermuth, B. Baranasic, M. Bueno, N. Coppola, L. Feltrin Zanellatto, P. Gessler, G. Giovanetti, S. Hauf, S.T. Huynh, N. Jardón Bueno, N. Mashayekh, A. Silenzi, M. Stupar, M. Teichmann, J. Tolkiehn
+                       EuXFEL, Schenefeld, Germany
+
+ 
+
+
+ 
+
+In 2011, the European X-Ray Free Electron Laser (EuXFEL) commenced parallel developments of their control system (Karabo) and the Programmable Logic Controller (PLC) library. The PLC library was designed to control basic beamline components and under the initial assumptions, the automation component was deferred to the control system layer. After five years of operation, it can be seen that not all initial assumptions scaled well to the operational needs of the facility resulting in limitations hindering progress. Having identified these issues, the PLC development is now focused on providing a more cohesive and adaptable solution. In utilizing the IEC61131-3 (3rd edition) features, the PLC library has been restructured towards a layered architecture with loose coupling between function blocks. The ultimate goal will be to achieve a PLC library which is not only test driven and capable of quickly integrating in new devices, but can achieve dynamic linking not only between hardware and software, but also across software devices, aiding the rapid development of more complex hardware integration and higher-level automation.
+
+ 
+
+
+
+
+
+
+Slides FRO13 [0.398 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-PCaPAC2022-FRO13
+
+ 
+
+
+About •
+Received ※ 30 September 2022 — Revised ※ 07 February 2023 — Accepted ※ 15 February 2023 — Issue date ※ 17 February 2023
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

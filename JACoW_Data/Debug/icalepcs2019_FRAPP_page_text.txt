@@ -1,0 +1,363 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: FRAPP (Project Status Reports 2)
+
+
+FRAPP —  Project Status Reports 2   (11-Oct-19   09:30—11:00)
+Chair: S. Brockhauser, EuXFEL, Schenefeld, Germany
+
+
+Paper
+Title
+Page
+
+
+
+FRAPP01
+The Laser MegaJoule Facility: Command Control System Status Report
+1652
+
+
+ 
+
+H. Durandeau, R. Clot, P. Gontard, S. Tranquille-Marques, Y. Tranquille-Marques
+                       CEA, LE BARP cedex, France
+
+ 
+
+
+ 
+
+The Laser MegaJoule (LMJ) is a 176-beam laser facility, located at the CEA CESTA Laboratory near Bordeaux (France). It is designed to deliver about 1.4 MJ of energy on a target, for high energy density physics experiments, including fusion experiments. The first bundle of 8-beams bundle was commissioned in October 2014. Today five bundles are in operation. In this paper, we focus on two specific evolutions of the command control: the Target Chamber Diagnostic Module (TCDM) which allows the measurement of vacuum windows damages (an automatic sequence activates the TCDM that can be operated at night without any operator) and new Target Diagnostics integration. We also present a cybersecurity network analysis system based on Sentryo Probes and how we manage maintenance laptops in the facility.
+
+ 
+
+
+
+
+
+
+Slides FRAPP01 [20.352 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-FRAPP01
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 20 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAPP02
+Preliminary Engineering Design of the Central Instrumentation and Control Systems for the IFMIF-DONES Plant
+1655
+
+
+ 
+
+M. Cappelli
+                       ENEA C.R. Frascati, Frascati (Roma), Italy
+A. Bagnasco
+                       Ansaldo Nucleare, Genova, Italy
+A. Ibarra
+                       CIEMAT, Madrid, Spain
+
+ 
+
+
+ 
+
+Funding: This work is within the framework of the EUROfusion Consortium and funded by the EU’s H2020 Program (GA 633053). The views and opinions expressed herein do not necessarily reflect those of the EC.
+IFMIF-DONES is the International Fusion Materials Irradiation Facility-DEMO Oriented NEutron Source, an accelerator-based neutron source where a high-energy deuterons beam is focused on a fast flowing liquid lithium jet to produce high-energy neutrons via stripping reactions with intensity and irradiation volume sufficient to generate material irradiation test data for design, licensing, construction and safe operation of the DEMO fusion reactor. This work presents the design of Central Instrumentation and Control Systems for the IFMIF-DONES plant and describes its most recent development. After a general overview of the current status of the design, the differences with respect to the corresponding system developed during the previous phases of the project will be highlighted. The paper describes the overall architecture (in terms of definitions, functions and requirements) and provides details about the identification of subsystems and equipment. A particular attention will be given to the I&C Networks connecting infrastructures.
+
+ 
+
+
+
+
+
+
+Slides FRAPP02 [4.985 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-FRAPP02
+
+ 
+
+
+About •
+paper received ※ 02 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAPP03
+Status of the CSNS Accelerator Control System
+1662
+
+
+ 
+
+Y.L. Zhang, C.P. Chupresenter, W. Gao, F.Q. Guo, Y.C. He, D.P. Jin, M.T. Kang, G. Li, X. Wu, P. Zhu
+                       IHEP, Beijing, People’s Republic of China
+L. Wang
+                       IHEP CSNS, Guangdong Province, People’s Republic of China
+
+ 
+
+
+ 
+
+The China Spallation Neutron Source (CSNS) accelerator consists of an 80 MeV H− linac, a 1.6 GeV Rapid Cycling Synchrotron (RCS) and two beam transport lines. The designed proton beam power is 100 kW in Phase-I. EPICS(Experimental Physics and Industrial Control System) is chosen as the software platform for the accelerator control system. The accelerator control system mainly consists of 21 sub-systems. VME64x based system with real-time embedded controllers is chosen for the timing system and fast protection system. PLCs and some embedded industrial computers are used for the device level controls. CSS (Control System Studio) and RDB based techniques are adopted for high level applications. The overall control system has been completed in 2018 and transitioned to routine operations in September of the same year. The design and the operation status of the overall accelerator control system are introduced in this paper.
+
+ 
+
+
+
+
+
+
+Slides FRAPP03 [9.395 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-FRAPP03
+
+ 
+
+
+About •
+paper received ※ 28 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAPP04
+LCLS-II Science-Instruments Control System, Status and Plans
+ 
+
+
+ 
+
+D.L. Flath
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was performed in support of the LCLS project at SLAC supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-76SF00515.
+The LCLS-II will begin operation superconducting linac operations in early 2021. The new photon diagnostics suite of instruments will begin commissioning and early operation using the Cu-linac and upgraded undulators in early 2020. This presentation will discuss upgrades and improvements to the LCLS Control System and related infrastructure which will enable enhanced capabilities including automated beam delivery, laser timing, and 1 MHz repetition-rate data collection and exchange with the Data Acquisition System using EPICS V7.
+
+ 
+
+
+
+
+
+
+Slides FRAPP04 [34.211 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAPP05
+Review of Commissioning and First User Operation in Respect to High Level Controls at the European XFEL
+1665
+
+
+ 
+
+R. Kammering, B. Beutner, W. Decking, L. Fröhlich, O. Hensler, T. Limberg, S.M. Meykopff, M. Scholz, J. Wilgen
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+In September 2017 the European XFEL entered user operation after years of construction and one year of commissioning. To provide a fast and flexible startup of the various sections of the machine, the high-level control software was essential from the beginning. While progressing in commissioning and increasing operation parameter space, the enormous complexity of the European XFEL put hard requirements on the control and operation concepts. Having now the full baseline parameters reached, this paper will review the high-level software concepts and architecture in respect to effectiveness, reliability and ease of operation. Beside a review of the high-level software concepts and design ideas also general operation concepts and the interoperability between the various sub-systems in respect to the overall facility performance will be presented.
+
+ 
+
+
+
+
+
+
+Slides FRAPP05 [12.121 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-FRAPP05
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAPP06
+Status of the Control System for the Energy Recovery Linac BERLinPro at HZB
+1669
+
+
+ 
+
+T. Birke, P. Echevarria, D. Eichel, R. Fleischhauer, J.G. Hwang, G. Klemz, R. Müller, C. Schröder, E. Suljoti, A. Ushakov
+                       HZB, Berlin, Germany
+K. Laihem
+                       RWTH, Aachen, Germany
+
+ 
+
+
+ 
+
+BERLinPro is an energy recovery linac (ERL) demonstrator project built at HZB. It features CW SRF technology for the low emittance, high brightness gun, the booster module and the recovery linac. Construction and civil engineering are mostly completed. Synchronized with the device integration the EPICS based control system is being set-up for testing, commissioning and finally operation. In the warm part of the accelerator technology that is already operational at BESSY and MLS (e.g. CAN-bus and PLC/OPCUA) is used. New implementations like the machine protection system and novel major subsystems (e.g. LLRF, Cryo-Controls, photo cathode laser) need to be integrated. The first RF transmitters have been tested and commissioned. At the time of this conference the first segment of the accelerator is scheduled to become online. For commissioning and operation of the facility the standard set of EPICS tools form the back-bone. A set of generic Python applications already developed at BESSY/MLS will be adapted to the specifics of BERLinPro. Scope and current project status are described in this paper.
+
+ 
+
+
+
+
+
+
+Slides FRAPP06 [10.806 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-FRAPP06
+
+ 
+
+
+About •
+paper received ※ 29 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

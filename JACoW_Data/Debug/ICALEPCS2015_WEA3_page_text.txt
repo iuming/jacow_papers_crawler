@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: WEA3 (Software technology evolution)
+
+
+WEA3 —  Software technology evolution   (21-Oct-15   09:30—10:15)
+Chair: J.C. Guzman, CASS, Epping, Australia
+
+
+Paper
+Title
+Page
+
+
+
+WEA3O01
+The TANGO Controls Collaboration in 2015
+585
+
+
+ 
+
+A. Götz, J.M. Chaize, T.M. Coutinho, J.L. Pons, E.T. Taurel, P.V. Verdier
+                       ESRF, Grenoble, France
+G. Abeillé
+                       SOLEIL, Gif-sur-Yvette, France
+S. Brockhauser, L.J. Fülöp
+                       ELI-ALPS, Szeged, Hungary
+M.O. Cernaianu
+                       IFIN-HH, Bucharest - Magurele, Romania
+I.A. Khokhriakov
+                       HZG, Geesthacht, Germany
+R. Smareglia
+                       INAF-OAT, Trieste, Italy
+A. Vázquez-Otero
+                       ELI-BEAMS, Prague, Czech Republic
+
+ 
+
+
+ 
+
+This paper presents the latest news from the TANGO collaboration. TANGO is being used in new domains. The three ELI pillars - ELI-Beamlines, ELI-ALPS and ELI-NP in Czech Republic, Hungary and Romania respectively have selected TANGO for many of their control systems. In ELI-Beamlines and ELI-Alps, TANGO will play the role of integrating all the hardware and turn-key systems (some delivered with EPICS or Labview) into one integrated system. In ELI-NP, the HPLS and LBTS will be controlled using TANGO, while the GBS will be controlled using EPICS. On the experimental side, ELI-NP will use both TANGO and EPICS control systems. TANGO will be extended with new features required by the laser community. These features will include nanosecond time-stamping. The latest major release of TANGO V9 includes the following features - data pipes, enumerated types, dynamic commands and forwarded attributes. The collaboration has been extended to include the new members and to provide a sustainable source of resources through collaboration contracts. A new website (http://www.tango-controls.org/) has been designed which improves the communication within the community.
+
+ 
+
+
+
+
+
+
+Slides WEA3O01 [2.344 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEA3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEA3O02
+Recent Advancements and Deployments of EPICS Version 4
+589
+
+
+ 
+
+G.R. White, M.V. Shankar
+                       SLAC, Menlo Park, California, USA
+A. Arkilic, L.R. Dalesio, M.A. Davidsaver, M.R. Kraimer, N. Malitsky, B.S. Martins
+                       BNL, Upton, Long Island, New York, USA
+S.M. Hartman, K.-U. Kasemir
+                       ORNL, Oak Ridge, Tennessee, USA
+D.G. Hickin
+                       DLS, Oxfordshire, United Kingdom
+A.N. Johnson, S. Veseli
+                       ANL, Argonne, Ilinois, USA
+T. Korhonenpresenter
+                       ESS, Lund, Sweden
+R. Lange
+                       ITER Organization, St. Paul lez Durance, France
+M. Sekoranja
+                       Cosylab, Ljubljana, Slovenia
+G. Shen
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+EPICS version 4 is a set of software modules that add to the base of the EPICS toolkit for advanced control systems. Version 4 adds the possibility of process variable values of structured data, an introspection interface for dynamic typing plus some standard types, high-performance streaming, and a new front-end processing database for managing complex data I/O. A synchronous RPC-style facility has also been added so that the EPICS environment supports service-oriented architecture. We introduce EPICS and the new features of version 4. Then we describe selected deployments, particularly for high-throughput experiment data transport, experiment data management, beam dynamics and infrastructure data.
+
+ 
+
+
+
+
+
+
+Slides WEA3O02 [2.413 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEA3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEA3O03
+Towards Building Reusability in Control Systems - a Journey
+593
+
+
+ 
+
+P. Patwari, A.S. Banerjee, G. Muralikrishna, S. Roy Chaudhuripresenter
+                       Tata Research Development and Design Centre, Pune, India
+
+ 
+
+
+ 
+
+Development of similar systems leads to a strong motivation for reuse. Our involvement with three large experimental physics facilities led us to appreciate this better in the context of development of their respective monitoring and control (M&C) software. We realized that the approach to allowing reuse follows the onion skin model that is, building re-usability in each layer in the solution to the problem. The same motivation led us to create a generic M&C architecture through our first collaborative effort which resulted into a fairly formal M&C domain model. The second collaboration showed us the need to have a common vocabulary that could be used across multiple systems to specify respective domain specific M&C solutions at higher levels of abstraction implemented using the generic underlying M&C engine. This resulted in our definition and creation of a domain specific language for M&C. The third collaboration leads us to imagine capturing domain knowledge using the common vocabulary which will substantially further reuse, this thought is already demonstrated through a preliminary prototype. We discuss our learning through this journey in this paper.
+
+ 
+
+
+
+
+
+
+Slides WEA3O03 [1.816 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEA3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

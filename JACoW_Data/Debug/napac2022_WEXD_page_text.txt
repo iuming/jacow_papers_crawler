@@ -1,0 +1,340 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: WEXD (Beam Dynamics)
+
+
+WEXD —  Beam Dynamics   (10-Aug-22   08:00—10:00)
+Chair: J.M. Byrd, ANL, Lemont, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEXD1
+Advances in Beam Dynamics at Nuclear Physics Accelerator Facilities
+ 
+
+
+ 
+
+A.V. Sy
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177.
+Beam dynamics of particle accelerators is a rich subfield that enables accelerators to be used in pursuit of fundamental topics in particle physics in increasingly complex ways. The field is constantly evolving as new and advanced accelerators push the limits of energy, luminosity, and accelerated species. This talk will cover some recent beam dynamics developments for future operation of DOE nuclear physics user facilities, including upgrade options for Jefferson Lab’s 12 GeV CEBAF.
+
+ 
+
+
+
+
+
+
+Slides WEXD1 [4.936 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEXD2
+Storage Ring Tracking Using Generalized Gradient Representations of Full Magnetic Field Maps
+542
+
+
+ 
+
+R.R. Lindberg, M. Borland
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by U.S. Dept. of Energy Office of Sciences under Contract No. DE-AC02-06CH11357.
+We have developed a set of tools to simulate particle dynamics in the full magnetic field using the generalized gradients representation. Generalized gradients provide accurate and analytic representations of the magnetic field that allow for symplectic tracking [1]. We describe the tools that convert magnetic field data into generalized gradients representations suitable for tracking in Elegant, and discuss recent results based upon tracking with the full field representations for all magnets in the APS-U storage ring.
+[1] A. Dragt. Lie Methods for Nonlinear Dynamics with Applications to Accelerator Physics. University of Maryland (2019).
+
+ 
+
+
+
+
+
+
+Slides WEXD2 [3.841 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEXD2
+
+ 
+
+
+About •
+Received ※ 16 July 2022 — Accepted ※ 29 July 2022 — Issue date ※ 04 August 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEXD3
+Map Tracking Including the Effect of Stochastic Radiation
+548
+
+
+ 
+
+D. Sagan, G.H. Hoffstaetter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+E. Forest
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: Department of Energy
+Using transfer maps to simulate charged particle motion in accelerators is advantageous since it is much faster than tracking step-by-step. One challenge to using transfer maps is to properly include radiation effects. The effect of radiation can be divided into deterministic and stochastic parts. While computation of the deterministic effect has been previously reported, handling of the stochastic part has not. In this paper, an algorithm for including the stochastic effect is presented including taking into account the finite opening angle of the emitted photons. A comparison demonstrates the utility of this approach. Generating maps which include radiation has been implemented in the PTC software library which is interfaced to the Bmad toolkit.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEXD3
+
+ 
+
+
+About •
+Received ※ 06 August 2022 — Revised ※ 16 August 2022 — Accepted ※ 21 August 2022 — Issue date ※ 24 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEXD4
+OPAL for Self-Consistent Start-to-End Simulation of Undulator-Based Facilities
+ 
+
+
+ 
+
+A. Albà, A. Adelmann
+                       PSI, Villigen PSI, Switzerland
+A. Fallahi
+                       ETH Zurich, Photonics Laboratory, Zurich, Switzerland
+
+ 
+
+
+ 
+
+The Object Oriented Parallel Accelerator Library (OPAL), a parallel open source tool for charged-particle optics is augmented with a new flavor OPAL-FEL. With OPAL-FEL we solve the electromagnetic potential equations in free-space for radiating particles propagating along an undulator using an FDTD/PIC scheme. We present results of two benchmark [1] studies where OPAL-FEL simulations are compared to experimental results. Both experiments are about electron beamlines where the longitudinal phase space is modulated with a short magnetic wiggler. To our knowledge, this is the only beam dynamics model that allows a start-to-end simulation of FELs, in a fully 3D fashion including radiation.
+[1] arXiv:2112.02316 (https://arxiv.org/pdf/2112.02316.pdf)
+
+ 
+
+
+
+
+
+
+Slides WEXD4 [7.843 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEXD5
+Benchmarking Simulation for AWA Drive Linac and Emittance Exchange Beamline Using OPAL, GPT, and Impact-T
+552
+
+
+ 
+
+S.Y. Kim, G. Chen, D.S. Doran, G. Ha, W. Liu, J.G. Power, E.E. Wisniewski
+                       ANL, Lemont, Illinois, USA
+E.A. Frame, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+At the Argonne Wakefield Accelerator (AWA) facility, particle-tracking simulations have been critical to guiding beam-dynamic experiments, e.g., for various beam manipulations using an available emittance-exchange beamline (EEX). The unique beamline available at AWA provide a test case to perform in-depth comparison between different particle-tracking programs including collective effects such as space-charge force and coherent synchrotron radiation. In this study, using AWA electron injector and emittance exchange beamline, we compare the simulations results obtained by GPT, OPAL, and Impact-T beam-dynamics programs. We will specifically report on convergence test as a function of parameters that controls the underlying algorithms.
+
+ 
+
+
+
+
+
+
+Slides WEXD5 [1.847 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEXD5
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 06 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 22 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEXD6
+Electron Cloud Measurements in Fermilab Booster
+556
+
+
+ 
+
+S.A.K. Wijethunga, J.S. Eldred, E. Pozdeyev, C.-Y. Tan
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Fermilab Booster synchrotron requires an intensity upgrade from 4.5×1012 to 6.5×1012 protons per pulse as a part of Fermilab’s Proton Improvement Plan-II (PIP-II). One of the factors which may limit the high-intensity performance is the fast transverse instabilities caused by electron cloud effects. According to the experience in the Recycler, the electron cloud gradually builds up over multiple turns in the combined function magnets and can reach final intensities orders of magnitude greater than in a pure dipole. Since the Booster synchrotron also incorporates combined function magnets, it is important to discover any existence of an electron cloud. And if it does, its effects on the PIP-II era Booster and whether mitigating techniques are required. As the first step, the presence or absence of the electron cloud was investigated using a gap technique. This paper presents experimental details and observations of the bunch-by-bunch tune shifts of beams with various bunch train structures at low and high intensities and simulation results conducted using PyECLOUD software.
+
+ 
+
+
+
+
+
+
+Slides WEXD6 [4.483 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEXD6
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 21 August 2022 — Issue date ※ 09 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

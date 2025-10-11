@@ -1,0 +1,1725 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2016 - Table of Session: MOPMW (Poster Session)
+
+
+MOPMW —  Poster Session   (09-May-16   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPMW001
+A New Buncher for the ESRF Linac Injector
+389
+
+
+ 
+
+A.S. Setty, A.S. Chauchat, D. Jousse
+                       Thales Communications & Security (TCS), Gennevilliers Cedex, France
+H. Delamare, J. Jacob, B. Ogier, T.P. Perron, E. Rabeuf, C. Richard, V. Serrière, R. Versteegen
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+The electron linac was designed to be able to deliver more than 2.5 A in less than 2 ns at 200 MeV within an energy spread of 1% for positrons production at ESRF *. The 200 MeV electron linac was commissioned in 1991. A new gun, a cleaner, a pre-buncher cavity and 4 shielded lenses were tested and installed on the injector in 2008 **. Then, a new Buncher for the ESRF electron linac injector was manufactured and commissioned in 2015. Meanwhile, some new settings were performed to reduce the energy spread for both cases: the long pulse mode and the short pulse mode. The simulations and measurements will be presented.
+* D. Tronc et Al. "Electron injector for light source", Proc. EPAC88, Italy, Rome, June 1988. ** T. Perron et Al. "New preinjector for the ESRF booster", Proc. EPAC08, Italy, Genoa, June 2008.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW001
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW002
+Modeling and Simulation of Broadband RF Cavities in PSpice
+392
+
+
+ 
+
+J. Harzheim, D. Domont-Yankulova, H. Klingbeil, R. Königstein
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+M. Frey, H. Klingbeil
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Barrier bucket systems are planned for the SIS100 Synchrotron (part of the future accelerator facility FAIR) and the ESR storage ring to facilitate several longitudinal beam manipulations [9] [15]. In order to achieve a single-sine gap signal of the desired amplitude and quality, effects in the linear and nonlinear region of the RF systems have to be investigated and included in the design of the overall system. Therefore, the cavities and the amplifier stages are to be modeled in PSpice. In this contribution, a cavity model will be presented. In a first step, a model for the magnetic alloy (MA) ring cores, which highly account for the properties of the cavity, has been found based on measurement data. In a second step, the future setup of the cavity is systematically created using the MA ring core models. The model of the cavity allows simulations in frequency domain as well as time domain. The results show good agreement with former measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW003
+Thermal Simulation of an Energy Feedback Normal Conducting RF Cavity
+396
+
+
+ 
+
+M. Fakhari, K. Flöttmann, S. Pfeiffer, H. Schlarb
+                       DESY, Hamburg, Germany
+J. Roßbach
+                       University of Hamburg, Institut für Experimentalphysik, Hamburg, Germany
+A. Yahaghipresenter
+                       CFEL, Hamburg, Germany
+
+ 
+
+
+ 
+
+Thermal simulation has been performed for an energy feedback normal conducting RF cavity. The cavity is going to be used as a fast actuator to regulate the arrival time of the electron bunches in fs level in FLASH. By measuring the arrival time jitter of one bunch in a bunch train, the designed cavity apply a correcting accelerating or decelerating voltage to the next bunches. The input power of the cavity is provided by a solid state amplifier and will be coupled to the cavity via a loop on the body. To achieve the fs level precision of the arrival time, the cavity should be able to provide accurate accelerating voltage with a precision of 300 eV. We performed thermal simulation to find out the temperature distribution of the cavity and make sure that heating will not affect its voltage precision. The simulation results show that by using two input loops the coupling constant will vary from 4.11 to 4.13 during the operation of the cavity which effect on the bunchs' arrival time would be less than 0.25 fs. While using just one input loop can lead to an error of about 1 fs.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW003
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW004
+Realization and High Power Tests of Damped C-Band Accelerating Structures for the ELI-NP Linac
+399
+
+
+ 
+
+D. Alesini, M. Bellaveglia, S. Bini, R. Boni, P. Chimenti, F. Cioeta, R.D. Di Raddo, A. Falone, A. Gallo, V.L. Lollo, L. Palumbo, S. Pioli, A. Variola
+                       INFN/LNF, Frascati (Roma), Italy
+F. Cardellipresenter, M. Magi, A. Mostacci, L. Palumbo, L. Piersanti
+                       University of Rome La Sapienza, Rome, Italy
+F. Cardellipresenter, L. Piersanti
+                       INFN-Roma1, Rome, Italy
+P. Favaron, F. Poletto
+                       INFN/LNL, Legnaro (PD), Italy
+L. Ficcadenti, F. Pellegrino, V. Pettinacci
+                       INFN-Roma, Roma, Italy
+
+ 
+
+
+ 
+
+The ELI-NP C-Band structures are 1.8 m long travelling wave accelerating structures, quasi-constant gradient, with a field phase advance per cell of 2pi/3. They operate at a repetition rate of 100 Hz and, because of the multi-bunch operation, they have been designed with a dipole HOM damping system to avoid beam break-up (BBU). The structures have symmetric input and output couplers and integrate, in each cell, a waveguide HOM damping systems with silicon carbide RF absorbers. An optimization of the electromagnetic and mechanical design has been done to simplify the fabrication and to reduce their cost. After the first full scale prototype successfully tested at the nominal gradient of 33 MV/m, the production of the twelve structures started. In the paper we illustrate the main design criteria, the realization process and the high power test results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW004
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW005
+Design of Linac with the New Gaskets Clamping Fabrication Technique
+403
+
+
+SUPSS086
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+F. Cardelli
+                       INFN-Roma1, Rome, Italy
+D. Alesini
+                       INFN/LNF, Frascati (Roma), Italy
+M. Magi, L. Palumbo
+                       University of Rome La Sapienza, Rome, Italy
+F. Pellegrino, V. Pettinacci
+                       INFN-Roma, Roma, Italy
+
+ 
+
+
+ 
+
+Recently, a new technique for the realization of high gradient accelerating structures based on the use of gaskets without brazing processes, has been successfully tested at high power on a 1.6 cells RF gun (D. Alesini, et al, PRST 18, 02001, 2015). The new technique developed at the Laboratories of Frascati of the INFN (Italy) in the framework of the SPARC_LAB project has been also adopted for the ELI-NP RF gun. The use of the special gaskets that simultaneously guarantee the vacuum seal and a perfect RF contact allow to avoid the brazing process, strongly reducing the cost, the realization time and the risk of failure. Moreover, without copper annealing due to the brazing process, it is possible, in principle, to decrease the breakdown rate increasing, at the same time, the maximum achievable gradient. The extension of this new fabrication process to complex LINAC structures is the next step on the application of this new technique on particle accelerator. In the paper, we discuss how to extend this process to S-band and C-band Travelling Wave accelerating structures illustrating their electromagnetic design and their mechanical realization.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW005
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW006
+The RF System of the ELI-NP Gamma Beam Source
+407
+
+
+ 
+
+L. Piersanti, F. Cardellipresenter, L. Palumbo
+                       INFN-Roma1, Rome, Italy
+D. Alesini, M. Bellaveglia, R. Boni, A. Gallo, A. Variola
+                       INFN/LNF, Frascati (Roma), Italy
+F. Cardellipresenter, L. Palumbo, L. Piersanti
+                       University of Rome La Sapienza, Rome, Italy
+G. D'Auria
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+ELI-NP is a linac based gamma-source under construction in Magurele (RO) by the European consortium EuroGammaS led by INFN. Photons with tunable energy (from 0.2 to 19.5 MeV) and with unprecedented intensity and brilliance will be produced by Compton back-scattering between a high quality electron beam (up to 740 MeV), and a 515 nm intense laser pulse. In order to increase the gamma photon flux, the accelerator will operate in multi-bunch at 100 Hz repetition rate, with 32 bunches separated by 16 ns. Three S-band (2856 MHz) RF power plants will feed two room temperature Travelling Wave (TW) structures, a 1.6 cell Standing Wave (SW) S-band gun (which has been manufactured by means of a new technique based on clamped gaskets without brazing) and two SW RF deflectors for longitudinal beam diagnostics. Ten C-band (5712 MHz) RF power plants will feed 12 TW high-order-modes (HOM) damped structures. In this paper, we review the whole ELI-NP RF architecture including the Low Level RF (LLRF) system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW006
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW007
+On the Calibration Measurement of Stripline Beam Position Monitor for the ELI-NP Facility
+411
+
+
+ 
+
+D. De Arcangelis, F. Cardellipresenter, A. Mostacci, L. Palumbo
+                       University of Rome La Sapienza, Rome, Italy
+
+ 
+
+
+ 
+
+Stripline Beam Position Monitor (BPM) will be installed in the Compton Gamma Source in construction at the ELI Nuclear Physics facility in Romania. A test bench for the calibration of BPM has been built to characterize the device with stretched wire measurement in order to get the BPM response map. A full S-parameters characterisation is performed as well to measure the electrical offset with the "Lambertson method". This paper discusses the extensive simulations performed with full 3D electromagnetic CAD codes of the above measurements to investigate measurement accuracy, possible measurement artefacts and the beam position reconstruction.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW007
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW009
+RF System of the SPring-8 Upgrade Project
+414
+
+
+ 
+
+H. Ego, T. Fujita, N. Hosoda, K. Kobayashi, T. Masuda, S. Matsubara, T. Sugimoto
+                       JASRI/SPring-8, Hyogo-ken, Japan
+T. Asaka, T. Fukui, T. Inagaki, C. Kondo, H. Maesaka, T. Ohshima, T. Sakurai
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+
+ 
+
+
+ 
+
+The RF system of the SPring-8 storage ring has stably generated an accelerating voltage of 16 MV at a frequency of 508.58 MHz since 1997. In the upgrade of the SPring-8, a beam energy is lowered from 8 to 6 GeV and a needed voltage is 7 MV. The upgrade employs multi-bending optics, and shortens the straight sections available for RF accelerating cavities by 30%. On account of the space, the RF system is to be so rearranged that the number of cavities can be reduced to half. The analog low-level RF (LLRF) system in use controls the voltage with sufficiently small deviations of less than 0.1 % in amplitude and less than 0.1 degree in phase, but becomes out-of-dates and hard to be maintained. We plan to replace them with a compact digital LLRF system in the MTCA.4 standard and based on under-sampling scheme. The SACLA linac is used for injecting a low-emittance beam to the ring. Because we have to balance the FEL operation and the beam injection on demand, pulse-by-pulse control of beam parameters is going to be implemented to the SACLA LLRF modules. Furthermore, we build a timing system for injection to a target bucket-position in the ring within a time deviation of 3 ps.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW009
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW010
+Property Test of the Q-Factor for High Purity Copper at the Temperature of 20K
+417
+
+
+ 
+
+A. Iino
+                       Sokendai, Ibaraki, Japan
+K. Endo
+                       TOYAMA Co., Ltd., Zama-shi, Kanagawa, Japan
+S. Yamaguchi
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+A coherent parametric x-ray radiation (PXR) source based on a cryogenic electron linac has been developed by Toyama Co., Ltd, KEK and Nihon University. This accelerator is a C-band normal-conducting compact linac that requires a high Q factor in the accelerating and de-celerating structures. To obtain a high Q factor, the ac-celerating and decelerating structures are operated around 20 K, and are joined by diffusion bonding and are constructed with high-purity 6N8 copper which has very low resistivity in extremely low temperatures. In this study, we report the measurements and calculation of the residual resistance ratio (RRR) for 6N8 copper and oxy-gen-free copper (Class 1) as well as the Q factor for a pillbox cavity made of 6N8 copper and Class 1. The results of a low-power test of this accelerating structure at low temperature are reported. The Q factor for a 6N8 copper pillbox cavity is not much higher than that of a Class 1 pillbox cavity at low temperatures Moreover, the Q factor is saturated when RRR is greater than 500.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW011
+The Second Harmonic RF System for J-PARC MR Upgrade
+420
+
+
+ 
+
+C. Ohmori, K. Hara, K. Hasegawa, M. Toda, M. Yoshii
+                       KEK, Tokai, Ibaraki, Japan
+M. Nomura, T. Shimada, F. Tamura, M. Yamamoto
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+Power upgrade scenario of J-PARC Main Ring includes replacement of RF cavities with higher field gradient using magnetic alloy cores, FT3L than the present ones. It also need to install the second harmonic RF cavity in the other section where dedicated water system for RF cavities is not available. Installation scenario of the second harmonic RF will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW012
+Study for a 162.5 MHz Window-Type RFQ
+423
+
+
+ 
+
+Q. Fu, P.P. Ganpresenter, S.L. Gao, F.J. Jia, H.P. Li, J. Liu, Y.R. Lu, Z. Wang, K. Zhu
+                       PKU, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+A window type of four vane radio-frequency quadrupole accelerator has been designed to accelerate 50 mA deuteron beam from 50 keV to 1 MeV. It will operate at 162.5 MHz in CW mode. Compared to the traditional four-vane RFQ, the window-type RFQ is more compact and has higher mode separation without π-mode stabilizing loops or dipole rods. A detailed full 3D model including vane modulation was developed. For the purpose of high shunt impedance, high quality factor and low power dissipation, the RF structure design was optimized by using electromagnetic simulations. Following the EM design optimization, an aluminium model of the window-type RFQ was fabricated and tested.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW012
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW014
+Design of the 7MeV Linac Injector for the 200MeV Synchrotron of the Xi'an Proton Application Facility
+426
+
+
+ 
+
+Q.Z. Xing, C. Cheng, C.T. Du, L. Du, T. Du, X. Guan, H. Jiang, C.-X. Tang, R. Tang, D. Wang, X.W. Wang, L. Wu, H.Y. Zhang, Q.Z. Zhang, S.X. Zheng
+                       TUB, Beijing, People's Republic of China
+W.Q. Guan, Y. He, J. Li
+                       NUCTECH, Beijing, People's Republic of China
+B.C. Wang, Z.M. Wang, W.L. Yang, Y. Yang, C. Zhao
+                       State Key Laboratory of Intense Pulsed Radiation Simulation and Effect, Northwest Institute of Nuclear Technology, Shannxi, People's Republic of China
+
+ 
+
+
+ 
+
+We present, in this paper, the design result of the 7 MeV linac which will inject the negative hydrogen ion beam to the downsteam synchrotron of the Xi‘an Proton Application Facility (XiPAF). This newly designed facility will be located in Xi'an city and provide the proton beam with the maximum energy of 230 MeV for the research of the single event effect. The 7 MeV linac injector is composed of the 50 keV negative hydrogen ion source, Low Energy Beam Transport line (LEBT), 3 MeV four-vane-type Radio Frequency Quadrupole (RFQ) accelerator, 7 MeV Alvarez-type Drift Tube Linac (DTL), and the corresponding RF power source system. The output beam of the linac injector is designed with the peak current of 5 mA, maximum repetition frequency of 0.5 Hz, beam pulse width of 10~40 μs and RMS normalized emittance of 0.24 π mm·mard.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW014
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW015
+Wakefields Studies of High Gradient X-band Accelerating Structure at SINAP
+429
+
+
+SUPSS087
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+X.X. Huang, W. Fang, Q. Gu, M. Zhang, Z.T. Zhao
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Shanghai compact hard x-ray free electron laser (CHXFEL)* is now proposed accompanied with a high-gradient accelerating structure, which is the trend of large scale and compact facility. This structure operated at X-band (11424 MHz) holds the promise to achieve high gradient up to 80 MV/m. However, due to its particular property, a more serious wakefields** will be generated, leading to worse beam instability effects. In this paper, the computation of this case will be carried out with simulation. Moreover, analysis and optimization will be adopted to suppress beam instability.
+* C. Feng, Z. T. Zhao, Chinese Sci Bull, 2010, 55, 221-227.  ** K. Bane, SLAC, NLC-Note 9, Feb. 1995. 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW017
+Performance of the Beam Position Monitor System in Solaris Synchrotron
+432
+
+
+ 
+
+A. Kisiel, Ł.J. Dudek, P.P. Goryl, W.T. Kitka, M.P. Kopec, A.I. Wawrzyniak, Ł. Żytniak
+                       Solaris, Kraków, Poland
+
+ 
+
+
+ 
+
+The Beam Position Monitor (BPM) system in the Solaris National Synchrotron Radiation Centre consists of 8 striplines along a linear accelerator and a transfer line and 36 buttons around the storage ring. The beam position measurement in the linac is handled by 15 cm quarter wave directional striplines connected to Libera Single Pass E modules as readout devices. The circulating beam in the storage ring is monitored by set of 45 degree diagonal buttons in two geometries connected to Libera Brilliance+ devices. Properly configured BPM setup allows for direct measurement of the beam position stability, closed orbit, current of single train and the stored beam. Moreover, the slow acquisition and turn-by-turn data stream from BPMs in the storage ring are used for automatic orbit correction, computing beam lifetime on each button, measuring an orbit response, the beta function and other physical parameters of the electron beam. In order to improve the measurement reliability the beam based alignment has been performed. Within the presentation the performance of the BPM system in Solaris during commissioning phase will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW017
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW019
+Resonant Frequency Control with RCCS for the KOMAC Proton Linac
+435
+
+
+ 
+
+D.H. Seo, Y.-S. Cho, H.S. Kim, H.-J. Kwon, K.T. Seol, Y.G. Song
+                       Korea Atomic Energy Research Institute (KAERI), Gyeongbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Ministry of Science, ICT & Future Planning of the Korean Government.
+The Resonance control cooling systems (RCCS) of 100 MeV proton linac at the Korea multi-purpose accelerator complex (KOMAC) have been operated for cooling the drift tubes (DT) and controlling the resonant frequency of the drift tube linac (DTL). The RCCS can maintain the cooling water temperature within ±0.1 °C by controlling 3-way valve opening. The RCCS has two types of control mode, the constant cooling water temperature control mode and the resonant frequency control mode. In the case of the resonant frequency control, the error frequency is measured in the low-level RF (LLRF) control system and the RCCS compensates the error frequency by controlling the cooling water temperature of DT with PID algorithm. In this paper, the operation results of the resonant frequency control with the RCCS as well as some modification of the LLRF system are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW023
+Optimization of the RF Cavity of a Low-energy Storage Ring for Thomson Scattering X-Ray Source
+438
+
+
+SUPSS090
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+L. Ovchinnikova, V.I. Shvedunov
+                       SINP MSU, Moscow, Russia
+A. Ryabov
+                       IHEP, Moscow Region, Russia
+V.I. Shvedunov
+                       LEA MSU, Moscow, Russia
+
+ 
+
+
+ 
+
+Results of optimization of the RF cavity of a low-energy storage ring for Thomson scattering X-ray source are presented. The geometry of 714 MHz RF cavity was optimized to provide maximum shunt impedance taking into account position of higher order modes (HOMs). The number and position of cooling channels were adjusted to minimize frequency shift due to cavity thermal deformations. The waveguide coupler and frequency tuner were calculated. Special attention was paid to detailed calculations of the HOMs parameter and to study of methods to minimize their influence on the storage ring beam dynamics.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW024
+Design of the New Wideband RF System for the CERN PS Booster
+441
+
+
+ 
+
+M.M. Paoluzzi, S.C.P. Albright, M.E. Angoletta, L. Arnaudon, S. Energico, A. Findlay, M. Haase, M. Jaussi, A.J. Jones, D. Landré, J.C. Molendijk, D. Quartullo, E.N. Shaposhnikova
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+For the renovation and upgrade of the CERN PS Booster (PSB) RF systems a development project was launched in 2012. The design, based on a new approach, aimed at replacing the existing tuned, narrowband RF systems with wideband, modular, solid-state driven units. A wide range of issues had to be addressed spanning from RF power production, radiation hardness of solid-state devices, active cancellation of beam-induced voltages, dedicated low-level electronics allowing multi-harmonic operation and beam stability. Following a three-year prototyping and testing campaign and two international reviews, the project endorsement came at the end of year 2015. It foresees the complete removal of present h1, h2 and h10 systems and the deployment of a new one covering all the frequency ranges from 1 MHz to 18 MHz. The four PSB rings will be equipped with 144 identical acceleration cells providing 24 kV total RF voltage per ring. This paper describes the design concepts, the retained solutions, the expected performances and includes the procurement and implementation strategies. This activity is part of the LHC Injectors Upgrade project (LIU).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW025
+Vacuum RF Breakdown of Accelerating Cavities in Multi-Tesla Magnetic Fields
+444
+
+
+ 
+
+D.L. Bowring, A. Moretti, M.A. Palmer, D.W. Peterson, A.V. Tollestrup, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+B.T. Freemire
+                       IIT, Chicago, Illinois, USA
+A.V. Kochemirovskiy
+                       University of Chicago, Chicago, Illinois, USA
+P.G. Lane, Y. Torun
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Fermilab Research Alliance, LLC under Contract No. DE-AC02-07CH11359.
+Ionization cooling of intense muon beams requires the operation of high-gradient, normal-conducting RF structures within multi-Tesla magnetic fields. The application of strong magnetic fields has been shown to lead to an increase in vacuum RF breakdown. This phenomenon imposes operational (i.e. gradient) limitations on cavities in ionization cooling channels, and has a bearing on the design and operation of other RF structures as well, such as photocathodes and klystrons. We present recent results from Fermilab's MuCool Test Area (MTA), in which 201 and 805 MHz cavities were operated at high power both with and without the presence of multi-Tesla magnetic fields. We present an analysis of damage due to breakdown in these cavities, as well as measurements related to dark current and their relation to a conceptual model describing breakdown phenomena.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW026
+Resonant Control for Fermilab's PXIE RFQ
+447
+
+
+ 
+
+D.L. Bowring, B.E. Chase, J. Czajkowski, J.P. Edelen, D.J. Nicklaus, J. Steimel, T.J. Zuchnik
+                       Fermilab, Batavia, Illinois, USA
+S. Biedron, A.L. Edelen, S.V. Milton
+                       CSU, Fort Collins, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Fermilab Research Alliance, LLC under Contract No. DE-AC02-07CH11359.
+The RFQ for Fermilab's PXIE test program is designed to accelerate a < 10 mA H− CW beam to 2.1 MeV. The RFQ has a four-vane design, with four modules brazed together for a total of 4.45 m in length. The RF power required is < 130 kW at 162.5 MHz. A 3 kHz limit on the maximum allowable frequency error is imposed by the RF amplifiers. This frequency constraint must be managed entirely through differential cooling of the RFQ's vanes and outer body and associated material expansion. Simulations indicate that the body and vane coolant temperature should be controlled to within 0.1 degrees C. We present the design of the cooling network and the resonant control algorithm for this structure, as well as results from initial operation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW026
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW027
+Design of a Perpendicular Biased 2nd Harmonic Cavity for the Fermilab Booster
+451
+
+
+ 
+
+C.-Y. Tan, J.E. Dey, K.L. Duel, R.L. Madrak, W. Pellico, E. Prebyspresenter, J. Reid, G.V. Romanov, D. Sun, I. Terechkine
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+A perpendicular biased 2nd harmonic cavity is currently being designed and built for the Fermilab Booster. The purpose is to flatten the bucket at injection and thus change the longitudinal beam distribution to decrease space charge effects. It can also help with transition crossing. A model cavity has been built to verify various CST Microwave studio and COMSOL results and a test stand has been built to ensure that the Y567 tube is able to operate at twice the Booster fundamental frequencies. Also discussed are the RF windows which are critical to the design.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW027
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW028
+Progress on the MICE RF Module at LBNL
+454
+
+
+ 
+
+T.H. Luo, A.J. DeMello, A.R. Lambert, D. Lipresenter, T.J. Loew, S. Prestemon, S.P. Virostek, J.G. Wallig
+                       LBNL, Berkeley, California, USA
+T.G. Anderson, A.D. Bross, M.A. Palmer
+                       Fermilab, Batavia, Illinois, USA
+Y. Torun
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+The international Muon Ionization Cooling Experiment aims to demonstrate the transverse cooling of a muon beam by ionization in energy absorbers. The final MICE cooling channel configuration has two RF modules, each housing a 201 MHz RF cavity used to compensate the longitudinal energy loss in the absorbers. The assembly of MICE RF Module is being carried out at LBL. In this paper we will report the recent progress on the assembly work.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW028
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW029
+Analysis of Transverse Field Induced by Curved Beryllium Window in Muon Ionization Cooling Cavity
+457
+
+
+ 
+
+T.H. Luo, D. Lipresenter
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The beryllium windows are used in muon ionization cooling cavity to increase the cavity shunt impedance. The windows are curved for predictable thermal deformation. This curvature also introduces transverse field, which will affect the transverse beam emittance. In this paper, we will analyze this transverse field and evaluate its effect on the emittance cooling.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW029
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW030
+High Powered Tests of Dielectric Loaded High Pressure RF Cavities for Use in Muon Cooling Channels
+460
+
+
+ 
+
+B.T. Freemire
+                       IIT, Chicago, Illinois, USA
+D.L. Bowring, A. Moretti, D.W. Peterson, A.V. Tollestrup, Y. Torun, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+A.V. Kochemirovskiy
+                       University of Chicago, Chicago, Illinois, USA
+Y. Torun
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Fermilab Research Alliance, LLC under Contract No. DE-AC02-07CH11359.
+Bright muon sources require six dimensional cooling to achieve acceptable luminosities. Ionization cooling is the only known method able to do so within the muon lifetime. One proposed cooling channel, the Helical Cooling Channel, utilizes gas filled radio frequency cavities to both mitigate RF breakdown in the presence of strong, external magnetic fields, and provide the cooling medium. Engineering constraints on the diameter of the magnets within which these cavities operate dictate the radius of the cavities be decreased at their nominal operating frequency. To accomplish this, one may load the cavities with a larger dielectric material. Alumina of purities ranging from 96 to 99.8% was tested in a high pressure RF test cell at the MuCool Test Area at Fermilab. The results of breakdown studies with pure nitrogen gas, and oxygen-doped nitrogen gas indicate the peak surface electric field on the alumina ranges between 10 and 15 MV/m. How these results affect the design of a prototype cooling channel cavity will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW031
+Beam Test of a Dielectric Loaded High Pressure RF Cavity for Use in Muon Cooling Channels
+463
+
+
+ 
+
+B.T. Freemire
+                       IIT, Chicago, Illinois, USA
+D.L. Bowring, A. Moretti, D.W. Peterson, A.V. Tollestrup, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+A.V. Kochemirovskiy
+                       University of Chicago, Chicago, Illinois, USA
+Y. Torun
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Fermilab Research Alliance, LLC under Contract No. DE-AC02-07CH11359.
+Bright muon sources require six dimensional cooling to achieve acceptable luminosities. Ionization cooling is the only known method able to do so within the muon lifetime. One proposed cooling channel, the Helical Cooling Channel, utilizes gas filled radio frequency cavities to both mitigate RF breakdown in the presence of strong, external magnetic fields, and provide the cooling medium. Engineering constraints on the diameter of the magnets within which these cavities operate dictate the radius of the cavities be decreased at their nominal operating frequency. To accomplish this, one may load the cavities with a larger dielectric material. A 99.5% alumina ring was inserted in a high pressure RF test cell and subjected to an intense proton beam at the MuCool Test Area at Fermilab. The results of the performance of this dielectric loaded high pressure RF cavity will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW031
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW032
+Study of RF Breakdown in 805MHz Pillbox Modular Cavity in Strong Magnetic Field
+466
+
+
+ 
+
+A.V. Kochemirovskiy
+                       University of Chicago, Chicago, Illinois, USA
+D.L. Bowring, A. Moretti, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+B.T. Freemire
+                       IIT, Chicago, Illinois, USA
+Y. Torun
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+
+ 
+
+
+ 
+
+RF breakdown has a negative impact on a cavity's performance, especially with the presence of strong magnetic fields. This issue can arise in designs of muon ionization cooling channel, RF guns, klystrons and in many other applications. The MuCool Test Area at Fermilab is the facility that allows us to study the effects of static magnetic field on RF cavity operation. As a part of this research program, we have tested an 805MHz pillbox "modular" cavity in strong external magnetic fields. The design of the cavity allowed for a better control over sources of systematic error. "Modular" structure of the cavity enables easy dismounting of the endplates to perform inspection of inner surfaces after each run as well as swapping endplates to study the effects of various materials on breakdown phenomenon. Coupler design ensures maximum electric field enhancement on cavity axis, thus reducing breakdown probability in the coupler region. The results and analysis from high-power runs with zero and non-zero external magnetic fields will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW032
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW033
+Acoustic Localization of RF Cavity Breakdown: Status and Progress
+470
+
+
+ 
+
+P.G. Lane, P. Snopokpresenter, Y. Torun
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+A.V. Kochemirovskiy
+                       University of Chicago, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Current designs for muon accelerators require high-gradient RF cavities to be placed in solenoidal magnetic fields. These fields help contain and efficiently reduce the phase space volume of source muons in order to create a usable muon beam for collider and neutrino experiments. It has been found that placing normal conducting RF cavities in strong magnetic fields reduces the threshold at which RF cavity breakdown occurs. To aid the effort to study RF cavity breakdown in magnetic fields, it would be helpful to have a diagnostic tool which can localize the source of breakdown sparks inside the cavity. These sparks generate thermal shocks to a small region of the inner cavity wall that can be detected and localized using microphones attached to the outer cavity surface. Presented here are the algorithms for and results from localizing simulated and experimental acoustic data from the Modular Cavity at the MuCool Test Area at Fermilab.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW034
+Final Commissioning of the MICE RF Module Prototype with Production Couplers
+474
+
+
+ 
+
+Y. Torun, P.G. Lane
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+T.G. Anderson, M. Backfish, D.L. Bowring, A. Moretti, D.V. Neuffer, D.W. Peterson, M. Popovic, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+B.T. Freemire
+                       IIT, Chicago, Illinois, USA
+T.L. Hart
+                       UMiss, University, Mississippi, USA
+A.V. Kochemirovskiy
+                       University of Chicago, Chicago, Illinois, USA
+T.H. Luo
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the US Department of Energy Office of Science through the Muon Accelerator Program.
+We report operational experience from the prototype RF module for the Muon Ionization Cooling Experiment (MICE) with final production couplers at Fermilab's MuCool Test Area. This is the last step in fully qualifying the RF modules for operation in the experiment at RAL.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW034
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW035
+Wakefield Excitation in Power Extraction Cavity (PEC) of Co-linear X-band Energy Booster (CXEB) in Time Domain (T3P) with ACE3P
+477
+
+
+ 
+
+T. Sipahi, S. Biedron, S.V. Miltonpresenter
+                       CSU, Fort Collins, Colorado, USA
+
+ 
+
+
+ 
+
+In our previous papers we provided the general concept and the design details of our proposed Co-linear X-band Energy Booster (CXEB) as well as more advanced 3D simulations of our system using the frequency domain solvers OMEGA3P and S3P of the ACE3P Suite. Here, using the time domain solver T3P of ACE3P, we provide the single bunch and multiple bunch wakefield excitations resulting from a Gaussian bunch. The related power extraction mechanism for our traveling wave (TW) X-band power extraction cavity (PEC) are also discussed further.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW035
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW036
+Frequency Domain Simulations of Co-linear X-band Energy Booster (CXEB) RF Cavity Structures and Passive RF Components with ACE3P
+480
+
+
+ 
+
+T. Sipahi, S. Biedron, S.V. Miltonpresenter
+                       CSU, Fort Collins, Colorado, USA
+
+ 
+
+
+ 
+
+Due to their higher intrinsic shunt impedance X-band accelerating structures offer significant gradients with relatively modest input powers, and this can lead to more compact light sources. At the Colorado State University Accelerator Laboratory (CSUAL) [1] we would like to adapt this technology to our 1.3-GHz, L-band accelerator system using a passively driven 11.7 GHz traveling wave X-band configuration that capitalizes on the high shunt impedances achievable in X-band accelerating structures in order to increase our overall beam energy in a manner that does not require investment in an expensive, custom, high-power X-band klystron system. Here we provide the comparisons of the important parameters achieved using SUPERFISH and OMEGA3P for our Co-linear X-band Energy Booster (XCEB) system that will allow us to achieve our goal of reaching the maximum practical net potential across the X-band accelerating structures while driven solely by the beam from the L-band system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW036
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW037
+FEL Simulation Using Distributed Computing
+483
+
+
+ 
+
+J. Einstein, S. Biedron, H. Freund, S.V. Miltonpresenter, P.J.M. van der Slot
+                       CSU, Fort Collins, Colorado, USA
+G. Bernabeu Altayo
+                       Fermi National Accelerator Laboratory, Batavia, Illinois, USA
+S. Biedron
+                       University of Ljubljana, Faculty of Electrical Engineering, Ljubljana, Slovenia
+J. Einstein
+                       Fermilab, Batavia, Illinois, USA
+P.J.M. van der Slot
+                       Twente University, Laser Physics and Non-Linear Optics Group, Enschede, The Netherlands
+
+ 
+
+
+ 
+
+While simulation tools are available and have been used regularly for simulating light sources, the increasing availability and lower cost of GPU-based processing opens up new opportunities. This poster highlights a method of how accelerating and parallelizing code processing through the use of COTS software interfaces.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW037
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW038
+Measurements of Copper RF Surface Resistance at Cryogenic Temperatures for Applications to X-Band and S-Band Accelerators
+487
+
+
+ 
+
+A.D. Cahill, A. Fukasawa, J.B. Rosenzweig
+                       UCLA, Los Angeles, California, USA
+G.B. Bowden, V.A. Dolgashev, M.A. Franzipresenter, S.G. Tantawi, P.B. Welander, C. Yoneda
+                       SLAC, Menlo Park, California, USA
+J. Guo
+                       JLab, Newport News, Virginia, USA
+Y. Higashi
+                       OIST, Onna-son, Okinawa, Japan
+
+ 
+
+
+ 
+
+Funding: Funding from DOE SCGSR and DOE/SU Contract DE-AC02-76-SF00515
+Recent SLAC experiments with cryogenically cooled X-Band standing wave copper accelerating cavities have shown that these structures can operate with accelerating gradients of ~250 MV/m and low breakdown rates. These results prompted us to perform systematic studies of copper rf properties at cryogenic temperatures and low rf power. We placed copper cavities into a cryostat cooled by a pulse tube cryocooler, so cavities could be cooled to 4K. We used different shapes of cavities for the X-Band and S-Band measurements. Properties of the cavities were measured using a network analyzer. We calculated rf surface resistance from measured Q0 and Q external of the cavity at temperatures from 4 K to room temperature. The results were then compared to the theory proposed by Reuter and Sondheimer. These measurements are a part of studies with the goal of reaching very high operational accelerating gradients in normal conducting rf structures.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW038
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW039
+TM01 Mode Launcher for Use in High Brightness Photoguns
+491
+
+
+ 
+
+A.D. Cahill
+                       UCLA, Los Angeles, California, USA
+M. Dal Fornopresenter, V.A. Dolgashev
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: DOE SCGSR and DOE/SU Contract DE-AC02-76-SF00515
+Photo rf guns are a source of electron beams for X-ray FELs such as LCLS and European XFEL. In existing photoguns power is coupled into the cavity by waveguides through the cell walls, like LCLS, or through coaxial coupling, at the European XFEL. We are considering feeding a gun using a circular waveguide with the TM01 mode. To do that we need a mode launcher, a matched device that couples the rectangular TE01 mode waveguide to a TM01 mode in a circular waveguide. Use of the mode launcher reduces complexity of the gun cavity and increases flexibility of positioning the input waveguide relative to the gun body. Mode launchers have been successfully used at SLAC and elsewhere for X-band high gradient tests. Because the existing mode launchers were not built for high brightness guns, they have a significant quadrupole field component. High brightness rf guns have tight requirements on output beam properties, and this quadrupole component adversely affects the beam. We have designed a mode launcher free of this disadvantage. We present design considerations, methodology, and an example S-band mode launcher.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW039
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW040
+Electron Beam Excitation of a Surface Wave in mm-Wave Open Accelerating Structures
+494
+
+
+ 
+
+M. Dal Forno, G.B. Bowden, C.I. Clarke, V.A. Dolgashev, M.J. Hogan, D.J. McCormick, A. Novokhatski, B.D. O'Shea, S.G. Tantawi, S.P. Weathersby
+                       SLAC, Menlo Park, California, USA
+B. Spataro
+                       INFN/LNF, Frascati (Roma), Italy
+
+ 
+
+
+ 
+
+Funding: Work supported by the US DOE under contract DE-AC02-76SF00515.
+As part of research on the physics of rf breakdowns we performed experiments with high gradient traveling-wave mm-wave accelerating structures. The accelerating structures are open, composed of two identical halves separated by an adjustable gap. The electromagnetic fields are excited by an ultra-relativistic electron beam. We observed that a confined travelling-wave mode exists in half of the accelerating structure. The experiments were conducted at FACET facility at SLAC National Accelerator Laboratory. Depending on the gap width, the accelerating structure had beam-synchronous frequencies that vary from 90 to 140 GHz. When we opened the gap by more than half wavelength the synchronous wave remains trapped. Its behavior is consistent with the so called "surface wave". We characterized this beam-wave interaction by several methods: measurement of the radiated rf energy with the pyro-detector, measurement of the spectrum with an interferometer, measurement of the beam deflection by using the beam position monitors and profile monitor.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW040
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW041
+Measurements of RF Breakdowns in Beam Driven mm-Wave Accelerating Structures
+497
+
+
+ 
+
+M. Dal Forno, G.B. Bowden, C.I. Clarke, V.A. Dolgashev, M.J. Hogan, D.J. McCormick, A. Novokhatski, S.G. Tantawi, S.P. Weathersby
+                       SLAC, Menlo Park, California, USA
+B. Spataro
+                       INFN/LNF, Frascati (Roma), Italy
+
+ 
+
+
+ 
+
+Funding: Work supported by the US DOE under contract DE-AC02-76SF00515
+We studied the physics and properties of rf breakdowns in high gradient traveling-wave accelerating structures at 100 GHz. The structures are open, made of two halves with a gap in between. The rf fields were excited in the structure by an ultra-relativistic electron beam generated by the FACET facility at the SLAC National Accelerator Laboratory. We observed rf breakdowns generated in the presence of GV/m scale electric fields. We varied the rf fields excited by the FACET bunch by moving structure relative to the beam and by changing the gap between structure halves. Reliable breakdowns detectors allowed us to measure the rf breakdown rate at these different rf parameters. We measured radiated rf energy with a pyro-detector. When the beam was off-axis, we observed beam deflection in the beam position monitors and on the screen of a magnetic spectrometer. The measurements of the deflection allowed us to verify our calculation of the accelerating gradient.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW041
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW042
+Multi-Dimensional RF Sources Design
+501
+
+
+ 
+
+M. Dal Forno, A. Jensen, R.D. Ruth, S.G. Tantawi
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the US DOE under contract DE-AC02-76SF00515.
+Vacuum electronic devices, such as rf sources for accelerator applications, must provide high rf power with high efficiency. To achieve these requirements, multi-beam klystron and sheet-beam klystron devices have been developed. Multi-beam klystrons, at high frequency employ separate output cavities; hence they have the disadvantage that combining all the rf pulses, generated by all the beams, is challenging. Sheet-beam klystrons have problems with instabilities and with space charge forces that makes the beam not naturally confined. We are proposing an alternative approach that reduces space charge problems, by adopting geometries in which the space charge forces are naturally balanced. An example is when the electron beam is generated by a central source (well) and the electron motion corresponds to the natural expansion of the electron cloud (three-dimensional device). In this paper we will present the design and challenges of a bi-dimensional rf source, a cylindrical klystron, composed by concentric pancake resonant cavities. In this case, space charge forces are naturally balanced in the azimuthal direction.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW042
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW043
+Overview of High Power Vacuum Dry RF Load Designs
+504
+
+
+ 
+
+A.K. Krasnykh, A. Brachmann, F.-J. Decker, T.J. Maxwell, J. Sheppard
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US Department of Energy under contract DE-AC02-76SF00515
+A specific feature of RF linacs based on the pulsed traveling wave (TW) mode of operation is that only a portion of the RF energy is used for the beam acceleration. The residual RF energy has to be terminated into an RF load. Higher accelerating gradients require higher RF sources and RF loads, which can stably terminate the residual RF power. This overview will outline vacuumed RF loads only. A common method to terminate multi-MW RF power is to use circulated water (or other liquid) as an absorbing medium. A solid dielectric interface (a high quality ceramic) is required to separate vacuum and liquid RF absorber mediums. Using such RF load approaches in TW linacs is troubling because there is a fragile ceramic window barrier and a failure could become catastrophic for linac vacuum and RF systems. Traditional loads comprising of a ceramic disk have limited peak and average power handling capability and are therefore not suitable for high gradient TW linacs. This overview will focus on 'vacuum dry' or 'all-metal' loads that do not employ any dielectric interface between vacuum and absorber. The first prototype is an original design of RF loads for the Stanford Two-Mile Accelerator.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW043
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMW044
+Design of an RF Device to Study the Multipactor Phenomenon
+507
+
+
+SUPSS115
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D. Amorim
+                       Grenoble-INP Phelma, Grenoble, France
+J.-M. De Conto, Y. Gómez Martínez
+                       LPSC, Grenoble Cedex, France
+
+ 
+
+
+ 
+
+Multipacting is a parasitic electron avalanche process that may occur in RF devices such as cavities or couplers. As it can be detrimental to the operation of these devices, the accelerator group at LPSC is currently designing a coaxial resonant cavity in order to study this phenomenon. In order to determine the measurable parameters on the cavity, calculations were performed and validated with numerical simulations. In a second time multipacting simulations were conducted to determine if the experiment will allow to observe multipacting.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMW044
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

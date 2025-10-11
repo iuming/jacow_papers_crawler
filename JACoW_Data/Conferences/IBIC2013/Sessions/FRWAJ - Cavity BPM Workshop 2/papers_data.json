@@ -1,0 +1,162 @@
+{
+  "session_info": {
+    "id": "FRWAJ",
+    "name": "FRWAJ - Cavity BPM Workshop 2",
+    "url": "https://proceedings.jacow.org/IBIC2013/html/frwaj.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FRWAJ1",
+      "title": "The FERMI@Elettra Cavity BPM System",
+      "authors": [
+        "Elettra-Sincrotrone Trieste S.C.p.A.",
+        "Basovizza",
+        "Italy",
+        "Raffaele gave a short introduction on the FERMI@Elettra FEL project and the related cavity BPM diagnostics system",
+        "most used along the two undulator areas. As of limited manpower resources",
+        "the 6.5GHz cavity BPM system builds as much as possible upon industrial components. The analog front-end solution is somewhat untypical",
+        "and generated some interesting discussion. Instead of the usual heterodyne downconverter",
+        "a hybrid based RF detector rectifies the signals in front of the μATCA-based digitizer. Phase shifters are used to zero calibrate the channels",
+        "as well as a calibration tone feed through the reference channel. The measured resolution is ~1.4μm",
+        "however",
+        "efforts to improve the resolution <0.5μm are underway. These include adding a downconvertor section into the signal processing. The pros and cons of this improvement were discussed rather controversial."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/frwaj1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/frwaj1.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/frwaj1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-FRWAJ1",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRWAJ2",
+      "title": "Low vs High Q Cavity BPMs",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "Steve summarized the pros and cons of high vs. low Q cavity BPM pickups very comprehensively. He included a few real-world examples on mode-leakage",
+        "dynamic range and expected resolution by acquiring multiple samples of the waveform. The latter favors a high-Q BPM resonator",
+        "which he claims will improve the resolution",
+        "i.e. effective number of bits",
+        "by using more ADC samples n on the waveform by ln(n)/2. Other arguments of Steve on the Nyquist theorem and signal aliasing also favors the use of a high-Q BPM. Most colleagues followed his view: try to use a high-Q cavity BPM!"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/frwaj2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/frwaj2.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/frwaj2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-FRWAJ2",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRWAJ3",
+      "title": "How short should the cavity resonator be?",
+      "authors": [
+        "DESY",
+        "Hamburg",
+        "Germany",
+        "Vladimir discussed this question analytically",
+        "to better understand the resolution limit of a pill-box cavity BPM with respect to the bunch length and operation frequency. A good rule of thumb seems to be",
+        "try to make the length of the cavity resonator comparable to the bunch length. However",
+        "for accelerators with very short bunch length <<1mm",
+        "e.g. FEL drivers",
+        "this seems to be not applicable. In this case the presence of the signal component due to a beam angle cannot be avoided. Vladimir also presented the required suppression of unwanted modes to achieve 1nm resolution",
+        "which is in the order of 125135dB."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/frwaj3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/frwaj3.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/frwaj3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-FRWAJ3",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRWAJ4",
+      "title": "Experience on the ATF2 Cavity BPM System",
+      "authors": [
+        "JAI",
+        "Egham",
+        "Surrey",
+        "United Kingdom",
+        "Royal Holloway",
+        "University of London",
+        "Surrey",
+        "United Kingdom",
+        "Steward focused on the ATF2 cavity BPM relevant parts of his IBIC ATF2 beam diagnostics presentation. He summarized the experience on the BPM system over long operational periods",
+        "e.g. calibration",
+        "drifts",
+        "but discussed also the problems of large beam offsets",
+        "which are limiting the resolution. Of particular interest was his comparison of calculated and measured wakefield effects."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/frwaj4_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/frwaj4.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/frwaj4_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-FRWAJ4",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRWAJ5",
+      "title": "CBPM Waveform Deconvolution",
+      "authors": [
+        "JAI",
+        "Egham",
+        "Surrey",
+        "United Kingdom",
+        "Francis presented simulations on the deconvolution of the cavity BPM response to a single bunch from signals obtained for a bunch train stimulus",
+        "based on the CTF3 beam parameters. In this case the bunch spacing is always short compared to the decay time τ of the BPM resonator. He tried to resolve individual bunches by the deconvolution method. Applying a random position jitter along the bunch train",
+        "he compared a simple downconversion procedure and a combination of downconversion and deconvolution to the original beam position. The DDC/deconvolution method seems to better resolve the beam position along the bunch train. He finally presented his method on measured ATF2 data."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/frwaj5_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/frwaj5.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/frwaj5_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-FRWAJ5",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRWAJ6",
+      "title": "CBPM Principal Component Analysis",
+      "authors": [
+        "JAI",
+        "Oxford",
+        "United Kingdom",
+        "Young-Im gave a short introduction on the principal component analysis (PCA). It makes use of an SVD analysis on the sampled waveform data on a single bunch measurement",
+        "and can explain the variance of the signal contents. She discussed some results obtained for heterodyne and homodyne receivers in a test setup at ATF2."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/frwaj6_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/frwaj6.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/frwaj6_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-FRWAJ6",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 6,
+  "scrape_time": "2025-10-10 18:01:37"
+}

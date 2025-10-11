@@ -1,0 +1,103 @@
+{
+  "session_info": {
+    "id": "TUBLA",
+    "name": "TUBLA - BPMs and Beam Stability",
+    "url": "https://proceedings.jacow.org/IBIC2015/html/tubla.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUBLA01",
+      "title": "Beam Based Calibration for Beam Position Monitors",
+      "authors": [
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "Beam position monitoring is one of most fundamental diagnostic tool in accelerator. To keep good performance of the BPM system",
+        "the beam-based alignment method is developed and used for more precise BPM alignment and keeping the performance. The signal from BPM is transfer by coaxial cable",
+        "and processed by signal processing circuit. The beam position is calculating from the relative ratio between the 4 intensities from the BPM head. The characteristic of circuit gain is calibrated in the beginning by using the test bench. But this calibration will be changed with passing year. To escape from this problem",
+        "a same kind of calibration for the gain as like as beam-based alignment is key issue to maintain a good performance of the BPM system. For this propose",
+        "a beam-based gain calibration method is developed and used in the KEK. The both of beam-based alignment method and beam based gain calibration method present using concrete examples."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2015/talks/tubla01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2015/papers/tubla01.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2015/posters/tubla01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2015-TUBLA01",
+      "page_number": "266",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUBLA03",
+      "title": "Status of the Intra-bunch Feedback at J-PARC Main Ring",
+      "authors": [
+        "J-PARC",
+        "KEK & JAEA",
+        "Ibaraki-ken",
+        "Japan",
+        "Y.H. Chin",
+        "T. Koseki",
+        "H. Kuboki",
+        "T. Obina",
+        "M. Okada",
+        "M. Tobiyama",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "Kyoto University",
+        "Kyoto",
+        "Japan",
+        "JAEA/J-PARC",
+        "Tokai-Mura",
+        "Naka-Gun",
+        "Ibaraki-Ken",
+        "Japan",
+        "One of the present obstacles for intensity upgrade of the J-PARC Main Ring is transverse collective instability. We have been developing so called intra-bunch feedback system and in operation during injection flat bottom since last year. But recent beam intensity upgrade push us to improve further the system",
+        "namely feedback during acceleration. The revolution frequency changes about 2% and the synchronous phase varies 0 - 26 degree during acceleration from 3 to 30 GeV in the MR. The delay in the feedback loop is changed stepwise triggered by external pulses. We are examining quick trigger timing determination by matching the bunch shape in the controller (\"iGp12\") to the one from the exciter (kicker) and estimating differences of slice markers in time. This method is time saving",
+        "which is important because of a limited machine tuning time. We will report present status of the feedback during acceleration."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2015/talks/tubla03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2015/papers/tubla03.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2015/posters/tubla03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2015-TUBLA03",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUBLA04",
+      "title": "Progress Towards Electron-Beam Feedback at the Nanometre Level at the Accelerator Test Facility (ATF2) at KEK",
+      "authors": [
+        "P. Burrows",
+        "D.R. Bett",
+        "N. Blaskovic Kraljevic",
+        "T. Bromwich",
+        "G.B. Christian",
+        "M.R. Davis",
+        "C. Perry",
+        "JAI",
+        "Oxford",
+        "United Kingdom"
+      ],
+      "institutions": [
+        "Ultra-low latency beam-based digital feedbacks have been developed by the Feedback On Nanosecond Timescales (FONT) Group and tested at the Accelerator Test Facility (ATF2) at KEK in a programme aimed at beam stabilisation at the nanometre level at the ATF2 final focus. Three prototypes were tested: 1) A feedback system based on high-resolution stripline BPMs was used to stabilise the beam orbit in the beamline region c. 50m upstream of the final focus. 2) Information from this system was used in a feed-forward mode to stabilise the beam locally at the final focus. 3) A final-focus local feedback system utilising cavity BPMs was deployed. In all three cases the degree of beam stabilisation was observed in high-precision cavity BPMs at the ATF2 interaction point. Latest results are reported on stabilising the beam position to approximately 50nm."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2015/talks/tubla04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2015/papers/tubla04.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2015/posters/tubla04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2015-TUBLA04",
+      "page_number": "273",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 17:54:21"
+}

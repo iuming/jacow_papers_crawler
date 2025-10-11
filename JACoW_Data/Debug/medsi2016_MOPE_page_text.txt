@@ -1,0 +1,2191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEDSI2016 - Table of Session: MOPE (Poster Session)
+
+
+MOPE —  Poster Session   (12-Sep-16   17:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPE01
+Stabilization Methods for Force Actuators and Flexure Hinges
+1
+
+
+ 
+
+C. Colldelram, J. Nicolás, C. Ruget
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+In the framework of the design of an adaptive optics for x-ray mirrors a stabilization system* for force actuators and flexure hinges have been conceived. This corrector allows to deform the mirror surface at nanometre level but for this purpose it requires resolutions better than 0.02, by using ultra-low constant springs, and to preserve the introduced deformation it is needed to be stable at the same level. The corrector needs to be insensitive when dismantling and remounting the mirror. In the other hand in order to support the corrector its structure is attached to the bender frame and the spring force is transmitted through a level arm by means a bearing articulation. This introduces a small friction but it is still preferably to eliminate it. A new method based -k spring-like constant principle is proposed. Based on this technique it is possible to stabilize the force exerted on the mirror below 0,02N for an error range more than 1 mm. In addition applying the principle to a flexure it allows to compensate it in an angular range in within the torque variation tend to be null, below 0,005 Nm, thus becoming a short range, frictionless and zero torque articulation.
+* Patent Registered
+
+ 
+
+
+
+
+
+
+Poster MOPE01 [1.046 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE01
+
+ 
+
+
+About •
+paper received ※ 15 September 2016       paper accepted ※ 08 May 2017        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE02
+Studies on Flow-Induced Vibrations for the New High-Dynamics DCM for Sirius
+8
+
+
+ 
+
+R.M. Caliari, O.R. Bagnato, F.R. Francisco, R.R. Geraldes, R.L. Parise, M. Saveri Silvapresenter, D.O. Tavares, L.,Jr. de Souza
+                       LNLS, Campinas, Brazil
+T.A.M. Ruijl
+                       MI-Partners, Eindhoven, The Netherlands
+
+ 
+
+
+ 
+
+The monochromator is known to be one of the most critical optical elements of a synchrotron beamline, since it directly affects the beam quality with respect to energy and position. Naturally, the new 4th generation machines, with their small emittances, start to bring about higher stability performance requirements, in spite of factors as high power loads, power load variation, and vibration sources. A new high-dynamics DCM (Double Crystal Monochromator) is under development at the Brazilian Light Source for the Sirius EMA beamline (Extreme Condition X-ray Methods of Analysis). The disturbances induced by the coolant flows are known to be among the most detrimental influences to a DCM performance, however, quantitative force numbers involved in such disturbances are not commonly investigated. According to the novel dynamic concept, these forces should be predictably translated into stability performance. Therefore, experimental setups that allow the indirect measurement of such forces in conditions close to those of operation were designed. The results comparing different indirect cooling profiles and manufacturing processes (brazing and additive manufacturing) are shown.
+
+ 
+
+
+
+
+
+
+Poster MOPE02 [3.064 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE02
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 15 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE03
+MFX - a New Macromolecular Beamline at LCLS
+ 
+
+
+ 
+
+J.C. Castagna, S. Boutet
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+MFX stands for Macromolecular-Femtosecond-Xtallography Motivation for a new beamline at LCLS: Biology experiments require pink beam in the Hard Xray regime. The existing and combined, CXI and XPP beamlines at LCLS cover >55% of the LCLS proposals, all sciences included. About half of these are biology proposals. Schedule constraints mean structural bi-ology beam time had plateaued and the gap between biology beam time and demand has been increas-ing steadily. MFX is a new beamline at LCLS optimized and dedicated to atmospheric pressure structural biology. MFX was created to allow more access to beam time and benefit from the LCLS multiplexing capabili-ties. First light came on January 12 2016, 21 months after initial funding. First user experiment took place in July 2016. End station is still in construction phase.
+
+ 
+
+
+
+
+
+
+Poster MOPE03 [0.970 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE04
+Dynamically Isotropic Hexapods for High-Performance 6-DOF Manipulation
+ 
+
+
+ 
+
+B. Afzali-Far
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+Recent advances in synchrotron facilities have led to a growing need for 6-DOF precise manipulation. Hexapods are the most widely used parallel robots which provide 6 DOFs. To obtain high precision and high dynamic performance in hexapods, it is necessary to design them in such a way that low eigen frequencies are avoided (while the eigenf requencies are also functions of the complex 3D geometry of hexapods). Theoretically, maximizing the lowest eigen frequency leads to a condition where multiple eigen frequencies become equal, which is known as (complete or partial) dynamic isotropy. Thus, one may consider a dynamically isotropic hexapod as the optimal design solution, where precision and dynamic performance is a goal. In this work, we analytically address this problem and establish a practical guideline in order to design generalized hexapods with complete dynamic isotropy. The findings are based on the recently defended PhD dissertation by Behrouz Afzali-Far.
+
+ 
+
+
+
+
+
+
+Poster MOPE04 [0.853 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE05
+Mechanical Design of Secondary Source Slits for Hard X-ray Beamlines at Taiwan Photon Source
+12
+
+
+ 
+
+H.Y. Yan, C.H. Chang, S.H. Chang, C.Y. Chen, C.Y. Huang, J.M. Lin, D.G. Liu, D.-J. Wang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The secondary source slits have been developed for specific hard X-ray beam-lines at Taiwan Photon Source. Especially for Coherent X-ray Scattering and X-ray Nanoprobe beam-lines, severe specifications of the slits are more necessary to define proper beam sizes in horizontal and vertical directions at sample. The opening size of each pair of slits assembled orthogonally is usually needed to range within several microns, so the UHV-compatible piezo-driven stages with closed-loop system were adopted for the purposes of fine adjustment, precise positional accuracy and repeatability. To reduce X-ray scattering effect, the rectangular single-crystal film was bonded on the edge of the slit blade. The machined rotary weak-link structure and piezo-driven actuators were used to slightly adjust parallelism of each pair of the blades with the method of single-slit diffraction. To enhance structural and thermal stability, the granite plinths with specified shape were designed and the precise temperature controlling system will be set up recently. The overall design, mechanical specifications and procedure of testing for secondary source slits will be introduced in this paper.
+
+ 
+
+
+
+
+
+
+Poster MOPE05 [0.795 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE05
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 14 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE06
+The Mechanical Stability and the Correlated Beam Performance at TPS
+ 
+
+
+ 
+
+J.-R. Chen, M.L. Chen, W.Y. Lai, Z.-D. Tsai, Y.C. Yang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The correlation between the mechanical stability and the beam performance at TPS was studied. Strong correlation was observed between the air temperature fluctuation and the fluctuations of the beam size and beam position. It was found that different temperature sources were responsible for the fluctuations of the beam position in different directions (vertical and horizontal). The sensitivity factors of the fluctuations of the beam performance to the temperature fluctuation were measured.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE07
+Ground Motions Measurements for Synchrotron
+15
+
+
+ 
+
+D.T. Ziemianski
+                       CUT, Kraków, Poland
+M.P. Nowak
+                       Solaris, Kraków, Poland
+
+ 
+
+
+ 
+
+For more than two decades, ground vibration measurements were made by different teams for feasibility studies of linear accelerators. Recent measurements were performed in the SPS tunnel and at different CERN sites on the surface. The devices to measure vibrations of magnitude ranging in nanometres, the analysis techniques and the results are critically discussed and compared with the former measurements. The implication of the measured integrated R.M.S. displacements for the Crab cavities cavern is mentioned. The equipment used in this study consists of 2 state-of-the-art Guralp broadband triaxial seismometers. Models CMG-T60-0004 performed measurements in three directions V, N/S and E/W. The first analysis was to evaluate the power spectral density for each direction of sensors and event. The power spectral density is calculated from the auto power spectrum. The power spectral density shows a typical curve for the geophones with theμseismic peak between 0.2 and 0.4 [Hz]. It is import ant to point that ground vibrations should not be ignored in planning accelerator facility. Actually it is one of the limiting factor in the optimization of future accelerators.
+
+ 
+
+
+
+
+
+
+Poster MOPE07 [4.968 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE07
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 15 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE08
+The LNLS Metrology Building
+17
+
+
+ 
+
+H.G.P. de Oliveira, C. Esper Neto, P.T. Fonseca, R.R. Geraldes, B.C. Meyer, M.A. Pereira, G.L.M.P. Rodrigues, L. Sanfelicipresenter, L.G. da Silva
+                       LNLS, Campinas, Brazil
+L. Buccianti, M.H.A. Costa
+                       Biotec Controle Ambiental, São José dos Campos, SP, Brazil
+C. Prudente
+                       Prudente Engenharia Ltda., Uberlândia, Minas Gerais, Brazil
+
+ 
+
+
+ 
+
+Funding: Brazilian Ministry of Science, Technology, Innovation and Communication.
+The increasing demands of instrumentation projects for SIRIUS require more sensitive equipment to be devel-oped and characterized in theμand nanometer scale. To achieve this level of precision it is necessary to work within a controlled environment, minimizing instabilities and disturbance effects such as temperature variation and vibrations. Based on metrology labs as those at BESSY, ESRF, DLS and others, a new facility is currently under final construction stage at the LNLS, which will be dedi-cated to high precision optical and mechanical metrolo-gies. This work describes in detail the project of the new LNLS Metrology Building.
+
+ 
+
+
+
+
+
+
+Poster MOPE08 [2.829 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE08
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 15 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE09
+Preliminary Design and Test of Damping Mechanism for Reducing Vibration of TPS SR Vacuum Chamber
+20
+
+
+ 
+
+K.H. Hsu, M.L. Chen, C.M. Cheng, H.C. Ho, D.-G. Huang, C.K. Kuan, W.Y. Lai, C.J. Lin, S.Y. Perng, T.C. Tseng, H.S. Wang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Since flow-induced vibration of vacuum chamber effects of the stability of the electron beam storage ring in Taiwan Photon Source (TPS), a damping mechanism was designed and installed to reduce vibration. The damping mechanism is composed of a clamper of vacuum chamber, a fixed fixture on the girder and a sandwiched stain-less steel support with damping materials inside. Different kinds of materials were applied in the damping mechanism for vacuum chamber. The vibration of vacuum chamber were obtained and compared. The design and vibration measurement results of damping mechanism for vacuum chamber are presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE09
+
+ 
+
+
+About •
+paper received ※ 11 September 2016       paper accepted ※ 14 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE10
+Dynamic Analysis and Measurement of Ground Motion for the Solaris - National Synchrotron Radiation Centre in Cracow
+24
+
+
+ 
+
+D.T. Ziemianski
+                       CUT, Kraków, Poland
+M.P. Nowak
+                       Solaris National Synchrotron Radiation Centre, Jagiellonian University, Kraków, Poland
+
+ 
+
+
+ 
+
+The paper presents the results of the ground motion measurements and dynamic analysis performed in the Polish synchrotron radiation facility Solaris. The analysis has been carried out within the framework of the installation experimental lines inside Solaris building and accelerator tunnel. The equipment used in this study consists of 4 seismic, high sensitivity, ceramic flexural ICP accelerometer Models 393B31 (PCB), which performed measurements in one vertical directions. The first analysis was to evaluate the power spectral density for each sensors and event. The power spectral density is calculated from the auto power spectrum. The power spectral density shows a typical curve with theμseismic peak between 0.2 and 0.4 Hz. It is important to point that ground vibrations should not be ignored in planning accelerator facility. All over the measurement, the RMS integrated level in the vertical direction at 1 Hz were calculated and presented in paper.
+
+ 
+
+
+
+
+
+
+Poster MOPE10 [2.916 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE10
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 23 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE11
+Preliminary Active Vibration Elimination Study of the TPS Girder System
+26
+
+
+ 
+
+T.C. Tseng, M.L. Chen, H.C. Ho, K.H. Hsupresenter, D.-G. Huang, C.K. Kuan, W.Y. Lai, C.J. Lin, S.Y. Perng, C.W. Tsai, H.S. Wang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The Taiwan Photon Source (TPS) had delivered the first synchrotron light on the last day of 2014 and is to open to the users from September 2016 after one and half years of commissioning and insertion devices installation. However, the instability is still an obvious problem to the beam quality and the deviation amplification factor of the magnets to the electron beam plays an important contribution role. Since the magnets are firmly installed on the girders and the contribution is mainly transferred from the girder vibration. This study tries to eliminate the obvious vibration frequencies amplitude exerted on the girder from outside sources such as the utility system with the PZT actuators installed on the locking wedges between girder and pedestals. By the amplitude and inverse phase searching iteration, some vibration frequency peaks in phase domain can be eliminated and the instability is also reduced.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE11
+
+ 
+
+
+About •
+paper received ※ 11 September 2016       paper accepted ※ 20 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE12
+Development and Characterization of a Large Range Small Angle Generator
+ 
+
+
+ 
+
+G. Kortaberria, G.A. Aizpurua, A. Delgado, A. Olarra
+                       Fundación TEKNIKER, Elbr (Guipuzkoa), Spain
+
+ 
+
+
+ 
+
+Funding: Device developed in EMRP SIB58 ANGLES project.
+This work reports on development and characterization of a new concept of Large Range Small Angle Generator, LRSAG. The device is used for the calibration of high precision angle measuring systems, such as autocollimators, levels and encoders. The state of art requirements for the SAG according to autocollimator manufacturers and users are: ±3600" stroke, 0.001" resolution, high stability and portability. The key element behind the angular motion generation consists on a flexure mechanism. This approach makes possible to reduce the overall size of the LRSAG. Moreover, the mechanism consists on a Parallel Kinematic Mechanism that supports the end effecter, enabling high stiffness and high eigenfrequencies. The mechanisms is actuated by two piezo linear stages that provide large stroke (20 mm) and very high resolution (2 nm in closed loop mode). Two independent measuring systems are also integrated in the angle generator. These systems provide feedback about the position of the moving platform based on imaging systems. One of the measuring systems is a novel "planar differential absolute 3 DOF measurement device". The second system consists on linear encoder technology.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE13
+The 20m/s CERN Fast Vacuum Wire Scanner Conceptual Design and Implementation
+29
+
+
+ 
+
+J. Herranz
+                       Proactive Research and Development, Barcelona, Spain
+W. Andreazza, N. Chritin, B. Dehning, J. Emery, D. Gudkov, P. Magagnin, S. Samuelsson, J.L. Sirvent, R. Veness
+                       CERN, Geneva, Switzerland
+A. Barjau
+                       Universitat Politécnica de Catalunya, Barcelona, Spain
+
+ 
+
+
+ 
+
+In the next years the luminosity of the LHC will be significantly increased. Therefore a much higher accuracy of beam profile measurement than actually achievable by the current wire scanner is required. The new performance demands a wire travelling speed up to 20 m/s and a position measurement accuracy of the order of 1 µm. In order to minimize the error source of the wire position measurement, a challenging concept has been developed which consists of the placement of the motor rotor and the angular position sensor in vacuum. The implementation of this new concept requires the use of a magnetic brake, hybrid vacuum bearings, the design and production of very thin (<0.5mm) wall vacuum chamber regions and the production of titanium components by 3D additive technologies. The implementation of this new concept has required different optimization processes as the structural optimization under dynamic load of the most critical rotating elements or the optimization of the control system and the motion pattern. This contribution gives an overview of the new device design and shows the different technical solution applied to develop the new concept in a successful way.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE13
+
+ 
+
+
+About •
+paper received ※ 10 September 2016       paper accepted ※ 20 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE14
+Optical Laser in-Coupling of the SCS Instrument at the European XFEL
+ 
+
+
+ 
+
+J.T. Delitz, R. Carley, M. Izquierdo
+                       XFEL. EU, Hamburg, Germany
+C. Broers, A. Scherz
+                       European XFEL, Schenefeld, Germany
+
+ 
+
+
+ 
+
+To facilitate pump-probe time-resolved studies, an optical laser in-coupling device (LIN) will be located on the Scattering and Coherent Spectroscopy instrument between the Kirkpatrick-Baez (KB) X-ray focusing mirrors and the exchangeable interaction chamber. The main function of the LIN is to bring the optical pump laser to the sample. Optical pump laser pulses can be generated in a range of wavelengths, pulse energies and pulse durations and are synchronized to the FEL pulse sequence. The main feature of the LIN is a set of four in-vacuum mirrors for different wavelengths that can be selected without breaking vacuum. The mirror stack is mounted on a vertical translator with ball-screw- driven linear guides attached to the base granite for stability. Each 2-inch piezo driven mirror holder allows an on-axis or off-axis configuration with respect to the X-ray beam. With a total length of 940 mm the LIN also includes a proper image based diagnostic for the pump laser as well as the FEL beams. To maintain the pressure in the KB mirror chamber two-stages of differential pumping are also included in the setup.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE15
+Cam Mover Alignment System Positioning with Wire Position Sensor Feedback for CLIC
+32
+
+
+ 
+
+J. Kemppinen, Z.S. Kostka, H. Mainaud Durand
+                       CERN, Geneva, Switzerland
+J. Kemppinen
+                       ETH, Zurich, Switzerland
+
+ 
+
+
+ 
+
+Compact Linear Collider (CLIC) is a study of an electron-positron collider with nominal energy of 3 TeV and luminosity of 2·1034 cm-2·s-1. The luminosity goal leads to stringent alignment requirements for single quadrupole magnets. Vertical and lateral offset deviations with regards to a given orbit reference in both ends of a quadrupole shall be below 1 µm and quadrupole roll deviation shall be below 100 µrad. Translation in the direction of particle beam is not controlled but mechanically locked. A parallel kinematic platform based on cam movers was chosen as system for detailed studies. Earlier studies have shown that cam movers can reach the CLIC requirements through an iterative process. The paper presents new modular off-the-shelf control electronics and software including three optional positioning algorithms based on iterations as well as a more advanced algorithm which can reach target position in one movement. The advanced algorithm reads wire position sensors (WPS), calculates quadrupole orientation based on the readings and updates the remaining trajectory during motion. All of the optional positioning methods reach the CLIC positioning requirements within minutes.
+
+ 
+
+
+
+
+
+
+Poster MOPE15 [0.425 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE15
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 14 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE16
+Development of the RIXS Manipulator
+35
+
+
+ 
+
+H. Jöhri, C. Hess, L. Nue, L. Patthey, T. Schmitt
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The RIXS Manipulator (RIXS = Resonant Inelastic X-ray Scattering) is a further development of the Carving Manipulator. The carving manipulator has six independent degree of freedom. (Three translations and three rotations). All three rotations are exactly in the middle of the sample surface. The head of the manipulator is in UHV and the sample can be cooled down to 10K. For the RIXS manipulator there is a new requirement to have a field of view from 0-180°. There are mainly two parts in the carving manipulator that set the probe in the shadow of the beam at small angles. - A bellow - The bearings To solve these problems we shifted the bellow behind the pivot point. This give some strange movements of the bellows and we had to analyse this in a separate test installation. For the bearings, we developed a goniometer bearing with ceramic bearing shells. Meanwhile the RIXS manipulator is implemented and in routine operation
+
+ 
+
+
+
+
+
+
+Poster MOPE16 [1.357 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE16
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 14 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE17
+OCTOGLIDE - Table Positioning Device for Diffraction Applications
+38
+
+
+ 
+
+G. Olea, N. Huber
+                       HUBER Diffraktiontechnik GmbH&Co.KG, Rimsting, Germany
+
+ 
+
+
+ 
+
+A new Table Positioning Device(TPD) for high precision and heavy load manipulations has been developed. Conceived as an alternative to the precision hexapods it fulfils the gap of sample (and/or, instruments) positioning in small (height) available working spaces of synchrotron Diffractometers (Dm). The concept is based on a Redundant Parallel Kinematic Structure (Rd-PKS) with four (4) legs having 2 dof active joints (actuators). In this Proof of Functionality (PoF) step, a stacked solution has been adopted for actuators design using the existent XY translation Positioning Units (Pu). The symmetrically modular 6-4(PP)PS precision mechanism - OCTOGLIDE(OG) having eight (8) gliding actuators (P) is implying also a pair of wedges - Elevation (El) and socket/ball - Guiding (G) Pu, as passive joints (P and S) forming one of the Positioning modules (Pm). Spatial positions can be reached without any singularities and planar motions along/around X or Y axis are performed very intuitively with some of the actuators (decoupled) motion. The first tests of the prototype are revealing both, high accuracy (straightness, flatness, etc) and stiffness capabilities.
+* Merlet JP, Parallel robots, Springer, 2006
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE17
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 19 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE18
+Real-Time Motor Control System for Beamlines
+41
+
+
+ 
+
+C.F. Chang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+To improve the stability and accuracy of motor control system for beamlines, the beamlines with motor adjustment mechanism collocate with the real-time firmware motor control system through the high-definition motor mechanism. Because the real-time motor control system does not need to be connected with the computer for a long time, it improves the speed, stability and accuracy of closed loop operation and thus promotes the controlling ability of motor. As a result, the real-time motor control system will improve the stability and accuracy of the entire motor control system with beamlines.
+
+ 
+
+
+
+
+
+
+Poster MOPE18 [2.797 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE18
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 22 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE19
+Mechatronics Concepts for the New High-Dynamics DCM for Sirius
+44
+
+
+ 
+
+R.R. Geraldes, R.M. Caliari, G.B.Z.L. Moreno
+                       LNLS, Campinas, Brazil
+M.J.C. Ronde, T.A.M. Ruijl, R.M. Schneider
+                       MI-Partners, Eindhoven, The Netherlands
+
+ 
+
+
+ 
+
+Funding: Brazilian Ministry of Science, Technology, Innovation and Communication
+The monochromator is known to be one of the most critical optical elements of a synchrotron beamline. The new 4th generation machines, with emittances in the range of order of 100 pm rad, require even higher stability performances, in spite of the still conflicting factors such as high power loads, power load variation, and vibration sources. A new high-dynamics DCM is under development at LNLS for the future X-ray undulator and superbend beamlines of Sirius. Aiming at inter-crystal stability of a few tens of nrad and considering the limitations of the current DCM implementations, several aspects of DCM engineering are being revisited. The system concept is chosen such that a control bandwidth in the order of 200 to 300 Hz can be achieved. This requires well-designed system dynamics, which can be realized by applying a fundamentally different architecture than that used in common DCM designs, based on principles used in ultra-precision systems for semiconductor manufacturing. As a result, known disturbances can be attenuated or suppressed, and internally excited modes can be effectively handled. The mechatronics concepts and analyses, including the metrological details, are shown.
+
+ 
+
+
+
+
+
+
+Poster MOPE19 [5.423 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE19
+
+ 
+
+
+About •
+paper received ※ 11 September 2016       paper accepted ※ 19 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE20
+Ultra Stiffness And Ultra Low Wawing LM Guide
+48
+
+
+ 
+
+M. Miret
+                       THK GmbH Sucursal en España, Badalona, Spain
+
+ 
+
+
+ 
+
+The abstract porpoise is explain how is providing the LM Guide for high performance machine by realizing the waving of Nano-level and achieves super-low waving and ultra-high rigidity by adopting 8 rows of raceways in the LM Guide. These models adopt (1) 8 rows of raceways, (2) small-diameter balls and (3) super-long blocks, in order to realize super-low waving and ultra-high rigidity that surpass the conventional LM Guide. With this approach, the number of effective balls is substantially increased, and the amplitude of the rolling element in motion is minimized. The new models realize super-low waving comparable to hydrostatic guides. In addition, the deformation of the ball is minimized to achieve ultra-high rigidity that surpasses even roller guides. Primary applications Super-precision processing machines/High-precision machining centre/Lathe/Surface grinder/Semiconductor manufacturing equipment/FPD manufacturing machines/High-performance measuring machines. [Waving evaluation] The waving values are approximately 1/10 of that (100 to 300 nm) of conventional ordinary LM Guides.
+
+ 
+
+
+
+
+
+
+Poster MOPE20 [1.600 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE20
+
+ 
+
+
+About •
+paper received ※ 07 September 2016       paper accepted ※ 23 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE21
+The Tripod Unit 6 Axes High Precision Sample Adjustment in UHV
+ 
+
+
+ 
+
+F. Eggenstein, P. Bischoff, A. Erko, F. Schäfers, F. Senf, A. Sokolov, T. Zeschke
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+At BESSY-II we have recently set up a new UV- and XUV optics beamline *,** with an in-house developed versatile reflectometer *** for at-wavelength metrology on reflective and diffractive live sized optical elements up to 4 kg load. High precision measurements of the reflection and polarization properties are feasible by a 360° azimuthal rotation of the sample around the beam of light, where samples can be adjusted reproducibly with a novel UHV-Tripod within arcsec and µm precision. By the tripod the sample is adjustable in 6 degree of freedom: Translations Tx,Ty an Tz and rotations Rx,Ry and Rz while the goniometers rotate the tripod. The two years of operation of the tripod system helped to develop a new tripod geometry for better performance. A new tripod design is presented and compared to the existing system.
+* F.Schäfers et al., J. Synchrotron Rad. 23, 67 (2015)  ** A.A. Sokolov et al., Review of Scientific Instruments 87,052005(2016)  *** F. Eggenstein et al., Proc. of SPIE 920607-1(2014) 
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE22
+Mechanical Design of the MID Split-and-Delay Line at the European XFEL
+50
+
+
+ 
+
+B. Friedrich, S. Eisebitt, T. Noll
+                       MBI, Berlin, Germany
+S. Eisebitt, B. Friedrich
+                       Technische Universität Berlin, Berlin, Germany
+W. Lu, T. Roth
+                       European XFEL, Schenefeld, Germany
+A. Madsen
+                       XFEL. EU, Hamburg, Germany
+
+ 
+
+
+ 
+
+A new split-and-delay line (SDL) is under development for the Materials Imaging and Dynamics (MID) end station at the European XFEL.* The device utilises Bragg reflection to provide pairs of X-ray pulses with an energy of (5 - 10) keV and a continuously tunable time delay of (-10 - 800) ps - thus allowing zero-crossing of the time delay. The mechanical concept features separate positioning stages for each optical element. Those are based on a serial combination of coarse motion axes and a fine alignment 6 DoF Cartesian parallel kinematics**. That allows to meet the contradictory demands of a fast long-range travel of up to 1000 mm and in the same time a precise alignment with a resolution in the nanometer range. Multiple laser interferometers monitor the position of the optical elements and allow an active control of their alignment. All optical elements and mechanics will be installed inside an UHV chamber, including the interferometer and about 100 stepper motors. With this paper we present the mechanical design for the SDL. It will additionally show the design of a prototype of a positioning stage which allows extensive testing of the implemented concepts and techniques.
+* A. Madsen et al., Technical Design Report: Scientific Instrument MID, 2013. ** T. Noll et al., Parallel kinematics for nanoscale Cartesian motions, Precision Engineering, vol. 33, no. 3, 2009.
+
+ 
+
+
+
+
+
+
+Poster MOPE22 [4.691 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE22
+
+ 
+
+
+About •
+paper received ※ 11 September 2016       paper accepted ※ 14 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE23
+An Assembling Calibration Method of XBPM Diamond Blades in TPS
+54
+
+
+ 
+
+H.C. Ho, M.L. Chen, K.H. Hsupresenter, D.-G. Huang, C.K. Kuan, W.Y. Lai, C.J. Lin, S.Y. Perng, T.C. Tseng, H.S. Wang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Diamond blade type X-ray Beam Position Monitors (XBPM) were adopted to monitor photon position at the beamline front-end in Taiwan Photon Source (TPS). Due to the thin thickness (125um) and fragile characteristic, the assembling precision of the diamond blades are hard to measure and influence the accuracy of monitor. A non-contact method was thus developed by using a led laser with telecentric objective lens and a CCD-array to calibrate the diamond blades assembling configuration within micrometer accuracy. According to the measurement results, XBPM can be correlated to four fiducial points for survey network. This paper describes this method and calibrating results in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE23
+
+ 
+
+
+About •
+paper received ※ 10 September 2016       paper accepted ※ 19 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE24
+The Precision Adjustment Holder for Montel Mirrors
+57
+
+
+ 
+
+B.Y. Chen, S.H. Chang, H.Y. Chen, C.Y. Lee, B.H. Lin, M.T. Tang, S.C. Tseng, J.X. Wu, G.C. Yin
+                       NSRRC, Hsinchu, Taiwan
+M. Hong
+                       National Taiwan University, Taipei, Taiwan
+J.R. Kwo
+                       NTHU, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The focusing of X-ray nanoprobe at TPS relay upon the special designed Montel mirrors and its adjustment holder. The holder includes two major parts: (1) fundamental-position alignment part and (2) relative-position adjustment part. The fundamental-position alignment part has the ability to adjust the two mirrors together in 6 DOF., such as X, Y, Z, pitch, roll, and yaw. These translation stages have several-tens mm travel range and nm resolution, while the rotational stages have 40 mrad azimuthal angular range and 0.1~0.01 µrad resolution. The relative-position adjustment part can further adjust the two mirrors to minimize the focal spot. During the pre-alignment process, one of the mirrors can be manual adjusted by micrometer heads in three translation directions with several mm travel range and micro-meters resolution. These micrometer heads also provide this mirror three rotational degree of freedoms with sub-mrad resolution. For the further alignment in vacuum, the additional four piezo-motor actuators can precisely adjust the other Montel mirror in the Y and Z direction with several nm resolution, and its pitch and roll with 1 urad and 0.05 urad resolution, respectively.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE24
+
+ 
+
+
+About •
+paper received ※ 14 September 2016       paper accepted ※ 19 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE25
+Concept of an in vacuum high resolution Monochromator for IXS experiments
+ 
+
+
+ 
+
+F.U. Dill
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Starting April 2017, beamline P01 at Petra III (DESY) will deliver x-rays from the hard x-ray regime all the way down to energies of 2.5 keV. Due to high absorption of 2.5 keV photons in air (more than 99,9 % at 100 mm) our high precision goniometers (three independent stages) for the high resolution monochromator will have to be put into high vacuum (1x10-7 mbar). To our knowledge there is no vacuum compatible high precision goniometer at the market for this range of vacuum. Our approach to solving this problem is to use piezo actuators (a long travel range of the chosen actuator) combined with a high precision spindle ball bearing to make a simple setup of an in vacuum high precision goniometer. The goal is to achieve an angular resolution of 10 nanorad - a movement that will be monitored and controlled by an in vacuum encoder. The piezo driven angular range is set to be ±20 ° and all three goniometers will move independently, along and perpendicular to the beam. Two Pin Diodes, movable in two directions, are going to allow us to monitor the flux before and after the beam hits the crystals.
+
+ 
+
+
+
+
+
+
+Poster MOPE25 [1.156 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE26
+Front End Photon Shutter Water Leak to Vacuum at the Canadian Light Source
+60
+
+
+ 
+
+G.R. Henneberg, M.J.P. Adam, G.R. Barkwaypresenter
+                       CLS, Saskatoon, Saskatchewan, Canada
+
+ 
+
+
+ 
+
+In early July 2016 CLS experienced a water to vacuum leak in the storage ring. The source of the leak was a pin hole in the absorbing surface of Photon Shutter 1 in the front end of the HXMA Beamline. The leak was caused by high velocity cooling water erosion of the internal cooling water path of the copper photon shutter block. The poster will present the root cause analysis of the leak, implications for other identical photon shutters and currently in service and the current remedial action plan.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE26
+
+ 
+
+
+About •
+paper received ※ 11 September 2016       paper accepted ※ 23 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE27
+The Influences of Material Properties to Micro Damages on Vacuum Chamber CF Flanges
+63
+
+
+ 
+
+S. Vilcins, M. Holz, M. Lemke, D. Nölle, Ch. Wiebers
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European-XFEL, a 3.3 km long X-Ray laser facility, powered by a 17.5 GeV superconducting linear accelerator, is located at DESY in Hamburg [1]. For the diagnostics ultra-high vacuum components with high mechanical precision and strict requirements on particle cleanliness had to be developed, designed and produced. For the screen system of the facility, enabling to observe the size and shape of the electron beam, massive vessels, precisely milled out of stainless steel blocks 1.4435 (316L) have been produced. For these chambers all flange-connections are milled into these blocks. This paper will report onμdamages in these integrated knife edges and will present simulations of the damage mechanisms. It will also describe the influences of material properties of two different stainless steel brands, effects on the ¿knife edge¿ due to the penetration into the gaskets as well as the non-elastic deformation of the sealing area. The dependence of tightening forces under special conditions, like the very clean conditions in particle free applications due to the non-lubricated conditions will be reported. A ¿cooking recipe¿ to avoid suchμdamages will be given.
+
+ 
+
+
+
+
+
+
+Poster MOPE27 [0.187 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE27
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 23 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE28
+Vacuum System of SESAME Storage Ring
+71
+
+
+ 
+
+M.A. Al-Najdawi, H. Al-Mohammad, E. Huttel, F. Makahleh, M.M. Shehab
+                       SESAME, Allan, Jordan
+
+ 
+
+
+ 
+
+Funding: N/A
+SESAME* is a third-generation synchrotron light source under construction near Amman (Jordan). The storage ring has 16 Dipole arc chambers, 8 short and 8 long straight chambers. The general layout and detailed design of the vacuum chambers, crotch absorbers, RF bellows, injection and RF sections will be presented in this contribution, also the testing of the chambers prototype, bake out process and final installation.
+* Synchrotron-light for Experimental Science and Applications in the Middle East
+
+ 
+
+
+
+
+
+
+Poster MOPE28 [2.696 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE28
+
+ 
+
+
+About •
+paper received ※ 10 September 2016       paper accepted ※ 14 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE29
+Vacuum System of HLS-II Storage Ring
+74
+
+
+ 
+
+Y. Wang, L. Fan, Y.Z. Hong, X.T. Pei, W. Wei, B. Zhangpresenter
+                       USTC/NSRL, Hefei, Anhui, People’s Republic of China
+
+ 
+
+
+ 
+
+Hefei Light Source (HLS) has been operated for more than twenty-five years. From 2010 to 2014, the upgrading project of HLS has been carried out and the new machine is called HLS-II. The main improvement include: the emittance is reduced to 40 nm·rad, 3 new insertion devices (2 IVU and 1 EPU undulators) are added and the injection energy increases to 800 MeV. The typical life time is 300 mins at 300mA, 800 MeV. The average pressure of static and dynamic vacuum are below 2·108 Pa and 1.2·10-7 Pa respectively. The design, installing and commissioning of the vacuum system of the storage ring are detailed stated in in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE29
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 23 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE30
+The Development of CuCrZr High Heat Load Absorber in TPS
+77
+
+
+ 
+
+I.C. Sheng, C.K. Chan, C.-C. Chang, C. Shueh, L.H. Wu
+                       NSRRC, Hsinchu, Taiwan
+S.K. Sharma
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+TPS project in National Synchrotron Radiation Research Center (NSRRC) in Taiwan has reached 500mA design goal. Several upgrades and design enhancements is also under development. CuCrZr copper alloy material has been selected to examine its UHV compatibility, machinability and high heat load sustainability. Most importantly, the absorber is made entirely by CuCrZr (including two end flanges) and installed in the mid-section of double minimum of tandem EPU48 undulators to shadow beam miss-steered synchrotron radiation from upstream EPU. Both the result and fabrication time (without brazing) are promising.
+
+ 
+
+
+
+
+
+
+Poster MOPE30 [0.547 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE30
+
+ 
+
+
+About •
+paper received ※ 06 September 2016       paper accepted ※ 19 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE31
+Dynamic Performance of a Support System for BBA Components in SXFEL
+80
+
+
+ 
+
+F. Gao, R.B. Deng, Y.X. Dong, X. Hu, Z. Jiang, S. Sun, L. Wang, Y.M. Wen
+                       SINAP, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+The electron beam orbit stability is very important for the Free Electron Laser (FEL) facility. The high beam position stability requirement results in the high position stability for the FEL key components, such as quadruple magnet (Q) and beam position monitor (BPM). This work focus on the research of the dynamic performance of a mechanical support system composed of mechanical supports - including sheets and adjustments - and a granite block mounted on them. It will be applied for the beam based alignment (BBA) Q magnet and BPM for the Soft X-ray FEL project (SXFEL). The Finite-element -FE- calculations of the model characteristics were carried out to guide the subsequent tests. The test results show that the support system can meet the requirement of the SXFEL project.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE31
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 14 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE32
+Preliminary Design and Analysis of the FODO Module Support System for the APS-U Storage Ring
+83
+
+
+ 
+
+J. Nudell, H. Cease, J.T. Collins, Z. Liu, C.A. Preissner
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by: Argonne is managed by UChicago Argonne, LLC, for the U.S. Department of Energy under con-tract DE-AC02-06CH11357.
+The most technically challenging module of the planned APS Upgrade (APS-U) project is the Focusing-Defocusing (FODO) module. The girder for the FODO must support a ~6m long string of three Q-bend and four quadrupole mag-nets. The challenges which emanate from retrofitting the existing APS tunnel with new hardware along with the stringent requirements for alignment and vibrational stability * necessitate a unique engineering solution for the magnet support system. FEA is heavily relied upon in order to create an optimized solution and reduce the number of design iterations required to meet specifications. The prototype FODO magnet support design is presented from the ground up, along with FEA justification and the expected vibrational performance of the module.
+* Glenn Decker (2014) Design Study of an MBA Lattice for the Advanced Photon Source, Synchrotron Radiation News, 27:6, 13-17, DOI: 10.1080/08940886.2014.970932
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE32
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 20 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE33
+The Cooling Structure for the Cryogenic Permanent Magnet Undulator Prototype at SSRF
+ 
+
+
+ 
+
+Y. Liu, Y.Z. He, X. Hu, H.F. Wang, J. Wang, L. Wang, S.H. Wang, L. Yin, W. Zhang, Q.G. Zhou
+                       SINAP, Shanghai, People’s Republic of China
+L. Zhang
+                       SSRF, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+A cryogenic permanent magnet undulator (CPMU) prototype, based on the in-vacuum undulator technology, is under development at Shanghai Synchrotron Radiation Facility (SSRF). The prototype has a magnetic period length of 20 mm and effective peak field 1.04 T (gap 6 mm) at cryogenic temperature. The hybrid type magnetic assembly consists of NdFeB permanent magnet blocks and iron poles. A liquid nitrogen closed loop is adopted for cooling the magnet blocks to about 140 K. The cooling system is well designed to achieve a uniform temperature along the assembly and the temperature gradient is less than 1.5 K per meter. This paper presents the details of the cooling structure design for magnet blocks and iron poles, the mechanical structure of the copper-nickel foil with spring loaded tension mechanism and end tapers, as well as the test results off-line and on-line.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE34
+Preliminary Design of the Magnet Support and Alignment Systems for the Aps-U Storage Ring
+87
+
+
+ 
+
+J.T. Collins, H. Cease, S.J. Izzo, Z. Liu, J. Nudell, C.A. Preissner
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by: Argonne is managed by UChicago Argonne, LLC, for the U.S. Department of Energy under con-tract DE-AC02-06CH11357.
+As part of the Advanced Photon Source Upgrade pro-ject (APS-U), the storage ring will be upgraded to a multibend achromat (MBA) lattice [1]. This upgrade will provide dramatically enhanced hard x-ray brightness and coherent flux to beamline experiments in comparison to the present machine. The accelerator physics require-ments for the upgrade impose very stringent alignment, assembly and installation tolerances and tight vibrational tolerances on the magnet support and alignment system designs. The short installation duration dictates a need for transporting groups of fully assembled magnet mod-ules into the storage ring enclosure while preserving magnet-to-magnet alignment. The current magnet sup-port and alignment systems preliminary design status for the APS-U storage ring will be presented along with an overview of the R&D program required to validate design performance. Magnet module transportation and installa-tion logistics will also be discussed.
+* Glenn Decker (2014) Design Study of an MBA Lattice for the Advanced Photon Source, Synchrotron Radiation News, 27:6, 13-17, DOI: 10.1080/08940886.2014.970932
+
+ 
+
+
+
+
+
+
+Poster MOPE34 [0.975 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE34
+
+ 
+
+
+About •
+paper received ※ 07 September 2016       paper accepted ※ 14 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE35
+A New Generation of UHV Instruments for X-Ray Spectrometry at the SR Facilities BESSY II, ELETTRA and SOLEIL and the BLiX Laboratory
+ 
+
+
+ 
+
+J. Lubeck, B. Beckhoff, J. Weser
+                       PTB, Berlin, Germany
+D. Grötzsch, B. Kanngießer
+                       Technische Universität Berlin, Berlin, Germany
+
+ 
+
+
+ 
+
+A versatile UHV instrument was developed and commissioned by GermanyÂs national metrology institute PTB for SR based X-Ray Reflectometry (XRR) and Spectrometry (XRS) nanoanalytical techniques at BESSY II*. A 9-axis manipulator allows for a sample alignment in all degrees of freedom and provides a rotational and translational movement of photodiodes as well as a translational movement of a beam-geometry defining aperture system. Traceable reference-free, total-reflection and grazing-incidence X-Ray Fluorescence (XRF) analyses were enabled with options for XRR and polarization-dependent X-ray absorption fine structure analyses on up to 100 mm samples aiming at compositional information, species and elemental depth profiles. Three technology transfer projects of adapted instruments enhanced XRS research activities within Europe at the SR facilities ELETTRA (IAEA)** and SOLEIL (CEA/LNE-LNHB) as well as at the X-ray innovation laboratory BLiX (TU Berlin)*** where different sources are used****. The expertise gained here lead to a next generation development enabling a very flexible use at four different SR beamlines for XRS and hard X-ray emission spectroscopy of up to 150 mm samples.
+*J.Lubeck et al, Rev. Sci.Instr. 84, 045106(2013)  **A.Karydas et al, IAEA/XRF/NL 24, 1(2013)  ***M.Spanier et al, Rev. Sci.Instr. 87, 035108(2016) ****J.Lubeck et al, AIP Conf. Proc. 1741, 030011(2016)
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE36
+Construction of Hard X-Ray Beamlines at Synchrotron Light Research Institute
+ 
+
+
+ 
+
+S. Srichan, D. Bumrungkoh, S. Chaichuay, M. Phanak, S. Pongampai
+                       SLRI, Nakhon Ratchasima, Thailand
+
+ 
+
+
+ 
+
+A high field multipole wiggler (MPW) 2.4 T was installed at the 1.2 GeV storage ring of the Synchrotron Light Research Institute (SLRI) to meet the increasing user demands for hard X-ray synchrotron radiation in Thailand. The wiggler radiation fan of horizontal 15.93 mrad has been split in to three branches to be equipped with three beamlines for BL1.1W: multiple X-ray techniques, BL1.2W: X-ray imaging & X-ray Tomographic microscopy and BL1.3W: small/wide angle X-ray scattering. These three beamlines were successfully installed during machine shutdown in summer 2015 and will be fully operated in the end of 2016. The construction works for three branches beamlines that are mechanical engineering design, fabrication and installation of beamline components will be presented.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE37
+Diamond Multi-Bend Achromats for Low Emittance and New Insertion Devices
+90
+
+
+ 
+
+J. Kay, N.P. Hammond
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Diamond Light Source is pioneering the move to a Multi Bend Achromat storage ring lattice for low emittance combined with the creation of new straight sections available for Insertion Devices (ID). Diamond is at an advanced stage of replacing one Double Bend Achromat (DBA) cell of the existing storage ring with a Double Double Bend Achromat (DDBA). The DDBA cell which is to be installed in Autumn 2016 has 4 dipoles and has been designed with a new straight section in the middle. This allows a new ID source point to be installed on an existing Bending Magnet port in the shield wall for a new micro-focus protein crystallography beamline called VMX-m. This same principle will be applied to the proposed Diamond II project which will be based on a Double Triple Bend Achromat with 6 dipoles per cell achieving even lower emittance whilst providing many more IDs. This paper describes the engineering challenges of these projects.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE37
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 15 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE38
+Milliprobe Scanner Station
+93
+
+
+ 
+
+J. Divitcos, M. De Jonge, D. Howard, J. McKinlay
+                       ANSTO, Menai, New South Wales, Australia
+
+ 
+
+
+ 
+
+The research team at the Commonwealth Scientific & Industrial Research Organisation, Clayton CSIRO) have developed a high energy detector referred to as the Maia. The rapid scanning, high resolution detector offers technological advances, including non-invasive technical study of highly valued artworks. A vital application of the Maia detector is scanning x-ray fluorescence microscopy for obtaining the elemental composition of a large number of materials. The innovative detector allows connection between scientists & art communities to increase their understanding of historical artworks, broadening the field of authentication and potentially aiding the fight against art forgery as well as historical information. We have designed a new dedicated station that offers improvements in high stability, motion control and mounting. It is designed to support & scan various samples in size as well as shape powered by X & Y stages. A slide & hold clamping concept has been implemented which provides easy & rapid assembling of samples. This arrangement provides excellent interchangeability, supporting a variety of planar & non-planar samples for scanning.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE38
+
+ 
+
+
+About •
+paper received ※ 07 September 2016       paper accepted ※ 29 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE40
+Designing the Flash II Photon Diagnostic Beamline and Components
+96
+
+
+ 
+
+D. Meissner, M. Brachmanski, M. Hesse, U. Jastrow, M. Kuhlmann, H. Mahn, F. Marutzky, E. Plönjes-Palm, M. Röhling, H. Schulte-Schrepping, K.I. Tiedtke, R. Treusch
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+From 2013 to 2016 the free electron laser FLASH at DESY in Hamburg, Germany was upgraded with a second undulator line, photon diagnostic line, beam distribution and experimental hall connected to the same linear accelerator. This paper shows the layout of the photon diagnostic section and an overview of the civil engineering challenges. The mechanical design of selected components, e.g. vacuum components, diagnostic equipment and safety related components is presented.
+
+ 
+
+
+
+
+
+
+Poster MOPE40 [1.081 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE40
+
+ 
+
+
+About •
+paper received ※ 08 September 2016       paper accepted ※ 21 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE41
+Design and Construction of a PW Experimental System of HV Chamber Adaptable, Modular and Stable
+99
+
+
+ 
+
+A. Carballedo, C. Colldelram, J.R. García, R. Monge, L. Nikitina
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+J. Hernandez-Toro, L. Roso
+                       CLPU, Villamayor, Spain
+
+ 
+
+
+ 
+
+Funding: This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement no 654148 Laserlab-Europe
+In the recent years, the number of high power lasers devoted to particle acceleration has increased in Europe. Additionally to this, some synchrotrons and accelerators are integrating these lasers in its lines, increasing the scientific synergies. The HP laser must be transported in HV. The use of HV also permits good cleanliness in the optical set up. As addition, is necessary to create an adaptable and modular design where several chambers could be assembled together. One additional constrain is the stability. A new model of HV chambers is presented. These consist in a frame where the walls are exchangeable panels, which make easier the introduction of a new configuration of ports. The system was designed as construction blocks. For a proper connection of the chambers a new interior fixation and pushers system was designed. Thanks to this, coupling new HV chambers, the volume total can be also easily modified. Finally, a third generation decoupled system is integrated inside, consisting of a stable breadboard, this supported by six columns that implement a preloaded kinematical mount, providing both an outstanding stability and a fine regulation (1st RM: 77Hz).
+
+ 
+
+
+
+
+
+
+Poster MOPE41 [0.938 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE41
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 20 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE42
+Experimental and Numerical Study of the ALBA LINAC Cooling System
+102
+
+
+ 
+
+M. Ferrater
+                       UPC, Barcelona, Spain
+J.J. Casas, C. Colldelram, D. Lanaia, R. Muñoz Horta, F. Pérez, M. Quispepresenter
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+This work investigates experimentally and numerically the performance of the ALBA LINAC cooling system. The main objective is to enhance the hydraulic system in order to significantly improve its thermal and water flow stability. In normal operation some problems have been identified that affect the performance of the LINAC: flowrate below the nominal values and water flow decreasing in time. The cooling subsystems have been experimentally characterized in terms of the pressure drop and flowrate. The measurements were taken using a portable hydraulic unit made at ALBA as well as a set of ultrasonic flowmeters. For the numerical studies the cooling network has been simulated using the software Pipe Flow Expert. The experimental results have shown that a number of components are too restrictive. In some cases the possibility to increase the flowrate is limited. The numerical results show that the velocity magnitude is inadequate in some places, producing air bubble entrapment, high pressure drop at pipes and insufficient flow. Based on this study several modifications are presented in order to raise the nominal flow and to adequate the water flow velocities between 0.5 and 3 m/s.
+
+ 
+
+
+
+
+
+
+Poster MOPE42 [1.073 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE42
+
+ 
+
+
+About •
+paper received ※ 09 September 2016       paper accepted ※ 15 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE43
+Hydraulic Failure Caused by Air in Pipelines of the Experimental Area Ring of ALBA Synchrotron Light Source: Research, Simulations and Solutions
+105
+
+
+ 
+
+L. Macià
+                       UPC, Barcelona, Spain
+J.J. Casas, C. Colldelram, M. Quispepresenter
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+After five years in operation of the ALBA Synchrotron Light Source a hydraulic failure caused a maximum decreasing of water flow about 40% of its nominal value, hampering the refrigeration of the local components. The problem was mainly caused by the air accumulated in pipes due to very low velocities of water flow. A literature review was conducted about the minimum water flow velocity for removing air in pipelines as design criteria. The aim of this work is to develop hydraulic solutions in order to achieve the minimum flowrate in pipelines of the Experimental Area (EA) ring. In the short term it is proposed to install a controlled bypass in the EA. A numerical simulation using the software Pipe Flow Expert has been implemented in order to determine the requirements of the bypass that works under different conditions to assure a minimum flowrate all along the ring. The velocity map in EA ring is simulated for different scenarios: 180 and 360 degrees distribution for both clockwise and anticlockwise rotation. For the long term a design of pipes with variable cross section is proposed which optimizes the flow velocity magnitude in EA ring in agreement with the design criteria.
+
+ 
+
+
+
+
+
+
+Poster MOPE43 [1.347 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-MOPE43
+
+ 
+
+
+About •
+paper received ※ 10 September 2016       paper accepted ※ 15 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPE44
+Instrumentation and Diagnostics for Bi-Alkali Photocathode Production
+ 
+
+
+ 
+
+J.R. Nasiatka, J. Feng, H.A. Padmore
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Bi-Alkali photocathodes have been widely used in photo-multiplier tubes and night vision equipment. They have high quantum efficiency (QE) and low thermal emittance in the visible light region, and are of crucial importance to Free Electron Laser (FEL) based light sources. The traditional photocathode production process has not been well defined and performance of cathodes can vary wildly when produced under the same conditions. Advanced tools for characterization of cathode performance during and after fabrication are critical to the understanding of the growth process. We have developed a new deposition and diagnostics system for bi-alkali photocathode production that allows for consistent, repeatable cathode fabrication. This system features active temperature control, a high resolution Ultraviolet monochromator to provide real-time in-situ spectral measurements, and a transverse momentum measuring system (Momentatron) for post fabrication evaluation.
+
+ 
+
+
+
+
+
+
+Poster MOPE44 [8.762 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,42 @@
+{
+  "session_info": {
+    "id": "TUIYB",
+    "name": "TUIYB - Machine Protection for High Power Accelerators",
+    "url": "https://proceedings.jacow.org/IBIC2014/html/tuiyb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUIYB1",
+      "title": "Diagnostics for High Power Accelerator Machine Protection Systems",
+      "authors": [
+        "FRIB",
+        "East Lansing",
+        "Michigan",
+        "USA",
+        "Modern hadron accelerators create and transport beams that carry MW-scale power or store GJ-scale energy. The Machine Protection Systems (MPS) that guard against both catastrophic failures and long-term performance degradation must mitigate errant beam events on time scales as short as several microseconds. Measurement systems must also cope with detection over many orders of magnitude in beam intensity to adequately measure and respond beam halo loss. Other issues",
+        "such as radiated signal cross-talk",
+        "also confound and complicate delicate measurements. These requirements place enormous demands on the MPS beam diagnostics and beam loss monitors. We will review the current state of MPS diagnostic systems for this class of accelerator",
+        "including SNS",
+        "ESS",
+        "FRIB",
+        "LHC",
+        "J-PARC",
+        "and SPIRAL-II. Specific designs and key performance results will be presented and discussed."
+      ],
+      "institutions": [
+        "Funding: This material is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661, the State of Michigan and Michigan State University."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2014/talks/tuiyb1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2014/papers/tuiyb1.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2014/posters/tuiyb1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2014-TUIYB1",
+      "page_number": "239",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 17:56:25"
+}

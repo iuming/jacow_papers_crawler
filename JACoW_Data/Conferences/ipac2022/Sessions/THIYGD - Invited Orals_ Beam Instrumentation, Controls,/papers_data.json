@@ -1,0 +1,51 @@
+{
+  "session_info": {
+    "id": "THIYGD",
+    "name": "THIYGD - Invited Orals: Beam Instrumentation, Controls, Feedback and Op. Aspects",
+    "url": "https://proceedings.jacow.org/ipac2022/html/thiygd.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THIYGD1",
+      "title": "White Rabbit Based Beam-Synchronous Timing Systems for SHINE",
+      "authors": [
+        "Y.B. Yan",
+        "G.H. Chen",
+        "Q.W. Xiao",
+        "P.X. Yu",
+        "SSRF",
+        "Shanghai",
+        "People’s Republic of China",
+        "Tsinghua University",
+        "Beijing",
+        "People’s Republic of China",
+        "J.L. Gu",
+        "Z.Y. Jiang",
+        "L. Zhao",
+        "USTC",
+        "Hefei",
+        "Anhui",
+        "People’s Republic of China",
+        "TUB",
+        "Beijing",
+        "People’s Republic of China",
+        "Shanghai HIgh repetition rate XFEL aNd Extreme light facility (SHINE) is under construction. SHINE requires precise distribution and synchronization of the 1.003086 MHz timing signals over a long distance of about 3.1 km. Two prototype systems were developed",
+        "both containing three functions: beam-synchronous trigger signal distribution",
+        "random-event trigger signal distribution and data exchange between nodes. The frequency of the beam-synchronous trigger signal can be divided according to the accelerator operation mode. Each output pulse can be configured for different fill modes. A prototype system was designed based on a customized clock frequency point (64.197530 MHz). Another prototype system was designed based on the standard White Rabbit protocol. The DDS (Direct Digital Synthesis) and D flip-flops (DFFs) are adopted for RF signal transfer and pulse configuration. The details of the timing system design",
+        "laboratory test results will be reported in this paper."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2022/talks/thiygd1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2022/papers/thiygd1.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2022/posters/thiygd1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2022-THIYGD1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 18:42:30"
+}

@@ -1,0 +1,75 @@
+{
+  "session_info": {
+    "id": "MOIO",
+    "name": "MOIO - Monday Keynote and Invited Oral",
+    "url": "https://proceedings.jacow.org/medsi2020/html/moio.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOIO01",
+      "title": "Superconducting Undulators - A Novel Source of Radiation for Synchrotron and FEL Light Sources",
+      "authors": [
+        "ANL",
+        "Lemont",
+        "Illinois",
+        "USA",
+        "Superconducting (SC) magnets have been used at many accelerators for several decades. In the last several years noticeable progress in the use of SC undulators (SCUs) at the Advanced Photon Source (APS) has taken place. SCUs outperform most advanced permanent magnet-based undulators. This motivated APS to significantly invest in the development of SCU technology. More than a decade of effort by the APS SCU team has culminated in several engineering advances in cryogenic",
+        "magnet",
+        "and magnet measurement designs applied to SCUs. Successful SCU prototypes led to construction of three SCUs that are currently quite reliably operated at the APS. Two of them are planar SCUs",
+        "and one is a helical SCU. Currently as part of the APS-U project",
+        "the APS SCU team builds new SCU systems",
+        "each comprising two long SC undulators housed in a 5-m-long cryostat. It also works on a quite challenging device",
+        "an arbitrary polarizing SCU called SCAPE. At the same time",
+        "the APS team",
+        "in collaboration with FNAL and LBNL",
+        "is working on the development and construction of a planar Nb3Sn SCU and will be collaborating with SLAC on the development of an SCU FEL module."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/medsi2020/talks/moio01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/medsi2020/papers/moio01.pdf",
+      "poster_url": "https://proceedings.jacow.org/medsi2020/posters/moio01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-MEDSI2020-MOIO01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOIO02",
+      "title": "BM18, the New ESRF-EBS Beamline for Hierarchical Phase-Contrast Tomography",
+      "authors": [
+        "F. Cianciosi",
+        "A.-L. Buisson",
+        "P. Tafforeau",
+        "P. Van Vaerenbergh",
+        "ESRF",
+        "Grenoble",
+        "France",
+        "BM18 is an ESRF-EBS beamline for hierarchical tomography",
+        "it will combine sub-micron precision and the possibility to scan very large samples. The applications will include biomedical imaging",
+        "material sciences and cultural heritage. It will allow the complete scanning of a post-mortem human body at 25 µm",
+        "with the ability to zoom-in in any location to 0.7 µm. BM18 is exploiting the high-energy-coherence beam of the new EBS storage ring. The X-ray source is a short tripole wiggler that gives a 300mm-wide beam at the sample position placed 172m away from the source. Due to this beam size",
+        "nearly all of the instruments are devel-oped in-house. A new building was constructed to ac-commodate the largest synchrotron white-beam Experi-mental Hutch worldwide (42x5-6m). The main optical components are refractive lenses",
+        "slits",
+        "filters and a chop-per. There is no crystal monochromator present but the combination of the optical elements will provide high quality filtered white beams",
+        "as well as an inline mono-chromator system. The energy will span from 25 to 350 keV. The Experimental Hutch is connected by a 120m long UHV pipe with a large window at the end",
+        "followed by a last set of slits. The sample stage can position",
+        "rotate and monitor with sub-micron precision samples up to 2",
+        "5x0.6m (H x Diam.) and 300kg. The resulting machine is 4x3x5m and weighs 50 tons. The girder for detectors carries up to 9 detectors on individual 2-axis stages. It moves on air-pads on a precision marble floor up to 38m behind the sample stage to perform phase contrast imag-ing at a very high energy on large objects. The commissioning is scheduled for the beginning of 2022; the first ’friendly users’ are expected in March 2022 and the full operation will start in September 2022."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/medsi2020/talks/moio02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/medsi2020/papers/moio02.pdf",
+      "poster_url": "https://proceedings.jacow.org/medsi2020/posters/moio02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-MEDSI2020-MOIO02",
+      "page_number": "1",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 23:22:28"
+}

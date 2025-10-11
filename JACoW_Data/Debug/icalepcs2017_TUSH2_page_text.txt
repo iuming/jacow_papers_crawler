@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: TUSH2 (Speakers' Corner)
+
+
+TUSH2 —  Speakers' Corner   (10-Oct-17   17:15—18:45)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUSH201
+Online Luminosity Control and Steering at the LHC
+989
+
+
+ 
+
+M. Hostettler, R. Alemany-Fernández, A. Calia, F. Follin, K. Fuchsberger, M. Gabriel, A.A. Gorzawski, G.H. Hemelsoet, M. Hruska, D. Jacquet, G. Papotti
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+This contribution reviews the novel LHC luminosity control software stack. All luminosity-related manipulations and scans in the LHC interaction points are managed by the LHC luminosity server, which enforces concurrency correctness and transactionality. Operational features include luminosity optimization scans to find the head-on position, luminosity levelling, and the execution of arbitrary scan patterns defined by the LHC experiments in a domain specific language. The LHC luminosity server also provides full built-in simulation capabilities for testing and development without affecting the real hardware. The performance of the software in 2016 and 2017 LHC operation is discussed and plans for further upgrades are presented.
+
+ 
+
+
+
+
+
+
+Poster TUSH201 [1.113 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUSH201
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUSH202
+The Laser Megajoule Facility: Personnel Safety System
+994
+
+
+ 
+
+M.G. Manson
+                       CEA, LE BARP cedex, France
+
+ 
+
+
+ 
+
+The Laser MegaJoule (LMJ) is a 176-beam laser facility, located at the CEA CESTA Laboratory near Bordeaux (France). It is designed to deliver about 1.4 MJ of energy to targets, for high energy density physics experiments, including fusion experiments. The first 8-beams bundle was operated in October 2014 and a new bundle was commissioned in October 2016. The next two bundles are on the way. The presentation gives an overview of the Personnel Safety System architecture, focusing on the wired safety subsystem named BT2. We describe the specific software tool used to develop wired safety functions. This tool simulates hardware and bus interfaces, helps writing technical specifications, conducts functional analysis, performs functional tests and generates documentation. All generated documentation and results from the tool are marked with a unique digital signature. We explain how the tool demonstrates SIL3 compliance of safety functions by integrating into a standard V-shaped development cycle.
+
+ 
+
+
+
+
+
+
+Poster TUSH202 [3.406 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUSH202
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUSH203
+System Identification and Control for the Sirius High-Dynamic DCM
+997
+
+
+ 
+
+R.M. Caliari, R.R. Geraldes, M.A.L. Moraes, G.B.Z.L. Moreno
+                       LNLS, Campinas, Brazil
+R. Faassen, T.A.M. Ruijl, R.M. Schneider
+                       MI-Partners, Eindhoven, The Netherlands
+
+ 
+
+
+ 
+
+Funding: Brazilian Ministry of Science, Technology, Innovation and Communication
+The monochromator is known to be one of the most critical optical elements of a synchrotron beamline. It directly affects the beam quality with respect to energy and position, demanding high stability performance and fine position control. The new high-dynamics DCM (Double-Crystal Monochromator) [1] prototyped at the Brazilian Synchrotron Light Laboratory (LNLS), was designed for the future X-ray undulator and superbend beamlines of Sirius, the new Brazilian 4th generation synchrotron [2]. At this kind of machine, the demand for stability is even higher, and conflicts with factors such as high power loads, power load variation, and vibration sources. This paper describes the system identification work carried out for enabling the motion control and thermal control design of the mechatronic parts composing the DCM prototype. The tests were performed in MATLAB/Simulink Real-Time environment, using a Speedgoat Real-Time Performance Machine as a real-time target. Sub-nanometric resolution and nanometric stability at 300 Hz closed loop bandwidth in a MIMO system were targets to achieve. Frequency domain identification tools and control techniques are presented in this paper.
+
+ 
+
+
+
+
+
+
+Poster TUSH203 [4.885 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUSH203
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

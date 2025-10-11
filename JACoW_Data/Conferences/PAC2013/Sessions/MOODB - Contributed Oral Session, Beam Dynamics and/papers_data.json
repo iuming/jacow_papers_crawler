@@ -1,0 +1,75 @@
+{
+  "session_info": {
+    "id": "MOODB",
+    "name": "MOODB - Contributed Oral Session, Beam Dynamics and Electromagnetic Fields",
+    "url": "https://proceedings.jacow.org/PAC2013/html/moodb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOODB1",
+      "title": "Beam-Beam Limit in an Integrable System",
+      "authors": [
+        "A. Valishev",
+        "S. Nagaitsev",
+        "Fermilab",
+        "Batavia",
+        "USA",
+        "ORNL",
+        "Oak Ridge",
+        "Tennessee",
+        "USA",
+        "BINP SB RAS",
+        "Novosibirsk",
+        "Russia",
+        "Round colliding beams have been proposed as a way to push the attainable beam-beam tune shift limit",
+        "and recent successful experiments at the VEPP-2000 collider at BINP demonstrated the viability of the concept. In a round-beam system the dynamical stability is improved by introducing an additional integral of motion",
+        "which effectively reduces the system from a two and a half dimensional to one and a half dimensional. In this report we discuss the possible further improvement through adding the second integral of motion and thus making the system fully integrable. We explore the ultimate beam-beam limit in such a system using numerical simulations taking into account various imperfections."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/moodb1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/moodb1.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/moodb1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-MOODB1",
+      "page_number": "75",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOODB2",
+      "title": "A Model Ring With Exactly Solvable Nonlinear Motion",
+      "authors": [
+        "University of Chicago",
+        "Chicago",
+        "Illinois",
+        "USA",
+        "Y. Kharkov",
+        "I.A. Morozov",
+        "BINP SB RAS",
+        "Novosibirsk",
+        "Russia",
+        "Fermilab",
+        "Batavia",
+        "USA",
+        "Recently",
+        "a concept of nonlinear accelerator lattices with two analytic invariants has been proposed. Based on further studies",
+        "the Integrable Optics Test Accelerator (IOTA) was designed and is being constructed at the FNAL. Despite the clarity and transparency of the proposed idea",
+        "the detailed analysis of the beam motion remains quite complicated and should be understood better even for the case when no perturbations are taken into account. In this paper we will review one of the three proposed realizations of the integrable optics",
+        "where the variables separation is possible in polar coordinates. This system allows for an exact analytical solution expressed in terms of elliptic integrals and Jacobi elliptic functions. It gives the possibility to check numerical algorithms used for tracking and to perform more rigorous analysis of the motion in comparison with the \"crude\" analysis of the topology of the phase space. In addition we will discuss some difficulties associated with numerical simulations of such a comparatively complex dynamical system and will take a look at the possible perturbations for a model machine."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/moodb2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/moodb2.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/moodb2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-MOODB2",
+      "page_number": "78",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 01:30:41"
+}

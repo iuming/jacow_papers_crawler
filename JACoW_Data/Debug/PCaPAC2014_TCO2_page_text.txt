@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2014 - Table of Session: TCO2 (Control System II)
+
+
+TCO2 —  Control System II   (16-Oct-14   11:00—12:45)
+Chair: A. Buteau, SOLEIL, Gif-sur-Yvette, France
+
+
+Paper
+Title
+Page
+
+
+
+TCO201
+Managing the FAIR Control System Development
+135
+
+
+ 
+
+R. Bär, F. Ameil
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+After years of careful preparation and planning, construction and implementation works for the new international accelerator complex FAIR (Facility for Antiproton and Ion Research) at GSI have seriously been started. The FAIR accelerators will extend the present GSI accelerator chain, then being used as injector, and provide anti-proton, ion, and rare isotope beams with unprecedented intensity and quality for a variety of research programs. The accelerator control system for the FAIR complex is presently being designed and developed by the GSI Controls group with a team of about 50 soft- and hardware developers, complemented by an international in-kind contribution from the FAIR member state Slovenia. This paper presents requirements and constraints from being a large and international project and focusses on the organizational and project management strategies and tools for the control system subproject. This includes the project communication, design methodology, release cycle planning, testing strategies and ensuring technical integrity and coherence of the whole system during the full project phase.
+
+ 
+
+
+
+
+
+
+Slides TCO201 [2.781 MB]
+        
+ 
+
+
+ 
+
+
+
+TCO202
+Status of Indus-2 Control System
+138
+
+
+ 
+
+P. Fatnani, A. Bansal
+                       Raja Ramanna Centre For Advanced Technology, Indore, India
+R.K. Agrawal, K.G. Barpande, A. Chauhan, S. Gangopadhyay, P. Gothwal, A.M. Gupta, M. Janardhan, B.N. Merh, R. Mishra, C.P. Navathe, K. Saifee, M. Seema, Y.M. Sheth, B.S.K. Srivastava, R. Yadav
+                       RRCAT, Indore (M.P.), India
+
+ 
+
+
+ 
+
+Indus-2 is a 2.5 GeV Synchrotron Radiation Source at Indore, India. With 6 beamlines commissioned, several more under installation & commissioning and 5 insertion devices planned, the machine is operated in round the clock mode. With implementation of orbit, tune and bunch feedback systems and many new systems in planning, machine is constantly evolving and so is the control system. The control system software is based on PVSS SCADA running on windows PCs and also integrates other software modules in Labview and Matlab. The control hardware is a combination of VME based control stations interconnected over Ethernet and Profibus. Some recent system enhancements include Parameter deviation alarms, transient data capture system, database improvements and web services. Paper takes a stock of the control system and it's evolution with new systems in the offing.
+
+ 
+
+
+
+
+
+
+Slides TCO202 [6.833 MB]
+        
+ 
+
+
+ 
+
+
+
+TCO204
+First Operational Experience of the !CHAOS Framework
+ 
+
+
+ 
+
+L. Catani
+                       INFN-Roma II, Roma, Italy
+C. Bisegni, P. Ciuffetti, G. Di Pirro, L.G. Foggetta, F. Galletti, G. Mazzitelli, A. Stecchi
+                       INFN/LNF, Frascati (Roma), Italy
+R. Gargana, A. Michelotti
+                       Consorzio Laboratorio Nicola Cabibbo, Frascati, Italy
+
+ 
+
+
+ 
+
+The !CHAOS framework for control systems has been designed for a wide range of different applications in terms of performance, size and complexity of the system to control and the technologies used for implementing its services. Although sub-components and core-services of the !CHAOS framework have been already tested in data acquisition and control applications and are currently in use as part of control systems of accelerators at LNF, this document reports the very first operational experience of a contro system set up, employed as the control solution for the magnets of the DAΦNE Beam-Test Facility (BTF) transfer line, completely developed with the !CHAOS framework services and components. The paper presents the current stage of development of the !CHAOS framework, the experimental setup and the solutions adopted to fix bugs and optimise the performance.
+
+ 
+
+
+
+
+
+
+Slides TCO204 [12.348 MB]
+        
+ 
+
+
+ 
+
+
+
+TCO205
+Conceptual Design of the Control System for SPring-8-II
+144
+
+
+ 
+
+R. Tanaka, T. Matsushita, T. Sugimoto, R. Tanaka
+                       JASRI/SPring-8, Hyogo-ken, Japan
+T. Fukui
+                       RIKEN SPring-8 Center, Innovative Light Sources Division, Hyogo, Japan
+
+ 
+
+
+ 
+
+The SPring-8 storage ring was inaugurated 17 years ago in 1997. The storage ring is an 8-GeV synchrotron that functions as a third-generation light source, providing brilliant X-ray beams to a large number of experimental users from all over the world. In recent years, discussions have been held on the necessity of upgrading the current ring to create a diffraction-limited storage ring at the same location. Now, a plan to upgrade the storage ring, called SPring-8-II, has been launched. First, new beam optics capable of storing beams of 6 GeV was designed using a five-bend magnet system to obtain smaller electron beam emittance that would produce coherent X-rays that are brighter than those produced by the current ring. The design of a control system that would meet the performance requirements of the new ring has also started. Equipment control devices are based on factory automation technologies such as PLC and VME, whereas digital data handling with high bandwidths is realized using telecommunication technologies such as xTCA. In this paper, we report on the conceptual design of the control system for SPring-8-II on the basis of the conceptual design report proposed by RIKEN.
+
+ 
+
+
+
+
+
+
+Slides TCO205 [7.572 MB]
+        
+ 
+
+
+ 
+
+
+
+TCO206
+Status of KEK Electron/Positron Injector Linac Control System toward SuperKEKB Upgrade
+ 
+
+
+ 
+
+M. Satoh, K. Furukawa, F. Miyahara, T. Suwada
+                       KEK, Ibaraki, Japan
+T. Kudou, S. Kusano
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+
+ 
+
+
+ 
+
+Toward SuperKEKB project, the injector linac upgrade is ongoing at KEK in order to deliver the low emittance electron/positron beams with high bunch intensity and small emittance to two independent storage rings. A large number of accelerator components and control devices will be newly installed before the autumn of 2014. Finally, we are aiming at the simultaneous top-up operation for the four independent storage rings including two light sources. The high availability and reliability of control system is strongly required for the long-term stable beam operation under such complex operation schemes. In this presentation, we will describe the control system upgrade plan and status.
+
+ 
+
+
+
+
+
+
+Slides TCO206 [5.879 MB]
+        
+ 
+
+
+ 
+
+
+
+TCO207
+Common Device Interface 2.0
+147
+
+
+ 
+
+P. Duval, H. Wu
+                       DESY, Hamburg, Germany
+J. Bobnar
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+The Common Device Interface (CDI) [1] is a popular device layer in TINE control systems [2]. Indeed, a de-facto device server (more specifically a 'property server') can be instantiated merely by supplying a hardware address database, somewhat reminiscent of an epics IOC. It has in fact become quite popular among uses to do precisely this, although the original design intent anticipated embedding CDI as a hardware layer within a dedicated device server. When control system client applications and central services communicate directly to a CDI server, this places the burden of providing useable, viewable data (and in an efficient manner) squarely on CDI and its address database. In its initial release variant, any modifications to this hardware database needed to be made on the file system used by the CDI device server. In this report we shall describe some of the many new features of CDI release 2.0, which have drawn on the user/developer experience over the past eight years.
+[1] 'Using the Common Device Interface in TINE', Duval and Wu, PCaPAC 2006  [2] http://tine.desy.de 
+
+ 
+
+
+
+
+
+
+Slides TCO207 [1.616 MB]
+        
+ 
+
+
+ 
+
+
+
+

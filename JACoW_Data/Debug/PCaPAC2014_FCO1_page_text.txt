@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2014 - Table of Session: FCO1 (Databases)
+
+
+FCO1 —  Databases   (17-Oct-14   09:45—10:30)
+Chair: L. Catani, INFN-Roma II, Roma, Italy
+
+
+Paper
+Title
+Page
+
+
+
+FCO106
+The Role of the CEBAF Element Database in Commissioning the 12 GeV Accelerator Upgrade
+161
+
+
+ 
+
+T. L. Larrieu, M.E. Joyce, M. Keesee, C.J. Slominski, D.L. Turner
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177. The U.S. Government retains a non-exclusive, paid-up, irrevocable, world-wide license to this manuscript.
+The CEBAF Element Database (CED) was first developed in 2010 as a resource to support model-driven configuration of the Jefferson Lab Continuous Electron Beam Accelerator (CEBAF). Since that time, its uniquely flexible schema design, robust programming interface, and support for multiple concurrent versions has permitted it to evolve into a more broadly useful operational and control system tool. The CED played a critical role before and during the 2013 startup and commissioning of CEBAF following its 18-month long shutdown and upgrade. Information in the CED about hardware components and their relations to one-another facilitated a thorough Hot Checkout process involving more than 18,000 system checks. New software relies on the CED to generate EDM screens for operators on-demand thereby ensuring that the information on those screens is correct and up-to-date. The CED also continues to fulfill its original mission of supporting model-driven accelerator setup. Using the new ced2elegant and eDT (elegant Download Tool), accelerator physicists have proven able to compute and apply energy-dependent set points with greater efficiency than ever before.
+
+ 
+
+
+
+
+
+
+Slides FCO106 [2.698 MB]
+        
+ 
+
+
+ 
+
+
+
+FCO107
+Latest Trends in Database Technology
+ 
+
+
+ 
+
+S. Marsching
+                       Aquenos GmbH, Baden-Baden, Germany
+
+ 
+
+
+ 
+
+In the last ten years, the increasing demand for extremely large, distributed, and highly available data stores, driven by companies like Amazon, Google and Facebook, has lead to the development of new solutions which are known under the term "NoSQL". These NoSQL databases outperform traditional RDBMS in many applications. In general, they rely on clusters of cheap, standard issue PCs instead of a single large and expensive computer. This can help to reduce operational costs while improving availability. Recently, NoSQL concepts have been adopted for applications at particle accelerators, in particular for control-system data archives, allowing to archive more data at higher rates and for a lower price. This talk will demonstrate how applications for particle accelerators can benefit from NoSQL concepts, using the Apache Cassandra database system as an example.
+
+ 
+
+
+
+
+
+
+Slides FCO107 [0.361 MB]
+        
+ 
+
+
+ 
+
+
+
+

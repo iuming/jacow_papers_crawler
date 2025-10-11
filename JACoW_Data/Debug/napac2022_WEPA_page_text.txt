@@ -1,0 +1,3343 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: WEPA (Poster Session)
+
+
+WEPA —  Poster Session   (10-Aug-22   16:30—18:00)
+Chair: P.M. Anisimov, LANL, Los Alamos, New Mexico, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEPA01
+Beam Dynamics Optimization of a Low Emittance Photoinjector Without Buncher Cavities
+615
+
+
+ 
+
+J. Qiang
+                       LBNL, Berkeley, California, USA
+F. Jipresenter, T.O. Raubenheimer
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The photoinjector plays an important role in generating high brightness low emittance electron beam for x-ray free electron laser applications. In this paper, we report on beam dynamics optimization study of a low emittance photoinjector based on a proposed superconducting gun without including any buncher cavities. Multi-objective optimization with self-consistent beam dynamics simulations was employed to attain the optimal Pareto front.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA01
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 11 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA02
+Beam Dynamics Studies on a Low Emittance Injector for LCLS-II-HE
+619
+
+
+ 
+
+F. Ji, C. Adolphsen, R. Coy, L. Ge, C.E. Mayes, T.O. Raubenheimer, L. Xiao
+                       SLAC, Menlo Park, California, USA
+J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The SLAC High Energy upgrade of LCLS-II (LCLS-II-HE) will double the beam energy to 8 GeV, increasing the XFEL photon energy reach to about 13 keV. The energy reach can be extended to 20 keV if the beam emittance can be halved, which requires a higher gradient electron gun with a lower intrinsic emittance photocathode. To this end, the Low Emittance Injector (LEI) will be built that will run parallel to the existing LCLS-II Injector. The LEI design will be based on a state-of-the-art SRF gun with a 30 MV/m cathode gradient. The main goal is to produce transverse beam emittances of 0.1 mm-mrad for 100 pC bunch charges. This paper describes the beam dynamics studies on the design of the LEI including the simulations and multi-objective genetic algorithm (MOGA) optimizations. Performance with different injector layouts, cathode gradients, bunch charges and cathode mean transverse energies (MTEs) will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA02
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 17 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA03
+Status of the SLAC/MSU SRF Gun Development Project
+623
+
+
+ 
+
+J.W. Lewellen, C. Adolphsen, R. Coy, L. Ge, F. Ji, M.J. Murphy, L. Xiao
+                       SLAC, Menlo Park, California, USA
+A. Arnold, S. Gatzmaga, P. Murcek, R. Xiang
+                       HZDR, Dresden, Germany
+Y. Choi, C. Compton, X.-J. Du, D.B. Greene, W. Hartung, S.H. Kim, T. Konomi, S.J. Miller, D.G. Morris, M.S. Patil, J.T. Popielarski, L. Popielarski, K. Saito, T. Xu
+                       FRIB, East Lansing, Michigan, USA
+M.P. Kelly, T.B. Petersen
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: US Department of Energy.
+The LCLS-II-HE project at SLAC is intended to increase the photon energy reach of the LCLS-II FEL to at least 20 keV. In addition to upgrading the undulator system, and increasing the electron beam energy to 8 GeV, the project will also construct a low-emittance injector (LEI) in a new tunnel. To achieve the LEI emittance goals, a low-MTE photocathode will be required, as will on-cathode electric fields up to 50% higher than those achievable in the current LCLS-II photoinjector. The beam source for the LEI will be based around a superconducting quarterwave cavity resonant at 185.7 MHz. A prototype gun is currently being designed and fabricated at the Facility for Rare Isotope Beams (FRIB) at Michigan State University. This paper presents the performance goals for the new gun design, an overview of the prototype development effort, current status, and future plans including fabrication of a "production" gun for the LEI.
+
+ 
+
+
+
+
+
+
+Poster WEPA03 [4.510 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA03
+
+ 
+
+
+About •
+Received ※ 21 July 2022 — Revised ※ 28 July 2022 — Accepted ※ 08 August 2022 — Issue date ※ 11 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA04
+Simulating Two Dimensional Transient Coherent Synchrotron Radiation in Julia
+627
+
+
+ 
+
+W. Lou, Y. Cai, C.E. Mayes
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Coherent Synchrotron Radiation (CSR) in bending magnets poses a limit for electron beams to reach high brightness in novel accelerators. While the longitudinal wakefield has been well studied in the one-dimensional CSR theory and implemented in various simulation codes, transverse wakefields have received less attention. Following the recently developed two and three-dimensional CSR theory, we developed software packages in Python and Julia to simulate the 2D CSR effects. The Python packages, PyCSR2D and PyCSR3D, utilize parallel processing in CPU to compute the steady-state CSR wakes. The Julia package, CSR2D.jl, additionally computes the 2D transient CSR wakes with GPU compatibility. We applied these codes to simulate the 2D CSR effects in the LCLS-II and FACET-II particle accelerators at the SLAC National Accelerator Laboratory.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA04
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 18 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA08
+Design and Operation Experience of a Multi-Collimator/YAG Screen Device on LCLS II Low Energy Beamline
+631
+
+
+ 
+
+X. Liu, C. Adolphsen, M. Santana-Leitner, L. Xiaopresenter, F. Zhou
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+During the commissioning of the normal conducting VHF RF gun of LCLS II, it was observed that field emission (dark current) of roughly 2 µA level was present under normal operation of the gun. While the dark current of this level is deemed manageable with existing beamline configurations, it is desired in precaution to add a collimator on the low energy beamline to block the dark current, being concerned that the dark current situation might worsen with time. Since no spare longitudinal space is available, the new device takes place of the existing YAG screen. The new device is made of a 15 mm thick copper plate, with four round apertures of 6, 8, 10, and 12 mm radius respectively. At the end of the collimator plate, features are made for clamping two YAG screens and mounting their corresponding mirrors for beam/halo profile imaging. The collimator plate is electrically insulated from the chamber so that it can also be used for measuring the dark current. A motor-driven UHV compatible linear translator shifts the device between positions. Besides design details, related thermal, beam dynamics, and radiation analyses as well as operation experience will be presented.
+ * Work supported by US DOE under contract AC02-76SF00515.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA08
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 13 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA09
+A Parallel Automatic Simulation Tool for Cavity Shape Optimization
+634
+
+
+ 
+
+L. Ge, Z. Li, C.-K. Ng, L. Xiaopresenter
+                       SLAC, Menlo Park, California, USA
+M. Beall, B.R. Downie, O. Klaas
+                       Simmetrix Inc., Clifton Park, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy under contract No. DE-SC0018715.
+We present a parallel automatic shape optimization workflow for designing accelerator cavities. The newly developed 3D parallel optimization tool Opt3P based on discrete adjoint methods is used to determine the optimal accelerator cavity shape with the desired spectral response. Initial and updated models, meshes, and design velocities of design parameters for defining the cavity shape are generated with Simmetrix tools for mesh generation (MeshSim), geometry modification and query (GeomSim), and user interface tools (SimModeler). Two shape optimization examples using this automatic simulation workflow will be presented here. One is the TESLA cavity with higher-order-mode (HOM) couplers and the other is a superconducting rf (SRF) gun. The objective for the TESLA cavity is to minimize HOM damping factors and for the SRF gun to minimize the surface electric and magnetic fields while maintaining its operating mode frequency at a prescribed value. The results demonstrate that the automatic simulation tool allows an efficient shape optimization procedure with minimal manual operations. All simulations were performed on the NERSC supercomputer Cori system for solution speedup.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA09
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 08 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA10
+Determination of LCLS-II Gun-2 Prototype Dimensions
+637
+
+
+ 
+
+L. Xiao, C. Adolphsen, E.N. Jongewaard, X. Liu, F. Zhou
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The LCLS-II spare gun (Gun-2) design is largely based on the existing LCLS-II gun (Gun-1), in which there is significant captured dark current (DC) that originates on the high field copper surface near the cathode plug gap opening. To help suppress DC, the Gun-2 cathode and anode noses and the cathode plug opening are elliptically shaped to minimize the peak surface field for a given cathode gradient. Stainless steel (SS) cathode and anode inserts are used in Gun-2 to further reduce dark current. The RF simulations were performed using a model that includes all the 3D features. The thermal and structural analyses were done to investigate the effects of the air pressure and RF heating. The multi-physics simulation results provided the information needed to compute the overall frequency change from the basic 2D model to the nominal frequency during operation. The Gun-2 cathode-to-anode gap distance will be made 1 mm longer than the nominal gap with the expectation that less than 1 mm will be machined off to meet the target frequency. In this paper, the Gun-2 frequency correction calculations are presented, and the cathode-to-anode gap determination is discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA10
+
+ 
+
+
+About •
+Received ※ 30 July 2022 — Revised ※ 03 August 2022 — Accepted ※ 08 August 2022 — Issue date ※ 10 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA12
+Operational Experience of the New Booster Cryomodule at the Upgraded Injector Test Facility
+640
+
+
+ 
+
+M.W. Bruker, R. Bachimanchi, J.M. Grames, M.D. McCaughan, J. Musson, P.D. Owen, T.E. Plawski, M. Poelker, T. Powers, H. Wang, Y.W. Wang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177.
+Since the early 1990s, the injector of the CEBAF accelerator at Jefferson Lab has relied on a normal-conducting RF graded-beta capture section to boost the kinetic energy of the electron beam from 100 / 130 keV to 600 keV for subsequent acceleration using a cryomodule housing two superconducting 5-cell cavities similar to those used throughout the accelerator. To simplify the injector design and improve the beam quality, the normal-conducting RF capture section and the cryomodule will be replaced with a new single booster cryomodule employing a superconducting, β = 0.6, 2-cell-cavity capture section and a single, β = 0.97, 7-cell cavity. The Upgraded Injector Test Facility at Jefferson Lab is currently hosting the new cryomodule to evaluate its performance with beam before installation at CEBAF. While demonstrating satisfactory performance of the booster and good agreement with simulations, our beam test results also speak to limitations of accelerator operations in a noisy, thermally unregulated environment.
+
+ 
+
+
+
+
+
+
+Poster WEPA12 [3.726 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA12
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 06 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA13
+New Results at JLab Describing Operating Lifetime of GaAs Photo-guns
+644
+
+
+ 
+
+M.W. Bruker, J.M. Grames, C. Hernandez-Garcia, M. Poelker, S. Zhang
+                       JLab, Newport News, Virginia, USA
+V.M. Lizárraga-Rubio, C.A. Valerio-Lizárraga
+                       ECFM-UAS, Culiacan, Sinaloa, Mexico
+J.T. Yoskowitz
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by U.S. Department of Energy under DE-AC05-06OR23177 and by Consejo Nacional de Ciencia y Tecnología and the Universidad Autonoma de Sinaloa under PRO_A1_022.
+Polarized electrons from GaAs photocathodes have been key to some of the highest-impact results of the Jefferson Lab science program over the past 30 years. During this time, various studies have given insight into improving the operational lifetime of these photocathodes in DC high-voltage photo-guns while using lasers with spatial Gaussian profiles of typically 0.5 mm to 1 mm FWHM, cathode voltages of 100 kV to 130 kV, and a wide range of beam currents up to multiple mA. In this contribution, we show recent experimental data from a 100 kV to 180 kV setup and describe our progress at predicting the lifetime based on the calculable dynamics of ionized gas molecules inside the gun. These new experimental studies at Jefferson Lab are specifically aimed at exploring the ion damage of higher-voltage guns being built for injectors.
+
+ 
+
+
+
+
+
+
+Poster WEPA13 [1.644 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA13
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 01 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA15
+High-Field Design Concept for Second Interaction Region of the Electron-Ion Collider
+648
+
+
+ 
+
+B.R. Gamage, R. Ent, R. Rajput-Ghoshal, T. Satogata, A. Seryi, W. Wittmer, Y. Zhang
+                       JLab, Newport News, Virginia, USA
+D. Arbelaez, P. Ferracin, G.L. Sabbi
+                       LBNL, Berkeley, California, USA
+E.C. Aschenauer, J.S. Berg, H. Witte
+                       BNL, Upton, New York, USA
+V.S. Morozov
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+F. Savary
+                       CERN, Meyrin, Switzerland
+P.N. Vedrine
+                       CEA-DRF-IRFU, France
+A.V. Zlobin
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Contract No. DE-AC05-06OR23177, Contract No. DE-SC0012704 and Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy.
+Efficient realization of the scientific potential of the Electron Ion Collider (EIC) calls for addition of a future second Interaction Region (2nd IR) and a detector in the RHIC IR8 region after the EIC project completion. The second IR and detector are needed to independently cross-check the results of the first detector, and to provide measurements with complementary acceptance. The available space in the existing RHIC IR8 and maximum fields achievable with NbTi superconducting magnet technology impose constraints on the 2nd IR performance. Since commissioning of the 2nd IR is envisioned in a few years after the first IR, such a long time frame allows for more R&D on the Nb3Sn magnet technology. Thus, it could provide a potential alternative technology choice for the 2nd IR magnets. Presently, we are exploring its potential benefits for the 2nd IR performance, such as improvement of the luminosity and acceptance, and are also assessing the technical risks associated with use of Nb3Sn magnets. In this paper, we present the current progress of this work.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA15
+
+ 
+
+
+About •
+Received ※ 04 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 17 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA16
+A 500 kV Inverted Geometry Feedthrough for a High Voltage DC Electron Gun
+651
+
+
+ 
+
+C. Hernandez-Garcia, D.B. Bullard, J.M. Grames, G.G. Palacios Serrano, M. Poelker
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177 and Office of Science Funding Opportunity LAB 20-2310 award PAMS-254442.
+The Continuous Electron Beam Accelerator Facility injector at Jefferson Lab (JLab) utilizes an inverted-geometry ceramic insulator photogun operating at 130 kV direct current to generate spin-polarized electron beams for high-energy nuclear physics experiments. A second photogun delivers 180 keV beam for commissioning a SRF booster in a testbed accelerator, and a larger version delivers 300 keV magnetized beam in a test stand beam line. This contribution reports on the development of an unprecedented inverted-insulator with cable connector for reliably applying 500 kV DC to a future polarized beam photogun, to be designed for operating at 350 kV without field emission. Such a photogun design could then be used for generating a polarized electron beam to drive a spin-polarized positron source as a demonstrator for high energy nuclear physics at JLab. There are no commercial cable connectors that fit the large inverted insulators required for that voltage range. Our proposed concept is based on a modified epoxy receptacle with intervening SF6 layer and a test electrode in a vacuum vessel.
+
+ 
+
+
+
+
+
+
+Poster WEPA16 [6.217 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA16
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 07 August 2022 — Issue date ※ 09 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA17
+Improved Electrostatic Design of the Jefferson Lab 300 kV DC Photogun and the Minimization of Beam Deflection
+655
+
+
+ 
+
+M.A. Mamun, D.B. Bullard, J.M. Grames, C. Hernandez-Garciapresenter, G.A. Krafft, M. Poelker, R. Suleiman
+                       JLab, Newport News, Virginia, USA
+J.R. Delayen, G.A. Krafft, G.G. Palacios Serrano, S.A.K. Wijethunga
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Department of Energy, under contract DE-AC05-06OR23177, JSA initiatives fund program, and the Laboratory Directed Research and Development program.
+An electron beam with high bunch charge and high repetition rate is required for electron cooling of the ion beam to achieve the high luminosity required for the proposed electron-ion colliders. An improved design of the 300 kV DC high voltage photogun at Jefferson Lab was incorporated toward overcoming the beam loss and space charge current limitation experienced in the original design. To reach the bunch charge goal of ~ few nC within 75 ps bunches, the existing DC high voltage photogun electrodes and anode-cathode gap were modified to increase the longitudinal electric field (Ez) at the photocathode. The anode-cathode gap was reduced to increase the Ez at the photocathode, and the anode aperture was spatially shifted with respect to the beamline longitudinal axis to minimize the beam deflection introduced by the geometric asymmetry of the inverted insulator photogun. The electrostatic design and beam dynamics simulations were performed to determine the required modification. Beam-based measurement from the modified gun confirmed the reduction of the beam deflection, which is presented in this contribution.
+
+ 
+
+
+
+
+
+
+Poster WEPA17 [2.973 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA17
+
+ 
+
+
+About •
+Received ※ 23 July 2022 — Revised ※ 28 July 2022 — Accepted ※ 05 August 2022 — Issue date ※ 11 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA19
+HE Production Update at JLab - Introducing an Enhanced Nitrogen Purge for Clean String Assembly
+659
+
+
+ 
+
+P.D. Owen
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+A major limitation to cryomodule performance is field emission caused by particulates within the superconducting cavities. To reduce contamination of the inner surfaces during assembly in a cleanroom, the whole string can be connected to a purge system, which maintains a constant overpressure of dry, clean nitrogen gas. Following successes of similar systems at XFEL and Fermilab, Jefferson Lab followed this example for the production of LCLS-II HE cryomodules. Implementing this system required new procedures, infrastructure, and hardware, as well as significant testing of the system before production began. This paper will summarize the implemented controls and procedures, including lessons learned from Fermilab, as well as the results of mock-up tests. Based on the latter, the system was used to assemble the first article string in April 2022, and was also used during a rework required due to issues with cold FPC ceramics two months later. The benefits of using a purge system with regards to procedure, time savings, and added flexibility for potential rework have already proven to provide a significant improvement for the production of LCLS-II-HE cryomodules at Jefferson Lab.
+
+ 
+
+
+
+
+
+
+Poster WEPA19 [1.538 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA19
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 21 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA20
+High-Gradient Wien Spin Rotators at Jefferson Lab
+662
+
+
+ 
+
+G.G. Palacios Serrano, P.A. Adderley, J.M. Grames, C. Hernandez-Garcia, M. Poelker
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177.
+Nuclear physics experiments performed in the Contin-uous Electron Beam Accelerator Facility (CEBAF) at Jefferson Laboratory (JLab) require spin manipulation of electron beams. Two Wien spin rotators in the injector keV region are essential at CEBAF to establish longitudinal polarization at the end station target, and to flip the polarization direction by π rad to rule out false asymmetries. In a Wien filter, the homogeneous and independent electric and magnetic fields, along with the velocity vectors of the electrons that traverse it, form a mutually orthogonal system. The magnitude of the electrostatic field, established by biasing two highly-polished elec-trodes, defines the desired spin angle at the target yet deviates the beam trajectory due to the Lorentz force. The beam trajectory in the Wien is then re-established by adjusting the magnetic field, induced by an electromag-net encasing the device vacuum chamber. This contribu-tion describes the evolution design and high voltage testing of Wien filters for spin manipulation at increased beam energies in the keV injector region, required by high precision parity violation experiments like MOLLER.
+
+ 
+
+
+
+
+
+
+Poster WEPA20 [1.434 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA20
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 05 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA22
+Measuring the Electric Dipole Moment of the Electron in a Two-Energy Spin-Transparent Storage Ring
+665
+
+
+ 
+
+R. Suleiman, Y.S. Derbenev
+                       JLab, Newport News, Virginia, USA
+V.S. Morozov
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177 and by UT-Battelle, LLC, under contract DE-AC05-00OR22725.
+We will present a new design of a two-energy storage ring for low energy (0.2 to 2 MeV) polarized electron bunches [1]. The new design is based on the transparent spin methodology that cancels the spin precession due to the magnetic dipole moment at any energy while allowing for spin precession induced by the fundamental physics of interest to accumulate. The buildup of the vertical component of beam polarization can be measured using standard Mott polarimetry that is optimal at low electron energy. These rings can be used to measure the permanent electric dipole moment of the electron, relevant to CP violation and matter-antimatter asymmetry in the universe, and to search for dark energy and ultra-light dark matter.
+[1] R. Suleiman, V.S. Morozov, and Y.S. Derbenev, On possibilities of high precision experiments in fundamental physics in storage rings of low energy polarized electron beams, arXiv:2105.11575 (2021)
+
+ 
+
+
+
+
+
+
+Poster WEPA22 [0.781 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA22
+
+ 
+
+
+About •
+Received ※ 04 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 07 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA23
+SRF Cavity Instability Detection with Machine Learning at CEBAF
+669
+
+
+ 
+
+D.L. Turner, R. Bachimanchi, A. Carpenter, J. Latshaw, C. Tennant, L.S. Vidyaratne
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+During the operation of CEBAF, one or more unstable superconducting radio-frequency (SRF) cavities often cause beam loss trips while the unstable cavities themselves do not necessarily trip off. Identifying an unstable cavity out of the hundreds of cavities installed at CEBAF is difficult and time-consuming. The present RF controls for the legacy cavities report at only 1 Hz, which is too slow to detect fast transient instabilities. A fast data acquisition system for the legacy SRF cavities is being developed which samples and reports at 5 kHz to allow for detection of transients. A prototype chassis has been installed and tested in CEBAF. An autoencoder based machine learning model is being developed to identify anomalous SRF cavity behavior. The model is presently being trained on the slow (1 Hz) data that is currently available, and a separate model will be developed and trained using the fast (5 kHz) DAQ data once it becomes available. This paper will discuss the present status of the new fast data acquisition system and results of testing the prototype chassis. This paper will also detail the initial performance metrics of the autoencoder model.
+
+ 
+
+
+
+
+
+
+Poster WEPA23 [1.859 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA23
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 04 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 24 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA24
+pyJSPEC - A Python Module for IBS and Electron Cooling Simulation
+672
+
+
+ 
+
+H. Zhang, S.V. Benson, M.W. Brukerpresenter, Y. Zhang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177.
+The intrabeam scattering is an important collective effect that can deteriorate the property of a high-intensity beam and electron cooling is a method to mitigate the IBS effect. JSPEC (JLab Simulation Package on Electron Cooling) is an open-source C++ program developed at Jefferson Lab, which simulates the evolution of the ion beam under the IBS and/or the electron cooling effect. The Python wrapper of the C++ code, pyJSPEC, for Python 3.x environment has been recently developed and released. It allows the users to run JSPEC simulations in a Python environment. It also makes it possible for JSPEC to collaborate with other accelerator and beam modeling programs as well as plentiful python tools in data visualization, optimization, machine learning, etc. In this paper, we will introduce the features of pyJSPEC and demonstrate how to use it with sample codes and numerical results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA24
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 26 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA25
+Field Emission Mitigation in CEBAF SRF Cavities Using Deep Learning
+676
+
+
+ 
+
+K. Ahammed, J. Li
+                       ODU, Norfolk, Virginia, USA
+A. Carpenter, R. Suleiman, C. Tennant, L.S. Vidyaratne
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177.
+The Continuous Electron Beam Accelerator Facility (CEBAF) operates hundreds of superconducting radio frequency (SRF) cavities in its two main linear accelerators. Field emission can occur when the cavities are set to high operating RF gradients and is an ongoing operational challenge. This is especially true in newer, higher gradient SRF cavities. Field emission results in damage to accelerator hardware, generates high levels of neutron and gamma radiation, and has deleterious effects on CEBAF operations. So, field emission reduction is imperative for the reliable, high gradient operation of CEBAF that is required by experimenters. Here we explore the use of deep learning architectures via multilayer perceptron to simultaneously model radiation measurements at multiple detectors in response to arbitrary gradient distributions. These models are trained on collected data and could be used to minimize the radiation production through gradient redistribution. This work builds on previous efforts in developing machine learning (ML) models, and is able to produce similar model performance as our previous ML model without requiring knowledge of the field emission onset for each cavity.
+
+ 
+
+
+
+
+
+
+Poster WEPA25 [1.586 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA25
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 03 August 2022 — Accepted ※ 05 August 2022 — Issue date ※ 20 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA26
+197 MHz Waveguide Loaded Crabbing Cavity Design for the Electron-Ion Collider
+679
+
+
+ 
+
+S.U. De Silva, J.R. Delayen
+                       ODU, Norfolk, Virginia, USA
+J. Guo, R.A. Rimmer
+                       JLab, Newport News, Virginia, USA
+Z. Li
+                       SLAC, Menlo Park, California, USA
+B.P. Xiao
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+The Electron-Ion Collider will require crabbing systems at both hadron and electron storage rings in order to reach the desired luminosity goal. The 197 MHz crab cavity system is one of the critical rf systems of the col-lider. The crab cavity, based on the rf-dipole design, ex-plores the option of waveguide load damping to suppress the higher order modes and meet the tight impedance specifications. The cavity is designed with compact dog-bone waveguides with transitions to rectangular wave-guides and waveguide loads. This paper presents the compact 197 MHz crab cavity design with waveguide damping and other ancillaries.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA26
+
+ 
+
+
+About •
+Received ※ 08 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 06 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA27
+Effect of Duration of 120 °C Baking on the Performance of Superconducting Radio Frequency Niobium Cavities
+683
+
+
+ 
+
+B.D. Khanal
+                       ODU, Norfolk, Virginia, USA
+P. Dhakal
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Over the last decade much attention was given in increasing the quality factor of superconducting radio frequency (SRF) cavities by impurity doping. Prior to the era of doping, the final cavity processing technique to achieve the high accelerating gradient includes the "in situ" low temperature baking of SRF cavities at temperature ~ 120°C for several hours. Here, we present the results of a series of measurements on 1.3 GHz TESLA shape single-cell cavities with successive low temperature baking at 120°C up to 96 hours. The experimental data were analyzed with available theory of superconductivity to elucidate the effect of the duration of low temperature baking on the superconducting properties of cavity materials as well as the RF performance. In addition, the RF loss related to the trapping of residual magnetic field refereed as flux trapping sensitivity was measured with respect to the duration of 120°C bake.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA27
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 19 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA29
+Real-Time Cavity Fault Prediction in CEBAF Using Deep Learning
+687
+
+
+ 
+
+M. Rahman, K.M. Iftekharuddin
+                       ODU, Norfolk, Virginia, USA
+A. Carpenter, T.S. McGuckin, C. Tennant, L.S. Vidyaratne
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+Data-driven prediction of future faults is a major research area for many industrial applications. In this work, we present a new procedure of real-time fault prediction for superconducting radio-frequency (SRF) cavities at the Continuous Electron Beam Accelerator Facility (CEBAF) using deep learning. CEBAF has been afflicted by frequent downtime caused by SRF cavity faults. We perform fault prediction using pre-fault RF signals from C100-type cryomodules. Using the pre-fault signal information, the new algorithm predicts the type of cavity fault before the actual onset. The early prediction may enable potential mitigation strategies to prevent the fault. In our work, we apply a two-stage fault prediction pipeline. In the first stage, a model distinguishes between faulty and normal signals using a U-Net deep learning architecture. In the second stage of the network, signals flagged as faulty by the first model are classified into one of seven fault types based on learned signatures in the data. Initial results show that our model can successfully predict most fault types 200 ms before onset. We will discuss reasons for poor model performance on specific fault types.
+
+ 
+
+
+
+
+
+
+Poster WEPA29 [1.339 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA29
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 17 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA30
+Nb₃Sn Coating of a 2.6 GHz SRF Cavity by Sputter Deposition Technique
+691
+
+
+ 
+
+M.S. Shakel, W. Cao, H. Elsayed-Ali, Md.N. Sayeed
+                       ODU, Norfolk, Virginia, USA
+G.V. Eremeev
+                       Fermilab, Batavia, Illinois, USA
+U. Pudasaini, A-M. Valente-Feliciano
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Supported by DOE, Office of Accelerator R&D and Production, Contact No. DE-SC0022284, with partial support by DOE, Office of Nuclear Physics DE-AC05-06OR23177, Early Career Award to G. Eremeev.
+Nb3Sn is of interest as a coating for SRF cavities due to its higher transition temperature Tc ~18.3 K and superheating field Hsh ~400 mT, both are twice that of Nb. Nb3Sn coated cavities can achieve high-quality factors at 4 K and can replace the bulk Nb cavities operated at 2 K. A cylindrical magnetron sputtering system was built, commissioned, and used to deposit Nb3Sn on the inner surface of a 2.6 GHz single-cell Nb cavity. With two identical cylindrical magnetrons, this system can coat a cavity with high symmetry and uniform thickness. Using Nb-Sn multilayer sequential sputtering followed by annealing at 950°C for 3 hours, polycrystalline Nb3Sn films were first deposited at the equivalent positions of the cavity’s beam tubes and equator. The film’s composition, crystal structure, and morphology were characterized by energy dispersive spectroscopy, X-ray diffraction, and atomic force microscopy. The Tc of the films was measured by the four-point probe method and was 17.61 to 17.76 K. Based on these studies, ~1.2 micron thick Nb3Sn was deposited inside a 2.6 GHz Nb cavity. We will discuss first results from samples and cavity coatings, and the status of the coating system.
+
+ 
+
+
+
+
+
+
+Poster WEPA30 [1.769 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA30
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 22 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA31
+Lower Temperature Annealing of Vapor Diffused Nb₃Sn for Accelerator Cavities
+695
+
+
+ 
+
+J.K. Tiskumara, J.R. Delayen
+                       ODU, Norfolk, Virginia, USA
+G.V. Eremeev
+                       Fermilab, Batavia, Illinois, USA
+U. Pudasaini
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Nb3Sn is a next-generation superconducting material for the accelerator cavities with higher critical temperature and superheating field, both twice compared to Nb. It promises superior performance and higher operating temperature than Nb, resulting in significant cost reduction. So far, the Sn vapor diffusion method is the most preferred and successful technique to coat niobium cavities with Nb3Sn. Although several post-coating techniques (chemical, electrochemical, mechanical) have been explored to improve the surface quality of the coated surface, an effective process has yet to be found. Since there are only a few studies on the post-coating heat treatment at lower temperatures, we annealed Nb3Sn-coated samples at 800 C - 1000 C to study the effect of heat treatments on surface properties, primarily aimed at removing surface Sn residues. This paper discusses the systematic surface analysis of coated samples after annealing at temperatures between 850 C and 950 C.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA31
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 07 August 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA32
+Spallation Neutron Source Cryogenic Moderator System Helium Gas Analysis System
+699
+
+
+ 
+
+B. DeGraff, L. Pinion
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+R. Armstrong, J. Denison, M.P. Howell, S.-H. Kim, D. Montierth
+                       ORNL, Oak Ridge, Tennessee, USA
+M.D. Williamson
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by SNS through UT-Battelle, LLC, under contract DE-AC05-00OR22725 for the U.S. DOE.
+The Spallation Neutron Source (SNS) at Oak Ridge National Laboratory (ORNL) operates the Cryogenic Moderator System (CMS). The CMS comprises a 20-K helium refrigerator and three helium to hydrogen heat exchangers in support of hydrogen cooled spallation moderation vessels. This system uses vessels filled with activated carbon as the final major component to remove oil vapor from the compressed helium in the cryogenic cold box. SNS uses a LINDE multi-component gas analyzer to detect the presence of contaminants in the warm helium flow upstream of the cold box including aerosolized oil vapor. The design challenges of installing and operating this analyzer on the CMS system due to normal system operating pressures will be discussed. The design, fabrication, installation, commissioning, and initial results of this system operation will be presented. Future upgrades to the analyzer system will also be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA32
+
+ 
+
+
+About •
+Received ※ 06 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 05 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA33
+Laser Stripping for 1.3 GeV H⁻ Beam at the SNS
+702
+
+
+ 
+
+T.V. Gorlov, A.V. Aleksandrov, S.M. Cousineau, Y. Liu, A.R. Oguz
+                       ORNL, Oak Ridge, Tennessee, USA
+M.J. Kay
+                       UTK, Knoxville, Tennessee, USA
+P.K. Saha
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+Funding: This work has been authored by UT-Battelle, LLC, under Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy.
+A realistic full duty factor laser stripping charge exchange injection scheme for future 1.3 GeV beam at the SNS is considered. Different schemes of laser stripping involving combinations of photoexcitation, photoionization and magnetic field stripping are calculated. The laser power and magnetic field strength needed for different approaches are estimated and compared. The most practical scheme of laser stripping is selected for development.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA33
+
+ 
+
+
+About •
+Received ※ 29 July 2022 — Revised ※ 05 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 23 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA34
+Transfer Maps in the Hard-Edge Limit of Quadrupole and Bend Magnets Fringe Fields
+705
+
+
+ 
+
+T.V. Gorlov
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This work has been authored by UT-Battelle, LLC, under Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy.
+Beam dynamics of charged particles in the fringe field of a quadrupole and a dipole magnet is considered. An effective method for solving symplectic Lie map exp(:f:) in such cases has been developed. A precise analytic solution for nonlinear transverse beam dynamics in a quadrupole magnet with hard-edge fringe field has been obtained. The method of Lie map calculation considered here can be applied for other magnets and for soft edge type of fringe field.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA34
+
+ 
+
+
+About •
+Received ※ 23 July 2022 — Revised ※ 29 July 2022 — Accepted ※ 07 August 2022 — Issue date ※ 12 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA36
+Emittance Growth Due to RF Phase Noise in Crab Cavities
+708
+
+
+ 
+
+H. Huang, S. Zhao
+                       ODU, Norfolk, Virginia, USA
+F. Linpresenter, V.S. Morozov
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+Y. Luo
+                       Brookhaven National Laboratory (BNL), Electron-Ion Collider, Upton, New York, USA
+T. Satogata, Y. Zhang
+                       JLab, Newport News, Virginia, USA
+B.P. Xiao, D. Xu
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+The Electron-Ion Collider (EIC) incorporates beam crabbing to recover geometric luminosity loss from the nonzero crossing angle at the interaction point (IP). It is well-known that crab cavity imperfections can cause growth of colliding beam emittances, thus degrading collider performance. Here we report a particle tracking study to quantify these effects. Presently the study is focused on crab cavity RF phase noise. Simulations were carried out using Bmad. Dependence of emittance growth on phase noise level was obtained which could be used for developing crab cavity phase control specifications. We also benchmarked these simulations with theory.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA36
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA37
+Benchmarking and Exploring Parameter Space of the 2-Phase Bubble Tracking Model for Liquid Mercury Target Simulation
+711
+
+
+ 
+
+L. Lin, M.I. Radaideh, H. Tran, D.E. Winder
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This project was funded by the U.S. DOE under grant DE-SC0009915.
+High intensity proton pulses strike the Spallation Neutron Source (SNS)’s mercury target to provide bright neutron beams. These strikes deposit extensive energy into the mercury and its steel vessel. Prediction of the resultant loading on the target is difficult when helium gas is intentionally injected into the mercury to reduce the loading and to mitigate the pitting damage on the vessel. A 2-phase material model that incorporates the Rayleigh-Plesset (R-P) model is expected to address this complex multi-physics dynamics problem by including the bubble dynamics in the liquid mercury. We present a study comparing the measured target strains in the SNS target station with the simulation results of the solid mechanics simulation framework. We investigate a wide range of various physical model parameters, including the number of bubble families, bubble size distribution, viscosity, surface tension, etc. to understand their impact on simulation accuracy. Our initial findings reveal that using 8-10 bubble families in the model renders a simulation strain envelope that covers the experimental ones. Further optimization studies are planned to predict the strain response more accurately.
+
+ 
+
+
+
+
+
+
+Poster WEPA37 [1.985 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA37
+
+ 
+
+
+About •
+Received ※ 27 July 2022 — Revised ※ 08 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA38
+Progress on Machine Learning for the SNS High Voltage Converter Modulators
+715
+
+
+ 
+
+M.I. Radaideh, S.M. Cousineau, D. Lu
+                       ORNL, Oak Ridge, Tennessee, USA
+T.J. Britton, K. Rajput, M. Schram, L.S. Vidyaratne
+                       JLab, Newport News, Virginia, USA
+G.C. Pappas, J.D. Walden
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+The High-Voltage Converter Modulators (HVCM) used to power the klystrons in the Spallation Neutron Source (SNS) linac were selected as one area to explore machine learning due to reliability issues in the past and the availability of large sets of archived waveforms. Progress in the past two years has resulted in generating a significant amount of simulated and measured data for training neural network models such as recurrent neural networks, convolutional neural networks, and variational autoencoders. Applications in anomaly detection, fault classification, and prognostics of capacitor degradation were pursued in collaboration with the Jefferson Laboratory, and early promising results were achieved. This paper will discuss the progress to date and present results from these efforts.
+
+ 
+
+
+
+
+
+
+Poster WEPA38 [1.320 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA38
+
+ 
+
+
+About •
+Received ※ 25 July 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 03 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA40
+The L-CAPE Project at FNAL
+719
+
+
+ 
+
+M. Jain, V.C. Amatya, G.U. Panapitiya, J.F. Strube
+                       PNNL, Richland, Washington, USA
+B.F. Harrison, K.J. Hazelwood, W. Pellico, B.A. Schupbach, K. Seiya, J.M. St. John
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The controls system at FNAL records data asynchronously from several thousand Linac devices at their respective cadences, ranging from 15Hz down to once per minute. In case of downtimes, current operations are mostly reactive, investigating the cause of an outage and labeling it after the fact. However, as one of the most upstream systems at the FNAL accelerator complex, the Linac’s foreknowledge of an impending downtime as well as its duration could prompt downstream systems to go into standby, potentially leading to energy savings. The goals of the Linac Condition Anomaly Prediction of Emergence (L-CAPE) project that started in late 2020 are (1) to apply data-analytic methods to improve the information that is available to operators in the control room, and (2) to use machine learning to automate the labeling of outage types as they occur and discover patterns in the data that could lead to the prediction of outages. We present an overview of the challenges in dealing with time-series data from 2000+ devices, our approach to developing an ML-based automated outage labeling system, and the status of augmenting operations by identifying the most likely devices predicting an outage.
+
+ 
+
+
+
+
+
+
+Poster WEPA40 [1.870 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA40
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 12 August 2022 — Accepted ※ 17 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA41
+Maximizing Output of 3 MeV S-band Industrial Accelerator
+723
+
+
+ 
+
+D. Fischer, M. Denney, A.V. Mishin, S. Proskin, J. Roylance, L. Young
+                       Varex Imaging, Salt Lake City, USA
+
+ 
+
+
+ 
+
+Earlier, we have reported on a record-breaking 3-MeV Accelerator Beam Centerline (ABC) built in 2017-2018. An upgraded version of this 3-MeV S-band ABC has been developed at Varex Imaging as a key component for one of the most popular X-ray industrial linear accelerator systems, commonly used for security and NDT applications. Being significantly strained by excessive backstreaming, increasing of the ABC output is a challenging task. We describe these challenges and highlight high power test results. The triode gun and structure design improvements allowed us to raise stable output up to 530 Rad/min/1m at 3 MeV and up to 220 Rad/min/1m at 4.5 MeV with a widely available 2.5-MW/2.7-kW magnetron, while maintaining the spot size at 2 mm.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA41
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 20 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA42
+A Modular X-Ray Detector for Beamline Diagnostics at LANL
+725
+
+
+ 
+
+P.M. Freeman, B. Odegard, R. Schmitz, D. Stuart, J. Yang
+                       UCSB, Santa Barbara, California, USA
+J. Bohon, M.S. Gulley, E.-C. Huang, J. Smedley
+                       LANL, Los Alamos, New Mexico, USA
+L. Malavasi
+                       WPI, Worcester, MA, USA
+
+ 
+
+
+ 
+
+An X-ray detector is being developed for diagnostic measurement and monitoring of the Drift Tube LINAC (DTL) at the Los Alamos Neutron Science Center (LANSCE) at Los Alamos National Lab. The detector will consist of a row of x-ray spectrometers adjacent to the DTL that will measure the spectrum of X-rays resulting from bremsstrahlung of electrons created in vacuum by the RF. Each spectrometer will monitor a specific gap between drift tubes, and will consist of an array of scintillating crystals coupled to SiPMs read out with custom-built electronics. The spectrometer is designed with one LYSO and three NaI crystals. The LYSO provides a tagged gamma source with three peaks that are used for calibration of the NaI. A prototype of the spectrometer was tested at the LANSCE DTL to validate the feasibility of measuring gamma spectra and performing self-calibration in situ. A summary of test results with the LANSCE prototype will be presented, along with a detector system design that aims to be modular and inexpensive across all modules in the DTL. Plans for future development will be presented as well.
+
+ 
+
+
+
+
+
+
+Poster WEPA42 [1.308 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA42
+
+ 
+
+
+About •
+Received ※ 04 August 2022 — Revised ※ 06 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 11 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA43
+Self-Contained Linac Irradiator for the Sterile Insect Technique (SIT)
+728
+
+
+ 
+
+A. Diego, R.B. Agustsson, R.D. Berry, S. Boucher, O. Chimalpopoca, S.V. Kutsaev, A.Yu. Smirnov, V.S. Yu
+                       RadiaBeam, Santa Monica, California, USA
+S.J. Coleman
+                       RadiaSoft LLC, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: This work was financed by the US department of energy SBIR grant no. DE- SC0020010.
+A 3-MeV X-band linac has been developed employing a cost-effective split structure design in order to replace radioactive isotope irradiators currently used for the Sterile Insect Technique (SIT) and other applications. The penetration of a Co-60 irradiator can be matched with Bremsstrahlung produced by a 3-MeV electron beam. The use of electron accelerators eliminates security risks and hazards inherent with radioactive sources. We present the current state of this X-band split structure linac and the rest of the irradiator system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA43
+
+ 
+
+
+About •
+Received ※ 04 August 2022 — Revised ※ 06 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 16 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA44
+Compact Inter-Undulator Diagnostic Assembly for TESSA-515
+732
+
+
+ 
+
+T.J. Hodgetts, R.B. Agustsson, Y.C. Chen, A.Y. Murokh, M. Ruelas
+                       RadiaBeam, Santa Monica, California, USA
+P.E. Denham, A.C. Fisher, J. Jin, P. Musumeci, Y. Park
+                       UCLA, Los Angeles, USA
+
+ 
+
+
+ 
+
+Funding: DOE grant DE-SC0009914, DE-SC0018559, and DE-SC0017102.
+Beamline space is a very expensive and highly sought-after commodity, which makes the creation of compact integrated optics and diagnostics extremely valuable. The FAST- GREENS experimental program aims at demonstrating 10 % extraction efficiency from a relativistic electron beam using four helical undulators operating in the high gain TESSA regime. The inter-undulator gap needs to be as short as possible (17 cm in the current plans) to maximize the output power. Within this short distance, we needed to fit two focusing quadrupoles, a variable strength phase shifter, a transverse profile monitor consisting of a YAG-OTR combination for co-aligning the electron beam and laser, and an ion pump. By making the quadrupoles tunable with a variable gradient, in combination with vertical displacement, we can meet the optics requirements of matching the beam transversely to the natural focusing of the undulators. The two quadrupoles in conjunction with the electromagnetic dipole also serve as a phase shifter to realign the radiation and the bunching before each undulator section. This paper will discuss the mechanical design of this inter-undulator break section and its components.
+
+ 
+
+
+
+
+
+
+Poster WEPA44 [0.752 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA44
+
+ 
+
+
+About •
+Received ※ 27 July 2022 — Revised ※ 03 August 2022 — Accepted ※ 08 August 2022 — Issue date ※ 11 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA45
+Practical Review on Beam Line Commissioning Procedures and Techniques for Scientific and Industrial Electron Accelerators
+735
+
+
+ 
+
+M.O. Kravchenko, R.D. Berry, A. Diego, D.I. Gavryushkin, M. Ruelas
+                       RadiaBeam, Santa Monica, California, USA
+
+ 
+
+
+ 
+
+Accelerator science has a constant demand requiring improved electron beam quality for both scientific and industrial applications. Examples of parameters on existing systems that affect overall beam quality include: vacuum stability, component level alignment, RF phase matching, electron injection parameters, etc. A proper beam commissioning process allows the characterization of initial parameters that tune system setup appropriately in order to improve net beam quality and becomes a valuable source of data to guide system operation. Here we will discuss methods and possible obstacles during the commissioning process of accelerator systems experienced at RadiaBeam. This includes a description of the diagnostic equipment that may be used to commission a beam line such as: current transformers, faraday cups, profile monitors and pyro detectors. The interpretation of raw data from the diagnostics in terms of usefulness for further adjustments and improvements on the beam line as shown in current work. Simulations and empirical comparisons are also presented as examples for commissioning procedures within the aspect of expectations and actual results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA45
+
+ 
+
+
+About •
+Received ※ 30 July 2022 — Revised ※ 04 August 2022 — Accepted ※ 07 August 2022 — Issue date ※ 09 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA48
+Electromagnetic Design of a Compact RF Chopper for Heavy-Ion Beam Separation at FRIB
+738
+
+
+ 
+
+A.C. Araujo Martinez, R.B. Agustsson, Y.C. Chen, S.V. Kutsaev
+                       RadiaBeam, Santa Monica, California, USA
+A.S. Plastun, X. Rao
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of High Energy Physics, under SBIR grant DE- SC0020671.
+Rare isotope beams are produced at FRIB via fragmentation of a primary heavy ion beam in a thin target. The isotope beam of interest is contaminated with other fragments, which must be filtered out to ensure the delivery of rare isotopes with desired rates and purities. One of the stages of fragment separation uses an RF deflecting cavity to provide time-of-flight separation. However, to avoid neighboring bunches overlapping with each other and with the contaminants, it is necessary to increase the inter-bunch distance by a factor of four, corresponding to a 20.125 MHz rate. To solve this problem, we have developed an RF chopper system for the 500 keV/u primary heavy-ion beams. The system consists of a deflecting quarter wave resonator (QWR) cavity operating at 60.375 MHz, two dipole steering magnets, and a beam dump. In this paper, we present and discuss the optimization of the electromagnetic design of the QWR cavity and magnets, as well as some aspects, related to beam dynamics and conceptual engineering design.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA48
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 08 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA49
+Ferrite-Free Circulator for Precise Measurements of SRF Cavities with High Q-Factor
+742
+
+
+ 
+
+A.I. Pronikov, A.Yu. Smirnov
+                       RadiaBeam, Santa Monica, California, USA
+A.A. Krasnok
+                       Florida International University, Miami, Florida, USA
+S.N. Romanenko
+                       Zaporizhzhya National Technical University, Zaporizhzhya, Ukraine
+V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the US Department of Energy, Offices of High Energy and Nuclear Physics, awards DE-SC0020926 and DE-SC0022439.
+In this work, we suggest and investigate new magnetless circulators based on three resonators connected in a loop and parametrically modulated in time with mutual phase lag. The first design consists of three Fano resonators with a spectrally asymmetric response, in contrast to schemes based on the Lorentz resonators explored thus far. The second design includes three Fano-Lorentz resonators, i.e., it also possesses spatial asymmetry. We demonstrate that the asymmetric approach provides strong and reversible isolation for the practically feasible modulation amplitude and rate. The results of our work are promising for precise measurements of superconducting radio frequency cavities with high Q-factor.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA49
+
+ 
+
+
+About •
+Received ※ 04 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 13 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA50
+Initial Development of a High-Voltage Pulse Generator for a Short-Pulse Kicker
+745
+
+
+ 
+
+J. Prager, K.E. Miller, K. Muggli, C. Schmidt, H. Yeager
+                       EHT, Seattle, Washington, USA
+
+ 
+
+
+ 
+
+Funding: This work was funded by a DOE SBIR (DE-SC0021470).
+The future Electron Ion Collider, to be located at Brookhaven National Laboratory (BNL), will require a new short-pulse stripline kicker for the 150 MeV energy recovery LINAC. The pulse generator must produce ±50 kV pulses with widths less than 38 ns into a 50° kicker load and with low jitter. The power system must be highly reliable and robust to potential faults. Eagle Harbor Technologies (EHT), Inc. is leveraging our previous experience developing inductive adders to produce a high-voltage pulse generator that can meet the needs of the BNL kickers. In this program, EHT designed a single inductive adder stage and demonstrated the challenging pulse characteristics including fast rise and fall times, low jitter, and flattop stability while operating at the full current (1 kA). EHT will present the development status and output waveforms.
+
+ 
+
+
+
+
+
+
+Poster WEPA50 [1.118 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA50
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 12 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA52
+Demonstration of Twice-Reduced Lorentz-Force Detuning in SRF Cavity by Copper Cold Spraying
+749
+
+
+ 
+
+R.A. Kostin, C.-J. Jing, A. Kanareykin
+                       Euclid TechLabs, Solon, Ohio, USA
+G. Ciovati
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: The project is funded by DOE SBIR # DE-SC0019589
+Superconducting RF (SRF) cavities usually are made from thin-walled high RRR Niobium and are susceptible to Lorentz Force Detuning (LFD) ’ cavity deformation phenomena by RF fields. In this paper, we present high gradient cryogenic results of an SRF cavity with two times reduced LFD achieved by copper cold spray reinforcement without sacrificing cavity flexibility for tuning. Finite-element model was developed first to find the best geometry for LFD reduction, which incorporated coupled RF, structural and thermal modules, and is also presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA52
+
+ 
+
+
+About •
+Received ※ 27 July 2022 — Revised ※ 03 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 16 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA53
+An Open Radiofrequency Accelerating Structure
+753
+
+
+ 
+
+S.V. Kuzikov
+                       Euclid TechLabs, Solon, Ohio, USA
+
+ 
+
+
+ 
+
+We report an open multi-cell accelerating structure. Being integrated with a set of open-end waveguides, this structure can suppress high-order modes (HOMs). All the accelerating cells are connected at the side to rectangular cross-section waveguides which strongly coupled with free space or absorbers. Due to the anti-phased contribution of the cell pairs, the operating mode does not leak out, and has as high-quality factor as for a closed accelerating structure. However, the compensation does not occur for spurious high-order modes. This operating principle also allows for strong coupling between the cells of the structure, which is why high homogeneity of the accelerating fields can be provided along the structure. We discuss the obtained simulation results and possible applications. Its include a normal conducting high-shunt impedance accelerator, a tunable photoinjector’s RF gun, and a high-current, high-selective SRF accelerators.
+
+ 
+
+
+
+
+
+
+Poster WEPA53 [1.817 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA53
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 16 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA55
+Applications of Machine Automation with Robotics and Computer Vision in Cleanroom Assemblies
+756
+
+
+ 
+
+A. Liu, J.R. Callahan, E. Gomez, S.M. Milller, W. Si
+                       Euclid TechLabs, Solon, Ohio, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the US DOE SBIR program under contract number DE-SC0021736.
+Modern linear particle accelerators use superconducting radio frequency (SRF) cavities for achieving extremely high-quality factors (Q) and higher beam stability. The assembly process of the system, although with a much more stringent cleanness requirement, is very similar to the ultrahigh vacuum (UHV) system operation procedure. Humans, who are conventionally the operators in this procedure, can only avoid contaminating the system by wearing proper sterile personal protection equipment to avoid direct skin contact with the systems, or dropping particulates. However, humans unavoidably make unintentional mistakes that can contaminate the environment: cross contamination of the coverall suits during wearing, slippage of masks or goggles, damaged gloves, and so forth. Besides, humans are limited when operating heavy weights, which may lead to incorrect procedures, or even worse, injury. In this paper, we present our recent work on a viable and cost-effective machine automation system composed of a robotic arm and a computer vision system for the assembly process in a cleanroom environment, for example for SRF string assemblies, and more.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA55
+
+ 
+
+
+About •
+Received ※ 30 July 2022 — Revised ※ 04 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 12 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA56
+Encapsulation of Photocathodes Using High Power Pulsed RF Sputtering of hBN
+760
+
+
+ 
+
+A. Liu, J.R. Callahan, S. Poddar
+                       Euclid TechLabs, Solon, Ohio, USA
+J.P. Biswas, M. Gaowei
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the US DOE SBIR program under contract number DE-SC0021511 and DE-SC0020573.
+Photocathodes of various materials are used in photoinjectors for generating photoelectron beams. Of particular interest are the alkali antimonides because of their ultra-high quantum efficiency (QE) and relatively low requirements for growth, and metallic materials such as Cu and Mg which have lower QE but are easier to maintain and have longer lifetime. The biggest challenge of using the alkali antimonide photocathode is that it has an extremely stringent requirement on vacuum and is destroyed rapidly by residual air in the system, while exposure of Mg and Cu in air also impacts the photocathode performance because of the oxidation. The photocathode can be protected against harmful gas molecules by using one or two monolayers of a 2D material such as graphene or hexagonal boron nitride (hBN). Furthermore, hBN monolayers even have the potential to improve the QE of the photocathode when working as the encapsulation thin-film. In this paper, we will discuss the feasibility of coating a photocathode with hBN by high power pulsed RF sputtering by using metallic photocathodes as examples, and compare the performance with encapsulated photocathodes with transferred hBN thin-films.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA56
+
+ 
+
+
+About •
+Received ※ 31 July 2022 — Revised ※ 04 August 2022 — Accepted ※ 08 August 2022 — Issue date ※ 10 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA62
+Design and Commissioning of the ASU CXLS RF System
+764
+
+
+ 
+
+B.J. Cook, G.I. Babic, J.R.S. Falconer, W.S. Graves, M.R. Holl, S.P. Jachim, R.E. Larsen
+                       Arizona State University, Tempe, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported in part by NSF award #1935994.
+The Compact X-ray Light Source (CXLS) uses inverse Compton scattering of a high intensity laser off a bright, relativistic electron beam to produce hard x-rays. The accelerator consists of a photoinjector and three standing-wave linac sections, which are powered by two 6-MW klystrons operating at 9.3 GHz with a repetition rate of 1 kHz. This paper presents the design and commissioning of the CXLS RF systems consisting of both high-power RF structures and low-power diagnostics. The high-power RF system is comprised of two solid state amplifier and klystron modulator sets, various directional couplers, and three phase shifter power dividers. The low-level system consists of a master oscillator and laser phase lock, IQ modulators, IQ demodulators, and downconverters. We present measurements of the low-level and high-power RF phase and amplitude stability showing RMS timing jitter in the tens of femtoseconds and amplitude jitter below 0.1% at high power.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA62
+
+ 
+
+
+About •
+Received ※ 29 July 2022 — Revised ※ 03 August 2022 — Accepted ※ 06 August 2022 — Issue date ※ 19 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA63
+Extensions of the Complex (IQ) Baseband RF Cavity Model Including RF Source and Beam Interactions
+767
+
+
+ 
+
+S.P. Jachim, B.J. Cook, J.R.S. Falconer
+                       Arizona State University, Tempe, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported in part by NSF award #1935994.
+This paper extends prior work describing a complex envelope (i.e., baseband) dynamic model of excited accelerator RF cavities, including the effects of frequency detuning, beam loading, reflections, multiple drive ports, and parasitic modes. This model is presented here in closed-form transfer function and state-variable realizations, which may be more appropriate for analytic purposes. Several example simulations illustrate the detailed insight into RF system behavior afforded by this model.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA63
+
+ 
+
+
+About •
+Received ※ 28 July 2022 — Revised ※ 08 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 15 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA64
+Design and Commissioning of the ASU CXLS Machine Protection System
+770
+
+
+ 
+
+S.P. Jachim, B.J. Cook, J.R.S. Falconer, A.J. Gardeck, W.S. Graves, M.R. Holl, R.S. Rednour, D.M. Smith, J.V. Vela
+                       Arizona State University, Tempe, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported in part by NSF award #1935994.
+To protect against fault conditions in the high-power RF transport and accelerating structures of the Arizona State University (ASU) Compact X-Ray Light Source (CXLS), the Machine Protection System (MPS) extinguishes the 6.5-MW RF energy sources within approximately 50 ns of the fault event. In addition, each fault is localized and reported remotely via USB for operational and maintenance purposes. This paper outlines the requirements, design, and performance of the MPS applied on the CXLS.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA64
+
+ 
+
+
+About •
+Received ※ 13 July 2022 — Revised ※ 28 July 2022 — Accepted ※ 08 August 2022 — Issue date ※ 12 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA65
+On-Chip Photonics Integrated Photocathodes
+773
+
+
+ 
+
+A.H. Kachwala, O. Chubenko, S.S. Karkare
+                       Arizona State University, Tempe, USA
+R. Ahsan
+                       USC, Los Angeles, California, USA
+H.U. Chae, R. Kapadia
+                       University of Southern California, Los Angeles, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the NSF Center for Bright Beams under award PHY-1549132, and by the Department of Energy, Office of Science under awards DE-SC0021092, and DE-SC0021213.
+Photonics integrated photocathodes can result in advanced electron sources for various accelerator applications. In such photocathodes, light can be directed using waveguides and other photonic components on the substrate underneath a photoemissive film to generate electron emission from specific locations at sub-micron scales and at specific times at 100-femtosecond scales along with triggering novel photoemission mechanisms resulting in brighter electron beams and enabling unprecedented spatio-temporal shaping of the emitted electrons. In this work we have demonstrated photoemission confined in the transverse direction using a nanofabricated Si3N4 waveguide underneath a 40-nm thick cesiated GaAs photoemissive film, thus demonstrating a proof of principle feasibility of such photonics integrated photocathodes. This work paves the way to integrate the advances in the field of photonics and nanofabrication with photocathodes to develop better electron sources.
+
+ 
+
+
+
+
+
+
+Poster WEPA65 [0.642 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA65
+
+ 
+
+
+About •
+Received ※ 26 July 2022 — Revised ※ 06 August 2022 — Accepted ※ 07 August 2022 — Issue date ※ 10 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA66
+Near-Threshold Photoemission from Graphene Coated Cu Single Crystals
+776
+
+
+ 
+
+C.J. Knill, S.S. Karkare
+                       Arizona State University, Tempe, USA
+H. Ago, K. Kawahara
+                       Global Innovation Center, Kyushu University, Kasuga, Fukuoka, Japan
+E. Batista, N.A. Moody, G.X. Wang, H. Yamaguchi, P. Yang
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. National Science Foundation under Award PHY-1549132, the Center for Bright Beams, and by the Department of Energy under Grant DE-SC0021092.
+The brightness of electron beams emitted from photocathodes plays a key role in the performance of x-ray free electron lasers (XFELs) and ultrafast electron diffraction (UED) experiments. In order to achieve the maximum beam brightness, the electrons need to be emitted from photocathodes with the smallest possible mean transverse energy (MTE). Recent studies have looked at the effect that a graphene coating has on the quantum efficiency (QE) of the cathode [1]. However, there have not yet been any investigations into the effect that a graphene coating has on the MTE. Here we report on MTE and QE measurements of a graphene coated Cu(110) single crystal cathode at room and cryogenic temperatures. At room temperature, a minimum MTE of 25 meV was measured at 295 nm. This MTE remained stable at 25 meV over several days. At 77 K, the minimum MTE of 9 meV was measured at 290 nm. We perform density functional theory (DFT) calculations to look at the effects of a graphene coating on a Cu(111) surface state. These calculations show that the graphene coating reduces the radius of the surface state, allowing for emission from a lower transverse energy state in comparison to bare Cu(111).
+[1] F. Liu et al, Appl. Phys. Lett. 110, 041607 (2017); https://doi.org/10.1063/1.4974738
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA66
+
+ 
+
+
+About •
+Received ※ 28 July 2022 — Revised ※ 19 July 2022 — Accepted ※ 07 August 2022 — Issue date ※ 10 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA67
+Effects of Transverse Dependence of Kicks in Simulations of Microbunched Electron Cooling
+780
+
+
+ 
+
+W.F. Bergan
+                       BNL, Upton, New York, USA
+G. Stupakov
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by Brookhaven Science Associates, LLC under contract No. DE-SC0012704 with the U.S. Department of Energy, and by the Department of Energy, contract DE-AC03-76SF00515.
+Microbunched electron cooling (MBEC) is a cooling scheme in which a beam of hadrons to be cooled induces energy perturbations in a beam of electrons. These electron energy perturbations are amplified and turned into density modulations, which in turn provide energy kicks to the hadrons, tending to cool them. For simplification, previous work has modelled the electron-hadron interactions using a disc-disc model, assuming that the inter-particle kicks depend only on the longitudinal distances between individual hadrons and electrons. In reality, these kicks will also have a transverse dependence, which will impact the cooling process. We incorporate this transverse kick dependence into our simulations of the cooling process, allowing us to better understand the physics and provide improved design goals for the MBEC cooler for the Electron-Ion Collider.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA67
+
+ 
+
+
+About •
+Received ※ 19 July 2022 — Revised ※ 08 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 26 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA68
+Record Quantum Efficiency from Superlattice Photocathode for Spin Polarized Electron Beam Production
+784
+
+
+ 
+
+J.P. Biswas, L. Cultrera, K. Kisslinger, W. Liu, J. Skarita, E. Wang
+                       BNL, Upton, New York, USA
+S.D. Hawkins, J.F. Klem, S.R. Lee
+                       Sandia National Laboratories, Albuquerque, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: The work is supported by Brookhaven Science Associates, LLC under Contract DESC0012704 with the U.S. DOE. SNL is managed and operated by NTESS under DOE NNSA contract DE-NA0003525.
+Electron sources producing highly spin-polarized electron beams are currently possible only with photocathodes based on GaAs and other III-V semiconductors. GaAs/GaAsP superlattice (SL) photocathodes with a distributed Bragg reflector (DBR) represent the state of the art for the production of spin-polarized electrons. We present results on a SL-DBR GaAs/GaAsP structure designed to leverage strain compensation to achieve simultaneously high QE and spin polarization. These photocathode structures were grown using molecular beam epitaxy and achieved quantum efficiencies exceeding 15% and electron spin polarization of about 75% when illuminated with near bandgap photon energies.
+
+ 
+
+
+
+
+
+
+Poster WEPA68 [4.506 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA68
+
+ 
+
+
+About •
+Received ※ 20 July 2022 — Revised ※ 02 August 2022 — Accepted ※ 07 August 2022 — Issue date ※ 10 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA69
+The Impact on the Vertical Beam Dynamics Due to the Noise in a Horizontal Crab Crossing Scheme
+788
+
+
+ 
+
+Y. Hao
+                       BNL, Upton, New York, USA
+Y. Luo
+                       Brookhaven National Laboratory (BNL), Electron-Ion Collider, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work Supported BY Brookhaven Science Associates, LLC under contract NO. DE-SC0012704 with the U.S. Department of Energy.
+Several recent and future colliders have adopted the crab crossing scheme to boost performance. The lower RF control noise of the crab cavities has been identified as one of the significant sources that impact the transverse beam quality in the crabbing plane. However, through beam-beam interaction and other coupling sources, the effect may also affect the non-crabbing plane. In this paper, we report the simulation observations of the beam dynamics in the non-crabbing plane in the presence of phase noise in the crab cavity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA69
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 06 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA70
+Tensor Decomposition for the Compression and Analysis of 10 kHz BPM Data
+792
+
+
+ 
+
+J. Choi, Y. Hidakapresenter, Y. Hu, G.M. Wang
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported in part by the U.S. Department of Energy (DOE) under contract No. DE-SC0012704.
+In the NSLS-II storage ring during user operation, fast-acquisition (FA) 10-kHz BPM data are collected, and their spectral properties are analyzed. Various periodograms and spectral peaks are being provided every minute, and they are very useful in identifying any changes in the orbit. Unfortunately, because of the large amount of data, only several numbers are being continually archived for later study, and the full raw data are saved only by hand when needed. We are developing methods utilizing tensor decomposition techniques to save and analyze the FA data; this paper reports the current status of this project.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA70
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 28 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA71
+Unified Orbit Feedback at NSLS-II
+795
+
+
+ 
+
+Y. Hidaka, Y. Li, R.M. Smith, Y. Tian, G.M. Wang, X. Yang
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by U.S. DOE under Contract No. DE-SC0012704.
+We have developed an orbit correction / feedback program to unify the existing orbit-related feedback systems for stable beam operation at NSLS-II. Until recently only a handful of beamlines have been benefiting from long-term orbit stability provided by a local bump agent program. To expand this to all the beamlines as well as correct more frequently, a new slow orbit feedback program called unified orbit feedback (UOFB) was written from scratch that works with the fast orbit feedback transparently, while accumulated fast corrector strength is continuously shifted to the slow correctors and RF frequency is adjusted for circumference change. UOFB can lock 3 different types of local bumps to the target offsets/angles for days: those for insertion device (ID) sources with only ID RF beam position monitors (BPM) or mixtures of ID RF BPMs and X-ray BPMs, and those for bending magnet sources with arc BPMs between which orbit correctors, dipoles and quadrupoles exist. Furthermore, this feed-back can accommodate beamline user requests to enable / disable the feedback loop for their beamline and to change bump target setpoints without turning off the loop.
+
+ 
+
+
+
+
+
+
+Poster WEPA71 [2.541 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA71
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA72
+Analysis of Beam-Induced Heating of the NSLS-II Ceramic Vacuum Chambers
+799
+
+
+ 
+
+G. Bassi, C. Hetzel, A. Khanpresenter, B.N. Kosciuk, M. Seegitz, V.V. Smaluk, R.J. Todd
+                       BNL, Upton, New York, USA
+A. Blednykh
+                       Brookhaven National Laboratory (BNL), Electron-Ion Collider, Upton, New York, USA
+
+ 
+
+
+ 
+
+We discuss impedance calculations and related heating issues of the titanium-coated NSLS-II kicker ceramic chambers, with the titanium coating thickness estimated from in situ measurements of the end-to-end resistance of each chamber. Power densities are calculated on the titanium coating to allow for thermal analysis with the code ANSYS and comparison with heating measurements. The impedance analysis is performed using a realistic model of the ceramic complex permittivity, and special consideration is given to the impedance calculation in the limit of zero titanium coating thickness.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA72
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 26 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA73
+Numerical Studies of Geometric Impedance at NSLS-II with GdfidL and ECHO3D
+802
+
+
+ 
+
+A. Khan, M. Seegitz, V.V. Smaluk, R.J. Todd
+                       BNL, Upton, New York, USA
+A. Blednykh
+                       Brookhaven National Laboratory (BNL), Electron-Ion Collider, Upton, New York, USA
+
+ 
+
+
+ 
+
+The beam intensity in future low-emittance light sources with small gap wigglers and undulators is limited by the effects of short-range wakefields, especially by the beam-induced heating of the vacuum chamber components. We have cross-checked two electromagnetic solvers, GdfidL and ECHO3D, by simulation of the short-range wakefields in the NSLS-II flange absorber and in the taper transition of an in-vacuum undulator to test the consistency and precision of the wakefield models.
+
+ 
+
+
+
+
+
+
+Poster WEPA73 [1.057 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA73
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 03 August 2022 — Accepted ※ 08 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA74
+Characterization of Fully Coupled Linear Optics with Turn-by-Turn Data
+805
+
+
+ 
+
+Y. Li, R.S. Rainer, V.V. Smaluk
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: This research used resources of the NSLS-II, a U.S. DOE Office of Science User Facility operated for the DOE Office of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704.
+In the future diffraction-limited light source rings, fully coupled linear optics to generate round beams is preferable. While machine tune approaching to linear difference resonances, small random errors, such as quadrupole rolls, can result in fully coupled optics. Consequently, some uncertainty exists in such optics due to random errors distributions. Given beam position monitors turn-by-turn readings, the harmonic analysis method was used to characterize the coupled Ripken Twiss parameters.
+
+ 
+
+
+
+
+
+
+Poster WEPA74 [0.889 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA74
+
+ 
+
+
+About •
+Received ※ 25 July 2022 — Revised ※ 30 July 2022 — Accepted ※ 08 August 2022 — Issue date ※ 19 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA75
+{6-D} Element-by-Element Particle Tracking with Crab Cavity Phase Noise and Weak-Strong Beam-Beam Interaction for the Hadron Storage Ring of the Electron-Ion Collider
+809
+
+
+ 
+
+Y. Luo, J.S. Berg, M. Blaskiewicz, C. Montag, V. Ptitsyn, F.J. Willeke, D. Xu
+                       BNL, Upton, New York, USA
+Y. Hao
+                       FRIB, East Lansing, Michigan, USA
+H. Huang
+                       ODU, Norfolk, Virginia, USA
+V.S. Morozov
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+J. Qiang
+                       LBNL, Berkeley, California, USA
+T. Satogata
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+The Electron Ion Collider (EIC) presently under construction at Brookhaven National Laboratory will collide polarized high energy electron beams with hadron beams with luminosity up to 1034 cm-2 s-1 in the center mass energy range of 20 to 140 GeV. Crab cavities are used to compensate the geometric luminosity due to a large crossing angle in the EIC. However, it was found that the phase noise in crab cavities will generate a significant emittance growth for hadron beams and its tolerance from analytical calculation is very small for the Hadron Storage Ring (HSR) of the EIC. In this paper, we report on 6-D symplectic particle tracking to estimate the proton emittance growth rate, especially in the vertical plane, for the HSR with weak-strong beam-beam and other machine or lattice errors.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA75
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 06 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 19 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA76
+Radio Frequency System of the NSLS-II Injector LINAC for Multi-Bunch-Mode Beams
+813
+
+
+ 
+
+H. Ma, J. Rose, C. Sorrentino
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: US DOE, Office of BES
+The Multi-Bunch Mode (MBM) beam injection opera-tion of NSLS-II LINAC requires a beam-loading compen-sation for its rf field. That requirement has a significant impact on its radio frequency system (RF), in both the low-level rf control and the high-power klystron transmit-ters. Specifically, for the rf control, it requires the output vector modulation have enough bandwidth to be able to respond the transients by the MBM beam of 40~300 nS long. For the high-power rf transmitters, it requires the klystrons to operate in a near-linear region to be able to respond the linear rf control for the beam-loading compensation, which means a need of ~30% extra rf power overhead, compared to the single-bunch mode operations. The digital signal processing and the network configuration for the rf controllers are also the important areas in the implementation. The original system design was driven by the MBM beam operation requirements, and our system upgrade today continues to be guided by the same principles.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA76
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 24 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA77
+A New PCB Rotating Coil at NSLS-II
+816
+
+
+ 
+
+M. Musardo, J. Avronsart, F.A. DePaola, L. Doom, R. Faussete, F.C. Lincoln, S.K. Sharma, T. Tanabe
+                       BNL, Upton, New York, USA
+D. Assell, J. DiMarco
+                       Fermilab, Batavia, Illinois, USA
+A. Banerjee
+                       SBU, Stony Brook, New York, USA
+C.L. Doose, A.K. Jain
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Several R&D projects are underway at NSLS-II towards an upgrade of its storage ring with a new lattice that will use high field magnets with small bores of 16-22 mm. A large fraction of the high field magnets are expected to be of permanent magnet technology that will require precise magnetic measurements and field harmonics corrections. A new magnetic measurement bench has been built based on a printed circuit board (PCB) coil of 12 mm diameter and 270 mm active length. This PCB coil has the capabil-ity of measuring field quality to a level of 10 ppm of the main field up to the 15th harmonic with a sensitivity between 0.01 m2 and 0.02 m2 at the reference radius of 5 mm. This paper will describe the main features of the rotating coil bench and discuss the measurement results of a permanent-magnet Halbach quadrupole of 12.7 mm bore diameter.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA77
+
+ 
+
+
+About •
+Received ※ 28 July 2022 — Revised ※ 06 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 29 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA78
+Proton-Electron Focusing in EIC Ring Electron Cooler
+820
+
+
+ 
+
+S. Seletskiy, A.V. Fedotov, D. Kayran, J. Kewisch
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+The Electron Ion Collider (EIC) requires a cooling of protons at the top energy. The Ring Electron Cooler (REC) is a suitable option for such a cooling. In this paper we consider an effect of a proton-electron space charge (SC) focusing on the quality of the electron beam in the REC. We show that, with properly adjusted parameters of the Ring Electron Cooler, the SC focusing in the REC cooling section does not significantly affect the cooler performance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA78
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 03 August 2022 — Accepted ※ 09 August 2022 — Issue date ※ 20 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA80
+Progress on Convergence Map Based on Square Matrix for Nonlinear Lattice Optimization
+823
+
+
+ 
+
+L.H. Yu, Y. Hao, Y. Hidaka, F. Plassard, V.V. Smalukpresenter
+                       BNL, Upton, New York, USA
+Y. Hao
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: DOE.
+We report progress on applying the square matrix method to obtain in high speed a "convergence map", which is similar but different from a frequency map. We give an example of applying the method to optimize a nonlinear lattice for the NSLS-II upgrade. The convergence map is obtained by solving the nonlinear dynamical equation by iteration of the perturbation method and studying the convergence. The map provides information about the stability border of the dynamical aperture. We compare the map with the frequency map from tracking. The result in our example of nonlinear optimization of the NSLS-II lattice shows the new method may be applied in nonlinear lattice optimization, taking advantage of the high speed (about 30~300 times faster) to explore x, y, and the off-momentum phase space.
+
+ 
+
+
+
+
+
+
+Poster WEPA80 [5.392 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA80
+
+ 
+
+
+About •
+Received ※ 19 July 2022 — Revised ※ 26 July 2022 — Accepted ※ 08 August 2022 — Issue date ※ 10 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA81
+Time-Resolved Experiments at NSLS II: Motivation and Machine Capabilities
+826
+
+
+ 
+
+G.M. Wang, B. Bacha, G. Bassi, G.L. Carr, Y. Hidaka, Y. Hu, Y. Li, C. Mazzoli, D. Padrazo Jr, R.S. Rainer, J. Rose, J.T. Sadowski, V.V. Smaluk, Y. Tian, L. Wiegart, G. Williams, X. Yang
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+NSLS-II is a 3-GeV third-generation synchrotron light source at Brookhaven National Lab. The storage ring has been in routine operations for over six years and hosts 28 operating beamlines. The storage ring performance has continuously improved, including 500-mA with limited insertion devices closed, and routine 400-mA top off operation with 90% uniform filling pattern. Recently, we are exploring different operation modes, uniform multi single-bunch mode, and camshaft mode with a high single-bunch charge, to support timing-resolved user experiments. In this paper, we explore the potential for scientific experiments using the pulsed nature of the NSLS, summarize the user requirements on the beam parameters and the progress of accelerator studies.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA81
+
+ 
+
+
+About •
+Received ※ 04 August 2022 — Revised ※ 12 August 2022 — Accepted ※ 13 August 2022 — Issue date ※ 22 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA83
+Extended Soft-Gaussian Code for Beam-Beam Simulations
+830
+
+
+ 
+
+D. Xu, C. Montag
+                       BNL, Upton, New York, USA
+Y. Hao
+                       FRIB, East Lansing, Michigan, USA
+Y. Luo
+                       Brookhaven National Laboratory (BNL), Electron-Ion Collider, Upton, New York, USA
+J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Large ion beam emittance growth is observed in strong-strong beam-beam simulations for the Electron-Ion Collider (EIC). As we know, the Particle-In-Cell (PIC) solver is subject to numerical noises. As an alternative approach, an extended soft-Gaussian code is developed with help of Hermite polynomials in this paper. The correlation between the horizontal and the vertical coordinates of macro-particles is considered. The 3rd order center moments are also included in the beam-beam force. This code could be used as a cross check tool of PIC based strong-strong simulation.
+
+ 
+
+
+
+
+
+
+Poster WEPA83 [0.440 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA83
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 08 August 2022 — Issue date ※ 24 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPA85
+Localized Beam Induced Heating Analysis of the EIC Vacuum Chamber Components
+833
+
+
+ 
+
+M.P. Sangroula, D.M. Gassner, C.J. Liaw, C. Liu, P. Thieberger
+                       BNL, Upton, New York, USA
+J.R. Bellon, A. Blednykh, C. Hetzel, S. Verdú-Andrés
+                       Brookhaven National Laboratory (BNL), Electron-Ion Collider, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy
+The Electron-Ion Collider (EIC), to be built at Brookhaven National Laboratory (BNL), is designed to provide a high electron-proton luminosity of 1034 cm-2 s-1. One of the challenging tasks for the Electron Storage Ring (ESR) is to operate at an average beam current of 2.5 A within 1160 bunches with a ~ 7 mm bunch length. The Hadron Storage Ring (HSR) will accumulate an average current of 0.69 A within 290 bunches with a 60 mm bunch length. Both rings require the impedance budget simulations. The intense e-beam in the ESR can lead to the overheating of vacuum chamber components due to localized metallic losses. This paper focuses on the beam-induced heating analysis of the ESR vacuum components including bellows, gate-valve, and BPM. To perform thermal analysis, the resistive loss on individual components is calculated with CST and then fed to ANSYS to determine the temperature distribution on the vacuum components. Preliminary results suggest that active water cooling will be required for most of the ESR vacuum components. Similar approach is applied to the HSR vacuum components. The thermal analysis of the HSR stripline injection kicker is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-WEPA85
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 08 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 10 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

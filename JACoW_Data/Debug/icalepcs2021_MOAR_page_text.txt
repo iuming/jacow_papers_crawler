@@ -1,0 +1,222 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: MOAR (Control System Upgrades I)
+
+
+MOAR —  Control System Upgrades I   (18-Oct-21   12:30—13:15)
+Chair: G. Shen, ANL, Lemont, Illinois, USA
+
+
+
+MOAR
+   Video of full session  »Control System Upgrades I« (total time: 0:45:04 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+MOAR01
+Modernizing the SNS Control System
+21
+
+
+ 
+
+K.S. White, K.-U. Kasemir, K. Vodopivec, D.C. Williams
+                       ORNL, Oak Ridge, Tennessee, USA
+K.L. Mahoney
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+The Spallation Neutron Source at Oak Ridge National Laboratory has been operating since 2006. An upgrade to double the machine power from 1.4 MW to 2.8 MW is currently underway and a project to add a second target station is in the preliminary design phase. While each project will add the controls needed for their specific scope, the existing control system hardware, software, and infrastructure require upgrades to maintain high availability and ensure the system will meet facility requirements into the future. While some systems have received new hardware due to obsolescence, much of the system is original apart from some maintenance and technology refresh. Software will also become obsolete and must be upgraded for sustainability. Further, requirements for system capacity can be expected to increase as more subsystems upgrade to smarter devices capable of higher data rates. This paper covers planned improvements to the integrated control system with a focus on reliability, sustainability, and future capability.
+
+ 
+
+
+
+
+
+
+Slides MOAR01 [3.215 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOAR01
+
+ 
+
+
+About •
+Received ※ 11 October 2021       Accepted ※ 03 November 2021       
+Issue date ※ 18 November 2021
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOAR02
+Modernizing Digital Video Systems at the National Ignition Facility (NIF): Success Stories, Open Challenges and Future Directions
+26
+
+
+ 
+
+V.K. Gopalan, A.I. Barnes, G.K. Brunton, J. Dixon, C.M. Estes, M. Fedorov, M.S. Flegel, B. Hackel, D.J. Koning, S.L. Townsend, D. Tucker, J.L. Vaher
+                       LLNL, Livermore, USA
+
+ 
+
+
+ 
+
+Funding: This work was performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+The National Ignition Facility (NIF), the world’s most energetic laser, completed a multi-year project for migrating control software platforms from Ada to Java in 2019. Following that work, a technology refresh of NIF’s Digital Video (DVID) systems was identified as the next important step. The DVIDs were facing long-term maintenance risk due to its obsolete Window XP platform, with over 500 computers to be individually upgraded and patched, 24 camera types with a variety of I/O interfaces and proprietary drivers/software with their licensing needs. In this presentation, we discuss how we leveraged the strengths of NIF’s distributed, cross platform architecture and our system migration expertise to migrate the DVID platforms to diskless clients booting off a single purpose-built immutable Linux image, and replacing proprietary camera drivers with open-source drivers. The in-place upgrades with well-defined fallback strategies ensured minimal impact to the continuous 24/7 shot operations. We will also present our strategy for continuous build, test, and release of the Linux OS image to keep up with future security patches and package upgrades.
+LLNL IM Document Release Number: LLNL-ABS-822092
+
+ 
+
+
+
+
+
+
+Slides MOAR02 [0.872 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOAR02
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Revised ※ 14 October 2021       
+Accepted ※ 11 November 2021        Issue date ※ 28 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOAR03
+LOFAR2.0: Station Control Upgrade
+31
+
+
+ 
+
+T. Juerges, J.J.D. Mol, T. Snijder
+                       ASTRON, Dwingeloo, The Netherlands
+
+ 
+
+
+ 
+
+After 10 years of operation, the LOw Frequency ARray (LOFAR) telescope is undergoing a significant hardware upgrade towards LOFAR2.0. The hardware upgrade will enable the phased array telescope to observe at 10-90 MHz and at 120-240 MHz frequencies at the same time. With the upgrade comes also the chance to review LOFAR’s Control System and to make it ready for the next 10 years of operation at the forefront of low-frequency astronomy. In this work we will give a brief overview over the LOFAR telescope with its more than 50 geographically distributed receiver locations (LOFAR Stations), and the software that is necessary to monitor and control every single one of them. We will then describe the Station Control architecture, with its software design and how it is implemented in Python 3 with Tango Controls, OPC-UA clients and deployed as Docker containers. Lastly we will report on the successful use of open stack software like ELK and, Grafana.
+
+ 
+
+
+
+
+
+
+Slides MOAR03 [8.746 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOAR03
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 03 November 2021        Issue date ※ 06 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SRF2017 - Table of Session: FRXBA (Technology-others)
+
+
+FRXBA —  Technology-others   (21-Jul-17   09:10—10:45)
+
+
+
+Paper
+Title
+Page
+
+
+
+FRXBA01
+LLRF Commissioning at the European XFEL
+941
+
+
+ 
+
+M. Omet, V. Ayvazyan, J. Branlard, Ł. Butkowski, M. Fenner, M.K. Grecki, M. Hierholzer, M. Hoffmann, M. Killenberg, D. Kühn, F. Ludwig, U. Mavrič, S. Pfeiffer, H. Pryschelski, K.P. Przygoda, R. Rybaniec, H. Schlarb, Ch. Schmidt, B. Szczepanski, H.C. Weddig
+                       DESY, Hamburg, Germany
+W. Cichalewski, D.R. Makowski, F. Makowski, A. Mielczarek
+                       TUL-DMCS, Łódź, Poland
+K. Czuba, B. Gąsowski, S. Hanasz, P.K. Jatczak, D. Kolcz, T.P. Leśniak, D. Sikora
+                       Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+
+ 
+
+
+ 
+
+The European X-ray Free-Electron Laser (XFEL) at Deutsches Elektronen-Synchrotron (DESY), Hamburg, Germany is a user facility under commissioning, providing ultrashort X-ray flashes with a high brilliance in the near future. All LLRF stations of the injector, covering the normal conducting RF gun, A1 (8 1.3 GHz superconducting cavities (SCs) and AH1 (8 3.9 GHz SCs), were successfully commissioned by the end of 2015. The injector was operated with beam transmission to the injector dump since then. After the conclusion of the construction work in the XFEL accelerator tunnel (XTL), the commissioning of 22 LLRF stations (A2 to A23) started with the beginning of 2017. Every station consists of a semi-distributed LLRF system controlling 32 1.3 GHz SCs. Stable operation with beam transport to the main dump (TLD) was achieved. The commissioning procedure applied, experience gained and performance reached are described.
+
+ 
+
+
+
+
+
+
+Slides FRXBA01 [2.159 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2017-FRXBA01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRXBA02
+High Precision RF Control for SRF Cavities in LCLS-II
+944
+
+
+ 
+
+L.R. Doolittle, K.S. Campbell, Q. Du, G. Huang, J.A. Jones, C. Serrano, V.K. Vytla
+                       LBNL, Berkeley, California, USA
+S. Babel, A.L. Benwell, M. Boyes, G.W. Brown, D. Cha, J.H. De Long, J.A. Diaz Cruz, D.B. Greg, B. Hong, R.S. Kelly, A. McCollough, A. Ratti, C.H. Rivetta
+                       SLAC, Menlo Park, California, USA
+R. Bachimanchi, C. Hovater, D.J. Seidman
+                       JLab, Newport News, Virginia, USA
+B.E. Chase, E. Cullerton, J. Einstein, D.W. Klepec
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work supported under DOE Contract DE-AC02-76SF00515
+The unique properties of SRF cavities enable a new generation of X-ray light sources in XFEL and LCLS-II. The LCLS-II design calls for 280 L-band cavities to be operated in CW mode with a QL of 4x107, using Single-Source Single-Cavity control. The target RF field stability is 0.01% and 0.01 degree for the band above 1 Hz. Hardware and software implementing a digital LLRF system has been constructed by a four-lab collaboration to minimize known contributors to cavity RF field fluctuation. Efforts include careful attachment to the phase reference line, and minimizing the effects of RF crosstalk by placing forward and reverse signals in chassis separate from the cavity measurement. A low-noise receiver/digitizer section will allow feedback to operate with high proportional gain without excessive noise being sent to the drive amplifier. Test results will show behavior on prototype cryomodules at FNAL and JLab, ahead of the 2018 final accelerator installation.
+
+ 
+
+
+
+
+
+
+Slides FRXBA02 [3.425 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-SRF2017-FRXBA02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRXBA03
+Coaxial Power Coupler Development at Argonne National Laboratory
+ 
+
+
+ 
+
+M.P. Kelly, S.H. Kim
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+A series of coaxial rf power couplers with increasingly stringent demands on power handling, reliability and flexibilty of operations has been developed over the past decade at ANL. Intended for use in new and upcoming high-power SRF-based cavity linacs, these couplers span a range of physical sizes from 40-80 mm, frequencies from 72 MHz to 1.4 GHz, and cw power handling requirements from a few kiloWatts up to 20 kW thus far. Most of these also incorporate the capability to adjust the coupler axially in order to optimize the Qext due to effects of, for example, beam loading and multipacting. Several particular issues of mechanical, thermal and electromagnetic design, many uncovered through extensive experimental testing, are discussed.
+
+ 
+
+
+
+
+
+
+Slides FRXBA03 [11.881 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRXBA04
+Analysis and Management of Microphonics in Operational SRF Cavities with Bandwidths of Approximately 10 Hz
+ 
+
+
+ 
+
+T. Powers
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177.
+Superconducting Radio Frequency Cavity detuning can be due to several effects. These effects include helium pressure variations, vibrations driven by external narrow band sources such as HVAC motors, cooling water systems, tuner motor operation, cryogenic system machinery, and occasionally cryogenic system instabilities such as thermo-acoustic oscillations. They can also be driven by broadband white or pink noise which, in general, will excite the resonant modes of the structure. All of these affect the cavity resonant frequency. Variations that occur at frequencies above a few tenths of a Hertz are considered microphonics. Jefferson Lab is the first lab to install and operate a large number of SRF cavities with relatively high loaded-Qs, 88 in CEBAF and 16 in the LERF. This work will focus on the approaches and measurements that one should consider when designing a system in order to understand the modal nature of the structure, the measurement techniques for determining the extent of the microphonics, and the mitigations that can be implemented in order to reduce the effects of outside perturbances. Examples of results at various other institutions will also be presented.
+
+ 
+
+
+
+
+
+
+Slides FRXBA04 [6.842 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

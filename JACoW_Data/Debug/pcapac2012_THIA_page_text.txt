@@ -1,0 +1,133 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: THIA (Status Report of Control System)
+
+
+THIA —  Status Report of Control System   (06-Dec-12   09:30—10:45)
+Chair: R. Bacher, DESY, Hamburg, Germany
+
+
+Paper
+Title
+Page
+
+
+
+THIA01
+Trombay Programmable Logic Controller TPLC-32
+ 
+
+
+ 
+
+U.W. Vaidya
+                       BARC, Mumbai, India
+
+ 
+
+
+ 
+
+Until recently Computer Based Safety and Safety-related Control and Instrumentation systems in Indian NPPs and other nuclear utilities were custom built embedded systems. This approach needs enormous development and verification & validation efforts. Further requirement change management during plant operation becomes intricate due to dependence on custom System Designer. Current scenario worldwide is development of such systems using Qualified Configurable, Programmable Platforms (PLCs) offering several advantages over custom built approach. Trombay Programmable Logic Controller TPLC-32 is one such qualified platform designed and developed in-house by Reactor Control Division, BARC. It facilitates configurable and programmable environment to build safety and safety related Control and Instrumentation Systems. TPLC-32 hardware is designed around 32 bit processor based in-house developed Single Board Computer on VME bus and intelligent Input/Output modules on proprietary I/O bus. The hardware design is carried out as per IEC60987 standard. The Platform software development is carried out following well documented, well controlled, fully reviewable software engineering process based on AERB SG-D25 guide and IEC 80880 standard including verification and validation by an independent team. The Application Development Environment (ADE) software package of TPLC-32 facilitates defining complete system configuration and application development in the form of function block diagrams based on IEC 61131-3 standards. Platform architecture, development process, platform salient features and C&I system developed using TPLC-32 platform will be discussed in the talk.
+
+ 
+
+
+
+
+
+
+Slides THIA01 [10.851 MB]
+            
+ 
+
+
+ 
+
+
+
+THIA02
+Current Status and Upgrade Plan of the Data-Acquisition System at SACLA
+90
+
+
+ 
+
+T. Sugimoto, A. Amselem, Y. Furukawa, T. Hirono, Y. Joti, T.K. Kameshima, A. Kiyomichi, T. Ohata, M. Yamaga
+                       JASRI/SPring-8, Hyogo-ken, Japan
+T. Abe, R. Tanaka
+                       RIKEN SPring-8 Center, Innovative Light Sources Division, Hyogo, Japan
+T. Hatsui, A. Tokuhisa
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+
+ 
+
+
+ 
+
+This paper presents current status and upgrade plan of a data-acquisition (DAQ) system for SACLA user experiments. The X-ray Free-Electron Laser facility in SPring-8, SACLA, has achieved first SASE lasing in June 2011, and has delivered X-ray laser beams to users from March 2012 [1]. For the user experiments at SACLA, a dedicated DAQ system has been developed. The DAQ system is currently capable to operate with maximum 10 sensors of multiport Charge-Coupled Device (MPCCD) for X-ray detection. With this configuration, the MPCCD generates 10 MBytes data per accelerator beam shot, which is equivalent to 5 Gbps data rate at 60 Hz beam repetition. During the first experimental period from March to July 2012, the DAQ system carried out 25 experimental proposals that covered atom, molecular and optical physics, ultrafast science, material science, and structure biology. In this paper, we present an overview of the DAQ system with special emphasis on the high-speed data cache, and data visualization by on-site PC clusters. An upgrade plan of the DAQ storage more than 3 PBytes and the on-line data-analysis with the off-site 10 PFlops supercomputer ("K computer") are also discussed.
+[1] T. Ishikawa et al., "A compact X-ray free-electron laser emitting in the sub-angstrom region", Nature Photonics 6, 540-544 (2012).
+
+ 
+
+
+
+
+
+
+Slides THIA02 [2.989 MB]
+            
+ 
+
+
+ 
+
+
+
+THIA03
+The IUAC Tandem-LINAC Control System
+94
+
+
+ 
+
+A. Kumar, B.K. Sahu, K. Singh
+                       IUAC, New Delhi, India
+
+ 
+
+
+ 
+
+The 16MV Tandem Van de Graff accelerator at IUAC is one of the earliest machines to go for a PC based control system. The PDP11, supplied with it, was replaced by an IBM PC running DOS before the accelerator was commissioned in 1989. The present system, commissioned in 1997 to include the LINAC, runs on a network of PCs under the GNU/Linux operating system. We have followed a distributed approach by grouping the signals, around 1000 in total, based on the location. Each group is connected to a server computer, by hardware interfaces like CAMAC, VME and custom hardware. The signals connected to each server PC are handled by a server program and they are accessible to the outside world, over a TCP/IP network, using a unique identifier consisting of a Label, Function and Unit. The features like a user interface, monitoring for alarm conditions, data logging and partial automation are handled by several client programs, communicating to multiple servers to access the hardware. The communication is done by passing a message packet and waiting for the reply. The message consists of the unique signal identifier and commands for setting/reading analog and digital parameter values. The development of the control system also resulted in low cost equipment for science education[1]. It also helped further development of the control system by additions like client programs in Python language. This feature enabled accelerator users to write simple scripts for tasks like setting the LINAC resonator parameters based on calculations, writing routines for partial automation etc. The system is cost effective, scalable and simple. It has shown very high reliability and ease of use during the past two decades of operation.
+[1] http://expeyes.inhttp://expeyes.in
+
+ 
+
+
+
+
+
+
+Slides THIA03 [4.121 MB]
+            
+ 
+
+
+ 
+
+
+
+

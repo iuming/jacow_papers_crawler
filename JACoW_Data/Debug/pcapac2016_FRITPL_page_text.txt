@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2016 - Table of Session: FRITPL (Management of IT Projects)
+
+
+FRITPL —  Management of IT Projects   (28-Oct-16   14:00—14:45)
+Chair: Y.-M. Abiven, SOLEIL, Gif-sur-Yvette, France
+
+
+Paper
+Title
+Page
+
+
+
+FRITPLCO01
+Continuous Integration and Continuous Delivery at FRIB
+145
+
+
+ 
+
+M.G. Konrad, D.G. Maxwell, G. Shen
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661
+Development of many software projects at FRIB follows an agile development approach. An important part of this practice is to make new software versions available to users frequently to get feedback in a timely manner. Unfortunately building, testing, packaging, and deploying software can be a time consuming and error prone process. We will present the processes and tools we use at FRIB to standardize and automate this process (mainly for C/C++/Java code and Debian Linux as a target). This includes use of a central code repository, a continuous integration server performing automatic builds and running automatic test, as well as automated software packaging. For each revision of the software in the code repository our continuous delivery pipeline automatically provides us with a software package that is ready to be released. The decision to deploy this new version of the software into our production environment is the only manual step remaining. The high degree of reproducibility as well as extensive automated tests allow us to release more frequently without jeopardizing the quality of our production systems.
+
+ 
+
+
+
+
+
+
+Slides FRITPLCO01 [1.256 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-FRITPLCO01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRITPLCO02
+Experience, Best Practices, Trends and Path Taken in the Field of Control System Integration
+ 
+
+
+ 
+
+R. Modic
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+The talk presents the experience, best practices, trends and path Cosylab has taken in the field of Control System integration to serve the accelerator community, improve standardization, deliver turn-key solutions and streamline services. The presentation would traverse control system platforms as EPICS, TANGO, LabVIEW and put the aspect of timing in the spotlight. As Accelerator timing binds to many ACC components it also orchestrates device responses and their interplay. It has intrinsic role of machine "heart beat". Several real projects and use-cases will be presented utilizing White Rabbit, MRF and customized platforms to achieve machine behavior. An applicable "cocktail" of HW platforms, our architectural and functional experiences, specific challenges and pit-falls, long term support and EOL, maturity considerations shall be conducted. Real cases where concurrent operation modes, beam synchronous acquisition, dynamic timing reconfiguration is needed will be elaborated. Contribution can serve as an overview and de-mystifier of timing-related challenges.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRITPLCO04
+Experience Gained during the Commissioning of the Undulator Control System at the European XFEL
+148
+
+
+ 
+
+S. Karabekyan, S. Abeghyan, J. Pflüger, M. Yakopov
+                       XFEL. EU, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL is a fourth-generation light source, which will start the operation in spring 2017. Three undulator systems - SASE 1, SASE 2 and SASE 3 - will be used to produce photon beams. For operation of all undulator systems, a total amount of 91 undulators have been produced and commissioned. SASE 1 and SASE 3 undulator systems, consisting of total 56 undulator cells, have been installed and prepared for the operation in the tunnel in spring and summer 2016. SASE 2 will be installed by the end of 2016. This paper describes the commissioning process of the whole undulator control system and reports about the experience gained over the entire duration of undulator control system commissioning.
+
+ 
+
+
+
+
+
+
+Slides FRITPLCO04 [5.155 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-FRITPLCO04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

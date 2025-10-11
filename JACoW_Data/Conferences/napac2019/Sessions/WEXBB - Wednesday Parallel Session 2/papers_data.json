@@ -1,0 +1,41 @@
+{
+  "session_info": {
+    "id": "WEXBB",
+    "name": "WEXBB - Wednesday Parallel Session 2",
+    "url": "https://proceedings.jacow.org/napac2019/html/wexbb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEXBB1",
+      "title": "Adaptive Machine Learning and Automatic Tuning of Intense Electron Bunches in Particle Accelerators",
+      "authors": [
+        "LANL",
+        "Los Alamos",
+        "New Mexico",
+        "USA",
+        "Machine learning and in particular neural networks",
+        "have been around for a very long time. In recent years",
+        "thanks to growth in computing power",
+        "neural networks have reshaped many fields of research",
+        "including self driving cars",
+        "computers playing complex video games",
+        "image identification",
+        "and even particle accelerators. In this tutorial",
+        "I will first present an introduction to machine learning for beginners and will also touch on a few aspects of adaptive control theory. I will then introduce some problems in particle accelerators and present how they have been approached utilizing machine learning techniques as well as adaptive machine learning approaches",
+        "for automatically tuning extremely short and high intensity electron bunches in free electron lasers."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/napac2019/talks/wexbb1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2019/papers/wexbb1.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2019/posters/wexbb1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2019-WEXBB1",
+      "page_number": "609",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-11 00:52:00"
+}

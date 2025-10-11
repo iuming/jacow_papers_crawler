@@ -1,0 +1,91 @@
+{
+  "session_info": {
+    "id": "MOIOC",
+    "name": "MOIOC - Basic R&D Bulk Niobium - Theory, calculation",
+    "url": "https://proceedings.jacow.org/SRF2013/html/moioc.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOIOC01",
+      "title": "Heat Transfer at the Interface Between Niobium and Liquid Helium for 6 GHz SRF Cavities",
+      "authors": [
+        "INFN/LNL",
+        "Legnaro (PD)",
+        "Italy",
+        "Cavity Thermal Boundary Resistance is something extremely complex and not completely understood by the theory. Often identified with the Kapitza resistance or with the Khalatnikov acoustic phonon mismatch at the interface metal-liquid Helium",
+        "it depends on so many different and uncontrolled parameters",
+        "that its interpretation is not covered by a complete treatise of the phenomenon. Therefore",
+        "99% of the literature on superconducting cavities worries about the cavity interior surface state",
+        "while almost nothing is reported on treatments applied to the exterior. In the authors opinion",
+        "there is a lack in experimental data analysis due to the fact that the cavity is often considered as a whole adiabatic entity interacting only with RF fields. On the contrary",
+        "the cavity is immersed in liquid Helium and the cavity behavior cannot prescind from its thermal properties. Indeed in the normal state He-I has poor thermal conductivity and high specific heat. Moreover the heat exchange at HeII obeys to further mechanisms besides the phonon mismatch. Driven by the hypothesis that thermal losses are dominant for ultraclean cavities",
+        "we have collected a plethora of surprising experimental results."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SRF2013/talks/moioc01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SRF2013/papers/moioc01.pdf",
+      "poster_url": "https://proceedings.jacow.org/SRF2013/posters/moioc01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2013-MOIOC01",
+      "page_number": "57",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOIOC02",
+      "title": "A New First-Principles Calculation of Field-Dependent RF Surface Impedance of BCS Superconductor",
+      "authors": [
+        "B. P. Xiao",
+        "C.E. Reece",
+        "JLab",
+        "Newport News",
+        "Virginia",
+        "USA",
+        "BNL",
+        "Upton",
+        "Long Island",
+        "New York",
+        "USA",
+        "There is a need to understand the intrinsic limit of RF surface impedance that determines the performance of superconducting RF cavities in particle accelerators. Here we present a field-dependent derivation of Mattis-Bardeen theory of the RF surface impedance of BCS superconductors",
+        "based on the shifted density of states resulting from coherently moving Cooper pairs. Our theoretical prediction of the effective BCS RF surface resistance of niobium as a function of peak surface magnetic field amplitude agrees well with recently reported record low loss resonant cavity measurements from JLab and Fermi Lab with carefully prepared niobium material. The surprising reduction in resistance with increasing field is explained to be an intrinsic effect."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SRF2013/talks/moioc02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SRF2013/papers/moioc02.pdf",
+      "poster_url": "https://proceedings.jacow.org/SRF2013/posters/moioc02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2013-MOIOC02",
+      "page_number": "63",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOIOC03",
+      "title": "Density-Functional Theory Calculations Relevant to Hydride Formation and Prevention",
+      "authors": [
+        "Fermilab",
+        "Batavia",
+        "USA",
+        "Chemical impurities such as hydrogen",
+        "oxygen",
+        "nitrogen",
+        "and carbon atoms can be absorbed into niobium during processing treatments applied to SRF cavities and affect the performance of the cavities. These impurities may reside in niobium lattice interstices and lower the superconducting transition temperature of the niobium or form precipitates with properties that differ from niobium. Of particular concern is the formation of hydride precipitates which may be relevant to Q-disease and Q-slope. A first principles approach is taken to study the properties of chemical impurities in niobium",
+        "with particular focus given to the prevention of detrimental niobium hydride precipitation."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SRF2013/talks/moioc03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SRF2013/papers/moioc03.pdf",
+      "poster_url": "https://proceedings.jacow.org/SRF2013/posters/moioc03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2013-MOIOC03",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-11 04:11:46"
+}

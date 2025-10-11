@@ -1,0 +1,514 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WEMPR (Mini-Oral)
+
+
+WEMPR —  Mini-Oral   (09-Oct-19   17:30—18:00)
+Chair: L.M. Russo, LNLS, Campinas, Brazil
+
+
+Paper
+Title
+Page
+
+
+
+WEMPR001
+Data Analysis Infrastructure for Diamond Light Source Macromolecular & Chemical Crystallography and Beyond
+1031
+
+
+WEPHA094
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Gerstel, A. Ashton, R.J. Gildea, K. Levik, G. Winter
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+The Diamond Light Source data analysis infrastructure, Zocalo, is built on a messaging framework. Analysis tasks are processed by a scalable pool of workers running on cluster nodes. Results can be written to a common file system, sent to another worker for further downstream processing and/or streamed to a LIMS. Zocalo allows increased parallelization of computationally expensive tasks and makes the use of computational resources more efficient. The infrastructure is low-latency, fault-tolerant, and allows for highly dynamic data processing. Moving away from static workflows expressed in shell scripts we can easily re-trigger processing tasks in the event that an issue is found. It allows users to re-run tasks with additional input and ensures that automatically and manually triggered processing results are treated equally. Zocalo was originally conceived to cope with the additional demand on infrastructure by the introduction of Eiger detectors with up to 18 Mpixels and running at up to 560 Hz framerate on single crystal diffraction beamlines. We are now adapting Zocalo to manage processing tasks for ptychography, tomography, cryo-EM, and serial crystallography workloads.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPR001
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPR003
+Exploring Embedded Systems’ Dedicated Cores for Real-Time Applications
+1036
+
+
+WEPHA107
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+P.H. Nallin, J.G.R.S. Franco, R.C. Ito, A.R.D. Rodrigues
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Developments and research in high technology leads to powerful and sophisticated machines which are highly important for many scientific fields. Considering real-time applications, however, these systems tend to become non-deterministic and users may find themselves inside a not completely controllable environment. Exploring open-hardware single board computers with a system-on-a-chip which usually runs an operational system on their main processor(s) and also have real-time units is a good alternative. These real-time units are designed as a microcontroller embedded on the chip where a firmware is loaded, runs concomitantly and exchanges data with the main system. As a result, it is possible to achieve performance increase, high temporal resolution and low latency and jitter, features that are widely desired for controls and critical data acquisition systems. This system architecture allows moving real-time data into high level servers, such as Redis (Remote Dictionary Server) and EPICS, easily. This paper introduces and shows uses of Beaglebone Black, an inexpensive single-board computer, its Programmable Real-Time Units (PRUs) and data sharing with Redis data structure.
+
+ 
+
+
+
+
+
+
+Poster WEMPR003 [6.128 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPR003
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 18 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPR004
+Why Should You Invest in Asset Management? A Fire and Gas Use Case
+1041
+
+
+WEPHA109
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+H. Nissen, S. Grau
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+At present, the CERN Fire and Gas detection systems involve about 22500 sensors and their number is increasing rapidly at the same time as the number of equipped installations grows up. These assets cover a wide spectrum of technologies, manufacturers, models, parameters, and ages, reflecting the 60 years of CERN history. The use of strict rules and data structures in the declaration of the assets can make a big impact on the overall system maintainability and therefore on the global reliability of the installation. Organized assets data facilitates the creation of powerful reports that help asset owners and management address material obsolescence and end-of-life concerns with a global perspective Historically preventive maintenance have been used to assure the correct function of the installations. With modern supervision systems, a lot of data is collected and can be used to move from preventive maintenance towards data driven maintenance (predictive). Moreover it optimizes maintenance cost and increase system availability while maintaining reliability. A prerequisite of this move is a coherence on the assets defined in the asset management system and in the supervision system.
+
+ 
+
+
+
+
+
+
+Poster WEMPR004 [0.675 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPR004
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPR005
+The Array Control and Data Acquisition System of the Cherenkov Telescope Array
+1046
+
+
+WEPHA117
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+I. Oya, E. Antolini, M. Fuessling
+                       CTA, Heidelberg, Germany
+L. Baroncelli, A. Bulgarelli, V. Conforti, N. Parmiggiani
+                       INAF, Bologna, Italy
+J. Borkowski
+                       CAMK, Torun, Poland
+A. Carosi, J.N. Jacquemier, G. Maurin
+                       IN2P3-LAPP, Annecy-le-Vieux, France
+J. Colome
+                       CSIC-IEEC, Bellaterra, Spain
+C. Hoischen
+                       Universität Potsdam, Potsdam-Golm, Germany
+E. Lyard, R. Walter
+                       University of Geneva, Geneva, Switzerland
+D. Melkumyan, K. Mosshammer, I. Sadeh, T. Schmidt, P.A. Wegner
+                       DESY Zeuthen, Zeuthen, Germany
+U. Schwanke
+                       Humboldt University Berlin, Institut für Physik, Berlin, Germany
+J. Schwarz
+                       INAF-Osservatorio Astronomico di Brera, Merate, Italy
+G. Tosti
+                       Università degli di Perugia, Perugia, Italy
+
+ 
+
+
+ 
+
+The Cherenkov Telescope Array (CTA) project is the initiative to build the next-generation gamma-ray observatory. With more than 100 telescopes planned to be deployed in two sites, CTA is one of the largest astronomical facilities under construction. The Array Control and Data Acquisition (ACADA) system will be the central element of on-site CTA Observatory operations. The mission of the ACADA system is to manage and optimize the telescope array operations at each of the CTA sites. To that end, ACADA will provide all necessary means for the efficient execution of observations, and for the handling of the several Gb/s generated by each individual CTA telescope. The ACADA system will contain a real-time analysis pipeline, dedicated to the automatic generation of science alert candidates based on the inspection of data being acquired. These science alerts, together with external alerts arriving from other scientific installations, will permit ACADA to modify ongoing observations at sub-minute timescales in order to study high-impact scientific transient phenomena. This contribution describes the challenges, architecture, design principles, and development status of the ACADA system.
+
+ 
+
+
+
+
+
+
+Poster WEMPR005 [3.851 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPR005
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPR006
+Application Development in the Face of Evolving Web Technologies at the National Ignition Facility
+1052
+
+
+WEPHA118
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+E.R. Pernice, C.R. Albiston, R.G. Beeler, E.H. Chou, C.D. Fry, M. Shor, J.L. Spears, D.E. Speck, A.A. Thakur, S.L. West
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344
+The past decade has seen great advances in web technology, making the browser the de-facto platform for many user applications. Advances in JavaScript, and innovations such as TypeScript, have enabled developers to build large scale applications for the web without sacrificing code maintainability. However, this rapid growth has also been accompanied by turbulence. AngularJS arrived and saw widespread adoption only to be supplanted by Angular 2+ a few years later; meanwhile other JavaScript-based languages and developer tools have proliferated. At the National Ignition Facility (NIF), the Shot Setup Tool (SST) is a large web-based tool for configuring experiments on the NIF that is being developed to replace legacy Java Swing application. We will present our experience in building SST during this turbulent time, including how we have leveraged TypeScript to greatly enhance code readability and maintainability in a multi-developer team, and our current effort to incrementally migrate from AngularJS to React.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPR006
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPR008
+Web Extensible Display Manager 2
+1057
+
+
+WEPHA146
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+R.J. Slominski, T.L. Larrieu
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177
+The Web Extensible Display Manager (WEDM) was first deployed at Jefferson Lab (JLab) in 2016 with the goal of rendering Extensible Display Manager (EDM) control screens on the web for the benefit of accessibility, and with version 2 our aim is to provide a more general purpose display toolkit by freeing ourselves from the constraints of the EDM dependency. Over the last few years WEDM has been extensively used at JLab for 24/7 information kiosks, on-call monitoring, and by remote users and staff. The software has also been deployed to Oak Ridge National Laboratory, and has become more robust as many bug fixes and contributions have been added. However, adoption and utility of the software as a general purpose control system display manager is limited by EDM, which is no longer actively maintained. A new toolkit can be built on modern frameworks, fully embrace web conventions and standards, and support multiple control system data sources. This new version is a result of a technology review and selection, and introduces a web inspired display file format, a web based display builder, new widgets, and a data interface intended to support pluggable data.
+
+ 
+
+
+
+
+
+
+Poster WEMPR008 [1.293 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPR008
+
+ 
+
+
+About •
+paper received ※ 24 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPR009
+Development of Event Receiver on Zynq-7000 Evaluation Board
+1063
+
+
+WEPHA149
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+H. Sugimura
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The timing system of SuperKEKB accelerator is used Event Timing System developed by Micro Research Finland. In this presentation, we tested the receiver on Zynq7000 evaluation board. The serialized event data are transferred from Event Generator to Event Receiver by using GTX transceiver. So, we selected Zynq7000(7z030) as receiver, because the FPGA has the GTX. And also, Zynq is mounted on arm processor, it is easily able to control received event data stream by using EPICS ICO. Finally we are aiming to combine event system and RF or BPM system in one FPGA board.
+
+ 
+
+
+
+
+
+
+Poster WEMPR009 [0.572 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPR009
+
+ 
+
+
+About •
+paper received ※ 17 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPR010
+Anomaly Detection for CERN Beam Transfer Installations Using Machine Learning
+1066
+
+
+WEPHA155
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+T. Dewitte, W. Meert, E. Van Wolputte
+                       Katholieke Universiteit Leuven, Leuven, Belgium
+P. Van Trappenpresenter
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Reliability, availability and maintainability determine whether or not a large-scale accelerator system can be operated in a sustainable, cost-effective manner. Beam transfer equipment (e.g. kicker magnets) has potentially significant impact on the global performance of a machine complex. Identifying root causes of malfunctions is currently tedious, and will become infeasible in future systems due to increasing complexity. Machine Learning could automate this process. For this purpose a collaboration between CERN and KU Leuven was established. We present an anomaly detection pipeline which includes preprocessing, detection, postprocessing and evaluation. Merging data of different, asynchronous sources is one of the main challenges. Currently, Gaussian Mixture Models and Isolation Forests are used as unsupervised detectors. To validate, we compare to manual e-logbook entries, which constitute a noisy ground truth. A grid search allows for hyper-parameter optimization across the entire pipeline. Lastly, we incorporate expert knowledge by means of semi-supervised clustering with COBRAS.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPR010
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

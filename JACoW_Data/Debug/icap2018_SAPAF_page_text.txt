@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2018 - Table of Session: SAPAF (Saturday Parallel Fiesta Key)
+
+
+SAPAF —  Saturday Parallel Fiesta Key   (20-Oct-18   14:00—15:45)
+
+
+
+Paper
+Title
+Page
+
+
+
+SAPAF01
+Genetic Algorithm Enhanced by Machine Learning in Dynamic Aperture Optimization
+8
+
+
+ 
+
+Y. Li, W.X. Cheng, R.S. Rainer, L. Yu
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by Department of Energy Contract No. DE-SC0012704
+With the aid of machine learning techniques, the genetic algorithm has been enhanced and applied to the multi-objective optimization problem presented by the dynamic aperture of the NSLS-II Ring. During the evolution employed by the genetic algorithm, the population is classified into different clusters. The clusters with top average fitness are given elite status. Intervention is implemented by repopulating some potentially competitive candidates based on the accumulated data. These candidates replace randomly selected candidates among the original data pool. The average fitness of the population is improved while diversity is not lost. The quality of the population increases and produces more competitive descendants accelerating the evolution process significantly. When identifying the distribution of optimal candidates, they appear to be located in isolated islands within the search space. Some of these optimal candidates have been experimentally confirmed at the NSLS-II storage ring. The machine learning techniques that exploit the genetic algorithm can also be used in other population-based optimization problems such as particle swarm algorithm.
+
+ 
+
+
+
+
+
+
+Slides SAPAF01 [6.696 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SAPAF01
+
+ 
+
+
+About •
+paper received ※ 15 October 2018       paper accepted ※ 24 October 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SAPAF02
+Optimization of Heavy-Ion Synchrotrons Using Nature-Inspired Algorithms and Machine Learning
+15
+
+
+ 
+
+S. Appel, W. Geithner, S. Reimann, M. Sapinski, R. Singh, D.M. Vilsmeier
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The application of machine learning and nature-inspired optimization methods, like for example genetic algorithms (GA) and particle swarm optimization (PSO) can be found in various scientific/technical areas. In recent years, those approaches are finding application in accelerator physics to a greater extent. In this report, nature-inspired optimization as well as the machine learning will be shortly introduced and their application to the accelerator facility at GSI/FAIR will be presented. For the heavy-ion synchrotron SIS18 at GSI, the multi-objective GA/PSO optimization resulted in a significant improvement of multi-turn injection performance and subsequent transmission for intense beams. An automated injection optimization with genetic algorithms at the CRYRING@ESR ion storage ring has been performed. The usage of machine learning for a beam diagnostic application, where reconstruction of space-charge distorted beam profiles from ionization profile monitors is performed, will also be shown. First results and the experience gained will be presented.
+
+ 
+
+
+
+
+
+
+Slides SAPAF02 [2.642 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SAPAF02
+
+ 
+
+
+About •
+paper received ※ 16 October 2018       paper accepted ※ 27 January 2019        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SAPAF03
+Comparison of Model-Based and Heuristic Optimization Algorithms Applied to Photoinjectors Using Libensemble
+22
+
+
+ 
+
+N.R. Neveu
+                       IIT, Chicago, Illinois, USA
+S. T. P. Hudson, J.M. Larson
+                       ANL, Argonne, Illinois, USA
+L.K. Spentzouris
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: U.S. DOE, OS, contract DE-AC02-06CH11357 and grant DE-SC0015479.
+Genetic algorithms are common and often used in the accelerator community. They require large amounts of computational resources and empirical adjustment of hyperparameters. Model based methods are significantly more efficient, but often labeled as unreliable for the nonlinear or unsmooth problems that can be found in accelerator physics. We investigate the behavior of both approaches using a photoinjector operated in the space charge dominated regime. All optimization runs are coordinated and managed by the Python library libEnsemble, which is developed at Argonne National Laboratory.
+
+ 
+
+
+
+
+
+
+Slides SAPAF03 [0.653 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SAPAF03
+
+ 
+
+
+About •
+paper received ※ 11 November 2018       paper accepted ※ 19 November 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SAPAF04
+Single Objective Genetic Optimization of an 85% Efficient Klystron
+25
+
+
+ 
+
+A. Jensen, J.J. Petillo
+                       Leidos Corp, Billerica, MA, USA
+R.L. Ives, M.E. Read
+                       CCR, San Mateo, California, USA
+J. Neilson
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Overall efficiency is a critical priority for the next generation of particle accelerators as they push to higher and higher energies. In a large machine, even a small increase in efficiency of any subsystem or component can lead to a significant operational cost savings. The Core Oscillation Method (COM) and Bunch-Align-Compress (BAC) method have recently emerged as a means to greatly increase the efficiency of the klystron RF source for particle accelerators. The COM and BAC methods both work by uniquely tuning klystron cavity frequencies such that more particles from the anti-bunch are swept into the bunch before power is extracted from the beam. The single objective genetic algorithm from Sandia National Laboratory’s Dakota optimization library is used to optimize both COM and BAC based klystron designs to achieve 85% efficiency. The COM and BAC methods are discussed. Use of the Dakota optimization algorithm library from Sandia National Laboratory is discussed. Scalability of the optimization approach to High Performance Computing (HPC) is discussed. The optimization approach and optimization results are presented.
+
+ 
+
+
+
+
+
+
+Slides SAPAF04 [1.476 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SAPAF04
+
+ 
+
+
+About •
+paper received ※ 16 October 2018       paper accepted ※ 19 November 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

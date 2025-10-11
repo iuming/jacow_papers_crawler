@@ -1,0 +1,66 @@
+{
+  "session_info": {
+    "id": "WEOBB",
+    "name": "WEOBB - Contributed Oral Presentations, Industrial Accelerators and Applications",
+    "url": "https://proceedings.jacow.org/PAC2013/html/weobb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEOBB1",
+      "title": "Development of THz-TDS System on the Basis of the S-band Compact Electron Linac",
+      "authors": [
+        "AIST",
+        "Tsukuba",
+        "Ibaraki",
+        "Japan",
+        "The terahertz (THz) radiation is a useful tool for progressing on security field. Especially",
+        "THz time-domain spectroscopy (THz-TDS) has recently emerged as a powerful probe for the investigation of various dangerous materials such as explosives. A high power THz source has been developed on the basis of the S-band compact electron linac at AIST. The THz pulse is generated with coherent radiation using ultra-short electron bunch with bunch length of less than 0.5 ps (rms) and energy of around 40 MeV. The THz pulse is detected by Electro-Optical (EO) sampling method with a ZnTe crystal like the pump-probe technique. The THz temporal waveform can be measured using the probe laser. The spectrum and the phase information of the sample is calculated by the Fourier Transform of the obtained waveform. In this conference",
+        "we will talk about details of our system and results of THz-TDS experiments."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/weobb1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/weobb1.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/weobb1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-WEOBB1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEOBB2",
+      "title": "Development of a Time-tagged Neutron Source for Imaging with Enhanced Spatial Resolution",
+      "authors": [
+        "T. Schenkel",
+        "Q. Ji",
+        "B.A. Ludewigt",
+        "W.L. Waldron",
+        "LBNL",
+        "Berkeley",
+        "California",
+        "USA",
+        "Associate particle imaging (API) is an active interrogation method for neutron based imaging of materials. Energetic alpha particles are emitted in kinematic correlation with neutrons in DT fusion reactions",
+        "forming a virtual neutron beam. When alphas are detected in a position sensitive detector and their arrival time is also recorded then time tagged neutrons can be used for 3D imaging e. g. of concealed objects in a transmission geometry or through detection of a prompt gamma ray. The imaging resolution in API systems is often limited by the area from which neutron originate. This area is determined by the spot size of a mixed D+ and T+ ion beam. We have adapted microwave driven ion sources (permanent magnets",
+        "2.45 GHz) for the efficient production of hydrogen ions (all isotopes) with high current density (50 to 100 mA/cm2) and high fractions of atomic ions [1]. The high current density allows us to extract ions with small apertures and form beam spots on the neutron production target of less than 1 mm in diameter. In our presentation we will describe the API principle and report our results on the development of an API system with high spatial resolution.",
+        "[1] Q. Ji",
+        "AIP Conf. Proc. Vol 1336",
+        "528-532 (2011)."
+      ],
+      "institutions": [
+        "Funding: Work supported by DOE, Office of Nonproliferation & Verification R&D and performed under the auspices of the U. S. DOE by LBNL under contract No. DE-AC02-05CH11231."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/weobb2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/weobb2.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/weobb2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-WEOBB2",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 01:45:50"
+}

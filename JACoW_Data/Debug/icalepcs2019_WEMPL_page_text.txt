@@ -1,0 +1,535 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WEMPL (Mini-Oral)
+
+
+WEMPL —  Mini-Oral   (09-Oct-19   17:30—18:00)
+Chair: S.M. Hartman, FEL/Duke University, Durham, North Carolina, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEMPL001
+An Application of Machine Learning for the Analysis of Temperature Rise on the Production Target in Hadron Experimental Facility at J-PARC
+992
+
+
+WEPHA003
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+K. Agari, H. Akiyama, Y. Morino, Y. Sato, A. Toyoda
+                       KEK, Tsukuba, Japan
+
+ 
+
+
+ 
+
+Hadron Experimental Facility (HEF) is designed to handle an intense slow-extraction proton beam from the 30 GeV Main Ring (MR) of Japan Proton Accelerator Research Complex (J-PARC). Proton beams of 5·1013 protons per spill during 2 seconds in the 5.2 seconds accelerator operating cycle were extracted from MR to HEF in the 2018 run. In order to evaluate soundness of the target, we have analyzed variation of temperature rise on the production target, which depends on the beam conditions on the target. Predicted temperature rise is calculated from the existing data of the beam intensity, the spill length (duration of the beam extraction) and the beam position on the target, using a linear regression analysis with a machine learning library, Scikit-learn. As a result, the predicted temperature rise on the production target shows good agreement with the measured one. We have also examined whether the present method of the predicted temperature rise from the existing data can be applied to unknown data in the future runs. The present paper reports the status of the measurement system of temperature rise on the target with machine learning in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPL001
+
+ 
+
+
+About •
+paper received ※ 28 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPL002
+Project Nheengatu: EPICS support for CompactRIO FPGA and LabVIEW-RT
+997
+
+
+WEPHA005
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D. Alnajjar, G.S. Fedel, J.R. Piton
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+A novel solution for integrating EPICS with Compact RIO (cRIO), the real-time embedded industrial controllers by National Instruments (NI), is proposed under the name Nheengatu (NHE). The cRIO controller, which is equipped with a processor running a real-time version of Linux (LinuxRT) and a Xilinx Kintex FPGA, is extremely powerful for control systems since it can be used to program real-time complex data processing and fine control tasks on both the LinuxRT and the FPGA. The proposed solution enables the control and monitoring of all tasks running on LinuxRT and the FPGA through EPICS. The devised solution is not limited to any type of cRIO module. Its architecture can be abstracted into four groups: FPGA and LabVIEW-RT interface blocks, the Nheengatu library, Device Support and IOC. The Nheengatu library, device support and IOC are generic - they are compiled only once and can be deployed on all cRIOs available. Consequently, a setup-specific configuration file is provided to the IOC upon instantiation. The configuration file contains all data for the devised architecture to configure the FPGA and to enable communication between EPICS and the FPGA/LabVIEW-RT interface blocks.
+
+ 
+
+
+
+
+
+
+Poster WEMPL002 [0.565 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPL002
+
+ 
+
+
+About •
+paper received ※ 14 September 2019       paper accepted ※ 02 October 2020        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPL004
+Inception of a Learning Organization to Improve SOLEIL’s Operation
+1001
+
+
+WEPHA022
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A. Buteau, G. Abeillé, X. Delétoille, J.-F. Lamarre, T. Marion, L.S. Nadolski
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+High quality of service is SOLEIL is a key mission since 2007. Historically operation processes and information systems have been defined mostly on the fly by the different teams all along the synchrotron’s journey. Some major outcomes are a limited cross-teams collaboration and a slow learning organization. Consequently, we are currently implementing a holistic approach with common operational processes upon a shared information system. Our first process is "incident management"; an incident is an unplanned disruption or degradation of service. We have tackled incident management for IT* in 2015, then for the accelerators since January 2018. We are starting to extend it to beamlines since beginning 2019. As a follow-up, we will address the "problem management" process (a problem is the cause of one or more incidents) and the creation of a knowledge base for the operation. By implementing those processes, the culture of continuous improvement is slowly spreading, in particular by driving blameless incident and problem analysis. This paper will present the journey we have been through including our results, improvements and difficulties of implementing this new way of thinking.
+*ICALEPCS 2015: MOPGF150
+
+ 
+
+
+
+
+
+
+Poster WEMPL004 [3.293 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPL004
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 20 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPL005
+A Technology Downselection for SKA User Interface Generator
+1006
+
+
+WEPHA024
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Canzari, M. Dolci
+                       INAF - OA Teramo, Teramo, Italy
+V. Alberti
+                       INAF-OAT, Trieste, Italy
+F. Bolmsten, V.H. Hardion, H. Petri
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+P. Klaassen, M. Nicol, S. Williams
+                       ROE, UTAC, Edinburgh, United Kingdom
+H. Ribeiro
+                       Universidade do Porto, Faculdade de Ciências, Porto, Portugal
+S. Valame
+                       PSL, Pune, India
+
+ 
+
+
+ 
+
+The Square Kilometre Array (SKA) project is an international collaboration aimed to design and build the world’s largest radio telescope, composed of thousands of antennae and related support systems, with over a square kilometre of collecting area. In order to ensure proper and uninterrupted operation of SKA, the role of the operator at the control room is crucial and the User Interface is the main tool that the operator uses to control and monitor the telescope. During the current bridging phase, a user interface generator has been prototyping. It aims to provide a tool for UI developer to create an own engineeristic user interface compliant with SKA User Interface Design Principle and operator and stakeholder needs. A technology downselection has been made in order to evaluate different web-solution based on TANGO.
+
+ 
+
+
+
+
+
+
+Poster WEMPL005 [1.422 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPL005
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 20 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPL006
+The Miniscule ELT Control Software: Design, Architecture and HW integration
+1010
+
+
+WEPHA043
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C. Diaz Cano, R. Abuter, T.R. Grudzien, N. Kornweibel, J. Sagatowski, H. Tischer
+                       ESO, Garching bei Muenchen, Germany
+
+ 
+
+
+ 
+
+Funding: E.S.O.
+This paper presents the development of the Miniscule ELT (MELT) Control Software. MELT is an optical test bench with a turbulence generator, whose main objective is to deploy and validate key functionalities of central control system and the Wavefront control strategies on the Extremely Large Telescope (ELT) during AIV/commissioning and operation phase. The subsystems under control are: a segmented primary mirror, a secondary mirror on a hexapod, an adaptive fourth mirror, a fast tip/tilt mirror, phasing sensor, a light source, a Wavefront sensor, a IR camera, together with their control interfaces that emulate the ELT conditions. The Core Integration Infrastructure will be deployed to MELT for their verification and testing strategy, producing feedback to their requirements and design. This paper describes the Control SW distributed architecture, communication patterns, user interfaces and SW infrastructure. The control algorithms are being developed separately and will be integrated into the control loop via MATLAB scripts.
+*MELT - An optomechanical emulation testbench for ELT wavefront control and phasing strategy
+
+ 
+
+
+
+
+
+
+Poster WEMPL006 [20.614 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPL006
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 03 October 2020        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPL007
+EPICS Controlled Wireless Sensors
+1015
+
+
+WEPHA173
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M.T. Rolland
+                       Stony Brook University, Computer Science Department, Stony Brook, New York, USA
+K.J. Gofronpresenter
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+At the trade-off of power, wireless technologies are much more portable and convenient than their wired counterparts. This is especially true in the scientific sphere, where many environmental factors must be recorded at all times at as many locations as possible. Using these technologies, scientists can often reduce cost while maximizing the number of sensors without compromising sensor quality. To this end, we have developed EPICS controllers for both Bluetooth Low Energy (BLE) sensors and XBee ZigBee sensors. For BLE, we chose the Nordic Thingy:52 for its low cost, high battery life, and impressive range of sensors. The controller we developed combines EPICS base functions, the Bluetooth generic attribute data structure library, and multithreading techniques to enable real-time broadcast of the Thingy’s 20+ sensors’ live values. Because BLE is limited in range, we also developed a controller for the XBee sensor which, through the ZigBee mesh protocol, can expand its range through each node added into the network. With these controllers, NSLS-II scientists will have access to a whole new class of sensors which are both easier to deploy and cheaper than their wired predecessors.
+
+ 
+
+
+
+
+
+
+Slides WEMPL007 [1.569 MB]
+        
+ 
+
+
+
+
+
+
+Poster WEMPL007 [1.589 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPL007
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPL008
+The MAX IV Way of Agile Project Management for the Control System
+1020
+
+
+WEPHA061
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+V.H. Hardion, M. Lindberg, D.P. Spruce
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+Projects management of synchrotron is both complicated and complex. Building scientific facilities are resource consuming although largely made out of standard and well known components. The industrial approach of project management resolves this complication by requiring analysis and planning to facilitate the execution of tasks. The complexity comes by all the research making unique the accelerators, the beamlines and its usage. Known unknown requires experiments which evolve continuously causing the development path to be naturally iterative. Agile project management has come a long way since its definition in 2001. Nowadays this method is ubiquitous in the software development industry following different implementation like Scrum or XP and started to evolve at a bigger scale (i.e Scaled Agile) applied within an entire organization. The versatility of the Agile method has been applied to a Scientific technical development program such as the MAX IV Laboratory control system. This article describes the experience of 7 years of Agile project management and the use of Lean Management principles to develop and maintain the control system.
+
+ 
+
+
+
+
+
+
+Slides WEMPL008 [1.834 MB]
+        
+ 
+
+
+
+
+
+
+Poster WEMPL008 [0.959 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPL008
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEMPL009
+Tracking APS-U Production Components With the Component Database and eTraveler Applications
+1026
+
+
+WEPHA072
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D.P. Jarosz, N.D. Arnold, J. Carwardine, G. Decker, N. Schwarz, G. Shen, S. Veseli
+                       ANL, Lemont, Illinois, USA
+D. Liu
+                       Osprey DCS LLC, Ocean City, USA
+
+ 
+
+
+ 
+
+Funding: Argonne National Laboratory’s work was supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under contract DE-AC02-06CH11357
+The installation of the APS-U has a short schedule of one year, making it imperative to be well prepared before the installation process begins. The Component Database (CDB) has been designed to help in documenting and tracking all the components for APS-U. Two new major domains, Machine Design domain and Measurement and Analysis Archive (MAARC) domain, have been added to CDB to further its ability in exhaustively documenting components. The Machine Design domain will help define the purpose of all the components in the APS-U design and the MAARC domain allows association of components with collected data. The CDB and a traveler application from FRIB have been integrated to help with documenting various processes performed, such as inspections and maintenance. Working groups have been formed to define appropriate work flow processes for receiving components, using the tools to document receiving inspection and QA requirements. The applications are under constant development to perform as expected by the working groups. Over some time, especially after production procurement began, the CDB has seen more and more usage in order to aid in preparation for the APS-U installation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WEMPL009
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

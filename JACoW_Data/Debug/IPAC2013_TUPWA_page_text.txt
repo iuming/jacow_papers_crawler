@@ -1,0 +1,1302 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2013 - Table of Session: TUPWA (Poster Session)
+
+
+TUPWA —  Poster Session   (14-May-13   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPWA003
+Beam Based Magnet Alignment for Emittance Coupling Minimization
+1724
+
+
+ 
+
+R.T. Dowd, G. LeBlanc, Y.E. Tan
+                       ASCo, Clayton, Victoria, Australia
+K.P. Wootton
+                       The University of Melbourne, Melbourne, Australia
+
+ 
+
+
+ 
+
+Magnet misalignments give rise to field terms which can cause coupling between the horizontal and vertical beam motion and therefore emittance coupling. A series of beam based measurements have been developed at the Australian Synchrotron to accurately quantify quadrupole and sextupole alignments errors which cause coupling and where possible, correct them. Results showing an reduction in emittance coupling due to realignments of magnets based on these measurements will be presented. Limitations and general applicability of this method will also be discussed.
+
+ 
+
+
+ 
+
+
+
+TUPWA004
+Advanced Considerations for Designing Very High-intensity Linacs through Novel Methods of Beam Analysis,  Optimization, Measurement & Characterisation
+1727
+
+
+ 
+
+P.A.P. Nghiem, N. Chauvin, D. Uriot
+                       CEA/DSM/IRFU, France
+W. Simeoni
+                       CEA/IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+Research in fundamental physics, nuclear physics or advanced materials, requires linear accelerators as irradiation sources with higher and higher beam intensity. In such machines, not only high beam power but also high space charge are the major challenges. This double concern often induces conflicting issues, which should be overcome from the accelerator design stage. It progressively appears that the usual methods are no more sufficient. Even new concepts are to be invented. With mega-watt beams, losses and also micro-losses must be minimised while with very strong space charge, few room can be reserved for beam diagnostics. New strategies for design and tuning are to be carried out. The beam itself can no more be described only by its classical values like emittance and Twiss parameters. Core and halo parts should be instead precisely defined and kept under surveillance. The beam phase space distribution itself becomes determinant, which is very far from waterbag or gaussian distributions. This paper aims at proposing new considerations for very high-intensity linacs while recalling the usual ones, from designing and tuning methods to beam definitions and characterisations.
+
+ 
+
+
+ 
+
+
+
+TUPWA005
+Study of Collective Beam Instabilities for the MAX IV 3 GeV Ring
+1730
+
+
+ 
+
+M. Klein, R. Nagaoka
+                       SOLEIL, Gif-sur-Yvette, France
+G. Skripka, P.F. Tavares, E.J. Wallén
+                       MAX-lab, Lund, Sweden
+
+ 
+
+
+ 
+
+The present paper reports on a systematic simulation study made on the collective beam instability in the MAX IV 3 GeV ring. We study both single and multibunch instabilities in the longitudinal plane. Specifically, we focus on the microwave instabilities which are considered to be particularly dangerous for MAX IV, in view of its small effective radius of aperture (beff < 11 mm), the high intensity (500 mA) and the low emittance (0.24 nm.rad) nature of the circulating beam. Single and multibunch tracking are performed using wake fields that were numerically obtained using GdfidL for the ensemble of the vacuum components. A special effort was made to include dynamically the effect of harmonic cavities that lengthen the bunch and introduce Landau damping, whose details are described in the companion paper *. The study aims to confirm the effectiveness of storing long bunches in the 100 MHz RF system, where tune spreads are further increased by the harmonic cavities, in order to fight against collective instabilities.
+* M. Klein and R. Nagaoka "Multibunch Tracking Code Development to Account for Passive Landau Cavities", these proceedings
+
+ 
+
+
+ 
+
+
+
+TUPWA007
+Method and Results of Systematic Beam Matching to a Periodic DTL
+1733
+
+
+ 
+
+L. Groening, W.A. Barth, P. Forck, I. Hofmann, S.G. Yaramyshev
+                       GSI, Darmstadt, Germany
+D. Jeon
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+Systematic investigations on high current 3d-beam matching to a periodic Alvarez-type DTL are reported. Twiss parameters at the entrance of a matching section to the periodic structure were concluded from transverse and longitudinal measurements. Periodic solutions in 3d were calculated including space charge using the measured rms emittances. The matching was performed by rms beam size tracking and employing a numerical routine to set the matching section, which comprises five quadrupoles and two bunchers. Matching allowed for significant emittance growth reduction and for verification of non-linear beam dynamics effects along the DTL.
+
+ 
+
+
+ 
+
+
+
+TUPWA008
+Computation of Wakefields for an In-vacuum Undulator at PETRA III
+1736
+
+
+ 
+
+E. Gjonaj, L. Lünzer, T. Weiland
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+R. Wanzenberg
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by DESY, Hamburg, Germany
+At DESY the installation of an in-vacuum undulator at the synchrotron radiation facility PETRA III is under consideration. The moveable magnet array of the undulator is installed inside the vacuum chamber to achieve shorter wavelength synchrotron radiation. A thin metal foil covers the magnet structure to mitigate resistive wall wakefields. Moveable tapered transitions connect the magnet structure and the adjacent vacuum duct to reduce the geometric wakefields. Nevertheless these moveable tapered transitions contribute significantly to the impedance budget of PETRA III. The computer codes MAFIA, CST-Studio and PBCI have been used to calculate the longitudinal and transverse wakefields. The results for the loss and kick parameters are presented and compared to the corresponding parameters for a standard undulator section.
+
+ 
+
+
+ 
+
+
+
+TUPWA009
+Bunch by Bunch Intra-Bunch Feedback System for Curing Transverse Beam Instabilities at the J-PARC MR
+1739
+
+
+ 
+
+O. A. Konstantinova, Y.H. Chin, Y. Kurimoto, T. Obina, M. Okada, K. Takata, M. Tobiyama, T. Toyama
+                       KEK, Ibaraki, Japan
+Y. Shobuda
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+At the J-PARC Main Ring (MR), transverse instabilities have been observed during the injection and at the onset of acceleration with large particle losses. The present bunch by bunch feedback system, operating in a narrowband mode, has been effectively suppressing these instabilities, allowing the beam power to reach 230kW with only 400W of particle losses. The observed beam signals show that bunches are still executing complicated intra-bunch oscillations even if the narrowband feedback system is on, though they are not imposing significant particle losses at present. The new and more advanced broadband feedback system has been developed for control of the intra-bunch oscillations and further reduction of particle losses. The elaborate analysis code has been also developed on the MATLAB platform to analyse effects of the broadband feedback system on intra-bunch oscillations. This paper describes the development of these advanced instruments and presents the analysis of the latest beam test results using the MATLAB code.
+
+ 
+
+
+ 
+
+
+
+TUPWA010
+A Trial to Reduce the Kicker Impedance of 3-GeV RCS in J-PARC
+1742
+
+
+ 
+
+Y. Shobuda, N. Hayashi, T. Takayanagi
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+Y. Irie
+                       KEK, Ibaraki, Japan
+T. Toyama
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+At 3GeV RCS in J-PARC, the kicker impedance has been considered to be the dominant source to cause the beam instability. Recently, experimental studies demonstrate that the beam instability is suppressed by reducing the kicker impedance. In this report, a trial to reduce the kicker impedance is reported.
+
+ 
+
+
+ 
+
+
+
+TUPWA011
+Investigation of Emittance Growth in a Small PET Cyclotron CYCIAE-14
+1745
+
+
+ 
+
+M. Li, Shizhong. An, T.J. Zhang
+                       CIAE, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+In order to satisfy the rapidly increased domestic needs for PET in China, a small medical cyclotron named CYCIAE-14 is designed and constructed in CIAE ( China Institute of Atomic Energy ) . As the beam intensity in CYCIAE-14 is high, the beam emittance should be controlled strictly in order to reduce the beam loss in the cyclotron. Precessional mixing and resonance crossing are the two main factors leading to emittance growth in the cyclotron with stripping extraction. In this paper, the physical mechanism of precessional mixing in a stripping extraction cyclotron is investigated. After that, the maximum allowable field errors in CYCIAE-14 are derived using the Hamiltonian formalism and numerical simulation, which provides a reference for the cyclotron design and field shimming.
+
+ 
+
+
+ 
+
+
+
+TUPWA012
+The Influence of the Magnetic Field Errors in CYCIAE-100 Cyclotron
+1748
+
+
+ 
+
+H.J. Yao, M. Li, T.J. Zhang, J.Q. Zhong
+                       CIAE, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The main magnet size of CYCIAE-100 is 2.31 m in height and 6.16 m in diameter and the outer radius of the sector is 2.0 m, and the total iron weight is about 415t. The magnetic filed can not be absolutely ideal because of imperfections during manufacturing and installation of this big magnet. Therefore the influence of the magnetic field errors on the beam behavior should be studied to provide the reference for magnet mapping and shimming. Magnetic field errors in a cyclotron will excite coherent oscillations through displacing the center of orbit or distorting the transverse phase space. This effect is especially important in the CYCIAE-100 cyclotron because there are a number of different turns in the extracted beam. The tolerances for the magnetic field errors are given in this paper based on analytic calculations and numerical simulations. The resonances vr=1, 2vr=2 driven by the 1st, 2nd harmonic magnetic field are considered, which will result in the radial emittance growth .Besides that, the resonances cause the vertical emittance growth are considered. The maximum allowable field errors for CYCIAE-100 are presented in this paper.
+
+ 
+
+
+ 
+
+
+
+TUPWA013
+Study of the C-ADS Longitudinal Beam Instabilities Caused by HOMS
+1751
+
+
+ 
+
+P. Cheng, Z. Li, J.Y. Tang, J.Q. Wang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The C-ADS accelerator is a CW proton linac which accelerates the beam to 1.5GeV. It has the characteristics of being very high beam power and very high reliability that are not posed by any of the existing proton linacs. The accelerator uses two families (β=0.63 and β=0.82 ) of elliptical five cell superconducting cavities. High Order Modes can severely limit the operation of these cavities. Monopole modes are found by Microwave Studio CST. Then the longitudinal instability caused by these monopole modes are primarily investigated with code bbusim, taking into account of effects like High Order Modes frequency spread, beam input jitters and other beam and RF parameters of the beams and cavities. Preliminary simulation results show that monopole modes induced instability is not a problem if High Order Modes frequency spread is not less than 1MHz. However, further investigations are necessary in order to make a critical decision such as whether HOM damper will be adopted. Study on the transverse case is under way.
+
+ 
+
+
+ 
+
+
+
+TUPWA014
+The Status of Coupling Impedance Measurement for the CSNS/RCS Extraction Kicker Prototype*
+1754
+
+
+ 
+
+L. Huang, Y. Li, R.H. Liu, Y.D. Liu, S. Wang, O. Xiao
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Rapid Cycling Synchrotron (RCS) of the China Spallation Neutron Source (CSNS) is a high intensity proton accelerator, with average beam power of 100kW. In order to high intensity beam operation, the beam coupling impedance of the extracted kickers must be controlled. Longitudinal and transverse impedance of extracted kicker prototype with power supply had been roughly measured by coaxial-wire and dual-wire methods respectively. At the same time, impedance of window has been analyzed theoretically and simulated based on CST PARTICLE STUDIO.
+
+ 
+
+
+ 
+
+
+
+TUPWA015
+The Study of Bunch Lengthening in Electron Storage Ring
+1757
+
+
+ 
+
+Y. Li, L. Wang, Y. Zhang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The bunch length of electron storage ring of BEPCII was measured repeatedly during steady synchronous mode and streak camera was calibrated well. From the bench lengthening , the coupling impedance of the whole ring was estimated, which was according with theoretic impedance budget . Meanwhile, the small ap optics for improving the luminosity was feasible in collision mode form synchronous result .
+
+ 
+
+
+ 
+
+
+
+TUPWA018
+Local Compensation-Rematch for Element Failures in the Low Energy Section of  C-Ads Accelerator
+1760
+
+
+ 
+
+B. Sun, Z. Li, J.Y. Tang, F. Yan
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Due to the requirement of high reliability and availability for the C-ADS accelerators, a fault tolerance design is pursued. The effects of transverse focusing element failures in different locations have been studied and the schemes of compensation by means of local compensation have been investigated. After one transverse element failure especially in the low energy section happens, some new methods have been purposed by which the new settings of the neighbouring solenoids and the cavities can be set, and the Twiss parameters and energy can be approximately recovered to that of the nominal ones at the matching point. We find that the normalized RMS emittance in transverse and longitudinal planes have no obvious growth after applying the compensation in each section of the main linac. When we make study on the compensation-rematch for the RF cavity failures, the TraceWin code has been used that doesn’t consider the phase change during the cavity resetting, so a code named LOCCOM, which is based on MATLAB, is developed and used to compensate the error on arrival-time at the matching point.
+
+ 
+
+
+ 
+
+
+
+TUPWA019
+Comparison of Tracking Simulation with Experiment on the GSI UNILAC
+1763
+
+
+ 
+
+X. Yin
+                       IHEP, Beijing, People's Republic of China
+W.A. Barth, W.B. Bayer, L. Groening, I. Hofmann, S.G. Richter, S.G. Yaramyshev
+                       GSI, Darmstadt, Germany
+A. Franchi
+                       CERN, Geneva, Switzerland
+A.C. Sauer
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+In the European framework “High Intensity Pulsed Proton Injector” (HIPPI), the 3D linac code comparison and benchmarking program with experiment have been initialed. PARMILA and HALODYN are involved in this work. Both of these codes have been developed and used for linac design and beam dynamics studies. In this paper, we compare the simulation results with experiment results which was carried out on the UNILAC Alvarez DTL. And discuss physics aspects of the different linac design and beam dynamics simulation codes.
+
+ 
+
+
+ 
+
+
+
+TUPWA020
+The  Implementation of Equipartitioning in the Proton Linac Code PADSC
+1766
+
+
+ 
+
+Y.L. Zhao, S. Fu, Z. Li
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The high intensity accelerator projects place extremely stringent requirements on particle loss, since even very small losses can lead to unacceptably high levels of radioactivity that can hinder or prevent hands-on maintenance. Such losses are known to be associated with emittance growth and beam halo. Non-equipartitioning contributes a lot for emittance growth and beam halo. The present equipartitioning realization has assumed that the emittance and space charge force are keeping constant, which will induce errors. The implementation in the proton linac code PADSC does equipartitioning optimization according to the real space charge force and emittance in the quasi period lattice.
+
+ 
+
+
+ 
+
+
+
+TUPWA021
+Multi-Pass, Multi-Bunch Beam Breakup of ERLs with 9-cell Tesla Cavities
+1769
+
+
+ 
+
+S. Chen, J.E. Chen, L.W. Feng, S. Huang, Y.M. Li, K.X. Liu, S.W. Quan, F. Zhu
+                       PKU, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by the Major State Basic Research Development Program of China under Grant No. 2011CB808303 and No. 2011CB808304
+In this paper, multi-pass, multi-bunch beam break-up of some small-scale Energy Recovery Linac(ERL) configuration using 9-cell Tesla cavity is discussed. The threshold currents of different cases are investigated and some factors that influence the threshold currents are discussed.
+
+ 
+
+
+ 
+
+
+
+TUPWA022
+Beam Dynamics Design of a 325 MHz RFQ
+1772
+
+
+ 
+
+F.J. Jia, J.E. Chen, G. Liu, Y.R. Lu, X.Q. Yan
+                       PKU, Beijing, People's Republic of China
+B.Q. Cui, J.H. Li, G.H. Wei
+                       CIAE, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The beam dynamic design of a 325 MHz Radio Frequency Quadrupole (RFQ) is presented in this paper. This 4-vane RFQ will accelerate pulsed proton beam from 30 keV to 3 MeV with repetition frequency of 1 MHz. A 1 MHz chopper and a 5 MHz buncher are arranged in the Low-Energy-Beam-Transport (LEBT) to produce the injected beam. The beam length at the RFQ entrance is about 3 ns, and the energy-spread is about 10%. The code of PARMTEQM is used to simulate RFQ structure. The design should realize high transmission for very high intensity beam meanwhile low emittance growth and relatively short length should be kept.
+
+ 
+
+
+ 
+
+
+
+TUPWA023
+Design of the Tuning System for the He+ Coupled RFQ-SFRFQ Cavity
+1775
+
+
+ 
+
+W.L. Xia, J.E. Chen, S.L. Gao, Z.Y. Guo, Y.R. Lu, S.X. Peng, Z. Wang, X.Q. Yan, J. Zhao, K. Zhu
+                       PKU, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by NSFC 10905003, 11079001, 91026012 Corresponding author: wangzhi@pku.edu.cn
+The CRS (coupled RFQ-SFRFQ) cavity is a new type linac that couples traditional RFQ (radio frequency quadrupole) and SFRFQ (separated function RFQ) electrodes into a single cavity. The overall design of the CRS cavity has been completed and the linac is being manufactured currently. In this paper, we aimed to design a frequency tuning system for the CRS cavity, which will be used to explore the electromagnetic field distribution between RFQ and SFRFQ sections in the cavity. The frequency range, variation of Q value, power consumption and electric field distribution were investigated. Based on the beam dynamic program SFRFQDYNv1.0, we analysed the beam transmission properties of the cavity under the unbalanced electric field distribution. The optimized parameters of the tuning system were obtained.
+
+ 
+
+
+ 
+
+
+
+TUPWA024
+The Beam Gass Coulomb Scattering in Electron Storage Ring
+1778
+
+
+ 
+
+X.L. Yu, Z. Bai, W.W. Gao, W. Li, L. Wang
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+Among the various factors which determine the beam life time of the HLSII electron storage ring, the beam loss due to the scattering on residual gas is simulated using MC method. The paper will give the process of elastic and inelastic scattering, and the probability of each scattering is calculated, then using MC sampling to decide which particles will participate in the collision. Tracking the beam with scattering of beam-gas included, the spatial distribution of beam will be obtained. Finally we will give the influence analysis of beam-gas scattering.
+
+ 
+
+
+ 
+
+
+
+TUPWA025
+DESIGN STUDIES OF THE C-ADS MAIN LINAC WITH ONLY SPOKE CAVITIES
+1781
+
+
+ 
+
+S.H. Liu, Y. He, Z.J. Wang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+The China ADS(C-ADS) project undertaken by the Chinese Academy of Science is based on superconducting proton linac. The design goal is to accelerate 10mA CW proton beam up to 1.5GeV. The accelerator includes an injector section and a main superconducting linac. Two injectors are under studying by IHEP and IMP respectively. In this paper, an alternative design of the main linac with full spoke cavity base on the beam characteristics from IMP injectorⅡis described. In addition, multi-particle beam dynamics simulations have been performed using TraceWin code to estimate the space charge effect.
+
+ 
+
+
+ 
+
+
+
+TUPWA030
+Impedances Calculations of Bellows in HLS II Storage Ring
+1784
+
+
+ 
+
+Q. Zhang, W. Li, L. Wang
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+The upgrade project of Hefei Lighe Source storage ring is carrying on.In this project,a new Bellows, in which shielding is provided by sprung fingers which can slide along the beam screen,is installed at the accelerator interaction area In order to reduce this impedance to an acceptable value. The contributions of Bellows to short range wakefields and broadband impedance were calculated numerically by Mafia code .
+
+ 
+
+
+ 
+
+
+
+TUPWA034
+On the Choice of Linac Parameters for Minimal Beam Losses
+1787
+
+
+ 
+
+M. Eshraqi
+                       ESS, Lund, Sweden
+J.-M. Lagniel
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+In high intensity linear accelerators, the tune spreads induced by the space-charge forces in the radial and longitudinal planes are key parameters for halo formation and beam losses. For matched beams they are the parameters governing the number of resonances (including coupling resonances) which affect the beam and determine the respective sizes of the stable and halo areas in phase space. The number and strength of the resonances excited in mismatched beams leading to even higher amplitude halos are also directly linked to the tune spreads. In this paper, the equations making the link between the basic linac parameters (rf frequency, zero-current phase advances, beam intensity and emittances) and the tune spreads are given. A first analysis of the way these linac parameters can be chosen to minimize the tune spreads is presented. The parameters of ESS linac are used for this study.
+
+ 
+
+
+ 
+
+
+
+TUPWA038
+Equilibrium Bunch Density Distribution with Passive Harmonic Cavities in the MAX IV 3 GeV Storage Ring
+1790
+
+
+ 
+
+P.F. Tavares, Å. Andersson, A. Hansson
+                       MAX-lab, Lund, Sweden
+
+ 
+
+
+ 
+
+The MAX IV storage rings will use third harmonic cavities operated passively to lengthen the bunches and alleviate collective instabilities. These cavities are an essential ingredient in the MAX IV design concept and are required for achieving the final design goals in terms of stored current, beam emittance and beam lifetime. This paper reports on fully self-consistent calculations of the longitudinal bunch density distribution in the MAX IV 3 GeV storage ring, which indicate that up to a factor 5 increase in RMS bunch length is achievable with a purely passive system.
+
+ 
+
+
+ 
+
+
+
+TUPWA039
+Identification of the SPS Impedance at 1.4 GHz
+1793
+
+
+ 
+
+T. Argyropoulos, T. Bohl, H. Damerau, J.F. Esteban Müller, E.N. Shaposhnikova, H. Timko
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In the SPS spectrum measurements of very long single bunches were used in the past to identify sources of longitudinal microwave instability. Shielding of the identified objects significantly improved the beam stability. However, longitudinal instabilities are still one of the limitations for high intensity LHC beams in the SPS. Recently the same measurement technique was used again, revealing a strong high frequency resonance. During the slow de-bunching with the RF switched off, the presence of different resonant impedances leads to a line density modulation at the resonant frequencies. Longitudinal profiles of bunches of various intensities were acquired. For sufficiently high intensities their spectra show a fast growing and strong modulation at 1.4 GHz. Measurements using two transverse optics with different transition energy are compared. Reproducing the measurements with numerical simulations, including the known SPS longitudinal impedances, allowed the parameter range of this unknown source to be determined. Possible candidates as impedance sources in the SPS ring are investigated.
+
+ 
+
+
+ 
+
+
+
+TUPWA040
+Loss of Landau Damping for Inductive Impedance in a Double RF System
+1796
+
+
+ 
+
+T. Argyropoulos, E.N. Shaposhnikova
+                       CERN, Geneva, Switzerland
+A.V. Burov
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+In this paper the thresholds of the loss of Landau damping due to the presence of inductive impedance in a single and double harmonic RF systems are determined, both from calculations and particle simulations. High harmonic RF system, operating in bunch lengthening mode is used in many accelerators with space charge or inductive impedance to reduce the peak line density or stabilize the beam. An analytical approach, based on emerging of the discrete Van Kampen modes, shows that improved stability in a double RF system can be achieved only below some critical value of longitudinal emittance. Above this threshold, a phase shift of more than 15 degrees between the two RF components is proven to stabilize the bunch. These results, confirmed also by particle simulations, are able to explain now observations during the ppbar operation of the SPS. The thresholds in bunch shortening mode as well as in a single RF case are compared with this regime.
+
+ 
+
+
+ 
+
+
+
+TUPWA041
+Reduction of Secondary Electron (SEY) Yield Figures on Smooth Metallic Surfaces by Means of Magnetic Roughness
+1799
+
+
+ 
+
+M. Taborelli, F. Caspers, M. Mensi
+                       CERN, Geneva, Switzerland
+L.S. Aguilera, I. Montero
+                       CSIC, Madrid, Spain
+
+ 
+
+
+ 
+
+High secondary electron yield of metallic surfaces used in accelerator and also space applications is of general concern. In addition to several well known coating techniques and microscopic or macroscopic mechanical roughness (grooves) which may significantly increase microwave losses the concept of magnetic surface roughness has been proposed recently. In this concept a smooth and very well conductimg surface with low microwave losses is maintained, but underneath this surface a large number of tiny permanent magnets are located to build a rough magnetic equipotential structure. In this paper we present and discuss measurement of the SEY and the improvement in terms of SEY for different parameter ranges
+
+ 
+
+
+ 
+
+
+
+TUPWA042
+Lessons Learned and Mitigation Measures for the CERN LHC Equipment with RF Fingers
+1802
+
+
+ 
+
+E. Métral, O. Aberle, R.W. Aßmann, V. Baglin, M.J. Barnes, O.E. Berrig, A. Bertarelli, G. Bregliozzi, S. Calatroni, F. Carra, F. Caspers, H.A. Day, M. Ferro-Luzzi, M.A. Gallilee, C. Garion, M. Garlaschè, A. Grudiev, J.M. Jimenez, O.R. Jones, O. Kononenko, R. Losito, J.L. Nougaret, V. Parma, S. Redaelli, B. Salvant, P.M. Strubin, R. Veness, C. Vollinger, W.J.M. Weterings
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Beam-induced RF heating has been observed in several LHC components when the bunch/beam intensity was increased and/or the bunch length reduced. In particular eight bellows, out of the ten double-bellows modules present in the machine in 2011, were found with the spring, which should keep the RF fingers in good electrical contact with the central insert, broken. Following these observations, the designs of all the components of the LHC equipped with RF fingers have been reviewed. The lessons learnt and mitigation measures are presented in this paper.
+
+ 
+
+
+ 
+
+
+
+TUPWA043
+Impedance Studies for VMTSA Module of LHC Equipped with RF Fingers
+1805
+
+
+ 
+
+O. Kononenko, F. Caspers, A. Grudiev, E. Métral, B. Salvant
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+During 2011 run of LHC it was found that beam-induced heating causes many issues for accelerator components. Particularly some of the double-bellow modules, called VMTSA modules, were found to have deformed RF fingers and a broken spring which ensured good contact between them and a central insert. Impedance studies have been performed for different types of nonconformities and benchmarked against measurements. It was found that even a small gap between the fingers and a central insert could be fatal for the VMTSA operation. Results of this study were an input for the further thermal analysis.
+
+ 
+
+
+ 
+
+
+
+TUPWA044
+Longitudinal Coupled-Bunch Oscillation Studies in the CERN PS
+1808
+
+
+ 
+
+H. Damerau, S. Hancock, M.M. Paoluzzi
+                       CERN, Geneva, Switzerland
+M. Migliorati, L. Ventura
+                       Rome University La Sapienza, Roma, Italy
+
+ 
+
+
+ 
+
+Longitudinal coupled-bunch oscillations are an important limitation for the high-brightness beams accelerated in the CERN PS. Up to the present intensities they are suppressed by a dedicated feedback system limited to the two dominant oscillation modes. In view of the proposed installation of a wide-band feedback kicker cavity within the framework of the LHC Injectors Upgrade project (LIU), measurements have been performed with the existing damping system with the aim of dimensioning the new one. Following the excitation of well-defined oscillation modes, damping times and corresponding longitudinal kick strength are analysed. The paper summarizes the results of the observations and gives an outlook on the expected performance with the new coupled-bunch feedback.
+
+ 
+
+
+ 
+
+
+
+TUPWA045
+Longitudinal Space Charge Effects in the CLIC Drive Beam
+1811
+
+
+ 
+
+R.L. Lillestøl, S. Döbert, A. Latina, D. Schulte
+                       CERN, Geneva, Switzerland
+E. Adli, K.N. Sjobak
+                       University of Oslo, Oslo, Norway
+
+ 
+
+
+ 
+
+The CLIC main beam is accelerated by rf power generated from a high-intensity, low-energy electron drive beam. The accelerating fields are produced in Power Extraction and Transfer Structures, and are strongly dependent on the drive beam bunch distribution, as well as other parameters. We investigate how longitudinal space charge affects the bunch distribution and the corresponding power production, and discuss how the bunch length evolution can affect the main beam. We also describe the development of a Particle-in-Cell space charge solver which was used for the study.
+
+ 
+
+
+ 
+
+
+
+TUPWA046
+Experimental Results from the Test Beam Line in the CLIC Test Facility 3
+1814
+
+
+ 
+
+R.L. Lillestøl, S. Döbert, M. Olvegård
+                       CERN, Geneva, Switzerland
+E. Adli
+                       University of Oslo, Oslo, Norway
+
+ 
+
+
+ 
+
+In the CLIC two-beam scheme, the main beam is accelerated by rf power provided by energy extraction from a secondary drive beam. This energy is extracted in decelerators, and the first prototype decelerator is the Test Beam Line in the CLIC Test Facility 3. The line is currently equipped with 12 Power Extraction and Transfer Structures (PETS), which allows for extracting up to 40% of the beam energy. We correlate the measured deceleration with predictions from the beam current and the rf power produced in the PETS. We also discuss recent bunch length measurements and how it influences the deceleration. Finally we look at the evolution of the transverse emittance.
+
+ 
+
+
+ 
+
+
+
+TUPWA047
+Collimator Impedance Measurements in the LHC
+1817
+
+
+ 
+
+N. Mounet, R. Bruce, E. Métral, S. Redaelli, B. Salvachua, B. Salvant, G. Valentino
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The collimation system of the LHC is one of the largest impedance contributors of the machine, in particular for its imaginary part. To evaluate the collimator impedance and its evolution with integrated luminosity, several measurement campaigns were performed along the year 2012, in which collimator jaws were moved back-and-forth leading to significant tune shifts for a nominal intensity bunch in the machine. These observations are compared to the results from HEADTAIL simulations with the impedance model in its current state of development.
+
+ 
+
+
+ 
+
+
+
+TUPWA049
+Short High-Intensity Bunches for Plasma Wakefield Experiment AWAKE in the CERN SPS
+1820
+
+
+ 
+
+H. Timko, T. Argyropoulos, H. Bartosik, T. Bohl, J.F. Esteban Müller, E.N. Shaposhnikova
+                       CERN, Geneva, Switzerland
+A.V. Petrenko
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Obtaining the shortest possible bunch length in combination with the smallest transverse emittances and highest bunch intensity – this is the wish list of the proton-bunch driven, plasma wakefield acceleration experiment AWAKE currently under feasibility study at CERN. A few measurement sessions were conducted to determine the achievable bunch properties and their reproducibility. To obtain a short bunch length, the bunches were rotated in longitudinal phase space using the maximum available RF voltage prior to extraction. Measurements were carried out in two optics with different transition energies. The main performance limitation is longitudinal beam instability that develops during the acceleration ramp. With lower transition energy, beam stability is improved, but the bucket area is smaller for the same voltage. Based on the results obtained, we shall discuss the choice of optics, the impact of longitudinal instabilities, the importance of reproducibility, as well as options for improving the bunch parameters.
+
+ 
+
+
+ 
+
+
+
+TUPWA050
+Effect of Transverse Coupling on Asymmetric Cooling in Compton Rings
+1823
+
+
+ 
+
+E.V. Bulyak
+                       NSC/KIPT, Kharkov, Ukraine
+J. Urakawa
+                       KEK, Ibaraki, Japan
+F. Zimmermann
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Fast cooling of bunches circulating in a Compton ring is achieved by placing the collision point between electron bunches and laser pulses in a dispersive section and by, in addition, introducing a transverse offset between the laser pulse and the electron-beam closed orbit. Growth of the emittance in the dispersive transversal direction due to the additional excitation of betatron oscillations limits this type of cooling. Here we present the results of further studies on the fast cooling process, looking at the effect of the coupling of the transverse (betatron) oscillations. We first show theoretically that the transverse betatron coupling shortens the cooling time and hence reduces the steady-state energy spread of the electron beam, as well as the quantum losses. The theoretical estimates are then validated by simulations. Finally, a proof-of-principle experiment at the KEK ATF Damping Ring is proposed.
+
+ 
+
+
+ 
+
+
+
+TUPWA052
+Loss Factor and Impedance Analysis for the Diamond Storage Ring
+1826
+
+
+ 
+
+R. Bartolini, R.T. Fielder, C.A. Thomas
+                       Diamond, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Diamond Light Source is investigating the possibility of increasing the storage ring operating current above the nominal 300 mA. A campaign of measurements and simulations has been carried out in order to understand the extent of the parasitic energy loss and characterise the most important items which build up the machine impedance. In this paper we report on the most recent measurements of the longitudinal loss factor and the present status of the impedance database with an initial comparison between the two.
+
+ 
+
+
+ 
+
+
+
+TUPWA054
+PXIE End-to-end Simulations
+1829
+
+
+ 
+
+J.-F. Ostiguy, J.-P. Carneiro, V.A. Lebedev, A. Saini, N. Solyak
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: US DOE contract DE-AC02-76CH03000.
+Construction of PXIE, (Project-X Injector Experiment) has recently begun. The goal is to validate the design of the injector and low energy acceleration front-end for a future Project-X. PXIE operates in CW mode and consists in an ion source, a magnetically focused LEBT, a 162.5 MHz RFQ, a MEBT equipped with high bandwidth traveling wave kickers, a cryomodule equipped with 162.5 MHz half-wave resonators and a single cryomodule based on 325 MHz spoke resonators. The arrangement is meant to be closely representative of a future Project-X front end, and will include a variety of diagnostics. In this contribution we present detailed end-to-end tracking simulations. In particular, we examine possible impact of the RFQ longitudinal distribution, neutralization effects in the LEBT as well as of various imperfections in the MEBT on losses in the first superconducting cavities.
+
+ 
+
+
+ 
+
+
+
+TUPWA057
+Effects of Transient CSR Wakefields on Microbunching in a Bunch Compressor
+1832
+
+
+ 
+
+C.E. Mitchell, J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the U.S. Department of Energy under Contract No. DE-AC02-05CH11231.
+The standard analytical model of CSR-induced microbunching in a bunch compressor chicane makes use of a steady-state 1-D model of the longitudinal CSR interaction. This model is numerically generalized to include the effects of transient CSR wakefields due to bend entry and exit, as well as CSR that is generated in upstream bends and propagates across one or more lattice elements before interacting with the beam. The resulting linear integral equation for CSR-induced microbunching is solved numerically for the second bunch compressor of a proposed Next Generation Light Source.
+
+ 
+
+
+ 
+
+
+
+TUPWA058
+Experimental Study of Soliton Wave Trains in Intense Electron Beams
+1835
+
+
+ 
+
+Y. Mo, B.L. Beaudoin, D.W. Feldman, I. Haber, R.A. Kishek, P.G. O'Shea
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the US Dept. of Energy, Office of High Energy Physics, and by the US Dept. of Defense, Office of Naval Research and the Joint Technology Office.
+Longitudinal perturbations in intense beams can lead to instabilities or degradation of beam quality, ultimately affecting the performance of accelerators, especially near the source where space charge is important. In this experimental study, conducted on the University of Maryland Electron Ring (UMER), large-amplitude perturbations are purposefully generated and their propagation observed over a long transport length. It is found that narrow, large-amplitude perturbations on a long-pulse beam develop into Korteweg-deVries (KdV) type soliton wave trains. Each peak in the wave train has a constant width and amplitude over a long propagation distance, with the amplitude inversely proportional to the square of the width. Furthermore, two such pulses are seen to interact with each other and emerge from the collision unchanged. The experimental data is compared with the KdV model and particle-in-cell simulations with good agreement. We induce perturbations using two methods: using photoemission to perturb the density at the cathode, or using an induction cell to directly perturb particle velocities.
+
+ 
+
+
+ 
+
+
+
+TUPWA059
+End-to-end Beam Simulations for the C-ADS Injector II
+1838
+
+
+ 
+
+X. Wu, E. Tanke, Q. Zhao
+                       FRIB, East Lansing, Michigan, USA
+Y. He, H. Jia, Z.J. Wang, H.W. Zhao
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+The Injector II for the proposed Chinese Accelerator Driven System (C-ADS) is designed to accelerate proton beam to ~ 10 MeV with beam current up to ~ 10 mA. The accelerator system will include a proton ECR ion source, a Low Energy Beam Transport System (LEBT), a room-temperature radio frequency quadrupole (RFQ), a Medium Energy Beam Transport System (MEBT), a Superconducting (SC) linac and a High Energy Beam Transport System (HEBT). Both RFQ and the SC linac will have a base frequency of 162.5 MHz. The accelerating cryomodules in the SC linac uses SC half-wave cavities for acceleration and SC solenoids with dipole correctors for transverse focusing and central orbit correction. End-to-end beam simulations starting with a realistic initial input beam from the ECR ion source were performed using DYNAC and IMPACT codes to evaluate the C-ADS Injector II accelerator system performance, code benchmarking with TRACK and explore system design options for future optimizations. The results of these beam dynamics studies will be presented in the paper.
+
+ 
+
+
+ 
+
+
+
+TUPWA061
+Observation at CesrTA of the Reduction of the Vertical Beam Size of the Lead Bunch in a Train Due to the Presence of a Precursor Bunch
+1841
+
+
+ 
+
+M.G. Billing, K.R. Butler, G. Dugan, M.J. Forster, R.E. Meller, G. Ramirez, N.T. Rider, K.G. Sonnad, H.A. Williams
+                       CLASSE, Ithaca, New York, USA
+J.W. Flanagan
+                       KEK, Ibaraki, Japan
+R. Holtzapple, M. Randazzo
+                       CalPoly, San Luis Obispo, California, USA
+M.A. Palmer
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by DOE Award DE-FC02-08ER41538, NSF Award PHY-0734867, PHY-1068662 and the Lepton Collider R&D Coop Agreement: NSF Award PHY-1002467.
+Electron cloud-induced beam dynamics is being studied at CesrTA under various conditions. These measurements make use of instrumentation for the detection of the coherent self-excited spectrum for each bunch within the train and bunch-by-bunch vertical beam size. In the position spectrum coherent betatron dipole and head-tail motion is detectable for each individual bunch within the train. These techniques are utilized to study the electron cloud-related interactions, which cause the growth of coherent motion and beam size along the train. We report on the observations of the vertical enlargement of the first bunch(es) in 30 bunch-long trains. We also report that the addition of a precursor bunch following the train of bunches and before the start of the next train can counteract the vertical enlargement of the first bunch(es) in the train. Results from these observations will be presented.
+
+ 
+
+
+ 
+
+
+
+TUPWA062
+Dependence of Beam Instabilities Caused by Electron Clouds at CesrTA on Variations in Bunch Spacing and Chromaticity
+1844
+
+
+ 
+
+M.G. Billing, K.R. Butler, G. Dugan, M.J. Forster, R.E. Meller, M.A. Palmer, G. Ramirez, N.T. Rider, K.G. Sonnad, H.A. Williams
+                       CLASSE, Ithaca, New York, USA
+R.F. Campbell, R. Holtzapple, M. Randazzo
+                       CalPoly, San Luis Obispo, California, USA
+J.W. Flanagan
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: Work supported by DOE Award DE-FC02-08ER41538, NSF Award PHY-0734867 and the Lepton Collider R&D Coop Agreement: NSF Award PHY-1002467
+Experiments have been performed at the Cornell Electron-Positron Storage Ring Test Accelerator (CesrTA) to probe the interaction of the electron cloud with a 2.1 Gev stored positron beam. The purpose of these experiments was to characterize the dependence of beam–electron cloud interactions on the bunch spacing and the vertical chromaticity. These experiments were performed on a 30-bunch positron train, at a fixed current of 0.75mA/bunch. The bunch spacing was varied between 4 and 28 ns at three different vertical chromaticity settings. The beam dynamics of the stored beam, in the presence of the electron cloud, was quantified using: 1) a gated Beam Position Monitor (BPM) and spectrum analyzer to measure the bunch-by-bunch frequency spectrum of the bunch trains; 2) an x-ray beam size monitor to record the bunch-by-bunch, turn-by-turn vertical size of each bunch within the trains. In this paper we report on the observations from these experiments and analyze the effects of the electron cloud on the stability of bunches within these different trains.
+
+ 
+
+
+ 
+
+
+
+TUPWA063
+Dependence of Vertical Beam Dynamics Influenced by Electron Clouds at CesrTA on Variations in Bunch Spacing and Vertical Chromaticity
+1847
+
+
+ 
+
+R. Holtzapple, R.F. Campbell, E.L. Holtzapple
+                       CalPoly, San Luis Obispo, California, USA
+M.G. Billing, K.R. Butler, G. Dugan, M.J. Forster, B.K. Heltsley, G. Ramirez, N.T. Rider, J.P. Shanks, K.G. Sonnad
+                       CLASSE, Ithaca, New York, USA
+J.W. Flanagan
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: Work supported by DOE Award DE-FC02-08ER41538, NSF Award PHY-0734867, PHY-1068662 and the Lepton Collider R&D Coop. Agreement: NSF Award PHY-1002467
+Experiments have been performed on the Cornell Electron-Positron Storage Ring Test Accelerator (CesrTA) to probe the interaction of the electron cloud with a 2-Gev stored positron beam. The purpose of these experiments was to characterize the beam–electron cloud interactions by varying the vertical chromaticity and bunch spacing. These experiments were performed on a 30-bunch positron train, at a fixed current of 0.75mA/bunch, where the bunch spacing was varied between 4 and 28ns at three different vertical chromaticity settings. The vertical beam dynamics of the stored beam, in the presence of the electron cloud, was quantified using the x-ray beam size monitor (xBSM) that is used to measure the bunch-by-bunch, turn-by-turn vertical beam size of the bunch trains. In this paper, we report the results from these experiments and discuss the effects of the electron cloud on the CesrTA beam dynamics.
+
+ 
+
+
+ 
+
+
+
+TUPWA064
+Suppression of Halo Formation in FODO Focusing Channel with Nonlinear Focusing
+1850
+
+
+ 
+
+Y.K. Batygin, A. Scheinker
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Averaging method was applied to analyze focusing properties of a quadrupole FODO channel with inserted multipole lenses. General expression for averaged focusing potential is obtained as a function of position of multipole lenses with respect to FODO quadrupole lenses. Obtained results were applied to the problem of intense beam transport in combined FODO structure. Numerical and analytical treatments of high-brightness beam dynamics with suppressed space-charge induced halo formation are presented.
+
+ 
+
+
+ 
+
+
+
+TUPWA065
+Design Issues of Low Energy Beam Transport
+1853
+
+
+ 
+
+Y.K. Batygin
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Low energy beam transport (LEBT) is an important element of ion accelerator facilities to provide beam matching between ion source and accelerator structure, perform required beam diagnostics measurements, dispose extra particle components, and create necessary time structure of the beam. Most of existing ion LEBT are based on solenoid focusing. Design criteria for ion LEBT with magnetostatic focusing are discussed. Dynamics in LEBT is optimized in terms of maximizing acceptance of the channel and transported beam current, and minimizing spherical aberrations in solenoids and space charge induced beam emittance growth.
+
+ 
+
+
+ 
+
+
+
+TUPWA066
+Space Charge Neutralization of Low Energy H− Beam
+1856
+
+
+ 
+
+Y.K. Batygin, I. Draganić, C.M. Fortgang, G. Rouleau
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+LANSCE Ion Source Test Stand is used for systematic study of H− source performance and details of low energy beam transport. It includes cesiated, multicusp-field, surface production H− ion source, focusing solenoids, slit-collector emittance stations, 4.5o bending magnet, and electrostatic deflector. Series of experiments were performed to measure space charge neutralization of low energy H− beam. Measurements were done for 80 keV and 35 keV H− beams at various pressure of residual gas. Results of measurements are compared with results of beam dynamics simulations to determine level of space charge neutralization. Applicability of theoretical models of beam neutralization is discussed.
+
+ 
+
+
+ 
+
+
+
+TUPWA067
+Beam Emittance Growth Effects in High-intensity RFQ
+1859
+
+
+ 
+
+Y.K. Batygin, R.W. Garnett, L. Rybarcyk
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Beam dynamics in an RFQ are strongly affected by coupling between transverse and longitudinal particle oscillations. The adiabatic process of high-intensity bunched beam formation results in equipartitioning in the RFQ, which determines the longitudinal beam emittance. Avoiding parametric resonances is an important design criterion to prevent significant emittance growth of the beam. Manufacturing errors can result in beam emittance growth and reduction of beam transmission. This paper will present the results of a study where analytical and numerical evaluations were performed to determine the effect of the aforementioned factors on beam quality in a high-current RFQ.
+
+ 
+
+
+ 
+
+
+
+TUPWA068
+Model Independent Beam Tuning
+1862
+
+
+ 
+
+A. Scheinker
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+This work presents a new model independent feedback control scheme for optimization and tuning of particle accelerator components, with a simulation demonstrating the method on a low energy, space-charge dominated beam. The scheme presented here does not depend on an accurate model of the system it is stabilizing, and may even be unaware of its control input direction (such as having rotated quadrupole magnets and alignment errors) and this direction may change with time (thermal cycling and hysteresis). Stability properties are demonstrated both analytically and through a simulation in which the current settings of twenty two quadrupole magnets are simultaneously tuned through the transport section of the Los Alamos Linear Proton Accelerator. The controller is unaware of the complex nonlinear beam dynamics, with its only input being the surviving beam current readings along the transport region. Starting with all magnet settings at zero, in which case all of the beam is lost by the end of the transport, the feedback control tunes the magnets resulting in successful transport to the first drift tube linac section.
+
+ 
+
+
+ 
+
+
+
+TUPWA069
+Longitudinal Phase Space Dynamics with Novel Diagnostic Techniques at FACET
+1865
+
+
+ 
+
+S.J. Gessner, E. Adli, F.-J. Decker, M.J. Hogan, T.O. Raubenheimer
+                       SLAC, Menlo Park, California, USA
+A. Scheinker
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported [optional: in part] by the U.S. Department of Energy under contract number DE-AC02-76SF00515.
+FACET produces high energy density electron beams for Plasma Wakefield Acceleration (PWFA) experiments. The high energy density beams are created by chirping the electron beam with accelerating sections and compressing the beam in magnetic chicanes. Precise control of the longitudinal beam profile is needed for the drive-witness bunch PWFA experiments currently underway at FACET. We discuss the simulations, controls, and diagnostics used to achieve FACET's unique longitudinal phase space.
+
+ 
+
+
+ 
+
+
+
+TUPWA071
+Studies of Resistive Wall Heating at JLAB FEL
+1868
+
+
+ 
+
+R. Li, S.V. Benson
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+When the JLAB FEL is under CW operation, it had been observed that temperature rises over the wiggler vacuum chamber, presumably as the result of the power deposition on the resistive wall of the wiggler chamber. Previous analyses have been done on the resistive wall impedance for various cases, such as DC, AC, and anomalous skin effects*. Here we report an investigation on the beam kinetic energy losses for each of these cases. This study includes the non-ultrarelativistic effect on resistive wall loss, for both round pipe and parallel plates. We will present the comparison of our results with the measured data obtained during CW operation of the JLAB FEL. Other possible factors contributing to the measured heating will also be discussed.
+* K. Bane and G. Stupakov, SLAC-PUB-10707, 2004.
+
+ 
+
+
+ 
+
+
+
+TUPWA074
+Studies of Ion Beam Instabilities for Low Energy RHIC Operations with Electron Cooling
+1871
+
+
+ 
+
+G. Wang, M. Blaskiewicz, V. Litvinenko
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Electron cooling has the potential to compensate the emittance growth of the circulating ion beam due to intra-beam scattering at low energy. A test of electron cooling for RHIC low energy operations has been planned at IP2. Apart from the wakefield from the environment, the coherent interaction between the electron beam and ion beam could also play a role for the instability threshold. This work presents studies of ion beam stabilities in presence of coherent electron-ion interactions for the planned low energy RHIC electron-cooling test using the simulation code TRANFT.
+
+ 
+
+
+ 
+
+
+
+

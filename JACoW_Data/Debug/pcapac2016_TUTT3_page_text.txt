@@ -1,0 +1,168 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2016 - Table of Session: TUTT3 (Git / Py4Syn / OpenCL)
+
+
+TUTT3 —  Git / Py4Syn / OpenCL   (25-Oct-16   09:00—18:00)
+Chair: L.M. Russo, LNLS, Campinas, Brazil
+
+
+Paper
+Title
+Page
+
+
+
+TUTT3T01
+Introduction to Git
+ 
+
+
+ 
+
+J.V. Ferreira Filho
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+The success of software development depends on realistic planning and on proper organization. Version control is an essential activity in organizing the development, not only regarding the organization of how the software evolves and how the deliverables are tracked, but also regarding how the stakeholders collaborate. Git is a free and open-source tool that has become one of the leading version control tools. Still, its command-line interface and its abundance of features can make it intimidating. This session focuses on a hands-on approach to learning how to start to use the basics of Git effectively. It covers: Introduction to version control; A simple description of how Git organizes a repository internally; The basic commands necessary to use Git for version control; Organizing branches and performing merges; The benefits of collaboration using distributed version control; The power of interactive commands; The rebase command: a multi-purpose powerful command; and some extra useful commands.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUTT3T02
+Py4Syn and LNLS IOC Script
+ 
+
+
+ 
+
+M.P. Donadio
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Py4Syn is an open-source Python-based library for data acquisition, device manipulation, scan routines and other helper functions to interact with EPICS IOCs. It offers high customization level for scans and data output, covering distinct techniques and facilities. The LNLS IOC script is a Linux bash script responsible for starting, stopping and interacting with IOCs in a simple way. The tutorial will cover: How to use and configure the LNLS IOC script to easily interact with IOCs, putting them to run in the background as a service; How to control EPICS motors with Python; - How to create pseudo-motors based on real motors; How to control EPICS Scalers with Python; How to do scanning with motors, pseudo-motors, and counters with Py4Syn Python scripts. All examples will be presented using real equipment interacting with scripts live.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUTT3T03
+Introduction to OpenCL
+ 
+
+
+ 
+
+J.V. Ferreira Filho
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Even though computers are becoming ever more parallel, the extra parallelism isn't always used due to the extra complexity required to develop software capable of taking advantage of it. This session offers a simple introduction to a tool that helps with the development of parallel software, with the focus on taking advantage of one of the most powerful and parallel devices available today: GPUs (Graphic Processing Units). It covers the basics necessary to start using OpenCL to improve highly parallel aspects of software, including why parallel software development is more complex, the different approaches to parallelism, the use of GPUs as co-processors, the abstraction of co-processors by OpenCL, management of the available co-processors and using the co-processors with kernels and the OpenCL C language
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUTT3T04
+Effective OpenCL
+ 
+
+
+ 
+
+J.V. Ferreira Filho
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+This session assumes a basic understanding of OpenCL. The main objective is to dive deeper into OpenCL, exposing more details and functionalities in order to make it easier to use OpenCL more effectively. OpenCL is a vast subject and this will be not a thorough course on OpenCL, but many common aspects of using OpenCL will be presented. It covers the different types of buffers, image processing with OpenCL, optimal selection of data types, planning for memory transfers, event synchronization, the simultaneous use of multiple co-processors and beyond basic OpenCL compiler usage,
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

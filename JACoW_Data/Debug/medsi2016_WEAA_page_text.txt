@@ -1,0 +1,247 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEDSI2016 - Table of Session: WEAA (Calculation, Simulation and FEA Methods)
+
+
+WEAA —  Calculation, Simulation and FEA Methods   (14-Sep-16   09:30—10:50)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEAA01
+The ESRF Accelerator Upgrade: Overview, Technical Challenges and Solutions in the Engineering Design
+ 
+
+
+ 
+
+P. Marion, J.C. Biasci, Y. Dabin, L. Goirand
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+An engineering overview of the ESRF Extremely Brilliant Source (EBS) project will be presented. The ESRF EBS consists of replacing the current double-bend achromat storage ring by a new ring based on a 7-bend achromat lattice. This will enable a reduction of the electron beam horizontal emittance by a factor of 30 (140pm horizontal emittance) and an increase of the brilliance and coherence of the photon beam. As a consequence, the storage ring stability (vibrational and thermal) is of major importance, which implies specific design issues. The engineering design of standard cell components is now completed, some prototypes have been built and most of the large procurement contracts have been placed with the objective to pre-assemble equipped girders from mid 2017 and install them from beginning 2019. After introducing the context and the expected gain from the new storage ring, this talk will focus on the main technical challenges and present the mechanical design solutions adopted for the magnets and other strategic components *. This presentation is given on behalf of the ESRF EBS engineering team.
+* See also in MEDSI 2016 specific presentations on EBS Girders, X-Ray absorbers, Chambers & RF fingers, Injection zone, RF & straight sections, Thermal effects.
+
+ 
+
+
+
+
+
+
+Slides WEAA01 [7.541 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAA02
+X-Ray Absorber Design and Calculations for the EBS Storage Ring
+257
+
+
+ 
+
+F. Thomas, J.C. Biasci, D. Coulon, Y. Dabin, T. Ducoing, F. Ewald, E. Gagliardini, P. Marion
+                       ESRF, Grenoble, France
+F. Thomas
+                       ILL, Grenoble, France
+
+ 
+
+
+ 
+
+The Extremely Brilliant Source (EBS) of the ESRF will hold new type of X-Ray absorbers: a new material will be used (CuCr1Zr suggested by *) together with a novel design integrating: - CF flange are machined in the absorber body. No weld, no braze. - Optimized toothed surface profile, reducing the induced thermal stresses. - Compton and Rayleigh scattering integrated blocking shapes. - Concentric cooling channels. A brief overview of the new design and concepts will be given. The presentation will then focus on thermo-mechanical absorber ANSYS calculations, combining both Computational Fluid Mechanics (CFD). The calculations and the calculation process will be discussed as well as the design criteria chosen by the team. The CFD calculations will show that an heat transfer coefficient between the water and the copper part can be estimated as well as the pressure drop through the absorber. Finally, the stress analysis will be emphasized. The type of stresses (tensile, compressive or shear) and their nature (primary or secondary) will be linked to the choice of design criteria.
+* S. Sharma, "A Novel Design of High Power Masks and Slits", Proc. of MEDSI2014, Australia (2014).
+
+ 
+
+
+
+
+
+
+Slides WEAA02 [1.968 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-WEAA02
+
+ 
+
+
+About •
+paper received ※ 11 September 2016       paper accepted ※ 16 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAA03
+Thermal Stability of the New ESRF Extremely Brilliant Source
+262
+
+
+ 
+
+B. Tampigny, J.C. Biasci, J-F.B. Bouteille, Y. Dabin, M. Diot, L. Farvacque, F. Favier, A. Flaven-Bois, T. Marchial, D. Martin, P. Raimondi, P. Roux-Buisson
+                       ESRF, Grenoble, France
+F. Thomas
+                       ILL, Grenoble, France
+
+ 
+
+
+ 
+
+In the frame of the Extremely Brilliant Source project (EBS), studies dedicated to disturbances have been more intensively investigated. Engineering instabilities have two origins: mechanical and thermal. Major thermal issues are: - air conditioning presents a temperature ramp up of 2°C along the sector - storage ring requires a warm up period of 4 days for reaching a stable orbit These effects have been observed and corrected for 20 years. With EBS requirements, we need to identify these thermal effects in order to reduce the disturbances, thus improving more systematically the source stability. The study is lead by the comparison between the present and the new thermal system. To do so, it is necessary to evaluate the heat balance in this system, as well as to identify the thermal time constant of each component. FEA models have been performed to reveal sensitivity of these thermal issues. A full scale mock-up cell equipped with a prototype girder is measured with power cables inside. A FEA model was also developed for the present storage ring to analyse the air stream. Although investigations have already been developed, some others remain to be achieved by the end of 2016.
+
+ 
+
+
+
+
+
+
+Slides WEAA03 [4.824 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-WEAA03
+
+ 
+
+
+About •
+paper received ※ 10 September 2016       paper accepted ※ 23 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAA04
+Novel Numerical Method for Calculating the Shadow Projection and Collisions of a Multi-Axis Goniometer at Diamond
+267
+
+
+ 
+
+V. Grama, A. Wagner
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Beamline I23 is a long-wavelength macromolecular crystallography beamline at Diamond Light Source. The end station is a unique instrument with a bespoke cryogenically cooled multi-axis goniometer and a large curved Pilatus 12M detector in a high vacuum environment. As experiments become limited by radiation damage to the crystals, optimised strategies are needed to orient crystals in the most efficient way to obtain a complete dataset with a minimal X-ray dose. Two key factors affect the optimisation strategies. Firstly, shadowing on the detector by the goniometer resulting in data loss in this region and secondly, collisions between the goniometer and other components in the end station restricting the available angular range for sample centering and data collection. This paper discusses the numerical methods for calculating the shadowing of a multi-axis goniometer on a semi-cylindrical detector and the calculation of the allowable angles for various conditions to prevent collisions with neighbouring components.
+
+ 
+
+
+
+
+
+
+Slides WEAA04 [61.267 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2016-WEAA04
+
+ 
+
+
+About •
+paper received ※ 07 September 2016       paper accepted ※ 16 September 2016        issue date ※ 22 June 2017
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

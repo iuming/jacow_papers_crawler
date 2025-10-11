@@ -1,0 +1,168 @@
+{
+  "session_info": {
+    "id": "THPMH",
+    "name": "THPMH - Thursday Afternoon Oral Session",
+    "url": "https://proceedings.jacow.org/SAP2014/html/thpmh.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THPMH1",
+      "title": "Latest Design and Optimization of the PEPX-type Lattice for HEPS",
+      "authors": [
+        "Y. Jiao",
+        "D. Ji",
+        "G. Xu",
+        "IHEP",
+        "Beijing",
+        "People's Republic of China",
+        "Recently the so-called diffraction limited storage ring (DLSR) with emittance around or below 100 pm.rad has attracted worldwide interest and R&D efforts. It has been proposed to build a DLSR in Beijing",
+        "named High Energy Photon Source (HEPS). In this paper",
+        "we present a latest PEPX-type lattice design of the HEPS storage ring with beam energy of 6 (or 5) GeV and horizontal natural emittance of 88 (or 61) pm.rad. Nonlinear dynamics optimization has been done to ensure an efficient injection and a long enough Touschek lifetime."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SAP2014/talks/thpmh1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SAP2014/papers/thpmh1.pdf",
+      "poster_url": "https://proceedings.jacow.org/SAP2014/posters/thpmh1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SAP2014-THPMH1",
+      "page_number": "110",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THPMH2",
+      "title": "Electron Cooling Experiments at HIRFL-CSR",
+      "authors": [
+        "L.J. Mao",
+        "J. Li",
+        "X.M. Ma",
+        "J.W. Xia",
+        "T.L. Yan",
+        "J.C. Yang",
+        "X.D. Yang",
+        "Y.J. Yuan",
+        "IMP",
+        "Lanzhou",
+        "People's Republic of China",
+        "Two new-generation electron coolers have been operated at main ring and experimental ring of HIRFL-CSR facility",
+        "respectively. The electron beam with a variable profile helps to get an ion beam with the emittance and intensity that meet the demands of specific physical experiments. Fast transverse cooling of the hot ion beam after horizontal multiturn of stripping injection allows beam accumulation at the injection energy. After optimization of the accumulation and cooling process an current increase by more than one order of magnitude has been achieved. Momentum spread in the 10-4 range has been demonstrated. In this paper",
+        "the longitudinal cooling force and the transverse cooling time measurements",
+        "the intrabeam scattering effect measurements were introduced."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SAP2014/talks/thpmh2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SAP2014/papers/thpmh2.pdf",
+      "poster_url": "https://proceedings.jacow.org/SAP2014/posters/thpmh2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SAP2014-THPMH2",
+      "page_number": "113",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THPMH3",
+      "title": "Suppression of the CSR Emittance in a Single Achromatic Cell",
+      "authors": [
+        "X. Cui",
+        "X.Y. Huang",
+        "Y. Jiao",
+        "G. Xu",
+        "IHEP",
+        "Beijing",
+        "People's Republic of China",
+        "The Emittace growth induced by Coherent Synchrotron Radiation(CSR) is an important issue when electron bunches with short bunch length and high peak current are transported in a bending magnet. In this paper",
+        "an optics design technique is introduced which could minimize the emittance dilution within a single achromatic cell. We gave a comparison between this method and the earlier optics method",
+        "simulation results confirmed the usefulness of our new result."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SAP2014/talks/thpmh3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SAP2014/papers/thpmh3.pdf",
+      "poster_url": "https://proceedings.jacow.org/SAP2014/posters/thpmh3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SAP2014-THPMH3",
+      "page_number": "116",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THPMH4",
+      "title": "Simulation of Longitudinal Beam Dynamics with the Third Harmonic Cavity for SSRF Phase II Project",
+      "authors": [
+        "B.C. Jiang",
+        "H.T. Hou",
+        "SINAP",
+        "Shanghai",
+        "People's Republic of China"
+      ],
+      "institutions": [],
+      "abstract": "Longitudinal beam dynamics especially transient beam loading effects are simulated with a self-developed code for a passive third harmonic cavity to be installed in the SSRF storage ring. The phase shifts along the bunch train reduce the bunch lengthening effects which is the main concern of this paper.",
+      "presentation_url": "https://proceedings.jacow.org/SAP2014/talks/thpmh4_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SAP2014/papers/thpmh4.pdf",
+      "poster_url": "https://proceedings.jacow.org/SAP2014/posters/thpmh4_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SAP2014-THPMH4",
+      "page_number": "118",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THPMH5",
+      "title": "XAL Applications Development in CSNS",
+      "authors": [
+        "IHEP",
+        "Beijing",
+        "People's Republic of China",
+        "As high level physics applications",
+        "XAL was introduced to CSNS for the future accelerator commissioning. Some general applications of XAL can be used directly in CSNS",
+        "especially for linac and transport line. Because the rapid cycling ring (RCS) of CSNS is very different from the rings which XAL are used before",
+        "some applications must be customized for the RCS. Accordingly",
+        "the database which are used for the applications are also being developed. An introduction of XAL and the developing status in accelerator physics group of CSNS will be brought."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SAP2014/talks/thpmh5_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SAP2014/papers/thpmh5.pdf",
+      "poster_url": "https://proceedings.jacow.org/SAP2014/posters/thpmh5_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SAP2014-THPMH5",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THPMH6",
+      "title": "Simulation of High-Current Ion Beam Envelope and Design of Beam Transport Line for an Intense Neutron Generator",
+      "authors": [
+        "Y. Zhang",
+        "X.M. Chen",
+        "X.L. Lu",
+        "J.R. Wang",
+        "Z. Wei",
+        "Y. Yan",
+        "Z. Yao",
+        "Lanzhou University",
+        "Lanzhou",
+        "People's Republic of China",
+        "Based on the ion beam envelope equation (K-V eq.)",
+        "a numerical simulation method of the high-current ion beam envelope and a computer code ("
+      ],
+      "institutions": [
+        "Funding: Work supported by National Nature Science foundation of China (11027508 and 21327801) and Ministry of Sciences and Technology of china (2013YQ040861)"
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/SAP2014/talks/thpmh6_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/SAP2014/papers/thpmh6.pdf",
+      "poster_url": "https://proceedings.jacow.org/SAP2014/posters/thpmh6_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SAP2014-THPMH6",
+      "page_number": "121",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 6,
+  "scrape_time": "2025-10-11 02:58:12"
+}

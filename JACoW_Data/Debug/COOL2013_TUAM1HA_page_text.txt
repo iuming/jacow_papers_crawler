@@ -1,0 +1,164 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COOL2013 - Table of Session: TUAM1HA (Stochastic Cooling I)
+
+
+TUAM1HA —  Stochastic Cooling I   (11-Jun-13   08:30—10:00)
+Chair: X.D. Yang, IMP, Lanzhou, People's Republic of China
+
+
+Paper
+Title
+Page
+
+
+
+TUAM1HA01
+Progress of the Stochastic Cooling System of the Collector Ring
+40
+
+
+ 
+
+C. Dimopoulou, D. Barker, R.M. Böhm, A. Dolinskyy, B. J. Franzke, R. Hettrich, W. Maier, R. Menges, F. Nolden, C. Peschke, P. Petri, M. Steck
+                       GSI, Darmstadt, Germany
+L. Thorndahl
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+An overview of the recent achievements and ongoing developments for the stochastic cooling system of the Collector Ring is given. In focus are the hardware developments as well as the progress in predicting the system performance. The system operates in the frequency band 1-2 GHz, it has to provide fast 3D cooling of antiproton, rare isotope and stable heavy ion beams. The main challenges are (i) the cooling of antiprotons by means of cryogenic movable pick-up electrodes and (ii) the fast two-stage cooling (pre-cooling by the Palmer method, followed by the notch filter method) of the hot rare isotopes. Recently, a novel code for simulating the cooling process in the time domain has been developed at CERN. First results for the momentum cooling for heavy ions in the CR will be shown in comparison with results obtained in the frequency domain with the Fokker-Planck equation.
+
+ 
+
+
+
+
+
+
+Slides TUAM1HA01 [4.320 MB]
+        
+ 
+
+
+ 
+
+
+
+TUAM1HA02
+Stochastic Cooling of a Polarized Proton Beam at COSY
+44
+
+
+ 
+
+H. Stockhorst, R. Gebel, V. Kamerdzhiev, A. Lehrach, B. Lorentz, R. Maier, D. Prasuhn, R. Stassen
+                       FZJ, Jülich, Germany
+T. Katayama
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Stochastic cooling can increase the spin coherence time in storage ring experiments dedicated to the search of electric dipole moments of protons or deuterons. Since radial magnetic fields may lead to depolarizing spin resonances a first test with a vertical polarized beam at COSY subject to vertical stochastic cooling has been investigated. The polarization was measured at the beginning and the end of flat top momentum with the result that no polarization loss could be observed within five minutes. The spin motion under the influence of stochastic cooling was also studied with the Thomas-BMT equation including the estimated electromagnetic fields for a quarter wave length kicker structure. It is found that the resonance strength in the cooling bandwidth of 1-2 GHz is much smaller than the typical imperfection or intrinsic resonance strengths. The resonance condition of the spin rotation is not fulfilled as the harmonics of cooling RF kicker fields are not in phase with the spin rotation angle per turn. In conclusion it is expected that stochastic cooling will not lead to depolarization even when stochastic cooling is applied for a longer time as in the present experiment.
+
+ 
+
+
+
+
+
+
+Slides TUAM1HA02 [2.324 MB]
+        
+ 
+
+
+ 
+
+
+
+TUAM1HA03
+Stochastic Cooling of Bunched Ions Simulated in the Time Domain
+49
+
+
+ 
+
+L. Thorndahl
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+To include the influence of synchrotron oscillations, beam feedback and IBS a particle by particle and turn by turn treatment in the time-domain has been tried out. - Complete pickup and kicker characteristics are introduced via inverse Laplace transformation, and so is the Dirac function representing the single-ion passage at the pickup. - The computation time is kept within limits thanks to the law that cooling times scale proportionnally with the number of ions. Typically 50 000 simulation particles are cooled in 5000 turns. Instabilities occur for excessive el. gain.
+
+ 
+
+
+
+
+
+
+Slides TUAM1HA03 [0.577 MB]
+        
+ 
+
+
+ 
+
+
+
+TUAM1HA04
+Simulation Study of Stochastic Cooling of Heavy Ion Beam at the Collector Ring of FAIR
+52
+
+
+ 
+
+T. Katayama, C. Dimopoulou, A. Dolinskyy, F. Nolden, M. Steck
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+In the modularized start version of the FAIR project, the New Experimental Storage Ring is not included and therefore the task of the stochastic cooling system at the Collector Ring (CR) has been until now focused on the 3 GeV anti-proton beam. On the other hand, recently the SPARC collaboration has proposed to start the high energy atomic physics experiments in the HESR ring with stable ions, typically a 238U92+ beam, implementing the internal target. Furthermore the future possibility of the nuclear physics experiments with rare isotope beams, typically 132Sn50+ beam, in the HESR is envisaged. In the present report, the beam dynamics, mainly the longitudinal motion from the front-end (superconducting fragment separator) to the back-end (fast extraction from the CR) are described emphasizing the process of stochastic cooling of the rare isotope beam.
+
+ 
+
+
+
+
+
+
+Slides TUAM1HA04 [2.504 MB]
+        
+ 
+
+
+ 
+
+
+
+

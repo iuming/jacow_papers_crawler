@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: TUSH3 (Speakers' Corner)
+
+
+TUSH3 —  Speakers' Corner   (10-Oct-17   17:15—18:45)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUSH302
+uSOP: An Embedded Linux Board for the Belle2 Detector Controls
+1003
+
+
+ 
+
+G. Tortone, A. Anastasio, V. Izzo
+                       INFN-Napoli, Napoli, Italy
+A. Aloisio, F. Di Capua, R. Giordano
+                       University of Naples, Napoli, Italy
+F. Ameli
+                       INFN-Roma1, Rome, Italy
+P. Branchini
+                       roma3, Rome, Italy
+
+ 
+
+
+ 
+
+Control systems for scientific instruments and experiments would benefit from hardware and software platforms that provide flexible resources to fulfill various installation requirements. uSOP is a Single Board Computer based on ARM processor and Linux operating system that makes it possible to develop and deploy easily various control system frameworks (EPICS, Tango) supporting a variety of different buses (I2C, SPI, UART, JTAG), ADC, General Purpose and specialized digital IO. In this work we present a live demo of a uSOP board, showing a running IOC for a simple control task. We also describe the deployment of uSOP as a monitoring system architecture for the Belle2 experiment, presently under construction at the KEK Laboratory (Tsukuba, Japan).
+
+ 
+
+
+
+
+
+
+Poster TUSH302 [5.399 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUSH302
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUSH303
+Managing your Timing System as a Standard Ethernet Network
+1007
+
+
+ 
+
+A. Wujek, G. Daniluk, M.M. Lipinski
+                       CERN, Geneva, Switzerland
+A. Rubini
+                       GNUDD, Pavia, Italy
+
+ 
+
+
+ 
+
+White Rabbit (WR) is an extension of Ethernet which allows deterministic data delivery and remote synchronization of nodes with accuracies below 1 nanosecond and jitter better than 10 ps. Because WR is Ethernet, a WR-based timing system can benefit from all standard network protocols and tools available in the Ethernet ecosystem. This paper describes the configuration, monitoring and diagnostics of a WR network using standard tools. Using the Simple Network Management Protocol (SNMP), clients can easily monitor with standard monitoring tools like Nagios, Icinga and Grafana e.g. the quality of the data link and synchronization. The former involves e.g. the number of dropped frames; The latter concerns parameters such as the latency of frame distribution and fibre delay compensation. The Link Layer Discovery Protocol (LLDP) allows discovery of the actual topology of a network. Wireshark and PTP Track Hound can intercept and help with analysis of the content of WR frames of live traffic. In order to benefit from time-proven, scalable, standard monitoring solutions, some development was needed in the WR switch and nodes.
+
+ 
+
+
+
+
+
+
+Poster TUSH303 [1.608 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUSH303
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

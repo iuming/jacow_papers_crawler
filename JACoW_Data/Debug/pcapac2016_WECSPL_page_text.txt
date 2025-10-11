@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2016 - Table of Session: WECSPL (Control Systems)
+
+
+WECSPL —  Control Systems   (26-Oct-16   11:00—12:20)
+Chair: J.T.M. Chrin, PSI, Villigen PSI, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+WECSPLIO01
+The Sirius Motion Control Report
+1
+
+
+ 
+
+M.P. Donadio, F.P. Figueiredo, J.R. Piton, H.D. de Almeida
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Sirius is the new 4th generation synchrotron light source being built in Campinas, Brazil. The motion control report was created to describe all the steps taken to choose the set of motors, motor drives and controllers that the hardware (GAE) and software (SOL) support groups will recommend. The steps include researching motion control systems in other Synchrotron laboratories, talking to the Sirius beam line designers, defining requirements and testing. This presentation describes the report, showing the information gathering process and latest results.
+
+ 
+
+
+
+
+
+
+Slides WECSPLIO01 [14.187 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WECSPLIO01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECSPLCO02
+Control System Evolution and the Importance of Trial and Error
+6
+
+
+ 
+
+P. Duval, M. Lomperski
+                       DESY, Hamburg, Germany
+J. Bobnar
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+We address the importance and benefits of trial and error in control system evolution. Our focus is on particle accelerators and large machines, whose control systems, although complex, will not lead to catastrophe in case of failure. In particular we focus on the evolution of control system software. We shall contrast classical Darwinian evolution via natural selection with control system evolution, which proceeds rather via artificial selection, although there are numerous software memes which tend to replicate according to their 'fitness'. The importance of general trial and error, i.e. making mistakes and learning from them, in advancing the capabilities of a control system will be explored, particularly as concerns decision making and overcoming 'Einstellung', i.e. the predisposition to solve a given problem in a specific manner even though better or more appropriate methods of solving the problem exist.
+
+ 
+
+
+
+
+
+
+Slides WECSPLCO02 [2.297 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WECSPLCO02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECSPLCO03
+Software Tests and Simulations for Control Applications Based on Virtual Time
+10
+
+
+ 
+
+M. Hierholzer, M. Killenberg, T. Kozak, N. Shehzad, G. Varghese, M. Viti
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Ensuring software quality is important, especially for control system applications. Writing tests for such applications requires replacing the real hardware with a virtual implementation in software. Also the rest of the control system which interacts with the application must be replaced with a mock. In addition, time must be controlled precisely. We present the VirtualLab framework as part of the Chimera Tool Kit (formerly named MTCA4U). It has been designed to help implementing such tests by introducing the concept of virtual time, and combining it with an implementation basis for virtual devices and plant models. The virtual devices are transparently plugged into the application in place of real devices. Also tools are provided to simplify the simulated interaction with other parts of the control system. The framework is designed modularly so that virtual devices and model components can be reused to test different parts of the control system software. It interacts seamlessly with the other libraries of the Chimera Tool Kit such as DeviceAccess and the control system adapter.
+
+ 
+
+
+
+
+
+
+Slides WECSPLCO03 [8.642 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WECSPLCO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECSPLCO04
+Development and Current Status of a Carborne Gamma-Ray Survey System, Kurama-II
+13
+
+
+ 
+
+M. Tanigaki, Y. Kobayashi, R. Okumura, N. Sato, K. Takamiya, H. Yoshinaga, H. Yoshino
+                       Kyoto University, Research Reactor Institute, Osaka, Japan
+
+ 
+
+
+ 
+
+A carborne gamma-ray survey system, named as KURAMA (Kyoto University RAdiation MApping system), was developed as a response to the nuclear accident at TEPCO Fukushima Daiichi Nuclear Power Plant in 2011. A CompactRIO-based system KURAMA-II has been developed as the successor of KURAMA, and served for various activities on the radiation monitoring in eastern Japan. We continue developing KURAMA-II as a tool not only for the current monitoring activities, but also for the immediate responses in nuclear incidents in future. The current status and on-going developments of KURAMA-II will be introduced along with the recent status of eastern Japan.
+
+ 
+
+
+
+
+
+
+Slides WECSPLCO04 [26.670 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WECSPLCO04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECSPLCO05
+The !Chaos Framework for Control Systems: Recent Progress and Multi-Disciplinary Applications
+ 
+
+
+ 
+
+L. Catani
+                       INFN-Roma II, Roma, Italy
+C. Bisegni, S. Caschera, P. Ciuffetti, A. D'Uffizi, G. Di Pirro, L.G. Foggetta, F. Galletti, R. Gargana, E. Gioscio, A. Michelotti, A. Stecchi
+                       INFN/LNF, Frascati (Roma), Italy
+D.G.C. Di Giulio
+                       INFN - Roma Tor Vergata, Roma, Italy
+
+ 
+
+
+ 
+
+We report on the progress of !CHAOS, the framework for control systems designed for the development of control and data acquisition services for particle accelerators and large experimental apparatuses. The !CHAOS framework is based on software technologies developed for high performance web services offering a high level of abstraction of services and components that make the !CHAOS architecture suitable for a wider spectrum of applications than HEP. Recent developments of !CHAOS were aimed at completing the controls of the DAΦNE Beam-Test Facility (BTF) transfer line, which is now running all the services provided by the framework, and the deployment of other stand-alone !CHAOS installations in the LNF accelerators complex. During the same period the !CHAOS collaboration completed and deployed an application of !CHAOS to building automation. This implementation is the prototype of a nation-wide infrastructure aimed at offering high performance services for the data collection and control of distributed devices, multifunctional sensors and local controllers.
+
+ 
+
+
+
+
+
+
+Slides WECSPLCO05 [3.090 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

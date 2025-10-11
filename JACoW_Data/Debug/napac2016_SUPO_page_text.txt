@@ -1,0 +1,2516 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2016 - Table of Session: SUPO (Student Poster Session)
+
+
+SUPO —  Student Poster Session   (09-Oct-16   14:00—18:00)
+Chair: K.C. Harkay, ANL, Argonne, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+SUPO01
+An Accurate and Efficient Numerical Integrator for Pair-Wise Interaction
+ 
+
+
+TUPOB14
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A.A. Al Marzouk, B. Erdelyi
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+We are developing a new numerical integrator based on Picard iteration method for Coulomb collisions. The aim is to achieve a given prescribed accuracy most efficiently. The integrator is designed to have adaptive time stepping, variable order, and dense output. It also has an automatic selection of the order and the time step. We show that with a good estimation of the radius of convergence of the expansion, we can obtain the optimal time step size. We also show how the optimal order of the integration is chosen to maintain the required accuracy. For efficiency, particles are distributed over time bins and propagated accordingly.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOB14
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO02
+Preliminary Tests of Plasma Cleaning as an in-Situ Superconducting RF Cavity Cleaning Technique
+ 
+
+
+WEB3CO04
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+B.R. Barber
+                       University of Chicago, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the NSF and the DOE. Some work was done at the Pritzker Nanofabrication Facility of UChicago, supported by the NSF National Nanotechnology Coordinated Infrastructure.
+Oxygen plasmas have shown promise for removing surface hydrocarbons from niobium in superconducting RF cavities. These techniques are candidates for in-situ cleaning techniques for installed accelerating cavities. The goal is to improve the performance of cavities that have degraded over time, without removing them from their cryomodule. By varying the governing parameters of the plasma, the primary cleaning method can be varied between a primarily physical process (sputtering) and a primarily chemical process. We extend this work from organic contaminants to more general contaminants, including metallic species. These preliminary tests are primarily concerned with characterizing the cleaning power of various plasma compositions. A variety of gas species are used to create different plasma compositions, including Ar, Ne, O2, N2, H2, and He. Cleaning power is determined by performing surface characterization analysis on room-temperature niobium samples before and after plasma treatment. Samples are maintained in a clean environment between characterization and treatment, to prevent surface recontamination. Measurements of surface contamination and surface character are presented.
+
+ 
+
+
+
+
+
+
+Slides SUPO02 [1.305 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO03
+Minimization of Emittance at the Cornell Electron Storage Ring With Sloppy Models
+ 
+
+
+TUPOA58
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+W.F. Bergan, A.C. Bartnik, I.V. Bazarov, H. He, D. L. Rubin
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+J.P. Sethna
+                       Cornell University, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: DOE DE-SC0013571 NSF DGE-1144153
+Our current method to minimize the vertical emittance of the beam at the Cornell Electron Storage Ring (CESR) involves measurement and correction of the dispersion, coupling, and orbit of the beam and lets us reach emittances of 10 pm, but is limited by finite dispersion measurement resolution.* For further improvement in the vertical emittance, we propose using a method based on the theory of sloppy models.** The storage ring lattice permits us to identify the dependence of the dispersion and emittance on our corrector magnets, and taking the singular value decomposition of the dispersion/corrector Jacobian gives us the combinations of these magnets which will be effective knobs for emittance tuning, ordered by singular value. These knobs will permit us to empirically tune the emittance based on direct measurements of the vertical beam size. Simulations show that when starting from a lattice with realistic alignment errors which has been corrected by our existing method to have an emittance of a few pm, this new method will enable us to reduce the emittance to nearly the quantum limit, assuming that vertical dispersion is the primary source of our residual emittance.
+* J. Shanks, D.L. Rubin, and D. Sagan, Phys. Rev. ST Accel. Beams 17, 044003 (2014). ** K.S. Brown and J.P. Sethna, Phys. Rev. E 68, 021904 (2003).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA58
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO04
+Quality Factor in High Power Tests of Cryogenic Copper Accelerating Cavities
+ 
+
+
+WEPOB41
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A.D. Cahill, J.B. Rosenzweig
+                       UCLA, Los Angeles, California, USA
+V.A. Dolgashev, M.A. Franzi, S.G. Tantawi, S.P. Weathersby
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Research made possible by DOE SCGSR and DOE/SU Contract DE-AC02-76-SF00515
+Recent SLAC experiments with cryogenically cooled 11.4 GHz standing wave copper accelerating cavities have shown evidence of 250 MV/m accelerating gradients with low breakdown rates. The gradient depends on the circuit parameters of the accelerating cavity, such as the intrinsic and external quality factors (Q0, QE). In our studies we see evidence that Q0 decreases during rf pulse at 7-70 K. This paper discusses experiments that are directed towards understanding the change of Q0 at high power.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB41
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO05
+Magnetic Cloaking of Charged Particle Beams
+ 
+
+
+TUPOB43
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+K.G. Capobianco-Hogan, A.A. Adhyatman, G. Arrowsmith-Kron, G. Bello Portmann, D.B. Bhatti, R. Cervantes, B.D. Coe, A. Deshpande, N. Feege, S.P. Jeffas, T.C. Krahulik, J.J. LaBounty, T.M. LaByer, A. Oliveira, H.A. Powers, R.S. Sekelsky, V.D. Shethna, N. Ward, H.J. van Nieuwenhuizen
+                       Stony Brook University, Stony Brook, USA
+R. Cervantes
+                       University of Washington, CENPA, Seattle, USA
+B.D. Coe
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+In order to measure the momentum of particles produced by asymmetric collisions in the proposed Electron Ion Collider, a magnetic field should be introduced perpendicular to the path of the beam to increase momentum resolution without bending or depolarizing it. A magnetic cloak consisting of a superconducting magnetic shield surrounded by a ferromagnetic layer is capable of shielding the interior from a magnetic field – thereby protecting the beam – without distorting the field outside of the cloak – permitting detector coverage at high pseudorapidity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOB43
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO06
+Electron Cloud Trapping in Recycler Combined Function Dipole Magnets
+ 
+
+
+THPOA49
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. A. Antipov
+                       University of Chicago, Chicago, Illinois, USA
+S. Nagaitsev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Electron cloud can lead to a fast instability in intense proton and positron beams in circular accelerators. In the Fermilab Recycler the electron cloud is confined within its combined function magnets. We show that combined function magnets trap the electron cloud with their magnetic field, present the results of analytical estimates of trapping, and compare them to numerical simulations of electron cloud formation. The electron cloud in a combined function magnet is located at the beam center and up to 1% of the particles can be trapped by its magnetic field. Since the process of electron cloud build-up is exponential, once trapped this amount of electrons significantly increases the density of the cloud on the next revolution. In a Recycler combined function dipole this multi-turn accumulations allows the electron cloud reaching final intensities orders of magnitude greater than in a pure dipole. The multi-turn build-up can be stopped by injection of a single clearing bunch of 1*1010 p at any position in the ring.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-THPOA49
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO07
+6D Phase Space Measurement of Low Energy, High Intensity Hadron Beam
+ 
+
+
+FRA1CO04
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+B.L. Cathey
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+A.V. Aleksandrov, S.M. Cousineau, A.P. Zhukov
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: SNS is managed by UT-Battelle, LLC, under contract DE-AC05-00OR22725 for the U.S. Department of Energy. The work has been partially supported by NSF grant 1535312
+The goal of this project is to demonstrate a method for measuring the full 6D phase space of an low energy, high intensity hadron beam. This is done by combining 4D emittance measurement techniques along with dispersion measurement and a beam shape monitor to provide the energy and phase space components. The measurement will be performed on new Beam Testing Facility (BTF) at the Spallation Neutron Source (SNS), a 2.5 MeV functional duplicate of the SNS accelerator front end.
+
+ 
+
+
+
+
+
+
+Slides SUPO07 [8.295 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-FRA1CO04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO08
+Enhancement of the Accelerating Gradient in Superconducting Microwave Resonators
+ 
+
+
+MOPOB20
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Checchin, A. Grassellino, M. Martinello, S. Posen, A. Romanenko
+                       Fermilab, Batavia, Illinois, USA
+M. Martinello
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+J. Zasadzinski
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+The accelerating gradient of superconducting resonators can be enhanced by engineering the thickness of a dirty layer grown at the cavity's rf surface. In this paper the description of the physics behind the accelerating gradient enhancement by meaning of the dirty layer is carried out by solving numerically the the Ginzburg-Landau (GL) equations for the layered system. The calculation shows that the presence of the dirty layer stabilizes the Meissner state up to the lower critical field of the bulk, increasing the maximum accelerating gradient.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-MOPOB20
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO10
+First Steps Toward Incorporating Image Based Diagnostics into Particle Accelerator Control Systems Using Convolutional Neural Networks
+ 
+
+
+TUPOA51
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A.L. Edelen, S. Biedron, S.V. Milton
+                       CSU, Fort Collins, Colorado, USA
+J.P. Edelen
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+At present, a variety of image-based diagnostics are used in particle accelerator systems. Often times, these are viewed by a human operator who then makes appropriate adjustments to the machine. Given recent advances in using convolutional neural networks (CNNs) for image processing, it should be possible to use image diagnostics directly in control routines (NN-based or otherwise). This is especially appealing for non-intercepting diagnostics that could run continuously during beam operation. Here, we show results of a first step toward implementing such a controller: our trained CNN can predict multiple simulated downstream beam parameters at the Fermilab Accelerator Science and Technology (FAST) facility's low energy beamline using simulated virtual cathode laser images, gun phases, and solenoid strengths.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA51
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO11
+Demonstration of fresh slice self seeding in a hard X-ray free electron laser
+ 
+
+
+TUB3CO03
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C. Emma, C. Pellegrini
+                       UCLA, Los Angeles, USA
+M.W. Guetg, A.A. Lutman, A. Marinelli, J. Wu
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+We discuss the first demonstration of fresh slice self seeding (FSSS) in a hard X-ray Free Electron Laser (XFEL). The FSSS method utilizes a single electron beam to generate a strong seed pulse and amplify it with a small energy spread electron slice. This extends the capability of self seeded XFELs by producing short pulses, not limited by the duration set by the self-seeding monochromator system, with high peak intensity. The scheme relies on using a parallel plate dechirper to impart a spatial chirp on the beam, and appropriate orbit control to lase with different electron beam slices before and after the self-seeding monochromator. The performance of the FSSS method is analyzed with start-to-end simulations for the Linac Coherent Light Source (LCLS). The simulations include the effect of the parallel plate dechirper and propagation of the radiation field through the monochromator. We also present results of the first successful demonstration of FSSS at LCLS. The radiation properties of FSSS X-ray pulses are compared with the Self-Amplified Spontaneous Emission (SASE) mode of FEL operation for the same electron beam parameters.
+
+ 
+
+
+
+
+
+
+Slides SUPO11 [10.423 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUB3CO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO12
+Dynamics of Intense Beam in Quadrupole-Duodecapole Lattice Near Sixth Order Resonance
+ 
+
+
+TUPOB26
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y.K. Batygin, T.T. Fronkpresenter
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE under contract DE-AC52-06NA25396
+The presence of duodecapole components in quadrupole focusing field results in excitation of sixth-order single-particle resonance if the phase advance of the particles transverse oscillation is close to 60 deg. This phenomenon results in intensification of beam losses. We present analytical and numerical treatment of particle dynamics in the vicinity of sixth-order resonance. The topology of resonance in phase space is analyzed. Beam emittance growth due to crossing of resonance islands is determined. Halo formation of intense beams in presence of resonance conditions is examined.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOB26
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO13
+Implementing the Fast Multipole Boundary Element Method With High-Order Elements
+ 
+
+
+TUPOB15
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A.J. Gee, B. Erdelyi
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+The next generation of beam applications will require high-intensity beams with unprecedented control. For the new system designs, simulations that model collective effects must achieve greater accuracies and scales than conventional methods allow. The fast multipole method is a strong candidate for modeling collective effects due to its linear scaling. It is well known the boundary effects become important for such intense beams. We implemented a constant element fast boundary element method (FMBEM) * as our first step in studying the boundary effects. To reduce the number of elements and discretization error, our next step is to allow for curvilinear elements. In this paper we will present our study on a quadratic and a cubic parametric method to model the surface.
+* A.Gee and B.Erdelyi, "A Differential Algebraic Framework for the Fast Indirect Boundary Element Method," in Proc. IPAC'16. Busan, South Korea.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOB15
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO14
+Performance of a Combined System Using an X-Ray FEL Oscillator and a High-Gain FEL Amplifier
+ 
+
+
+WEPOB32
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+L. Gupta
+                       University of Chicago, Chicago, Illinois, USA
+K.-J. Kim, R.R. Lindberg
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: [5] R. R. Lindberg, K.-J. Kim, "Intense, coherent x-rays at 40 keV or higher by combining an XFELO and a high-gain harmonic generation," (in prep) US DOE contract DE-AC02-06CH11357 & NSF PHY-1535639
+The LCLS-II at SLAC will feature a 4 GeV CW superconducting (SC) RF linac [1] that can potentially drive a 5th harmonic X-Ray FEL Oscillator to produce fully coherent, 1 MW photon pulses with a 5 meV bandwidth at 14.4 keV [2]. The XFELO output can serve as the input seed signal for a high-gain FEL amplifier employing fs electron beams from the normal conducting SLAC linac, thereby generating coherent, fs x-ray pulses with ~TW peak powers using a tapered undulator after saturation [3]. Coherent, intense output at several tens of keV will also be feasible if one considers a harmonic generation scheme. Thus, one can potentially reach the 42 keV photon energy required for the MaRIE project [4] by beginning with an XFELO operating at the 5th harmonic to produce 8.4 keV photons using a 3.1 GeV SCRF linac, and then subsequently using the high-gain harmonic generation scheme to generate and amplify the 5th harmonic at 42 keV [5]. We report extensive GINGER simulations that determine an optimized parameter set for the combined system. [1] "Linac Coherent Light Source-II Conceptual Design Report," SLAC-R-978 (2011)
+[2] T. J. Maxwell, et al., "Feasibility Study for an X-Ray FEL Oscillator at the LCLS-II," IPAC, Richmond, VA (May, 2015)  [3] K.-J. Kim, et al., IPAC 2016  [4] http://www.lanl.gov 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB32
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO15
+A Simple Method for Measuring the Electron-Beam Magnetization
+ 
+
+
+TUPOB16
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A. Halavanau, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+G. Ha
+                       POSTECH, Pohang, Kyungbuk, Republic of Korea
+P. Piot
+                       Fermilab, Batavia, Illinois, USA
+J.G. Power, E.E. Wisniewski
+                       ANL, Argonne, Illinois, USA
+G. Qiang
+                       TUB, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+There are a number of projects that require magnetized beams, such as electron cooling or aiding in flat beam transforms. Here we explore a simple technique to characterize the magnetization, observed through the angular momentum of magnetized beams. These beams are produced through photoemission. The generating drive laser first passes through microlens arrays (fly-eye light condensers) to form a transversely modulated pulse incident on the photocathode surface. The resulting charge distribution is then accelerated from the photocathode. We explore the evolution of the pattern via the relative shearing of the beamlets, providing information about the angular momentum. This method is illustrated through numerical simulations and preliminary measurements carried out at the Argonne Wakefield Accelerator (AWA) facility are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOB16
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO17
+Bench Measurements of a Multi-Frequency Prototype Cavity for the Fast Kicker in the JLEIC Circulator Cooler Ring
+ 
+
+
+THA2CO04
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y.L. Huang
+                       IMP/CAS, Lanzhou, People's Republic of China
+J. Guo, R.A. Rimmer, H. Wang, S. Wang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Jefferson Science Associates, LLC under U.S.DOE Contract No. DE-AC05-06OR23177
+A multi-frequency copper prototype cavity with 5 odd harmonic modes (from 95.26 MHz to 857.34 MHz) is fabricated and bench measured at JLab. This quarter wavelength resonator (QWR) based deflecting cavity is an half scale prototype of the five-mode cavity (from 47.63 MHz to 428.67 MHz) in the QWRs group developed for the ultrafast harmonic RF kicker in the proposed Jefferson Lab Electron Ion Collider (JLEIC, formerly MEIC). With this prototype cavity, several RF measurements are performed and the results show good agreement with the simulation results.
+
+ 
+
+
+
+
+
+
+Slides SUPO17 [7.286 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-THA2CO04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO18
+LLNL Laser-Compton X-Ray Characterization
+ 
+
+
+WEPOB35
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y. Hwang, T. Tajima
+                       UCI, Irvine, California, USA
+G.G. Anderson, C.P.J. Barty, D.J. Gibson, R.A. Marsh
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52- 07NA27344
+30 keV Compton-scattered X-rays have been produced at LLNL. The flux, bandwidth, and X-ray source focal spot size have been characterized using an X-ray ICCD camera and results agree very well with modeling predictions. The RMS source size inferred from direct electron beam spot size measurement is 17 um , while imaging of the penumbra yields an upper bound of 42 um. The accuracy of the latter method is limited by the spatial resolution of the imaging system, which has been characterized as well, and is expected to improve after the upgrade of the X-ray camera later this year.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB35
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO19
+Update of the SEY Measurement at Fermilab Main Injector
+ 
+
+
+THPOA45
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y. Ji
+                       IIT, Chicago, Illinois, USA
+L.K. Spentzouris
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+R.M. Zwaska
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Studies of in-situ Secondary electron yield (SEY) mea- surements of material samples at the Main Injector (MI) beam pipe wall location started in 2013. [2, 3] These studies aimed at understanding how the beam conditioning of differ- ent materials evolve if they function as MI vacuum chamber walls. The engineering run of the SEY measurement test stand was finished in 2014. From 2014 to 2016 the Fermilab accelerator intensity has increased from 24 × 1012 protons to 42 × 1012 protons. The beam conditioning effect on SS316L and TiN coated SS316L has been observed throughout this period. [1] Improvement of the data acquisition procedure and hardware has been performed. A deconditioning pro- cess was observed during the accelerator annual shut down in 2016.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-THPOA45
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO22
+LCLS Injector Laser Profile Shaping Using Digital Micromirror Device
+ 
+
+
+WEPOB49
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Li
+                       Stanford University, Stanford, California, USA
+S.C. Alverson, D.K. Bohler, A.R. Fry, S. Gilevich, Z. Huang, A. Miahnahri, D.F. Ratner, J. Robinson, F. Zhou
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+In the Linear Coherent Light Source (LCLS) at SLAC, the injector laser plays an important role as the source of the electron beam for the Free Electron Laser (FEL). The emittance of the beam is highly related to the transverse profile of the injector laser. Currently the LCLS injector laser has undesired features, such as hot spots, which carry over to the electron beam. These undesired features increase electron emittance, degrade the FEL performance, and complicate operations. The injector laser shaping project at LCLS aims to produce arbitrary electron beam profiles, such as cut-Gaussian, uniform, and parabolic, and to study the effect of spatial profiles on beam emittance and FEL performance. Effectively it also allows easy transition between the two spare lasers, where the operators can use the spatial shaper to achieve identical profiles for the two lasers. In this paper, we describe the experimental methods to achieve laser profile shaping and electron beam profile shaping respectively, and demonstrate promising results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB49
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO23
+Diffusion Measurement From Transverse Echoes
+ 
+
+
+TUPOB37
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y.S. Li
+                       Carleton College, Northfield, Minnesota, USA
+
+ 
+
+
+ 
+
+Beam diffusion is an important measure of stability in high intensity beams. Traditional methods of diffusion characterization (e.g. beam scraping) can be very time-consuming. In this study, we investigate the transverse beam echo as a novel technique for measuring beam diffusion. Numerical analysis of maximum echo amplitude was compared with theoretical predictions with and without diffusion. We succeeded in performing a self-consistent measurement of the linear diffusion coefficient via a parameter scan over delay time. We also demonstrated the effectiveness of pulsed quadrupoles as a means to boost echo amplitude. Finally, multi-echo sequences were also briefly investigated. Results from this study will support planned experiments at the IOTA proton ring under construction at Fermilab.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOB37
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO24
+Future Prospects of RF Hadron Beam Profile Monitors for Intense Neutrino Beam
+ 
+
+
+TUPOA44
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Q. Liu
+                       Case Western Reserve University, Cleveland, USA
+M. Backfish, A. Moretti, V. Papadimitriou, A.V. Tollestrup, K. Yonehara, R.M. Zwaska
+                       Fermilab, Batavia, Illinois, USA
+M.A. Cummings, R.P. Johnson, G.M. Kazakevich
+                       Muons, Inc, Illinois, USA
+B.T. Freemire
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Fermilab Research Alliance, LLC under Contract No. DE-AC02-07CH11359 and DOE STTR Grant, No. DE-SC0013795.
+A novel beam monitor based on a gas-filled RF resonator is proposed to measure the precise profile of secondary particles downstream of a target in the LBNF beam line at high intensity. The RF monitor is so simple that it promises to be radiation robust in extremely high-radiation environment. When a charged beam passes through a gas-filled microwave RF cavity, it produces electron-ion pairs in the RF cavity. The induced plasma changes the gas permittivity in proportion to the beam intensity. The permittivity shift can be measured by the modulated RF frequency and quality factor. The beam profile can thus be reconstructed from the signals from individual RF cavity pixels built into the beam profile monitor. A demonstration test is underway, and the current results has shown technical feasibility. The next phase consists of two stages, (1) to build and test a new multi-cell 2.45 GHz RF cavity that can be used for the NuMI beamline, and (2) to build and test a new multi-cell 9.3 GHz RF cavity that can be put in service in a future beamline at the LBNF for spatial resolution. These two resonant frequencies are chosen since they are the standard frequencies for magnetron RF source.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA44
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO25
+Novel Metallic Structures for Wakefield Acceleration
+ 
+
+
+WEPOA33
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+X.Y. Lu, M.A. Shapiro, R.J. Temkin
+                       MIT/PSFC, Cambridge, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: US DOE, Office of High Energy Physics
+Three novel ideas for wakefield acceleration (WFA) of electrons with metallic periodic subwavelength structures will be presented. The first idea is a deep corrugation structure for collinear WFA. A design for the Argonne Wakefield Accelerator is shown. An analytical model is developed and it agrees with the CST wakefield solver. A scaling study has been performed, and ways to increase the gradient will be discussed. The deep corrugation structure can generate a higher gradient than a dielectric tube with the same beam aperture when excited by the same bunch. The second idea is an elliptical structure for two-beam acceleration (TBA). The unit cell is an elliptical cavity, and the drive beam hole and the witness beam hole are located around the two focal points. The TBA process has been calculated and will be presented. The third idea is a metamaterial ‘wagon wheel' structure for a power extractor design. The fundamental mode is a TM mode with a negative group velocity. A power extractor at 11.7 GHz based on the structure can reach a GW power level when a train of 40 nC bunches with 1.3 GHz rep rate are sent in.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOA33
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO26
+Modulator Simulations for Coherent Electron Cooling
+ 
+
+
+WEPOA55
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+J. Ma, X. Wang
+                       SBU, Stony Brook, New York, USA
+V. Litvinenko, V. Samulyak, G. Wang, K. Yu
+                       BNL, Upton, Long Island, New York, USA
+V. Litvinenko
+                       Stony Brook University, Stony Brook, USA
+V. Samulyak
+                       SUNY SB, Stony Brook, New York, USA
+
+ 
+
+
+ 
+
+Highly resolved numerical simulations of the modulator, the first section of the proposed coherent electron cooling (CEC) device, have been performed using the code SPACE. The beam parameters for simulations are relevant to the Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory (BNL). Numerical convergence has been studied using various numbers of macro-particles and mesh refinements of computational domain. A good agreement of theory and simulations has been obtained for the case of stationary and moving ions in uniform electron clouds with realistic distribution of thermal velocities. The main result of the paper is the prediction of modulation processes for ions with reference and off-reference coordinates in realistic Gaussian electron bunches with quadrupole field.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOA55
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO27
+Real-Time Magnetic Electron Energy Spectrometer for Use With Medical Linear Acceletors
+ 
+
+
+TUPOA38
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+P.E. Maggi, H.R. Hogstrom, K.L. Matthews II
+                       LSU, Baton Rouge, USA
+R.L. Carver
+                       Mary Bird Perkins Cancer Center, Our Lady of the Lake, Baton Rouge, USA
+
+ 
+
+
+ 
+
+Accelerator characterization and quality assurance is an integral part of electron linear accelerator (linac) use in a medical setting. The current clinical method for radia-tion metrology of electron beams (dose on central axis versus depth in water) only provides a surrogate for the underlying performance of the accelerator and does not provide direct information about the electron energy spectrum. We have developed an easy to use real-time magnetic electron energy spectrometer for characterizing the electron beams of medical linacs. Our spectrometer uses a 0.57 T permanent magnet block as the dispersive element and scintillating fibers coupled to a CCD camera as the position sensitive detector. The goal is to have a device capable of 0.12 MeV energy resolution (which corresponds to a range shift of 0.5 mm) with a minimum readout rate of 1 Hz, over an energy range of 5 to 25 MeV. This work describes the real-time spectrometer system, the detector response model, and the spectrum unfolding method. Measured energy spectra from multi-ple electron beams from an Elekta Infinity Linac are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA38
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO28
+Surface Impurity Content Optimization to Maximize Q-factors of Superconducting Resonators
+ 
+
+
+WEB1CO03
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Martinello, M. Checchin, A. Grassellino, O.S. Melnychuk, S. Posen, A. Romanenko, D.A. Sergatskov
+                       Fermilab, Batavia, Illinois, USA
+M. Checchin
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+J. Zasadzinski
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Quality factor of superconducting radio-frequency (SRF) cavities is degraded whenever magnetic flux is trapped in the cavity walls during the cooldown. In this contribution we study how the trapped flux sensitivity, defined as the trapped flux surface resistance normalized for the amount of trapped flux, depends on the mean free path. A systematic study of a variety of 1.3 GHz cavities with different surface treatments (EP, 120 °C bake and different N-doping) is carried out. A bell shaped trend appears for the range of mean free path studied. Over-doped cavities fall at the maximum of this curve defining the largest values of sensitivity. In addition, we have studied the trend of the BCS surface resistance contribution as a function of mean free path, showing that N-doped cavities follow close to the theoretical minimum. Adding these results together we show that the 2/6 N-doping treatment gives the highest Q-factor values at 2 K and 16 MV/m, as long as the magnetic field fully trapped during the cavity cooldown is lower than 10 mG.
+
+ 
+
+
+
+
+
+
+Slides SUPO28 [4.500 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEB1CO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO30
+Simulated Measurements of Beam Cooling in Muon Ionization Cooling Experiment
+ 
+
+
+WEPOA36
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+T.A. Mohayai
+                       IIT, Chicago, Illinois, USA
+D.V. Neuffer, D.V. Neuffer, P. Snopok
+                       Fermilab, Batavia, Illinois, USA
+C.T. Rogers
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+P. Snopok
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Science Graduate Student Research (SCGSR) under contract No. DE-AC05-06OR23100.
+Cooled muon beams are essential to enable future Neutrino Factory and Muon Collider facilities. The international Muon Ionization Cooling Experiment (MICE) aims to demonstrate muon beam cooling through ionization energy loss in material. A figure of merit for muon beam cooling in MICE is the transverse root-mean-square (RMS) emittance reduction and to measure this, the individual muon positions and momenta are reconstructed using two scintillating-fiber tracking detectors housed in spectrometer solenoid modules. The reconstructed positions and momenta before and after a low-Z absorbing material are then used for constructing the covariance matrix and measuring normalized transverse RMS emittance of MICE muon beam. However, RMS emittance is sensitive to nonlinear effects in beam optics. In this study, the direct measurement of phase-space density as an alternative approach to measuring the muon beam cooling using the novel Kernel Density Estimation (KDE) method, is described.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOA36
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO31
+Benchmark of RF Photoinjector and Dipole Using ASTRA, GPT, and OPAL
+ 
+
+
+THPOA46
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+N.R. Neveu
+                       IIT, Chicago, Illinois, USA
+A. Adelmann
+                       PSI, Villigen PSI, Switzerland
+G. Ha
+                       POSTECH, Pohang, Kyungbuk, Republic of Korea
+C.J. Metzger-Kraus
+                       HZB, Berlin, Germany
+N.R. Neveu, J.G. Power
+                       ANL, Argonne, Illinois, USA
+P. Piot
+                       Fermilab, Batavia, Illinois, USA
+P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+S.J. Russell
+                       LANL, Los Alamos, New Mexico, USA
+L.K. Spentzouris
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Grant no. DE-SC0015479, and contract No. DE-AC02-06CH11357.
+With the rapid improvement in computing resources and codes in recent years, accelerator facilities can now achieve and rely on accurate beam dynamics simulations. These simulations include single particle effects (e.g. particle tracking in a magnetic field) as well as collective effects such as space charge (SC), and coherent synchrotron radiation (CSR). Using portions of the Argonne Wakefield Accelerator (AWA) as the benchmark model, we simulated beam dynamics with three particle tracking codes. The AWA rf photoinjector was benchmarked, primarily to study SC, in ASTRA, GPT, and OPAL-T using a 1 nC beam. A 20° dipole magnet was used to benchmark CSR effects in GPT and OPAL-T by bending a 1nC beam at energies between 2 MeV and 100 MeV. In this paper we present the results, and discuss the similarities and differences between the codes.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-THPOA46
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO33
+New 1.4 Cell RF Photoinjector Design for High Brightness Beam Generation
+ 
+
+
+THA2CO03
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+E. Pirez, P. Musumeci
+                       UCLA, Los Angeles, California, USA
+D. Alesini
+                       INFN/LNF, Frascati (Roma), Italy
+J.M. Maxson
+                       Cornell University, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was partially funded by NSF grant 145583
+The new electromagnetic and mechanical designs of the S-band 1.4 cell photoinjector are discussed. A novel fabrication method is adopted to replace the brazing process with a clamping technique achieving lower breakdown probability. The photoinjector is designed to operate at a 120 MV/m gradient and an optimal injection phase of 70 degrees to improve the extraction field by a factor of 1.9 compared to standard 1.6 cell designs with the same peak field. New geometries and features are implemented to improve beam quality for the demand of high brightness beam applications.
+
+ 
+
+
+
+
+
+
+Slides SUPO33 [2.444 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-THA2CO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO34
+Investigation of Structural Development in the Two-Step Diffusion Coating of Nb3Sn on Niobium
+ 
+
+
+WEB1CO02
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+U. Pudasaini, M.J. Kelley
+                       The College of William and Mary, Williamsburg, Virginia, USA
+G.V. Eremeev, M.J. Kelley, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+M.J. Kelley, J. Tuggle
+                       Virginia Polytechnic Institute and State University, Blacksburg, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-­AC05-­06OR23177 and Office of High Energy Physics under grant SC00144475.
+The potential for higher operating temperatures and increased accelerating gradient has attracted SRF researchers to Nb3Sn coatings on niobium for nearly 50 years. The two-step tin vapor diffusion: nucleation followed by deposition appears to be a promising technique to prepare Nb3Sn coatings on interior cavity surface. We have undertaken a fundamental materials study of the nucleation and deposition steps. Nucleation was accomplished within parameter ranges: 300 - 500 °C, 1 - 5 hrs duration, 5 mg - 1 g SnCl2 and 1 g Sn. The resulting deposit consists of (< 10%) coverage of tin particles, as determined by SEM/EDS, while XPS and SAM discovered extra tin film between these particles. Preliminary results by EBSD show no evident effect of substrate crystallography on the crystallography of the final coating. Substantial topography was found to develop during the coating growth.
+
+ 
+
+
+
+
+
+
+Slides SUPO34 [3.299 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEB1CO02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO36
+Experimental Plans for Single-Channel Strong Octupole Fields at the University of Maryland Electron Ring
+ 
+
+
+TUPOB12
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+K.J. Ruisard, H. Baumgartner, B. Beaudoin, I. Haber, T.W. Koeth, M.R. Teperman
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: Funding for this project and travel is provided by DOE-HEP, NSF GRFP and NSF Accelerator Science Program
+Nonlinear quasi-integrable optics is a promising development on the horizon of high-intensity ring design. Large amplitude-dependent tune spreads, driven by strong nonlinear magnet inserts, lead to decoupling from incoherent tune resonances. This reduces intensity-driven beam loss while quasi-integrability ensures a well-contained beam. In this paper we discuss on-going work to install and interrogate a long-octupole channel at the University of Maryland Electron Ring (UMER). This is a discrete insert that occupies 20 degrees of the ring, consisting of independently powered printed circuit octupole magnets. Transverse confinement is obtained with quadrupoles external to this insert. Operating UMER as a non-FODO lattice, in order to meet the beam-envelope requirements of the quasi-integrable lattice, is a challenge. We discuss efforts to match the beam and optimize steering solutions. We also discuss our experiences operating a distributed strong octupole lattice.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOB12
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO37
+Development of a Fiber Laser for Improving the Pulse Radiolysis System
+ 
+
+
+TUPOA05
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y. Saito, S.Y. Soeta, M. Washio
+                       Waseda University, Tokyo, Japan
+Y. Hosaka, K. Sakaue
+                       RISE, Tokyo, Japan
+
+ 
+
+
+ 
+
+When material is irradiated by the ionizing radiation, short-lived and highly reactive substance intermediate active species are made and then react with substances. The chemical reaction is determined by intermediate active species in early process. Proving the behavior of intermediate active species is important for understanding and controlling radiation chemical reaction. In Waseda university we been developing a Pulse Radiolysis System, a method to measure the behavior of intermediate species, for radiation chemical analysis with RF electron gun. Currently we are developing a Supercontinuum ray(SC ray)as a probe ray to improve Pulse Radiolysis System. We have introduced a SC ray using Yb fiver laser and PCF(Photonic Crystal Fiber). But this type of prove light isn't stable enough in the visible light region. Therefore we started to study Er fiber laser oscillator as new prove ray source. We have succeeded to oscillate a Er fs laser pulse, second harmonic generation and measurement of hydrated electron in ns time resolution. In this presentation we will report current research about generation of SC ray, Er fiber laser system and dose rate effect against the hydrated electron.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO41
+Simulation of Ping-Pong Multipactor with Continuous Electron Seeding
+ 
+
+
+MOPOB53
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Siddiqi, R.A. Kishek
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: National Science Foundation grant No. PHY1535519
+Multipactor is a discharge induced by the impact of electrons on a surface due to radio-frequency (RF) electromagnetic fields and secondary electron emission (SEE). Depending on the impact energy and RF phase of the incident electron, a growth in the electron density is possible. Multipactor can lead to device breakdown in many applications, such as particle accelerator structures and rf systems, satellite communication equipment, and microwave components. Multipactor can also be a precursor for electron cloud effects. Due to the critical need to mitigate multipactor, a more comprehensive theory has been introduced that views multipactor as a global effect that can be analyzed through the concepts of iterative maps and nonlinear dynamics *. In order to test this novel approach, multipactor is simulated in a parallel-plate waveguide using the WARP particle-in-cell code. Different parameters are varied in the simulation to determine the conditions that add to multipactor growth, such as geometry dimensions, electron seeding scenarios, and an applied DC electric field. These computational results and their implications on the further development of this theory will be presented.
+*R.A. Kishek, Physics of Plasmas 20, 056702 (2013).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-MOPOB53
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO42
+RF Design of a 1.3-GHz High Average Beam Power SRF Electron Source
+ 
+
+
+WEPOA42
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+N. Sipahi, S. Biedron, S.V. Milton
+                       CSU, Fort Collins, Colorado, USA
+I.V. Gonin, R.D. Kephart, T.N. Khabiboulline, N. Solyak, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+There is a significant interest in developing high-average power electron sources, particularly those integrated with Superconducting Radio Frequency (SRF) accelerator systems. Even though there are examples of high-average-power electron sources, they are not compact, highly efficient, or available at a reasonable cost. Adapting the recent advances in SRF cavities, RF power sources, and innovative solutions for an SRF gun and cathode system, we have developed a design concept for a compact SRF high-average power electron linac. This design will produce electron beams with energies up to 10 MeV. In this paper, we present the design results of our cathode structure integrated with modified 9-cell accelerating structure.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOA42
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO43
+Wakefield Excitation in Power Extraction Cavity of Co-Linear X-Band Energy Booster in Time Domain With ACE3P
+ 
+
+
+MOPOB57
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+T. Sipahi, S. Biedron, S.V. Milton
+                       CSU, Fort Collins, Colorado, USA
+
+ 
+
+
+ 
+
+We provide the general concept and the design details of our proposed Co-linear X-band Energy Booster (CXEB). Here, using the time domain solver T3P of the ACE3P Suite we provide the single bunch and multiple bunch wakefield excitation mechanism for the power build up when using a symmetric Gaussian bunch distribution in our traveling wave (TW) X-band power extraction cavity (PEC). Finally, we determine the achievable X-band power at the end of the PEC structure.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-MOPOB57
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO46
+Analysis of Microbunching Structures in Transverse and Longitudinal Phase Spaces
+ 
+
+
+THPOA35
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.-Y. Tsai
+                       Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA
+R. Li
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+Microbunching instability (MBI) has been a challenging issue in high-brightness electron beam transport for modern accelerators. The existing Vlasov analysis of MBI is based on single-pass configuration*. For multi-pass recirculation or a long beamline, the intuitive argument of quantifying MBI, by successive multiplication of MBI gains, was found to underestimate the effect**. More thorough analyses based on concatenation of gain matrices aimed to combine both density and energy modulations for a general beamline**. Yet, quantification still focuses on characterizing longitudinal phase space; microbunching residing in (x,z) or (x',z) was observed in particle tracking simulation. Inclusion of such cross-plane microbunching structures in Vlasov analysis shall be a crucial step to systematically characterize MBI for a beamline complex in terms of concatenating individual beamline segments. We derived a semi-analytical formulation to include the microbunching structures in longitudinal and transverse phase spaces. Having numerically implemented the generalized formulae, an example lattice*** is studied and reasonable agreement achieved when compared with particle tracking simulation.
+* Heifets et al., PRSTAB 5, 064401 (2002), Huang and Kim, PRSTAB 5, 074401 (2002), and Vneturini, PRSTAB 10, 104401 (2007)  ** Tsai et al., IPAC'16 (TUPOR020) *** Di Mitri, PRSTAB 17, 074401 (2014)
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-THPOA35
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO47
+Proton Beam Defocusing as a Result of Self-Modulation in Plasma
+ 
+
+
+WEPOA09
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Turner, E. Gschwendtner, A.V. Petrenko
+                       CERN, Geneva, Switzerland
+K.V. Lotov, A. Sosedkin
+                       Budker INP & NSU, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Funding: CERN
+The AWAKE experiment will use a 400 GeV/c proton beam with a longitudinal bunch length of sigmqz = 12 cm to create and sustain GV/m plasma wakefields over 10 meters. A 12 cm long bunch can only drive strong wakefields in a plasma with npe = 7 x 1014 electrons/cm3 after the self-modulation instability (SMI) developed and microbunches formed, spaced at the plasma wavelength. The fields present during SMI focus and defocus the protons in the transverse plane. We show that by inserting two imaging screens downstream the plasma, we can measure the maximum defocusing angle of the defocused protons for plasma densities above npe = 5 x1014 electrons/cm3. Measuring maximum defocusing angles around 1 mrad indirectly proves that SMI developed successfully and that GV/m plasma wakefields were created. In this paper we present numerical studies on how and when the wakefields defocus protons in plasma, the expected measurement results of the two screen diagnostics and the physics we can deduce from it.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOA09
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO48
+Bend Magnet Head Loads and Out of Orbit Scenarios
+ 
+
+
+WEPOB18
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+T.T. Valicenti, J.A. Carter, P.K. Den Hartog, K.J. Suthar
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+This paper presents an analytical calculation of the spatial power spectrum emitted from relativistic electrons passing through a series of bend magnets. Using lattice files from the software Elegant, both the ideal and missteered trajectories taken by the beam are considered in determination of the power profile. Calculations were performed for the Advanced Photon Source Upgrade multi-bend-achromat storage-ring. Results were validated with Synrad, a monte-carlo based program designed at CERN. The power distribution and integrated total power values are in agreement with Synrad's results within one percent error. The analytic solution used in this software gives a both quick and accurate tool for calculating the heat load on a photon absorber. The location and orientation can be optimized in order to reduce the peak intensity and thus the maximum thermal stress. This can be used with any optimization or FEA software and gives rise to a versatile set of uses for the developed program.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB18
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO49
+First Test Run for High Density Material Imaging Experiment Using Relativistic Electron Beam at the Argonne Wakefield Accelerator
+ 
+
+
+TUPOA13
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y.R. Wang
+                       AAI/ANL, Argonne, Illinois, USA
+S. Cao, X.K. Shen, Z.M. Zhang, Q.T. Zhao
+                       IMP/CAS, Lanzhou, People's Republic of China
+M.E. Conde, D.S. Doran, W. Gai, W. Liu, J.G. Power, J.Q. Qiu, C. Whiteford, E.E. Wisniewski
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+A test facility, AWA, has been commissioned and in operation since last year. It can provide beam of several bunches in a train of nano-seconds and 10s of nC with energy up to 70 MeV. In addition, the AWA can accommodate various beamlines for experiments. One of the proposed experiments is to use the AWA beam as a diagnostics for time resolved high density material, typically a target with high Z and time dependent, imaging experiments. When electron beam scatters after passing through the target, and the angular and energy distribution of beam will depend on the density and thickness of the target. A small aperture is used to collimate the scattered electron beam for off axis particles, and the target image will be detected by imaging plate. By measuring the scatted angle and energy at the imaging plate would yield information of the target. In this paper, we report on the AWA electron imaging (EI) system setup, which consist of a target, imaging optics and drift transport. The AWA EI beam line was installed on June, 2016 and the first test run was performed on August, 2016. This work will have implication on the high energy density physics and even future nuclear fusion studies.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA13
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO50
+Dynamics of Beams With Canonical Angular Momentum in Non-Axisymmetric Optical Elements
+ 
+
+
+WEA4IO01
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.Y. Wong
+                       NSCL, East Lansing, Michigan, USA
+K. Fukushima, S.M. Lund
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661 and the National Science Foundation under Grant No. PHY-1102511.
+Magnetized beams emerging from electron cyclotron resonance (ECR) ion sources have large statistical canonical angular momentum that substantially alters the beam dynamics. This paper examines the single-particle dynamics of such beams in non-axisymmetric lattice elements. The work supports commissioning activities at the FRIB Front End by illustrating how xy projections of the components of a multi-species beam become tilted due to dipoles and quadrupoles, which can complicate charge state selection with slits. The results help guide simulations performed using the PIC code WARP to achieve better optimization of the collimation in the charge selection system (CSS). Beam statistical angular momentum also evolves in the CSS which in turn changes the x- and y-plane emittances. Possible implications of this effect on the final thermalized beam emittances delivered by the Front End are discussed.
+
+ 
+
+
+
+
+
+
+Slides SUPO50 [21.961 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO51
+Dark Current Study of a Standing Wave Disk-Loaded Waveguide Structure at 17 GHz
+ 
+
+
+WEPOB31
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+H. Xu, M.A. Shapiro, R.J. Temkin
+                       MIT/PSFC, Cambridge, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: US DoE, Office of High Energy Physics
+We present calculations of the dark current in a high gradient accelerator with the intent of understanding its role in breakdown. The initial source of the dark current is the field emission of electrons. For a 17 GHz single-cell standing wave disk-loaded waveguide structure, the 3D particle-in-cell simulation shows that only a small portion of the charge emitted reaches the current monitors at the ends of the structure, while most of the current collides on the structure surfaces, causing secondary electron emission. In the simulation, a two-point multipactor process is observed on the side wall of the cell due to the low electric field on the surface. The multipactor approaches a steady state within nanoseconds when the electric field is suppressed by the electron cloud formed so that the average secondary electron yield is reduced. This multipactor current can cause the ionization of the metal material and surface outgassing, leading to breakdown. We report first results from an experiment designed to extract dark current directly from an accelerator cell from the side through two slits. First results show that the dark current behavior deviates from the field emission theory.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB31
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO52
+FPGA Control of Coherent Pulse Stacking
+ 
+
+
+TUPOA41
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y.L. Xu, J.M. Byrd, L.R. Doolittle, Q. Du, G. Huang, W. Leemans, R.B. Wilcox, Y. Yang
+                       LBNL, Berkeley, California, USA
+J. Dawson
+                       LLNL, Livermore, California, USA
+A. Galvanauskas, J.M. Ruppe
+                       University of Michigan, Ann Arbor, Michigan, USA
+
+ 
+
+
+ 
+
+Coherent pulse stacking (CPS) is a new time-domain coherent addition technique that stacks several optical pulses into a single output pulse, enabling high pulse energy from fiber lasers. Due to advantages of precise timing and fast processing, we use an FPGA to process digital signals and do feedback control so as to realize stacking-cavity stabilization. We develop a hardware and firmware design platform to support the coherent pulse stacking application. A firmware bias control module stabilizes the amplitude modulator at the minimum of its transfer function. A cavity control module ensures that each optical cavity is kept at a certain individually-prescribed and stable round-trip phase with 2.5 deg rms phase error.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA41
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO54
+Study of the Electrical Center of a Resonant Cavity Beam Position Monitor (RF-BPM) and Its Integration With the Main Beam Quadrupole for Alignment Purposes
+ 
+
+
+FRA2CO03
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Zorzetti, M. Wendt
+                       CERN, Geneva, Switzerland
+L. Fanucci
+                       Università di Pisa, Pisa, Italy
+
+ 
+
+
+ 
+
+To achieve the luminosity goals in a next generation linear collider, acceleration and preservation of ultra-low emittance particle beams is mission critical and requires a precise alignment between the main accelerator components. PACMAN is an innovative doctoral training program, hosted by CERN, with the goal of developing high accuracy metrology and alignment methods and tools to integrate those components in a standalone, automatic test bench. The method will be validated on CLIC components, a proposed Compact Linear Collider currently studied at CERN. The alignment between the electrical center of the Beam Position Monitor (BPM) and the magnetic center of the associated Main Beam Quadrupole (MBQ) is of particular importance to minimize the emittance blow-up, and therefore in the focus of the PACMAN project. The two components have been independently characterized on separated test benches by stretched and vibrating wire techniques. Preliminary conclusions are presented in this paper, with emphasis on the characterization of the electrical center of the BPM.
+The PACMAN project is funded by the European Union' s Seventh Framework Programme for research, technological development and demonstration under grant agreement no. 606839
+
+ 
+
+
+
+
+
+
+Slides SUPO54 [7.920 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-FRA2CO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO55
+Quantification of Octupole Magnets at the University of Maryland Electron Ring
+ 
+
+
+TUPOB11
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+H. Baumgartner, B. Beaudoin, S. Bernal, I. Haber, T.W. Koeth, D.B. Matthew, K.J. Ruisard, M.R. Teperman
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: Funding for this project is provided by DOE-HEP and the NSF Accelerator Science Program
+The intensity frontier is limited by the ability to propagate substantial amounts of beam current without resulting in particle scrapping and/or losses from resonant growth and halo formation. Modern accelerators are based on the theories developed in the 1950's that assume particle motion is bounded and subject to linear forces. Recent theoretical developments have demonstrated that a strongly nonlinear lattice can be used to stably transport an intense beam has resulted in a fundamental rethinking of the conventional wisdom. A lattice composed of strong nonlinear magnets is predicted by theory to damp resonances while maintaining dynamic aperture. Results of rotating coil measurements, magnetic field scans and simulations will be presented, quantifying the multi-pole moments and fringe fields in the 1st generation Printed Circuit Board (PCB) octupoles for UMER's nonlinear lattice experiments.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOB11
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO56
+Commissioning and First Results From a Channeling-Radiation Experiment at FAST
+ 
+
+
+TUPOA73
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+J. Hyun
+                       Sokendai, Ibaraki, Japan
+D.R. Broemmelsiek, D.R. Edstrom, A.L. Romanov, J. Ruan, T. Sen, V.D. Shiltsev
+                       Fermilab, Batavia, Illinois, USA
+A. Halavanaupresenter, D. Mihalcea
+                       Northern Illinois University, DeKalb, Illinois, USA
+P. Kobak
+                       BYU-I, Rexburg, USA
+W.D. Rush
+                       KU, Lawrence, Kansas, USA
+
+ 
+
+
+ 
+
+X-rays have widespread applications in science. Developing compact and high-quality X-ray sources, easy to disseminate, has been an on going challenge. Our group has explored the possible use of channeling radiation driven by a 50 MeV low-emittance electron beam to produce narrowband hard X-rays (photon energy from 40 keV to 140 keV). In this contribution we present the simulated X-ray spectrum including the background bremsstrahlung contribution, and optimization of the relevant electron-beam parameters required to maximize the X-ray brilliance. The results of experiments carried out at Fermilab's FAST facility – which include a 50 MeV superconducting linac and a high-brightness photoinjector – are also discussed. The average brilliance in our experiment is expected to be about one order of magnitude higher than that in previous experiments.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA73
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO57
+The Design and Construction of a Resonance Control System for the IOTA RF Cavity
+ 
+
+
+TUPOA74
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+G.M. Bruhaug
+                       ISU, Pocatello, Idaho, USA
+K. Carlson
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The IOTA ring will be an advanced storage ring used for non-linear beam dynamics experiments to assist in the construction of future accelerators. This ring is being built in conjunction with the FAST electron LINAC and the HINS RFQ proton source, at Fermilab, for injection into the ring. These accelerators will generate +150 MeV electron beams and 2.5 MeV proton beams respectively. As the beams are injected into the IOTA storage ring their longitudinal profile will begin to smear out and become more uniform. This will prevent detection of beam position with a Beam Position Monitoring system (BPM). To combat this a ferrite loaded bunching cavity is being constructed. This paper details the design and construction of an automatic resonance control system for this bunching cavity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA74
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO59
+Optically Based Diagnostics for Optical Stochastic Cooling
+ 
+
+
+WEPOA38
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M.B. Andorf
+                       Northern Illinois University, DeKalb, Illinois, USA
+V.A. Lebedev, P. Piot, J. Ruan
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+An Optical Stochastic Cooling (OSC) experiment with electrons is planned in the Integrable Optics Test Accelerator (IOTA) ring currently in construction at Fermilab. OSC requires timing the arrival of an electron and its radiation generated from the upstream pickup undulator into the downstream kicker undulator to a precision on the order of less than a fs. The interference of the pickup and kicker radiation suggests a way to diagnose the arrival time to the required precision.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOA38
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO60
+Optimization of Compton Source Performance Through Electron Beam Shaping
+ 
+
+
+TUB4CO03
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A. Malyzhenkov, N.A. Yampolsky
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+We investigate a novel scheme for significantly increasing the brightness of x-ray light sources based on inverse Compton scattering (ICS) - scattering laser pulses off relativistic electron beams. The brightness of these sources is limited by the electron beam quality since electrons traveling at different angles, and/or having different energies, produce photons with different energies. Therefore, the spectral brightness of the source is defined by the 6d electron phase space shape and size, as well as laser beam parameters. The peak brightness of the ICS source can be maximized then if the electron phase space is transformed in a way so that all electrons scatter off the x-ray photons of same frequency in the same direction. We describe the x-ray photon beam quality through the Wigner function (6d photon phase space distribution) and derive it for the ICS source when the electron and laser rms matrices are arbitrary. We find the optimal uncorrelated electron beam phase space distribution resulting in the highest brightness of the ICS source for the simple on axis case as an example.
+
+ 
+
+
+
+
+
+
+Slides SUPO60 [1.673 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUB4CO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO61
+Development of a Python-Based Emittance Calculator at Fermilab Science & Technology (FAST) Facility
+ 
+
+
+TUPOA46
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A.T. Green
+                       Northern Illinois Univerity, DeKalb, Illinois, USA
+Y.-M. Shin
+                       Fermilab, Batavia, Illinois, USA
+Y.-M. Shin
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+Beam emittance is an important characteristic which helps to describe a charged particle beam. In linear accelerators (linac), it is critical to characterize the beam phase space parameters and, in particular, to precisely measure transverse beam emittance. The quadrupole scan (quad-scan) is a well established technique used to characterize transverse beam parameters in four-dimensional phase space. Quad-scans are very time consuming and off-line analysis is needed to extrapolate the beam phase space parameters. We have developed a computational algorithm with Python scripts to automatically estimate beam parameters, in particular beam emittance, using the quadrupole scan technique in the electron linac of Fermilab Accelerator Science and Technology (FAST) facility. These Python scripts have decreased the time it takes to perform a single quad scan from a few hours to a few minutes. From the experimental data, the emittance calculator quickly delivers various results including: transverse emittance, Courant-Snyder parameters, and Beam Size (squared) vs Quadrupole field strength plots, among others.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOA46
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPO62
+Development of the Method for Evaluation of a Super-Conducting Traveling Wave Cavity With a Feedback Waveguide
+ 
+
+
+TUPOB02
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+R.A. Kostin
+                       LETI, Saint-Petersburg, Russia
+P.V. Avrakhov, A. Kanareykin
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+N. Solyak, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: DOE SBIR # DE-SC0006300
+Euclid Techlabs is developing a superconducting traveling wave (SCWT) cavity with a feedback waveguide [1] and has demonstrated a traveling wave at room temperature [2] in a 3-cell SCTW cavity [3]. A special method described in this paper was developed for cavity evaluation. It is based on an S-matrix approach. The cavity tuning procedure based on this method is described.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-TUPOB02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

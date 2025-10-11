@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: WEODB (Contributed Oral Presentations, Beam Dynamics and Electromagnetic Fields)
+
+
+WEODB —  Contributed Oral Presentations, Beam Dynamics and Electromagnetic Fields   (02-Oct-13   16:00—16:30)
+Chair: J.R. Cary, CIPS, Boulder, Colorado, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEODB1
+New Method for Point-Charge Wakefield Calculation
+778
+
+
+ 
+
+B. Podobedov
+                       BNL, Upton, Long Island, New York, USA
+G.V. Stupakov
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Extending our approach recently described in * we present a new method to accurately calculate point-charge geometric wakefields from wake potentials due to a much longer bunch, typically obtained with a time-domain EM field solver. By allowing a long bunch in the EM solver, this method can significantly reduce the need for computer resources as well as drastically shorten the computing time. On top of that, the method provides profound physics insights. We give examples of longitudinal and transverse wakefield calculations for 2D and 3D accelerator structures which illustrate the effectiveness of the new method.
+* B. Podobedov, G. Stupakov, PRST-AB 16, 024401 (2013)
+
+ 
+
+
+
+
+
+
+Slides WEODB1 [2.803 MB]
+            
+ 
+
+
+ 
+
+
+
+WEODB2
+Space Charge Models for Particle Tracking on Long Time Scales
+781
+
+
+ 
+
+J.A. Holmes, S.M. Cousineau, A.P. Shishlo
+                       ORNL, Oak Ridge, Tennessee, USA
+R.E. Potts
+                       UTK, Knoxville, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL is managed by UT-Battelle, LLC, under contract DE-AC05-00OR22725 for the U.S. Department of Energy.
+In order to efficiently track charged particles over long times, most tracking codes use either analytic charge distributions or particle-in-cell (PIC) methods based on fast Fourier transforms (FFTs). While useful for theoretical studies, analytic distribution models do not allow accurate modeling of real machines. PIC calculations can utilize realistic space charge distributions, but these methods suffer from the presence of numerical diffusion. We examine the situation for particle tracking with space charge over long times, and consider possible ideas to improve the accuracy of such calculations.
+
+ 
+
+
+
+
+
+
+Slides WEODB2 [7.165 MB]
+            
+ 
+
+
+ 
+
+
+
+

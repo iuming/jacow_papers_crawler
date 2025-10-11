@@ -1,0 +1,228 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2013 - Table of Session: FRWAJ (Cavity BPM Workshop 2)
+
+
+FRWAJ —  Cavity BPM Workshop 2   (20-Sep-13   13:00—16:00)
+Chair: A. Lyapin, JAI, Egham, Surrey, United Kingdom
+
+
+Paper
+Title
+Page
+
+
+
+FRWAJ1
+The FERMI@Elettra Cavity BPM System
+ 
+
+
+ 
+
+R. De Monte
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Raffaele gave a short introduction on the FERMI@Elettra FEL project and the related cavity BPM diagnostics system, most used along the two undulator areas. As of limited manpower resources, the 6.5GHz cavity BPM system builds as much as possible upon industrial components. The analog front-end solution is somewhat untypical, and generated some interesting discussion. Instead of the usual heterodyne downconverter, a hybrid based RF detector rectifies the signals in front of the μATCA-based digitizer. Phase shifters are used to zero calibrate the channels, as well as a calibration tone feed through the reference channel. The measured resolution is ~1.4μm, however, efforts to improve the resolution <0.5μm are underway. These include adding a downconvertor section into the signal processing. The pros and cons of this improvement were discussed rather controversial.
+
+ 
+
+
+
+
+
+
+Slides FRWAJ1 [1.741 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWAJ2
+Low vs High Q Cavity BPMs
+ 
+
+
+ 
+
+S.R. Smith
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Steve summarized the pros and cons of high vs. low Q cavity BPM pickups very comprehensively. He included a few real-world examples on mode-leakage, dynamic range and expected resolution by acquiring multiple samples of the waveform. The latter favors a high-Q BPM resonator, which he claims will improve the resolution, i.e. effective number of bits, by using more ADC samples n on the waveform by ln(n)/2. Other arguments of Steve on the Nyquist theorem and signal aliasing also favors the use of a high-Q BPM. Most colleagues followed his view: try to use a high-Q cavity BPM!
+
+ 
+
+
+
+
+
+
+Slides FRWAJ2 [0.273 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWAJ3
+How short should the cavity resonator be?
+ 
+
+
+ 
+
+V. Vogel
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Vladimir discussed this question analytically, to better understand the resolution limit of a pill-box cavity BPM with respect to the bunch length and operation frequency. A good rule of thumb seems to be, try to make the length of the cavity resonator comparable to the bunch length. However, for accelerators with very short bunch length <<1mm, e.g. FEL drivers, this seems to be not applicable. In this case the presence of the signal component due to a beam angle cannot be avoided. Vladimir also presented the required suppression of unwanted modes to achieve 1nm resolution, which is in the order of 125135dB.
+
+ 
+
+
+
+
+
+
+Slides FRWAJ3 [0.222 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWAJ4
+Experience on the ATF2 Cavity BPM System
+ 
+
+
+ 
+
+S.T. Boogert
+                       JAI, Egham, Surrey, United Kingdom
+S.T. Boogert
+                       Royal Holloway, University of London, Surrey, United Kingdom
+
+ 
+
+
+ 
+
+Steward focused on the ATF2 cavity BPM relevant parts of his IBIC ATF2 beam diagnostics presentation. He summarized the experience on the BPM system over long operational periods, e.g. calibration, drifts, but discussed also the problems of large beam offsets, which are limiting the resolution. Of particular interest was his comparison of calculated and measured wakefield effects.
+
+ 
+
+
+
+
+
+
+Slides FRWAJ4 [0.299 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWAJ5
+CBPM Waveform Deconvolution
+ 
+
+
+ 
+
+F.J. Cullinan
+                       JAI, Egham, Surrey, United Kingdom
+
+ 
+
+
+ 
+
+Francis presented simulations on the deconvolution of the cavity BPM response to a single bunch from signals obtained for a bunch train stimulus, based on the CTF3 beam parameters. In this case the bunch spacing is always short compared to the decay time τ of the BPM resonator. He tried to resolve individual bunches by the deconvolution method. Applying a random position jitter along the bunch train, he compared a simple downconversion procedure and a combination of downconversion and deconvolution to the original beam position. The DDC/deconvolution method seems to better resolve the beam position along the bunch train. He finally presented his method on measured ATF2 data.
+
+ 
+
+
+
+
+
+
+Slides FRWAJ5 [0.217 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWAJ6
+CBPM Principal Component Analysis
+ 
+
+
+ 
+
+Y.I. Kim
+                       JAI, Oxford, United Kingdom
+
+ 
+
+
+ 
+
+Young-Im gave a short introduction on the principal component analysis (PCA). It makes use of an SVD analysis on the sampled waveform data on a single bunch measurement, and can explain the variance of the signal contents. She discussed some results obtained for heterodyne and homodyne receivers in a test setup at ATF2.
+
+ 
+
+
+
+
+
+
+Slides FRWAJ6 [0.528 MB]
+            
+ 
+
+
+ 
+
+
+
+

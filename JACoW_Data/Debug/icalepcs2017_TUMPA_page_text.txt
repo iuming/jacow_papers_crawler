@@ -1,0 +1,496 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: TUMPA (Mini-Oral)
+
+
+TUMPA —  Mini-Oral   (10-Oct-17   16:45—17:15)
+Chair: S. Nemesure, BNL, Upton, Long Island, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUMPA01
+New Visual Alignment Sequencer Tool Improves Efficiency of Shot Operations at the National Ignition Facility (NIF)
+328
+
+
+ 
+
+M.A. Fedorov, J.R. Castro Morales, V. Pacheu, E.F. Wilson
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344 LLNL-ABS-728701
+Established control systems for scientific experimental facilities offer several levels of user interfaces to match domain-specific needs and preferences of experimentalists, operational and engineering staff. At the National Ignition Facility, the low-level device panels address technicians' need for comprehensive hardware control, while Shot Automation software allows NIF Shot Director to advance thousands of devices at once through a carefully orchestrated shot sequence. MATLAB scripting with NIF Layering Toolbox has enabled formation of intricate Deuterium-Tritium ice layers for fusion experiments. The latest addition to this family of user interfaces is the Target Area Alignment Tool (TAAT), which guides NIF operators through hundreds of measurement and motion steps necessary to precisely align targets and diagnostics for each experiment inside of the NIF's 10-meter target chamber. In this paper, we discuss how this new tool has integrated familiar spreadsheet calculations with intuitive visual aids and checklist-like scripting to allow NIF Process Engineers to automate and streamline alignment sequences, contributing towards NIF Shot Rate enhancement goals.
+
+ 
+
+
+
+
+
+
+Slides TUMPA01 [2.173 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPA01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPA02
+Development of a Machine Protection System for KOMAC Facility
+334
+
+
+ 
+
+Y.G. Song, Y.-S. Cho, H.S. Jeong, D.I. Kim, H.S. Kim, J.H. Kim, S.G. Kim, H.-J. Kwon, S.P. Yun
+                       Korea Atomic Energy Research Institute (KAERI), Gyeongbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Ministry of Science, ICT & Future Planning.
+The Korea multi-purpose accelerator complex (KOMAC) has two beam extraction points at 20 and 100 MeV for proton beam utilization. High availability should be achieved through high system reliability and short maintenance times to prevent and mitigate damage. A machine protection system is essential for avoiding damage leading to long maintenance times. KOMAC MPS that was developed using analog circuit interlock box has its limit to cover increasing interlock signals and modify interlock logic. The disadvantage has been solved with digital-based system for more efficient logic modification and interlock extension. The MPS is configured remotely using the EPICS-based application. In this paper, we present KOMAC machine protection architecture and performance results of the new machine protection system.
+
+ 
+
+
+
+
+
+
+Slides TUMPA02 [1.810 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPA02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPA03
+The Implementation of KSTAR Fast Interlock System using C-RIO
+337
+
+
+ 
+
+M.K. Kim, J.S. Hong, T.H. Tak
+                       NFRI, Daejon, Republic of Korea
+
+ 
+
+
+ 
+
+Tokamak using superconducting magnets is becoming more and more important as long pulse operation and the ability to confine high temperature and density plasma to the interlock system to protect the device. KSTAR achieved H-mode operation for 70 seconds in 2016. In this case, it is necessary to have precise and fast operation protection device to protect Plasma Facing Component from high energy and long pulse plasma. The higher the energy of the plasma, the faster the protection device is needed, and the accurate protection logic must be realized through the high-speed operation using signals from various devices. To meet these requirements, KSTAR implemented the Fast Interlock System using Compact RIO. Implementation of protection logic is performed in FPGA, so it can process fast and various input and output. The EPICS IOC performs communication with peripheral devices, CRIO control, and DAQ. The hard-wired signal for high-speed operation from peripheral devices is directly connected to the CRIO. In this paper, we describe the detailed implementation of the FIS and the results of the fast interlock operation in the actual KSTAR operation, as well as future plans.
+
+ 
+
+
+
+
+
+
+Slides TUMPA03 [1.238 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPA03 [1.072 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPA03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPA04
+Operation Status of J-PARC MR Machine Protection System and Future Plan
+341
+
+
+ 
+
+T. Kimura
+                       KEK, Ibaraki, Japan
+K.C. Sato
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+The J-PARC MR's Machine Protection System (MR-MPS) was introduced from the start of beam operation in 2008. Since then, MR-MPS has contributed to the improvement of safety including stable operation of the accelerator and the experiment facilities. The present MR-MPS needs to be reviewed from the aspects such as increase of connected equipment, addition of power supply building, flexible beam abort processing, module uniqueness, service life etc. In this paper, we show the performance of MR-MPS and show future consideration of upgrade.
+
+ 
+
+
+
+
+
+
+Slides TUMPA04 [2.247 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPA04 [3.298 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPA04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPA05
+OPC UA to DOOCS Bridge: A Tool for Automated Integration of Industrial Devices Into the Accelerator Control Systems at FLASH and European XFEL
+344
+
+
+ 
+
+F. Peters, I. Hartl, C. Mohr, L. Winkelmann
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Integrating off-the-shelf industrial devices into an accelerator control system often requires resource-consuming and error-prone software development to implement device-specific communication protocols. With recent progress in standards for industrial controls, more and more devices leverage the OPC UA machine-to-machine communication protocol to publish their functionality via an embedded information model. Here we present a generic DOOCS server, which uses a device's published OPC UA information model for automatic integration into the accelerator control systems of the FLASH and European XFEL free-electron laser facilities. The software makes all the device's variables and methods immediately accessible as DOOCS properties, reducing software development time and errors. We demonstrate that the server's and protocol's latency allows DOOCS-based burst-to-burst feedback in the 10Hz operation modes of FLASH and European XFEL and is capable of handling more than 104 data update events per second, without degrading performance. We also report on the successful integration of a commercial laser amplifier, as well as our own PLC-based laser protection system into DOOCS.
+
+ 
+
+
+
+
+
+
+Slides TUMPA05 [0.817 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPA05 [1.190 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPA05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPA06
+RF Heat Load Compensation for the European XFEL
+348
+
+
+ 
+
+M.R. Clausen, T. Boeckmann, J. Branlard, J. Eschke, O. Korth, J. Penning, B. Schoeneburg
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL is a 3.4km long X-ray Free Electron Laser. The accelerating structure consists of 96 cryo modules running at 1.3 GHz with 10 Hz repetition rate. The injector adds two modules running at 1.3 and 3.9 GHz respectively. The cryo modules are operated at 2 Kelvin. Cold compressors (CCs) pump down the liquid Helium to 30 mbar which corresponds to 2 Kelvin. Stable conditions in the cryogenic system are mandatory for successful accelerator operations. Pressure fluctuations at 2 K may cause detuning of cavities and could result in unstable CC operations. The RF losses in the cavities may be compensated by reducing the heater power in the liquid Helium baths of the nine cryogenic strings. This requires a stable readout of the current RF settings. The detailed signals are read out from several severs in the accelerator control system and then computed in the cryogenic control system for heater compensation. This paper will describe the commissioning of the cryogenic control system, the communication between the control systems involved and first results of machine operations with the heat loss compensation in place.
+
+ 
+
+
+
+
+
+
+Slides TUMPA06 [0.682 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPA06 [0.635 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPA06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPA07
+Advances in Automatic Performance Optimization at FERMI
+352
+
+
+ 
+
+G. Gaio, N. Bruchon, M. Lonza
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+L. Saule
+                       University of Trieste, Trieste, Italy
+
+ 
+
+
+ 
+
+Despite the large number of feedback loops running simultaneously at the FERMI Free Electron Laser (FEL), they are not sufficient to keep the optimal machine working point in the long term, in particular when the machine is tuned in such a way to be more sensitive to drifts of the critical parameters. In order to guarantee the best machine performance, a novel software application which minimizes the shot to shot correlation between these critical parameters and the FEL radiation has been implemented. This application, which keeps spatially and temporally aligned the seed laser and the electron beam, contrary to many algorithms that inject noise in the system to be optimized, run transparently during the experiment beam times. In this paper we will also present a newly developed method to calculate a beam 'quality factor' starting from the images provided by a photon spectrometer, which tries to mimic the evaluation of machine physicists, as well as the results obtained using two model-less algorithms to optimize the FEL performance through maximization of the quality factor.
+
+ 
+
+
+
+
+
+
+Slides TUMPA07 [0.846 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPA07 [1.124 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPA07
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPA08
+The Automatic Quench Analysis Software for the High Luminosity LHC Magnets Evaluation at CERN
+357
+
+
+ 
+
+M.F. Gomez De La Cruz, H.M.A. Bajas, M. Bajko, J.V. Lorenzo Gomez, F.J. Mangiarotti, H. Reymond, A. Rijllart, G.P. Willering
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The superconducting magnet test facility at CERN, (SM18), has been using the Automatic Quench Analysis (AQA) software to analyse the quench data during the Large Hadron Collider (LHC) magnet test campaign. This application was developed using LabVIEW in the early 2000's by the Measurement Test and Analysis section (MTA) at CERN. During the last few years, the SM18 has been upgraded for the High Luminosity LHC (HL-LHC) magnet prototypes. These HL-LHC magnets demand a high flexibility of the software. The new requirements were that the analysis algorithms should be open, allowing contributions from engineers and physicists with basic programming knowledge, execute automatically a large number of tests, generate reports and be maintainable by the MTA team. The paper contains the description, present status and future evolutions of the new AQA soft-ware that replaces the LabVIEW application.
+
+ 
+
+
+
+
+
+
+Slides TUMPA08 [1.433 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPA08 [1.945 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPA08
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: THHB3 (Experiment control 2)
+
+
+THHB3 —  Experiment control 2   (22-Oct-15   10:45—11:45)
+Chair: K.S. White, ORNL, Oak Ridge, Tennessee, USA
+
+
+Paper
+Title
+Page
+
+
+
+THHB3O01
+Mapping Developments at Diamond
+1111
+
+
+ 
+
+R.D. Walton, A. Ashton, M. Basham, P. C. Y. Chang, T.M. Cobb, A.J. Dent, J. Filik, M.W. Gerring, C. Mita, C.M. Palmer, U.K. Pedersen, P.D. Quinn, N.P. Rees, S. da Graca
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Many synchrotron beamlines offer some form of continuous scanning for either energy scanning or sample mapping. However, this is normally done on an ad-hoc beamline by beamline basis. Diamond has recently embarked on an ambitious project to define how to implement continuous scanning as the standard way of doing virtually all mapping tasks on beamlines. The project is split into four main areas: 1) User interfaces to describe the mapping process in a scientifically relevant way, generating a scan description that can be used later; 2) The physical process of scanning and coordinating hardware motion and detector data capture across the beamline; 3) Capture of the detector data and all the associated meta-data to disk. Deciding and describing the layout of the file (or files) for the main use cases; 4) Display and analysis of live data and display of processed data. In order to achieve this common approach across beamlines, the standard software used throughout the facility (Delta Tau motor controllers, EPICS, GDA and DAWN), has been built on.
+
+ 
+
+
+
+
+
+
+Slides THHB3O01 [1.926 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHB3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHB3O02
+Real-Time Data Reduction Integrated into Instrument Control Software
+1115
+
+
+ 
+
+P. Mutti, F. Cecillon, C. Cocho, A. Elaazzouzi, Y. Le Goc, J. Locatelli, H. Ortiz
+                       ILL, Grenoble, France
+
+ 
+
+
+ 
+
+The increasing complexity of the experimental activity and the growing raw dataset collected during the measurements pushed the integration of the data reduction software within the instrument control. On-line raw data reduction allows users to take instant decisions based on the physical quantities they are looking for. In such a way, beam time is optimised avoiding oversampling. Moreover, the datasets are more consistent and the reduction procedure, becoming now part of the sequencer workflow, is well documented and can be saved for future use. A server and a client API that allows starting and monitoring the reduction procedures on remote machines and finally get their results, was designed. The implementation of the on-line data reduction on several instruments at the ILL as well as on the obtained performances, will be reported in this paper.
+
+ 
+
+
+
+
+
+
+Slides THHB3O02 [4.458 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHB3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHB3O03
+On-the-Fly Scans for Fast Tomography at LNLS Imaging Beamline
+1119
+
+
+ 
+
+G.B.Z.L. Moreno, R. Bongers, M.B. Cardoso, F.P. O'Dowd, H.H. Slepicka
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Funding: Brazilian Synchrotron Light Laboratory.
+As we go to brighter light sources and time resolved ex-periments, different approaches for executing faster scans in synchrotrons are an ever­present need. In many light sources, performing scans through a sequence of hardware triggers is the most commonly used method for synchronizing instruments and motors. Thus, in order to provide a sufficiently flexible and robust solution, the X­Ray Imaging Beamline (IMX) at the Brazilian Synchrotron Light Source [1] upgraded its scanning system to a NI PXI chassis interfacing with Galil motion controllers and EPICS environment. It currently executes point­to­point and on­the­fly scans controlled by hard-ware signals, fully integrated with the beamline control system under EPICS channel access protocol. Some approaches can use CS­Studio screens and automated Python scripts to create a user­friendly interface. All pro-gramming languages used in the project are easy to use and to learn, which allows high maintainability for the system delivered. The use of LNLS Hyppie platform [2, 3] also enables software modularity for better compatibil-ity and scalability over different experimental setups and even different beamlines.
+[1]F. P. O'Dowd et al.,"X-Ray micro-tomography at the IMX beamline (LNLS)", XRM2014.[2]J. R. Piton et al.,"Hyppie: A hypervisored PXI for physics instrumentation under EPICS", BIW2012.
+
+ 
+
+
+
+
+
+
+Slides THHB3O03 [3.591 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHB3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

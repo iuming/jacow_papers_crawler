@@ -1,0 +1,75 @@
+{
+  "session_info": {
+    "id": "FRXE",
+    "name": "FRXE - Tutorial",
+    "url": "https://proceedings.jacow.org/napac2022/html/frxe.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FRXE1",
+      "title": "Bayesian Algorithms for Practical Accelerator Control and Adaptive Machine Learning for Time-Varying Systems",
+      "authors": [
+        "LANL",
+        "Los Alamos",
+        "New Mexico",
+        "USA",
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "Particle accelerators are complicated machines with thousands of coupled time varying components. The electromagnetic fields of accelerator devices such as magnets and RF cavities drift and are uncertain due to external disturbances",
+        "vibrations",
+        "temperature changes",
+        "and hysteresis. Accelerated charged particle beams are complex objects with 6D phase space dynamics governed by collective effects such as space charge forces",
+        "coherent synchrotron radiation",
+        "and whose initial phase space distributions change in unexpected and difficult to measure ways. This two-part tutorial presents recent developments in Bayesian methods and adaptive machine learning (ML) techniques for accelerators. Part 1: We introduce Bayesian control algorithms",
+        "and we describe how these algorithms can be customized to solve practical accelerator specific problems",
+        "including online characterization and optimization. Part 2: We give an overview of adaptive ML (AML) combining adaptive model-independent feedback within physics-informed ML architectures to make ML tools robust to time-variation (distribution shift) and to enable their use further beyond the span of the training data without relying on re-training."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/napac2022/talks/frxe1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2022/papers/frxe1.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2022/posters/frxe1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2022-FRXE1",
+      "page_number": "921",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRXE2",
+      "title": "Bayesian Algorithms for Practical Accelerator Control and Adaptive Machine Learning for Time-Varying Systems",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "Particle accelerators are complicated machines with thousands of coupled time varying components. The electromagnetic fields of accelerator devices such as magnets and RF cavities drift and are uncertain due to external disturbances",
+        "vibrations",
+        "temperature changes",
+        "and hysteresis. Accelerated charged particle beams are complex objects with 6D phase space dynamics governed by collective effects such as space charge forces",
+        "coherent synchrotron radiation",
+        "and whose initial phase space distributions change in unexpected and difficult to measure ways. This two-part tutorial presents recent developments in Bayesian methods and adaptive machine learning (ML) techniques for accelerators. Part 1: We introduce Bayesian control algorithms",
+        "and we describe how these algorithms can be customized to solve practical accelerator specific problems",
+        "including online characterization and optimization. Part 2: We give an overview of adaptive ML (AML) combining adaptive model-independent feedback within physics-informed ML architectures to make ML tools robust to time-variation (distribution shift) and to enable their use further beyond the span of the training data without relying on re-training.",
+        "※ BibTeX",
+        "※ LaTeX",
+        "※ Text/Word",
+        "※ RIS"
+      ],
+      "institutions": [],
+      "abstract": "reference for this paper using",
+      "presentation_url": "https://proceedings.jacow.org/napac2022/talks/frxe2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2022/papers/frxe2.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2022/posters/frxe2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2022-FRXE2",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 00:32:13"
+}

@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2016 - Table of Session: WEUIPL (User Interface & Tools)
+
+
+WEUIPL —  User Interface & Tools   (26-Oct-16   14:00—14:35)
+Chair: P. Duval, DESY, Hamburg, Germany
+
+
+Paper
+Title
+Page
+
+
+
+WEUIPLIO01
+Augmented User Interaction
+16
+
+
+ 
+
+R. Bacher
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The advent of advanced mobile, gaming and augmented reality devices provides users with novel interaction modalities. Speech, finger- and hand gesture recognition or even gaze detection are commonly used technologies, often enriched with data from embedded gyroscope-like motion sensors. This paper discusses potential use cases of those technologies in the field of accelerator controls and maintenance. It describes the conceptual design of an intuitive, single-user, multi-modal human-machine interface which seamlessly incorporates actions based on various modalities in a single API. It discusses the present implementation status of this interface (Web2cHMI) within the Web2cToolkit framework. Finally, an outlook to future developments and ideas is presented.
+
+ 
+
+
+
+
+
+
+Slides WEUIPLIO01 [2.113 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEUIPLIO01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEUIPLCO04
+A Cython Interface to EPICS Channel Access for High-level Python Applications
+21
+
+
+ 
+
+J.T.M. Chrin
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Through the capabilities of Cython (a python-like programming language with the performance of C/C++), a Pythonic interface to an in-house C++ Channel Access (CA) library, CAFE, has been developed, thereby exposing CAFE's numerous multifaceted and user-friendly methods to Python application developers. A number of particularities of the PyCafe API are revealed. These include support for (i) memoryview and other data types that implement the new Python buffer protocol (allowing data to be shared without copying), (ii) native thread parallelism, and (iii) pointers to callback functions from wherein CA methods may be effortless executed in asynchronous interactions. A significant performance improvement is achieved when compared with conventional Pythonic CA libraries. The PyCafe interface has been realized within the context of high-level application development at SwissFEL, Switzerland's X-ray Free-Electron Laser facility.
+
+ 
+
+
+
+
+
+
+Slides WEUIPLCO04 [3.670 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEUIPLCO04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

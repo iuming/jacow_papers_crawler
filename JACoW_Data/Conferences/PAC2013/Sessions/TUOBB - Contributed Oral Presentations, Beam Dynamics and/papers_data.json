@@ -1,0 +1,127 @@
+{
+  "session_info": {
+    "id": "TUOBB",
+    "name": "TUOBB - Contributed Oral Presentations, Beam Dynamics and Electromagnetic Fields",
+    "url": "https://proceedings.jacow.org/PAC2013/html/tuobb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUOBB1",
+      "title": "Space-charge Compensation for High-intensity Linear and Circular Accelerators at Fermilab",
+      "authors": [
+        "M. Chung",
+        "L.R. Prost",
+        "V.D. Shiltsev",
+        "Fermilab",
+        "Batavia",
+        "USA",
+        "Space-charge effects have long been recognized as a fundamental intensity limitation in high-intensity linear and circular accelerators. As the mission of the US high energy physics program is pushing the Intensity Frontier",
+        "it is very timely to explore novel schemes of space-charge compensation that could significantly improve the performance of leading high-intensity proton accelerator facilities such as Project-X. In this work",
+        "we present two activities at Fermilab on the space-charge compensation experiments based on residual gas ionization: 1) neutralized beam transport of continuous-wave (CW) H− beam in Project-X Injector Experiment (PXIE); and 2) trapped electron plasmas for space-charge compensation in the newly proposed Integrable Optics Test Accelerators (IOTA) ring. Characteristics of the stability in the beam-plasma system",
+        "the dynamics of beam neutralization",
+        "and the transition between neutralized and un-neutralized beam transports are discussed for each configuration."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/tuobb1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/tuobb1.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/tuobb1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-TUOBB1",
+      "page_number": "402",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOBB2",
+      "title": "Experimental Verification of Single-bunch Accumulation Limit Dependence on Impedance at the APS",
+      "authors": [
+        "V. Sajaev",
+        "M. Borland",
+        "Y.-C. Chae",
+        "L. Emery",
+        "ANL",
+        "Argonne",
+        "USA",
+        "One of the unique features of the Advanced Photon Source is operation with a small number of intense bunches – standard operating mode has twenty four 16-nC bunches",
+        "while in a special operating mode one of the bunches has a charge of 60 nC. Such high single bunch currents are achieved by a combination of high operational chromaticity and transverse bunch-by-bunch feedback. In the near future",
+        "more narrow-gap insertion device vacuum chambers will be installed",
+        "which will increase impedance of the storage ring and make operation with high single-bunch current more problematic. Simulations exist that quantify the effect of increased impedance on the APS single-bunch accumulation limit; however",
+        "no experimental verification has been performed yet. In this paper",
+        "we will present our first measurement of the single-bunch accumulation limit as a function of effective impedance. Different impedance values were achieved by changing storage ring beta functions."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/tuobb2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/tuobb2.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/tuobb2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-TUOBB2",
+      "page_number": "405",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOBB3",
+      "title": "Imposing Strong Energy Slews with Transverse Deflecting Cavities",
+      "authors": [
+        "N.A. Yampolsky",
+        "A. Malyzhenkov",
+        "LANL",
+        "Los Alamos",
+        "New Mexico",
+        "USA",
+        "We propose a novel scheme for imposing strong energy slews in short electron bunches using a set of transverse deflecting cavities. Such a cavity introduces the angular divergence depending on the longitudinal position and the energy variation depending on the transverse position. Combining several cavities and vacuum drifts we first expand the beam transversally keeping x-z correlation of the distribution",
+        "then apply the energy variation",
+        "and focus the beam back. The transform matrix of the scheme is equivalent to a single chirping cavity. At the same time",
+        "the strength of the R65 element is strongly increased compared to conventional accelerating cavities. The overall energy variation along the bunch is defined by the transverse size of the beam in the middle of the beamline rather than its longitudinal size. As a result",
+        "the strength of the R65 element can be increased by 2 orders of magnitude compared to conventional design. This scheme allows for acceleration on crest increasing average accelerating gradient and reducing accelerator cost. It also allows for using weaker chicanes in compressors."
+      ],
+      "institutions": [
+        "Funding: This research was supported by the Laboratory Directed Research and Development program of Los Alamos National Laboratory."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/tuobb3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/tuobb3.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/tuobb3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-TUOBB3",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOBB4",
+      "title": "Measurement of Ultrasmall Transverse Spot Size",
+      "authors": [
+        "K.G. Roberts",
+        "R.K. Li",
+        "P. Musumeci",
+        "UCLA",
+        "Los Angeles",
+        "USA",
+        "RadiaBeam",
+        "Santa Monica",
+        "USA",
+        "The imaging of extremely small",
+        "sub-5 micron",
+        "transverse beam spot sizes has been a priority in accelerator physics. Here we propose a scheme to generate and image a beam spot size about 1 micron at PEGASUS laboratory at UCLA. We are preparing a 0.8 mm",
+        "1 pC",
+        "10 MeV electron beam to be sent through a permanent magnet quadrupole (PMQ) triplet of strength 130 T/m",
+        "focusing the beam to a waist 1.5 microns and a total focal length of 4.5 mm. We use a YAG screen at the beam waist and a mirror to direct optical (520 nm green) light into a Schwarzschild microscope to collimate the light. We will then image the beam using a CCD camera outside of the beam line."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/tuobb4_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/tuobb4.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/tuobb4_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-TUOBB4",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 4,
+  "scrape_time": "2025-10-11 01:36:06"
+}

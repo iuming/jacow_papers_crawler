@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: WECC (Latest Trends in GUI)
+
+
+WECC —  Latest Trends in GUI   (05-Dec-12   15:10—15:40)
+Chair: Y.S. Mayya, BARC, Mumbai, India
+
+
+Paper
+Title
+Page
+
+
+
+WECC02
+EPICS Channel Access Using WebSocket
+7
+
+
+ 
+
+A. Uchiyama
+                       Sokendai, Ibaraki, Japan
+K. Furukawa
+                       KEK, Ibaraki, Japan
+Y. Higurashi
+                       RIKEN Nishina Center, Wako, Japan
+
+ 
+
+
+ 
+
+Web technology is useful as a means to widely inform of accelerators and beam status.　For this purpose, WebOPI[1] as to web-based system using Ajax (Asynchronous JavaScript and XML) with EPICS was implemented by SNS. On the other hand, it is often necessary to perform the accelerator control from various locations as well as central control room during the beam operation and the maintenance.　However, it is not realistic to replace GUI-based operator interface (OPI) with Web-based system using Ajax technology because of interactive performance.　Therefore, as a next-generation OPI over the web using EPICS Channel Access (CA), we developed a client system based on WebSocket, which is a new protocol provided by Internet Engineering Task Force for Web-based system.　WebSocket is a web technology providing bi-directional, full-duplex communication channels over a single TCP connection.　By utlizing Node.js and WebSocket access library named Socket. IO, a WebSocket server was implemented. As a result, Web-based client systems became available not only in the central control room but also with various types of equipment for accelerator operation.
+[1] http://sourceforge.net/apps/trac/cs-studio/wiki/webopi
+
+ 
+
+
+ 
+
+
+
+WECC03
+Qt Based GUI System for EPICS Control Systems
+10
+
+
+ 
+
+A. Rhyder, R.N. Fernandes, A. C. Starritt
+                       ASCo, Clayton, Victoria, Australia
+
+ 
+
+
+ 
+
+Funding: Australian Synchrotron
+The Qt based GUI system developed at the Australian Synchrotron for use on EPICS control systems has recently been enhanced to including support for imaging, plotting, user login, logging and configuration recipes. Plans are also being made to broaden its appeal within the wider EPICS community by expanding the range of development options and adding support for EPICS V4. Current development options include graphical and non graphical application development, 'code-rich' C++ development and simple 'code-free' GUI design. Additional development options will allow developers to manage the GUI framework's data needs themselves when required, as an alternative to letting the GUI objects manage their own data using the framework's Qt based EPICS data classes. Developers will be able to choose to manage the GUI data needs using the framework's Qt based EPICS data classes, or alternative data systems such as PSI's CAFE.
+
+ 
+
+
+
+
+
+
+Slides WECC03 [1.095 MB]
+            
+ 
+
+
+ 
+
+
+
+

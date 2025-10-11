@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: TUPHO (Poster Session)
+
+
+TUPHO —  Poster Session   (01-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPHO01
+The RHIC E-Lens Test Bench Experimental Results
+580
+
+
+ 
+
+X. Gu, Z. Altinbas, J.N. Aronson, E.N. Beebe, W. Fischer, D.M. Gassner, K. Hamdi, J. Hock, L.T. Hoff, P. Kankiya, R.F. Lambiase, Y. Luo, M. Mapes, J.-L. Mi, T.A. Miller, C. Montag, S. Nemesure, M. Okamura, R.H. Olsen, A.I. Pikin, D. Raparia, P.J. Rosas, J. Sandberg, Y. Tan, C. Theisen, P. Thieberger, J.E. Tuozzolo, W. Zhang
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. DOE under contract No DE-AC02-98CH10886 with the U.S. Department of Energy.
+To commission some of the hard and software for the RHIC electron lenses (e-lenses), a test bench was built based on the EBIS test stand at BNL. After several months of operation, the electron gun, collector, high-voltage gun modulator, instrumentation, partial control system, and several software applications have been tested. The nominal DC beam current of 0.85 A was demonstrated and the electron beam transverse profiles were verified to be Gaussian. Some e-lens power supplies and the electronics for current measurement were also evaluated on the test bench. The properties of the cathode and the profile of the beam are measured. In this paper, we will present some experimental results.
+
+ 
+
+
+ 
+
+
+
+TUPHO02
+Single Pass Electron Cooling Simulations for MEIC
+583
+
+
+ 
+
+G.I. Bell, I.V. Pogorelov, B.T. Schwartz
+                       Tech-X, Boulder, Colorado, USA
+H. Zhang, Y. Zhang
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the US DOE Office of Science, Office of Nuclear Physics, grant numbers DE-SC0009508 and DE-SC0000835. Resources of NERSC were used under contract No. DE-AC02-05CH11231.
+Cooling of medium energy protons is critical for the proposed Jefferson Lab Medium Energy Ion Collider (MEIC). We present simulations of electron cooling of protons up to 60 GeV. In the beam frame in which the proton and electrons are co-propagating, their motion is non-relativistic. We use a binary collision model which treats the cooling process as the sum of a large number of two-body collisions which are calculated exactly. This model can treat even very close collisions between an electron and ion with high accuracy. We also calculate dynamical friction using a delta-f PIC model. The code VSim (formerly Vorpal) is used to perform the simulations. We compare the friction rates with that obtained by a 3D integral over electron velocities which is used by BETACOOL.
+
+ 
+
+
+ 
+
+
+
+TUPHO04
+MEIC Electron Cooling Simulation Using Betacool
+586
+
+
+ 
+
+H. Zhang, Y. Zhang
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: * Supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC05-06OR23177 and No. DE-AC02-06CH11357.
+Electron cooling of ion beams is the most critical R&D issue in Jefferson Lab's MEIC design. In the ion collider ring, a bunched electron beam driven by an energy-recovery SRF linac assisted by a circulate ring will be employed to cool protons or ions with energies up to 100 GeV/u, a parameter regime that electron cooling has never been applied. It is essential to understand how efficient the electron cooling is, particularly in the high energy range, to confirm the feasibility of the design. Electron cooling is also important in LEIC design although the ion energy is 25 GeV/u, lower than MEIC. In this paper, we will present first results of the simulation studies of electron cooling processes in the collider ring of both MEIC and LEIC using BETACOOL code.
+
+ 
+
+
+ 
+
+
+
+

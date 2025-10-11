@@ -1,0 +1,111 @@
+{
+  "session_info": {
+    "id": "TU2A",
+    "name": "TU2A - Technology/Beams",
+    "url": "https://proceedings.jacow.org/linac2016/html/tu2a.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TU2A01",
+      "title": "State of the Art, Status and Future of RF Sources for Linacs",
+      "authors": [
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "This talk tries an overview of recent developments in RF sources for linear accelerators of different scales and for various applications",
+        "spanning a frequency range from about 100 MHz to X-band",
+        "spanning duty factors from about 10-3 to CW",
+        "and spanning power levels from a few kW up to hundreds of MW average. Exciting recent trends include new bunching concepts for klystrons promising a significant increase of efficiency and better power combiners paving the way to MW-class solid state power amplifiers."
+      ],
+      "institutions": [],
+      "abstract": "Slides TU2A01 [15.049 MB] reference for this paper ※ https://doi.org/10.18429/JACoW-",
+      "presentation_url": "https://proceedings.jacow.org/linac2016/talks/tu2a01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/linac2016/papers/tu2a01.pdf",
+      "poster_url": "https://proceedings.jacow.org/linac2016/posters/tu2a01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-LINAC2016-TU2A01",
+      "page_number": "353",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TU2A02",
+      "title": "Pulsed High Power Klystron Modulators for ESS Linac Based on the Stacked Multi-Level Topology",
+      "authors": [
+        "C.A. Martins",
+        "G. Göransson",
+        "M. Kalafatic",
+        "ESS",
+        "Lund",
+        "Sweden",
+        "Lund Technical University",
+        "Lund",
+        "Sweden",
+        "ESS has launched an internal R&D project in view of designing",
+        "prototyping and validating a klystron modulator compatible with the requirements based on a novel topology named SML (Stacked Multi-Level). This topology is modular and based on the utilization of High Frequency (HF) transformers. The topology allows for the usage of industrial standard power electronic components at the primary stage at full extent which can easily be placed and wired in a conventional electrical cabinet. It requires only few special components like HF transformers",
+        "rectifiers and filters (i.e. passive components) to be placed in an oil tank. This arrangement allows scaling up in average and pulse power to the required levels while keeping the size",
+        "cost",
+        "efficiency and reliability of the different modules under good control. Besides the very good output pulse power quality",
+        "the AC grid power quality is also remarkably high with a line current harmonic distortion below 3%",
+        "a unitary power factor and an extremely reduced line voltage flicker below 0.3%. A reduced scale modulator prototype has been built and validated experimentally."
+      ],
+      "institutions": [],
+      "abstract": "Slides TU2A02 [8.596 MB] reference for this paper ※ https://doi.org/10.18429/JACoW-",
+      "presentation_url": "https://proceedings.jacow.org/linac2016/talks/tu2a02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/linac2016/papers/tu2a02.pdf",
+      "poster_url": "https://proceedings.jacow.org/linac2016/posters/tu2a02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-LINAC2016-TU2A02",
+      "page_number": "359",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TU2A03",
+      "title": "Resonance Control for Future Linear Accelerators",
+      "authors": [
+        "Fermilab",
+        "Batavia",
+        "Illinois",
+        "USA",
+        "Many of the next generation of particle accelerators (LCLS II",
+        "PIP II) are designed for relatively low beam loading. Low beam loading requirement means the cavities can operate with narrow bandwidths",
+        "minimizing capital and base operational costs of the RF power system. With such narrow bandwidths",
+        "however",
+        "cavity detuning from microphonics or dynamic Lorentz Force Detuning becomes a significant factor",
+        "and in some cases can significantly increase both the acquisition cost and the operational cost of the machine. In addition to the efforts to passive environmental detuning reduction (microphonics) active resonance control for the SRF cavities for next generation linear machine will be required. State of the art in the field of the SRF Cavity active resonance control and the results from the recent efforts at FNAL will be presented in this talk."
+      ],
+      "institutions": [],
+      "abstract": "Slides TU2A03 [0.897 MB] reference for this paper ※ https://doi.org/10.18429/JACoW-",
+      "presentation_url": "https://proceedings.jacow.org/linac2016/talks/tu2a03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/linac2016/papers/tu2a03.pdf",
+      "poster_url": "https://proceedings.jacow.org/linac2016/posters/tu2a03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-LINAC2016-TU2A03",
+      "page_number": "363",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TU2A04",
+      "title": "High-Gradient RF Development and Applications",
+      "authors": [
+        "CERN",
+        "Geneva",
+        "Switzerland"
+      ],
+      "institutions": [],
+      "abstract": "Significant progress has been made by the CLIC collaboration to understand the phenomena which limit gradient in normal-conducting accelerating structures and to increase achievable gradient in excess of 100 MV/m. Scientific and technological highlights from the CLIC high-gradient program are presented along with on-going developments and future plans. The talk will also give an overview of the range of applications that potentially benefit from high-frequency and high-gradient accelerating technology. Slides TU2A04 [14.317 MB] reference for this paper ※ https://doi.org/10.18429/JACoW-",
+      "presentation_url": "https://proceedings.jacow.org/linac2016/talks/tu2a04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/linac2016/papers/tu2a04.pdf",
+      "poster_url": "https://proceedings.jacow.org/linac2016/posters/tu2a04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-LINAC2016-TU2A04",
+      "page_number": "368",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 4,
+  "scrape_time": "2025-10-10 22:44:43"
+}

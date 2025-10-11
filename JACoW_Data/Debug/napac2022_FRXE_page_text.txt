@@ -1,0 +1,121 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: FRXE (Tutorial)
+
+
+FRXE —  Tutorial   (12-Aug-22   08:00—10:00)
+Chair: A. Scheinker, LANL, Los Alamos, New Mexico, USA
+
+
+Paper
+Title
+Page
+
+
+
+FRXE1
+Bayesian Algorithms for Practical Accelerator Control and Adaptive Machine Learning for Time-Varying Systems
+921
+
+
+ 
+
+A. Scheinker
+                       LANL, Los Alamos, New Mexico, USA
+R.J. Roussel
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Particle accelerators are complicated machines with thousands of coupled time varying components. The electromagnetic fields of accelerator devices such as magnets and RF cavities drift and are uncertain due to external disturbances, vibrations, temperature changes, and hysteresis. Accelerated charged particle beams are complex objects with 6D phase space dynamics governed by collective effects such as space charge forces, coherent synchrotron radiation, and whose initial phase space distributions change in unexpected and difficult to measure ways. This two-part tutorial presents recent developments in Bayesian methods and adaptive machine learning (ML) techniques for accelerators. Part 1: We introduce Bayesian control algorithms, and we describe how these algorithms can be customized to solve practical accelerator specific problems, including online characterization and optimization. Part 2: We give an overview of adaptive ML (AML) combining adaptive model-independent feedback within physics-informed ML architectures to make ML tools robust to time-variation (distribution shift) and to enable their use further beyond the span of the training data without relying on re-training.
+
+ 
+
+
+
+
+
+
+Slides FRXE1 [34.283 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-FRXE1
+
+ 
+
+
+About •
+Received ※ 08 August 2022 — Revised ※ 10 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 27 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRXE2
+Bayesian Algorithms for Practical Accelerator Control and Adaptive Machine Learning for Time-Varying Systems
+ 
+
+
+ 
+
+R.J. Roussel
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Particle accelerators are complicated machines with thousands of coupled time varying components. The electromagnetic fields of accelerator devices such as magnets and RF cavities drift and are uncertain due to external disturbances, vibrations, temperature changes, and hysteresis. Accelerated charged particle beams are complex objects with 6D phase space dynamics governed by collective effects such as space charge forces, coherent synchrotron radiation, and whose initial phase space distributions change in unexpected and difficult to measure ways. This two-part tutorial presents recent developments in Bayesian methods and adaptive machine learning (ML) techniques for accelerators. Part 1: We introduce Bayesian control algorithms, and we describe how these algorithms can be customized to solve practical accelerator specific problems, including online characterization and optimization. Part 2: We give an overview of adaptive ML (AML) combining adaptive model-independent feedback within physics-informed ML architectures to make ML tools robust to time-variation (distribution shift) and to enable their use further beyond the span of the training data without relying on re-training.
+
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

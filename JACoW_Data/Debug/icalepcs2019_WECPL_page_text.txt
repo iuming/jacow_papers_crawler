@@ -1,0 +1,303 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WECPL (Control System Upgrades 1)
+
+
+WECPL —  Control System Upgrades 1   (09-Oct-19   12:00—13:15)
+Chair: M. Bickley, JLab, Newport News, Virginia, USA
+
+
+Paper
+Title
+Page
+
+
+
+WECPL01
+Status of the Control System for Fully Integrated SACLA/SPring-8 Accelerator Complex and New 3 GeV Light Source Being Constructed at Tohoku, Japan
+904
+
+
+ 
+
+T. Sugimoto, N. Hosoda, K. Okada, M. Yamaga
+                       JASRI, Hyogo, Japan
+T. Fukui
+                       RIKEN SPring-8 Center, Innovative Light Sources Division, Hyogo, Japan
+M. Ishii
+                       JASRI/SPring-8, Hyogo-ken, Japan
+
+ 
+
+
+ 
+
+In the SPring-8 upgrade project, we plan to use the linear accelerator of SACLA as a full-energy injector to the storage ring. For the purpose of simultaneous operation of XFEL lasing and on-demand injection, we developed a new control framework that inherits the concepts of MADOCA. We plan to use the same control framework for a 3 GeV light source under construction at Tohoku, Japan. Messaging of the new control system is based on the MQTT protocol, which enables slow control and data acquisition with sub-second response time. The data acquisition framework, named MDAQ, covers both periodic polling and event-synchronizing data. To ensure scalability, we applied a key-value storage scheme, Apache Cassandra, to the logging database of the MDAQ. We also developed a new parameter database scheme, that handles operational parameter sets for XFEL lasing and on-demand top-up injection. These parameter sets are combined into 60 Hz operation patterns. For the top-up injection, we can select the operational pattern every second on an on-demand basis. In this paper, we report an overview of the new control system and the preliminary results of the integrated operation of SACLA and SPring-8.
+
+ 
+
+
+
+
+
+
+Slides WECPL01 [10.969 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WECPL01
+
+ 
+
+
+About •
+paper received ※ 03 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECPL02
+Roadmap to 100 Hz DAQ at SwissFEL: Experiences and Lessons Learned
+909
+
+
+ 
+
+T. Celcer, A. Babic, S.G. Ebner, F. Märki, L. Sala
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Providing reliable and performant Data Acquisition System (DAQ) at Free Electron Lasers (FELs) is a challenging and complex task due to the inherent characteristics of a pulsed machine and consequent need of beam synchronous shot-to-shot DAQ, which enables correlation of collected data associated with each FEL pulse. We will focus on experiences gathered during the process of moving towards 100 Hz operation at SwissFEL from the perspective of beam synchronous DAQ. Given the scarce resources and challenging deadlines, a lot of efforts went into managing conflicting stakeholder expectations and priorities and into allocation of time for operation support and maintenance tasks on one side and time for design and development tasks on the other side. The technical challenges we encountered have shown a great importance of having proper requirements in the early phase, a well thought system design concept, which considers all subsystems in the DAQ chain, and a well-defined test framework for validation of recorded beam synchronous data.
+
+ 
+
+
+
+
+
+
+Slides WECPL02 [4.248 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WECPL02
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECPL03
+Implementation of the Motion Control System for LCLS-II Undulators
+915
+
+
+ 
+
+M.A. Montironi, C.J. Andrews, H. Bassan, K.R. Lauer, Yu.I. Levashov, H.-D. Nuhn, Z.R. Wolf
+                       SLAC, Menlo Park, California, USA
+Ž. Oven
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+As part of the LCLS upgrade called LCLS-II, two new undulator lines were introduced: a soft X-Ray line (SXR) and a hard H-Ray line (HXR). Serving distinct purposes, the two undulator lines employ different undulator designs. The SXR line is composed of 21 vertical gap, horizontally polarized undulators while the HXR line is composed of 32 undulator segments designed to operate on the horizontal axis and to produce a vertically polarized beam. The HXR undulators will replace the LCLS ones and thus the control system was designed with the main goal of maximizing the re-utilization of existing hardware and software. For this purpose, the motion control system based on RTEMS running on VME with Animatics SmartMotors was developed as an upgrade of the LCLS design and the cam-based undulator girder positioning system has been reused. The all new SXR undulators employ a new control system design based on Aerotech motion controllers and EPICS soft IOCs (input-output controllers). This paper describes how the most challenging motion control requirements were implemented focusing on motion synchronization, K-value to gap transformation, cams kinematics and calibration, and user interaction.
+
+ 
+
+
+
+
+
+
+Slides WECPL03 [0.625 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WECPL03
+
+ 
+
+
+About •
+paper received ※ 29 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECPL04
+Beamline Control System Upgrade Strategy for the APS-U
+ 
+
+
+ 
+
+J.P. Sullivan
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+This talk will be on the beamline controls design and support philosophy used by the APS X-ray Science (XSD) Beamline Controls (BC) Group and how that impacts control system upgrade decisions for the APS-U Project. The XSD/BC philosophy is based on providing high performance, long-lived, and supportable solutions given limited resources. Maximizing the use of EPICS and COTS hardware are the enabling technologies that makes that philosophy sustainable. Meeting the requirements of APS-U beamlines while still abiding by a proven successful approach to control system design will be described.
+
+ 
+
+
+
+
+
+
+Slides WECPL04 [9.625 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECPL05
+Migrating to Tiny Core Linux in a Control System
+920
+
+
+ 
+
+R.A. Washington
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+The ISIS Accelerator Controls (IAC) group currently uses a version of Microsoft Windows Embedded as its chosen Operating System (OS) for control of front-line hardware. Upgrading to the current version of the Windows Embedded OS is not possible without also upgrading hardware, or changing the way software is delivered to the hardware platform. The memory requirements are simply too large to be considered a viable option. A new alternative was sought and that process led to Tiny Core Linux being selected due to its frugal memory requirements and ability to run from a RAM-disk. This paper describes the process of migrating from Windows Embedded Standard 2009 to Tiny Core Linux as the OS platform for IAC embedded hardware.
+
+ 
+
+
+
+
+
+
+Slides WECPL05 [1.455 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WECPL05
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

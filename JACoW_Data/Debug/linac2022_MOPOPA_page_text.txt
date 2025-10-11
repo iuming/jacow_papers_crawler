@@ -1,0 +1,818 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINAC2022 - Table of Session: MOPOPA (Poster Session)
+
+
+MOPOPA —  Poster Session   (29-Aug-22   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPOPA02
+Identification of the Mechanical Dynamics of the Superconducting Radio-Frequency Cavities for the European XFEL CW Upgrade
+76
+
+
+ 
+
+W.H. Syed, A. Bellandipresenter, J. Branlard, A. Eichler
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European X-Ray Free-Electron Laser (EuXFEL) is to-date the largest X-ray research facility around the world which spans over 3.4 km. EuXFEL is currently being operated in a pulsed mode with a repetition rate of 10Hz. One upgrade scenario consists of operating the EuXFEL also in a Continuous-Wave (CW) mode of operation to improve the quality of experiments. This upgrade brings new challenges and requires new algorithms to deal with controlling a stable accelerating field inside the Superconducting Radiofrequency (SRF) accelerating cavities and keeping them on resonance in this new mode of operation. The purpose of this research work is to identify the mechanical dynamics of the cavities which will facilitate the development of the resonance controller for the CW upgrade. To this extent, experiments were conducted at a test bench. For the first time, in this work, two different types of spectrally rich excitation signals: multi-sine and stepped-sine are used to excite the mechanical dynamics of the cavities using the piezo actuator. After the analysis of experimental data, mechanical modes are successfully identified and will be used to design the controller.
+
+ 
+
+
+
+
+
+
+Poster MOPOPA02 [0.687 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA02
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 25 August 2022 — Accepted ※ 26 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA03
+Beam-Transient-Based LLRF Voltage Signal Calibration for the European XFEL
+80
+
+
+ 
+
+N. Walker, V. Ayvazyan, J. Branlardpresenter, S. Pfeiffer, Ch. Schmidt
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL linac consists of 25 superconducting RF (SRF) stations. With the exception of the first station which is part of the injector, each station comprises 32 1.3-GHz SRF TESLA cavities, driven by a single 10-MW klystron. A sophisticated state-of-the-art low-level RF (LLRF) system maintains the complex vector sum of each RF station. Monitoring and maintaining the calibration of the cavity electric field (gradient) probe signals has proven critical in achieving the maximum energy performance and availability of the SRF linac. Since there are no dedicated diagnostics for cross-checking calibration of the LLRF system, a procedure has been implemented based on simultaneously measuring the beam transient in open-loop operation of all cavities. Based on methods originally developed at FLASH, the European XFEL procedure makes use of automation and the XFEL LLRF DAQ system to provide a robust and relatively fast (minutes) way of extracting the transient data, and is now routinely scheduled once per week. In this paper, we will report on the background, implementation, analysis methods, typical results, and their subsequent application for machine operation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA03
+
+ 
+
+
+About •
+Received ※ 13 August 2022 — Revised ※ 23 August 2022 — Accepted ※ 14 September 2022 — Issue date ※ 27 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA04
+Simulation Study of an Accelerator-based THz FEL for Pump-Probe Experiments at the European XFEL
+83
+
+
+ 
+
+P. Boonpornprasert, G.Z. Georgiev, M. Krasilnikov, X.-K. Li, A. Lueangaramwong
+                       DESY Zeuthen, Zeuthen, Germany
+
+ 
+
+
+ 
+
+The European XFEL considers to perform THz-pump and X-ray-probe experiments. A promising concept to provide the THz pulses with satisfactory properties for the experiments is to generate them using a linear accelerator-based free-electron laser (FEL). A simulation study of a THz FEL facility capable of generating powerful tunable coherent THz radiation that covers the wavelength range of 25 ’m to 100 ’m was performed. An accelerator beamline layout based on the Photo Injector Test Facility at DESY in Zeuthen (PITZ) and an APPLE-II undulator with a period length of 40 mm were used in the simulation study. Results of the study are presented and discussed in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA04
+
+ 
+
+
+About •
+Received ※ 25 August 2022 — Revised ※ 27 August 2022 — Accepted ※ 30 August 2022 — Issue date ※ 05 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA11
+Laser-to-RF Synchronisation Drift Compensation for the CLARA test facility
+87
+
+
+ 
+
+J. Henderson, A.J. Moss, E.W. Snedden
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+A.C. Dexter
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+
+ 
+
+
+ 
+
+Femtosecond synchronisation between charged particle beams and external laser systems is a significant challenge for modern particle accelerators. To achieve femtosecond synchronisation of the CLARA electron beam and end user laser systems will require tight synchronisation of several accelerator subsystems. This paper reports on a method to compensate for environmentally driven long-term drift in Laser-RF phase detection systems.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA11
+
+ 
+
+
+About •
+Received ※ 22 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA12
+Preserving Bright Electron Beams: Distorted CSR Kicks
+91
+
+
+SUPCRI08
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A. Dixon, T.K. Charles
+                       The University of Liverpool, Liverpool, United Kingdom
+T.K. Charles, P.H. Williams
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+S. Thorin
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+P.H. Williams
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Short pulse, low emittance electron beams are necessary to drive bright FEL X-rays, for this reason it is important to preserve and limit emittance growth. The strong bunch compression required to achieve the short bunches, can lead to coherent synchrotron radiation (CSR)-induced emittance growth, and while there are some methods of CSR cancel- lation, these methods may be less effective when the CSR kicks are distorted. In an attempt to understand why CSR kicks become distorted, we compare the CSR kicks calcu- lated using the whole beam parameters to the CSR kicks calculated using the longitudinally sliced beam parameters, when propagated to the end of the bunch compressor. We find that CSR kicks can become distorted when calculated with non-uniform slice beam parameters. While slice beam parameters that are uniform along the centre of the bunch, do not result in distorted CSR kicks.
+
+ 
+
+
+
+
+
+
+Poster MOPOPA12 [1.553 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA12
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 27 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA13
+200 MV Record Voltage of vCM and LCLS-II-HE Cryomodules Production Start Fermilab
+95
+
+
+ 
+
+T.T. Arkan, D. Bafia, D.J. Bice, J.N. Blowers, A.T. Cravatta, B. Giaccone, C.J. Grimm, B.D. Hartsell, J.A. Kaluzny, M. Martinello, T.H. Nicol, Y.M. Orlov, S. Posen
+                       Fermilab, Batavia, Illinois, USA
+M. Checchin
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Department of Energy
+The Linac Coherent Light Source (LCLS) is an X-ray science facility at SLAC National Accelerator Laboratory. The LCLS-II project (an upgrade to LCLS) is in the commissioning phase; the LCLS-II-HE (High Energy) project is another upgrade to the facility, enabling higher energy operation. An electron beam is accelerated using superconducting radio frequency (SRF) cavities built into cryomodules. It is planned to build 24 1.3 GHz standard cryomodules and 1 1.3 GHz single-cavity Buncher Capture Cavity (BCC) cryomodule for the LCLS-II-HE project. Fourteen of these standard cryomodules and one BCC are planned to be assembled and tested at Fermilab. Procurements for standard cryomodule components are nearing completion. The first LCLS-II-HE cryomodule, referred to as the verification cryomodule (vCM) was assembled and tested at Fermilab. Fermilab has completed the assembly of the second cryomodule. This paper presents LCLS-II-HE cryomodule production status at Fermilab, emphasizing the changes done based on the successes, challenges, mitigations, and lessons learned from LCLS-II; validation of the changes with the excellent vCM results.
+
+ 
+
+
+
+
+
+
+Poster MOPOPA13 [1.975 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA13
+
+ 
+
+
+About •
+Received ※ 10 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 09 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA15
+Three Years of Operation of the SPIRAL2 SC LINAC- RF Feedback
+98
+
+
+ 
+
+M. Di Giacomo, M. Aburas, P.-E. Bernaudin, O. Delahaye, A. Dubosq, A. Ghribi, J.-M. Lagniel, J.F. Leyge, G. Normand, A.K. Orduz, F. Pillon, L. Valentin
+                       GANIL, Caen, France
+F. Bouly
+                       LPSC, Grenoble Cedex, France
+S. Sube
+                       CEA-DRF-IRFU, France
+
+ 
+
+
+ 
+
+The superconducting LINAC of SPIRAL2 at the GANIL facility has been in operation since October 2019. The accelerator uses 12 low beta and 14 high beta supercon-ducting quarter wave cavities, cooled at 4°K, working at 88 MHz. The cavities are operated at a nominal gradient of 6.5 MV/m and are independently powered by a LLRF and a solid-state amplifier, protected by a circulator. Pro-ton and deuteron beam currents can reach 5 mA and beam loading perturbation is particularly strong on the first cavities, as they are operated at field levels much lower than the nominal one. This paper presents a feedback after three years of oper-ation, focuses on the RF issues, describing problems and required improvement on the low level, control and pow-er systems
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA15
+
+ 
+
+
+About •
+Received ※ 14 August 2022 — Revised ※ 17 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA16
+UNILAC Heavy Ion Beam Operation at FAIR Intensities
+102
+
+
+ 
+
+W.A. Barth, M. Miski-Oglu, U. Scheeler, H. Vormann, M. Vossberg, S. Yaramyshev
+                       GSI, Darmstadt, Germany
+M. Miski-Oglu
+                       HIM, Mainz, Germany
+
+ 
+
+
+ 
+
+The GSI-UNILAC as well as the heavy ion synchrotron SIS18 will serve as a high current heavy ion injector for the FAIR synchrotron SIS100. In the context of an advanced machine investigation program acceleration and transport of space charge dominated argon beam inside entire UNILAC have been explored. The conducted high current argon beam measurements throughout the UNILAC-poststripper and transferline to SIS18 show a transversal emittance growth of only 35% for the design current of 7 emA (40Ar10+). By horizontal collimation of the UNILAC beam emittance, the space charge limit could be reached at slightly lower pulse currents, but accordingly longer injection times. Further improvements in brilliance can be expected from the planned upgrade measures, in particular on the high-current injector linac.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA16
+
+ 
+
+
+About •
+Received ※ 19 August 2022 — Revised ※ 22 August 2022 — Accepted ※ 26 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA17
+RF Commissioning of the First-of-Series Cavity Section of the Alvarez 2.0 at GSI
+106
+
+
+ 
+
+M. Heilmann, L. Groening, C. Herr, M. Hoerr, S. Mickat, B. Schlitt, G. Schreiber
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The existing post-stripper DTL of the GSI UNILAC will be replaced with the new Alvarez 2.0 DTL to serve as the injector chain for the Facility of Antiproton and Ion Research (FAIR). The 108.4 MHz Alvarez 2.0 DTL with a total length of 55 meters has an input energy of 1.36 MeV/u and the output energy is 11.32 MeV/u. The presented First-of-Series (FoS) cavity section with 11 drift tubes and a total length of 1.9 m is the first part of the first cavity of the Alvarez 2.0 DTL. After copper plating and assembly of the cavity the RF-conditioning started in July 2021. These proceeding gives an overview on the results of the successfully RF-conditioning to reach the necessary gap voltage for uranium operation including a comfortable safety margin.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA17
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 01 September 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA18
+High Intensity Heavy Ion Beam Optimization at GSI UNILAC
+110
+
+
+ 
+
+H. Vormann, W.A. Barth, M. Miski-Oglu, U. Scheeler, M. Vossberg, S. Yaramyshev
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+To improve the UNILAC’s performance for the upcoming use as heavy ion injector for the FAIR accelerator chain, dedicated beam investigations have been carried out. In particular measurements with Bismuth and Uranium beams require the highest accelerating voltages and powers of the rf cavities, the rf transmitters and the magnet power converters. After four years without Uranium operation (resp. with Uranium, but restricted cavity voltages), the UNILAC has now been operated again with a performance close to that of former years. Several upgrade measures will improve the UNILAC capability. In combination with the prototype pulsed gas stripper with hydrogen gas, beam intensities not far below the FAIR requirements can already now be expected.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA18
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 28 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA19
+Preparation for Commissioning with Beam of "Advanced Demonstrator" Module with Heavy Ion Beam
+114
+
+
+ 
+
+M. Miski-Oglu, W.A. Barthpresenter, M. Basten, C. Burandt, F.D. Dziuba, T. Kürzeder, S. Lauber, J. List, S. Yaramyshev
+                       HIM, Mainz, Germany
+W.A. Barthpresenter, M. Basten, C. Burandt, F.D. Dziuba, V. Gettmann, T. Kürzeder, S. Lauber, J. List, S. Yaramyshev
+                       GSI, Darmstadt, Germany
+W.A. Barthpresenter, F.D. Dziuba, S. Lauber, J. List
+                       KPH, Mainz, Germany
+H. Podlech, M. Schwarz
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+The integration of the accelerator components in to the cryogenic module prototype (Advanced Demonstrator) is a major milestone of the R&D for the superconducting heavy ion continuous wave linear accelerator HELIAC at GSI. The HELIAC is joint project of Helmholtz Institute Mainz (HIM) and GSI developed in collaboration with IAP Goethe University Frankfurt. This module is equipped with three superconducting (sc) Cross bar H-mode (CH) acceleration cavities CH0-CH2 and a sc rebuncher cavity, as well as two sc solenoids. The commissioning of the cryogenic module with Argon beam at GSI is scheduled for August 2023. In preparation for the beam test activities, the beamline, which connects the High Charge State Injector (HLI) with the testing area, has been installed. The beamline comprises a pair of phase probes for Time Of Flight (TOF) measurement of the incoming beam energy, quadrupole lenses and a 4-gap RF-buncher cavity. The beam diagnostics bench behind the cryo module is equipped with phase probe pairs, a slit-grid device, a bunch shape monitor (Feshenko monitor) for measurements of the longitudinal beam profile. The bench allows complete 6d characterization of the ion beam.
+
+ 
+
+
+
+
+
+
+Poster MOPOPA19 [3.074 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA19
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 29 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 04 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA20
+Q Drop Tendency of Half-Wave Resonator Cavity
+118
+
+
+ 
+
+Y. Jung, H. Jang, H. Kimpresenter, H. Kimpresenter, J.W. Kim
+                       IBS, Daejeon, Republic of Korea
+S. Jeon
+                       Kyungpook National University, Daegu, Republic of Korea
+
+ 
+
+
+ 
+
+All HWRs (half-wave resonator superconducting cavities) have been fabricated and installed in the low energy section of the LINAC in IBS. All HWR cavities have been tested (vertical tests, VT) both at 4.2 K and 2.1 K cryogenic surroundings although operating temperature of HWRs is 2.1 K. Good cavities of high quality factors showed the Q drop tendency of 2.1 k were very similar to that of 4.2 K. However, in many cases, Q drop tendency of 2.1 K were not similar with 4.2 K, rather Q decreased more rapidly than 4.2 K which means the surface resistance of the cavity rapidly increased at 2 K surrounding. In this study, we will report that various Q results of HWRs and compare their Q drop tendency as a function of temperature, 2.1 K and 4.2 K.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA20
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 28 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA21
+RF Beam Sweeper for Purifying In-Flight Produced Rare Isotope Beams at ATLAS Facility
+122
+
+
+ 
+
+S.V. Kutsaev, R.B. Agustsson, A.C. Araujo Martinezpresenter, J. Peña González, A.Yu. Smirnov
+                       RadiaBeam, Santa Monica, California, USA
+B. Mustapha
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of Nuclear Physics, under SBIR grant DE-SC0019719.
+RadiaBeam is developing an RF beam sweeper for puri-fying in-flight produced rare isotope beams at the ATLAS facility of Argonne National Laboratory. The device will operate in two frequency regimes ’ 6 MHz and 12 MHz ’ each providing a 150 kV deflecting voltage, which dou-bles the capabilities of the existing ATLAS sweeper. In this paper, we present the design of a high-voltage RF sweeper and discuss the electromagnetic, beam dynamics, and solid-state power source for this device.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA21
+
+ 
+
+
+About •
+Received ※ 14 August 2022 — Revised ※ 19 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA22
+High-Gradient Accelerating Structure for Hadron Therapy Linac, Operating at kHz Repetition Rates
+126
+
+
+ 
+
+S.V. Kutsaev, R.B. Agustsson, A.C. Araujo Martinezpresenter, A.Yu. Smirnov, S.U. Thielk
+                       RadiaBeam, Santa Monica, California, USA
+V.A. Dolgashev
+                       SLAC, Menlo Park, California, USA
+B. Mustapha, G. Ye
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of High Energy Physics, under STTR grant DE-SC0015717 and Accelerator Stewardship Grant, Proposal No. 0000219678.
+Argonne National Laboratory and RadiaBeam have designed the Advanced Compact Carbon Ion Linac (ACCIL) for the acceleration of carbon an proton beams up to the energies of 450 MeV/u, required for image-guided hadron therapy. Recently, this project has been enhanced with the capability of fast tumour tracking and treatment through the 4D spot scanning technique. Such solution offers a promising approach to simultaneously reduce the cost and improve the quality of the treatment. In this paper, we report the design of an accelerating structure, capable of operating up to 1000 pulses per second. The linac utilizes an RF pulse compressor for use with commercially available klystrons, which will dramatically reduce the price of the system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA22
+
+ 
+
+
+About •
+Received ※ 13 August 2022 — Revised ※ 19 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPOPA24
+High-Brightness RFQ Injector for LANSCE Multi-Beam Operation
+130
+
+
+MOOPA06
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Y.K. Batygin, D.A.D. Dimitrov, I. Draganić, D.V. Gorelov, E. Henestroza, S.S. Kurennoy
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE under contract 89233218CNA000001
+The unique feature of the LANSCE accelerator facility is multi beam operation. Accelerator delivers 100 MeV H+ and 800 MeV H− beams to five experimental areas. The LANSCE front end is equipped with two independent injectors for H+ and H− beams, merging at the entrance of a Drift Tube Linac (DTL). Existing Cockcroft-Walton (CW) - based injector provides conservation of high value of beams brightness before injection into DTL. To reduce long-term operational risks and support beam delivery with high reliability, we designed an RFQ-based front end as a modern injector replacement for the CW injectors. Proposed injector includes two independent low-energy transports merging beams at the entrance of a single RFQ, which accelerates simultaneously both protons and H− ions with multiple flavors of the beams. Paper discusses details of beam physics design and presents injector parameters.
+
+ 
+
+
+
+
+
+
+Slides MOPOPA24 [3.266 MB]
+        
+ 
+
+
+
+
+
+
+Poster MOPOPA24 [5.806 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA24
+
+ 
+
+
+About •
+Received ※ 21 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 28 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

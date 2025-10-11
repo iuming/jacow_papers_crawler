@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ERL2019 - Table of Session: TUCOXBS (WG2: ERL beam dynamics and instrumentation)
+
+
+TUCOXBS —  WG2: ERL beam dynamics and instrumentation   (17-Sep-19   10:45—12:30)
+Chair: G.H. Hoffstaetter, Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUCOXBS01
+Beam Halo in Energy Recovery Linacs
+23
+
+
+ 
+
+O.A. Tanaka
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The beam halo mitigation is a very important challenge for reliable and safe operation of a high energy machine. Since Energy Recovery Linacs (ERLs) are known to produce high energy electron beams of high virtual power and high density, the beam halo and related beam losses should be properly mitigated to avoid a direct damage of the equipment, an unacceptable increase in the vacuum pressure, a radiation activation of the accelerator components etc. To keep the operation stable, one needs to address all possible beam halo formation mechanisms, including those unique to each machine that can generate beam halo. Present report is dedicated to the beam halo related activities at the Compact ERL at KEK, and our operational experience with respect to the beam halo.
+
+ 
+
+
+
+
+
+
+Slides TUCOXBS01 [4.480 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ERL2019-TUCOXBS01
+
+ 
+
+
+About •
+paper received ※ 16 September 2019       paper accepted ※ 01 November 2019        issue date ※ 24 June 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCOXBS03
+Beam Dynamics Layout of the MESA ERL
+28
+
+
+ 
+
+F. Hug, K. Aulenbacher, D. Simon, C.P. Stoll, S.D.W. Thomas
+                       KPH, Mainz, Germany
+K. Aulenbacher
+                       GSI, Darmstadt, Germany
+K. Aulenbacher
+                       HIM, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: This work has been supported by DFG through the PRISMA+ cluster of excellence EXC 2118/2019 and by the European Union’s Horizon 2020 Research and Innovation programme under Grant Agreement No 730871.
+The MESA project is currently under construction at Johannes Gutenberg-Universität Mainz. It will be used for high precision particle physics experiments in two different operation modes: external beam (EB) mode (0.15 mA; 155 MeV) and energy recovery (ERL) mode (1 mA; 105 MeV). The recirculating main linac follows the concept of a double sided accelerator design with vertical stacking of return arcs. Up to three recirculations are possible. Acceleration is done by four TESLA/XFEL 9-cell SRF cavities located in two modified ELBE cryomodules. Within this contribution the recirculation optics for MESA will be presented. Main goals are achieving best energy spread at the experimental setups in recirculating ERL and non-ERL operation and providing small beta-functions within the cryomodules for minimizing HOM excitation at high beam currents.
+
+ 
+
+
+
+
+
+
+Slides TUCOXBS03 [5.077 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ERL2019-TUCOXBS03
+
+ 
+
+
+About •
+paper received ※ 16 September 2019       paper accepted ※ 06 November 2019        issue date ※ 24 June 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCOXBS04
+The LHeC ERL - Optics and Performance Optimizations
+34
+
+
+ 
+
+S.A. Bogacz
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Work has been authored by Jefferson Science Associates, LLC under Contract No. DE-AC05-06OR23177 with the U.S. Department of Energy.
+The LHeC 60 GeV ERL baseline design features a racetrack composed of two linacs, completed with 6 return arcs, including vertical spreaders and recombines at the arcs ends. Here, we consider a design strategy aiming at ’downsizing’ the ERL e.g. to 50 GeV, while preserving its performance in terms of synchrotron radiation effects. This results in a significant reduction of accelerator components. The optimization explores tuning of each arc, which takes into account the impact of synchrotron radiation at different energies. At the highest energy, it is crucial to minimize the emittance dilution; therefore, the cells are tuned to minimize the dispersion in the bending sections, as in a theoretical minimum emittance lattice. At the lowest energy, one compensates for the bunch elongation with a negative momentum compaction setup which, additionally, contains the beam size. The intermediate energy arcs are tuned to a double bend achromat lattice, offering a compromise between isochronicity and emittance dilution. Finally, a feasibility of a ’dogbone’ ERL is discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ERL2019-TUCOXBS04
+
+ 
+
+
+About •
+paper received ※ 16 September 2019       paper accepted ※ 07 November 2019        issue date ※ 24 June 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCOXBS05
+Beam Timing and Cavity Phasing
+39
+
+
+ 
+
+R.M. Koscica, N. Banerjee, G.H. Hoffstaetter, W. Lou, G.T. Premawardhana
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+In a multi-pass Energy Recovery Linac (ERL), each cavity must regain all energy expended from beam acceleration during beam deceleration. The beam should also achieve specific energy targets during each loop that returns it to the linac. To satisfy the energy recovery and loop requirements, one must specify the phase and voltage of cavity fields, and one must control the beam flight times through the return loops. Adequate values for these parameters can be found by using a full scale numerical optimization program. If symmetry is imposed in beam time and energy during acceleration and deceleration, the number of parameters needed decreases, simplifying the optimization. As an example, symmetric models of the Cornell BNL ERL Test Accelerator (CBETA) are considered. Energy recovery results from recent CBETA single-turn tests are presented, as well as multi-turn solutions that satisfy CBETA optimization targets of loop energy and zero cavity loading.
+
+ 
+
+
+
+
+
+
+Slides TUCOXBS05 [5.186 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ERL2019-TUCOXBS05
+
+ 
+
+
+About •
+paper received ※ 13 September 2019       paper accepted ※ 01 November 2019        issue date ※ 24 June 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

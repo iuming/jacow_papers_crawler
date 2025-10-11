@@ -1,0 +1,134 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: MOSH4 (Speakers’ Corner)
+
+
+MOSH4 —  Speakers’ Corner   (07-Oct-19   17:00—18:45)
+Chair: S. Nemesure, BNL, Upton, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+MOSH4001
+A Library of Fundamental Building Blocks for Experimental Control Software
+653
+
+
+MOPHA130
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Scarcia, R. Borghes, M. Lonza, M. Manfredda, R. Mincigrucci, E. Pedersoli
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+In many experimental facilities there is a rising interest by users and beamline scientists to take part in the experiment control software development process. This necessity arises from the flexibility and adaptability of many beamlines, that can run very different experiments, requiring changes in the software even during beamtimes. On the other side, we still need a professional and controlled approach in order to be able to maintain the software efficiently. Our proposed solution is to exploit the object oriented nature of programming languages to create a library that provides a uniform interface both to the different controlled devices (e.g. motors) and to experimental procedures (e.g. scans). Every component and procedure can be represented as an object, a building block for experiment control scripts. We can thus provide the scientists with a powerful tool for implementing highly flexible control software to run experiments. Furthermore, a library makes the development of experiment control scripts easier and quicker for software developers. In any case we are able to protect the most sensitive structures (e.g. control systems) beneath a strong and trusted software layer.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOSH4001
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOSH4002
+A Cloud Based Framework for Advanced Accelerator Controls
+655
+
+
+MOPHA038
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+J.P. Edelen, M.V. Keilman, P. Moeller, R. Nagler
+                       RadiaSoft LLC, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under Award Number DE-SC0019682.
+Modern particle accelerator facilities generate large amounts of data and face increasing demands on their operational performance. As the demand on accelerator operations increases so does the need for automated tuning algorithms and control to maximize uptime with reduced operator intervention. Existing tools are insufficient to meet the broad demands on controls, visualization, and analysis. We are developing a cloud based toolbox featuring a generic virtual accelerator control room for the development of automated tuning algorithms and the analysis of large complex datasets. This framework utilizes tracking codes combined with with algorithms for machine drift, low-level control systems, and other complications to create realistic models of accelerators. These models are directly interfaced with advanced control toolboxes allowing for rapid prototyping of control algorithms. Additionally, our interface provides users with access to a wide range of Python-based data analytics libraries for the study and visualization of machine data. In this paper, we provide an overview of our interface and demonstrate its utility on a toy accelerator running on EPICS.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOSH4002
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

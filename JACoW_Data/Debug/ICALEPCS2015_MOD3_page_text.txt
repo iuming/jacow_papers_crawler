@@ -1,0 +1,353 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: MOD3 (Systems engineering, project management)
+
+
+MOD3 —  Systems engineering, project management   (19-Oct-15   15:15—17:00)
+Chair: C.D. Marshall, LLNL, Livermore, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+MOD3I01
+Bayesian Reliability Model for Beam Permit System of RHIC at BNL
+46
+
+
+ 
+
+P. Chitnis
+                       Stony Brook University, Stony Brook, New York, USA
+K.A. Brown
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+Bayesian Analysis provides a statistical framework for updating prior knowledge as observational evidence is acquired. It can handle complex and realistic models with flexibility. The Beam Permit System (BPS) of RHIC plays a key role in safeguarding against the faults occurring in the collider, hence directly impacts RHIC availability. Earlier a multistate reliability model* was developed to study the failure characteristics of the BPS that incorporated manufacturer and military handbook data. Over the course of its 15 years of operation, RHIC has brought forth operational failure data. This work aims towards the integration of earlier reliability calculations with operational failure data using Bayesian analysis. This paper discusses the Bayesian inference of the BPS reliability using a two-parameter Weibull survival model, with unknown scale and shape parameters. As the joint posterior distribution for Weibull with both parameters unknown is analytically intractable, the Markov Chain Monte Carlo methodology with Metropolis-Hastings algorithm is used to obtain the inference. Selection criteria for the Weibull distribution, prior density and hyperparameters are also discussed.
+*P. Chitnis et al., 'A Monte Carlo Simulation Approach to the Reliability Modeling of the Beam Permit System of Relativistic Heavy Ion Collider (RHIC) at BNL', Proc. of ICALEPCS'13, San Francisco, CA.
+
+ 
+
+
+
+
+
+
+Slides MOD3I01 [3.934 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOD3I01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOD3O02
+Continuous Delivery at SOLEIL
+51
+
+
+ 
+
+G. Abeillé, A. Buteau, X. Elattaoui, S. Lê
+                       SOLEIL, Gif-sur-Yvette, France
+G. Boissinot
+                       ZENIKA, Paris, France
+
+ 
+
+
+ 
+
+IT Department of Synchrotron SOLEIL* is structured along of a team of software developers responsible for the development and maintenance of all software from hardware controls up to supervision applications. With a very heterogonous environment such as, several software languages, strongly coupled components and an increasing number of releases, it has become mandatory to standardize the entire development process through a 'Continuous Delivery approach'; making it easy to release and deploy on time at any time. We achieved our objectives by building up a Continuous Delivery system around two aspects, Deployment Pipeline** and DevOps***. A deployment pipeline is achievable by extensively automating all stages of the delivery process (the continuous integration of software, the binaries build and the integration tests). Another key point of Continuous Delivery is also a close collaboration between software developers and system administrators, often known as the DevOps movement. This paper details the feedbacks on this Continuous Delivery approach has been adopted, modifying daily development team life and give an overview of the future steps.
+*http://www.synchrotron-soleil.fr/  **http://martinfowler.com/bliki/DeploymentPipeline.html  ***https://sdarchitect.wordpress.com/2012/07/24/understanding-devops-part-1-defining-devops/ 
+
+ 
+
+
+
+
+
+
+Slides MOD3O02 [1.886 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOD3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOD3O03
+Shot Rate Improvement Strive for the National Ignition Facility (NIF)
+56
+
+
+ 
+
+G.K. Brunton, G.A. Bowers, A.D. Conder, J.-M.G. Di Nicola, P. Di Nicola, M.A. Fedorov, B.T. Fishler, R. Fleming, D.H. Kalantar, G. Lau, D.G. Mathisen, V.J. Miller Kamm, V. Pacheu, M. Paul, R.K. Reed, J. Rouse, R.J. Sanchez, M.J. Shaw, E.A. Stout, S. Weaver, E.F. Wilson
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+The National Ignition Facility (NIF) is the world's largest and most energetic laser experimental facility with 192 beams capable of delivering 1.8 megajoules of 500-terawatt ultraviolet laser energy. The energy, temperatures and pressures capable of being generated allow scientists the ability to generate conditions similar to the center of the sun and explore physics of planetary interiors, supernovae, black holes and thermonuclear burn. NIF has transitioned to a 24x7 operational facility and in the past year significant focus has been placed on increasing the volume of experimental shots capable of being conducted so as to satisfy the demand from the wide range of user groups. The goal for the current fiscal year is a shot rate of 300 (> 50% increase over the previous year), increasing to a sustainable rate of 400 the year after. The primary focus areas to achieve these increases are; making more shot time available, improvements in experiment scheduling, and reducing the duration of a shot cycle. This paper will discuss the control system improvements implemented and planned to reduce the shot cycle duration and the systematic approaches taken to identify and prioritize them.
+
+ 
+
+
+
+
+
+
+Slides MOD3O03 [3.420 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOD3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOD3O04
+Introducing the SCRUM Framework as Part of the Product Development Strategy for the ALBA Control System
+60
+
+
+ 
+
+G. Cuní, F. Becheri, D. Fernández-Carreiras, Z. Reszela, S. Rubio-Manrique
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+At Alba, the Controls Section provides the software that is needed to operate the accelerators, the beamlines and the peripheral laboratories. It covers a wide range of areas or subsystems like vacuum, motion, data acquisition and analysis, graphical interfaces, or archiving. Since the installation and commissioning phases, we have been producing the software solutions mostly in single-developer projects based on the personal criteria. This organization scheme allowed each control engineer to gain the expertise in particular areas by being the unit contact responsible to develop and deliver products. In order to enrich the designs and improve the quality of solutions we have grouped the engineers in teams. The hierarchy of the product backlogs, represents the desired features and the known defects in a transparent way. Instead of planning the whole project upfront, we try to design the products incrementally and develop them in short iterations mitigating the risk of not satisfying the emerging user requirements. This paper describes the introduction of the Scrum framework as the product development strategy in a service oriented organization like the Computing Division at Alba*.
+*D. Fernández-Carreiras et al., 'Using Prince2 and ITIL Practices for Computing Project and Service Management in a Scientific Installation', TUMIB01, Proc. of ICALEPCS'13, San Francisco, CA. 
+
+ 
+
+
+
+
+
+
+Slides MOD3O04 [2.256 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOD3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOD3O05
+Use of Automation in Commissioning Process of the Undulators of the European X-Ray Free Electron Laser
+64
+
+
+ 
+
+S. Karabekyan, J. Pflüger
+                       XFEL. EU, Hamburg, Germany
+L. Lin, Y.T. Liu
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+W. Wang
+                       Hisense Co. Ltd., Qingdao, People's Republic of China
+
+ 
+
+
+ 
+
+For operation of the three undulator systems of the European XFEL, a total of 91 undulators are needed and have been produced. For production, magnetic measurements, tuning and commissioning of these devices only two years were foreseen by the project schedule. For these purposes, automated and optimized procedures were needed to accomplish a number of workflows, time-consuming adjustments and commissioning tasks. We created several automation programs which allowed us to reduce the time spent on the commissioning of the control system by an order of magnitude.
+
+ 
+
+
+
+
+
+
+Slides MOD3O05 [4.208 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOD3O05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOD3O06
+Interface Management for SKA Telescope Manager
+68
+
+
+ 
+
+P.S. Swart, G.M. le Roux
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+A. Marassi, R. Smareglia
+                       INAF-OAT, Trieste, Italy
+S. Roy Chaudhuri
+                       Tata Research Development and Design Centre, Pune, India
+S. Vrcic
+                       NRC-Herzberg, Penticton, BC, Canada
+
+ 
+
+
+ 
+
+The Square Kilometre Array (SKA) project is currently in the Pre-construction Phase. During this phase, the telescope subsystems are being designed. The Telescope Manager (TM) is a supervisory control and monitoring subsystem in each of the two radio telescopes of the SKA (SKA1-Low and SKA1-Mid). The TM interfaces with a number of diverse telescope subsystems. Interaction between TM and these subsystems is a major source of requirements for the TM. Careful management of TM external interfaces is therefore important. This discussion is a case study of TM interface management. Firstly, how system architectural design aspects like separation of concerns in the control hierarchy reduce telescope complexity with regards to interfaces is discussed. Secondly, the standardisation approach for monitoring and control interfaces to facilitate early elicitation of interface requirements for the TM, and to manage the diversity of interfacing subsystems is discussed. Thirdly, the relations between interface definition and requirements analysis activities, using SysML representations as an example is discussed.
+
+ 
+
+
+
+
+
+
+Slides MOD3O06 [2.612 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOD3O06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

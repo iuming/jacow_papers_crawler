@@ -1,0 +1,346 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: TUBPA (Data Management and Processing)
+
+
+TUBPA —  Data Management and Processing   (10-Oct-17   11:30—13:00)
+Chair: K.S. White, ORNL, Oak Ridge, Tennessee, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUBPA01
+The Evolution of Component Database for APS Upgrade*
+192
+
+
+ 
+
+D.P. Jarosz, N.D. Arnold, J. Carwardine, G. Decker, N. Schwarz, S. Veseli
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: [*] Argonne National Laboratory's work was supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under contract DE-AC02-06CH11357.
+The purpose of the Advanced Photon Source Upgrade (APS-U) project is to update the facility to take advantage of the multi-bend achromat (MBA) magnet lattices, which will result in narrowly focused x-ray beams of much higher brightness. The APS-U installation has a short schedule of one-year. In order to plan and execute a task of such complexity, a collaboration between many individuals of very diverse backgrounds must exist. The Component Database (CDB) has been created to aid in documenting and managing all the parts that will go into the upgraded facility. After initial deployment and use, it became clear that the system must become more flexible, as the engineers started requesting new features such as tracking inventory assemblies, supporting relationships between components, and several usability requests. Recently, a more generic database schema has been implemented. This allows for the addition of more functionality without needing to refactor the database. The topics discussed in this paper include advantages and challenges of a more generic schema, new functionality, and plans for future work.
+
+ 
+
+
+
+
+
+
+Slides TUBPA01 [0.770 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPA01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPA02
+Monitoring the New ALICE Online-Offline Computing System
+195
+
+
+ 
+
+A. Wegrzynek, V. Chibante Barroso
+                       CERN, Geneva, Switzerland
+G. Vino
+                       INFN-Bari, Bari, Italy
+
+ 
+
+
+ 
+
+ALICE (A Large Ion Collider Experiment) particle detector has been successfully collecting physics data since 2010. Currently, it is in preparations for a major upgrade of the computing system, called O2 (Online-Offline). The O2 system will consist of 268 FLPs (First Level Processors) equipped with readout cards and 1500 EPNs (Event Processing Node) performing data aggregation, calibration, reconstruction and event building. The system will readout 27 Tb/s of raw data and record tens of PBs of reconstructed data per year. To allow an efficient operation of the upgraded experiment, a new Monitoring subsystem will provide a complete overview of the O2 computing system status. The O2 Monitoring subsystem will collect up to 600 kHz of metrics. It will consist of a custom monitoring library and a toolset to cover four main functional tasks: collection, processing, storage and visualization. This paper describes the Monitoring subsystem architecture and the feature set of the monitoring library. It also shows the results of multiple benchmarks, essential to ensure performance requirements. In addition, it presents the evaluation of pre-selected tools for each of the functional tasks.
+
+ 
+
+
+
+
+
+
+Slides TUBPA02 [11.846 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPA02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPA03
+Database Scheme for Unified Operation of SACLA / SPring-8
+201
+
+
+ 
+
+K. Okada, N. Hosoda, M. Ishii, T. Sugimoto, M. Yamaga
+                       JASRI/SPring-8, Hyogo-ken, Japan
+T. Fujiwara, T. Fukui, T. Maruyama, K. Watanabe
+                       RIKEN SPring-8 Center, Hyogo, Japan
+H. Sumitomo
+                       SES, Hyogo-pref., Japan
+
+ 
+
+
+ 
+
+For reliable accelerator operation, it is essential to have a centralized data handling scheme, for such as unique equipment ID's, archive and online data from sensors, and operation points and calibration parameters those are to be restored upon a change in operation mode. Since 1996, when SPring-8 got in operation, a database system has been utilized for this role. However, as time passes the original design got shorthanded and new features equipped upon requests pushed up maintenance costs. For example, as SACLA started in 2010, we introduced a new data format for the shot by shot synchronized data. Also number of tables storing operation points and calibrations increased with various formats. Facing onto the upgrade project at the site*, it is the time to overhaul the whole scheme. In the plan, SACLA will be the high quality injector to a new storage ring while in operation as the XFEL user machine. To handle shot by shot multiple operation patterns, we plan to introduce a new scheme where multiple tables inherits a common parent table information. In this paper, we report the database design for the upgrade project and status of transition.
+* http://rsc.riken.jp/pdf/SPring-8-II.pdf
+
+ 
+
+
+
+
+
+
+Slides TUBPA03 [0.950 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPA03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPA04
+The MAX IV Laboratory Scientific Data Management
+206
+
+
+ 
+
+V.H. Hardion, A. Barsek, F. Bolmsten, J. Brudvik, Y. Cerenius, F. H. Hennies, K. Larsson, Z. Matej, D.P. Spruce
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+The Scientific Data Management is a key aspect of the IT system of a user research facility like the MAX~IV Laboratory. By definition, this system handles data produced by the experimental user of such a facility. It could be perceived as easy as using an external hard drive to store the experimental data to carry back to the home institute for analysis. But on the other hand the "data" can be seen as more than just a file in a directory and the "management" not only a copy operation. Simplicity and a good User Experience vs security/authentication and reliability are among the main challenges of this project along with all the mindset changes. This article will explain all the concepts and the basic roll-out of the system at the MAX~IV Laboratory for the first users and the features anticipated in the future.
+
+ 
+
+
+
+
+
+
+Slides TUBPA04 [2.801 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPA04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPA05
+High Throughput Data Acquisition with EPICS
+213
+
+
+ 
+
+K. Vodopivec
+                       ORNL, Oak Ridge, Tennessee, USA
+B. Vacaliuc
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL is managed by UT-Battelle, LLC, under contract DE-AC05-00OR22725 for the U.S. Department of Energy.
+In addition to its use for control systems and slow device control, EPICS provides a strong infrastructure for developing high throughput applications for continuous data acquisition. Integrating data acquisition into an EPICS environment provides many advantages. The EPICS network protocols provide for tight control and monitoring of operation through an extensive set of tools. As part of a facility-wide initiative at the Spallation Neutron Source, EPICS-based data acquisition and detector controls software has been developed and deployed to most neutron scattering instruments. The software interfaces to the in-house built detector electronics over fast optical channels for bi-directional communication and data acquisition. The software is built around asynPortDriver and allows the passing of arbitrary data structures between plugins. The completely modular design allows the setup of versatile configurations of data pre-processing plugins depending on neutron detector type and instrument requirements. After 3 years of experience and average data rates of 1.5 TB per day, it shows exemplary results of efficiency and reliability.
+
+ 
+
+
+
+
+
+
+Slides TUBPA05 [2.427 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPA05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBPA06
+Scalable Time Series Documents Store
+218
+
+
+ 
+
+M.J. Slabber, F. Joubertpresenter, M.T. Ockards
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: National Research Foundation (South Africa)
+Data indexed by time is continuously collected from instruments, environment and users. Samples are recorded from sensors or software components at specific times, starting as simple numbers and increasing in complexity as associated values accrue e.g. status and acquisition times. A sample is more than a triple and evolves into a document. Besides variance, volume and veracity also increase and the time series database (TSDB) has to process hundreds of GB/day. Also, users performing analyses have ever increasing demands e.g. in <10s plot all target coordinates over 24h of 64 radio telescope dishes, recorded at 1Hz. Besides the many short-term queries, trend analyses over long periods and in-depth enquiries by specialists around past events e.g. critical hardware failure or scientific discovery, are performed. This paper discusses the solution used for the MeerKAT radio telescope under construction by SKA-SA in South Africa. System architecture and performance characteristics of the developed TSDB are explained. We demonstrate how we broke the mould of using general-purpose database technologies to build a TSDB by rather utilising technologies employed in distributed file storage.
+
+ 
+
+
+
+
+
+
+Slides TUBPA06 [1.781 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUBPA06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

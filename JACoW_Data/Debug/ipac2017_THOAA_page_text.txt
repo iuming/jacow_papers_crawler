@@ -1,0 +1,188 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2017 - Table of Session: THOAA (Contributed Oral Presentations, Beam Instrumentation, Controls, Feedback & Oper.)
+
+
+THOAA —  Contributed Oral Presentations, Beam Instrumentation, Controls, Feedback & Oper.   (18-May-17   09:30—10:30)
+Chair: P. Bambade, LAL, Orsay, France
+
+
+Paper
+Title
+Page
+
+
+
+THOAA1
+Development of a DLLRF Using Commercial uTCA Platform
+3631
+
+
+ 
+
+A. Salom, E. Morales, F. Pérez
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+The Digital LLRF of ALBA has been implemented using commercial cPCI boards with Virtex-4 FPGA, fast ADCs and fast DACs. The firmware of the FPGA is based on IQ demodulation technique and the main feed-back loops adjust the phase and amplitude of the cavity voltage and also the resonance frequency of the cavity. But the evolution of the market is moving towards uTCA technology and due to the interest of this technology by several labs, we have developed at ALBA a DLLRF using a HW platform based on uTCA commercial boards and Virtex-6 FPGA. The paper will present the development done and will compare it with respect the cPCI one.
+
+ 
+
+
+
+
+
+
+Slides THOAA1 [1.381 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2017-THOAA1
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOAA2
+Research on Compensation of Superconducting Cavity Failures in C-ADS Injector-I
+3635
+
+
+ 
+
+J.P. Dai, C. Meng, Y. Shao, Z. Xue, F. Yan
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Work supported by Natural Science Foundation of China (11575216)
+For the proton accelerators such as the China Accelerator Driven subcritical System(C-ADS), it is essential and difficult to achieve extremely high performance reliability requirement. In order to achieve this performance reliability requirement, in addition to hardware improvement, a failure tolerant design is mandatory. A compensation mechanism to cope with hardware failure, mainly RF failures of superconducting cavities, will be in place in order to maintain the high uptime, short recovery time and extremely low frequency of beam loss. This paper proposes an innovative and challenging way for compensation and rematch of cavity failure with the hardware implementation of the scheme using fast electronic devices and Field Programmable Gate Arrays (FPGAs). A method combined building an equivalent model for the FPGA with an improved genetic algorithm has been developed. Results based on the model and algorithm are compared with TRACEWIN simulation to show the precision and correctness of the mechanism.
+
+ 
+
+
+
+
+
+
+Slides THOAA2 [2.414 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2017-THOAA2
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOAA3
+Installation and First Commissioning of the LLRF System for the European XFEL
+3638
+
+
+ 
+
+J. Branlard, G. Ayvazyan, V. Ayvazyan, Ł. Butkowski, M. Fenner, M.K. Grecki, M. Hierholzer, M. Hoffmann, M. Killenberg, D. Kostin, D. Kühn, F. Ludwig, D.R. Makowski, U. Mavrič, M. Omet, S. Pfeiffer, H. Pryschelski, K.P. Przygoda, A.T. Rosner, R. Rybaniec, H. Schlarb, Ch. Schmidt, N. Shehzad, B. Szczepanski, G. Varghese, H.C. Weddig, R. Wedel, M. Wiencek, B.Y. Yang
+                       DESY, Hamburg, Germany
+W. Cichalewski, F. Makowski, A. Mielczarek, P. Perek
+                       TUL-DMCS, Łódź, Poland
+K. Czuba, P.K. Jatczak, T.P. Leśniak, K. Oliwa, D. Sikora, M. Urbański, W. Wierba
+                       Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+A.S. Nawaz
+                       TUHH, Hamburg, Germany
+
+ 
+
+
+ 
+
+The installation phase of the European X-ray free laser electron laser (XFEL) is finished, leaving place for its commissioning phase. This contribution summarizes the low-level radio frequency (LLRF) installation steps, illustrated with examples of its challenges and how they were addressed. The commissioning phase is also presented, with a special emphasis on the effort placed into developing LLRF automation tools to support the commissioning of such a large scale accelerator. The first results of the LLRF commissioning of the XFEL injector and first RF stations in the main linac are also given.
+
+ 
+
+
+
+
+
+
+Slides THOAA3 [15.800 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2017-THOAA3
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,93 @@
+{
+  "session_info": {
+    "id": "THOB",
+    "name": "THOB - New Concepts",
+    "url": "https://proceedings.jacow.org/FEL2012/html/thob.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THOB02",
+      "title": "Transverse Gradient Undulator to Enhance the FEL Performance for a Laser-plasma Accelerator",
+      "authors": [
+        "Z. Huang",
+        "Y.T. Ding",
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "LBNL",
+        "Berkeley",
+        "California",
+        "USA",
+        "Compact laser-plasma accelerators can produce high energy electron beams with low emittance",
+        "high peak current but a rather large energy spread. The large energy spread hinders the potential applications for coherent FEL radiation generation. In this paper",
+        "we discuss a method to compensate the effects of beam energy spread by introducing a transverse field variation into the FEL undulator. Such a transverse gradient undulator together with a properly dispersed beam can greatly reduce the effects of electron energy spread and jitters on FEL performance. We present theoretical analysis and numerical simulations for SASE and seeded XUV and soft x-ray FELs based on laser plasma accelerators."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/FEL2012/talks/thob02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/FEL2012/papers/thob02.pdf",
+      "poster_url": "https://proceedings.jacow.org/FEL2012/posters/thob02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-FEL2012-THOB02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THOB03",
+      "title": "The Generator of High-power Short Terahertz Pulses",
+      "authors": [
+        "BINP SB RAS",
+        "Novosibirsk",
+        "Russia",
+        "KAERI",
+        "Daejon",
+        "Republic of Korea",
+        "The multi-foil cone radiator to generate high field short terahertz pulses with the short electron bunches is described. A round flat foil plates with successively decreasing radius are stacked",
+        "comprising a truncated cone with axis z. The gaps between foils are equal and filled by some dielectric (it may be vacuum). A short relativistic electron bunch propagates along the z axis from left to right. At high enough particle energy the energy losses and multiple scattering does not change the bunch shape significantly. Then",
+        "passing through each gap between foils",
+        "the bunch radiates some energy into the gap. After that the radiation pulses propagates radially. For the TEM-like waves with longitudinal (along the z axis) electric and azimuthal magnetic field there is no dispersion in these radial lines",
+        "therefore the radiation pulses conserve their shapes (time dependence). At the cone outer surface we have synchronous circular radiators. Their radiation fields forms the conical wave. The cone angle may be optimized",
+        "moreover",
+        "the nonlinear dependence of the foil plates radii on their longitudinal coordinate z may be used for the wave front shape control."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/FEL2012/talks/thob03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/FEL2012/papers/thob03.pdf",
+      "poster_url": "https://proceedings.jacow.org/FEL2012/posters/thob03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-FEL2012-THOB03",
+      "page_number": "535",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THOB04",
+      "title": "Use of Monocapillary X-Ray Optics as a Means to Reduce Linewidth and Fluctuations in SASE FELs",
+      "authors": [
+        "A.L. Lin",
+        "G. Travish",
+        "UCLA",
+        "Los Angeles",
+        "USA",
+        "The Self Amplified Spontaneous Emission (SASE) operation of high-gain Free Electron Lasers (FELs) allows for amplification from \"noise\" when no suitable seed sources are available. While SASE FELs can achieve high powers and short radiation pulses within the X-ray region",
+        "they are hindered by large linewidths and fluctuations in amplitude and temporal profiles. Various approaches have been proposed to \"clean up\" the spontaneous emission and produce better effective seed signals. This paper presents the use of monocapillary X-ray optics as an alternative to current methods to improve SASE operation. A monocapillary tube placed at the beginning stages of the undulator can reduce the bandwidth and enhance a narrow band of the spontaneous emission amplified by the FEL. Monocapillary tubes guide radiation due to total external reflection",
+        "and the critical angle of the guiding is dependent on the frequency of the radiation (and indirectly on the surface profile and materials)."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/FEL2012/talks/thob04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/FEL2012/papers/thob04.pdf",
+      "poster_url": "https://proceedings.jacow.org/FEL2012/posters/thob04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-FEL2012-THOB04",
+      "page_number": "539",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 17:35:31"
+}

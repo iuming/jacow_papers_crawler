@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: MOBR (Device Control and Integrating Diverse Systems I)
+
+
+MOBR —  Device Control and Integrating Diverse Systems I   (18-Oct-21   13:15—14:30)
+Chair: A.J. Venter, SKAO, Macclesfield, United Kingdom
+
+
+
+MOBR
+   Video of full session  »Device Control and Integrating Diverse Systems I« (total time: 01:17:31 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+MOBR01
+ROMULUSLib: An Autonomous, TCP/IP-Based, Multi-Architecture C Networking Library for DAQ and Control Applications
+69
+
+
+ 
+
+A. Yadav, H. Boukabache, K. Ceesay-Seitz, N. Gerber, D. Perrin
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The new generation of Radiation Monitoring electronics developed at CERN, called the CERN RadiatiOn Monitoring Electronics (CROME), is a Zynq-7000 SoC-based Data Acquisition and Control system that replaces the previous generation to offer a higher safety standard, flexible integration and parallel communication with devices installed throughout the CERN complex. A TCP/IP protocol based C networking library, ROMULUSlib, was developed that forms the interface between CROME and the SCADA supervision software through the ROMULUS protocol. ROMULUSlib encapsulates Real-Time and Historical data, parameters and acknowledgement data in TCP/IP frames that offers high reliability and flexibility, full-duplex communication with the CROME devices and supports multi-architecture development by utilization of the POSIX standard. ROMULUSlib is autonomous as it works as a standalone library that can support integration with supervision applications by addition or modification of parameters of the data frame. This paper discusses the ROMULUS protocol, the ROMULUS Data frame and the complete set of commands and parameters implemented in the ROMULUSlib for CROME supervision.
+
+ 
+
+
+
+
+
+
+Slides MOBR01 [4.040 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOBR01
+
+ 
+
+
+About •
+Received ※ 11 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 21 December 2021        Issue date ※ 09 March 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBR02
+Control, Readout and Monitoring for the Medium-Sized Telesopes in the Cherenkov Telescope Array
+77
+
+
+ 
+
+U. Schwanke, G. Spengler
+                       HU Berlin, Berlin, Germany
+D. Melkumyan, T. Murach, T. Schmidt, P. Wagner
+                       DESY Zeuthen, Zeuthen, Germany
+I. Oya
+                       CTA, Heidelberg, Germany
+
+ 
+
+
+ 
+
+The Cherenkov Telescope Array (CTA) is the next-generation ground-based gamma-ray observatory. Its design comprises close to 100 imaging atmospheric Cherenkov telescopes deployed at a southern (Paranal, Chile) and a northern (La Palma, Canary Islands, Spain) site. The inclusion of various array elements, like Large-Sized, Medium-Sized and Small-Sized Telescopes, instruments for atmosphere monitoring, etc, into the Array Control and Data Acquisition System (ACADA) poses a particular challenge which is met by an appropriate software architecture and a well-defined interface for array elements. This conference contribution describes exemplarily how the interface is implemented for the Medium-Sized Telescopes (MSTs, 12m diameter). The implementation uses the ALMA Common Software (ACS) as a framework for software applications facilitating the readout and control of telescope subsystems like the drive system or the pointing camera; the communication with subsystems takes advantage of the OPC UA protocol. It is also discussed what technologies (e.g. data bases) are used for the acquisition and storage of telescope-specific monitoring data.
+
+ 
+
+
+
+
+
+
+Slides MOBR02 [6.528 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOBR02
+
+ 
+
+
+About •
+Received ※ 06 October 2021       Accepted ※ 09 February 2022       
+Issue date ※ 09 February 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBR03
+Hexapod Control System Development Towards Arbitrary Trajectories Scans at Sirius/LNLS
+84
+
+
+ 
+
+A.Y. Horita, F.A. Del Nero, G.N. Kontogiorgos, M.A.L. Moraes
+                       LNLS, Campinas, Brazil
+G.G. Silva
+                       UNICAMP, Campinas, São Paulo, Brazil
+
+ 
+
+
+ 
+
+Modern 4th generation synchroton facilities demand high precision and dynamic manipulation systems capable of fine position control, aiming to improve the resolution and perfomance of their experiments. In this context, hexapods are widely used to obtain a flexible and accurate 6 Degrees of Freedom (DoF) positioning system, as they are based on Parallel Kinematic Mechanisms (PKM). Aiming the customization and governability of this type of motion control system, a software application was entirely modeled and implemented at Sirius. A Bestec hexapod was used and the control logic was embedded into an Omron Delta Tau Power Brick towards the standardization of Sirius control solutions with features which completely fill the beamline scan needs, e.g. tracing arbitrary trajectories. Newton-Raphson numerical method was applied to implement the PKM. Besides, the kinematics was implemented in C language, targeting a better runtime performance when comparing to script languages. This paper describes the design and implementation methods used in this control application development and presents its resulting performance.
+
+ 
+
+
+
+
+
+
+Slides MOBR03 [3.545 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOBR03
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 17 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 19 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBR04
+Generic Data Acquisition Control System Stack on the MTCA Platform
+90
+
+
+ 
+
+J. Krasna, J. Varlec
+                       COSYLAB, Control System Laboratory, Ljubljana, Slovenia
+U. Legat
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+Cosylab is the world leading integrator of control systems for big physics facilities. We frequently integrate high speed data acquisition devices on the MicroTCA platform for our customers. To simplify this process we have developed a generic control system stack that allows us to support a large set of MicroTCA hardware boards with minimal firmware and software modifications. Our firmware supports generic data acquisition up to 32 bit sample width and also generic data generation. The firmware modules are implemented in a way so that support for MRF timing modules can be added and allow the board to act as a MRF timing receiver. On the software side we implemented the control software stack in NDS which means that we offer support for EPICS and TANGO control system out of the box.
+
+ 
+
+
+
+
+
+
+Slides MOBR04 [5.745 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-MOBR04
+
+ 
+
+
+About •
+Received ※ 14 October 2021       Accepted ※ 03 December 2021       
+Issue date ※ 06 February 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBR05
+Motion Software Stack Developments for Powerpmac(r) in the Australian Synchrotron
+ 
+
+
+ 
+
+N. Afshar, B.E. Baldwinson, R.B. Hogan, A. Ng, D. Wong
+                       AS - ANSTO, Clayton, Australia
+M. Clift
+                       ASCo, Clayton, Victoria, Australia
+
+ 
+
+
+ 
+
+Australian Synchrotron has standardised on Omron PowerBrickLV(r). In order to utilise the advanced features of these controllers while maintaining the complexity that comes with the versatile and multi-purposed controller, DLS developers team have led the community by producing the first EPICS module for the PowerPMAC. We reviewed and customized the DLS ppmac software stack to support fractional readbacks in engineering units from controller, improve R/W performance, add protections and interlocking at the controller level and improve homing routines. We have also developed our own toolsets for generating controller configuration files from templates (PSYCH), and Ppmac IOC template system (bluecat), and automated test tools (EATSIT). Our beta version of the software stack, with an improved Motor Record, driver and IOC templates has been under validation testing since March 2021. We have also been developing a python ’caproto’ based Ppmac IOC (CAPMAC), with a Simplified Motor Record interface intending to move most of native Motor Record functions to the controller. The CAPMAC IOC code is deployed from pypi and configured from a readable Yaml configuration file.
+
+ 
+
+
+
+
+
+
+Slides MOBR05 [2.730 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

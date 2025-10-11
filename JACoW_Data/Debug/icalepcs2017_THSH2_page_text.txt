@@ -1,0 +1,191 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: THSH2 (Speakers' Corner)
+
+
+THSH2 —  Speakers' Corner   (12-Oct-17   17:15—18:45)
+
+
+
+Paper
+Title
+Page
+
+
+
+THSH201
+Integration of MeerKAT and SKA Telescopes using KATCP/Tango Translators
+1964
+
+
+ 
+
+K. Madisa, N. Marais, A.J.T. Ramailapresenter, L. Van den Heever
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: National Research Foundation of South Africa
+The MeerKAT radio telescope control system uses the KATCP protocol and technology stack developed at SKA SA. The future SKA project chose the TANGO controls technology stack. However, MeerKAT and phase 1 of the SKA-mid telescope are intimately related: SKA-mid will be co-located with MeerKAT at the SKA SA Karoo site; the first SKA-mid prototype dishes will be tested using MeerKAT systems; MeerKAT will later be incorporated into SKA-mid. To aid this interoperation, TANGO to KATCP and KATCP to TANGO translators were developed. A translator process connects to a device server of protocol A, inspects it and exposes an equivalent device server of protocol B. Client interactions with the translator are proxied to the real device. The translators are generic, needing no device-specific configuration. While KATCP and TANGO share many concepts, differences in representation fundamentally limits the abilities of a generic translator. Experience integrating TANGO devices into the MeerKAT and of exposing MeerKAT KATCP interfaces to TANGO based tools are presented. The limits of generic translation and strategies for handling complete use cases are discussed.
+
+ 
+
+
+
+
+
+
+Slides THSH201 [0.696 MB]
+        
+ 
+
+
+
+
+
+
+Poster THSH201 [2.680 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THSH201
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THSH202
+Design and Implementation of the LLRF System for LCLS-II
+1969
+
+
+ 
+
+C. Serrano, K.S. Campbell, L.R. Doolittle, Q. Du, G. Huang, J.A. Jones, V.K. Vytla
+                       LBNL, Berkeley, California, USA
+S. Babel, A.L. Benwell, M. Boyes, G.W. Brown, D. Cha, J.H. De Long, J.A. Diaz Cruz, D.B. Greg, B. Hong, R.S. Kelly, A.L. McCollough, M. Petree, A. Ratti, C.H. Rivetta
+                       SLAC, Menlo Park, California, USA
+R. Bachimanchi, C. Hovater, D.J. Seidman
+                       JLab, Newport News, Virginia, USA
+B.E. Chase, E. Cullerton, J. Einstein, J.P. Holzbauer, D.W. Klepec, Y.M. Pischalnikov, W. Schappert
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the LCLS-II Project and the U.S. Department of Energy, Contract n. DE-AC02-76SF00515
+The SLAC National Accelerator Laboratory is building LCLS-II, a new 4 GeV CW superconducting (SCRF) linac as a major upgrade of the existing LCLS. The SCRF linac consists of 35 ILC style cryomodules (eight cavities each) for a total of 280 cavities. Expected cavity gradients are 16 MV/m with a loaded QL of ~ 4 x 107. Each individual RF cavity will be powered by one 3.8 kW solid state amplifier. To ensure optimum field stability a single source single cavity control system has been chosen. It consists of a precision four channel cavity receiver and two RF stations (Forward, Reflected and Drive signals) each controlling two cavities. In order to regulate the resonant frequency variations of the cavities due to He pressure, the tuning of each cavity is controlled by a Piezo actuator and a slow stepper motor. In addition the system (LLRF-amplifier-cavity) was modeled and cavity microphonic testing has started. This paper will describe the main system elements as well as test results on LCLS-II cryomodules.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THSH202
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THSH203
+Internet of Things (IoT): Wireless Diagnostics Solutions
+1975
+
+
+ 
+
+R. Homs-Puron, S. Astorga, G. Cuní, D. Fernández-Carreiras, O. Matilla, A. Rubio
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+R. Montaño
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+ALBA requires a diagnostic system, where mainly include the temperature acquisition around the facility, such as tunnel, service area, experimental area, laboratories and auxiliary facilities. There is a big area to be covered and the location of the sensors may not be fixed, those measurement spots require a strong correlation to the machine startup configuration. This has an impact on the size whether a traditional wired installation is used, due the huge of measurement points to be covered; in addition, the restricted machine access schedule makes difficult their installation. In this paper we intend to describe one solution based on ESP8266 system-on-a-chip (SoC).
+
+ 
+
+
+
+
+
+
+Poster THSH203 [0.865 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THSH203
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

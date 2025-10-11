@@ -1,0 +1,1037 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINAC2022 - Table of Session: TUPOGE (Poster Session)
+
+
+TUPOGE —  Poster Session   (30-Aug-22   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPOGE01
+Commissioning of the VECC Cryomodule
+476
+
+
+ 
+
+Z.Y. Yao, R. Bjarnason, J. Cheung, K. Fong, J.J. Keir, D. Kishi, S. Kiy, P. Kolb, D. Lang, R.E. Laxdal, B. Matheson, R.S. Sekhon, B.S. Waraich, Q. Zheng, V. Zvyagintsev
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+A quarter-wave resonator (QWR) cryomodule was designed and assembled at TRIUMF for the energy upgrade of the VECC ISOL-RIB facility to boost radioactive isotopes from 1MeV/u to 2MeV/u. The top loading cryomodule was chosen based on the ISAC-II low energy section design, consisting of four superconducting QWRs and one superconducting solenoid. The major change from ISAC-II concept is separating the RF space vacuum from the isolation vacuum. The cryogenic commissioning was recently completed. The cold mass alignments and the cryogenic heat loads were measured. The cavity performance was qualified in both test regime and operating regime. The cavity degradations caused by magnetic pollution from solenoid and the recovery procedure were verified. This paper will report the detailed results of the commissioning.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE01
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 28 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 03 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE02
+Three Years of Operation of the SPIRAL2 LINAC: Cryogenics and Superconducting RF Feedback
+479
+
+
+ 
+
+P.-E. Bernaudin, M. Aburas, M. Di Giacomo, A. Ghribi, P. Robillard, L. Valentin
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The superconducting LINAC of SPIRAL2 at the GANIL facility is in operation since October 2019. Its 26 super-conducting quarter wave resonating cavities (88 MHz) are operated at a nominal gradient of 6.5 MV/m, but most of the cavities can be operated up to 8 MV/m. They are integrated into 19 cryomodules and cooled down at 4 K by a dedicated refrigeration cryogenic system. In this paper, we will present a feedback after five years of operation of the cryogenic system, focusing on the main problems that have been faced, and on the diverse evolutions performed in order to improve the cryogenic system and to increase its reliability. We will also provide a feedback of the superconducting cavities performances status after three years of operation
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE02
+
+ 
+
+
+About •
+Received ※ 27 July 2022 — Revised ※ 22 August 2022 — Accepted ※ 26 August 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE03
+Advanced Cryogenic Process Control and Monitoring for the SPIRAL2 Superconducting LINAC
+483
+
+
+ 
+
+A. Ghribi, M. Aburas, P.-E. Bernaudin, M. Di Giacomo, A.H. Trudel, Q. Tura
+                       GANIL, Caen, France
+P. Bonnay, F. Bonne
+                       CEA/INAC, Grenoble Cedex 9, France
+F. Millet
+                       CEA, Grenoble, France
+
+ 
+
+
+ 
+
+SPIRAL2 is a superconducting accelerator for protons, deuterons and heavy ions delivering a maximum beam power of 200 kW at 40 MeV (for deuteron beams). 26 superconducting quarter wave cavities are operated at 4.4 K, plunged in a liquid helium bath with a drastic phase separator pressure control. Previous years have seen the development of advanced process control for cryogenics allowing to cope with high heat load dynamics thanks to an automatic heat dissipation compensation and a model based control. The latter is based on models, using the Simcryogenics library, optimized and linearised in the Programmable Logic Controllers. The SPIRAL2 operation has demonstrated that such control allows to keep the specified conditions for RF and beam operation even at levels of heat load dissipation approaching the physical limits of the cryogenic system. These developments allowed to synthesise a virtual observer of the dynamic heat load dissipated by the cavities. The present paper summarises the development of such observer based on the physical thermodynamic model and on machine learning techniques.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE03
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 02 September 2022 — Accepted ※ 04 September 2022 — Issue date ※ 09 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE04
+An Approach for Component-Level Analysis of Cryogenic Process in Superconducting LINAC Cryomodules
+487
+
+
+SUPCJO03
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C. Lhomme
+                       IJCLab, ORSAY, France
+D. Berkowitz Zamora, M.D. Grosso Xavier
+                       SCK•CEN, Mol, Belgium
+F. Chatelet, P. Duthil, H. Saugnac
+                       Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France
+F. Dieudegard, C. Lhomme
+                       ACS, Orsay, France
+T. Junquera
+                       Accelerators and Cryogenic Systems, Orsay, France
+
+ 
+
+
+ 
+
+Powerful superconducting linear accelerators feature accelerating sections consisting in a series of cryomod-ules (CM), each hosting superconducting radiofrequency (SRF) cavities cooled by a cryogenic process. Despite the extensive instrumentation used for the tests and valida-tion of the prototype cryomodules, it is usually very complex to link the measured global thermodynamic efficiency to the individual component performance. Previous works showed methods for assessing the global efficiency and even for allocating performances to sets of components, but few went down to a component level. For that purpose, we developed a set of techniques based on customized instrumentation, on dedicated test proto-cols, and on model-based analysis tools. In practice, we exposed the components to various operating conditions and we compared the measured data to the results from a detailed dynamic component model at the same condi-tions. This method was applied to the cryogenic debug-ging phase of the tests of the MINERVA prototype cry-omodule, which, despite the liquid helium shortage, led to an extensively detailed characterisation, for its valida-tion towards the serial construction.
+
+ 
+
+
+
+
+
+
+Poster TUPOGE04 [1.234 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE04
+
+ 
+
+
+About •
+Received ※ 20 August 2022 — Revised ※ 21 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE06
+Performance Test of Mass-Production of HWR Cryomodules for SCL32
+491
+
+
+ 
+
+Y. Kim, J.W. Choi, D.H. Gil, H. Jang, Y.W. Jo, J. Joo, H.C. Jung, H. Kim, M.S. Kim, M. Kwon, M. Lee, J.H. Shin
+                       IBS, Daejeon, Republic of Korea
+Y.U. Sohn
+                       PAL, Pohang, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Rare Isotope Science Project of Institute for Basic Science funded by Ministry of Science and ICT and NRF of Korea (2013M7A1A1075764)
+Mass production of the HWR (half wave resonator) cryomodules for SCL32 of RAON had been conducted since 2018 and all cryomodules were installed in the SCL3 tunnel in 2021. Total number of the HWR cavities and the HWR cryomodules are 106 and 34, respectively. Cryomodule performance test was started in September 2020 and finished in October 2021, except for one bunching cryomodule that will be installed in front of the high energy linac. The detailed procedure and the results of performance test is reported in detail.
+
+ 
+
+
+
+
+
+
+Poster TUPOGE06 [1.211 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE06
+
+ 
+
+
+About •
+Received ※ 14 August 2022 — Revised ※ 23 August 2022 — Accepted ※ 12 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE07
+Magnetic Field Measurements and Shielding at the UKRI-STFC Daresbury Laboratory SRF Vertical Test Facility
+495
+
+
+ 
+
+A.E.T. Akintola, A.R. Bainbridge, S. Hitchen, A.J. May, S.M. Pattalwar, P.A. Smith
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+M. Lowe, D.A. Mason, A.D. Shabalina
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+A novel vertical test facility has been developed, commissioned, and entered steady-state operations at the UKRI-STFC Daresbury Laboratory. The cryostat is designed to test 3 jacketed superconducting RF cavities in a horizontal configuration in a single cool-down run at 2 K. A 2-year program is currently underway to test ESS high-beta cavities. Upon completion of this program, the facility will undertake a testing program for PIP-II HB650 cavities. In the current configuration, a solution combining passive and active magnetic shielding has been validated for the ESS requirement of field attenuation to the level of <1 uT, although continuous field measurements are not provided. This paper reports the implementation of passive and active shielding, along with simulation and experimental measurements thereof.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE07
+
+ 
+
+
+About •
+Received ※ 22 August 2022 — Revised ※ 27 August 2022 — Accepted ※ 30 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE08
+Design of a Transport System for the PIP-II HB650 Cryomodule
+498
+
+
+ 
+
+M.T.W. Kane
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+J.P. Holzbauer
+                       Fermilab, Batavia, Illinois, USA
+T.J. Jones, E.S. Jordan
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+The PIP-II Project at FNAL requires the assembly of 3 high-beta 650MHz cryomodules at STFC Daresbury (DL) in the UK. These modules must be safely transported from DL to FNAL in the USA. Previous experience with cryomodule transport was leveraged at both labs to design a transport system to protect the cryomodules during transit. Requirements for the system included mitigation of shocks, drops, and vibrations, and acting as a lifting fixture. It is comprised of a tessellated steel frame which encompasses the module with a wire rope isolator arrangement which the module mounts to. The frame was designed to withstand the weight of the 12.5 tonne cryomodule in various load cases. Details of shock and vibration profiles were obtained from MIL-STD-810H and were used to guide the sizing of the isolators. The frame and the isolation system were analysed via FEA using the shock and vibration profiles as an input. The transport system was found to be suitable for the given isolation, frame stiffness, and lifting code requirements. The frame has been fabricated and successfully load tested at FNAL. It will now be road tested with a dummy cryomodule before undergoing a trial run to DL.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE08
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 29 August 2022 — Accepted ※ 31 August 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE09
+Steady-State Cryogenic Operations for the UKRI-STFC Daresbury SRF Vertical Test Facility
+501
+
+
+ 
+
+A.J. May, A.E.T. Akintola, R.K. Buckley, G. Collier, K.D. Dumbell, S. Hitchen, P.C. Hornickel, G. Hughes, C.R. Jenkins, S.M. Pattalwar, M.D. Pendleton, P.A. Smith
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+A novel vertical test facility has been developed, commissioned, and entered steady-state operations at the UKRI-STFC Daresbury Laboratory. The cryostat is designed to test 3 jacketed superconducting RF cavities in a horizontal configuration in a single cool-down run at 2 K. The cavities are cooled with superfluid helium filled into their individual helium jackets. This reduces the liquid helium consumption by more than 70% in comparison with the conventional facilities operational elsewhere. The facility is currently undertaking a 2-year program to qualify 84 high-beta SRF cavities for the ESS (European Spallation Source) as part of the UK’s in-kind contribution. This paper reports on the steady-state operations, along with a detailed discussion of the cryogenic performance of the facility, including that of the cryoplant.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE09
+
+ 
+
+
+About •
+Received ※ 13 August 2022 — Revised ※ 21 August 2022 — Accepted ※ 02 September 2022 — Issue date ※ 04 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE10
+A Final Acceptance Test Kit for Superconducting RF Cryomodules
+504
+
+
+ 
+
+A.J. May, A.E.T. Akintola, S.M. Pattalwar, A. White
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+UKRI-STFC Daresbury Laboratory is currently undertaking several projects involving assembly of superconducting RF cryomodules, including HL-LHC crab cavities and PIP-II HB650 cavities. As part of the final acceptance tests before shipping of the modules, extensive leak testing, pressure testing, and thermal cycling with gaseous and liquid must be performed. A Final Acceptance Test kit (FAT-kit) has been developed to support these tests. The FAT-kit, designed as a single portable unit, sits as an interface module between the cryomodule under test and the required utilities (liquid cryogen supply and return, gaseous cryogen supply and return, warm gas supply and return, vacuum pumps, leak detectors, etc.). The kit features a valve manifold to make or break connections to, from, and between circuits in the cryomodule, safety groupings to provide protection for the circuits as required, and various instrumentation. We report here on the design and commissioning of the kit.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE10
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 30 August 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE11
+Application of the ASME Boiler and Pressure Vessel Code in the design of SSR Cryomodule Beamlines for PIP-II Project at Fermilab
+507
+
+
+ 
+
+J. Bernardini, M. Chen, M. Parise, D. Passarelli
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Fermi Research Alliance, LLC under Contract No. DEAC02- 07CH11359 with the United States Department of Energy, Office of Science, Office of High Energy Physics.
+This contribution reports the design of the main components used to interconnect SRF cavities and superconducting focusing lenses in the SSR Cryomodule beamlines, developed in the framework of the PIP-II project at Fermilab. The focus of the present contribution is on the design and testing of the edge-welded bellows according to ASME Boiler and Pressure Vessel Code. The activities performed to qualify the bellows to be assembled in cleanroom, for operation in high vacuum, cryogenic environments, and their characterization from magnetic standpoint, will also be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE11
+
+ 
+
+
+About •
+Received ※ 22 August 2022 — Revised ※ 24 August 2022 — Accepted ※ 02 September 2022 — Issue date ※ 16 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE12
+Final Design of the Pre-Production SSR2 Cryomodule for PIP-II Project at Fermilab
+511
+
+
+ 
+
+J. Bernardini, C. Boffo, M. Chen, J. Helsper, M. Kramp, F.L. Lewis, T.H. Nicol, M. Parise, D. Passarelli, V. Roger, G.V. Romanov, B. Squires, M. Turenne
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Fermi Research Alliance, LLC under Contract No. DEAC02- 07CH11359 with the United States Department of Energy, Office of Science, Office of High Energy Physics.
+The present contribution reports the design of the pre-production Single Spoke Resonator Type 2 Cryomodule (ppSSR2 CM), developed in the framework of the PIP-II project at Fermilab. The innovative design is based on a structure, the strongback, which supports the coldmass from the bottom, stays at room temperature during operations, and can slide longitudinally with respect to the vacuum vessel. The Fermilab style cryomodule developed for the prototype Single Spoke Resonator Type 1 (pSSR1) and the prototype High Beta 650 MHz (pHB650) cryomodules is the baseline of the current design, which paves the way for production SSR1 and SSR2 cryomodules for the PIP-II linac. The focus of this contribution is on the results of calculations and finite element analysis performed to optimize the critical components of the cryomodule: vacuum vessel, strongback, thermal shield, and magnetic shield.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE12
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 30 August 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE13
+Niobium to Titanium Electron Beam Welding for SRF Cavities
+515
+
+
+ 
+
+M. Parise, J. Bernardinipresenter, D. Passarelli
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics.
+Titanium and niobium are the main materials used for the fabrication of Superconducting Radio Frequency (SRF) cavities. These two metals are usually joined , using various welding techniques, using a third material in between. This contribution focuses on the development of an innovative electron beam welding technique capable of producing a strong bond between these two different materials. Several samples are produced and tested to assess the mechanical strength at room and cryogenic temperature as well as the composition of the resulting welded joint. Also, the first units of the Single Spoke Resonator type 2 (SSR2) cavities for the Proton Improvement Plan-II (PIP-II [1]) have been fabricated joining directly various grades of titanium to niobium and results gathered through the fabrication will be reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE13
+
+ 
+
+
+About •
+Received ※ 14 August 2022 — Revised ※ 17 August 2022 — Accepted ※ 30 August 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE14
+Beamline Volume Relief Analysis for the PIP-II SSR2 Cryomodule at Fermilab
+519
+
+
+ 
+
+M. Parise, J. Bernardinipresenter, D. Passarelli
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics.
+The beam volume of the Pre-Production Single Spoke Resonator type 2 (ppSSR2) cryomodule [1] for the Proton Improvement Plan-II (PIP-II) [2] project will be protected against over-pressurization using a burst disk. This contri- bution focuses on the analysis of the relief of such trapped volume during a catastrophic scenario with multiple systems failures. An analytical model, able to predict the pressure in the beam volume depending of the various boundary condi- tions, has been developed and will be presented along with the results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE14
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 31 August 2022 — Accepted ※ 02 September 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE15
+Prototype HB650 Transportation Validation for the PIP-II Project
+523
+
+
+ 
+
+J.P. Holzbauer, S. Cheban, C.J. Grimm, J. Helsper, R. Thiede, A.D. Wixson
+                       Fermilab, Batavia, Illinois, USA
+R. Cubizolles
+                       CEA-IRFU, Gif-sur-Yvette, France
+M.T.W. Kane
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Work supported by the Fermi National Accelerator Laboratory, managed and operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy.
+The PIP-II Project at Fermilab is centered around a superconducting 800 MeV proton linac to upgrade and modernize the Fermilab accelerator complex, allowing increased beam current to intensity frontier experiments such as LBNF-DUNE. PIP-II includes strong international collaborations, including the delivery of 12 cryomodules from European labs to FNAL (3 from STFC-UKRI in the UK and 9 from CEA in France). The transatlantic shipment of these completed modules is identified as a serious risk for the project. To mitigate this risk, a rigorous and systematic process has been developed to design and validate a transport system, including specification, procedures, logistics, and realistic testing. This paper will detail the engineering process used to manage this effort across the collaboration and the results of the first major validation testing of the integrated shipping system prior to use with a cryomodule.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE15
+
+ 
+
+
+About •
+Received ※ 13 August 2022 — Revised ※ 19 August 2022 — Accepted ※ 30 August 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE16
+Standardization and First Lessons Learned of the Prototype HB650 Cryomodule for PIP-II at Fermilab
+526
+
+
+ 
+
+V. Roger, J. Bernardini, S.K. Chandrasekaran, C.J. Grimm, O. Napoly, J.P. Ozelis, M. Parise, D. Passarelli
+                       Fermilab, Batavia, Illinois, USA
+N. Bazin, R. Cubizolles
+                       CEA-IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics.
+The prototype High Beta 650 MHz cryomodule (pHB650 CM) has been designed by an integrated design team, consisting of Fermilab (USA), CEA (France), STFC UKRI (UK), and RRCAT (India). The manufacturing and assembly of this prototype cryomodule is being done at Fermilab, whereas the production cryomodules will be manufactured and assembled by STFC-UKRI. As the first PIP-II cryomodule for which standardization was applied, the design, manufacturing and assembly of this cryomodule led to significant lessons being learnt and experiences gathered. These were incorporated into the design of the pre-production Single Spoke Resonator Type 2 cryomodule (ppSSR2 CM) and the pre-production Low Beta 650 MHz cryomodule (ppLB650 CM). This paper presents the pHB650 CM lessons learned and experiences gathered from the design to the lower coldmass assembly and how this cryomodule has a positive impact on all the next Proton Improvement Plan-II (PIP-II) cryomodules due to the standardization set up among SSR and 650 cryomodules.
+
+ 
+
+
+
+
+
+
+Poster TUPOGE16 [1.478 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE16
+
+ 
+
+
+About •
+Received ※ 11 August 2022 — Revised ※ 17 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE17
+Fabrication Experience of the Pre-Production PIP-II SSR2 Cavities at Fermilab
+529
+
+
+ 
+
+M. Parise, D. Passarelli, V. Rogerpresenter
+                       Fermilab, Batavia, Illinois, USA
+P. Duchesne, D. Longuevergne
+                       Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics.
+The Proton Improvement Plan-II (PIP-II, [1]) linac will in- clude 35 Single Spoke Resonators type 2 (SSR2). A total of eight pre-production SSR2 jacketed cavities will be procured and five installed in the first pre-production cryomodule. The mechanical design of the jacketed cavity has been finalized and it will be presented in this paper along with fabrication and processing experience. The importance of interfaces, quality controls and procurement aspects in the design phase will be remarked as well as lessons learned during the fabri- cation process. Furthermore, development studies will be presented together with other design validation tests.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE17
+
+ 
+
+
+About •
+Received ※ 14 August 2022 — Revised ※ 16 August 2022 — Accepted ※ 31 August 2022 — Issue date ※ 04 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE18
+Operations of Copper Cavities at Cryogenic Temperatures
+533
+
+
+SUPCPA05
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+TUOPA06
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+H. Wang, U. Ratzinger, M. Schuett
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+This work is focused on the anomalous skin effect in copper and how it affects the efficiency of copper-cavities in the temperature range 40-50 K. The quality factor Q of three coaxial cavities was measured over the temperature range from 10 K to room temperature in the experiment. The three coaxial cavities have the same structure, but different lengths, which correspond to resonant frequencies: around 100 MHz, 220 MHz and 340 MHz. Furthermore, the effects of copper-plating and additional baking in the vacuum oven on the quality factor Q are studied in the experiment. The motivation is to check the feasibility of an efficient, pulsed, ion linac, operated at cryogenic temperatures.
+
+ 
+
+
+
+
+
+
+Slides TUPOGE18 [1.115 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUPOGE18 [1.518 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE18
+
+ 
+
+
+About •
+Received ※ 22 August 2022 — Revised ※ 31 August 2022 — Accepted ※ 02 September 2022 — Issue date ※ 03 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE19
+Status of the New Intense Heavy Ion DTL Project Alvarez 2.0 at GSI
+537
+
+
+TUOPA04
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+L. Groening, T. Dettinger, X. Du, M. Heilmann, M. Kaiser, E. Merz, S. Mickat, A. Rubin, C. Xiao
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The Alvarez-type post-stripper DTL at GSI accelerates intense ion beams with A/q <= 8.5 from 1.4 to 11.4 MeV/u. After more than 45 years of operation it suffers from aging and its design does not meet the requirements of the upcoming FAIR project. The design of a new 108 MHz Alvarez-type DTL has been completed and series components for the 55 m long DTL are under production. In preparation, a first cavity section as First of Series has been operated at nominal RF-parameters. Additionally, a prototype drift tube with internal pulsed quadrupole has been built and operated at nominal parameters successfully. High quality of copper-plating of large components and add-on parts has been achieved within the ambitious specifications. This contribution summarizes the current project status of Alvarez 2.0 at GSI and sketches the future path to completion.
+
+ 
+
+
+
+
+
+
+Slides TUPOGE19 [1.197 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE19
+
+ 
+
+
+About •
+Received ※ 18 August 2022 — Revised ※ 30 August 2022 — Accepted ※ 08 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPOGE20
+Observation of Current-Driven Features of 2.5 Mev Ion Bunch With Complete and Efficient 5D Measurements at the SNS Beam Test Facility
+541
+
+
+TUOPA10
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+K.J. Ruisard, A.V. Aleksandrov, S.M. Cousineau, A.M. Hoover, A.P. Zhukov
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. Department of Energy, Office of Science, High Energy Physics. Authored by UT- Battelle, LLC under DOE Contract No. DE-AC05-00OR22725.
+The SNS Beam Test Facility research program is focused detailed studies of beam distributions for medium-energy ion beams, with the goal of reconstructing realistic 6D bunch distributions to enable halo prediction. For complete characterization of the initial distribution, scan time scales exponentially with scan dimension. Currently, a full 6D measurement with ~10 points across most dimensions requires 30 hours. However, measurement of the 5D distribution f(x, x’,y,y’,w) can be done very rapidly using a hybrid slit/screen method. This approach requires ~4 hours to obtain at least 32 points/dimension, with very high resolution (0.5 keV) in the energy distribution. This presentation reports on the approach and results for 5D characterization of the initial RFQ-formed bunch. This includes higher-resolution views of previously reported transverse-longitudinal dependence and additional interplane dependencies that were not previously reported.
+
+ 
+
+
+
+
+
+
+Slides TUPOGE20 [1.230 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUPOGE20 [1.406 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPOGE20
+
+ 
+
+
+About •
+Received ※ 25 August 2022 — Revised ※ 30 August 2022 — Accepted ※ 04 September 2022 — Issue date ※ 16 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

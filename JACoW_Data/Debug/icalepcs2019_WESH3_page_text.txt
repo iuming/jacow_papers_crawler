@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WESH3 (Speakers’ Corner)
+
+
+WESH3 —  Speakers’ Corner   (09-Oct-19   18:00—19:45)
+Chair: S. Nemesure, BNL, Upton, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+WESH3002
+Control System for Fast Components of Electron Beam Welding Machines
+1516
+
+
+WEPHA053
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A.V. Gerasev, P.B. Cheblakov
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Modern electron beam machines for different applications including welding, additive technologies and etc. consist of many different subsystems, which should be controlled and monitored. They could be divided by so-called fast and slow subsystems. Slow subsystems allow reaction time to be around couple of seconds that can be implemented using PC. Fast subsystems require time to be around hundreds of microseconds combined with flexible logic. We present an implementation of such fast system for mechanical moving platform and electron beam control. The core of this system is single board computer Raspberry Pi. We employed a technique of fast waveform generation using Raspberry Pi on-chip DMA to manipulate stepper motors. Raspberry Pi was equipped by external CAN controller to operate an electron beam via CAN DACs. Special software was developed including libraries for low- and high-level technical process control written in C and Rust; and in-browser graphical user interface over HTTP and WebSockets. Finally, we assembled our hardware inside standard 19-inch rack mount chassis and integrated our system inside experimental electron beam machine infrastructure.
+
+ 
+
+
+
+
+
+
+Poster WESH3002 [6.479 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WESH3002
+
+ 
+
+
+About •
+paper received ※ 02 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WESH3003
+Waltz - A Platform for Tango Controls Web Applications
+1519
+
+
+WEPHA172
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+I. Khokhriakov, F. Wilde
+                       HZG, Geesthacht, Germany
+O. Merkulova
+                       IK, Moscow, Russia
+
+ 
+
+
+ 
+
+Funding: Tango Controls Collaboration, contract 2018, PO 712608/WP1&WP2
+The idea of creating Tango web platform was born at Tango Users Meeting in 2013, later a feature request was defined (v10 roadmap #6) – provide a generic web application for browsing and monitoring Tango devices. The work started in 2017* and a name Waltz was selected by voting at Tango Users meeting #32. Waltz is the result of joint efforts of Tango Community, HZG and IK. This paper gives an overview of Waltz as a platform for Tango web applications, the overall framework architecture and presents an end result of real-life applications**. The work shows that having Waltz platform web developer can intuitively and quickly create full web application for his/her needs. Different architectural layers provide maintainability. The platform has a number of abstractions and ready-to-use widgets that can be used by web developer to quickly produce web based solutions. Among Waltz features are user context saving, device control and monitoring, plot and drag-n-drop interface solutions. Communication with Tango happens via Tango REST API using HTTP/2.0 and Server-Sent Events. Waltz can be also treated as a system for device monitoring and control from any part of the world.
+*Andrew Goetz, et al., TANGO Kernel Development Status, ICALEPCS2017 **Matteo Canzari, et al., A GUI prototype for SKA1 TM Services: compliance with user-centered design approach, Proc. SPIE 10707
+
+ 
+
+
+
+
+
+
+Poster WESH3003 [3.056 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WESH3003
+
+ 
+
+
+About •
+paper received ※ 19 July 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

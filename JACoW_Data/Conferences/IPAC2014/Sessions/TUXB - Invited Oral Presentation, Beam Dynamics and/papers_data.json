@@ -1,0 +1,33 @@
+{
+  "session_info": {
+    "id": "TUXB",
+    "name": "TUXB - Invited Oral Presentation, Beam Dynamics and Electromagnetic Fields",
+    "url": "https://proceedings.jacow.org/IPAC2014/html/tuxb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUXB01",
+      "title": "Recent Progress in 3D Numerical Wakefield Calculations",
+      "authors": [
+        "WBFB",
+        "Berlin",
+        "Germany",
+        "The 3D electromagnetic Field Simulator GdfidL computes Wakepotentials on standard CPUs with a Speed comparable to GPU-Based Implementations. This is achieved via Computing only in interesting Cells",
+        "having the FD-Coefficients in compressed Form",
+        "traversing the Grid in a Cache-friendly Order and applying a blocked Update Scheme which is NuMA-aware. A Dispersion optimised Scheme is described. Fields in dispersive Materials are computed via solving the Equations of the Electron Hulls of the Material. Moving Mesh Computations have the Grid-generation on the Fly."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2014/talks/tuxb01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2014/papers/tuxb01.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2014/posters/tuxb01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2014-TUXB01",
+      "page_number": "944",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 20:40:26"
+}

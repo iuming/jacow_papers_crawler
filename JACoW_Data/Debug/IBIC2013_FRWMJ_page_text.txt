@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2013 - Table of Session: FRWMJ (Cavity BPM Workshop 1)
+
+
+FRWMJ —  Cavity BPM Workshop 1   (20-Sep-13   09:00—12:00)
+Chair: M. Wendt, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+FRWMJ1
+SLAC LCLS Cavity BPM Upgrade Project
+ 
+
+
+ 
+
+P. Krejcik
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Patrick summarized the experience of the SLAC LCLS X-Band (11.4 GHz) cavity BPM system, which has been in operation for several years. Even though the system meets the requirements, some of the original design ideas proved to be not optimal in practice, e.g. the ridged waveguide coupling between pickup and receiver, the pickup support structure, complex tuning of the BPM resonators, etc. Based on this experience Patrick presented a redesigned cavity-BPM pickup, with a loaded-Q ~2000. It now utilizes a waveguide-to coaxial transition, and semi-flexible coaxial cables to connect to the RF electronics. Detailed EM simulations, including an analysis of mechanical tolerances has been performed at SLAC, a prototype has been produced in collaboration with PAL (Pohang Accelerator Laboratory, South Korea). The new pickup design is also more relaxed on tolerances, thus the tight tuning requirements could be reduced. A prototype has been installed at LCLS, and the first beam tests are underway. There was a question addressed to the material, copper vs. Cu-plated stainless steel: SLAC has got years of experience brazing copper, so this is preferred material. The answer to another question, the x-y cross talk: 20dB before, 30dB after tuning.
+
+ 
+
+
+
+
+
+
+Slides FRWMJ1 [1.023 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWMJ2
+LCLS-II Cavity BPMs Electronics
+ 
+
+
+ 
+
+A. Young
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Andrew presented the related read-out electronics for the new LCLS X-Band cavity BPM pickup. It turned out that the waveguide mixers in the current system suffer from a bias voltage degradation, which alters the overall gain. These components are not anymore available, and start to cause a serious issue. The new read-out system with coaxial inputs is based on the same classical heterodyne RF downconverter schema and a digitizer to convert the IF to baseband, which actually is used in most cavity BPM implementations. The 3-channel (X, Y, REF) RF section is located in the tunnel, and includes a commercial communication interface for remote operations on attenuators, etc. A 4th spare channel is also located on the PCB. The LO, based on a commercial PLL board (?), and is phase-locked to the accelerator RF system. The 14-bit digitizer from Struck rests in a μTCA crate, located outside the tunnel. The RF board is made from a multilayer PCB, made from FR4, with embedded Rogers Duroid layers for the high frequency sections. The RF front-end provides ~80dB dynamic range, plus attenuator settings, and a NF=3dB. The IF section provides 34dB gain. In the following we shortly mentioned the pros and cons of a downconverter schema versus a simple diode detector. The common opinion is that the direct diode baseband detection results in substantially higher noise floor. It also was mentioned that the limited return loss of diodes (or input filters in case of a downconverter) might cause an unwanted asymmetries between the two arms of the cavity BPM outputs. Other discussion points where on the PLL. Great care has to be taken on the loop filter design, particular in case of fractional PLLs. A high frequency for the PLL should be considered, this would result in a lower phase noise. Is phase-locking to the accelerator RF beneficial? It may result in a better resolution measurement, but the resolution stops reacting to some systematic effects, and it is beneficial to keep it sensitive to have an indicator of the system health. In addition, unlocked LO is beneficial for model-independent methods applied to waveforms as the whole phase space is covered in that case.
+
+ 
+
+
+
+
+
+
+Slides FRWMJ2 [0.745 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWMJ3
+Cavity Design Questions
+ 
+
+
+ 
+
+M. Hansli
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Matthias presented two cavity designs. His waveguide loaded 3 GHz monopole mode resonator is optimized as phase detector for low charge beams in a plasma wakefield experiment. We discussed his questions on the options of the waveguide-to-coaxial coupling, which often are very pragmatic, personal engineering solutions, sometimes just a matter of “taste”. His 2nd design was a dipole mode resonator, to be used as a Schottky pickup for FAIR (GSI). He shared some details on the optimization of the geometry, e.g. to maximize the R/Q. We agreed that he did a good job, and addressed most design issues very systematically.
+
+ 
+
+
+
+
+
+
+Slides FRWMJ3 [0.191 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWMJ4
+Beam Position Monitors for the LUNEX5 Project
+ 
+
+
+ 
+
+N. Hubert
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+Nicolas presented the LUNEX5 project, a FEL, driven by either a conventional 400 MeV linac, or in future by a laser wakefield accelerator in a tuneable energy range 0.31GeV (called the COXINAL project). Both projects require BPMs for the orbit measurement. The requirements, presented by Nicolas, initiated a little discussion on stripline/button BPMs vs. cavity BPMs. In this case, with a required 530 um resolution (at 500 resp. 10pC bunch charge) in a 20mm diameter beam pipe, we suggested to go with striplines or even buttons. With respect to the laser wakefield acceleration, experience at CERN shows a high EMI near the experimental setup, from which any beam diagnostics may suffer.
+
+ 
+
+
+
+
+
+
+Slides FRWMJ4 [0.502 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWMJ5
+Production of Cavity BPMs for the European XFEL
+ 
+
+
+ 
+
+D. Lipka, D. Nölle, S. Vilcins
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The DESY colleagues gave a comprehensive presentation of the large-scale cavity BPM system required for the XFEL (DESY), with most details are self-explaining by the slides. The XFEL cavity BPM pickup is based on a design from T. Shintake (Spring-8), a compact setup of waveguide loaded dipole mode and reference cavities, both utilizing a “magnetic”(loop) waveguide-to-coaxial transition for the signals. Both XFEL cavity BPM variants, for the beamline and the undulator, are made of stainless steel, to ensure a low-Q of ~70 (3.3GHz operating frequency), ensuring single bunch detection (bunch spacing 222ns). Details on the performance and manufacturing of the N-type feedthrough were given, which is based on a design of Shintake. Dirk went through the entire production process of the cavity BPMs, starting from the first prototypes until the full production series, which included some surprises. This contribution was very comprehensive, and most questions were answered by the presentation. On the cross coupling between the planes, Dirk mentioned better than 40dB!
+
+ 
+
+
+
+
+
+
+Slides FRWMJ5 [1.025 MB]
+            
+ 
+
+
+ 
+
+
+
+FRWMJ6
+Cavity BPM Activities at PSI
+ 
+
+
+ 
+
+B. Keil
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Boris reported on cavity BPM activities at PSI for various projects: Read-out electronics for FLASH and XFEL, and an entire cavity BPM system for the SwissFEL. He compared the requirements of the BPMs in the different areas of the accelerator, and presented the anticipated cavity BPM pickup and read-out solutions. Boris also showed the results from the prototype R&D at the SwissFEL Injector Test Facility, which included a different concept, with a direct analog downconversion to baseband, and a novel technique of ADC clock phase feedback to align ADC samples to the peak on the signal waveform. The resolution of the different prototype BPMs, achieved during the beam tests, range within a few 100nm, far better than the requirement. A very interesting side aspect mentioned by Boris, was the investigation of UHV coaxial feedthroughs for high frequencies. As everyone observes, the known niche companies increased their prices to the extreme, forcing the community to search for alternatives. Boris found a Swiss manufacturer, who now provides custom feedthroughs with acceptable UHV and RF properties (return loss >30dB@3GHz) at moderated to low costs. Very interesting!
+
+ 
+
+
+
+
+
+
+Slides FRWMJ6 [2.044 MB]
+            
+ 
+
+
+ 
+
+
+
+

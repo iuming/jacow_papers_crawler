@@ -1,0 +1,121 @@
+{
+  "session_info": {
+    "id": "WEIBCC",
+    "name": "WEIBCC - WG2.1 ERL Beam Dynamcs",
+    "url": "https://proceedings.jacow.org/erl2017/html/weibcc.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEIBCC001",
+      "title": "Beam Dynamics Issues for Multi-Pass ERLs",
+      "authors": [
+        "Cornell University (CLASSE)",
+        "Cornell Laboratory for Accelerator-Based Sciences and Education",
+        "Ithaca",
+        "New York",
+        "USA",
+        "Several labs have proposed multi-turn ERLs as electron-drivers for major experiments. The beam dynamics of the 4-turn ERL CBETA will be studied in detail to understand the beam-dynamic issues for these electron drivers. These issues include: (a) current limits by the recirculative beam-breakup instability(BBU) and its control by HOM damping",
+        "optics adjustments",
+        "and optical coupling",
+        "(b) ions attracted to the electron beam and their control by clearing electrodes",
+        "current modulations",
+        "and beam shaking",
+        "(c) loss mechanism including Touschek scattering",
+        "gas scattering",
+        "field emission",
+        "ghost pules",
+        "and spurious emotions from the cathode",
+        "(d) high-chromaticity operation",
+        "orbit and optics controls of superimposed beams",
+        "coherent synchrotron radiation",
+        "micro-bunching",
+        "and longitudinal space charge",
+        "and (e) low energies space charge and emittance control"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/erl2017/talks/weibcc001_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2017/papers/weibcc001.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2017/posters/weibcc001_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2017-WEIBCC001",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIBCC002",
+      "title": "LHeC ERL - Beam Dynamics Challenges",
+      "authors": [
+        "CERN",
+        "Geneva",
+        "Switzerland"
+      ],
+      "institutions": [],
+      "abstract": "The LHeC is envisioned as a natural upgrade of the LHC that aims at delivering an electron beam for collisions with the existing hadronic beams. The current baseline design for the electron facility consists of a multipass superconducting energy-recovery linac (ERL) operating in a continuous wave mode and delivering a beam current up to 25 mA at the energy of 60 GeV. This contribution aims at briefly reviewing the beam dynamics aspects motivating the existing design choices. Emphasis will be put in the open issues with their potential synergies with other projects.",
+      "presentation_url": "https://proceedings.jacow.org/erl2017/talks/weibcc002_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2017/papers/weibcc002.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2017/posters/weibcc002_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2017-WEIBCC002",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIBCC003",
+      "title": "Beam Dynamics and Optics Challenges of BERLinPro",
+      "authors": [
+        "HZB",
+        "Berlin",
+        "Germany",
+        "The Helmholtz-Zentrum Berlin is constructing the Energy Recovery Linac Prototype BERLinPro",
+        "a demonstration facility for the science and technology of ERLs for future light source applications. BERLinPro is designed to accelerate a high current (100 mA",
+        "50 MeV)",
+        "high brilliance (norm. emittance below 1 mm mrad) cw electron beam. Various aspects and challenges of beam dynamics and optics in an ERL will be introduced and their relevance and influence on the beam optics layout of BERLinPro discussed. Beside storage ring known requirements emphasis is put to ERL specific problems. Especially collective effects due to space charge and high current are considered."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/erl2017/talks/weibcc003_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2017/papers/weibcc003.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2017/posters/weibcc003_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2017-WEIBCC003",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIBCC004",
+      "title": "Studies of CSR and Microbunching at the Jefferson Laboratory ERLs",
+      "authors": [
+        "C. Tennant",
+        "S.V. Benson",
+        "D. Douglas",
+        "R. Li",
+        "JLab",
+        "Newport News",
+        "Virginia",
+        "USA",
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA"
+      ],
+      "institutions": [
+        "One attractive feature of energy recovery linacs (ERLs) is they are source limited. However as beam brightness increases so too do the effects of coherent synchrotron radiation (CSR) and the microbunching instability. The Low Energy Recirculator Facility at Jefferson Laboratory provides a test bed to characterize aspects of CSR's effect on the beam by measuring the energy extraction via CSR as a function of bunch compression. Data was recorded with acceleration occuring on the rising part of the RF waveform while the full compression point was moved along the backleg of the machine and the response of the beam measured. Acceleration was moved to the falling part of the RF waveform and the experiment repeated. Initial start-to-end simulations using a 1D CSR model show good agreement with measurements. The experiment motivated the design of a modified Continuous Electron Beam Accelerator Facility style arc with control of CSR and the microbunching gain. Insights gained from that study informed designs for recirculation arcs in an ERL-driven electron cooler for Jefferson Laboratory's Electron Ion Collider. Progress on the design and outstanding challenges of the cooler are discussed."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/erl2017/talks/weibcc004_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2017/papers/weibcc004.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2017/posters/weibcc004_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2017-WEIBCC004",
+      "page_number": "59",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 4,
+  "scrape_time": "2025-10-10 17:05:41"
+}

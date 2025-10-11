@@ -1,0 +1,102 @@
+{
+  "session_info": {
+    "id": "TUOAB",
+    "name": "TUOAB - WG3 - Optics and Beam Dynamics",
+    "url": "https://proceedings.jacow.org/eefact2018/html/tuoab.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUOAB01",
+      "title": "Dynamic Aperture Limitation Due to the Synchrotron Radiation from Quadrupole Magnets in very High Energy Colliders",
+      "authors": [
+        "A.V. Bogomyagkov",
+        "S.A. Glukhov",
+        "E.B. Levichev",
+        "S.V. Sinyatkin",
+        "BINP SB RAS",
+        "Novosibirsk",
+        "Russia",
+        "In a lepton storage ring of very high energy (e.g. in the e+e- Higgs factory) synchrotron radiation from quadrupoles constraints transverse dynamic aperture even in the absence of any magnetic nonlinearities. This was observed in LEP and the Future Circular e+e- Collider (FCC-ee). Synchrotron radiation in the quadrupoles modulates the particle energy at the double betatron frequency. Energy modulation varies transverse focusing strength at the same frequency and creates a parametric resonance of the betatron oscillations. Starting from 6d equations of motion we derive and solve the relevant differential equation describing the resonance",
+        "and show good agreement between analytical results and numerical simulation."
+      ],
+      "institutions": [],
+      "abstract": "reference for this paper ※ https://doi.org/10.18429/JACoW-ee",
+      "presentation_url": "https://proceedings.jacow.org/eefact2018/talks/tuoab01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/eefact2018/papers/tuoab01.pdf",
+      "poster_url": "https://proceedings.jacow.org/eefact2018/posters/tuoab01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-EEFACT2018-TUOAB01",
+      "page_number": "46",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOAB02",
+      "title": "Low-emittance Tuning for Circular Colliders",
+      "authors": [
+        "The University of Melbourne",
+        "Melbourne",
+        "Victoria",
+        "Australia",
+        "S. Aumon",
+        "B.J. Holzer",
+        "K. Oide",
+        "T. Tydecks",
+        "F. Zimmermann",
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "The 100 km FCC-ee e+/e− circular collider requires luminosities in the order of 1035 cm-2 s-1 and very low emittances of 0.27 nm·prad for the horizontal plane and 1 pm·prad in the vertical. In order to reach these requirements",
+        "extreme focusing of the beam is needed in the interaction regions",
+        "leading to a vertical beta function of 0.8 mm at the IP. These challenges make the FCC-ee design particularly susceptible to misalignment and field errors. This paper describes the tolerance of the machine to magnet alignment errors and the effectiveness of optics and orbit correction methods that were implemented in order to bring the vertical dispersion to acceptable values",
+        "which in turn limits the vertical emittance. Thousands of misalignment and error seeds were introduced in MADX simulations and a comprehensive correction strategy",
+        "which includes macros based upon Dispersion Free Steering (DFS)",
+        "linear coupling correction based on Resonant Driving Terms (RDTs) and response matrices",
+        "was implemented. The results are summarized in this paper."
+      ],
+      "institutions": [],
+      "abstract": "reference for this paper ※ https://doi.org/10.18429/JACoW-ee",
+      "presentation_url": "https://proceedings.jacow.org/eefact2018/talks/tuoab02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/eefact2018/papers/tuoab02.pdf",
+      "poster_url": "https://proceedings.jacow.org/eefact2018/posters/tuoab02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-EEFACT2018-TUOAB02",
+      "page_number": "57",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOAB04",
+      "title": "Optics Corrections including IP Local Coupling at SuperKEKB",
+      "authors": [
+        "A. Morita",
+        "H. Koiso",
+        "K. Ohmi",
+        "Y. Ohnishi",
+        "H. Sugimoto",
+        "D. Zhou",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "The phase-2 commissioning of the SuperKEKB accelerator with the interaction point(IP) has been performed from March 19 to July 17. In the collision operation during this commissioning",
+        "the vertical beta function at the IP was squeezed down to 3mm. In order to achieve such low beta collision operation",
+        "many optics corrections were performed. We present the result of those optics measurement and correction."
+      ],
+      "institutions": [],
+      "abstract": "reference for this paper ※ https://doi.org/10.18429/JACoW-ee",
+      "presentation_url": "https://proceedings.jacow.org/eefact2018/talks/tuoab04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/eefact2018/papers/tuoab04.pdf",
+      "poster_url": "https://proceedings.jacow.org/eefact2018/posters/tuoab04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-EEFACT2018-TUOAB04",
+      "page_number": "63",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-11 08:36:06"
+}

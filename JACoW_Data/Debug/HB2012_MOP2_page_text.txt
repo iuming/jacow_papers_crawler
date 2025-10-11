@@ -1,0 +1,1188 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB2012 - Table of Session: MOP2 (Poster Session)
+
+
+MOP2 —  Poster Session   (17-Sep-12   16:40—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOP203
+Bunch-by-Bunch Beam Loss Diagnostics with Diamond Detectors at the LHC
+41
+
+
+ 
+
+M. Hempel
+                       BTU, Cottbus, Germany
+T. Baer
+                       University of Hamburg, Hamburg, Germany
+S. Bart Pedersen, B. Dehning, E. Effinger, E. Griesmayer, A. Lechner, R. Schmidt
+                       CERN, Geneva, Switzerland
+W. Lohmann
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+A main challenge in the operation with high intensity beams is managing beam losses that imply the risk of quenching superconducting magnets or even damage equipment. There are various sources of beam losses, such as losses related to injection, to beam instabilities and to UFOs (Unidentified Falling Objects). Mostly surprising in the first years of LHC operation was the observation of UFOs. They are believed to be dust particles with a typical size of 1-100 um, which lead to beam losses with a duration of about ten revolutions when they fall into the beam. 3600 BLMs (Beam Loss Monitors) are installed around the LHC ring, allowing to determinate the accurate location of UFOs. The time resolution of the BLMs is 40 us (half a turn revolution). A measurement of the beam losses with a time resolution better than the bunch spacing of 50 ns is crucial to understand loss mechanisms. Diamond sensors are able to provide such diagnostics and perform particle counting with ns time resolution. In this paper, we present measurements of various types of beam losses with diamond detectors. We also compare measurements of UFO induced beam losses around the LHC ring with results from MadX simulations.
+
+ 
+
+
+ 
+
+
+
+MOP204
+A Method to Measure the Incoherent Synchrotron Frequencies in Bunches
+46
+
+
+ 
+
+O. Chorniy, H. Reeg
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The method of measuring the incoherent synchrotron frequencies in a stationary bunch is presented. It can be shown that by measuring the local current at a fixed coordinate in RF bucket the corresponding incoherent synchrotron frequency can be obtained. Test calculations were done using simulation data where longitudinal space charge effects were included. The incoherent frequencies obtained with method are in a good agreement with theory. In real experiment, the incoherent frequencies were determined from bunch profiles recorded in the SIS18 with low intensity beam at injection energy. Bunch profiles were measured with a new Fast Current Transformer which has a relatively broad frequency range. The profiles were recorded using 8 bit resolution oscilloscope. The frequency spectra of local current fluctuation at different longitudinal positions were obtained numerically. The strongest lines in these spectra were at positions of theoretically expected incoherent frequencies. In this paper the method is described in details, the comparison of incoherent frequencies obtained from the simulation and measurement data with theoretical solutions is shown.
+
+ 
+
+
+ 
+
+
+
+MOP205
+Intense Heavy-Ion Bunches in Dual-harmonic RF Systems
+51
+
+
+ 
+
+M. Mehler, O. Chorniy
+                       GSI, Darmstadt, Germany
+O. Boine-Frankenheim
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+O.K. Kester
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+For the synchrotron's SIS-18 and SIS-100 (FAIR) a dual-harmonic RF system with the harmonic numbers h1=2, h2=4 and h1=10, h2=20 respectively is planned. Such systems flatten the bunch form and increase the bunching factor Bf therefore reducing the transverse space charge force. For high currents cavity beam loading and potential-well distortion will deform the flattened bunch shape and lead to phase shifts. Optimized settings for the difference between the two RF phases and for the synchronous phase of the main RF harmonic are an option to reduce these effects. In this contribution we will analyse further aspects of the matched bunch distribution, possible instabilities of the obtained distribution will be discussed and results of machine experiments in SIS-18 will be presented.
+
+ 
+
+
+ 
+
+
+
+MOP206
+Numerical Calculation of Beam Coupling Impedances for the SIS-100 Synchrotron for FAIR
+54
+
+
+ 
+
+U. Niedermayer, O. Boine-Frankenheim
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The transverse impedance of kicker magnets is considered to be one of the main beam instability sources in the projected SIS-100 at FAIR and also in the SPS at CERN. The longitudinal impedance can contribute to the heat load, which is especially a concern in the cold sections of SIS-100 and LHC. In the high frequency range, time domain codes are commercially available to calculate the impedance but they become inapplicable at medium and low frequencies. We present the ongoing work of developing a Finite Integration (FIT) solver in frequency domain which is based on the Parallel and Extensible Toolkit for Scientific computing (PETSc) framework in C++. The code is applied to an inductive insert used to compensate the longitudinal space charge impedance in low energy machines. Another application focuses on the impedance contribution of a ferrite kicker with inductively coupled pulse forming network (PFN) and frequency dependent complex material permeability. In future we plan to confirm our simulations with dedicated wire or coil bench measurements.
+
+ 
+
+
+ 
+
+
+
+MOP207
+Planning for Experimental Demonstration of Transverse Emittance Transfer at the GSI UNILAC through Eigen-emittance Shaping
+57
+
+
+ 
+
+C. Xiao, O.K. Kester
+                       IAP, Frankfurt am Main, Germany
+L. Groening
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The minimum transverse emittances achievable in a beam line are determined by the two transverse eigen-emittances of the beam. For vanishing interplane correlations they are equal to the well-know rms-emittances. Eigen-emittances are constants of motion for all symplectic beam line elements, i.e. (even tilted) linear elements. To allow for rms-emittance transfer, the eigen-emittances must be changed by applying a non-symplectic action to the beam, preferably preserving the 4d-rms-emittance. This contribution will introduce the concept for eigen-emittance shaping and rms-emittance transfer at an ion linac. A path towards the experimental demonstration of the concept at the GSI UNILAC is presented.
+
+ 
+
+
+ 
+
+
+
+MOP209
+High Intensity Proton FFAG Ring with Serpentine Acceleration for ADS
+60
+
+
+ 
+
+E. Yamakawa, Y. Ishi, Y. Kuriyama, J.-B. Lagrange, Y. Mori, T. Uesugi
+                       Kyoto University, Research Reactor Institute, Osaka, Japan
+
+ 
+
+
+ 
+
+In order to produce high intensity proton beam for ADS, a new type of fixed rf acceleration scheme, so-called serpentine acceleration, is examined in scaling FFAG. Longitudinal hamiltonian for scaling FFAG is first derived analytically. Then the features of serpentine acceleration in longitudinal phase space are studied. Ring design for ADS is finally shown.
+
+ 
+
+
+ 
+
+
+
+MOP210
+Beam Stacking for High Intensity Pulsed Proton Beam with FFAG
+64
+
+
+ 
+
+Y. Mori, Y. Ishi, Y. Kuriyama, J.-B. Lagrange, T. Uesugi
+                       Kyoto University, Research Reactor Institute, Osaka, Japan
+
+ 
+
+
+ 
+
+Multi-beam stacking scheme to generate an intense short-pulsed proton beam with high repetition proton FFAG is presented.
+
+ 
+
+
+ 
+
+
+
+MOP211
+1-MW Beam Operation Scenario in the J-PARC RCS
+68
+
+
+ 
+
+H. Hotchi, H. Harada, N. Hayashi, M. Kinsho, P.K. Saha, Y. Shobuda, F. Tamura, K. Yamamoto, M. Yamamoto, M. Yoshimoto
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+Y. Irie
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The injection energy of the J-PARC RCS will be upgraded from 181 MeV to 400 MeV in the 2013 summer-autumn period. With this upgraded injection energy, we are to aim for 1 MW design output beam power. In this paper, we discuss beam dynamics issues for the 1 MW beam operation and their possible solutions.
+
+ 
+
+
+ 
+
+
+
+MOP212
+Simulation of Longitudinal Beam Instability caused by HOMs
+73
+
+
+ 
+
+P. Cheng, Z. Li, J.Y. Tang, J.Q. Wang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Superconducting cavities are employed in C-ADS linac to accelerate 10mA CW proton beams from 3.2 MeV to 1.5 GeV. High order modes in superconducting cavities are found by using the simulation tools CST and HFSS, then power dissipation caused by HOMs have been investigated, it is indicated that the Qext should not go beyond 107} in order to limit the additional heat load. Beam instabilities caused by high order modes in elliptical cavity sections are investigated using the code offered by Dr. Jean-Luc Biarrotte (CNRS, IPN Orsay, France). Beam errors, linac errors and high order modes frequency spread are investigated in detail. It shows that the monopole modes do not affect the proton beam critically and need no HOM couplers (Qext=105}) if high order modes frequency spread is more than 100 kHz.
+
+ 
+
+
+ 
+
+
+
+MOP213
+Beam Losses due to the Foil Scattering for CSNS/RCS
+78
+
+
+ 
+
+M.Y. Huang, N. Wang, S. Wang, S.Y. Xu
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+For the Rapid Cycling Synchrotron of China Spallation Neutron Source (CSNS/RCS), the stripping foil scattering generates the beam halo and gives rise to additional beam losses during the injection process. The interaction between the proton beam and the stripping foil was discussed and the foil scattering was studied. A simple model and the realistic situation of the foil scattering were considered. By using the codes ORBIT and FLUKA, the multi-turn phase space painting injection process with the stripping foil scattering for CSNS/RCS was simulated and the beam losses due to the foil scattering were obtained.
+
+ 
+
+
+ 
+
+
+
+MOP214
+Test System and Characteristics Studies of Ferrite Cores for the CSNS RCS RF System
+81
+
+
+ 
+
+H. Shi, W.L. Huang, X. Li, W. Long, H. Sun, J.Y. Tang, C.L. Zhang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+A two-ring ferrite test system for ferrite-loaded cavities of Rapid Cycling Synchrotron (RCS) of China Spallation Neutron Source (CSNS) has been developed. By this system, the RF characteristics of full-sized ferrite cores of RCS cavities have been studied. On dc bias current, the swept frequency range and thresholds of High Loss Effect (HLE) have been presented. On ac bias current of 25 Hz, although the shunt impedance of the cores satisfies the CSNS cavity, comparing with the dc bias, more power dissipation and more required bias current have been observed because the induced magnetic anisotropy of the ferrite cores disappears. Consequently, it is important to evaluate the dynamic features of the cores with 25 Hz bias current for designing the cavities, the power supplies and the bias current sources.
+
+ 
+
+
+ 
+
+
+
+MOP215
+The Study on Measuring Beta Functions and Phase Advances in the CSNS/RCS
+85
+
+
+ 
+
+Y.W. An, S. Wang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+As a key component of the China Spallation Neutron Source (CSNS) Project, the Rapid Cycling Synchrotron (RCS) will accumulate and accelerate the proton beams from 80 MeV to 1.6 GeV for extracting and striking the target with a repletion rate of 25 Hz. To check linear optics and locate the quadruple errors, beta function plays an important role in beam diagnostics of a particle accelerate system. The Independent Component Analysis (ICA) is a robust beam diagnosis method by decomposing the samples recorded by turn by turn BPMs (beam position monitors) into the independent components which represent the inherent motion of the beam. The beta functions and phase advances can be derived from the corresponding independent components. Because the linear part of the space charge gives a defocusing effect to the beam, beta function variation will be induced. We find that the ICA method can measure beta functions with a reasonable tolerance under the conditions of strong space charge effects.
+
+ 
+
+
+ 
+
+
+
+MOP216
+The Design Study on the Longitudinal Beam Dynamics for CSNS/RCS
+89
+
+
+ 
+
+N. Wang, M.Y. Huang, Y. Li, S. Wang, S.Y. Xu, Y.S. Yuan
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Rapid Cycling Synchrotron (RCS) is the key part of China Spallation Neutron Source (CSNS) accelerators. The RCS accumulates and accelerates 80 MeV beam from linac to 1.6 GeV. The particle number is 1.56·1013 for each pulse, with repetition rate of 25 Hz. In the RCS, longitudinal beam dynamics plays a crucial role in achieving high intensity beam with low beam loss. Longitudinal parameters are studied and optimized for efficient RF trapping of the beam in the longitudinal phase space. Beam performance is investigated by particle tracking simulations. Beam dynamic issues related to the high order mode induced by the RF generator are studied with a new developed code. Primary study on the adoption of dual harmonic cavity for higher beam power is also addressed.
+
+ 
+
+
+ 
+
+
+
+MOP217
+MEBT2 Design for the C-ADS Linac
+93
+
+
+ 
+
+Z. Guo, H. Geng, Z. Li, J.Y. Tang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The C-ADS linac is composed by two parallel injectors and a main linac, a section of Medium Energy Beam Line (MEBT2) is designed to guide and match beams from two injectors to the main linac. The two injectors are hot-spare for each other in order to satisfied the requirement of high availability and reliability. The beam in online operation mode will be directed to the main linac from one injector, while the beam in the offline mode with low repetition frequency from the other injector, will be directed to a beam dump through an auxiliary beam line. With a long drift distance and in the presence of space charge force for 10 mA 10 MeV proton beam, the debunching effect is very strong and it requires very strict control over beam losses and emittance growth. It is difficult to obtain satisfactory longitudinal matching without bunchers in the bending section. An analytical study using transfer matrix shows that with two bunchers of same voltage in the bending section the achromatism can be maintained if the effective voltage is inversely proportional to the distance between the two bunchers. It is also under consideration if and how a beam collimation can be implanted in MEBT2.
+
+ 
+
+
+ 
+
+
+
+MOP218
+Dynamics of Particles in a Tilted Solenoidal Focusing Channel
+97
+
+
+ 
+
+H. Jiang, S. Fu
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+We use the paraxial ray approximation equations to analysis the dynamics of particles in a tilted solenoidal focusing channel. In this case, the particles' initial canonical angular momentum is nonzero, so we need to add the term of centrifugal potential to the dynamics equation of particles. And in the dynamics equation this centrifugal potential term is nonlinear, which results in the emittance growth. In practice, we also need to consider the spherical aberration's effect on emittance growth and the linear part of the space-charge force of a Kapchinskij-Vladimirskij distribution beam in the dynamics equation of particles.
+
+ 
+
+
+ 
+
+
+
+MOP219
+Error Analysis and Correction Scheme in C-ADS Injector-I
+99
+
+
+ 
+
+C. Meng, Z. Li, J.Y. Tang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by the China ADS Project (XDA03020000)
+C-ADS Injector-I is a 10 mA 10 MeV CW proton linac. It uses a 3.2MeV normal conducting 4-Vane RFQ and 12 superconducting single-Spoke cavities. According to the detailed sensitivity analysis of alignment and RF errors, the error tolerance of both static and dynamic ones for Injector-I are presented. The simulation results show that with the error tolerance there are beam losses, the residual orbit is too large which will produce significant emittance growth, so the correction is necessary for Injector-I. After detailed numerical studies, a correction scheme and monitor distributions are proposed. After correction the RMS residual orbit can be controlled within 0.4mm and RMS emittance growth can be controlled within 10%, but it still has 1.7×10-6 beam loss, which comes from the RF errors and low longitudinal acceptance. According to detailed analysis and simulations with 108 macro particles, as a consequence, longitudinal emittance control and longitudinal distribution control as well as large longitudinal acceptance are the key to minimizing beam losses in low energy section. To minimize beam loss, a short period Injector-I lattice with larger longitudinal acceptance have been designed and performance very good error tolerance.
+
+ 
+
+
+ 
+
+
+
+MOP220
+Local Compensation-rematch for Major Element Failures in the C-ADS Accelerator
+102
+
+
+ 
+
+B. Sun, Z. Li, J.Y. Tang, F. Yan
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+In order to achieve the required reliability and availability for the C-ADS accelerator, a fault tolerance design is pursued. The effects of cavity failure in different locations have been studied and the schemes of compensation by means of local compensation have been investigated. After one cavity failure, by adjusting the settings of the neighboring cavities and the focusing elements to make sure that the Twiss parameters and energy are approximately recovered to that of the nominal ones at the matching point. We find the normalized RMS emittance and emittances including 99.9% and 100% particles have no obvious growth after applying the compensation with the RMS rematching in each section of the main linac. However, the conclusions above are drawn from the simulation results with the TraceWin code, which doesn't consider the phase difference. A code based on Matlab is under developing. By applying the code on the cavity failure in the middle part of spoke021 section, a fully compensated scheme with good dynamics results is obtained. The space charge effect is still not implanted in the code, and further study and optimization of the code will be performed in the next step.
+
+ 
+
+
+ 
+
+
+
+MOP221
+Physics Design of the C-ADS Main Linac Based on Two Different Injector Design Schemes
+107
+
+
+ 
+
+F. Yan, Z. Li, C. Meng, J.Y. Tang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by Advanced Research Project of the Chinese Academy of Science
+Two design schemes for the main linac of C-ADS (China Accelerator Driven Subcritical system) are presented in this paper. They are corresponding to two different injector schemes. Injector-II scheme makes use of room-temperature RFQ and superconducting HWR cavities with the RF frequency of 162.5 MHz; Injector-I scheme makes use of higher-energy RFQ and superconducting spoke cavities with the RF frequency of 325 MHz. At the first choice, a relatively smaller longitudinal emittance is adopted for the RFQ designs with both the injector schemes to obtain more efficient acceleration. However, compared with the injector-I scheme, with the injector-II scheme, bunch current will be doubled in the main linac due to the half RF frequency in the injector-II. This means stronger space charge effects. Alternate design for the main linac with the injector-II scheme is to increase the longitudinal emittance by 50% so that the space charge effects will be alleviated. However, totally 30 cavities more and 36 m longer in the main linac have to be paid for this design scheme. The design considerations, the lattice designs, the simulation results including halo information are presented.
+
+ 
+
+
+ 
+
+
+
+MOP223
+Radiation Safety System for PKUNIFTY Project
+112
+
+
+ 
+
+J. Zhao, J.E. Chen, Z.Y. Guo, Y.R. Lu, S.X. Peng
+                       PKU, Beijing, People's Republic of China
+J. Zhao, Q.F. Zhou
+                       State Key Laboratory of Nuclear Physics and Technology, Beijing, Haidian District, People's Republic of China
+
+ 
+
+
+ 
+
+PKUNIFTY (Peking University Neutron Imaging FaciliTY) , which is based on a 2 MeV RFQ accelerator-driven compact neutron sourse with an expected fast-neutron yield of 2.9*1012n/s via the deuteron-beryllium reaction, has been operated this year. A radiation safety system for PKUNIFTY, that protects personnel from radiation hazards has been built and run since last year, is described. It consists of a shielding optimized with Monte-Carlo simulation, a dose interlock system, an alternative interlock with another 4.5MV tandem accelerator facility, and a video monitoring system. The dose of supervision area is less than 0.5μSv/h during beam operation.
+
+ 
+
+
+ 
+
+
+
+MOP229
+Design of the MEBT1 for C-ADS Injector II
+115
+
+
+ 
+
+H. Jia, Y. He, S.C. Huang, C.L. Luo, M.T. Song, Y.J. Yuan, X. Zhang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+The MEBT1 of Chinese ADS Injector II is described. It transports a 2.1 MeV, 10 mA CW proton beam through a series of 7 quadruples and two buncher cavities from the RFQ to the superconducting DTL. For emittance preservation, a compact mechanical design is required. Details of the beam dynamics and mechanical design will be given.
+
+ 
+
+
+ 
+
+
+
+MOP231
+Study  of Non-equi-partitioning Lattice Setting and IBS Effects for J-PARC Linac Upgrade
+118
+
+
+ 
+
+Y. Liu
+                       IMP, Lanzhou, People's Republic of China
+M. Ikegami
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+For the coming upgrade of J-Parc, the peak power of linac will be greatly increased. This may open many interesting questions. For instance, for efficient acceleration from 19 0MeV to 400 MeV the annular coupled structure (ACS) was applied with frequency jump from 324 MHz to 972 MHz. Upstream part of J-PARC linac from the frequency jump is set with the equi-partitioning (EP) condition, which prevents from the coherent resonances. If EP condition is kept for the downstream part, due to the frequency jump, the transverse focusing should also ‘jump' 3 times with shrink of envelop. The increased beam-density affects the interactions between particles, including the intra-beam stripping (IBS) effect in the H− beam. The temperature ratio between transverse and longitudinal planes is used as a knob for studying the beam behavior for the cases away from equi-partitioning. The IBS effects, as well as strategies for setting downstream non-equi-partitioning lattice due to frequency jump are studied. The matching and beam evolution in the transition section from EP to non-EP (MEBT2) are also studied. The results help to reach an optimum with least risks from resonances and IBS effects and so on.
+
+ 
+
+
+ 
+
+
+
+MOP232
+Optimization of the Superconducting Section of Injector Ⅱ for C-ADS
+122
+
+
+ 
+
+S.H. Liu, Y. He, Z.J. Wang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+Abstract: The China Accelerator driven System (C-ADS) project which includes a high current SC proton linac is being studied under Chinese Academy of Science. Injector II, one of parallel injectors, is undertaken by Institute of Modern Physics (IMP). The lattice design of Injector II has been done. While in most case, the elements, such as SC cavities and SC solenoids, have different weight to the final beam parameters. What is more, in the real operation process of the machine, the optimized mode is hard to find. In the paper, Latin sampling method specified in DAKOTA code combined with TRACK is adopted to build hundreds of virtual machines to analyse the sensitivity of the SC section and to find optimization operation mode.
+
+ 
+
+
+ 
+
+
+
+MOP233
+Error and Tolerance Studies for Injector II of C-ADS
+125
+
+
+ 
+
+W.S. Wang, Y. He, Z.J. Wang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+The proposed Chinese Accelerator Driven System (C-ADS) driver linac is being designed by Chinese Academic Science (CAS). Injector II is designed and fabricated in Institute of Modern Physics (IMP). Injector II will accelerate 10 mA proton beams to 10 MeV. Because of the high final beam power (100 kW) specified for the linac operation, beam loss must be limited to 10-5 level to avoid radiation damage. Misalignment and RF error simulation for cavities and focusing elements after RFQ were performed and the correction schemes developed using the computing code TRACK. Error and tolerance studies for Injector II are presented.
+
+ 
+
+
+ 
+
+
+
+MOP235
+Medium Energy Beam Transport Design Update for ESS
+128
+
+
+ 
+
+I. Bustinduy, F.J. Bermejo, A. Ghiglino, O. González, J.L. Muñoz, I. Rodríguez, A. Zugazaga
+                       ESS Bilbao, Bilbao, Spain
+B. Cheymol, M. Eshraqi, R. Miyamoto
+                       ESS, Lund, Sweden
+J. Stovall
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The major challenge of this part of the accelerator is to keep a high quality beam, with a pulse well defined in time, a low emittance and a minimized halo, so that the beam losses downstream the linac be limited and the overall ESS reliability be maximized. In order to minimize beam loss at high energy linac, and the consequent activation of components, a fast chopping scheme is presented for the medium energy beam transport section (MEBT). The considered versatile MEBT is being designed to achieve four main goals: First, to contain a fast chopper and its correspondent beam dump, that could serve in the commissioning as well as in the ramp up phases. Second, to serve as a halo scraping section by means of two adjustable blades. Third, to measure the beam phase and profile between the RFQ and the DTL, along with other beam monitors. And finally, to match the RFQ output beam characteristics to the DTL input both transversally and longitudinally. For this purpose a set of ten quadrupoles is used to match the beam characteristics transversally, combined with two 352.2 MHz buncher cavities, which are used to adjust the beam in order to fulfill the required longitudinal parameters.
+
+ 
+
+
+ 
+
+
+
+MOP238
+Beam Position Monitor System of the ESS Linac
+133
+
+
+ 
+
+H. Hassanzadegan, A. Jansson
+                       ESS, Lund, Sweden
+A.J. Johansson
+                       Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+The pulsed ESS linac will include about 100 BPMs, mostly with a European XFEL style button design, 6 BPMs with a special design for the Medium Energy Beam Transport, as well as 8 stripline BPMs foreseen for the Drift Tubes. The required accuracy and resolution of the position measurement are 100 μm (rms) and 20 μm (rms) respectively with the 50 mA 2.86 ms nominal pulse. In addition to the position measurement, the BPM system needs to measure the beam phase in the nominal pulse as well as several diagnostics pulse modes with a minimum duration and intensity of 5 μs and 5 mA respectively. After a study of the possible electronics platforms, MTCA.4 is now considered as the main prototyping platform for the high performance sub-systems at ESS. It is foreseen to prototype a Rear Transition Module for IQ-based RF signal measurements intended for both the BPM and LLRF systems. The requirements and specifications of the BPM system are presented and the plan for the continuation of the project is described in this paper.
+
+ 
+
+
+ 
+
+
+
+MOP240
+High Energy Tests of Advanced Materials for Beam Intercepting Devices at CERN HiRadMat Facility
+136
+
+
+ 
+
+A. Bertarelli, R.W. Aßmann, E. Berthomé, V. Boccone, F. Carra, F. Cerutti, A. Dallocchio, P. Francon, L. Gentini, M. Guinchard, N. Mariani, A. Masi, P. Moyret, S. Redaelli, S.D.M. dos Santos
+                       CERN, Geneva, Switzerland
+L. Peroni, M. Scapin
+                       Politecnico di Torino, Torino, Italy
+
+ 
+
+
+ 
+
+Predicting by simulations the consequences of LHC particle beams hitting Collimators and other Beam Intercepting Devices (BID) is a fundamental issue for machine protection: this can be done by resorting to highly non-linear numerical tools (Hydrocodes). In order to produce accurate results, these codes require reliable material models that, at the extreme conditions generated by a beam impact, are either imprecise or nonexistent. To validate relevant constitutive models or, when unavailable, derive new ones, a comprehensive experimental test foreseeing intense particle beam impacts on six different materials, either already used for present BID or under development for future applications, is being prepared at CERN HiRadMat facility. Tests will be run at medium and high intensity using the SPS proton beam (440 GeV). Material characterization will be carried out mostly in real time relying on embarked instrumentation (strain gauges, microphones, temperature and pressure sensors) and on remote acquisition devices (Laser Doppler Vibrometer and High-Speed Camera). Detailed post-irradiation analyses are also foreseen after the cool down of the irradiated materials.
+
+ 
+
+
+ 
+
+
+
+MOP241
+An Experiment on Hydrodynamic Tunnelling of the SPS High Intensity Proton Beam at the HiRadMat Facility
+141
+
+
+ 
+
+J. Blanco, F. Burkart, N. Charitonidis, I. Efthymiopoulos, D. Grenier, C. Maglioni, R. Schmidt, C. Theis, D. Wollmann
+                       CERN, Geneva, Switzerland
+E. Griesmayer
+                       CIVIDEC Instrumentation, Wien, Austria
+N.A. Tahir
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The LHC will collide proton beams with an energy stored in each beam of 362 MJ. To predict damage for a catastrophic failure of the protections systems, simulation studies of the impact of an LHC beam on copper targets were performed. Firstly, the energy deposition of the first bunches in a target with FLUKA is calculated. The effect of the energy deposition on the target is then calculated with a hydrodynamic code, BIG2. The impact of only a few bunches leads to a change of target density. The calculations are done iteratively in several steps and show that such beam can tunnel up to 30-35 m into a target. Similar simulations for the SPS beam also predict hydrodynamic tunnelling. An experiment at the HiRadMat (High Radiation Materials) at CERN using the proton beam from the Super Proton Synchrotron (SPS) is performed to validate the simulations. The particle energy in the SPS beam is 440 GeV and has up to 288 bunches. Significant hydrodynamic tunnelling due to hydrodynamic effects are expected. First experiments are planned for July 2012. Simulation results, the experimental setup and the outcome of the tests will be reported at this workshop.
+
+ 
+
+
+ 
+
+
+
+MOP242
+Experimental Verification for a Collimator with In-jaw Beam Position Monitors
+146
+
+
+ 
+
+D. Wollmann, O. Aberle, R.W. Aßmann, A. Bertarelli, C.B. Boccard, R. Bruce, F. Burkart, M. Cauchi, A. Dallocchio, D. Deboy, M. Gasior, O.R. Jones, V. Kain, L. Lari, A.A. Nosych, S. Redaelli, A. Rossi, G. Valentino
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+At present the beam based alignment of the LHC collimators is performed by touching the beam halo with the two jaws of each device. This method requires dedicated fills at low intensities that are done infrequently because the procedure is time consuming. This limits the operational flexibility in particular in the case of changes of optics and orbit configuration in the experimental regions. The system performance relies on the machine reproducibility and regular loss maps to validate the settings. To overcome these limitations and to allow a continuous monitoring of the beam position at the collimators, a design with in-jaw beam position monitors was proposed and successfully tested with a mock-up collimator in the CERN SPS. Extensive beam experiments allowed to determine the achievable accuracy of the jaw alignment for single and multi-turn operation. In this paper the results of these experiments are discussed. The measured alignment accuracy is compared to the accuracies achieved with the present collimators in the LHC.
+
+ 
+
+
+ 
+
+
+
+MOP243
+Experimental Results of Beam Halo at IHEP
+151
+
+
+ 
+
+H.F. Ouyang, T. Huang, J. Li, J. Peng, T.G. Xu
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Space-charge forces acting in mismatched beams have been identified as a major cause of beam halo. In this paper, we describe the beam halo experimental results in a FODO beam line at IHEP. With this beam transport line, experiments are firstly carried out to determine the main beam parameters at the exit of a RFQ with intense beams, and then the measured beam profiles at different positions are compared with the multi-particle simulation profiles to study the formation of beam halo. The maximum measured amplitudes of the matched and mismatched beam profiles agreed well with simulations. Details of the experiment will be presented.
+
+ 
+
+
+ 
+
+
+
+MOP244
+CERN High-Power Proton Synchrotron Design Study for LAGUNA-LBNO Neutrino Production
+154
+
+
+ 
+
+R. Steerenberg, M. Benedikt, I. Efthymiopoulos, F. Gerigk, Y. Papaphilippou
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Within the framework of the LAGUNA-LBNO project, CERN has started design studies in view of producing neutrinos for future long base line neutrino experiments. These design studies foresee a staged approach in the increase of the primary proton beam power, used for the neutrino production. The first step consists of exploring the feasibility of a CERN SPS beam power upgrade from the existing 500 kW, presently available to CNGS, to 750 kW. This beam should then be transferred to a new to be built neutrino beam line that is dimensioned for a beam power of 2 MW. The 2 MW proton beam is to be provided at a subsequent stage by a 30 - 50 GeV High-Power Proton Synchrotron (HP-PS), which is a major part of the design studies. This paper will provide an overview of the project and then focus on the preliminary ideas for the HP-PS design study.
+
+ 
+
+
+ 
+
+
+
+MOP245
+Quench Tests at the Large Hadron Collider with Collimation Losses at 3.5 Z TeV
+157
+
+
+ 
+
+S. Redaelli, R.W. Aßmann, G. Bellodi, K. Brodzinski, R. Bruce, F. Burkart, M. Cauchi, D. Deboy, B. Dehning, E.B. Holzer, J.M. Jowett, E. Nebot Del Busto, M. Pojer, A. Priebe, A. Rossi, M. Sapinski, M. Schaumann, R. Schmidt, M. Solfaroli Camillocci, G. Valentino, R. Versteegen, J. Wenninger, D. Wollmann, M. Zerlauth
+                       CERN, Geneva, Switzerland
+L. Lari
+                       IFIC, Valencia, Spain
+
+ 
+
+
+ 
+
+The Large Hadron Collider (LHC) has been operating since 2010 at 3.5 TeV and 4.0 TeV without experiencing quenches induced by losses from circulating beams. This situation might change at 7 TeV where the reduced margins in the superconducting magnets. The critical locations are the dispersion suppressors (DSs) at either side of the cleaning and experimental insertions, where dispersive losses are maximum. It is therefore crucial to understand in detail the quench limits with beam loss distributions alike those occurring in standard operation. In order to address this aspect, quench tests were performed by inducing large beam losses on the primary collimators of the betatron cleaning insertion, for proton and lead ion beams of 3.5 Z TeV, to probe the quench limits of the DS magnets. Losses up to 500 kW were achieved without quenches. The measurement technique and the results obtained are presented, including observations of heat loads in the cryogenics system.
+
+ 
+
+
+ 
+
+
+
+MOP246
+A Tool Based on the BPM-interpolated Orbit for Speeding up LHC Collimator Alignment
+162
+
+
+ 
+
+G. Valentino, N.J. Sammut
+                       University of Malta, Information and Communication Technology, Msida, Malta
+R.W. Aßmann, R. Bruce, G.J. Müller, S. Redaelli, B. Salvachua
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Beam-based alignment of the LHC collimators is required in order to measure the orbit center and beam size at the collimator locations. During an alignment campaign in March 2012, 80 collimators were aligned at injection energy (450 GeV) using automatic alignment algorithms in 7.5 hours, the fastest setup time achieved since the start of LHC operation in 2008. Reducing the alignment time even further would allow for more frequent alignments, providing more time for physics operation. The proposed tool makes use of the BPM-interpolated orbit to obtain an estimation of the beam centers at the collimators, which can be exploited to quickly move the collimator jaws from the initial parking positions to tighter settings before beam-based alignment commences.
+
+ 
+
+
+ 
+
+
+
+MOP247
+Beam Stability and Tail Population at SPS Scrapers
+166
+
+
+ 
+
+L.N. Drøsdal, K. Cornelis, B. Goddard, V. Kain, M. Meddahi, Ö. Mete, B. Mikulec, E. Veyrunes
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Before injection into the LHC the beams are scraped in the SPS to remove the tails of the transverse particle distributions. Without scraping the tail population is large enough to create losses above the beam abort thresholds of the LHC beam loss monitor system when injecting. The scrapers are only effective if correctly set up. This paper shows the results of periodical scraper scans. The beam position and beam size at the scraper is changing with time. The scraper settings hence need to follow accordingly. The scans also give insight into the transverse tail population and could therefore provide useful beam quality diagnostics. The impact on new scraper designs and setting up strategy are discussed.
+
+ 
+
+
+ 
+
+
+
+MOP248
+Brightness Evolution for LHC Beams during the 2012 Run
+170
+
+
+ 
+
+M. Kuhn
+                       Uni HH, Hamburg, Germany
+G. Arduini, J.F. Comblin, A. Guerrero, V. Kain, B. Mikulec, F. Roncarolo, M. Sapinski, M. Schaumann, R. Steerenberg
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+One of the reasons for the remarkable achievements of the LHC is the excellent performance of the LHC injector chain. The evolution of the brightness in the injectors and at LHC collision in 2011 and 2012 is discussed. During certain run periods, the brightness from the beam provided by the injectors was lower than usual. Some of the issues have been identified so far and will be reported. The latest results on emittance blow-up investigations through the 2012 LHC cycle will also be presented and compared to the 2011 data. Possible implications for LHC upgrade scenarios will be mentioned.
+
+ 
+
+
+ 
+
+
+
+MOP249
+Tune Spread Studies at Injection Energies for the CERN Proton Synchrotron Booster
+175
+
+
+ 
+
+B. Mikulec, A. Findlay, V. Raginel, G. Rumolo, G. Sterbini
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In the near future, a new H− injector, Linac4, will replace the current proton injector of the CERN Proton Synchrotron Booster (PSB), Linac2. The new charge-exchange injection at 160 MeV will yield higher brightness beams compared to the conventional 50 MeV multi-turn injection of Linac2. To make full use of the higher injection energy, space-charge effects will need to be understood and mitigated to optimize the intensity versus transverse emittance reach. This includes an optimization of longitudinal acceptance and distribution with a two-harmonic rf system, careful selection of the working point to accommodate the large Laslett tune-shift of approximately -0.5 and compensation of resonances within their stopbands. This paper will present calculations of the tune spread, based on measurements of longitudinal parameters and transverse emittances, for energies up to 160 MeV, different bunch densities and varying beam intensities. It should provide valuable information on the expected tune spread after the connection of Linac4 with the PSB and input for the study of resonance compensation techniques.
+
+ 
+
+
+ 
+
+
+
+MOP250
+Colliding High Brightness Beams in the LHC
+180
+
+
+ 
+
+T. Pieloni, X. Buffat, R. Giachino, W. Herr, E. Métral, G. Papotti
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN-LHC is a high energy particle collider, where intense proton bunches are brought into collision. In order to achieve optimum performance, the bunches must have a high brightness, leading to strong and significant beam-beam effects. Experimental tests during the first two years of its operation have shown that beams with very high brightness can be collided head-on without detrimental effects on the beam dynamics. Such head-on collisions are therefore not expected to limit the LHC performance. Long range beam-beam interactions dominate the adverse effects on the dynamics but can profit from an increased beam brightness, in particular from small emittances. We summarize the experimental results and compare with the theoretical expectations. This allows to optimize the performance for future operation and a definition of promising upgrade scenarios.
+
+ 
+
+
+ 
+
+
+
+MOP252
+Measurements of the LHC Longitudinal Resistive Impedance with Beam
+183
+
+
+ 
+
+J.F. Esteban Müller, T. Argyropoulos, T. Bohl, T. Mastoridis, N. Mounet, G. Papotti, B. Salvant, E.N. Shaposhnikova, D. Valuch
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The resistive part of the longitudinal impedance contributes to the heat deposition on different elements in the LHC ring including the beam screens, where it has to be absorbed by the cryogenic system and can be a practical limitation for the maximum beam intensity. In this paper, we present the first measurements of the LHC longitudinal resistive impedance with beam, done through synchronous phase shift measurements during Machine Development sessions in 2012. Synchronous phase shift is measured for different bunch intensities and lengths using the high-precision LHC Beam Phase Module and then data are post-processed to further increase the accuracy. The dependence of the energy loss per particle on bunch length is then obtained and compared with the expected values found using the LHC impedance model.
+
+ 
+
+
+ 
+
+
+
+MOP253
+Progress with Bunch-shape Measurements at PSI's High-power Cyclotrons and Proton Beam Lines
+187
+
+
+ 
+
+R. Dölling
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+As proposed at HB2010, additional bunch-shape monitors have been installed at the last turns of the Injector 2 cyclotron and at several locations in the connecting beam line to the Ring cyclotron (@72 MeV), as well as behind the Ring cyclotron (@590 MeV). Now at each location in the beam lines, longitudinal-transversal 2D-density distributions of the bunched 2.2 mA proton beam can be taken from four angles of view, each separated by 45°. In addition the monitor in Injector 2 has been upgraded to observe the 13 outermost turns (@57 to 72 MeV), some of them from two or three angles of view. The measurement setup, data evaluation and results are outlined.
+
+ 
+
+
+ 
+
+
+
+MOP254
+Design of a Photo-detachment Emittance Instrument for FETS
+192
+
+
+ 
+
+C. Gabor
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+G.E. Boorman, A. Bosco
+                       Royal Holloway, University of London, Surrey, United Kingdom
+A.P. Letchford
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+P. Savage
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+
+ 
+
+
+ 
+
+Photo detachment is a possibility to diagnose non-destructively H− ion beams. For emittance measurements, the produced neutrals are more suitable then the photo-detached electrons. Such a Photo-Detachment Emittance Measurement Instrument (PD-EMI) is planned for the Front End Test Stand (FETS) at Rutherford Appleton Laboratory (RAL/ UK). FETS comprises a Penning ion source of 60 mA beam current with up to 2 ms pulse length at 50pps, a Low Energy Beam Transport (LEBT), a four-vane RFQ with 3 MeV and a Medium Energy Beam Transport (MEBT) with a chopper system. The PD-EMI will be integrated at the end of the MEBT to commission the RFQ which is currently under construction. The introduction gives an overview some results reached so far and explains the conceptual design. Beam simulations show how to implement this to the MEBT being under construction. The remaining paper concentrates then on the hardware which is the dipole magnet, the laser and optics. The design and and engineering of the magnet chamber needs special attention to both satisfy beam transportation and diagnostics purpose. First measurements about the laser and its parameters will be presented.
+
+ 
+
+
+ 
+
+
+
+MOP255
+Acceleration in Vertical Orbit Excursion FFAGs with Edge Focussing
+197
+
+
+ 
+
+S.J. Brooks
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+FFAGs with vertical orbit excursion (VFFAGs) provide a promising alternative design for rings with fixed-field superconducting magnets. They have a vertical magnetic field component that increases with height in the vertical aperture, yielding a skew quadrupole focussing structure. Edge focussing can provide an alternating gradient within each magnet, thus reducing the ring circumference. Like spiral scaling horizontal FFAGs (but not non-scaling ones) the machine has fixed tunes and no intrinsic limitation on momentum range. Rings to accelerate the 800MeV beam from the ISIS proton synchrotron are investigated, in terms of both magnet field geometry and longitudinal behaviour during acceleration with space charge. The 12GeV ring produces an output power of at least 2.18MW.
+
+ 
+
+
+ 
+
+
+
+MOP256
+High-power Scaling FFAG Ring Studies
+202
+
+
+ 
+
+D.J. Kelliher, S. Machida, G.H. Rees
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+High-power scaling FFAG rings have potential application in areas such as neutron spallation, muon production, and accelerator-driven systems. It is proposed to build a model of such a ring in order to study major issues such as space charge and injection. A 20 ' 70 MeV radial DFD FFAG model, that was initially described in *, incorporates long straights to facilitate H− charge exchange injection. Bump magnets are used to move the injected beam away from the foil. The effect of the injection process on the beam emittance is considered. The tune depression and emittance blow up resulting from the effect of space charge is also calculated.
+* G.H. Rees et al, ‘A Model for a High-Power Scaling FFAG Ring', IPAC12, New Orleans, 2012, MOPPD020, http://www. JACow.org
+
+ 
+
+
+ 
+
+
+
+MOP257
+Space Charge Limits on the ISIS Synchrotron including the Effects of Images
+206
+
+
+ 
+
+B.G. Pine, C.M. Warsop
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+The ISIS synchrotron provides a pulsed, 50 Hz, 800 MeV proton beam for spallation neutron production. Each pulse from the synchrotron contains ~2.8×1013 ppp, and at this beam intensity space charge and image forces have a strong effect on transverse beam dynamics. In order to increase intensity in the present machine, and to prepare for possible upgrades running at a higher intensity, studies are under way aimed at understanding the most critical features of such forces and their impact on beam loss. These studies are focused on working point optimisation, including resonances due to space charge and images. A 2D simulation code, Set, has been developed to improve understanding of transverse dynamics at ISIS, using a particle-in-cell algorithm to include space charge and image forces self-consistently. The ISIS synchrotron has profiled vacuum vessels and RF shields which conform to the shape of the beam envelope, and have a distinctive influence on the beam dynamics. Set is specifically designed to include these image forces. A systematic simulation study of possible working points is presented, along with an assessment of the effect on apertures.
+
+ 
+
+
+ 
+
+
+
+MOP258
+Simulation of Intense Proton Beams in Novel Isochronous FFAG Designs
+211
+
+
+ 
+
+S.L. Sheehy
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+M. Berz, K. Makino
+                       MSU, East Lansing, Michigan, USA
+C. Johnstone
+                       Fermilab, Batavia, USA
+P. Snopok
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Recent developments in the design of non-scaling fixed field alternating gradient (FFAG) accelerators have been focused on achieving isochronous behavior with a small betatron tune excursion. These advances are particularly interesting for applications requiring CW beams, such as Accelerator Driven Systems for energy generation or waste transmutation. The latest advances in lattice design have resulted in a 330 MeV to 1 GeV lattice, isochronous to better than ± 1 percent. This paper reports on simulations of recent lattice designs incorporating 3D space charge effects.
+
+ 
+
+
+ 
+
+
+
+MOP260
+Beam Halo Measurements using Adaptive Masking Methods and Proposed Recent Halo Experiment
+215
+
+
+ 
+
+H.D. Zhang, B.L. Beaudoin, S. Bernal, R.B. Fiorito, R.A. Kishek, K. Řežaei, A.G. Shkvarunets
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Beam halo is a common phenomenon in particle beams, especially for modern, advanced accelerators where high beam intensities lead to strong space charge. Halo is generally understood as a population of particles that do, or will, reach large transverse radii relative to a more intense, centralized beam core. It is associated with emittance growth, beam quality degradation and particle loss. The particle-core model [1] is commonly used to describe halo formation as the result of a parametric resonance due to envelope mismatch. Few experiments have been carried out to test this theory [2]. Measurement of beam halo is particularly problematic for faint halos, where light from the intense core obscures the optical image of the halo. In this paper, we present a new diagnostic for high-dynamic range halo measurements based on adaptive masking of the beam core [3]. We also present the design of an experiment to study halo formation from envelope mismatch for beams spanning a wide range of intensities on the University of Maryland Electron Ring (UMER) [4].
+[1] R. Gluckstern, Phys. Rev. Lett., vol.73, 1994.  [2] C. Allen, Phys. Rev. Lett. Vol 89, 1998  [3] H. Zhang, et al., Proc of PAC11.  [4] R.A. Kishek, these proceedings. 
+
+ 
+
+
+ 
+
+
+
+MOP261
+A Test Facility for MEIC ERL Circulator Ring Based Electron Cooler Design
+219
+
+
+ 
+
+Y. Zhang, Y.S. Derbenev, D. Douglas, A. Hutton, G.A. Krafft, E.W. Nissen
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: * Supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC05-06OR23177 and DE-AC02-06CH11357.
+An electron cooling facility which is capable to deliver a beam with energy up to 55 MeV and average current up to 1.5 A at a high bunch repetition rate up to 750 MHz is required for MEIC. The present cooler design concept is based on a magnetized photo-cathode SRF gun, an SRF ERL and a compact circulator ring. In this paper, we present a proposal of a test facility utilizing the JLab FEL ERL for a technology demonstration of this cooler design concept. Beam studies will be performed and supporting technologies will also be developed in this test facility
+
+ 
+
+
+ 
+
+
+
+MOP262
+Observations of Space Charge Effects in the Spallation Neutron Source Accumulator Ring
+223
+
+
+ 
+
+R.E. Potts
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+S.M. Cousineau, J.A. Holmes
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL/SNS is managed by UT-Battelle, LLC, for the U.S. Department of Energy under contract DE-AC05-00OR22725.
+The Spallation Neutron Source accumulator ring was designed to allow independent control of the transverse beam distribution in each plane. However, at high beam intensities, nonlinear space charge forces can strongly influence the final beam distribution and compromise our ability to independently control the transverse distributions. In this study we investigate the evolution of the beam at intensities of up to ~8x1013 ppp through both simulation and experiment. Specifically, we analyze the evolution of the beam distribution for beams with different transverse aspect ratios and tune splits. We present preliminary results of simulations of our experiments.
+
+ 
+
+
+ 
+
+
+
+

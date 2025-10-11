@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WESH1 (Speakers’ Corner)
+
+
+WESH1 —  Speakers’ Corner   (09-Oct-19   18:00—19:45)
+Chair: S. Nemesure, BNL, Upton, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+WESH1002
+New Java Frameworks for Building Next Generation EPICS Applications
+1497
+
+
+WEPHA144
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+K. Shroff
+                       BNL, Upton, New York, USA
+K.-U. Kasemir
+                       ORNL, Oak Ridge, Tennessee, USA
+C. Rosati, G. Weiss
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+Phoebus is a Java/JavaFX framework for creating state-of-the-art, next-generation desktop applications for monitoring and controlling EPICS systems. The recent developments in Java and JavaFX have made it possible to reconsider the role of the Eclipse Rich Client Platform (RCP) in the development of client applications. Phoebus’s aim is to provide a simple to use and yet "rich-enough" application framework to develop modular JavaFX desktop applications for the most recent Java platform. Phoebus is an extensible framework for multiple control system protocols. It provides features for developing robust and scalable multi-threaded client applications. Key features include event rate decoupling, caching and queuing, and a common set of immutable data types to represent controls data from various protocols. The paper describes the framework as used to implement applications and service for monitoring EPICS PVs. The benefits highlighted will provide the EPICS community a new development perspective.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WESH1002
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 20 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WESH1003
+jddd Migration to OpenJDK11+: Benefits and Pitfalls
+1501
+
+
+WEPHA147
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+E. Sombrowski, K. Rehlich, G. Schlesselmann
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The Java Doocs Data Display (jddd) is a Java-based tool for creating and running graphical user interfaces for accelerator control systems. It is the standard graphical user interface for operating the European XFEL accelerator. Since Java 8 Oracle introduced a number of major changes in the Java ecosystem’s legal and technical contexts that significantly impact Java developers and users. The most impactful changes for our software were the removal of Java Web Start, Oracles new licensing model and shorter release cycles. To keep jddd up to date, the source code had to be refactored and new distribution concepts for the different operating systems had to be developed. In this paper the benefits and pitfalls of the jddd migration from Oracle Java8 to OpenJDK11+ will be described.
+
+ 
+
+
+
+
+
+
+Poster WESH1003 [7.285 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WESH1003
+
+ 
+
+
+About •
+paper received ※ 17 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

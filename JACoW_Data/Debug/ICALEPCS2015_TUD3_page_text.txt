@@ -1,0 +1,293 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: TUD3 (Integrating complex or diverse systems)
+
+
+TUD3 —  Integrating complex or diverse systems   (20-Oct-15   15:30—17:00)
+Chair: E. Blanco Vinuela, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+TUD3I01
+The LMJ Target Diagnostics Control System Architecture
+565
+
+
+ 
+
+S. Perez, T. Caillaud
+                       CEA, Arpajon, France
+
+ 
+
+
+ 
+
+The French Laser Megajoule (LMJ) is, behind the US NIF, the second largest inertial fusion facility in the World. The main activity of this facility is the acquisition of several physical phenomena as neutron, gamma, X rays…produced by the indirect attack of hundreds of high power laser beams on targets through measurement devices called "target diagnostics". More than 30 diagnostics will be installed and driven in a huge and complex integrated computer control system. The aim of this paper is to describe an architecture based on the Tango open source software for the very low level control system, Python language for the development of drivers and the French commercial PANORAMA software as the main high level SCADA. This choice leads to guaranty the evolution of the middleware software architecture of this facility supposed to be operated during dozen of years with the capability of using many instruments including sustainability.
+
+ 
+
+
+
+
+
+
+Slides TUD3I01 [29.540 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUD3I01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUD3O02
+Extreme Light Infrastructure, Beamlines - Control System Architecture for the L1 Laser
+570
+
+
+ 
+
+J. Naylon, P. Bakule, M.A. Drouin, B. Himmel, J. Horáček, M. Horáček, K. Kasl, T. Mazanec, P. Škoda
+                       ELI-BEAMS, Prague, Czech Republic
+A. Greer, C. Mayer
+                       OSL, Cambridge, United Kingdom
+B. Rus
+                       Czech Republic Academy of Sciences, Institute of Physics, Prague, Czech Republic
+
+ 
+
+
+ 
+
+Funding: Work supported by the European Regional Development Fund and the European Social Fund under Operational Programs ECOP and RDIOP.
+The ELI-Beamlines facility aims to provide a selection of high-energy and high repetition-rate TW-PW femtosecond lasers driving high intensity XUV/X-ray and accelerated particle secondary sources for applications in materials, medical, nuclear and high-field physics sectors. The highest repetition rate laser in the facility will be the L1 laser, producing 1 kHz, 20 fs laser pulses of 200 mJ energy. This laser is based entirely on picosecond chirped-pulse parametric amplification and solid-state pump lasers. The high repetition rate combined with kW pump powers and advanced technologies calls for a highly automated, reliable and flexible control system. Current progress on the L1 control system is discussed, focussing on the architecture, software and hardware choices. Special attention is given to the LabVIEW-EPICS framework that was developed for the ELI Beamlines lasers. This framework offers comprehensive and scalable EPICS integration while allowing the full range of LabVIEW real-time and FPGA embedded targets to be leveraged in order to provide adaptable, high-performance control and rapid development.
+
+ 
+
+
+
+
+
+
+Slides TUD3O02 [3.306 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUD3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUD3O03
+REMUS: The new CERN Radiation and Environment Monitoring Unified Supervision
+574
+
+
+ 
+
+A. Ledeul, G. Segura, R.P.I. Silvola, B. Styczen, D. Vasques Ribeira
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN Health, Safety and Environment Unit is mandated to provide a Radiation and Environment Monitoring SCADA system for all CERN accelerators, experiments as well as the environment. In order to face the increasing demand of radiation protection and continuously assess both the conventional and the radiological impact on the environment, CERN is developing and progressively deploying its new supervisory system, called REMUS - Radiation and Environment Monitoring Unified Supervision. This new WinCC OA based system aims for an optimum flexibility and scalability, based on the experience acquired during the development and operation of the previous CERN radiation and environment supervisory systems (RAMSES and ARCON). REMUS will interface with more than 70 device types, providing about 3,000 measurement channels (approximately 500, 000 tags) by end 2016. This paper describes the architecture of the system, as well as the innovative design that was adopted in order to face the challenges of heterogeneous equipment interfacing, diversity of end users and non-stop operation.
+
+ 
+
+
+
+
+
+
+Slides TUD3O03 [2.217 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUD3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUD3O04
+The Virtual European XFEL Accelerator
+578
+
+
+ 
+
+R. Kammering, W. Decking, L. Fröhlich, O. Hensler, T. Limberg, S.M. Meykopff, K.R. Rehlich, V. Rybnikov, J. Wilgen, T. Wilksen
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The ambitious commissioning plans for the European XFEL require that many of the high-level controls are ready from the beginning. The idea arose to create a virtual environment to carry out such developments and tests in advance, to test interfaces, software in general and the visualisation of the variety of components. Based on the experiences and on the systems that are already in operation at the FLASH facility for several years, such a virtual environment is being created. The system can already simulate most of the key components of the upcoming accelerator. Core of the system is an event synchronized data acquisition system (DAQ). The interfaces of the DAQ system towards the device level, as well as to the high-level side is utilising the same software stack as the production system does. Thus, the software can be developed and used interchangeably between the virtual and the real machine. This allows to test concepts, interfaces and identify problems and errors at an early stage. In this paper the opportunities arising from the operation of such a virtual machine will be presented. The limits in terms of the resulting complexity and physical relationships will also be shown.
+
+ 
+
+
+
+
+
+
+Slides TUD3O04 [3.230 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUD3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUD3O05
+Integrating Control Applications into Different Control Systems
+581
+
+
+ 
+
+M. Killenberg, M. Hierholzer, Ch. Schmidt
+                       DESY, Hamburg, Germany
+S. Marsching
+                       Aquenos GmbH, Baden-Baden, Germany
+J. Wychowaniak
+                       TUL-DMCS, Łódź, Poland
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Helmholtz Validation Fund HVF-0016 "MTCA.4 for Industry".
+Porting complex device servers from one control system to another is often a major effort due to the strong code coupling of the business logic to control system data structures. Together with its partners from the Helmholtz Association and from industry, DESY is developing a control system adapter. It allows to write applications in a control system independent way, while still being able to update the process variables and react on control system triggers. We report on the status of the project and the experience we gained trying to write portable device servers.
+
+ 
+
+
+
+
+
+
+Slides TUD3O05 [0.628 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUD3O05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

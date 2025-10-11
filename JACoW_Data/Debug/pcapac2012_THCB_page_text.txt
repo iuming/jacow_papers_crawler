@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: THCB (Control Database)
+
+
+THCB —  Control Database   (06-Dec-12   11:50—12:35)
+Chair: T. Kosuge, KEK, Ibaraki, Japan
+
+
+Paper
+Title
+Page
+
+
+
+THCB01
+HyperArchiver: an Evolution of EPICS Channel Archiver
+106
+
+
+ 
+
+M. del Campo, I. Arredondo
+                       ESS Bilbao, Zamudio, Spain
+M.G. Giacchini, L.G. Giovannini
+                       INFN/LNL, Legnaro (PD), Italy
+J. Jugo
+                       University of the Basque Country, Faculty of Science and Technology, Bilbao, Spain
+
+ 
+
+
+ 
+
+Data storage is a primary issue in any research facility. In the EPICS middleware based accelerator community, Channel Archiver has been always considered the main reference. It works with Oracle and MySQL, probably the best well known relational databases. However, demanding requirements at minimum costs have fostered the development of a wide range of alternatives, like protocol buffers (SLAC), MSDPlus (Consorzio RFX), SciDB (BNL) or Hypertable (IFNF). This document launches a tool called HyperArchiver, which was firstly developed at IFNF (Italy) and eventually customised by ESS Bilbao (Spain). Based on a NoSQL database named Hypertable, it focuses on large data sets management with maximum scalability, reliability and performance. Besides the update and further customization made at ESS Bilbao, HyperArchiver is presented with a set of GUIs, in order to provide an easy use and integration with any general control system. A LabVIEW VI and two cross-platform PyQt GUIs for both Hypertable data retrieval and HyperArchiver control have been developed and successfully tested at ESS Bilbao.
+
+ 
+
+
+ 
+
+
+
+THCB02
+EPICS MySQLArchiver - Integration Between EPICS and MySQL
+109
+
+
+ 
+
+A. Roy, R.B. Bhole, S. Pal, D. Sarkar
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+The performance evaluation and analysis of inter-system dependency of the various subsystems of the Superconducting Cyclotron demand a well configured data logging, archiving and historic analysis facility for massive number of control parameters along with on-line failure analysis facility of every system. EPICS is used as development architecture of the control system of these systems with MySQL used as database for large amount of relational data management. This combination requires integration between EPICS and MySQL server. For this purpose, MySQLArchiver as an EPICS Extension is developed for data logging and archiving of control parameters into MySQL database. This extension also provides a web based tool for online monitoring of control parameters and historic analysis of archived data. This paper describes the software architecture, implementations, as well as method of configuration for any other EPICS based control system as a utility. This facility is also elaborated with examples, web page views and experiences of deploying it in SCC.
+
+ 
+
+
+
+
+
+
+Slides THCB02 [0.781 MB]
+            
+ 
+
+
+ 
+
+
+
+THCB03
+Using Memcached as Real-time Database in the SPARC Control System
+112
+
+
+ 
+
+E. Pace, G. Di Pirro
+                       INFN/LNF, Frascati (Roma), Italy
+
+ 
+
+
+ 
+
+The first implementation of the SPARC control system was based on a distributed TCP/IP data server: each front-end CPU had its own server to distribute data to the console. We decided to move the system to a NoSQL key value database. We decided to use an open source database Memcached. This is a database that is high performance key-value cache optimized for speed only. For this reason we could use Memcached not for storing data, but as a channel of communication between front-end processors and consoles. The first object that we have installed is the camera system. We chose this class of elements because the amount of data is high; cameras are at least 640x480 with 8 bit. In this first installation we made some speed test: we increased the speed transfer and the data transfer is now independent from the number of high level CPUs that are using the same image. The success of this installation convinced us to bring the entire data transfer of SPARC control system to use Memcached as data server.
+
+ 
+
+
+
+
+
+
+Slides THCB03 [3.283 MB]
+            
+ 
+
+
+ 
+
+
+
+

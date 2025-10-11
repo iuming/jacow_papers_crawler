@@ -1,0 +1,127 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB2018 - Table of Session: THA2WE (WG-E)
+
+
+THA2WE —  WG-E   (21-Jun-18   11:00—12:30)
+Chair: M.G. Minty, BNL, Upton, Long Island, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+THA2WE01
+Bayesian Optimization for Online FEL Tuning at LCLS
+ 
+
+
+ 
+
+J.P. Duris, M.W. McIntire, D.F. Ratner
+                       SLAC, Menlo Park, California, USA
+D. Dylan
+                       UCSC, Santa Cruz, California, USA
+
+ 
+
+
+ 
+
+The Linac Coherent Light Source changes configurations 2 to 5 times per day, necessitating fast tuning strategies to reduce setup time for successive experiments. To this end, we employ a Bayesian approach to transport optics tuning to quickly optimize groups of quadrupole magnets. The power of Bayesian optimization lies in its ability to employ a probability distribution to represent the most likely region of a control feature space to optimize an objective. A Gaussian process allows us to employ kernel learning to modify the Bayesian likelihood of the machine response from observed data and learned characteristics of the machine response with respect to the controlled parameters. We build Bayesian priors and response correlations from historical LCLS run data of FEL pulse energy versus quadrupole magnet strengths, and use this to simultaneously optimize quadrupoles. Here, we introduce Bayesian optimization with Gaussian processes, and then describe our approach to training the optimizer on historical LCLS data.
+
+ 
+
+
+
+
+
+
+Slides THA2WE01 [2.511 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THA2WE02
+Application of Machine Learning for the IPM-Based Profile Reconstruction
+410
+
+
+ 
+
+M. Sapinski, R. Singh, D.M. Vilsmeier
+                       GSI, Darmstadt, Germany
+J.W. Storey
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+One of the most reliable devices to measure the transverse beam profile in hadron machines is Ionization Profile Monitor (IPM). This type of monitor can work in two modes: collecting electrons or ions. Typically, for lower intensity beams, the ions produced by ionization of the rest gas are extracted towards a position-sensitive detector. Ion trajectories follow the external electric field lines, however the field of the beam itself also affects their movement leading to a deformation of the observed beam profile. Correction methods for this case are known. For high brightness beams, IPM configuration in which electrons are measured, is typically used. In such mode, an external magnetic field is often applied in order to confine the transverse movement of electrons. However, for extreme beams, the distortion of the measured beam profile can still be present. The dynamics of electron movement is more complex than in case of ions, therefore the correction of the profile distortion is more difficult. Investigation of this problem using a dedicated simulation tool and machine learning algorithms lead to a beam profile correction methods for electron-collecting IPMs.
+
+ 
+
+
+
+
+
+
+Slides THA2WE02 [7.357 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-HB2018-THA2WE02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

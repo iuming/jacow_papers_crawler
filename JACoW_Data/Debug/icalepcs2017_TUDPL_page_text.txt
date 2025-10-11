@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: TUDPL (Software Technology Evolution 2)
+
+
+TUDPL —  Software Technology Evolution 2   (10-Oct-17   16:00—16:45)
+Chair: G. Chiozzi, ESO, Garching bei Muenchen, Germany
+
+
+Paper
+Title
+Page
+
+
+
+TUDPL01
+Reproduce Anything, Anywhere: A Generic Simulation Suite for Tango Control Systems
+280
+
+
+ 
+
+S. Rubio-Manrique, S. Blanch-Torné, M. Broseta, G. Cuní, D. Fernández-Carreiras, J. Moldes
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+A. Götz
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+Synchrotron Light Sources are required to operate on 24/7 schedules, while at the same time must be continuously upgraded to cover scientists needs of improving its efficiency and performance. These operation conditions impose rigid calendars to control system engineers, reducing to few hours per month the maintenance and testing time available. The SimulatorDS project has been developed to cope with these restrictions and enable test-driven development, replicating in a virtual environment the conditions in which a piece of software has to be developed or debugged. This software provides devices and scripts to easily duplicate or prototype the structure and behavior of any Tango Control System, using the Fandango python library* to export the control system status and create simulated devices dynamically. This paper will also present first large scale tests using multiple SimulatorDS instances running on a commercial cloud.
+* S.Rubio et al., "Dynamic Attributes and other  functional flexibilities of PyTango", ICALEPCS'09, Kobe, Japan (2009)
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/YyLu76YV3iQ
+        
+ 
+
+
+
+
+
+
+Slides TUDPL01 [2.732 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUDPL01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUDPL02
+Automatic Formal Verification for EPICS
+285
+
+
+ 
+
+J.P. Jacky, S.P. Banerian
+                       University of Washington Medical Center, Seattle, Washington, USA
+M.D. Ernst, C.A. Loncaric, S. Pernsteiner, Z.L. Tatlock, E. Torlak
+                       University of Washington, Seattle, USA
+
+ 
+
+
+ 
+
+We built an EPICS-based radiation therapy machine control system, and are using it to treat patients at our hospital. To help ensure safety, we use a restricted subset of EPICS constructs and programming techniques, and developed several new automated formal verification tools for them. The Symbolic Evaluator checks properties of EPICS database programs (applications), using symbolic evaluation and satisfiability checking. It found serious errors in our control program that were missed by reviews and testing. Other tools are based on a formal semantics for database records, derived from EPICS documentation and expressed in the specification language of an automated theorem prover. The Verified Interpreter is a re-implementation of the parts of the database engine we use, which is proved correct against the formal semantics. We used it to check those parts of EPICS core by differential testing. It found no significant errors (differences between EPICS behavior and the formal semantics). A Verified Compiler is in development. It will compile a database to a standalone program that does not use EPICS core, where the machine code is verified to conform to the formal semantics.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/CFSnkB5z0GA
+        
+ 
+
+
+
+
+
+
+Slides TUDPL02 [0.389 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUDPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUDPL03
+Control System Simulation Using DSEE High Level Instrument Interface and Behavioural Description
+292
+
+
+ 
+
+A.J.T. Ramaila, K. Madisa, N. Marais
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+A.S. Banerjee, P. Patwari, S. Roy Chaudhuri
+                       Tata Research Development and Design Centre, Pune, India
+Y. Gupta
+                       National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune, India
+
+ 
+
+
+ 
+
+Funding: National Research Foundation of South Africa. National Centre for Radio Astronomy of India.
+Development of KATCP based control systems for the KAT-7 and MeerKAT radio telescopes proved the value of a fully simulated telescope system. Control interface simulators of all telescope subsystems were developed or sourced from the subsystems. SKA SA created libraries to ease creation of simulated KATCP devices. The planned SKA radio telescope chose the TANGO controls framework. To benefit from simulation-driven development tango-simlib, an OSS Python library for data-driven development of TANGO device simulators, is presented. Interface simulation with randomly varying attributes only requires a POGO XMI file; more complex behaviour requires a simple JSON SIMDD (Simulator Description Datafile). Arbitrary behaviour is implemented selectively using Python code. A simulation-control interface for back-channel manipulation of the simulator for e.g. failure conditions is also generated. For the SKA Telescope Manager system an Eclipse DSEE (Domain Specific Engineering Environment) capturing the behaviour and interfaces of all Telescope subsystems is being developed. The DSEE produces tango-simlib SIMDD files, ensuring that the generated simulators match their formal specification.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/Ufpe_xsR8pY
+        
+ 
+
+
+
+
+
+
+Slides TUDPL03 [2.877 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUDPL03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

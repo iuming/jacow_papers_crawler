@@ -1,0 +1,49 @@
+{
+  "session_info": {
+    "id": "THOAI",
+    "name": "THOAI - FEL Technology -2-",
+    "url": "https://proceedings.jacow.org/FEL2012/html/thoai.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THOAI01",
+      "title": "Strategies for achieving sub-10fs timing in large-scale FELs",
+      "authors": [
+        "R.B. Wilcox",
+        "J.M. Byrd",
+        "L.R. Doolittle",
+        "G. Huang",
+        "LBNL",
+        "Berkeley",
+        "California",
+        "USA",
+        "J.C. Frisch",
+        "A.R. Fry",
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "Current and planned X-ray FELs produce pulses with sub-10fs duration",
+        "requiring comparable timing stability to enable pump/probe experiments. We describe methods of achieving stability on this time scale",
+        "for FEL facilities hundreds of meters long. Our approach is based on CW and amplitude modulated optical signals delivered over fiber to pulsed lasers. A comprehensive design approach includes control of modelocked laser oscillators",
+        "amplifiers",
+        "propagation paths",
+        "arrival time diagnostics and finally cross-correlation between pump and probe signals at the experiment. Design options depend on global FEL parameters such as repetition rate. We show that current laser technology is capable of supporting performance at the few-femtosecond level using these techniques. High precision is achieved by leveraging recently developed",
+        "frequency stable spectroscopic lasers and optical clocks",
+        "as well as the mature field of fiber interferometry. Current experimental results using pulsed and CW lasers are described."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/FEL2012/talks/thoai01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/FEL2012/papers/thoai01.pdf",
+      "poster_url": "https://proceedings.jacow.org/FEL2012/posters/thoai01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-FEL2012-THOAI01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 17:35:28"
+}

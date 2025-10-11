@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2013 - Table of Session: WEOBB2 (Contributed Oral Presentations (Beam Instrumentation and Feedback))
+
+
+WEOBB2 —  Contributed Oral Presentations (Beam Instrumentation and Feedback)   (15-May-13   11:30—12:30)
+Chair: S. Guiducci, INFN/LNF, Frascati (Roma), Italy
+
+
+Paper
+Title
+Page
+
+
+
+WEOBB201
+Commissioning of the X-band Transverse Deflector for Femtosecond Electron/X-Ray pulse Length Measurements at LCLS
+2091
+
+
+ 
+
+Y.T. Ding, C. Behrens, J.C. Frisch, Z. Huang, P. Krejcik, J.R. Lewandowski, H. Loos, J.W. Wang, M.-H. Wang, J.J. Welch
+                       SLAC, Menlo Park, California, USA
+C. Behrens
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+X-ray free-electron lasers provide ultrashort x-ray pulses from several to a few hundred femtoseconds for multidisciplinary users. However, tremendous challenges remain in the measurement and control of these ultrashort pulses with femtosecond precision, for both the electron beam and the x-ray pulses. A new diagnostic scheme adding a transverse radio-frequency deflector at the end of the linac coherent light source (LCLS) undulator beamline has been proposed*. Two 1-m long deflecting structures have been installed at LCLS during the summer of 2012. Installation of the high power RF components including the klystron, waveguide, RF controls etc. is proceeding and commissioning is scheduled for March 2013. We report the latest progress of the commissioning of the deflector at LCLS.
+* Y. Ding et al., Phys. Rev. ST Accel. Beams 14, 120701 (2011)
+
+ 
+
+
+
+
+
+
+Slides WEOBB201 [4.199 MB]
+            
+ 
+
+
+ 
+
+
+
+WEOBB202
+Ultra-fast Data Acquisition System for Coherent Synchrotron Radiation Based on Superconducting Terahertz Detectors
+2094
+
+
+ 
+
+C.M. Caselle, M. Hofherr, K.S. Ilin, V. Judin, A. Kopmann, A. Menshikov, A.-S. Müller, M. Siegel, N.J. Smale, P. Thoma, M. Weber, S. Wuensch
+                       KIT, Eggenstein-Leopoldshafen, Germany
+B.M. Balzer, S. Cilingaryan
+                       Karlsruhe Institute of Technology, Eggenstein-Leopoldshafen, Germany
+
+ 
+
+
+ 
+
+The ANKA synchrotron radiation source located at the Karlsruhe Institute of Technology in Germany operates in the energy range between 0.5-2.5GeV and provides coherent synchrotron radiation. To resolve the ultra-short terahertz pulses emitted by a single bunch, thin YBCO superconducting film detectors have been developed. A response time of 45ps was determined as the FWHM at the output of the analog amplifier. A novel and high accuracy data acquisition architecture for sampling of the individual ultra-short terahertz pulses combined with real-time data processing based on GPUs for coherent synchrotron radiation is presented. The digitizer board is a made-in-house board designed for sampling of the fast pulse signals with pulse width between few tens of picosecond until 100ps. For each terahertz pulse five samples are acquired with a minimum sampling time of 3ps. A prototype setup with terahertz YBCO detectors, digitizer boards and the high-throughput FPGA framework has been successfully developed and tested at ANKA. The overview of the experimental setup including the YBCO detector technology and the preliminary results with single and multi-bunch filling pattern will be discussed.
+
+ 
+
+
+
+
+
+
+Slides WEOBB202 [2.416 MB]
+            
+ 
+
+
+ 
+
+
+
+WEOBB203
+Design of Phase Feed Forward System in CTF3 and Performance of Fast Beam Phase Monitors
+2097
+
+
+ 
+
+P. Skowroński, A. Andersson, A. Gerbershagen, E. Ikarios, J. Roberts
+                       CERN, Geneva, Switzerland
+P. Burrows, G.B. Christian, A. Gerbershagen, C. Perry, J. Roberts
+                       JAI, Oxford, United Kingdom
+P. Burrows, G.B. Christian, A. Gerbershagen, C. Perry
+                       Oxford University, Physics Department, Oxford, Oxon, United Kingdom
+A. Ghigo, F. Marcellini
+                       INFN/LNF, Frascati (Roma), Italy
+E. Ikarios
+                       National Technical University of Athens, Athens, Greece
+
+ 
+
+
+ 
+
+Funding: Work supported by the European Commission under the FP7 Research Infrastructures project Eu- CARD, grant agreement no. 227579
+The CLIC two beam acceleration technology requires a drive beam phase stability of better than 0.3 deg rms at 12 GHz, corresponding to a timing stability below 50 fs rms. For this reason the CLIC design includes a phase stabilization feed-forward system. It relies on precise beam phase measurement and its subsequent correction in a chicane with help of fast kickers. A prototype of such a system is being installed in CLIC Test Facility CTF3. In this paper we describe in detail its design and implementation. Additionally, we present and discuss the performance of the precision phase monitor prototypes installed at the end of the CTF3 linac, measured with the drive beam.
+We would like to acknowledge support of G.Sensolini, A.Zolla (INFN/LNF Frascati), N.S.Chritin and J-M.Scigliuto (CERN) in design and fabrication of components.
+
+ 
+
+
+
+
+
+
+Slides WEOBB203 [6.770 MB]
+            
+ 
+
+
+ 
+
+
+
+

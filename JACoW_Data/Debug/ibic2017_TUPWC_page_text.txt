@@ -1,0 +1,393 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2017 - Table of Session: TUPWC (Tuesday Poster)
+
+
+TUPWC —  Tuesday Poster   (22-Aug-17   16:00—18:00)
+Chair: G. Kiupel, FRIB, East Lansing, Michigan, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUPWC01
+The Application of Direct RF Sampling System on Cavity BPM Signal Processing
+278
+
+
+ 
+
+L.W. Lai, F.Z. Chen, Y.B. Lengpresenter, T. Wu, L.Y. Yu, R.X. Yuan
+                       SSRF, Shanghai, People's Republic of China
+S.S. Cao, J. Chen, J. Chen, Y.B. Lengpresenter, T.J. Shen, L.Y. Yu, R.X. Yuan
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Cavity BPM signal processing system normally consists of two modules, first one is RF conditioning module to down convert the BPM signal to IF, second one is IF signal digitizer and digital signal processing module. The conditioning module complicates the system and introduce noise. A direct RF sampling system has been constructed to process the cavity BPM signal, which structure is more concise and performance is more stable compared to the conventional system. The platform and test results will be introduced in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPWC01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPWC02
+Three-Dimensional Bunch-by-Bunch Position Measurement at SSRF
+281
+
+
+ 
+
+Y.M. Zhou, N. Zhang
+                       SSRF, Shanghai, People's Republic of China
+L.W. Duan, Y.B. Leng
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Measurement of the bunch-by-bunch particle beam position related to dynamic instability is a useful input to accelerator optimization. And the bunch-by-bunch information has been contained in the BPM signals, including bunch charge, transverse position and longitudinal phase information. This paper reports a 3D beam position monitor system based on a high speed digital oscilloscope, which has been used to capture three-dimensional position information during the injection transient at the Shanghai Synchrotron Radiation Facility. With this information the traces of stored bunch and refilled bunch, and the mismatch of energy, transverse position and longitudinal phase between them can be precisely retrieved. The progress of this work and several particular experimental results will be discussed in this paper. The details of data processing method so-called software re-sampling technique will be discussed as well.
+
+ 
+
+
+
+
+
+
+Poster TUPWC02 [0.924 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPWC02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPWC03
+Design of A New Type of Beam Charge Monitor Based on Bunch by Bunch DAQ System
+284
+
+
+ 
+
+F.Z. Chen, L.W. Lai, Y.B. Leng
+                       SSRF, Shanghai, People's Republic of China
+Y.B. Yan
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Beam current is one of the fundamental parameters to be measured in storage ring. The Shanghai Synchrotron Radiation Facility (SSRF), a third generation light source with the RF frequency of 499.68MHz, used adopt com-mercial product to monitor beam charge. However, the maintain and upgrade is not always straightforward. Thus, a new type of beam charge monitor (BCM) based on beam positon monitor (BPM) sum signals has been de-veloped for the online beam current measurement on SSRF storage ring. This system has been convincingly validated by mathematical analysis and has been demonstrated with beam experiments during machine study time.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPWC03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPWC04
+Experimental Damping System with a Ferrite Loaded Kicker for the ISIS Proton Synchrotron
+287
+
+
+ 
+
+A. Pertica, D.W. Posthuma de Boer
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+The ISIS Neutron and Muon Source, located in the UK, consists of a H− linear accelerator, a rapid cycling proton synchrotron and extraction lines connecting two target stations. Transverse beam instabilities are one the major factors limiting the intensity of the proton beam. In order to mitigate these instabilities, an experimental damping system is being developed for the ISIS synchrotron. This system uses a split electrode BPM as a pickup and a ferrite loaded kicker as a damper. This kicker is ordinarily used to excite the beam with a fast rise time pulse for tune measurements. This paper describes the utilization of this device within a fast feedback system, using the continuous waveform provided by a split electrode BPM which is processed by an FPGA board.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPWC04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPWC05
+New RF Feedback System and Simulations for Suppression of Coupled-Bunch Instabilities at SuperKEKB
+292
+
+
+ 
+
+K. Hirosawa
+                       Sokendai, Ibaraki, Japan
+K. Akai, E. Ezura, T. Kobayashi, K. Nakanishi, M. Nishiwaki, S.I. Yoshimoto
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+SuperKEKB, which is an upgrade of KEKB, is an asymmetrical energy electron positron circular collider located at KEK in Japan. The design currents are 2.6 A (electron) and 3.6 A (positron) in order to achieve the unprecedented high luminosity. Coupled-Bunch Instabilities (CBI) caused by accelerating mode will become serious by large beam current, and then we can no longer keep synchrotron oscillation stable by using an existing KEKB RF system and CBI damper, which can suppress only lowest (m = -1) mode. Therefore we developed a new damper for higher order modes of CBI (m = -2, -3). Characteristics of the new damper were evaluated and the result satisfies our required specifications. As an estimation of the feedback performance for the SuperKEKB operation, we simulated the beam oscillation damping/exciting process with CBI damper. It was found from these result that we need more dampers to suppress the m = -1 mode instability of CBI in addition to KEKB system, since growth rate of the m = -1 mode will be ten times higher than that of KEKB. We will report the detail of an RF feedback system used new dampers and results of time domain simulations of a longitudinal bunch oscillation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPWC05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPWC06
+Development of  Kicker for Transverse Feedback System in BEPCⅡ
+295
+
+
+ 
+
+J.S. Zhou. Zhou, J.S. Cao, Y.F. Sui, J.H. Yue, J.X. Zhao
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+This paper introduces the necessary design parameters of transverse feedback system. Meanwhile, it mainly contains the design of stripline as feedback system kicker. The transverse kicker has 4 striplines, so that it can work in vertical and horizontal area. In the experiment, the shunt impedance is 1500 Ω which is simulated by HFSS and the system only need 120W to suppress the coupled beam bunch instabilities. According to the results of parameter S (1, 1) and S (2, 1), power loss and reflection is convenient. Recently, the prototype is calibrated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPWC06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPWC08
+The Cold Beam Position Monitors for the C-ADS Injector I Proton Linac
+298
+
+
+ 
+
+Y.F. Sui, J.S. Cao, H.Z. Ma, Q. Ye, L. Yu, J.H. Yuepresenter
+                       IHEP, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Work supported by China ADS Project (XDA03020000) and the National Natural Science Foundation of China (NO. 11205172, NO. 11475204)
+The injector I of China Accelerator Driven Subcritical system (C-ADS), which is composed of an ECR ion source, a low energy beam transport line (LEBT), a radio frequency quadrupole accelerator (RFQ), a medium energy beam transport line (MEBT) and cryomodules with SRF cavities to boost the beam energy up to 10 MeV. The injector linac is equipped with beam diagnostics. Cold beam position monitor(BPM) is one of instrumentations of the injector. This paper describes the design and fabrication of the cold BPM pick-ups, and also the application of the BPM in commissioning of SRF cavities. Discussion of the promotion and other aspect will also be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPWC08
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPWC09
+Reducing Current Dependence in Position Measurements of BPM Systems by Using Pilot Tone: Quasi-Constant Power Approach
+301
+
+
+ 
+
+G. Brajnik, S. Bassanese, G. Cautero, R. De Monte, M. Ferianispresenter
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+G. Rehm
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+In BPM systems, the dependence of measured position on beam current is a well-known behaviour due to many factors. Measurements were carried out at Diamond Light Source with the pilot-tone compensated RF front end developed at Elettra and they evidenced a strong link between that issue and the integral non-linearity (INL) of the ADCs. A potential way to reduce this dependence is to change the gain of the preamplifiers following the beam current variation, trying to coerce the ADC into working as close as possible to a specific level. In this paper, along with the results of the tests performed at Diamond, which confirm once again the effectiveness of the front end and of the compensation strategy, an alternative technique is proposed to mitigate the current dependence by using the pilot tone itself. The idea is to maintain constant the total amplitude at the input of the ADCs, which is composed of the signal from the beam plus the pilot tone. Our data demonstrate how, by changing the latter in a convenient way during the current variations, we can achieve a reduction of the dependence by a factor of 10 considering an equivalent current ramp from 10 to 300 mA.
+
+ 
+
+
+
+
+
+
+Poster TUPWC09 [1.450 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPWC09
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,751 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2019 - Table of Session: TUPLS (Tuesday Poster Session-Lake Superior)
+
+
+TUPLS —  Tuesday Poster Session-Lake Superior   (03-Sep-19   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPLS02
+APS Upgrade Insertion Device Vacuum Chamber Design
+450
+
+
+ 
+
+J.E. Lerch, T.J. Bender, O.K. Mulvany, M.E. Szubert
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+A straight section vacuum system (nominally 5.363 meters long) has been designed for the APS upgrade project. This vacuum system will be used in straight sections equipped with hybrid permanent magnet undulators (HPMU). The vacuum system assembly consists of the insertion device vacuum chamber (IDVC), the vacuum chamber distributed support, and the photon absorber. Numerous functional requirements constrained the IDVC design. These constraints included incorporation of the beam aperture transition into the end of the aluminium vacuum chamber extrusion (storage ring aperture to IDVC aperture), thin walls (~600 microns) surrounding the beam aperture to allow for as small a magnetic gap as possible, and complicated weld paths to ensure a continuous beam surface to minimize impedance. Additionally, extensive FEA and raytrace analysis were performed to ensure that the chamber would not fail due to structural or thermal perturbations.
+
+ 
+
+
+
+
+
+
+Poster TUPLS02 [3.816 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS02
+
+ 
+
+
+About •
+paper received ※ 26 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS03
+Advanced Photon Source Upgrade
+453
+
+
+ 
+
+M.E. Szubert, E.R. Anliker, T.J. Bender, J.E. Lerch
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+The Advanced Photon Source Upgrade (APS-U) in-cludes four straight sections equipped with full length Superconducting Undulators (SCUs). These sections require vacuum systems that must span 5.383 meters at nominal length, accommodate the SCU device, and ac-commodate additional magnets for the canted configura-tions. In the direction of the beam, the upstream portion of the vacuum system is a copper chamber doubling as a photon absorber with a design that is manufactured to allow a 13.5 mm canting magnet gap. This portion of the vacuum system operates at room temperature and shad-ows the length of the vacuum chamber that operates within the cryostat at 20K. The vacuum chamber inside the cryostat is a weldment including a machined alumi-num extrusion allowing for an 8mm magnetic gap, stain-less steel thermal insulators, copper shields, and bel-lows/flange assembly. The vacuum system includes an-other room temperature copper chamber and absorber on the downstream end of the straight section. The vacuum system provides Ultra-high Vacuum (UHV) continuity through the straight section, connecting the storage ring vacuum systems.
+
+ 
+
+
+
+
+
+
+Poster TUPLS03 [0.974 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS03
+
+ 
+
+
+About •
+paper received ※ 26 August 2019       paper accepted ※ 13 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS04
+Re-Evaluation of the NSLS-II Active Interlock Window
+456
+
+
+ 
+
+R.P. Fliller, III, C. Hetzel, Y. Hidaka, T. Tanabe
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy
+The NSLS-II Active Interlock is the system which protects the NSLS-II Storage Ring vacuum chamber from damage due to synchrotron radiation. The Active Interlock measures the beam position and angle at all insertion devices and issues a beam dump if the beam is outside of the pre-defined window. The window is determined by thermal analysis of vacuum apertures and considers the effects of local magnets such as canting magnets, etc. Recently, it was realized that the insertion device correction coils where not considered in the initial evaluation of the envelope. The purpose of these coils is to correct for the orbit deviations caused by imperfections in the insertion devices that steer the beam. The usual effect is to negate any angle induced by the device, however, if the coil is not set properly the beam may have a larger angle than permitted by the Active Interlock even though the angle calculation does not show it. In this paper we discuss the effect of the insertion device coils on the electron beam and the steps taken to account for this effect in the Active Interlock.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS04
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 16 November 2020        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS05
+High-Level Physics Application for the Emittance Measurement by Allison Scanner
+459
+
+
+ 
+
+T. Zhang, S.M. Lund, T. Maruta
+                       FRIB, East Lansing, Michigan, USA
+C.Y. Wong
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DESC0000661
+On the ion accelerator, transverse emittance diagnostics usually happens at the low-energy transportation region, one device named "Allison Scanner" is commonly used to achieve this goal. In this contribution, we present the software development for both the high-level GUI application and the online data analysis, to help the users to get the beam transverse emittance information as precise and efficient as possible, meanwhile, the entire workflow including the UI interaction would be smooth and friendly enough. One soft-IOC application has been created for the device simulation and application development. A dedicated 2D image data visualization widget is also introduced for general-purposed PyQt GUI development.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS05
+
+ 
+
+
+About •
+paper received ※ 26 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS07
+Helical Transmission Line Test Stand for Non-Relativistic BPM Calibration
+463
+
+
+SUPLO05
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C.J. Richard
+                       NSCL, East Lansing, Michigan, USA
+S.M. Lidia
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Measurements of non-relativistic beams by coupling to the fields are affected by the properties of the non-relativistic fields. The authors propose calibrating for these effects with a test stand using a helical line which can propagate pulses at low velocities. Presented are simulations of a helical transmission line for such a test stand which propagates pulses at 0.033c. A description of the helix geometry used to reduce dispersion is given as well as the geometry of the input network.
+
+ 
+
+
+
+
+
+
+Poster TUPLS07 [3.469 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS07
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS08
+Analysis of Allison Scanner Phase Portraits Using Action-Phase Coordinates
+467
+
+
+SUPLO06
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C.J. Richard
+                       NSCL, East Lansing, Michigan, USA
+J.-P. Carneiro, L.R. Prost, A.V. Shemyakin
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Allison scanners provide detailed information on the beam transverse phase space. An effective way for analyzing the beam distribution from these measurements is to use action-phase coordinates, where beam propagation in a linear lattice is reduced to advancing the phase. This report presents such analysis for measurements performed with a 2.1 MeV, 5 mA H− beam in the MEBT of the PIP2IT test accelerator at Fermilab. In part, with the choice of calculating the Twiss parameters over the high intensity portion of the beam, the beam core is found to be phase-independent with intensity decreasing exponentially with action, while the beam tails exhibit a clear phase dependence that is stable over the beam line.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS08
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS09
+Precision Insertion Device Control and Simultaneous Monochromator Fly Scanning for NSLS-II
+471
+
+
+ 
+
+D.A. Hidas, P.L. Cappadoro, T.M. Corwin, J. Escallier, A. Hunt, M. Musardo, J. Rank, C. Rhein, J. Sinsheimer, T. Tanabe, I. Waluyo
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Department of Energy Office of Science DE-SC0012704
+Beginning in January of 2019, 8 of the 10 In-Vacuum Undulators installed in the NSLS-II storage ring underwent in-house in-situ control system upgrades allowing for control of the magnetic gap during motion down to the 50 nanometer level with an in-position accuracy of nearly 5 nanometers. Direct linking of Insertion Devices and beamline monochromators is achieved via a fiber interface allowing precise, simultaneous, nonlinear motion of both devices and providing a fast hardware trigger for real-time accurate insertion device and monochromator fly scanning. This presentation will detail the accuracy of motion and its effect on the produced spectra as well as the variation of flux when both insertion device and monochromator are in simultaneous motion.
+
+ 
+
+
+
+
+
+
+Poster TUPLS09 [0.668 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS09
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 01 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS10
+Troubleshooting and Characterization of Gridded Thermionic Electron Gun
+474
+
+
+ 
+
+M.S. Stefani
+                       ODU, Norfolk, Virginia, USA
+F.E. Hannon
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Jefferson National Laboratory has, in collaboration with Xelera research group, designed and built a gridded thermionic election gun with the potential for magnetization; in an effort to support research towards electron sources that may be utilized for the electron cooling process in the Jefferson Laboratories Electron Ion collider design. Presented here is the process and result of troubleshooting the electron gun components and operation to ensure functionality of the design.
+
+ 
+
+
+
+
+
+
+Poster TUPLS10 [10.691 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS10
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 13 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS11
+NEG-Coated Copper Vacuum Chambers for the APS-Upgrade Storage Ring Vacuum System
+477
+
+
+ 
+
+O.K. Mulvany, B. Billett, B. Brajuskovic, J.A. Carter, A. McElderry, K.J. Wakefield
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Argonne National Laboratory’s work was supported by the U.S. Department of Energy, Office of Science under contract DE-AC02-06CH11357.
+The APS-Upgrade (APS-U) storage ring features a diverse group of vacuum chambers including seven distinctive, non-evaporable getter (NEG)-coated copper vacuum chambers per each of the 40 sectors. These chambers feature a 22-millimeter diameter aperture along the electron-beam path, with two vacuum chambers permitting photon extraction through a keyhole-shaped extension to this aperture. The chambers range from 0.3-meters to 1.7-meters in length and fit within the narrow envelope of quadrupole and sextupole magnets. Six of the seven copper vacuum chambers intercept significant heat loads from synchrotron radiation; five of these designs are fabricated entirely from OFS copper extrusions and are equipped with a compact Glidcop® photon absorber. A hybrid vacuum chamber, fabricated from OFS copper extrusion and a copper chromium zirconium (CuCrZr) keyhole transition, also intercepts synchrotron radiation. The seventh vacuum chamber design features a keyhole aperture across its length and is entirely fabricated from CuCrZr. This paper details the careful balance of vacuum chamber functionality, manufacturability, and the overall design process followed to achieve the final designs.
+
+ 
+
+
+
+
+
+
+Poster TUPLS11 [4.941 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS11
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 02 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS12
+Final Design of NEG-Coated Aluminum Vacuum Chambers & Stainless Steel Keyhole Vacuum Chambers for the APS-U Storage Ring
+480
+
+
+ 
+
+A. McElderry, B. Billett, J.A. Carter, K.J. Wakefield
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Argonne National Laboratory’s work was supported by the U.S. Department of Energy, Office of Science under contract DE-AC02-06CH11357.
+The APS-Upgrade storage ring features a diverse group of vacuum chambers which includes eight NEG (non-evaporable getter) coated aluminum chambers and two copper coated stainless steel keyhole-shaped chambers per sector (40 total). Each chamber contains a 22 mm diameter electron beam aperture; the keyhole chambers also include a photon extraction antechamber. The chambers vary in length of approximately 289 ’ 792 mm and fit within the narrow envelope of quadrupole and sextupole magnets. Each design is a balance of functionality, manufacturability, and installation space. An innovative CAD skeleton model system and ray tracing layout accurately determined synchrotron radiation heat loads on built-in photon absorbers and the internal envelope of the keyhole antechamber. Chamber designs were optimized using thermal-structural FEA for operating and bakeout conditions. The group of chambers require complex manufacturing processes including EDM, explosion-bonded metals, furnace brazing, and welding with minimal space. This paper describes the design process and manufacturing plan for these vacuum chambers including details about FEA, fabrication plans, and cooling/bakeout strategies.
+
+ 
+
+
+
+
+
+
+Poster TUPLS12 [2.581 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS12
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 02 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS13
+Evaluation of the Xilinx RFSoC for Accelerator Applications
+483
+
+
+ 
+
+J.E. Dusatko
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+As electronic technology has evolved, accelerator system functions (e.g. beam instrumentation, RF cavity field control, etc.) are increasingly performed in the digital domain by sampling, digitizing, processing digitally, and converting back to the analog domain as needed. A typical system utilizes analog to digital (ADC) and digital to analog (DAC) converters with intervening digital logic in a field programmable gate array (FPGA) for digital processing. For applications (BPMs, LLRF, etc.) requiring very high bandwidths and sampling rates, the design of the electronics is challenging. Silicon technology has advanced to the state where the ADC and DAC can be implemented into the same device as the FPGA. Xilinx, Inc. has released a muti-GHz sample rate RF System on Chip (RFSoC) device. It presents many advantages for implementing accelerator and particle detector systems. Because direct conversion is possible, RF analog front/back end and overall system design is simplified. This paper presents the results of an evaluation study of the RFSoC device for accelerator and detector work, including test results. It then discusses possible applications and work done at SLAC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS13
+
+ 
+
+
+About •
+paper received ※ 30 August 2019       paper accepted ※ 02 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS14
+Analyzing Accelerator Operation Data with Neural Networks
+487
+
+
+ 
+
+F.Y. Wang, X. Huang, Z. Zhangpresenter
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work is supported by DOE contract DE-AC02-76SF00515 (SLAC) and DOE contracts 2018-SLAC-100469 and 2018-SLAC-100469ASCR.
+Accelerator operation history data are used to train neural networks in an attempt to understand the underly-ing causes of performance drifts. In the study, injection efficiency of SPEAR3 [1] over two runs is modelled with a neural network (NN) to map the relationship of the injection efficiency with the injected beam trajectory and environment variables. The NN model can accurately predict the injection performance for the test data. With the model, we discovered that an environment parameter, the ground temperature, has a big impact to the injection performance. The ideal trajectory as a function of the ground temperature can be extracted from the model. The method has the potential for even larger scale application for the discovery of deep connections between machine performance and environment parameters.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS14
+
+ 
+
+
+About •
+paper received ※ 29 August 2019       paper accepted ※ 06 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLS15
+Design and Analysis of a Halo-Measurement Diagnostics
+ 
+
+
+SUPLS10
+  use link to access more material from this paper's primary paper code
+ 
+
+
+TUYBB5
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.J. Marshall, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+S.V. Benson, J. Gubeli
+                       JLab, Newport News, Virginia, USA
+P. Piot, J. Ruan
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear physics under contract DE-AC05-06OR23177 and DE-AC02-07CH11359.
+A large dynamical-range diagnostics (LDRD) design at Jefferson Lab will be used at the FAST-IOTA injector to measure the transverse distribution of halo associated with a high-charge electron beam. One important aspect of this work is to explore the halo distribution when the beam has significant angular momentum (i.e. is magnetized). The beam distribution is measured by recording radiation produced as the beam impinges a YAG:Ce screen. The optical radiation is split with a fraction directed to a charged-couple device (CCD) camera. The other part of the radiation is reflected by a digital micromirror device (DMD) that masks the core of the beam distribution. Combining the images recorded by the two cameras provides a measurement of the transverse distribution with over a large dynamical range. The design and analysis of the optical system will be discussed including optical simulation using SRW and the result of a mockup experiment to test the performances of the system will be presented.
+
+ 
+
+
+
+
+
+
+Slides TUYBB5 [3.013 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB5
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 13 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

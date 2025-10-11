@@ -1,0 +1,98 @@
+{
+  "session_info": {
+    "id": "TUSH1",
+    "name": "TUSH1 - Speakers' Corner",
+    "url": "https://proceedings.jacow.org/icalepcs2017/html/tush1.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUSH101",
+      "title": "Creating Interactive Web Pages for Non-Programmers",
+      "authors": [
+        "T. D'Ottavio",
+        "P.S. Dyer",
+        "G.J. Marr",
+        "S. Nemesure",
+        "BNL",
+        "Upton",
+        "Long Island",
+        "New York",
+        "USA",
+        "This paper describes a new web page creation system that allows web developers with limited programming experience to create interactive displays of control system data. Web pages can be created that display live control system data that updates in real-time",
+        "as well as data stored within our logging/archiving and database systems. Graphical",
+        "tabular",
+        "and textual displays are supported as well as standard interaction techniques via buttons",
+        "menus and tabs. The developer creates a web page using a custom web page builder. The builder presents a web page as a user-defined grid of tiled cells. The developer chooses the display style of each cell from a list of available cell types",
+        "then customizes its data content. Final polish can be applied using HTML and CSS. Specialized tools are available for creating mobile displays. This paper shows examples of the web pages created",
+        "and provides a summary of the experience of both the web developers and users."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2017/talks/tush101_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2017/papers/tush101.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2017/posters/tush101_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2017-TUSH101",
+      "page_number": "976",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": true
+    },
+    {
+      "paper_id": "TUSH102",
+      "title": "PShell: from SLS beamlines to the SwissFEL control room",
+      "authors": [
+        "A. Gobbo",
+        "S.G. Ebner",
+        "PSI",
+        "Villigen PSI",
+        "Switzerland",
+        "PShell is an in-house developed scripting environment in use at PSI since 2014. Started as a beamline data acquisition tool at SLS",
+        "PShell is being used by different SwissFEL groups for the commissioning and operation of the SwissFEL machine. New features were added to meet new requirements",
+        "such as supporting beam synchronous data and streamed cameras. Besides providing a workbench for developing data acquisition logic",
+        "PShell also offers a convenient way to create user interfaces/panels that can easily trigger the execution of logic. To improve user experience and to simplify operation tools these panels can also be launched and used as standalone applications."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2017/talks/tush102_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2017/papers/tush102.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2017/posters/tush102_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2017-TUSH102",
+      "page_number": "979",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": true
+    },
+    {
+      "paper_id": "TUSH103",
+      "title": "Web and Multi-Platform Mobile App at Elettra",
+      "authors": [
+        "L. Zambon",
+        "A.I. Bogani",
+        "S. Cleva",
+        "E. Coghetto",
+        "F. Lauro",
+        "Elettra-Sincrotrone Trieste S.C.p.A.",
+        "Basovizza",
+        "Italy",
+        "University of Trieste",
+        "Trieste",
+        "Italy",
+        "A few apps have been recently developed at Elettra Sincrotrone Trieste. The main requirements are the compatibility with the main mobile device platforms and with the web",
+        "as well as the \"mobile-first\" user interface approach. We abandoned the possibility of developing native apps for the main mobile OSs. There are plenty of libraries and frameworks for the development of modern cross platform web/mobile applications. In this scenario the choice of a particular set of libraries is crucial. In this paper we will discuss the motivation of our choice trying to compare it with the other possibilities in regard to our particular use cases",
+        "as well as the first applications developed."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2017/talks/tush103_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2017/papers/tush103.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2017/posters/tush103_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2017-TUSH103",
+      "page_number": "984",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": true
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 18:17:05"
+}

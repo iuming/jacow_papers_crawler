@@ -1,0 +1,304 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINAC2022 - Table of Session: THPORI (Poster Session)
+
+
+THPORI —  Poster Session   (01-Sep-22   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPORI02
+Machine Learning for Beam Orbit Correction at KOMAC Accelerator
+848
+
+
+ 
+
+D.-H. Kim, J.J. Dang, H.S. Kim, H.-J. Kwon, S. Lee, S.P. Yun
+                       KOMAC, KAERI, Gyeongju, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work has been supported through KOMAC op-eration fund of KAERI by Ministry of Science and ICT, the Korean government (KAERI ID no. : 524320-22)
+There are approaches to apply machine learning (ML) techniques to efficiently operate and optimize particle accelerators. Deep neural networks-based model is applied to experiments, correcting beam orbit through the low energy beam transport at the proton injector test stand. For more complex applications, time-series analysis model is studied to predict beam orbit in the 100-MeV beamline at KOMAC. This paper describes experimental data to train neural networks model, and presents the performance of the machine learning models.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-THPORI02
+
+ 
+
+
+About •
+Received ※ 25 August 2022 — Revised ※ 01 September 2022 — Accepted ※ 08 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPORI09
+Design and Optimization of a 1.3 GHz Gridded Thermionic Electron Gun for High-Intensity Compact Superconducting Electron Accelerator (HICSEA)
+851
+
+
+SUPCGE05
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A.B. Kavar, A. Pathak, R. Varma
+                       IIT Mumbai, Mumbai, India
+
+ 
+
+
+ 
+
+The design and optimization of the proposed 1.3 GHz gridded thermionic electron gun aims to drive a conduction cooled superconducting electron accelerator that will be used to treat contaminants of emerging concern in water bodies. The gun geometry is Pierce-type and optimized for beam current of 1A with LaB6 as cathode material at cathode potential of -100 kV. The final optimized cathode radius and angle of inclination of the focusing electrode are found to be 1.5 mm, and 77 degree respectively. For an emittance compensation electrode, the optimized values for thickness and potential are 2 mm and -50 kV respectively, and separation between cathode and compensator is 8 mm. Beam dynamics calculations have been performed with self-developed particle tracking code that assumes space charge interactions and imported fields. The beam dynamics simulations show that with an initial bunch length of 50 ps having a bunch charge of 5 pC, the bunch length of the bunch reduces to 33 ps. The diameter, transverse and longitudinal emittance obtained are 2.8 mm, 1 mm-mrad and 5 mm-mrad respectively.
+
+ 
+
+
+
+
+
+
+Poster THPORI09 [1.238 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-THPORI09
+
+ 
+
+
+About •
+Received ※ 11 August 2022 — Revised ※ 14 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 16 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPORI15
+Operation of the CLARA Linear Accelerator with 2.5 Cell 10 Hz Photocathode Gun with Interchangeable Photocathodes
+854
+
+
+ 
+
+B.L. Militsyn, D. Angal-Kalinin, A.R. Bainbridge, L.S. Cowie, A.J. Gilfellon, F. Jackson, N.Y. Joshi, K.J. Middleman, K.T. Morrow, T.C.Q. Noakes, M.D. Roper, R. Valizadeh, D.A. Walsh
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+R.J. Cash, B.D. Fell, T.J. Jones, A.J. Vick
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+During commissioning and operation run in 2021-2022 the photoinjector of the CLARA-VELA facility a 2.5 cell cavity S-band photocathode gun originally developed for the APEX experiment was used. The copper back wall of the cavity also served as the gun photocathode. In order to reduce significant time required for replacement and/or reactivation of the photocathode and improve the flexibility of the injector the gun has been upgraded for operation with DESY/INFN style interchangeable photocathodes. This upgrade included a new design of the cavity back wall to accommodate the photocathode socket and equipping the gun with a load-lock system. Modification of the gun also required replacement of the bucking coil, which zeros field in the photocathode emission plane. After the upgrade, the gun was commissioned and then operated with a hybrid Cu/Mo photocathode during the last two years. During winter-spring 2022 experimental run the gun steadily operated with a cathode field of 60 MV/m, limited by the RF power available and with an off-centre diamond turned photocathode which delivered stable bunches with a charge of 100 pC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-THPORI15
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 08 September 2022 — Accepted ※ 12 September 2022 — Issue date ※ 15 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPORI16
+Machine Learning for RF Breakdown Detection at CLARA
+858
+
+
+ 
+
+A.E. Pollard, D.J. Dunning, A.J. Gilfellon
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Maximising the accelerating gradient of RF structures is fundamental to improving accelerator facility performance and cost-effectiveness. Structures must be subjected to a conditioning process before operational use, in which the gradient is gradually increased up to the operating value. A limiting effect during this process is breakdown or vacuum arcing, which can cause damage that limits the ultimate operating gradient. Techniques to efficiently condition the cavities while minimising the number of breakdowns are therefore important. In this paper, machine learning techniques are applied to detect breakdown events in RF pulse traces by approaching the problem as anomaly detection, using a variational autoencoder. This process detects deviations from normal operation and classifies them with near perfect accuracy. Offline data from various sources has been used to develop the techniques, which we aim to test at the CLARA facility at Daresbury Laboratory. Deployment of the machine learning system on the high repetition rate gun upgrade at CLARA has begun.
+
+ 
+
+
+
+
+
+
+Poster THPORI16 [2.099 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-THPORI16
+
+ 
+
+
+About •
+Received ※ 22 August 2022 — Revised ※ 30 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 15 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPORI19
+HSMDIS Performance on the ESS Ion Source
+863
+
+
+THOPA10
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+L. Neri, G. Castro, L. Celona, S. Gammino, O. Leonardi, A. Miraglia
+                       INFN/LNS, Catania, Italy
+C. Baltador, L. Bellan, M. Comunian, F. Grespan
+                       INFN/LNL, Legnaro (PD), Italy
+B. Jones, E. Laface, R. Miyamoto, A.G. Sosa
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The ESS ion source, developed at INFN-LNS and installed at the ESS facility, is fully working and in operation for the linac beam commissioning. The commissioning of the source was done in Catania and in Lund showing high reproducibility related to the beam diagnostic parameters that can be measured with the subset of equipment currently available in Lund. The analysis of the data collected during the commissioning in Catania discloses the possibility to use a new source configuration named High Stability Microwave Discharge Ion Source (HSMDIS), able to improve beam stability and lower the beam emittance. This paper shows the capability to increase the beam current intensity, with preserving beam stability, by changing only the microwave power. Linearity was tested from 10 to 120 mA to be able to provide the lower values needed for the different phases of the accelerator commissioning and higher values for future accelerator development. The source stability is evaluated through intra-pulse stability and pulse-to-pulse stability.
+Reference: L. Neri, L. Celona "High stability microwave discharge ion sources" Sci Rep 12, 3064 (2022). https://doi.org/10.1038/s41598-022-06937-7
+
+ 
+
+
+
+
+
+
+Slides THPORI19 [37.408 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-THPORI19
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 29 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 16 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

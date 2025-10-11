@@ -1,0 +1,51 @@
+{
+  "session_info": {
+    "id": "THKA",
+    "name": "THKA - Keynote Talk: Toward high precision position control using laser interferometry",
+    "url": "https://proceedings.jacow.org/medsi2018/html/thka.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THKA01",
+      "title": "Toward High Precision Position Control Using Laser Interferometry: Main Sources of Errors",
+      "authors": [
+        "LNE",
+        "Trappes Cedex",
+        "France",
+        "When designing or sizing a high precision positioning system using homodyne laser interferometry or when evaluating a measurement uncertainty of an already designed system",
+        "many error sources which can degrade the measurement precision have to be taken into account. Some errors originate from : -the mechanical and electronical integration of the interferometer (mechanical drift",
+        "dead path error",
+        "resolution limit",
+        "noise level",
+        "interpolation",
+        "cosine error",
+        "…) -the environment in which the instrument is installed (mechanical vibration",
+        "drift of environmental parameters like pressure",
+        "temperature",
+        "hygrometry",
+        "Edlen correction",
+        "air turbulence)",
+        "-the optical components (mirror shape and roughness",
+        "orthogonality error)",
+        "-intrinsic errors linked to the principles of interferometry (vacuum wavelength calibration of the laser source used",
+        "wavelength stability",
+        "calibration of environment sensor used for Edlen correction",
+        "beam profile quality",
+        "…) -… The given presentation will review the main errors sources",
+        "quantify and classify them by order of importance and establish the principle rules to achieve nanometer range precision when measuring displacements by interferometry."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/medsi2018/talks/thka01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/medsi2018/papers/thka01.pdf",
+      "poster_url": "https://proceedings.jacow.org/medsi2018/posters/thka01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-MEDSI2018-THKA01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 23:43:46"
+}

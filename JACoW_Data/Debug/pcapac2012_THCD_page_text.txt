@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: THCD (Software and Hardware Technology & Data Integrity and Security)
+
+
+THCD —  Software and Hardware Technology & Data Integrity and Security   (06-Dec-12   15:45—16:30)
+Chair: R. Baer, GSI, Darmstadt, Germany
+
+
+Paper
+Title
+Page
+
+
+
+THCD04
+Master Slave Topology Based, Remotely Operated, Precision X-ray Beam Profiler and Placement System for High Pressure Physics Experiment at Indus-2 Beam Line
+128
+
+
+ 
+
+H.S. Vora, S.K. Deb, V.K. Dubey, T. Ganguli, C.P. Navathe, P. Saxena, I. Singh, M.N. Singh, A.K. Sinha, A. Upadhyay
+                       RRCAT, Indore (M.P.), India
+C. Narayana
+                       JNCASR, Bangalore, India
+
+ 
+
+
+ 
+
+RRCAT has commissioned a beam-line on Indus-2 synchrotron facility for carrying out Angle Dispersive X-ray Diffraction Measurement. A typical high pressure measurement is carried out by placing the sample in the Diamond Anvil Cell (DAC) with the sample located in a region of beam diameter within 50-100 μm. The X-Ray beam has to pass through the DAC to ensure maximum illumination of the sample with the X-Rays. An X-Y beam scanner/locater cum placement system is developed, which scans an area of 10 x 10 mm2 with resolution of 10 to 100 μm in rough scan mode and fine scans selected area with programmable resolution of 2.5 to 25 μm. The scanner acts as slave to the PC in which master GUI grabs the data on serial port and plots the image of X-ray beam. It also analyzes and detects the coordinate with maximum intensity. Thus the DAC can be placed at the desired location with an accuracy of 2.5μm anywhere within 10 x 10 mm2, for performing experiment. Developed system takes only ~5 minutes to search the beam and a few seconds to place DAC at any the desired location within the scanned area.
+
+ 
+
+
+
+
+
+
+Slides THCD04 [1.849 MB]
+            
+ 
+
+
+ 
+
+
+
+THCD05
+A  Flexible  and Testable Software Architecture: Applying Presenter First to a Device Server for the DOOCS Accelerator Control System of the European XFEL
+131
+
+
+ 
+
+A. Beckmann, S. Karabekyan, J. Pflüger
+                       XFEL. EU, Hamburg, Germany
+
+ 
+
+
+ 
+
+Presenter First (PF) uses a variant of Model View Presenter design pattern to add implementation flexibility and to improve testability of complex event-driven applications. It has been introduced in the context of GUI applications, but can easily be adapted to server applications. This paper describes how Presenter First methodology is used to develop a device server for the Programmable Logic Controls (PLC) of the European XFEL undulator systems, which are Windows PCs running PLC software from Beckhoff. The server implements a ZeroMQ message interface to the PLC allowing the DOOCS accelerator control system of the European XFEL to exchange data with the PLC by sending messages over the network. Our challenge is to develop a well-tested device server with a flexible architecture that allows integrating the server into other accelerator control systems like EPICS.
+
+ 
+
+
+
+
+
+
+Slides THCD05 [0.590 MB]
+            
+ 
+
+
+ 
+
+
+
+THCD06
+Design  Development and Analysis of a Comprehensive Open Source System for Proactive Management of Security Aspects of a Control Network
+134
+
+
+ 
+
+S.S. Tomar, S.N. Chaudhari, H.S. Chouhan, V.K. Maurya, A. Rawat
+                       RRCAT, Indore (M.P.), India
+
+ 
+
+
+ 
+
+Control networks can only be assumed to be secure, when they work in complete isolation and all communication ports of the constituent control devices are disabled and are closely monitored for security breaches on 24X7 basis. With more and more control systems being developed using Common Out of The Shelf (COTS) computers, using windows OS, the chances of virus attacks on such control networks is extremely large. Handling zero day virus attacks or virus attacks with unknown cure, is a serious challenge for control network administrators. Another important aspect, somehow related to the security of the control network, is the rising temperatures of the control devices, because of 24X7 operation. All this is difficult to handle manually or using disconnected systems and hence there is a requirement of a comprehensive system which can do all this automatically. In this paper we will discuss the various security related parameters of the control networks and then present a simplified design followed by development details of a comprehensive open source system for proactive management of the security aspects of the control network.
+
+ 
+
+
+
+
+
+
+Slides THCD06 [3.900 MB]
+            
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,44 @@
+{
+  "session_info": {
+    "id": "THIB",
+    "name": "THIB - Control System Interoperability",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/thib.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THIB04",
+      "title": "Control System Interoperability, an Extreme Case: Merging DOOCS and TINE",
+      "authors": [
+        "P. Duval",
+        "A. Aghababyan",
+        "O. Hensler",
+        "K. Rehlich",
+        "DESY",
+        "Hamburg",
+        "Germany",
+        "In controlling large facilities one is rarely able to manage all controllable elements via a common control system framework. When the standard framework must deal with numerous 'foreign' elements it is often worthwhile to adopt a new framework",
+        "rather than 'disguising' such components with a wrapper. The DOOCS[1] and TINE[2] control system frameworks fall into this scenario. Both systems have a device server oriented view",
+        "which made early mapping attempts (~2001) immediately successful. Transparent communication",
+        "however",
+        "is but a small (albeit important) part of the control system merger currently taking place. Both systems have well-established central services (e.g. archiving and alarms)",
+        "and possess a general 'culture' which might dictate to a large extent how something is actually 'done'. The long term goal of the DOOCS/TINE merger is to be able to make use of any tool",
+        "from either the DOOCS or TINE toolbox",
+        "on any control system element. We report here on our progress to date",
+        "concentrating on the REGAE accelerator",
+        "and plans for the XFEL accelerator (to begin commissioning in 2015)."
+      ],
+      "institutions": [],
+      "abstract": "[1] http://doocs.desy.de  [2] http://tine.desy.de",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/thib04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/thib04.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/thib04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-THIB04",
+      "page_number": "115",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-11 02:09:33"
+}

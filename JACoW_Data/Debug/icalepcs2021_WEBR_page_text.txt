@@ -1,0 +1,329 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: WEBR (Functional Safety Systems for Machine Protection, Personnel Safety)
+
+
+WEBR —  Functional Safety Systems for Machine Protection, Personnel Safety   (20-Oct-21   13:15—14:30)
+Chair: K.S. White, ORNL, Oak Ridge, Tennessee, USA
+
+
+
+WEBR
+   Video of full session  »Functional Safety Systems for Machine Protection, Personnel Safety« (total time: 01:14:27 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+WEBR01
+RomLibEmu: Network Interface Stress Tests for the CERN Radiation Monitoring Electronics (CROME)
+581
+
+
+ 
+
+K. Ceesay-Seitz, H. Boukabache, M. Leveneur, D. Perrin
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN RadiatiOn Monitoring Electronics are a modular safety system for radiation monitoring that is remotely configurable through a supervisory system via a custom protocol on top of a TCP/IP connection. The configuration parameters influence the safety decisions taken by the system. An independent test library has been developed in Python in order to test the system’s reaction to misconfigurations. It is further used to stress test the application’s network interface and the robustness of the software. The library is capable of creating packets with default values, autocompleting packets according to the protocol and it allows the construction of packets from raw data. Malformed packets can be intentionally crafted and the response of the application under test is checked for protocol conformance. New test cases can be added to the test case dictionary. Each time before a new version of the communication library is released, the Python test library is used for regression testing. The current test suite consists of 251 automated test cases. Many application bugs could be found and solved, which improved the reliability and availability of the system.
+
+ 
+
+
+
+
+
+
+Slides WEBR01 [1.321 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-WEBR01
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 02 February 2022        Issue date ※ 24 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEBR02
+Towards the Optimization of the Safety Life-Cycle for Safety Instrumented Systems
+586
+
+
+ 
+
+B. Fernández Adiego, E. Blanco Viñuela, Th. Otto, R. Speroni, G. de Assis Schmidt
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The design and development of Safety Instrumented Systems (SIS) according to the IEC 61511 standard is a long and costly process. Although the standard gives recommendations and guidelines for each phase of the safety life-cycle, implementing them is not a simple task. Access to reliability data, hardware and systematic safety integrity analysis, software verification, generation of reports, guarantee of traceability between all the phases and management of the project are some of the main challenges. In addition, some of the industrial processes or test-benches of large scientific installations are in continuous evolution and changes are very common. This adds extra complexity to the management of these projects. This paper presents an analysis of the safety life-cycle workflow and discusses the biggest challenges based on our experience at CERN. It also establishes the basis for a selection of the tools for some of the safety life-cycle phases, proposes report templates and management procedures and, finally, describes the roles of the different members in our functional safety projects.
+
+ 
+
+
+
+
+
+
+Slides WEBR02 [2.603 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-WEBR02
+
+ 
+
+
+About •
+Received ※ 07 October 2021       Revised ※ 22 October 2021       
+Accepted ※ 21 December 2021        Issue date ※ 25 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEBR03
+The Fast Protection System for CSNS Accelerator
+593
+
+
+ 
+
+Y.L. Zhang, D.P. Jin, P. Zhu
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+The fast protection system for CSNS accelerator is a FPGA based protection system. The VME bus and SFP was adopted by the FPS. The FPS includes one central station and several sub-stations, and connnections between the central and the sub-stations are in star style. Two kinds of beam stopping modes are designed and implemented by FPS, one is the transient beam stopping and auto recovery mode, the other is the permanent beam stopping mode. The measured response time for the FPS is less than 1.5 micro-seconds.
+
+ 
+
+
+
+
+
+
+Slides WEBR03 [2.773 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-WEBR03
+
+ 
+
+
+About •
+Received ※ 19 October 2021       Revised ※ 25 January 2022       
+Accepted ※ 06 February 2022        Issue date ※ 11 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEBR04
+Safeguarding Large Particle Accelerator Research Facility- A Multilayer Distributed Control Architecture
+596
+
+
+ 
+
+F. Tao
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Personnel Protection System (PPS) at SLAC is a global safety system responsible for protecting personnel from radiation hazards. The system’s functional design shares similar concepts with machinery safeguarding, though the complexity of PPS is much higher due to its wide geographic distribution, large numbers of devices, and multiple sources of hazards. In this paper, we will first introduce the multilayer distributed control system architecture of SLAC’s PPS, which serves three beam programs, e.g., LCLS, LCLS-II and FACET-II, that exist in the same 4km linear accelerator infrastructure. Composed of 50+ sets of redundant safety PLCs and 20+ access control PLCs, SLAC’s PPS has five layers: beam program, beam switching and permit, zone access control, zone safety control and sensor/shutoff subsystems. With this architecture, safety functions often involve multiple controllers across several layers, make it a challenge on system analysis, design, and testing. Therefore, in this paper, we will also discuss SIL verification, and PPS’s functional safety related issues for this type of complex systems.
+
+ 
+
+
+
+
+
+
+Slides WEBR04 [1.322 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-WEBR04
+
+ 
+
+
+About •
+Received ※ 15 October 2021       Revised ※ 19 October 2021       
+Accepted ※ 21 November 2021        Issue date ※ 21 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEBR05
+Integrated Supervision for Conventional and Machine-Protection Configuration Parameters at ITER
+602
+
+
+ 
+
+D.A. Karkinsky, J. Jignesh, A. Marqueta, I. Prieto Diaz, W. Van Herck
+                       ITER Organization, St. Paul lez Durance, France
+
+ 
+
+
+ 
+
+Configuration parameters for ITER’s I&C systems are predominantly high-coupled due to the nature of the process under control. Subsequently, I&C re-configuration requires an integrated supervision approach that addresses coupling through abstraction, automation, scalability, changeability, robustness and re-usability. Moreover, high-coupling might manifest at any tier of the I&C, and certainly spans configuration parameters across both conventional and machine-protection I&C. Stemming from ITER design guidelines, the handling of machine-protection configuration parameters needs to meet the goals of IEC61508-3. These goals are mostly in congruence with the main concerns of integrated supervision identified above. However they also extend requirements that bind the supervision process with traceability and audit capabilities from sources to final self-test (run-time) diagnostics. This presentation describes the provisions for integrated supervision at ITER and elaborates how these provisions can be used to handle machine-protection parameters in compliance with IEC61508-3.
+
+ 
+
+
+
+
+
+
+Slides WEBR05 [0.510 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-WEBR05
+
+ 
+
+
+About •
+Received ※ 07 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 21 December 2021        Issue date ※ 27 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

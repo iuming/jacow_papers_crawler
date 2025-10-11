@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: THMIB (Mini Oral 3)
+
+
+THMIB —  Mini Oral 3   (10-Oct-13   13:30—14:00)
+Chair: P.A. Folta, LLNL, Livermore, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+THMIB03
+From Real to Virtual - How to Provide a High-avaliblity Computer Server Infrastructure
+1076
+
+
+ 
+
+R. Kapeller, C.E. Higgs, R.A. Krempaska, H. Lutz
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+During the commissioning phase of the Swiss Light Source (SLS) at the Paul Scherrer Institut (PSI) we decided in 2000 for a strategy to separate individual services for the control system. The reason was to prevent interruptions due to network congestion, misdirected control, and other causes between different service contexts. This concept proved to be reliable over the years. Today, each accelerator facility and beamline of PSI resides on a separated subnet and uses its dedicated set of service computers. As the number of beamlines and accelerators grew, the variety of services and their quantity rapidly increased. Fortunately, about the time when the SLS announced its first beam, VMware introduced its VMware Virtual Platform for Intel IA32 architecture. This was a great opportunity for us to start with the virtualization of the controls services. Currently, we have about 200 of such systems. In this presentation we discuss the way how we achieved the high-level-virtualization controls infrastructure, as well as how we will proceed in the future.
+
+ 
+
+
+
+
+
+
+Slides THMIB03 [2.124 MB]
+            
+ 
+
+
+
+
+
+
+Poster THMIB03 [1.257 MB]
+            
+ 
+
+
+ 
+
+
+
+THMIB04
+Optimizing Blocker Usage on NIF Using Image Analysis and Machine Learning
+1079
+
+
+ 
+
+L.M. Kegelmeyer, A.D. Conder, L.A. Lane, M.C. Nostrand, J.G. Senecal, P.K. Whitman
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-633358
+To optimize laser performance and minimize operating costs for high energy laser shots it is necessary to locally shadow, or block, flaws from laser light exposure in the beamline optics. Blockers are important for temporarily shadowing a flaw on an optic until the optic can be removed and repaired. To meet this need, a combination of image analysis and machine learning techniques have been developed to accurately define the list of locations where blockers should be applied. The image analysis methods extract and measure evidence of flaw candidates and their correlated downstream hot spots and this information is passed to machine learning algorithms which rank the probability that candidates are flaws that require blocking. Preliminary results indicate this method will increase the percentage of true positives from less than 20% to about 90%, while significantly reducing recall – the total number of candidates brought forward for review.
+
+ 
+
+
+
+
+
+
+Slides THMIB04 [0.243 MB]
+            
+ 
+
+
+
+
+
+
+Poster THMIB04 [2.532 MB]
+            
+ 
+
+
+ 
+
+
+
+THMIB07
+Fast Orbit Feedback Control in Mode Space
+1082
+
+
+ 
+
+S. Gayadeen, S. Duncan
+                       University of Oxford, Oxford, United Kingdom
+M.T. Heron
+                       Diamond, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+This paper describes the design and implementation of fast orbit feedback control in mode space. Using a Singular Value Decomposition (SVD) of the response matrix, each singular value can be associated with a spatial mode and enhanced feedback performance can be achieved by applying different controller dynamics to each spatial mode. By considering the disturbance spectrum across both dynamic and spatial frequencies, controller dynamics for each mode can be selected. Most orbit feedback systems apply only different gains to each mode however; mode space control gives greater flexibility in control design and can lead to enhanced disturbance suppression. Mode space control was implemented on the Booster synchrotron at Diamond Light Source, operated in stored beam mode. Implementation and performance of the mode space controller are presented.
+
+ 
+
+
+
+
+
+
+Slides THMIB07 [0.582 MB]
+            
+ 
+
+
+
+
+
+
+Poster THMIB07 [0.593 MB]
+            
+ 
+
+
+ 
+
+
+
+THMIB09
+Management of the FERMI Control System Infrastructure
+1086
+
+
+ 
+
+L. Pivetta, A.I. Bogani, R. Passuello
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Funding: Work supported in part by the Italian Ministry of University and Research under grants FIRB-RBAP045JF2 and FIRB-RBAP06AWK3
+Efficiency, flexibility and simplicity of management have been some of the design guidelines of the control system for the FERMI@Elettra Free Electron Laser. Out-of-band system monitoring devices, remotely operated power distribution units and remote management interfaces have been integrated into the Tango control system, leading to an effective control of the infrastructure. The Open Source tool Nagios has been deployed to monitor the functionality of the control system computers and the status of the application software for an easy and automatic identification and report of troubles.
+
+ 
+
+
+
+
+
+
+Slides THMIB09 [0.236 MB]
+            
+ 
+
+
+
+
+
+
+Poster THMIB09 [1.567 MB]
+            
+ 
+
+
+ 
+
+
+
+

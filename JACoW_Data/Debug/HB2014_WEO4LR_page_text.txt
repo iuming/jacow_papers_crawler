@@ -1,0 +1,138 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB2014 - Table of Session: WEO4LR (Working Group (A) B (C))
+
+
+WEO4LR —  Working Group (A) B (C)   (12-Nov-14   16:20—18:00)
+Chair: I. Hofmann, GSI, Darmstadt, Germany
+
+
+Paper
+Title
+Page
+
+
+
+WEO4LR01
+New Methods and Concepts for Very High Intensity Beams
+ 
+
+
+ 
+
+P.A.P. Nghiem, N. Chauvin
+                       CEA/DSM/IRFU, France
+M. Comunian
+                       INFN/LNL, Legnaro (PD), Italy
+C. Oliver
+                       CIEMAT, Madrid, Spain
+W. Simeoni
+                       IF-UFRGS, Porto Alegre, Brazil
+D. Uriot, M. Valette
+                       CEA/IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+For very high intensity beams, not only beam power but also space charge is a concern, so that both aspects should be taken into considerations for any analysis. Beam blowup due to space charge forces can be mitigated by bringing closer the focusing and accelerating components, making the beam diagnostic implementation difficult. A clear strategy for beam diagnostic has to be defined. Beam halo is no longer negligible but plays a significant role in the dynamic of the beam and in the particle loss process. Beam optimization must take it into account and beam characterization must describe not only the core part but also the halo one. This paper presents the new concepts and methods for beam analysis, beam diagnostics, beam optimization and beam characterization.
+
+ 
+
+
+
+
+
+
+Slides WEO4LR01 [3.342 MB]
+        
+ 
+
+
+ 
+
+
+
+WEO4LR02
+The Particle-in-Cell Code Bender and Its Application to Non-Relativistic Beam Transport
+304
+
+
+ 
+
+D. Noll, M. Droba, O. Meusel, U. Ratzinger, K. Schulte, C. Wiesner
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+A new non-relativistic, electrostatic Particle-in-Cell code named bender has been implemented to facilitate the investigation of low-energy beam transport scenarios. In the case of high-intensity beams, space-charge compensation resulting from the accumulation of secondary particles - electrons for positively charged ion beams - is an important effect. It has been shown, that the distribution of compensation electrons can have a significant influence on the beam and lead to an emittance growth. To improve the understanding of the dynamics of the compensation and the resultant self-consistent steady state, ionization of residual gas as well as secondary electron production on surfaces have been implemented and used to study a number of test systems. We will present first results of these compensation studies as well as further applications of the code, among them the chopper section of the future FRANZ facility [1].
+* C. Wiesner et al., Experimental Performance of an E×B Chopper System, Proc. of IPAC 2014, THPME015
+
+ 
+
+
+
+
+
+
+Slides WEO4LR02 [5.373 MB]
+        
+ 
+
+
+ 
+
+
+
+WEO4LR03
+Noise and Entropy in Non-Equipartitioned Particle Beams
+309
+
+
+ 
+
+I. Hofmann, O. Boine-Frankenheim
+                       GSI, Darmstadt, Germany
+O. Boine-Frankenheim
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The numerical noise generated in particle-in-cell simulation of 3D high intensity bunched beams is studied with the TRACEWIN code and compared with the analytical entropy model by Struckmeier. In this model the logarithm of the six-dimensional rms emittance is shown to qualify as rms-based entropy. We confirm the dependence of this growth on the bunch temperature anisotropy as predicted by Struckmeier, but also find modifications not predicted by theory. Our findings are applicable in particular to high current linac simulation, where they can help to estimate noise effects and find an effective balance between the number of simulation particles and the grid resolution. In principle, they can also be generalized to bunches in circular machines.
+
+ 
+
+
+
+
+
+
+Slides WEO4LR03 [2.946 MB]
+        
+ 
+
+
+ 
+
+
+
+

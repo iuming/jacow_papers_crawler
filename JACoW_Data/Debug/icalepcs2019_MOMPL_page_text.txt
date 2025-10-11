@@ -1,0 +1,416 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: MOMPL (Mini-Oral)
+
+
+MOMPL —  Mini-Oral   (07-Oct-19   16:30—17:00)
+Chair: M. Gonzalez-Berges, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+MOMPL001
+Quality Assurance Plan for the SCADA System of the Cherenkov Telescope Array Observatory
+121
+
+
+MOPHA007
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+E. Antolini
+                       CTA, Heidelberg, Germany
+D. Melkumyan, K. Mosshammer, I. Oya
+                       DESY Zeuthen, Zeuthen, Germany
+
+ 
+
+
+ 
+
+The Cherenkov Telescope Array is the future ground-based facility for gamma-ray astronomy at very-high energies. The CTA Observatory will comprise more than 100 telescopes and calibration devices that need to be centrally managed and synchronized to perform the required scientific and technical activities. The operation of the array requires a complex Supervisory Control and Data Acquisition (SCADA) system, named Array Control and Data Acquisition (ACADA), whose quality level is crucial for maximizing the efficiency of the CTA operations. In this contribution we aim to present the Quality Assurance (QA) strategy adopted by the ACADA team to fulfill the quality standards required for the creation and usage of ACADA software. We will describe the QA organization and planned activities, together with the quality models and the related metrics defined to comply with the required quality standards. We will describe the procedures, methods and tools which will be applied in order to guarantee, that for each phase of the project, the required level of quality in the design, implementation, testing, integration, configuration, usage and maintenance of the ACADA product are met.
+
+ 
+
+
+
+
+
+
+Poster MOMPL001 [1.425 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPL001
+
+ 
+
+
+About •
+paper received ※ 25 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPL006
+Automatic Deployment in a Control System Environment
+126
+
+
+MOPHA074
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M.G. Konrad, S. Beher, A.P. Lathrop, D.G. Maxwell, J.P.H. Ryan
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661
+Development of many software projects at the Facility of Rare Isotope Beams (FRIB) follows an agile development approach. An important part of this practice is to make new software versions available to users frequently to meet their changing needs during commissioning and to get feedback from them in a timely manner. However, building, testing, packaging, and deploying software manually can be a time-consuming and error-prone process. We will present processes and tools used at FRIB to standardize and automate the required steps. We will also describe our experience upgrading control system computers to a new operating system version as well as to a new EPICS release.
+
+ 
+
+
+
+
+
+
+Poster MOMPL006 [3.806 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPL006
+
+ 
+
+
+About •
+paper received ※ 03 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPL007
+The Design of Intelligent Integrated Control Software Framework of Facilities for Scientific Experiments
+132
+
+
+MOPHA087
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Z. Ni, L. Li, J. Liu, J. Luo, X. Zhou
+                       CAEP, Sichuan, People’s Republic of China
+Y. Gaopresenter
+                       Stony Brook University, Stony Brook, New York, USA
+
+ 
+
+
+ 
+
+The control system of the scientific experimental facility requires heterogeneous control access, domain algorithm, sequence control, monitoring, log, alarm and archiving. We must extract common requirements such as monitoring, control, and data acquisition. Based on the Tango framework, we build typical device components, algorithms, sequence engines, graphical models and data models for scientific experimental facility control systems developed to meet common needs, and are named the Intelligent integrated Control Software Framework of Facilities for Scientific Experiments (iCOFFEE). As a development platform for integrated control system software, iCOFFEE provides a highly flexible architecture, standardized templates, basic functional components and services for control systems that increase flexibility, robustness, scalability and maintainability. This article focuses on the design of the framework, especially the monitoring configuration and control flow design.
+
+ 
+
+
+
+
+
+
+Slides MOMPL007 [2.143 MB]
+        
+ 
+
+
+
+
+
+
+Poster MOMPL007 [2.445 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPL007
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPL008
+New Neutron Sensitive Beam Loss Monitor (nBLM)
+137
+
+
+MOPHA089
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Y. Mariette, Q. Bertrand, F. Gougnaud, T.J. Joannem, V. Nadot, T. Papaevangelou, L. Segui
+                       CEA-IRFU, Gif-sur-Yvette, France
+F.S. Alves, I. Dolenc Kittelmann
+                       ESS, Lund, Sweden
+W. Cichalewski, G.W. Jabłoński, W. Jałmużna, R. Kiełbik
+                       TUL-DMCS, Łódź, Poland
+
+ 
+
+
+ 
+
+The beam loss detection is of the utmost importance for accelerator safety. At CEA, we are closely collaborating with ESS and DMCS on development of ESS nBLM. The system is based on Micromegas* gaseous detector sensitives to fast neutrons produced when beam particles hit the accelerator materials. This detector has powerful features: reliable neutron detection and fast time response. The nBLM control system provides slow monitoring, fast security based on neutron counting and post mortem data. It is fully handled by EPICS, which drives 3 different subsystems: a Siemens PLC regulates the gas line, a CAEN crate controls low and high voltages, and a MTCA system based on IOxOS boards is in charge of the fast data processing for 16 detectors. The detector signal is digitized by the 250 Ms/s ADC, which is further processed by the firmware developed by DMCS and finally retrieved and sent to EPICS network. For other accelerator projects, we are designing nBLM system close to ESS nBLM one. In order to be able to sustain the full control system, we are developing the firmware and the driver. This paper summarizes CEA’s work on the nBLM control system for the ESS and other accelerators.
+*Micromegas: http://irfu.cea.fr/en/Phocea/Viedeslabos/Ast/asttechnique.php?idast=2307 
+
+ 
+
+
+
+
+
+
+Poster MOMPL008 [2.475 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPL008
+
+ 
+
+
+About •
+paper received ※ 26 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPL009
+Control System Virtualization at Karlsruhe Research Accelerator
+143
+
+
+MOPHA093
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+W. Mexner, B. Aydt, E. Blomley, E. Bründermann, D. Hoffmann, A.-S. Müller, M. Schuh
+                       KIT, Eggenstein-Leopoldshafen, Germany
+S. Marsching
+                       Aquenos GmbH, Baden-Baden, Germany
+
+ 
+
+
+ 
+
+With the deployment of a storage spaces direct hyper-converged cluster in 2018, the whole control system server and network infrastructure of the Karlsruhe Research Accelerator have been virtualized to improve the control system availability. The cluster with 6 Dell PowerEdge R740Xd servers with 1.152 GB RAM, 72 cores and 40 TByte hyperconverged storage operates in total 120 virtual machines. We will report on our experiences running EPICS IOCs and the industrial control system WinCC OA in this virtual environment.
+
+ 
+
+
+
+
+
+
+Poster MOMPL009 [0.608 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPL009
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOMPL010
+Data Streaming With Apache Kafka for CERN Supervision, Control and Data Acquisition System for Radiation and Environmental Protection
+147
+
+
+MOPHA172
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A. Ledeul, A. Savulescu, G. Segura, B. Styczen
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The CERN HSE - occupational Health & Safety and Environmental protection - Unit develops and operates REMUS - Radiation and Environmental Unified Supervision - , a Radiation and Environmental Supervision, Control and Data Acquisition system, covering CERN accelerators, experiments and their surrounding environment. REMUS is now making use of modern data streaming technologies in order to provide a secure, reliable, scalable and loosely coupled solution for streaming near real-time data in and out of the system. Integrating the open-source streaming platform Apache Kafka allows the system to stream near real-time data to Data Visualization Tools and Web Interfaces. It also permits full-duplex communication with external Control Systems and IIoT - Industrial Internet Of Things - devices, without compromising the security of the system and using a widely adopted technology. This paper describes the architecture of the system put in place, and the numerous applications it opens up for REMUS and Control Systems in general.
+
+ 
+
+
+
+
+
+
+Poster MOMPL010 [25.881 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOMPL010
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

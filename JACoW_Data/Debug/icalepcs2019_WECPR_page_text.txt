@@ -1,0 +1,336 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WECPR (Software Technology Evolution 2)
+
+
+WECPR —  Software Technology Evolution 2   (09-Oct-19   12:00—13:15)
+Chair: G. Chiozzi, ESO, Garching bei Muenchen, Germany
+
+
+Paper
+Title
+Page
+
+
+
+WECPR01
+EPICS 7 Core Status Report
+923
+
+
+ 
+
+A.N. Johnson, G. Shen, S. Veseli
+                       ANL, Lemont, Illinois, USA
+M.A. Davidsaver
+                       Osprey DCS LLC, Ocean City, USA
+S.M. Hartman, K.-U. Kasemir
+                       ORNL, Oak Ridge, Tennessee, USA
+H. Junkes
+                       FHI, Berlin, Germany
+K.H. Kim
+                       SLAC, Menlo Park, California, USA
+M.G. Konrad
+                       FRIB, East Lansing, Michigan, USA
+T. Korhonen
+                       ESS, Lund, Sweden
+M.R. Kraimer
+                       Private Address, Osseo, USA
+R. Lange
+                       ITER Organization, St. Paul lez Durance, France
+K. Shroff
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy Office of Science, under Contract No. DE-AC02-06CH11357
+The integration of structured data and the PV Access network protocol into the EPICS toolkit has opened up many possibilities for added functionality and features, which more and more facilities are looking to leverage. At the same time however the core developers also have to cope with technical debt incurred in the race to deliver working software. This paper will describe the current status of EPICS 7, and some of the work done in the last two years following the reorganization of the code-base. It will cover some of the development group’s technical and process changes, and echo questions being asked about support for recent language standards that may affect support for older target platforms, and adoption of other internal standards for coding and documentation.
+
+ 
+
+
+
+
+
+
+Slides WECPR01 [0.585 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WECPR01
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 02 October 2020        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECPR02
+Benefits and Drawbacks of Using Rust in an Existing C/C++ Codebase
+928
+
+
+ 
+
+B.S. Martins
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Mozilla has recently released a new programming language, Rust, as a safer and more modern alternative to C++. This work explores the benefits (chiefly the features provided by Rust) and drawbacks (the difficulty in integrating with a C ABI) of using Rust in an existing codebase, the EPICS framework, as a replacement for C/C++ in some of EPICS’ modules.
+
+ 
+
+
+
+
+
+
+Slides WECPR02 [0.471 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WECPR02
+
+ 
+
+
+About •
+paper received ※ 19 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECPR03
+Status of the Karabo Control and Data Processing Framework
+936
+
+
+ 
+
+G. Flucke, N. Al-Qudami, M. Beg, M. Bergemann, V. Bondar, D. Boukhelef, S. Brockhauser, C. Carinan, R. Costa, F. Dall’Antonia, C. Danilevski, W. Ehsan, S.G. Esenov, R. Fabbri, H. Fangohr, D. Fulla Marsa, G. Giovanetti, D. Goeries, S. Hauf, D.G. Hickin, E. Kamil, Y. Kirienko, A. Klimovskaia, T.A. Kluyver, D. Mamchyk, T. Michelat, I. Mohacsi, A. Muennich, A. Parenti, R. Rosca, D.B. Rück, H. Santos, R. Schaffer, A. Silenzi, K. Wrona, C. Youngman, J. Zhu
+                       EuXFEL, Schenefeld, Germany
+S. Brockhauser
+                       BRC, Szeged, Hungary
+H. Fangohr
+                       University of Southampton, Southampton, United Kingdom
+
+ 
+
+
+ 
+
+To achieve a tight integration of instrument control and (online) data analysis, the European XFEL decided in 2011 to develop Karabo*, a custom control and data processing system. Karabo provides control via event-driven communication. Signal/slot and request/reply patterns are implemented via a central message broker. Data pipelines for e.g. scientific workflows or detector calibration are implemented as direct TCP/IP connections. The core entities of Karabo are self-describing devices written in C++ or Python. They represent hardware, orchestrate other devices, or provide system services like data logging and configuration storage. To operate Karabo, a Python command line interface and a generic GUI written in PyQt are provided. Control and data widgets compose Karabo scenes that are provided by devices or are manually customized and stored together with device configurations in a central database. Since 2016, Karabo is used to commission and operate the currently three photon beam lines and six scientific instruments at the European XFEL. This contribution summarizes the status of Karabo, highlights achievements and lessons learned, and gives an outlook for future directions.
+* Heisen, B., et al. (2013) In 14th International Conference on Accelerator and Large Experimental Physics Control Systems, ICALEPCS 2013. San Francisco, CA. 
+
+ 
+
+
+
+
+
+
+Slides WECPR03 [2.660 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WECPR03
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECPR04
+Automated Testing and Validation of Control Parameters
+943
+
+
+ 
+
+P.K. Kankiya, J.P. Jamilkowski, A. Sukhanov
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+The BNL CA-D controls environment has recently been adopting modern programming languages such as Python. A new framework has been created to instantiate setting and measurement parameters in Python as an alternative to C++ and Java process-variable-like objects. With the help of automated testing tools such as pyTest and Coverage, a test suite is generated and executed before the release of Python-based accelerator device objects (ADO) to assure quality as well as compatibility. This suite allows developers to add custom tests, repeat failed tests, create random inputs, and log failures.
+
+ 
+
+
+
+
+
+
+Slides WECPR04 [13.755 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WECPR04
+
+ 
+
+
+About •
+paper received ※ 09 October 2019       paper accepted ※ 19 November 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECPR05
+Pulsed Magnet Control System Using COTS PXIe Devices and LabVIEW
+946
+
+
+ 
+
+Y. Enomoto, K. Furukawa, T. Natsui, M. Satoh
+                       KEK, Ibaraki, Japan
+H.S. Saotome
+                       Kanto Information Service (KIS), Accelerator Group, Ibaraki, Japan
+
+ 
+
+
+ 
+
+About one hundred channels of pulsed magnet power supply control system were installed in 2017 in KEK electron positron LINAC to realize pulse-to-pulse control of output current every 20 ms. The control system of a group of eight channels totally consists of commercially available devices, namely a PC (Windows 8.1), a PXIe crate and several PXIe boards such as ADC, DAC communication and timing. The software is written with LabVIEW. EPICS channel access protocol is used to communicate with OPI over standard Ethernet network. Depending on the destination of the beam, there are ten beam modes. The software is able to keep parameters for each mode independently, which makes it possible for us to operate one LINAC as if it were ten virtual LINACs. Even Software feedback to compensate small drift of output current is available for each mode independently. During two years of operation, there were no significant problem. Although the Windows is not a real-time OS, dropping rate of the trigger coming every 20 ms is less than a ppm. Rebooting of the PC or software is necessary only a few times in a year.
+
+ 
+
+
+
+
+
+
+Slides WECPR05 [5.799 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WECPR05
+
+ 
+
+
+About •
+paper received ※ 29 September 2019       paper accepted ※ 20 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

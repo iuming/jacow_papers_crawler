@@ -1,0 +1,49 @@
+{
+  "session_info": {
+    "id": "MOYBB",
+    "name": "MOYBB - Invited Oral Presentations, Beam Dynamics and Electromagnetic Fields",
+    "url": "https://proceedings.jacow.org/PAC2013/html/moybb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOYBB1",
+      "title": "Analysis of Transverse Instabilities Observed at J-PARC MR and their Suppression using Feedback Systems",
+      "authors": [
+        "KEK",
+        "Ibaraki",
+        "Japan"
+      ],
+      "institutions": [],
+      "abstract": "This talk should present an analysis of transverse instabilities observed at the J-PARC MR (Main Ring) and their suppression using feedback systems. Instabilities were mainly observed at low energies. About 30% of particles are lost due to the instabilities if the feedback system is turned off at the beam power of 120kW. Both horizontal and vertical instabilities were observed. An analysis unveils that a dipole mode has a temporal appearance of higher-order head-tail modes if the chromaticity is suffisiently large. The development of instabilities in the presence of a large chromaticity should be considered for conditions beyond the Sacherer's text book case.",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/moybb1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/moybb1.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/moybb1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-MOYBB1",
+      "page_number": "27",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOYBB2",
+      "title": "Transverse Impedance and Transverse Instabilities in the Fermilab Booster",
+      "authors": [
+        "Fermilab",
+        "Batavia",
+        "USA"
+      ],
+      "institutions": [],
+      "abstract": "Impedances of the Fermilab Booster are strongly amplified by direct beam interaction with laminations of its bending dipoles. It results in a fast transverse instability. Interference of effects of large space charge and large impedance does not allow building an analytical theory of the instability leaving numerical simulations as only reliable way to describe the instability. The paper should present a comparison of computer simulations with experimental measurements for the Fermilab Booster.",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/moybb2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/moybb2.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/moybb2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-MOYBB2",
+      "page_number": "32",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 01:28:15"
+}

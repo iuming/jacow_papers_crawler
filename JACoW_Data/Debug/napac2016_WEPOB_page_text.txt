@@ -1,0 +1,2534 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2016 - Table of Session: WEPOB (Poster Session (MC2))
+
+
+WEPOB —  Poster Session (MC2)   (12-Oct-16   16:00—17:30)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPOB01
+Lower Emittance Lattice for the Advanced Photon Source Upgrade Using Reverse Bending Magnets
+877
+
+
+ 
+
+M. Borland, T.G. Berenc, R.R. Lindberg, V. Sajaev, Y.P. Sun
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+he Advanced Photon Source (APS) is pursuing an upgrade to the storage ring to a hybrid seven-bend-achromat design*. The nominal design provides a natural emittance of 67 pm. By adding reverse dipole fields to several quadrupoles**, we can reduce the natural emittance to 41 pm while simultaneously providing more optimal beta functions in the insertion devices. The improved emittance results from a combination of increased energy loss per turn and a change in the damping partition. At the same time, the nonlinear dynamics performance is very similar, thanks in part to increased dispersion in the sextupoles. This paper describes the properties, optimization, and performance of the new lattice.
+* L. Farvacque et al., IPAC13, 79 (2013).  ** J.P. Delahaye \em et al., PAC89, 1611 (1990); A. Streun, NIM A 737, 148 (2014). 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB02
+Simulation of Swap-Out Reliability for the Advance Photon Source Upgrade
+881
+
+
+ 
+
+M. Borland
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+The proposed upgrade of the Advanced Photon Source (APS) to a multibend achromat lattice relies on the use of swap-out injection to accommodate the small dynamic acceptance, allow use of unusual insertion devices, and minimize collective effects at high single-bunch charge. This, combined with the short beam lifetime, will make injector reliability even more important than it is for top-up operation. We used historical data for the APS injector complex to obtain probability distributions for injector up-time and down-time durations. Using these distributions, we simulated several years of swap-out operation for the upgraded lattice for several operating modes. The results indicate that obtaining very high availability of beam in the storage ring will require improvements to injector reliability.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB03
+Magnetic Measurements of Storage Ring Magnets for the APS Upgrade Project
+884
+
+
+ 
+
+R.J. Dejus, H. Cease, J.T. Collins, G. Decker, A.T. Donnelly, C.L. Doose, W.G. Jansma, M.S. Jaski, J. Liu
+                       ANL, Argonne, Illinois, USA
+J. DiMarco
+                       Fermilab, Batavia, Illinois, USA
+A.K. Jain
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: * Work supported by U.S. Department of Energy, Office of Science, under contract number DE-AC02-06CH11357, and contract number DE-SC0012704 for work associated with Brookhaven National Laboratory.
+Extensive prototyping of storage ring magnets is ongoing at the Advanced Photon Source (APS) in support of the APS Multi-Bend Achromat upgrade (APS-U) project. As part of the R&D activities 4 quadrupole magnets with slightly different geometries and pole tip materials, and one sextupole magnet with vanadium permendur pole tips were designed, built and tested. Magnets were measured individually using a rotating coil and a Hall probe for detailed mapping of the magnetic field. Magnets were then assembled and aligned relative to each other on a steel support plate and concrete plinth using precision machined surfaces to gain experience with the alignment method chosen for the APS-U storage ring magnets. The required alignment of magnets on a common support structure is 30 micron rms. Measurements of magnetic field quality, strength and magnet alignment after subjecting the magnets and assemblies to different tests will be presented.
+
+ 
+
+
+
+
+
+
+Poster WEPOB03 [1.242 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB04
+Beamline-Controlled Steering of Source-Point Angle at the Advanced Photon Source
+887
+
+
+ 
+
+L. Emery, G.I. Fystro, H. Shang, M.L. Smith
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357
+An EPICS-based steering software system has been implemented for beamline personnel to directly steer the angle of the synchrotron radiation sources at the Advanced Photon Source. A script running on a workstation monitors "start steering" beamline EPICS records, and effects a steering by the value of "angle request" EPICS records that beamlines have set. The new system effectively bypasses floor coordinators and MCR operators, and makes the steering process much faster than before, although these older protocols can still be used. As with the original steering there are EPICS alarm limits that prevent large steering from occurring and avoid other problems. Error messages and statuses, OPI windows and alarm configurations are provided to the beamlines and the accelerator operators. Underpinning this new steering protocol is the recent refinement of the global orbit feedback process whereby feedforward of dipole corrector set points and orbit set points are used to create a local steering bump in a rapid and seamless way. In principle and in practice, many simultaneous steering commands from many beamlines are possible. We report on a complete 3-month run of experience.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB05
+Operational Experience With Beam Abort System for Superconducting Undulator Quench Mitigation
+890
+
+
+ 
+
+K.C. Harkay, J.C. Dooling, V. Sajaev, J. Wang
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+A beam abort system has been implemented in the Advanced Photon Source storage ring. The abort system works in tandem with the existing machine protection system (MPS), and its purpose is to control the beam loss location and, thereby, minimize beam loss-induced quenches at the two superconducting undulators (SCUs). The abort system consists of a dedicated horizontal kicker designed to kick out all the bunches in a few turns after being triggered by MPS. The abort system concept was developed on the basis of single- and multi-particle tracking simulations using elegant and bench measurements of the kicker pulse. Performance of the abort system–kick amplitudes and loss distributions of all bunches–was analyzed using beam position monitor (BPM) turn histories, and agrees reasonably well with the model. Beam loss locations indicated by the BPMs are consistent with the fast fiber-optic beam loss diagnostics described elsewhere [1]. Operational experience with the abort system, various issues that were encountered, limitations of the system, and quench statistics are described.
+[1] J. Dooling et al., these proceedings. 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB06
+Parameterization of Helical Superconducting Undulator Magnetic Field*
+894
+
+
+ 
+
+S.H. Kim
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Using a scaling law, the magnetic fields of helical superconducting undulators (HSCUs) for a period range of 10 ' 50 mm are parameterized from the field calculations of one reference HSCU with a period of 30 mm. The on-axis fields are calculated at the critical current densities of the NbTi and Nb3Sn superconducting coils at 4.2 K. The parametrized on-axis fields for the period range are expressed in terms of the period and inner radius of the helical coils. The corresponding critical current densities and coil maximum fields are also included. The parameterization procedures are described in detail and some field deviations are discussed.
+*Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.  Associate of Seville, Advanced Photon Source   'shkim@aps.anl.gov, shkim242@gmail.com  
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB07
+Dielectrically-Loaded Waveguide as a Short Period Superconducting Microwave Undulator
+897
+
+
+ 
+
+R. Kustom, A. Nassiri, K.J. Suthar, G.J. Waldschmidt
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+The HEM12 mode in a cylindrical, dielectrically-loaded waveguide provides E and H fields on the central axis that are significantly higher than the fields on the conducting walls. The waveguide is designed to operate near its cutoff frequency where the wavelength and phase velocity vary significantly to enable tuning of the equivalent undulator wavelength. The operating frequency would range from 18 - 24 GHz. It would be possible to generate coherent, high-energy 45 - 65 KeV x-rays from the fundamental mode which are tunable over a 20% energy range by changing the source frequency while maintaining constant field strengths. The x-ray brilliance of the microwave undulator would be 3 times higher at 56-KeV and 7 times higher at 66 KeV than what is available with the APS 1.8 cm period Superconducting Wire Undulator. Since the loss factor of sapphire is very low at cryogenic temperatures, it is possible to consider a superconducting microwave undulator, although resistive losses of ~200 to 700 W/m may be a bit too high for CW operation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB07
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB08
+Collective Effects at Injection for the APS-U MBA Lattice
+901
+
+
+ 
+
+R.R. Lindberg, M. Borland
+                       ANL, Argonne, Illinois, USA
+A. Blednykh
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Dept. of Energy Office of Sciences under Contract No. DE-AC02-06CH11357
+The Advanced Photon Source has proposed an upgrade to a multi-bend achromat (MBA) with a proposed timing mode calls for 48 bunches of 15 nC each. In this mode of operation we find that phase space mismatch from the booster can drive large wakefields that in turn may limit the current below that of the nominal collective instability threshold. We show that collective effects at injection lead to emittance growth that makes usual off-axis accumulation very challenging. On-axis injection ameliorates many of these issues, but we find that transverse feedback is still required. We explore the role of impedance, feedback, and phase-space mismatch on transverse instabilities at injection.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB08
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB09
+Field Quality from Tolerance Stack Up in R&D Quadrupoles for the Advanced Photon Source Upgrade
+904
+
+
+ 
+
+J. Liu, M. Borland, R.J. Dejus, A.T. Donnelly, C.L. Doose, J.S. Downey, M.S. Jaski
+                       ANL, Argonne, Illinois, USA
+A.K. Jain
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: *Work supported by U.S. Department of Energy, Office of Science, under contract No. DE-AC02-06CH11357 and contract number DE-SC0012704 for work associated with Brookhaven National Laboratory.
+The Advanced Photon Source (APS) at Argonne National Laboratory (ANL) is considering upgrading the current double-bend, 7-GeV, 3rd generation storage ring to a 6-GeV, 4th generation storage ring with a Multibend Achromat (MBA) lattice. In this study, a novel method is proposed to determine fabrication and assembly tolerances through a combination of magnetic and mechanical tolerance analyses. Mechanical tolerance stackup analyses using Teamcenter Variation Analysis are carried out to determine the part and assembly level fabrication tolerances. Finite element analyses using OPERA are conducted to estimate the effect of fabrication and assembly errors on the magnetic field of a quadrupole magnet and to determine the allowable tolerances to achieve the desired magnetic performance. Finally, results of measurements in R&D quadrupole prototypes are compared with the analysis results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB09
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB10
+Simulation Study of the Helical Superconducting Undulator Installation at the Advanced Photon Source
+907
+
+
+ 
+
+V. Sajaev, M. Borland, Y.P. Sun, A. Xiao
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+A helical superconducting undulator is planned for installation at the APS. Such an installation would be first of its kind – helical devices were never installed in synchrotron light sources before. Due to its reduced horizontal aperture, a lattice modification is required to accommodate for large horizontal oscillations during injection. We describe the lattice change details and show the new lattice experimental test results. To understand the effect of the undulator on single-particle dynamics, first, its kick maps were computed using different methods. We have found that often-used Elleaume formula* for kick maps gives wrong results for this undulator. We then used the kick maps obtained by other methods to simulate the effect of the undulator on injection and lifetime.
+*P. Elleaume, EPAC 1992
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB10
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB11
+Tuning of the APS Linac Accelerating Cavities After Structural Re-Alignment
+910
+
+
+ 
+
+T.L. Smith, G.J. Waldschmidt
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+A new S-band LCLS type Photo-cathode (PC) gun was recently installed in the APS linac. As a consequence, it was recognized that many of the linac accelerating structures were out of their 1mm straightness tolerances. In order to reduce the effects of wakefield on the beam, several of the misaligned structures were straightened. This paper discusses the bead-pull RF measurements, the effect of the straightening efforts on rf and the cell to cell retuning efforts that were performed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB11
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB12
+Multi-Objective Online Optimization of Beam Lifetime at APS
+913
+
+
+ 
+
+Y.P. Sun
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+In this paper, online optimization of beam lifetime at the APS (Advanced Photon Source) storage ring is presented. A general genetic algorithm (GA) is developed and employed for some online optimizations in the APS storage ring. Sextupole magnets in 40 sectors of the APS storage ring are employed as variables for the online nonlinear beam dynamics optimization. The algorithm employs several optimization objectives and is designed to run with topup mode or beam current decay mode. Up to 50\% improvement of beam lifetime is demonstrated, without affecting the transverse beam sizes and other relevant parameters. In some cases, the top-up injection efficiency is also improved.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB12
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB13
+Online Minimization of Vertical Beam Sizes at APS
+916
+
+
+ 
+
+Y.P. Sun
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+In this paper, online minimization of vertical beam sizes along the APS (Advanced Photon Source) storage ring is presented. A genetic algorithm (GA) was developed and employed for the online optimization in the APS storage ring. A total of 59 families of skew quadrupole magnets were employed as knobs to adjust the coupling and the vertical dispersion in the APS storage ring. Starting from initially zero current skew quadrupoles, small vertical beam sizes along the APS storage ring were achieved in a short optimization time of one hour. The optimization results from this method are briefly compared with the one from LOCO (Linear Optics from Closed Orbits) response matrix correction.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB13
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB14
+APS-U Lattice Design for Off-Axis Accumulation
+920
+
+
+ 
+
+Y.P. Sun, M. Borland, R.R. Lindberg, V. Sajaev
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+A 67-pm hybrid-seven-bend achromat (H7BA) lattice is being proposed for a future Advanced Photon Source (APS) multi-bend-achromat (MBA) upgrade project. This lattice design pushes for smaller emittance and requires use of a swap-out (on-axis) injection scheme due to limited dynamic acceptance. Alternate lattice design work has also been performed for the APS upgrade to achieve better beam dynamics performance than the nominal APS MBA lattice, in order to allow off-axis accumulation. Two such alternate H7BA lattice designs, which target a still-low emittance of 90 pm, are discussed in detail in this paper. Although the single-particle-dynamics performance is good, simulations of collective effects indicate that surprising difficulty would be expected accumulating high single-bunch charge in this lattice. The brightness of the 90-pm lattice is also a factor of two lower than the 67-pm H7BA lattice.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB14
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB15
+Comparison of Nonlinear Dynamics Optimization Methods for APS-U
+924
+
+
+ 
+
+Y.P. Sun, M. Borland
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Many different objectives and genetic algorithms have been proposed for storage ring nonlinear dynamics performance optimization. These optimization objectives include nonlinear chromaticities and driving/detuning terms, on-momentum and off-momentum dynamic acceptance, chromatic detuning, local momentum acceptance, variation of transverse invariant, Touschek lifetime, etc. In this paper, the effectiveness of several different optimization methods and objectives are compared for the nonlinear beam dynamics optimization of the Advanced Photon Source upgrade (APS-U) lattice. The optimized solutions from these different methods are preliminarily compared in terms of the dynamic acceptance, local momentum acceptance, chromatic detuning, and other performance measures.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB15
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB16
+Simulation Studies of a Prototype Stripline Kicker for the APS-MBA Upgrade
+928
+
+
+ 
+
+X. Sun, C. Yao
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: *Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+A prototype dual-blade stripline kicker for the APS multi-bend achromat (MBA) upgrade has been designed and developed. It was optimized with 3D CST Micro-wave Studio. The high voltage (HV) feedthrough and air-side connector were designed and optimized. The elec-tromagnetic fields along the beam path, deflecting angle and high electric fields with their locations were calculat-ed with 15 kV differential pulse voltage applied to the kicker blades through the feedthroughs. The beam im-pedance and power dissipation on different parts of the kicker and external loads were studied for a 48-bunch fill pattern. Our simulation results show that the prototype kicker with its HV feedthroughs meets the specified re-quirements. The results of TDR (time-domain reflectome-ter) test, high voltage pulse test and beam test of the pro-totype kicker assembly agreed with the simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB16
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB18
+Bend Magnet Head Loads and Out of Orbit Scenarios
+931
+
+
+SUPO48
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+T.T. Valicenti, J.A. Carter, P.K. Den Hartog, K.J. Suthar
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+This paper presents an analytical calculation of the spatial power spectrum emitted from relativistic electrons passing through a series of bend magnets. Using lattice files from the software Elegant, both the ideal and missteered trajectories taken by the beam are considered in determination of the power profile. Calculations were performed for the Advanced Photon Source Upgrade multi-bend-achromat storage-ring. Results were validated with Synrad, a monte-carlo based program designed at CERN. The power distribution and integrated total power values are in agreement with Synrad's results within one percent error. The analytic solution used in this software gives a both quick and accurate tool for calculating the heat load on a photon absorber. The location and orientation can be optimized in order to reduce the peak intensity and thus the maximum thermal stress. This can be used with any optimization or FEA software and gives rise to a versatile set of uses for the developed program.
+
+ 
+
+
+
+
+
+
+Poster WEPOB18 [2.491 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB18
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB19
+Summary of Cs2te Photocathode Performance and Improvements in the High-Gradient, High-Charge AWA Drive Gun
+934
+
+
+ 
+
+E.E. Wisniewski, S.P. Antipov, M.E. Conde, D.S. Doran, W. Gai, C.-J. Jing, W. Liu, J.G. Power, J.Q. Qiu, C. Whiteford
+                       ANL, Argonne, Illinois, USA
+S.P. Antipov, C.-J. Jing, J.Q. Qiu
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+
+ 
+
+
+ 
+
+Funding: Argonne, a U.S.A. Department of Energy Office of Science laboratory, is operated under Contract No. DE-AC02-06CH11357.
+The AWA L-band, high-charge photoinjector for the 70 MeV drive beamline has been operating for almost 3 years at the Argonne Wakefield Accelerator (AWA) facility. at Argonne National Laboratory (ANL). The gun operates at high-field (85 MV/m peak field on the cathode) and has a high quantum efficiency (QE) Cesium telluride photocathode with a large area (30 mm diameter). It produces high-charge, short pulse, single bunches (Q > 100 nC) as well as long bunch-trains (Q > 600 nC) for wakefield experiments (high peak current). During the first two years of operation, photocathode performance was evaluated and areas of improvement were identified. After study, consideration and consultation, steps were taken to improve the performance of the photocathode. So far, in total, three photocathodes have been fabricated on-site, installed and operated in the gun. Improvements made to the photocathode plug, vacuum system, and gun operation are detailed. The results include vastly improved conditioning times, better cathode performance, and QE above 4% for over 11 months.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB19
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB20
+Multiple Scattering Effects on a Short Pulse Electron Beam Travelling Through Thin Beryllium Foils
+937
+
+
+ 
+
+E.E. Wisniewski, S.P. Antipov, M.E. Conde, D.S. Doran, W. Gai, Q. Gao, C.-J. Jing, W. Liu, J.G. Power, C. Whiteford
+                       ANL, Argonne, Illinois, USA
+S.P. Antipov, C.-J. Jing
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+Q. Gao
+                       TUB, Beijing, People's Republic of China
+G. Ha
+                       POSTECH, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: Argonne, a U.S.A. Department of Energy Office of Science laboratory, is operated under Contract No. DE-AC02-06CH11357.
+The Argonne Wakefield Accelerator beamlines have stringent vacuum requirements (100 picotorr) necessitated by the Cesium telluride photoinjector. In direct conflict with this, the structures-based wakefield accelerator research program sometimes includes worthy but complex experimental installations with components or structures unable to meet the vacuum standards. A proposed chamber to sequester such experiments safely behind a thin beryllium (Be) window is described and the results of a study of beam-quality issues due to the multiple scattering of the beam through the window are presented and compared to GEANT4 simulations via G4beamline. Three thicknesses of Be foil were used: 30, 75 and 127 micron, probed by electron beams of three different energies: 25, 45, and 65 MeV. Multiple scattering effects were evaluated by comparing the measured transverse rms beam size for the scattered vs. unscattered beam. The experimental results are presented and compared to simulations. Results are discussed along with the implications and suggestions for the future sequestered vacuum chamber design.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB20
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB21
+Benchmarking of Touschek Beam Lifetime Calculations for the Advanced Photon Source
+940
+
+
+ 
+
+A. Xiao, B.X. Yangpresenter
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+Particle loss from Touschek scattering is one of the most significant issues faced by present and future synchrotron light source storage rings. For example, the predicted, Touschek-dominated beam lifetime for the Advanced Photon Source (APS) Upgrade lattice in 48-bunch, 200-mA timing mode is only ~2 h. In order to understand the reliability of the predicted lifetime, a series of measurements with various beam parameters was performed on the present APS storage ring. This paper first describes the entire process of beam lifetime measurement, then compares measured lifetime with the calculated one by applying the measured beam parameters. The results show very good agreement.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB21
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB22
+Beam Loss Simulation and Collimator System Configurations for the Advanced Photon Source Upgrade
+943
+
+
+ 
+
+A. Xiao, M. Borlandpresenter
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+The proposed multi-bend achromat lattice for the Advanced Photon Source upgrade (APS-U) has a design emittance of less than 70 pm. The Touschek loss rate is high: compared with the current APS ring, which has an average beam lifetime  ∼  10 h, the simulated beam lifetime for APS-U is only ~2 h when operated in the high flux mode (I=200 mA in 48 bunches). An additional consequence of the short lifetime is that injection must be more frequent, which provides another potential source of particle loss. In order to provide information for the radiation shielding system evaluation and to avoid particle loss in sensitive locations around the ring (for example, insertion device straight sections), simulations of the detailed beam loss distribution have been performed. Several possible collimation configurations have been simulated and compared.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB22
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB23
+Performance of the Full-Length Vertical Polarizing Undulator Prototype for LCLS-II
+946
+
+
+ 
+
+N.O. Strelnikov, E. Gluskin, I. Vasserman, J.Z. Xupresenter
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357
+As part of the LCLS-II R&D program, a novel 3.4-meter long undulator prototype with horizontal main magnetic field and dynamic force compensation - called the horizontal gap vertical polarization undulator (HGVPU) - has recently been developed at the Advanced Photon Source (APS). Initial steps of the project included designing, building, and a testing 0.8-meter long prototype. Extensive mechanical testing of the HGVPU has been carried out. The magnetic tuning was accomplished by applying a set of magnetic shims. As a result, the performance of the HGVPU meets all the stringent requirements for the LCLS-II insertion device, which includes limits on the field integrals and phase errors for all operational gaps, as well as the reproducibility and accuracy of the gap settings. The HGVPU has been included in the baseline of the LCLS-II project for the hard x-ray undulator line.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB23
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB24
+Preliminary Test Results of a Prototype Fast Kicker for APS MBA Upgrade
+950
+
+
+ 
+
+C. Yao, A. Barcikowski, A.R. Brill, J. Carwardine, T.K. Clute, Z.A. Conway, A.R. Cours, G. Decker, R.T. Keane, F. Lenkszus, L.H. Morrison, X. Sun, J. Wang, F. Westferro, A. Xiao
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The APS multi-bend achromatic (MBA) upgrade storage ring plans to support two bunch fill patterns: a 48-bunch and a 324-bunch. A "swap out" injection scheme is required. In order provide the required kick to injected beam, to minimize the beam loss and residual oscillation of injected beam, and to minimize the perturbation to stored beam during injection, the rise, fall, and flat-top parts of the kicker pulse must be within a 16.9-ns interval. Stripling-type kickers are chosen for both injection and extraction. We developed a prototype kicker that supports a ±15kV differential pulse voltage. We performed high voltage discharge, TDR measurement, high voltage pulse test and beam test of the kicker. We report the design of the fast kicker and the test results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB24
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB25
+Analytical Modeling of Electron Back-Bombardment Induced Current Increase in Un-Gated Thermionic Cathode Rf Guns
+953
+
+
+ 
+
+J.P. Edelen
+                       Fermilab, Batavia, Illinois, USA
+J.R. Harris
+                       Directed Energy Directorate, Air Force Research Laboratory, Albuquerque, USA
+J.W. Lewellen
+                       LANL, Los Alamos, New Mexico, USA
+Y. Sun
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+In this paper we derive analytical expressions for the output current of an un-gated thermionic cathode RF gun in the presence of back-bombardment heating. We provide a brief overview of back-bombardment theory and discuss comparisons between the analytical back-bombardment predictions and simulation models. We then derive an expression for the output current as a function of the RF repetition rate and discuss relationships between back-bombardment, field-enhancement, and output current. We discuss in detail the relevant approximations and then provide predictions about how the output current should vary as a function of repetition rate for some given system configurations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB25
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB26
+Observation of Repetition-Rate Dependent Emission From an Un-Gated Thermionic Cathode Rf Gun
+956
+
+
+ 
+
+J.P. Edelen
+                       Fermilab, Batavia, Illinois, USA
+J.R. Harris
+                       Directed Energy Directorate, Air Force Research Laboratory, Albuquerque, USA
+J.W. Lewellen
+                       LANL, Los Alamos, New Mexico, USA
+Y. Sun
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Recent work at Fermilab in collaboration with the Advanced Photon Source and members of other national labs, designed an experiment to study the relationship between the RF repetition rate and the average current per RF pulse. While existing models anticipate a direct relationship between these two parameters we observed an inverse relationship. We believe this is a result of damage to the barium coating on the cathode surface caused by a change in back-bombardment power that is unaccounted for in the existing theories. These observations shed new light on the challenges and fundamental limitations associated with scaling an un-gated thermionic cathode RF gun to high average current.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB26
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB27
+Modification of 3rd Harmonic Cavity for CW Operation in LCLS-II Accelerator
+960
+
+
+ 
+
+T.N. Khabiboulline, M.H. Awida, I.V. Gonin, A. Lunin, N. Solyak, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+A 3.9 GHz 3rd harmonic cavity was developed at FNAL and it is currently used in the FLASH accelerator at DESY in order to improve FEL operation. The European XFEL accelerator in Hamburg also adapted the same cavity design for a pulsed linac operation. The 3rd harmonic cavity for the LCLS-II accelerator at SLAC will operate in a continuous wave (CW) regime. A CW operation and a high average current in the LCLS-II linac result in in-creased heat loads to main and HOM couplers of the cavity. Several cavity design modifications were pro-posed and investigated for improving a cavity perfor-mance in the CW regime. In this paper we present results of the design review for proposed modifications
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB27
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB29
+Modeling of Dark Current Generation and Transport Using the IMPACT-T Code
+964
+
+
+ 
+
+J. Qiang, K. Hwang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Dark current from unwanted electrons in photoinjector can present significant danger to the accelerator operation by causing damage to photocathode and power deposition onto conducting wall. In this paper, we present numerical models of dark current generation from the field emission and from the electron impact ionization of the residual gas that were recently developed in the IMPACT-T code. We also report on the application of above numerical model to an LCLS-II like photoinjector.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB29
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB30
+Simulation of the Shot-Noise Driven Microbunching Instability Experiment at the LCLS
+967
+
+
+ 
+
+J. Qiang
+                       LBNL, Berkeley, California, USA
+Y. Ding, P. Emma, Z. Huang, D.F. Ratner, T.O. Raubenheimer, F. Zhou
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The shot-noise driven microbunching instability can significantly degrade electron beam quality in next generation light sources. Experiments were carried out at the Linac Coherent Light Source (LCLS) to study this instability. In this paper, we will present start-to-end simulation of the shot-noise driven microbunching instability experiment at the LCLS.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB30
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB31
+Dark Current Study of a Standing Wave Disk-Loaded Waveguide Structure at 17 GHz
+971
+
+
+SUPO51
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+H. Xu, M.A. Shapiro, R.J. Temkin
+                       MIT/PSFC, Cambridge, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: US DoE, Office of High Energy Physics
+We present calculations of the dark current in a high gradient accelerator with the intent of understanding its role in breakdown. The initial source of the dark current is the field emission of electrons. For a 17 GHz single-cell standing wave disk-loaded waveguide structure, the 3D particle-in-cell simulation shows that only a small portion of the charge emitted reaches the current monitors at the ends of the structure, while most of the current collides on the structure surfaces, causing secondary electron emission. In the simulation, a two-point multipactor process is observed on the side wall of the cell due to the low electric field on the surface. The multipactor approaches a steady state within nanoseconds when the electric field is suppressed by the electron cloud formed so that the average secondary electron yield is reduced. This multipactor current can cause the ionization of the metal material and surface outgassing, leading to breakdown. We report first results from an experiment designed to extract dark current directly from an accelerator cell from the side through two slits. First results show that the dark current behavior deviates from the field emission theory.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB31
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB32
+Performance of a Combined System Using an X-Ray FEL Oscillator and a High-Gain FEL Amplifier
+974
+
+
+SUPO14
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+L. Gupta
+                       University of Chicago, Chicago, Illinois, USA
+K.-J. Kim, R.R. Lindberg
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: [5] R. R. Lindberg, K.-J. Kim, "Intense, coherent x-rays at 40 keV or higher by combining an XFELO and a high-gain harmonic generation," (in prep) US DOE contract DE-AC02-06CH11357 & NSF PHY-1535639
+The LCLS-II at SLAC will feature a 4 GeV CW superconducting (SC) RF linac [1] that can potentially drive a 5th harmonic X-Ray FEL Oscillator to produce fully coherent, 1 MW photon pulses with a 5 meV bandwidth at 14.4 keV [2]. The XFELO output can serve as the input seed signal for a high-gain FEL amplifier employing fs electron beams from the normal conducting SLAC linac, thereby generating coherent, fs x-ray pulses with ~TW peak powers using a tapered undulator after saturation [3]. Coherent, intense output at several tens of keV will also be feasible if one considers a harmonic generation scheme. Thus, one can potentially reach the 42 keV photon energy required for the MaRIE project [4] by beginning with an XFELO operating at the 5th harmonic to produce 8.4 keV photons using a 3.1 GeV SCRF linac, and then subsequently using the high-gain harmonic generation scheme to generate and amplify the 5th harmonic at 42 keV [5]. We report extensive GINGER simulations that determine an optimized parameter set for the combined system. [1] "Linac Coherent Light Source-II Conceptual Design Report," SLAC-R-978 (2011)
+[2] T. J. Maxwell, et al., "Feasibility Study for an X-Ray FEL Oscillator at the LCLS-II," IPAC, Richmond, VA (May, 2015)  [3] K.-J. Kim, et al., IPAC 2016  [4] http://www.lanl.gov 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB32
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB35
+LLNL Laser-Compton X-Ray Characterization
+977
+
+
+SUPO18
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Y. Hwang, T. Tajima
+                       UCI, Irvine, California, USA
+G.G. Anderson, C.P.J. Barty, D.J. Gibson, R.A. Marsh
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52- 07NA27344
+30 keV Compton-scattered X-rays have been produced at LLNL. The flux, bandwidth, and X-ray source focal spot size have been characterized using an X-ray ICCD camera and results agree very well with modeling predictions. The RMS source size inferred from direct electron beam spot size measurement is 17 um , while imaging of the penumbra yields an upper bound of 42 um. The accuracy of the latter method is limited by the spatial resolution of the imaging system, which has been characterized as well, and is expected to improve after the upgrade of the X-ray camera later this year.
+
+ 
+
+
+
+
+
+
+Poster WEPOB35 [37.648 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB35
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB36
+Upgrade of the Cornell Electron Storage Ring as a Synchrotron Light Source
+980
+
+
+ 
+
+D. L. Rubin, J.A. Crittendenpresenter, J.P. Shanks, S. Wang
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: NSF-DMR 13-32208
+The planned upgrade of the Cornell Electron Storage Ring as an X-ray source for CHESS will include an increase in beam energy and decrease in emittance from 100 nm-rad at 5.3 GeV to 30 nm-rad at 6 GeV, increase in beam current from 120 to 200 mA, continuous top-off injection of the single circulating beam, and four new zero dispersion inser- tion straights that can each accommodate a pair of canted undulators. The existing sextant of the storage ring arc that serves as the source for all of the CHESS X-ray beam lines will be reconfigured with 6 double-bend achromats, each consisting of two pairs of horizontally focusing quadrupoles, and a single pair of combined-function gradient bend magnets. The chromaticity will be compensated by the existing sextupoles in the legacy FODO arcs. We describe details of the linear optics, sextupole distributions to maximize dynamic aperture and injection efficiency, and characterization of magnetic field and alignment error tolerance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB36
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB39
+Photo-Injector Optimization and Validation Study with the OPAL Beam Simulation Code
+984
+
+
+ 
+
+L.D. Duffy, K. Bishofberger, J.W. Lewellen, S.J. Russell, D.Y. Shchegolkov
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+A 42 keV x-ray free electron laser (XFEL) is a plausible technology alternative for the Matter Radiation Interactions in Extremes (MaRIE) experimental project, a concept developed by Los Alamos National Laboratory. An early pre-conceptual design for such an XFEL calls for 100 pC electron bunches with very low emittance and energy spread. High fidelity simulations that capture all beamline physics will be required to ensure a successful design. We expect to use the beam simulation code OPAL as one of the tools in this process. In this study, we validate OPAL as a photo-injector design tool by comparing its performance with published PITZ experimental data and simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB39
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB41
+Quality Factor in High Power Tests of Cryogenic Copper Accelerating Cavities
+987
+
+
+SUPO04
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A.D. Cahill, J.B. Rosenzweig
+                       UCLA, Los Angeles, California, USA
+V.A. Dolgashev, M.A. Franzi, S.G. Tantawi, S.P. Weathersby
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Research made possible by DOE SCGSR and DOE/SU Contract DE-AC02-76-SF00515
+Recent SLAC experiments with cryogenically cooled 11.4 GHz standing wave copper accelerating cavities have shown evidence of 250 MV/m accelerating gradients with low breakdown rates. The gradient depends on the circuit parameters of the accelerating cavity, such as the intrinsic and external quality factors (Q0, QE). In our studies we see evidence that Q0 decreases during rf pulse at 7-70 K. This paper discusses experiments that are directed towards understanding the change of Q0 at high power.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB41
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB42
+High Gradient S-Band Cryogenic Accelerating Structure for RF Breakdown Studies
+991
+
+
+ 
+
+A.D. Cahill, A. Fukasawa, J.B. Rosenzweig
+                       UCLA, Los Angeles, California, USA
+G.B. Bowden, V.A. Dolgashev, S.G. Tantawi
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work Supported by DOE/SU Contract DE-AC02-76-SF00515 and DOE SCGSR Fellowship
+Operating accelerating gradient in normal conducting accelerating structures is often limited by rf breakdowns. The limit depends on multiple parameters, including input rf power, rf circuit, cavity shape, cavity temperature, and material. Experimental and theoretical study of the effects of these parameters on the breakdown physics is ongoing at SLAC. As of now, most of the data has been obtained at 11.4 GHz. We are extending this research to S-band. We have designed a single cell accelerating structure, based on the extensively tested X-band cavities. The setup uses matched TM01 mode launcher to feed rf power into the test cavity. Our ongoing study of the physics of rf breakdown in cryogenically X-band accelerating cavities shows improved breakdown performance. Therefore, this S-band experiment is designed to cool the cavity to cryogenic temperatures. We use operating frequencies near 2.856 GHz. We present the rf design and discuss the experimental setup.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB42
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB46
+Technology Development Toward High Duty Cycle Inverse Compton Scattering X-Ray Source
+ 
+
+
+THB3CO04
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A.Y. Murokh, R.B. Agustsson, T.J. Campese, A.G. Ovodenko
+                       RadiaBeam, Santa Monica, California, USA
+M. Babzien, M.G. Fedurin, I. Pogorelsky, M.N. Polyanskiy, T.V. Shaftan, C. Swinson
+                       BNL, Upton, Long Island, New York, USA
+J.B. Rosenzweig, Y. Sakai
+                       UCLA, Los Angeles, California, USA
+
+ 
+
+
+ 
+
+An important challenge in the development of practical X-ray sources based on Inverse Compton Scattering is the implementation of a reliable, increased-repetition-rate operation cycle. To this end, we report the first demonstration of an actively re-amplified CO2 laser intra-cavity ICS source, which matches the electron linac pulse structure at 40 MHz repetition rate. Multi-bunch interaction with 5- and 15-pulse trains was demonstrated, and near linear photon yield gain from multi-pulse interaction was demonstrated. The system shows noticeably higher operational reliability than several contemporary single shot systems, as well as a great potential for future scalability.
+
+ 
+
+
+
+
+
+
+Slides WEPOB46 [2.320 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB47
+Development of a Short Period Cryogenic Undulator at RadiaBeam
+995
+
+
+ 
+
+F.H. O'Shea, R.B. Agustsson, Y.C. Chen, A.J. Palmowski, E. Spranza
+                       RadiaBeam, Santa Monica, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by DOE under contracts DE-SC0006288 and NNSA SSAA DE-NA0001979.
+RadiaBeam Technologies has developed a 7-mm period length cryogenic undulator prototype to test fabrications techniques in cryogenic undulator production. We present here our first prototype, the production techniques used to fabricate it, its magnetic performance at room temperature and the temperature uniformity after cool down.
+
+ 
+
+
+
+
+
+
+Poster WEPOB47 [2.725 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB47
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB48
+THz and Sub-THz Capabilities of a Table-Top Radiation Source Driven by an RF Thermionic Electron Gun
+998
+
+
+ 
+
+A.V. Smirnov, R.B. Agustsson, S. Boucher, T.J. Campese, Y.C. Chen, J.J. Hartzell, B.T. Jacobson, A.Y. Murokh, F.H. O'Shea, E. Spranza
+                       RadiaBeam, Santa Monica, California, USA
+W. Berg, M. Borland, J.C. Dooling, L. Erwin, R.R. Lindberg, S.J. Pasky, N. Sereno, Y. Sun, A. Zholents
+                       ANL, Argonne, Illinois, USA
+W. Bruns
+                       WBFB, Berlin, Germany
+M.J. de Loos, S.B. van der Geer
+                       Pulsar Physics, Eindhoven, The Netherlands
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy (award No. DE-SC-FOA-0007702).
+Design features and experimental results are presented for a sub-mm wave source [1] based on APS RF thermionic electron gun. The setup includes compact alpha-magnet, quadrupoles, sub-mm-wave radiators, and THz optics. The sub-THz radiator is a planar, oversized structure with gratings. Source upgrade for generation frequencies above 1 THz is discussed. The THz radiator will use a short-period undulator having 1 T field amplitude, ~20 cm length, and integrated with a low-loss oversized waveguide. Both radiators are integrated with a miniature horn antenna and a small ~90°-degree in-vacuum bending magnet. The electron beamline is designed to operate different modes including conversion to a flat beam interacting efficiently with the radiator. The source can be used for cancer diagnostics, surface defectoscopy, and non-destructive testing. Sub-THz experiment demonstrated a good potential of a robust, table-top system for generation of a narrow bandwidth THz radiation. This setup can be considered as a prototype of a compact, laser-free, flexible source capable of generation of long trains of Sub-THz and THz pulses with repetition rates not available with laser-driven sources.
+[1] A. V. Smirnov, R. Agustsson, W. J. Berg et al., Phys. Rev. ST Accel. Beams 18, 090703(2015)
+
+ 
+
+
+
+
+
+
+Poster WEPOB48 [1.335 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB48
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB49
+LCLS Injector Laser Profile Shaping Using Digital Micromirror Device
+1001
+
+
+SUPO22
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S. Li
+                       Stanford University, Stanford, California, USA
+S.C. Alverson, D.K. Bohler, A.R. Fry, S. Gilevich, Z. Huang, A. Miahnahri, D.F. Ratner, J. Robinson, F. Zhou
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+In the Linear Coherent Light Source (LCLS) at SLAC, the injector laser plays an important role as the source of the electron beam for the Free Electron Laser (FEL). The emittance of the beam is highly related to the transverse profile of the injector laser. Currently the LCLS injector laser has undesired features, such as hot spots, which carry over to the electron beam. These undesired features increase electron emittance, degrade the FEL performance, and complicate operations. The injector laser shaping project at LCLS aims to produce arbitrary electron beam profiles, such as cut-Gaussian, uniform, and parabolic, and to study the effect of spatial profiles on beam emittance and FEL performance. Effectively it also allows easy transition between the two spare lasers, where the operators can use the spatial shaper to achieve identical profiles for the two lasers. In this paper, we describe the experimental methods to achieve laser profile shaping and electron beam profile shaping respectively, and demonstrate promising results.
+
+ 
+
+
+
+
+
+
+Poster WEPOB49 [1.850 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB49
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB53
+Computation of Synchrotron Radiation
+1005
+
+
+ 
+
+D.A. Hidas
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+This presentation introduces a new open-source software development for the computation of radiation from charged particles and beams in magnetic and electric fields. The computations are valid in the near-field regime for both relativistic and non-relativistic scenarios. This project is being developed, and is currently in use, at Brookhaven National Laboratory's National Synchrotron Light Source II. Primary applications include, but are not limited to, the computation of spectra, photon flux densities, and power density distributions from undulators, wigglers, and bending magnets on arbitrary shaped surfaces in 3D making possible detailed study of sensitive accelerator and beam-line equipment. Application interfaces are available in Python, Mathematica, and C. Practical use cases are demonstrated and benchmarked. Additionally, future upgrades will be elaborated on.
+
+ 
+
+
+
+
+
+
+Poster WEPOB53 [27.003 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB53
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB54
+DC Photogun Gun Test for RHIC Low Energy Electron Cooler (LEReC).
+1008
+
+
+ 
+
+D. Kayran, Z. Altinbas, D.R. Beavis, S. Bellavia, D. Bruno, M.R. Costanzo, A.V. Fedotov, D.M. Gassner, J. Halinski, K. Hamdi, J.P. Jamilkowski, J. Kewisch, C.J. Liaw, G.J. Mahler, T.A. Miller, S.K. Nayak, T. Rao, S. Seletskiy, B. Sheehy, J.E. Tuozzolo, Z. Zhao
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. DOE.
+Non-magnetized bunched electron cooling of low-energy RHIC requires electron beam energy in range of 1.6-2.6 MeV, with average current up to 45 mA, very small energy spread, and low emittance [1]. A 400 kV DC gun equipped with photocathode and laser delivery system will serve as a source of high-quality electron beam. Acceleration will be achieved by an SRF 704 MHz booster cavity and other RF components that are scheduled to be operational in early 2018. The DC gun testing in its installed location in RHIC will start in early 2017. During this stage we plan to test the critical equipment in close to operation conditions: laser beam delivery system, cathode QE lifetime, DC gun, beam instrumentation, high power beam dump system, and controls. In this paper, we describe the gun test set up, major components, and parameters to be achieved and measured during the gun beam test.
+[1] A. Fedotov. Bunched beam electron cooling for Low Energy RHIC operation. ICFA Beam Dynamics letter, No. 65, p. 22 (December 2014)
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB54
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB55
+Simulation of Stray Electrons in the RHIC Low Energy Cooler
+1012
+
+
+ 
+
+J. Kewisch
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+The Low Energy RHIC electron Cooler, under construction at BNL, accelerates electrons with a 400 kV DC gun and a 2.2 MeV SRF booster cavity. Electrons which leave the cathode at the wrong time will not be accelerated to the correct energies and will not reach the beam dump at the end of the accelerator. Thy may impact the beam pipe after incorrect deflection in dipoles or after being slowed down longitudinally in the booster while the transverse momentum is not affected. In some cases their direction is reversed in the booster and they will impact the cathode. We simulated the trajectories of these electrons using the GPT tracking code. The results are qualitative, not quantitative, since the sources and numbers of the stray electrons are unknown.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB55
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB56
+Beam Optics for the RHIC Low Energy Electron Cooler  (LEReC)
+1015
+
+
+ 
+
+J. Kewisch, A.V. Fedotov, D. Kayran, S. Seletskiy
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+A Low-energy RHIC Electron Cooler (LEReC) system is presently under construction at Brookhaven National Laboratory. This device shall enable gold ion collisions at energies below the design injection energy with sufficient luminosity. Electron beam with energies between 1.6, 2.0 and 2.6 MeV are necessary. This machine will be the first to attempt electron cooling using bunched electron beam, using a 703 MHz SRF cavity for acceleration. Special consideration must be given to the effect of space charge forces on the transverse and longitudinal beam quality. We will present the current layout of the cooler and beam parameter simulations using the computer codes PARMELA.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB56
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB57
+Magnetic Optimization of Long EPUs at NSLS-II
+1018
+
+
+ 
+
+C.A. Kitegi, P.L. Cappadoro, O.V. Chubar, T.M. Corwin, H.C. Fernandes, D.A. Harder, D.A. Hidas, W. Licciardi, M. Musardo, J. Rank, C. Rhein, T. Tanabe
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The Soft Inelastic X-ray scattering (SIX) and the Elec-tron-Spectro-Microscopy (ESM) are two beamlines under construction at National Synchrotron Light Source-II (NSLS-II). The specifics of these two beamlines requested the use of two long Advanced Planar Polarized Light Emitter-II (APPLE-II) undulators, as a source that provides circularly and vertically polarized radiation. Thus we designed 3.5 m and 2.7m long APPLE-II type undulators for SIX and ESM. The NSLS-II ID group is responsible for the magnetic optimization of these two long undulators. In this paper, we first summarize the APPLE-II magnetic and mechanical design. Then, we discuss the magnetic performance of the first APPLE-II achieved with the shimming performed at BNL.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB57
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB58
+Cathode Puck Insertion System Design for the LEReC Photoemission DC Electron Gun
+1021
+
+
+ 
+
+C.J. Liaw, V. De Monte, L. DeSanto, K. Hamdi, M. Mapes, T. Rao, A.N. Steszyn, J.E. Tuozzolo, J. Walsh
+                       BNL, Upton, Long Island, New York, USA
+K.W. Smolenski
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. DOE.
+The operation of LEReC is to provide an electron cooling to improve the luminosity of the RHIC heavy ion beam at lower energies in a range of 2.5-25 GeV/nucleon. The electron beam is generated in a DC Electron Gun (DC gun) designed and built by the Cornell High Energy Synchrotron Source Group. This DC gun will operate around the clock for at least two weeks without maintenance. This paper presents the design of a reliable cathode puck insertion system, which includes a multi-pucks storage device, a transfer mechanism, a puck insertion device, a vacuum/control system, and a transport scheme.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB58
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB59
+Performance of CEC Pop Gun During Commissioning
+1024
+
+
+ 
+
+I. Pinayev, W. Fu, Y. Hao, M. Harvey, T. Hayes, J.P. Jamilkowski, Y.C. Jing, P. K. Kankiya, D. Kayran, R. Kellermann, V. Litvinenko, G.J. Mahler, M. Mapes, K. Mernick, K. Mihara, T.A. Miller, G. Narayan, M.C. Paniccia, W.E. Pekrul, T. Rao, F. Severino, B. Sheehy, J. Skaritka, K.S. Smith, J.E. Tuozzolo, E. Wang, G. Wang, W. Xu, A. Zaltsman, Z. Zhao
+                       BNL, Upton, Long Island, New York, USA
+I. Petrushina
+                       SUNY SB, Stony Brook, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The Coherent Electron Cooling Proof-of-Principle (CeC PoP) experiment employs a high-gradient CW photo-injector based on the superconducting RF cavity. Such guns operating at high accelerating gradients promise to revolutionize many sciences and applications. They can establish the basis for super-bright monochromatic X-ray and gamma ray sources, high luminosity hadron colliders, nuclear waste transmutation or a new generation of microchip production. In this paper we report on our operation of a superconducting RF electron gun with a high accelerating gradient at the CsK2Sb photo-cathode (i.e. ~ 20 MV/m) generating a record-high bunch charge (above 4 nC). We give short description of the system and then detail our experimental results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB59
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB60
+Commissioning of CeC PoP Accelerator
+1027
+
+
+ 
+
+I. Pinayev, Z. Altinbas, J.C.B. Brutus, A.J. Curcio, A. Di Lieto, C. Folz, W. Fu, D.M. Gassner, Y. Hao, M. Harvey, T. Hayes, R.L. Hulsart, J.P. Jamilkowski, Y.C. Jing, P. K. Kankiya, D. Kayran, R. Kellermann, V. Litvinenko, G.J. Mahler, M. Mapes, K. Mernick, R.J. Michnoff, K. Mihara, T.A. Miller, G. Narayan, P. Orfin, M.C. Paniccia, D. Phillips, T. Rao, F. Severino, B. Sheehy, J. Skaritka, L. Smart, K.S. Smith, V. Soria, Z. Sorrell, R. Than, J.E. Tuozzolo, E. Wang, G. Wang, B. P. Xiao, W. Xu, A. Zaltsman, Z. Zhao
+                       BNL, Upton, Long Island, New York, USA
+I. Petrushina
+                       SUNY SB, Stony Brook, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Coherent electron cooling is new cooling technique to be tested at BNL. Presently we are in the commissioning stage of the accelerator system. In this paper we present status of various systems and achieved beam parameters as well as operational experience. Near term future plans are also discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB60
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB61
+Magnetic Shielding of LEReC Cooling Section
+1030
+
+
+ 
+
+S. Seletskiy, A.V. Fedotov, D.M. Gassner, D. Kayran, G.J. Mahler, W. Meng
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The transverse angle of the electron beam trajectory in the low energy RHIC Electron Cooling (LEReC) accelerator cooling section (CS) must be much smaller than 100 urad. This requirement sets 2.3 mG limit on the ambient transverse magnetic field. The maximum ambient field in the RHIC tunnel along the cooling section was measured to be 0.52 G. In this paper we discuss the design of the proposed LEReC CS magnetic shielding, which is capable of providing required attenuation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB61
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB62
+Absolute Energy Measurement of the LEReC Electron Beam
+1033
+
+
+ 
+
+S. Seletskiy, M. Blaskiewicz, A.V. Fedotov, D. Kayran, J. Kewisch, T.A. Miller, P. Thieberger
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The goal of future operation of the low energy RHIC Electron Cooling (LEReC) accelerator is to cool the RHIC ion beams. To provide successful cooling, the velocities of the RHIC ion beam and the LEReC electron beam must be matched with 10-4 accuracy. While the energy of ions will be known with the required accuracy, the e-beam energy can have an initial offset as large as 5%. The final setting of the e-beam energy will be performed by observing either the Schottky spectrum of debunched ions co-traveling with the e-beam or the recombination signal. Yet, to start observing such signals one has to set the absolute energy of the electron beam with an accuracy better than 10-2, preferably better than 5·10-3. In this paper we discuss how such accuracy can be reached by utilizing the LEReC 180 degree bend as a spectrometer.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB62
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB65
+Experiments of Lossless Crossing - Resonance With Tune Modulation by Synchrotron Oscillations
+1036
+
+
+ 
+
+G.M. Wang, B. Holub, Y. Li, J. Rose, T.V. Shaftan, V.V. Smaluk
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+It had become a standard practice to constrain particle's tune footprint while designing the storage ring lattice so that the tunes fit between harmful resonances that limit ring dynamic aperture (DA). However, in recent ultra-bright light source design, the nonlinearities of storage ring lattices are much enhanced as compared with the 3rd generation light source one. It is becoming more and more difficult to keep the off-momentum tune footprint confined and even more, the solution cannot be found to confine off-energy tune footprint in certain cases. The questions have been asked whether crossing of a resonance stopband from off-momentum particle will necessarily lead to particle loss. In NSLS-II, we modified the lattice working point to mimic machine tune footprint crossing half integer with beam synchrotron oscillation excitation and demonstrated that beam can cross a resonance without loss with control of stopband width and high order chromaticity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB65
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB66
+NSLS-II Post Mortem Function Development and Data Analysis of Beam Dump
+1039
+
+
+ 
+
+G.M. Wang, W.X. Cheng, J. Choi, L. Doom, K. Ha, T.V. Shaftan, R.M. Smith, J. Tagger, Y. Tian
+                       BNL, Upton, Long Island, New York, USA
+R.V. Madelon
+                       University of Orleans, Orleans, France
+
+ 
+
+
+ 
+
+The National Synchrotron Light Source II (NSLS-II) is a state of the art 3 GeV third generation light source at Brookhaven National Laboratory. The storage ring was commissioned in 2014 and transitioned to routine operations in the December of the same year. At this point the facility hosts 14 operating beam lines with beam current upto 250 mA. During beamline operation, various sources (protection system or subsystem malfunction) may cause beam dump. To identify the beam trip sources and improve the operation reliability, post mortem function was developed in NSLS-II to capture the sub-systems status and beam information prior and after beam dump, including RF system, power supply, BPMs and active interlock system. Most of the trip events have been identified and related source was improved. In this paper, we'll present the post mortem function and data application.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB66
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB67
+K2CsSb Photocathode Performance in QWR SRF Gun
+1042
+
+
+ 
+
+E. Wang, Y. Hao, Y.C. Jing, V. Litvinenko, I. Pinayev, T. Rao, J. Skaritka, G. Wang, T. Xin
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+In 2016 run of Coherent Electron Cooling, we have successfully tested the performance of a number of K2CsSb cathodes. These cathodes with QE of 6%-10% were fabricated in Instrumentation Division, a few miles away, transported to RHIC tunnel under UHV conditions, attached to the CeC gun, kept in storage, and inserted in the gun as needed. A maximum bunch charge of 4.6 nC was generated in the gun when the QE was 1.8 %. With careful conditioning at increasing accelerating fields, it was possible to maintain the QE of several cathodes for more than a week. For the cathodes that experienced degradation, the primary cause was multipacting when the power into the gun was increased. In the initial runs, the entire 20 mm substrate face was coated with the cathode material causing cathode induced multipacting. For subsequent measurements, the substrate was masked to coat only the central 9 mm of the substrate. By optimizing the procedure for boosting the power to the gun and covering all viewports to minimize dark current, we were able to minimize QE degradation. In this paper we discuss the cathode preparation, transfer to the gun and operational experience with the cathodes in 112 MHz gun.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB67
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB68
+DESIGN AND SIMULATION OF EMITTANCE MEASUREMENT WITH MULTI-SLIT FOR LEREC
+1045
+
+
+ 
+
+C. Liu, A.V. Fedotov, J. Kewisch, M.G. Minty
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+To improve the luminosity of beam energy scan of low energy Au-Au collision, a electron machine is under con- struction to cool ion beams in both RHIC rings with pulsed electron beam. Over the course of the project, a multi- slit device is needed to characterize the transverse beam emittance of three energies, 0.4, 1.6 and 2.6 MeV. This re- port shows the optimization and compromise of the design, which include the slit width, slit spacing, and drift space from the multi-slit to the downstream profile monitor.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB68
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB69
+Impedance Simulation for LEReC Booster Cavity Transformed from ERL Gun Cavity
+1048
+
+
+ 
+
+C. Liu
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Wake impedance induced energy spread is a concern for the electron beam to be used for electron cooling of the low energy ion beams in RHIC. The impedance simulation of the booster cavity for the Low Energy RHIC electron cooling (LEReC) project is presented in this report. The simulation is done for both non-relativistic and ultra-relativistic cases. The space charge impedance in the first case is discussed. For an impedance budget consideration of the electron machine only a simulation of the geometrical impedance in the latter case is necessary since space charge is considered separately.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB69
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOB70
+Mechanical Straightening of the 3-m Accelerating Structures at the Advanced Photon Source
+1051
+
+
+ 
+
+D.J. Bromberek, W.G. Jansma, T.L. Smith, G.J. Waldschmidt
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+A project is underway at the Advanced Photon Source to mechanically straighten the thirteen 3 meter accelerating structures in the Linac in order to minimize transverse wakefield, and improve charge transport efficiency and beam quality. Flexure supports allow positioning of the structures in the X & Y directions. Mechanical design of the flexure support system, straightening techniques, mechanical measurement methods, and mechanical & RF results will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2016-WEPOB70
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

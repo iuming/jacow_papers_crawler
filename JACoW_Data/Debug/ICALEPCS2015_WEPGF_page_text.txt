@@ -1,0 +1,5320 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: WEPGF (Poster session)
+
+
+WEPGF —  Poster session   (21-Oct-15   17:15—18:15)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPGF001
+The Instrument Control Electronics of the ESPRESSO Spectrograph @VLT
+689
+
+
+ 
+
+V. Baldini, G. Calderone, R. Cirami, I. Corettipresenter, S. Cristiani, P. Di Marcantonio, P. Santin
+                       INAF-OAT, Trieste, Italy
+D. Mégevand
+                       Université de Genève, Observatoire Astronomique, Versoix, Switzerland
+F. Zerbi
+                       INAF-Osservatorio Astronomico di Brera, Merate, Italy
+
+ 
+
+
+ 
+
+ESPRESSO, the Echelle SPectrograph for Rocky Exoplanet and Stable Spectroscopic Observations, is a super-stable Optical High Resolution Spectrograph for the Combined Coudé focus of the VLT. It can be operated either as a single telescope instrument or as a multi-telescope facility, by collecting the light of up to four UTs. From the Nasmyth focus of each UT the light is fed, through a set of optical elements (Coudé Train), to the Front End Unit which performs several functions, as image and pupil stabilization, inclusion of calibration light and refocusing. The light is then conveyed into the spectrograph fibers. The whole process is handled by several electronically controlled devices. About 40 motorized stages, more than 90 sensors and several calibration lamps are controlled by the Instrument Control Electronics (ICE) and Software (ICS). The technology employed for the control of the ESPRESSO subsystems is PLC-based, with a distributed layout close to the functions to control. This paper illustrates the current status of the ESPRESSO ICE, showing the control architecture, the electrical cabinets organization and the experiences gained during the development and assembly phase.
+
+ 
+
+
+
+
+
+
+Poster WEPGF001 [5.729 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF001
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF002
+A Protocol for Streaming Large Messages with UDP
+693
+
+
+ 
+
+C.I. Briegel, R. Neswold, M.Z. Sliczniak
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+We have developed a protocol concatenating UDP datagrams to stream large messages. The datagrams can be sized to the optimual size of the receiver. The protocol provides acknowledged reception based on a sliding window concept. The implementation provides for up to 10 Mbyte messages and guarrantees complete delivery or a corresponding error. The protocol is implemented as a standalone messaging between two sockets and also within the context of Fermilab's ACNet protocol. Results of this implementation in vxWorks is analyzed.
+
+ 
+
+
+
+
+
+
+Poster WEPGF002 [0.796 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF005
+The New Modular Control System for Power Converters at CERN
+697
+
+
+ 
+
+M. Di Cosmo, B. Todd
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN Accelerator Complex consists of several generations of particle accelerators, having around 5000 power converters supplying regulated current and voltage to normal and superconducting magnets. Today around 12 generations of legacy control system types are in operation in the accelerator complex, having significant impact on operability, support and flexibility for the converter controls electronics. Over the past years a new generation of modular controls called RegFGC3 has been developed by CERN's power conversion group. The goal is to provide a new standardised and cost effective control solution, supporting the largest number of converter topologies in a single platform. This will reduce the maintenance cost by decreasing the variety and diversity of control systems whilst simultaneously improving the operability of power converters. This paper describes Thyristor-based power converter controls as well as the on-going design and realization, focusing on functional requirements and first implementation.
+
+ 
+
+
+
+
+
+
+Poster WEPGF005 [1.132 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF005
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF006
+Magnet Server and Control System Database Infrastructure for the European XFEL
+701
+
+
+ 
+
+L. Fröhlich, P.K. Bartkiewicz, M. Walla
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The linear accelerator of the European XFEL will use more than 1400 individually powered electromagnets for beam guidance and focusing. Front-end servers establish the low-level interface to several types of power supplies, and a middle layer server provides control over physical parameters like field or deflection angle in consideration of the hysteresis curve of the magnet. A relational database system with stringent consistency checks is used to store configuration data. The paper focuses on the functionality and architecture of the middle layer server and gives an overview of the database infrastructure.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF006
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF010
+Securing Access to Controls Applications with Apache httpd Proxy
+705
+
+
+ 
+
+P. Golonka
+                       CERN, Geneva, Switzerland
+H.T.T. Kamarainen
+                       JAMK, Jyväskylä, Finland
+
+ 
+
+
+ 
+
+Many commercial systems used for controls nowadays contain embedded web servers. Secure access to these, often essential, facilities is of utmost importance, yet it remains complicated to manage for different reasons (e.g. obtaining and applying patches from vendors, ad-hoc oversimplified implementations of web-servers are prone to remote exploit). In this paper we describe a security-mediating proxy system, which is based on the well-known Apache httpd software. We describe how the use of the proxy made it possible to simplify the infrastructure necessary to start WinCC OA-based supervision applications on operator consoles, providing, at the same time, an improved level of security and traceability. Proper integration with the CERN central user account repository allows the operators to use their personal credentials to access applications, and also allows one to use standard user management tools. In addition, easy-to-memorize URL addresses for access to the applications are provided, and the use of a secure https transport protocol is possible for services that do not support it on their own.
+
+ 
+
+
+
+
+
+
+Poster WEPGF010 [1.824 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF011
+Progress of the Control Systems for the ADS injector II
+709
+
+
+ 
+
+Y.H. Guo, Z. He, H.T. Liu, T. Liu, J.B. Luo, J. Wang, Y.P. Wang
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+This paper reports the progress of the control system for accelerator injector II used in China initiative accelerator driven sub-critical (ADS) facility. As a linear proton accelerator, injector II includes an ECR ion source, a low-energy beam transport line, a radio frequency quadrupole accelerator, a medium energy beam transport line, several crymodules, and a diagnostics plate. Several subsystems in the control system have been discussed, such as a machine protection system, a timing system, and a data storage system. A three-layer control system has been developed for injector II. In the equipment layer, the low-level control with various industrial control cards, such as programmable logic controller and peripheral component interconnect (PCI), have been reported. In the middle layer, a redundant Gigabit Ethernet based on the Ethernet ring protection protocol has been used in the control network for Injector II. In the operation layer, high-level application software has been developed for the beam commissioning and the operation of the accelerator. Finally, by using this control system, the proton beam commissioning for Injector II in the control room has been mentioned.
+
+ 
+
+
+
+
+
+
+Poster WEPGF011 [0.701 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF012
+Information Security Assessment of CERN Access and Safety Systems
+713
+
+
+ 
+
+T. Hakulinen, X.B. Costa Lopez, P. Ninin, P. Oser
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Access and safety systems are traditionally considered critical in organizations and they are therefore usually well isolated from the rest of the network. However, recent years have seen a number of cases, where such systems have been compromised even when in principle well protected. The tendency has also been to increase information exchange between these systems and the rest of the world to facilitate operation and maintenance, which further serves to make these systems vulnerable. In order to gain insight on the overall level of information security of CERN access and safety systems, a security assessment was carried out. This process consisted not only of a logical evaluation of the architecture and implementation, but also of active probing for various types of vulnerabilities on test bench installations.
+
+ 
+
+
+
+
+
+
+Poster WEPGF012 [1.052 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF012
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF013
+Increasing Availability by Implementing Software Redundancy in the CMS Detector Control System
+717
+
+
+ 
+
+L. Masetti, A. Andronidis, O. Chaze, C. Deldicque, M. Dobson, A.D. Dupont, D. Gigi, F. Glege, J. Hegeman, M. Janulis, R.J. Jiménez Estupiñán, F. Meijers, E. Meschi, S. Morovic, C. Nunez-Barranco-Fernandez, L. Orsini, A. Petrucci, A. Racz, P. Roberts, H. Sakulin, C. Schwick, B. Stieger, S. Zaza, P. Zejdl
+                       CERN, Geneva, Switzerland
+J.M. Andre, R.K. Mommsen, V. O'Dell, P. Zejdl
+                       Fermilab, Batavia, Illinois, USA
+U. Behrens
+                       DESY, Hamburg, Germany
+J. Branson, S. Cittolin, A. Holzner, M. Pieri
+                       UCSD, La Jolla, California, USA
+G.L. Darlea, G. Gomez-Ceballos, C. Paus, K. Sumorok, J. Veverka
+                       MIT, Cambridge, Massachusetts, USA
+S. Erhan
+                       UCLA, Los Angeles, California, USA
+O. Holme
+                       ETH, Zurich, Switzerland
+
+ 
+
+
+ 
+
+Funding: Swiss National Science Foundation (SNSF).
+The Detector Control System (DCS) of the Compact Muon Solenoid (CMS) experiment ran with high availability throughout the first physics data-taking period of the Large Hadron Collider (LHC). This was achieved through the consistent improvement of the control software and the provision of a 24-hour expert on-call service. One remaining potential cause of significant downtime was the failure of the computers hosting the DCS software. To minimize the impact of these failures after the restart of the LHC in 2015, it was decided to implement a redundant software layer for the control system where two computers host each DCS application. By customizing and extending the redundancy concept offered by WinCC Open Architecture (WinCC OA), the CMS DCS can now run in a fully redundant software configuration. The implementation involves one host being active, handling all monitoring and control tasks, with the second host running in a minimally functional, passive configuration. Data from the active host is constantly copied to the passive host to enable a rapid switchover as needed. This paper describes details of the implementation and practical experience of redundancy in the CMS DCS.
+
+ 
+
+
+
+
+
+
+Poster WEPGF013 [1.730 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF013
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF014
+A Data Acquisition System for Abnormal RF Waveform at SACLA
+721
+
+
+ 
+
+M. Ishii, M. Kago
+                       JASRI/SPring-8, Hyogo-ken, Japan
+T. Fukui
+                       RIKEN SPring-8 Center, Innovative Light Sources Division, Hyogo, Japan
+T. Hasegawa, M. Yoshioka
+                       SES, Hyogo-pref., Japan
+T. Inagaki, H. Maesaka, T. Ohshima, Y. Otake
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+T. Maruyama
+                       RIKEN/SPring-8, Hyogo, Japan
+
+ 
+
+
+ 
+
+At the X-ray Free Electron Laser (XFEL) facility, SACLA, an event-synchronized data acquisition system has been utilized for the XFEL operation. This system collects every shot-by-shot data, such as point data of the phase and amplitude of the RF cavity pickup signals, in synchronization with the beam operation cycle. This system also acquires RF waveform data every 10 minutes. In addition to the periodic waveform acquisition, an abnormal RF waveform that suddenly occurs should be collected for failure diagnostics. Therefore, we developed an abnormal RF waveform data acquisition (DAQ) system, which consists of the VME systems, a cache server, and a NoSQL database system, Apache Cassandra. When the VME system detects an abnormal RF waveform, it collects all related waveforms of the same shot. The waveforms are stored in Cassandra through the cache server. Before the installation to SACLA, we ensured the performance with a prototype system. In 2014, we installed the DAQ system into the injection part with five VME systems. In 2015, we will acquire waveforms from the low-level RF control system configured by 74 VME systems at the SACLA accelerator.
+
+ 
+
+
+
+
+
+
+Poster WEPGF014 [0.978 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF014
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF015
+Drivers and Software for MicroTCA.4
+725
+
+
+ 
+
+M. Killenberg, M. Heuer, M. Hierholzer, L.P. Petrosyan, Ch. Schmidt, N. Shehzad, G. Varghese, M. Viti
+                       DESY, Hamburg, Germany
+T. Kozak, P. Prędki, J. Wychowaniak
+                       TUL-DMCS, Łódź, Poland
+S. Marsching
+                       Aquenos GmbH, Baden-Baden, Germany
+M. Mehle, T. Sušnik, K. Žagar
+                       Cosylab, Ljubljana, Slovenia
+A. Piotrowski
+                       FastLogic Sp. z o.o., Łódź, Poland
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Helmholtz Validation Fund HVF-0016 'MTCA.4 for Industry'.
+The MicroTCA.4 crate standard provides a powerful electronic platform for digital and analogue signal processing. Besides excellent hardware modularity, it is the software reliability and flexibility as well as the easy integration into existing software infrastructures that will drive the widespread adoption of the new standard. The DESY MicroTCA.4 User Tool Kit (MTCA4U) comprises three main components: A Linux device driver, a C++ API for accessing the MicroTCA.4 devices and a control system interface layer. The main focus of the tool kit is flexibility to enable fast development. The universal, expandable PCI Express driver and a register mapping library allow out of the box operation of all MicroTCA.4 devices which are running firmware developed with the DESY board support package. The tool kit has recently been extended with features like command line tools and language bindings to Python and Matlab.
+
+ 
+
+
+
+
+
+
+Poster WEPGF015 [0.540 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF018
+Service Asset and Configuration Management in ALICE Detector Control System
+729
+
+
+ 
+
+M. Lechman, A. Augustinus, P.M. Bond, P.Ch. Chochula, A.N. Kurepin, O. Pinazza
+                       CERN, Geneva, Switzerland
+A.N. Kurepin
+                       RAS/INR, Moscow, Russia
+M. Lechman
+                       IP SAS, Bratislava, Slovak Republic
+O. Pinazza
+                       INFN-Bologna, Bologna, Italy
+
+ 
+
+
+ 
+
+ALICE (A Large Ion Collider Experiment) is one of the big LHC (Large Hadron Collider) detectors at CERN. It is composed of 19 sub-detectors constructed by different institutes participating in the project. Each of these subsystems has a dedicated control system based on the commercial SCADA package "WinCC Open Architecture" and numerous other software and hardware components delivered by external vendors. The task of the central controls coordination team is to supervise integration, to provide shared services (e.g. database, gas monitoring, safety systems) and to manage the complex infrastructure (including over 1200 network devices and 270 VME and power supply crates) that is used by over 100 developers around the world. Due to the scale of the control system, it is essential to ensure that reliable and accurate information about all the components - required to deliver these services along with relationship between the assets - is properly stored and controlled. In this paper we will present the techniques and tools that were implemented to achieve this goal, together with experience gained from their use and plans for their improvement.
+
+ 
+
+
+
+
+
+
+Poster WEPGF018 [11.378 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF018
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF019
+Database Applications Development of the TPS Control System
+732
+
+
+ 
+
+Y.-S. Cheng, Y.-T. Chang, J. Chen, P.C. Chiu, K.T. Hsu, C. H. Huang, C.Y. Liaopresenter
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The control system had been established for the new 3 GeV synchrotron light source (Taiwan Photon Source, TPS) which was successful to commission at December 2014. Various control system platforms with the EPICS framework had been implemented and commissioned. The relational database (RDB) has been set up for some of the TPS control system applications used. The EPICS data archive systems are necessary to be built to record various machine parameters and status information into the RDB for long time logging. The specific applications have been developed to analyze the archived data which retrieved from the RDB. One EPICS alarm system is necessary to be set up to monitor sub-system status and record detail information into the RDB if the problem happened. Some Web-based applications with RDB have been gradually created to show the TPS machine status related information. The efforts are described at this paper.
+
+ 
+
+
+
+
+
+
+Poster WEPGF019 [4.008 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF020
+A Redundant EPICS Control System Based on PROFINET
+736
+
+
+ 
+
+Z. Huang, C. Li, G. Liupresenter, Y. Song, K. Wan
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+This paper will demonstrate a redundant EPICS control system based on PROFIENT. The control system consists of 4 levels: the EPICS IOC, the PROFINET IO controller, the PROFINET media and the PROFINET IO device. Redundancy at each level is independent of redundancy at each other level in order to achieve highest flexibility. The implementation and performance of each level will be described in this paper.
+
+ 
+
+
+
+
+
+
+Poster WEPGF020 [0.631 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF020
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF021
+Design of Control Networks for China Initiative Accelerator Driven System
+739
+
+
+ 
+
+Z. He, W. Cui, Y.H. Guo, Y. He, Y. Luo, Q. Zhao
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+In this paper, we report the conceptual design of control networks used in the control system for China initiative accelerator driven sub-critical (ADS) facility which consists of two accelerator injectors, a main accelerator, a spallation target and a reactor. Because different applications have varied expectations on reliability, latency, jitter and bandwidth, the following networks have been designed for the control systems, i.e. a central operation network for the operation of accelerators, target, and reactor; a reactor protection network for preventing the release of radioactivity to the environment; a personnel protection network for protecting personnel against unnecessary exposure to hazards; a machine protection network for protecting the machines in the ADS system; a time communication network for providing timing and synchronization for three accelerators; and a data archiving network for recording important measurement results from accelerators, target and reactor. Finally, we discuss the application of high-performance Ethernet technologies, such as Ethernet ring protection protocol, in these control networks for CIADS.
+
+ 
+
+
+
+
+
+
+Poster WEPGF021 [0.197 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF021
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF023
+Controlling Camera and PDU
+743
+
+
+ 
+
+O.J. Mokone, T. Gatsi
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: SKA South Africa National Research Foundation of South Africa Department of Science and Technology 3rd floor, The Park Park Road Pinelands ZA ­ Cape Town 7405 +27 21 506 7300
+The 64-dish MeerKAT radio telescope, currently under construction in South Africa, will become the largest and most sensitive radio telescope in the Southern Hemisphere until integrated with the Square Kilometre Array (SKA). This poster will present the software solutions that the MeerKAT Control and Monitoring (CAM) team implemented to achieve control (pan, tilt, zoom and focus) of the on-site video cameras using the pelco D protocol. Furthermore this poster will present how the outlets of the PDU (Power Distribution Unit) are switched on and off using SNMP to facilitate emergency shutdown of equipment. This will include a live demonstration from site (South Africa).
+
+ 
+
+
+
+
+
+
+Poster WEPGF023 [0.896 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF024
+Interfacing EPICS to the Widespread Platform Management Interface IPMI
+746
+
+
+ 
+
+M. Ritzert
+                       Heidelberg University, Heidelberg, Germany
+
+ 
+
+
+ 
+
+Funding: This work has been supported by the German Federal Ministry of Education and Research (BMBF) under Grant Identifier 05H12VHH.
+The Intelligent Platform Management Interface (IPMI) is a standardized interface to management functionalities of computer systems. The data provided typically includes the readings of monitoring sensors, such as fan speeds, temperatures, power consumption, etc. It is provided not only by servers, but also by uTCA crates that are often used to host an experiment's control and readout system. Therefore, it is well suited to monitor the health of the hardware deployed in HEP experiments. In addition, the crates can be controlled via IPMI with functions such as triggering a reset, or configuring IP parameters. We present the design and functionality of an EPICS module to interface to IPMI that is based on ipmitool. It supports automatic scanning for IPMI sensors and filling the PV metadata (units, meaning of status words in mbbi records) from the IPMI sensor information. Most importantly, the IPMI-provided alarm thresholds are automatically placed in the PV for easy implementation of an alarm system to monitor IPMI hardware.
+For the DEPFET Collaboration.
+
+ 
+
+
+
+
+
+
+Poster WEPGF024 [2.366 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF025
+Data Driven Simulation Framework
+749
+
+
+ 
+
+S. Roy Chaudhuri, A.S. Banerjee, P. Patwari
+                       Tata Research Development and Design Centre, Pune, India
+L. Van den Heever
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: Tata Research Development and Design Centre, TCSL.
+Control systems for Radio Astronomy projects such as MeerKAT* require testing functionality of different parts of the Telescope even when the system is not fully developed. Usage of software simulators in such scenarios is customary. Projects build simulators for subsystems such as Dishes, Beamformers and so on to ensure the correctness of a) their interface to the control system b) logic written to coordinate and configure them. However, such simulators are developed as one-offs, even when they implement similar functionality. This leads to duplicated effort impacting large projects such as Square Kilometer Array**. We leverage the idea of data driven software development and conceptualize a simulation framework that reduces the simulator development effort, to mitigate this: 1) capturing all the necessary information through instantiation of a well-defined simulation specification model, 2) configuring a reusable engine that performs the required simulation functions based on the instantiated and populated model provided to it as input. The results of a PoC for such a simulation framework implemented in the context of Giant Meter-wave Radio Telescope*** are presented.
+*MeerKAT CAM Design Description, DNo M1500-0000-006, Rev 2, July 2014  **A.R. Taylor, "The Square Kilometre Array", Proceedings IAU Symposium, 2012 ***www.gmrt.ncra.tifr.res.in
+
+ 
+
+
+
+
+
+
+Poster WEPGF025 [0.676 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF028
+A Self-Configurable Server for Controlling Devices Over the Simple Network Management Protocol
+753
+
+
+ 
+
+V. Rybnikov, V. Petrosyan
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The Simple Network Management Protocol (SNMP) is an open-source protocol that allows many manufacturers to utilize it for controlling and monitoring their hardware. More and more SNMP-manageable devices show up on the market that can be used by control systems for accelerators. Some SNMP devices are being used at the free-electron laser (FLASH) at DESY and planned to be used at the European X-ray Free Electron Laser (XFEL) in Hamburg, Germany. To provide an easy and uniform way of controlling SNMP devices a server has been developed. The server configuration, with respect to device parameters to control, is done during its start-up and driven by the manufacturer Management Information Base (MIB) files provided with SNMP devices. This paper gives some details of the server design, its implementation and examples of use.
+
+ 
+
+
+
+
+
+
+Poster WEPGF028 [3.323 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF028
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF029
+High Level Software Structure for the European XFEL LLRF System
+757
+
+
+ 
+
+Ch. Schmidt, V. Ayvazyan, J. Branlard, Ł. Butkowski, O. Hensler, M. Killenberg, M. Omet, S. Pfeiffer, K.P. Przygoda, H. Schlarb
+                       DESY, Hamburg, Germany
+W. Cichalewski, F. Makowski
+                       TUL-DMCS, Łódź, Poland
+A. Piotrowski
+                       FastLogic Sp. z o.o., Łódź, Poland
+
+ 
+
+
+ 
+
+The Low level RF system for the European XFEL is controlling the accelerating RF fields in order to meet the specifications of the electron bunch parameters. A hardware platform based on the MicroTCA.4 standard has been chosen, to realize a reliable, remotely maintainable and high performing integrated system. Fast data transfer and processing is done by field programmable gate arrays (FPGA) within the crate, controlled by a CPU via PCIe communication. In addition to the MTCA system, the LLRF comprises external supporting modules also requiring control and monitoring software. In this paper the LLRF system high level software used in E-XFEL is presented. It is implemented as a semi-distributed architecture of front end server instances in combination with direct FPGA communication using fast optical links. Miscellaneous server tasks have to be executed, e.g. fast data acquisition and distribution, adaptation algorithms and updating controller parameters. Furthermore the inter-server data communication and integration within the control system environment as well as the interface to other subsystems are described.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF029
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF030
+The EPICS Archiver Appliance
+761
+
+
+ 
+
+M.V. Shankar, L.F. Li
+                       SLAC, Menlo Park, California, USA
+M.A. Davidsaver
+                       BNL, Upton, New York, USA
+M.G. Konrad
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+The EPICS Archiver Appliance was developed by a collaboration of SLAC, BNL and FRIB to allow for the archival of millions of PVs, mainly focusing on data retrieval performance. It offers the ability to cluster appliances and to scale by adding appliances to the cluster. Multiple stages and an inbuilt process to move data between stages facilitates the usage of faster storage and the ability to decimate data as it is moved. An HTML management interface and scriptable business logic significantly simplifies administration. Well-defined customization hooks allow facilities to tailor the product to suit their requirements. Mechanisms to facilitate installation and migration have been developed. The system has been in production at SLAC for about 2 years now, at FRIB for about a year and is heading towards a production deployment at BNL. At SLAC, the system has significantly reduced maintenance costs while enabling new functionality that was not possible before. This paper presents an overview of the system and shares some of our experience with deploying and managing it at our facilities.
+
+ 
+
+
+
+
+
+
+Poster WEPGF030 [1.254 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF031
+The Evolution of the Simulation Environment in ALMA
+765
+
+
+ 
+
+T.C. Shen, S.A. Fuica, A. Ovando, N. Saez, R. Soto, T.I. Staigpresenter, G. Velez
+                       ALMA Observatory, Santiago, Chile
+J.P.A. Ibsen
+                       ESO, Santiago, Chile
+
+ 
+
+
+ 
+
+The Atacama Large Millimeter /sub millimeter Array (ALMA) has entered into operation phase since 2014. This transition changed the priorities within the observatory, in which, most of the available time will be dedicated to science observations at the expense of technical time that software testing used to have available in abundance. The scarcity of the technical time surfaces one of the weakest points in the existent infrastructure available for software testing: the simulation environment of the ALMA software. The existent simulation focuses on the functionality aspect but not on the real operation scenarios with all the antennas. Therefore, scalability and performance problems introduced by new features or hidden in the current accepted software cannot be verified until the actual problem explodes during operation. Therefore, it was planned to design and implement a new simulation environment, which must be comparable, or at least, be representative of the production environment. In this paper we will review experiences gained and lessons learnt during the design and implementation of the new simulated environment.
+
+ 
+
+
+
+
+
+
+Poster WEPGF031 [1.358 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF031
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF032
+EPICS PV Management and Method for RIBF Control System
+769
+
+
+ 
+
+A. Uchiyama, N. Fukunishi, M. Komiyama
+                       RIKEN Nishina Center, Wako, Japan
+
+ 
+
+
+ 
+
+For the RIBF project (RIKEN RI Beam Factory), the EPICS-based distributed control system is utilized on Linux and vxWorks as an embedded EPICS technology. Utilizing NAS that have a High-Availability system as a shared storage, common EPICS programs (Base, Db, and so on) are shared with each EPICS IOC. In March 2015, the control system continues to grow and consists of about 50 EPICS IOCs, and more than 100, 000 EPICS records. For a large number of control hardware devices, the dependencies between EPICS records and EPICS IOCs are complicated. For example, it is not easy to know accurate device information by only the EPICS record name information. Therefore, new management system was constructed for RIBF control system to call up detailed information easily. In the system, by parsing startup script files (st.cmd) for running EPICS IOCs, all EPICS records and EPICS fields are stored into the PostgreSQL-based database. By utilizing this stored data, it is successful to develop Web-based management and search tools. In this paper the system concept, the feature of the Web-based tools for the management, is reported in detail.
+
+ 
+
+
+
+
+
+
+Poster WEPGF032 [6.833 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF032
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF034
+The Power Supply Control System of CSR
+772
+
+
+ 
+
+W. Zhang, S. An, S.Z. Gou, K. Gu, P. Li, Y.P. Wang, M. Yue
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+This paper gives a brief description of the power supply control system for Cooler Storage Ring (CSR). It introduces in detail mainly of the control system architecture, hardware and software. We use standard distributed control system (DCS) architecture. The software is the standard three-layer structure. OPI layer realizes data generation and monitoring. The intermediate layer is a data processing and transmission. Device control layer performs data output of the power supply. We use ARM + DSP controller designed by ourselves for controlling the power supply output. At the same time, we have adopted the FPGA controller designed for timing for power supply control in order to meet the requirements of accelerator synchronized with the output of the power supply.
+
+ 
+
+
+
+
+
+
+Poster WEPGF034 [0.322 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF034
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF036
+Data Categorization and Storage Strategies at RHIC
+775
+
+
+ 
+
+S. Binello, K.A. Brownpresenter, T. D'Ottavio, R.A. Katz, J.S. Laster, J. Morris, J. Piacentino
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+This past year the Controls group within the Collider Accelerator Department at Brookhaven National Laboratory replaced the Network Attached Storage (NAS) system that is used to store software and data critical to the operation of the accelerators. The NAS also serves as the initial repository for all logged data. This purchase was used as an opportunity to categorize the data we store, and review and evaluate our storage strategies. This was done in the context of an existing policy that places no explicit limits on the amount of data that users can log, no limits on the amount of time that the data is retained at its original resolution, and that requires all logged data be available in real-time. This paper will describe how the data was categorized, and the various storage strategies used for each category.
+
+ 
+
+
+
+
+
+
+Poster WEPGF036 [0.295 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF036
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF037
+Data Lifecycle in Large Experimental Physics Facilities: The Approach of the Synchrotron ELETTRA and the Free Electron Laser FERMI
+777
+
+
+ 
+
+F. Billè, R. Borghes, F. Brun, V. Chenda, A. Curri, V. Duic, D. Favretto, G. Kourousias, M. Lonzapresenter, M. Prica, R. Pugliese, M. Scarcia, M. Turcinovich
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Often the producers of Big Data face the emerging problem of Data Deluge. Nevertheless experimental facilities such as synchrotrons and free electron lasers may have additional requirements, mostly related to the necessity of managing the access for thousands of scientists. A complete data lifecycle describes the seamless path that joins distinct IT tasks such as experiment proposal management, user accounts, data acquisition and analysis, archiving, cataloguing and remote access. This paper presents the data lifecycle of the synchrotron ELETTRA and the free electron laser FERMI. With the focus on data access, the Virtual Unified Office (VUO) is presented. It is a core element in scientific proposal management, user information DB, scientific data oversight and remote access. Eventually are discussed recent developments of the beamline software, that holds the key role to data and metadata acquisition but also requires integration with the rest of the system components in order to provide data cataloging, data archiving and remote access. The scope of this paper is to disseminate the current status of a complete data lifecycle, discuss key issues and hint on the future directions.
+
+ 
+
+
+
+
+
+
+Poster WEPGF037 [1.137 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF037
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF038
+A Flexible System for End-User Data Visualisation,  Analysis Prototyping and Experiment Logbook
+782
+
+
+ 
+
+R. Borghes, V. Chenda, G. Kourousias, M. Lonzapresenter, M. Prica, M. Scarcia
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Experimental facilities like synchrotrons and free electron lasers, often aim at well defined data workflows tightly integrated with their control systems. Still such facilities are also service providers to visiting scientists. The hosted researchers often have requirements different than those present in the established processes. The most evident needs are those for i) flexible experimental data visualisation, ii) rapid prototyping of analysis methods, and iii) electronic logbook services. This paper reports on the development of a software system, collectively referred to as DonkiTools, that aims at satisfying the aforementioned needs for the synchrotron ELETTRA and the free electron laser FERMI. The design strategy is outlined and includes topics regarding: dynamic data visualisation, Python scripting of analysis methods, integration with the TANGO distributed control system, electronic logbook with automated metadata reporting, usability, customization, and extensibility. Finally a use case presents a full deployment of the system, integrated with the FermiDAQ data collection system, in the free electron laser beamline EIS-TIMEX.
+
+ 
+
+
+
+
+
+
+Poster WEPGF038 [1.016 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF038
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF041
+Monitoring Mixed-Language Applications with Elastic Search, Logstash and Kibana (ELK)
+786
+
+
+ 
+
+O.Ø. Andreassen, C. Charrondièrepresenter, A. De Dios Fuente
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Application logging and system diagnostics is nothing new. Ever since we had the first computers scientist and engineers have been storing information about their systems, making it easier to understand what is going on and, in case of failures, what went wrong. Unfortunately there are as many different standards as there are file formats, storage types, locations, operating systems, etc. Recent development in web technology and storage has made it much simpler to gather all the different information in one place and dynamically adapt the display. With the introduction of Logstash with Elasticsearch as a backend, we store, index and query data, making it possible to display and manipulate data in whatever form one wishes. With Kibana as a generic and modern web interface on top, the information can be adapted at will. In this paper we will show how we can process almost any type of structured or unstructured data source. We will also show how data can be visualised and customised on a per user basis and how the system scales when the data volume grows.
+
+ 
+
+
+
+
+
+
+Poster WEPGF041 [3.848 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF041
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF042
+Scalable Web Broadcasting for Historical Industrial Control Data
+790
+
+
+ 
+
+B. Copy, O.Ø. Andreassen, Ph. Gayet, M. Labrenz, H. Milcent, F. Piccinelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+With the wide-spread use of asynchronous web communication mechanisms like WebSockets and WebRTC, it has now become possible to distribute industrial controls data originated in field devices or SCADA software in a scalable and event-based manner to a large number of web clients in the form of rich interactive visualizations. There is however no simple, secure and performant way yet to query large amounts of aggregated historical data. This paper presents an implementation of a tool, able to make massive quantities of pre-indexed historical data stored in ElasticSearch available to a large amount of web-based consumers through asynchronous web protocols. It also presents a simple, Opensocial-based dashboard architecture, that allows users to configure and organize rich data visualizations (based on Highcharts Javascript libraries) and create navigation flows in a responsive mobile-friendly user interface. Such techniques are used at CERN to display interactive reports about the status of the LHC infrastructure (e.g. vacuum or cryogenics installations) and give access to fine-grained historical data stored in the LHC Logging database in a matter of seconds.
+ 
+
+ 
+
+
+
+
+
+
+Poster WEPGF042 [1.056 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF042
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF043
+Metadatastore: A Primary Data Store for NSLS-2 Beamlines
+794
+
+
+ 
+
+A. Arkilic, D.B. Allan, T.A. Caswell, L.R. Dalesio, W.K. Lewispresenter
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Department of Energy, Brookhaven National Lab
+The beamlines at NSLS-II are among the highest instrumented, and controlled of any worldwide. Each beamline can produce unstructured data sets in various formats. This data should be made available for data analysis and processing for beamline scientists and users. Various data flow systems are in place in numerous synchrotrons, however these are very domain specific and cannot handle such unstructured data. We have developed a data flow service, metadatastore, that manages experimental data in NSLS-II beamlines. This service enables data analysis and visualization clients to access this service either directly or via databroker api in a consistent and partition tolerant fashion, providing a reliable and easy to use interface to our state-of-the-art beamlines.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF043
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF044
+Filestore: A File Management Tool for NSLS-II Beamlines
+796
+
+
+ 
+
+A. Arkilic, T.A. Caswell, D. Chabot, L.R. Dalesio, W.K. Lewispresenter
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Brookhaven National Lab, Departmet of Energy
+NSLS-II beamlines can generate 72,000 data sets per day resulting in over 2 M data sets in one year. The large amount of data files generated by our beamlines poses a massive file management challenge. In response to this challenge, we have developed filestore, as means to provide users with an interface to stored data. By leveraging features of Python and MongoDB, filestore can store information regarding the location of a file, access and open the file, retrieve a given piece of data in that file, and provide users with a token, a unique identifier allowing them to retrieve each piece of data. Filestore does not interfere with the file source or the storage method and supports any file format, making data within files available for NSLS-II data analysis environment.
+
+ 
+
+
+
+
+
+
+Poster WEPGF044 [0.854 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF044
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF045
+Large Graph Visualization of Millions of Connections in the CERN Control System Network Traffic: Analysis and Design of Routing and Firewall Rules with a New Approach
+799
+
+
+ 
+
+L. Gallerani
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN Technical Network (TN) TN was intended to be a network for accelerator and infrastructure operations. However, today, more than 60 Million IP packets are routed every hour between the General Purpose Network (GPN) and the TN involving more than 6000 different hosts. In order to improve the security of the accelerator control system, it is fundamental to understand the network traffic between the two networks in order to define appropriate routing and firewall rules without impacting Operations. The complexity and huge size of the infrastructure and the number of protocols and services involved have discouraged for years any attempt to understand and control the network traffic between the GPN and the TN. In this talk, we will show a new way to solve the problem graphically. Combining the network traffic analysis with the use of large graph visualization algorithms we produce comprehensible and usable 2D large colour topology graphs mapping the complex network relations of the control system machines and services in a detail and clarity never seen before. The talk integrates very interesting pictures and video of the graphical analysis attempt.
+
+ 
+
+
+
+
+
+
+Poster WEPGF045 [6.809 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF045
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF046
+Towards a Second Generation Data Analysis Framework for LHC Transient Data Recording
+802
+
+
+ 
+
+S. Boychenko, C. Aguilera-Padilla, M. Dragu, M.A. Galilée, J.C. Garnierpresenter, M. Koza, K.H. Krol, R. Orlandi, M.C. Poeschl, T.M. Ribeiro, K.S. Stamos, M. Zerlauth
+                       CERN, Geneva, Switzerland
+M. Zenha-Rela
+                       University of Coimbra, Coimbra, Portugal
+
+ 
+
+
+ 
+
+During the last two years, CERNs Large Hadron Collider (LHC) and most of its equipment systems were upgraded to collide particles at an energy level twice higher compared to the first operational period between 2010 and 2013. System upgrades and the increased machine energy represent new challenges for the analysis of transient data recordings, which have to be both dependable and fast. With the LHC having operated for many years already, statistical and trend analysis across the collected data sets is a growing requirement, highlighting several constraints and limitations imposed by the current software and data storage ecosystem. Based on several analysis use-cases, this paper highlights the most important aspects and ideas towards an improved, second generation data analysis framework to serve a large variety of equipment experts and operation crews in their daily work.
+
+ 
+
+
+
+
+
+
+Poster WEPGF046 [0.501 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF046
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF047
+Smooth Migration of CERN Post Mortem Service to a Horizontally Scalable Service
+806
+
+
+ 
+
+J.C. Garnier, C. Aguilera-Padilla, S. Boychenko, M. Dragu, M.A. Galilée, M. Koza, K.H. Krol, T. Martins Ribeiro, R. Orlandi, M.C. Poeschl, M. Zerlauth
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The Post Mortem service for CERNs accelerator complex stores and analyses transient data recordings of various equipment systems following certain events, like a beam dump or magnet quenches. The main purpose of this framework is to provide fast and reliable diagnostic to the equipment experts and operation crews to decide whether accelerator operation can continue safely or whether an intervention is required. While the Post Mortem System was initially designed to serve CERNs Large Hadron Collider (LHC), the scope has been rapidly extended to include as well External Post Operational Checks and Injection Quality Checks in the LHC and its injector complex. These new use cases impose more stringent time-constraints on the storage and analysis of data, calling to migrate the system towards better scalability in terms of storage capacity as well as I/O throughput. This paper presents an overview on the current service, the ongoing investigations and plans towards a scalable data storage solution and API, as well as the proposed strategy to ensure an entirely smooth transition for the current Post Mortem users.
+
+ 
+
+
+
+
+
+
+Poster WEPGF047 [1.454 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF047
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF049
+The Unified Anka Archiving System - a Powerful Wrapper to Scada Systems like Tango and WinCC OA
+810
+
+
+ 
+
+D. Haas, S.A. Chilingaryan, A. Kopmann, W. Mexner, D. Ressmann
+                       KIT, Eggenstein-Leopoldshafen, Germany
+
+ 
+
+
+ 
+
+ANKA realized a new unified archiving system for the typical synchrotron control systems by integrating their logging databases into the "Advanced Data Extraction Infrastructure" (ADEI). ANKA's control system environment is heterogeneous: some devices are integrated into the Tango archiving system, other sensors are logged by the Supervisory Control and Data Acquisition (SCADA) system WinCC OA. For both systems modules exist to configure the pool of sensors to be archived in the individual control system databases. ADEI has been developed to provide a unified data access layer for large time-series data sets. It supports internal data processing, caching, data aggregation and fast visualization in the web. Intelligent caching strategies ensure fast access even to huge data sets stored in the attached data sources like SQL databases. With its data abstraction layer the new ANKA archiving system is the foundation for automated monitoring while keeping the freedom to integrate nearly any control system flavor. The ANKA archiving system has been introduced successfully at three beamlines. It is operating stable since about one year and it is intended to extend it to the whole facility.
+
+ 
+
+
+
+
+
+
+Poster WEPGF049 [0.973 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF049
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF050
+Integrated Detector Control and Calibration Processing at the European XFEL
+814
+
+
+ 
+
+A. Münnich, S. Hauf, B.C. Heisen, F. Januschek, M. Kuster, P.M. Lang, N. Raab, T. Rüter, J. Sztuk, M. Turcato
+                       XFEL. EU, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European X-ray Free Electron Laser is a high-intensity X-ray light source currently being constructed in the area of Hamburg, that will provide spatially coherent X-rays in the energy range between 0.25 keV and 25 keV. The machine will deliver 10 trains/s, consisting of up to 2700 pulses, with a 4.5 MHz repetition rate. The LPD, DSSC and AGIPD detectors are being developed to provide high dynamic-range Mpixel imaging capabilities at the mentioned repetition rates. A consequence of these detector characteristics is that they generate raw data volumes of up to 15 Gbyte/s. In addition the detector's on-sensor memory-cell and multi-/non-linear gain architectures pose unique challenges in data correction and calibration, requiring online access to operating conditions and control settings. We present how these challenges are addressed within XFEL's control and analysis framework Karabo, which integrates access to hardware conditions, acquisition settings (also using macros) and distributed computing. Implementation of control and calibration software is mainly in Python, using self-optimizing (py) CUDA code, numpy and iPython parallels to achieve near-real time performance for calibration application.
+
+ 
+
+
+
+
+
+
+Poster WEPGF050 [3.429 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF050
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF052
+Development of the J-PARC Time-Series Data Archiver using a Distributed Database System, II
+818
+
+
+ 
+
+N. Kikuzawa, A. Yoshii
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+H. Ikeda, Y. Kato
+                       JAEA, Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+The linac and the RCS in J-PARC (Japan Proton Accelerator Research Complex) have over 64000 EPICS records, providing enormous data to control much equipment. The data has been collected into PostgreSQL, while we are planning to replace it with HBase and Hadoop, a well-known distributed database and a distributed file system that HBase depends on. In the previous conference it was reported that we had constructed an archive system with a new version of HBase and Hadoop that cover a single point of failure, although we realized there were some issues to make progress into a practical phase. In order to revise the system with resolving the issues, we have been reconstructing the system with replacing master nodes with reinforced hardware machines, creating a kickstart file and scripts to automatically set up a node, introducing a monitoring tool to early detect flaws without fail, etc. In this paper these methods are reported, and the performance tests for the new system with accordingly fixing some parameters in HBase and Hadoop, are also examined and reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF052
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF053
+Monitoring and Cataloguing the Progress of Synchrotron Experiments, Data Reduction, and Data Analysis at Diamond Light Source From a User's Perspective
+822
+
+
+ 
+
+J. Aishima
+                       SLSA, Clayton, Australia
+A. Ashton, S. Fisher, K. Levik, G. Winter
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+The high data rates produced by the latest generation of detectors, more efficient sample handling hardware and ever more remote users of the beamlines at Diamond Light Source require improved data reduction and data analysis techniques to maximize their benefit to scientists. In this paper some of the experiment data reduction and analysis steps are described, including real time image analysis with DIALS, our Fast DP and xia2-based data reduction pipelines, and Fast EP phasing and Dimple difference map calculation pipelines that aim to rapidly provide feedback about the recently completed experiment. SynchWeb, an interface to an open source laboratory information management system called ISPyB (co-developed at Diamond and the ESRF), provides a modern, flexible framework for managing samples and visualizing the data from all of these experiments and analyses, including plots, images, and tables of the analysed and reduced data, as well as showing experimental metadata, sample information.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF053
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF056
+Flyscan: a Fast and Multi-technique Data Acquisition Platform for the SOLEIL Beamlines
+826
+
+
+ 
+
+N. Leclercq, J. Bisou, F. Blache, F. Langlois, S. Lê, K. Medjoubi, C. Mocuta, S. Poirier
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+SOLEIL is continuously optimizing its 29 beamlines in order to provide its users with state of the art synchrotron radiation based experimental techniques. Among the topics addressed by the related transversal projects, the enhancement of the computing tools is identified as a high priority task. In this area, the aim is to optimize the beam time usage providing the users with a fast, simultaneous and multi-technique scanning platform. The concrete implementation of this general concept allows the users to acquire more data in the same amount of beam time. The present paper provides the reader with an overview of so call 'Flyscan' project currently under deployment at SOLEIL. It notably details a solution in which an unbounded number of distributed actuators and sensors share a common trigger clock and deliver their data into temporary files. The latter are immediately merged into common file(s) in order to make the whole experiment data available for on-line processing and visualization. Some application examples are also commented in order to illustrate the advantages of the Flyscan approach.
+
+ 
+
+
+
+
+
+
+Poster WEPGF056 [2.339 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF056
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF059
+The Australian Store. Synchrotron Data Management Service for Macromolecular Crystallography
+830
+
+
+ 
+
+G.R. Meyer, S. Androulakis, P.J. Bertling, A.M. Buckle, W.J. Goscinski, D. Groenewegen, C. Hines, A. Kannan, S. McGowan, S.M. Quenette, J. Rigby, P. Splawa-Neyman, J.M. Wettenhall
+                       Monash University, Clayton, Australia
+D. Aragao, T. Caradoc-Davies, N. Mudie
+                       SLSA, Clayton, Australia
+C.S. Bond
+                       University of Western Australia, Crawley, Australia
+
+ 
+
+
+ 
+
+Store. Synchrotron is a service for management and publication of diffraction data from the macromolecular crystallography (MX) beamlines of the Australian Synchrotron. Since the start of the development, in 2013, the service has handled over 51.8 TB of raw data (~ 4.1 million files). Raw data and autoprocessing results are made available securely via the web and SFTP so experimenters can sync it to their labs for further analysis. With the goal of becoming a large public repository of raw diffraction data, a guided publishing workflow which optionally captures discipline specific information was built. The MX-specific workflow links PDB coordinates from the PDB to raw data. An optionally embargoed DOI is created for convenient citation. This repository will be a valuable tool for crystallography software developers. To support complex projects, integration of other instruments such as microscopes is underway. We developed an application that captures any data from instrument computers, enabling centralised data management without the need for custom ingestion workflows. The next step is to integrate the hosted data with interactive processing and analysis tools on virtual desktops.
+
+ 
+
+
+
+
+
+
+Poster WEPGF059 [2.177 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF059
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF060
+A Data Management Infrastructure for Neutron Scattering Experiments in J-PARC/MLF
+834
+
+
+ 
+
+K. Moriyama, T. Nakatani
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+The role of data management is one of the greatest contributions in the research workflow for scientific experiments such as neutron scattering. The facility is required to safely and efficiently manage a huge amount of data over the long duration, and provide an effective data access for facility users promoting the creation of scientific results. In order to meet these requirements, we are operating and updating a data management infrastructure in J-PAPC/MLF, which consists of the web-based integrated data management system called the MLF Experimental Database (MLF EXP-DB), the hierarchical raw data repository composed of distributed storages, and the integrated authentication system. The MLF EXP-DB creates experimental data catalogues in which raw data, measurement logs, and other contextual information on sample, experimental proposal, investigator, etc. are interrelated. This system conducts the reposition, archive and on-demand retrieve of raw data in the repository. Facility users are able to access the experimental data via a web portal. This contribution presents the overview of our data management infrastructure, and the recent updated features for high availability, scaling-out, and flexible data retrieval in the MLF EXP-DB.
+
+ 
+
+
+
+
+
+
+Poster WEPGF060 [1.075 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF060
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF061
+Beam Trail Tracking at Fermilab
+838
+
+
+ 
+
+D.J. Nicklaus, L.R. Carmichael, R. Neswold, Z.Y. Yuan
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+This paper presents a system for acquiring and sorting data from select devices depending on the destination of each particular beam pulse in the Fermilab accelerator chain. The 15 Hz beam that begins in the Fermilab Linac can be directed to a variety of additional accelerators, beam lines, beam dumps, and experiments. We have implemented a data acquisition system that senses the destination of each pulse and reads the appropriate beam intensity devices so that profiles of the beam can be stored and analyzed for each type of beam trail. It is envisioned that this data will be utilized long term to identify trends in the performance of the accelerators.
+
+ 
+
+
+
+
+
+
+Poster WEPGF061 [2.198 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF061
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF062
+Processing High-Bandwidth Bunch-by-Bunch Observation Data from the RF and Transverse Damper Systems of the LHC
+841
+
+
+ 
+
+M. Ojeda Sandonís, P. Baudrenghien, A.C. Butterworth, J. Galindo, W. Höfle, T.E. Levens, J.C. Molendijk, D. Valuch
+                       CERN, Geneva, Switzerland
+F. Vaga
+                       University of Pavia, Pavia, Italy
+
+ 
+
+
+ 
+
+The radiofrequency and transverse damper feedback systems of the Large Hadron Collider digitize beam phase and position measurements at the bunch repetition rate of 40 MHz. Embedded memory buffers allow a few milliseconds of full rate bunch-by-bunch data to be retrieved over the VME bus for diagnostic purposes, but experience during LHC Run I has shown that for beam studies much longer data records are desirable. A new "observation box" diagnostic system is being developed which parasitically captures data streamed directly out of the feedback hardware into a Linux server through an optical fiber link, and permits processing and buffering of full rate data for around one minute. The system will be connected to an LHC-wide trigger network for detection of beam instabilities, which allows efficient capture of signals from the onset of beam instability events. The data will be made available for analysis by client applications through interfaces which are exposed as standard equipment devices within CERN's controls framework. It is also foreseen to perform online Fourier analysis of transverse position data inside the observation box using GPUs with the aim of extracting betatron tune signals.
+
+ 
+
+
+
+
+
+
+Poster WEPGF062 [4.412 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF062
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF063
+Developing HDF5 for the Synchrotron Community
+845
+
+
+ 
+
+N.P. Rees
+                       DLS, Oxfordshire, United Kingdom
+H.R. Billich
+                       PSI, Villigen PSI, Switzerland
+A. Götz
+                       ESRF, Grenoble, France
+Q. Koziol, E. Pourmal
+                       The HDF Group, Champaign, Illinois, USA
+M. Rissi
+                       DECTRIS Ltd., Baden, Switzerland
+E. Wintersberger
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+HDF5 and NeXus (which normally uses HDF5 as its underlying format) have been widely touted as a standard for storing Photon and Neutron data. They offer many advantages to other common formats and are widely used at many facilities. However, it has been found that the existing implementations of these standards have limited the performance of some recent detector systems. This paper describes how the synchrotron light source community has worked closely with The HDF Group to drive changes to the HDF5 software to make it more suitable for their environment. This includes developments managed by a detector manufacturer (Dectris - for direct chunk writes) as well as synchrotrons (DESY, ESRF and Diamond - for pluggable filters, Single Writer/Multiple Reader and Virtual Data Sets).
+
+ 
+
+
+
+
+
+
+Poster WEPGF063 [0.702 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF063
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF065
+Illustrate the Flow of Monitoring Data through the MeerKAT Telescope Control Software
+849
+
+
+ 
+
+M.J. Slabber, M.T. Ockards
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: SKA-SA National Research Foundation (South Africa)
+The MeerKAT telescope, under construction in South Africa, is comprised of a large set of elements. The elements expose various sensors to the Control and Monitoring (CAM) system, and the sampling strategy set by CAM per sensor varies from several samples a second to infrequent updates. This creates a substantial volume of sensor data that needs to be stored and made available for analysis. We depict the flow of sensor data through the CAM system, showing the various memory buffers, temporary disk storage and mechanisms to permanently store the data in HDF5 format on the network attached storage (NAS).
+
+ 
+
+
+
+
+
+
+Poster WEPGF065 [1.380 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF065
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF066
+A Systematic Measurement Analyzer for LHC Operational Data
+853
+
+
+ 
+
+G. Valentino, X. Buffat, D. Kirchner, S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN Accelerator Logging Service stores data from hundreds of thousands of parameters and measurements, mostly from the Large Hadron Collider (LHC). The systematic measurement analyzer is a Java-based tool that is used to visualize and analyze various beam measurement data over multiple fills and time intervals during the operational cycle, such as ramp or squeeze. Statistical analysis and various manipulations of data are possible, including correlation with several machine parameters such as β* and energy. Examples of analyses performed include checks of collimator positions, beam losses throughout the cycle and tune stability during the squeeze which is then used for feed-forward purposes.
+
+ 
+
+
+
+
+
+
+Poster WEPGF066 [2.274 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF066
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF068
+Formalizing Expert Knowledge in Order to Analyse CERN's Control Systems
+857
+
+
+ 
+
+A. Voitier, M. Gonzalez-Berges, F.M. Tilaro
+                       CERN, Geneva, Switzerland
+M. Roshchin
+                       Siemens AG, Corporate Technology, München, Germany
+
+ 
+
+
+ 
+
+The automation infrastructure needed to reliably run CERN's accelerator complex and its experiments produces large and diverse amounts of data, besides physics data. Over 600 industrial control systems with about 45 million parameters store more than 100 terabytes of data per year. At the same time a large technical expertise in this domain is collected and formalized. The study is based on a set of use cases classified into three data analytics domains applicable to CERN's control systems: online monitoring, fault diagnosis and engineering support. A known root cause analysis concerning gas system alarms flooding was reproduced with Siemens' Smart Data technologies and its results were compared with a previous analysis. The new solution has been put in place as a tool supporting operators during breakdowns in a live production system. The effectiveness of this deployment suggests that these technologies can be applied to more cases. The intended goals would be to increase CERN's systems reliability and reduce analysis efforts from weeks to hours. It also ensures a more consistent approach for these analyses by harvesting a central expert knowledge base available at all times.
+
+ 
+
+
+
+
+
+
+Poster WEPGF068 [1.500 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF068
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF069
+Integrating Web-Based User Interface Within Cern's Industrial Control System Infrastructure
+861
+
+
+ 
+
+A. Voitier, P. Golonka, M. Gonzalez-Berges
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+For decades the user interfaces of industrial control systems have been primarily based on native clients. However, the current IT trend is to have everything on the web. This can indeed bring some advantages such as easy deployment of applications, extending HMIs with turnkey web technologies, and apply to supervision interfaces the interaction model used on the web. However, this also brings its share of challenges: security management, ability to spread the load and scale out to many web clients, etc… In this paper, the architecture of the system that was devised at CERN to decouple the production WINCC-OA based supervision systems from the web frontend and the associated security implications are presented together with the transition strategy from legacy panels to full web pages using a stepwise replacement of widgets (e.g. visualization widgets) by their JavaScript counterpart. This evolution results in the on-going deployment of web-based supervision interfaces proposed to the operators as an alternative for comparison purposes.
+
+ 
+
+
+
+
+
+
+Poster WEPGF069 [0.980 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF069
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF070
+A New Data Acquiring and Query System with Oracle and EPICS in the BEPCII
+865
+
+
+ 
+
+C.H. Wang, L.F. Li
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: supported by NFSC(1137522)
+The old historical Oracle database in the BEPCII has been put into operation in 2006, there are some problems such as the program operation instability and EPICS PVs loss, a new data acquiring and query system with Oracle and EPICS has been developed with Eclipse and JCA. On one hand, the authors adopt the technology of the table-space and the table-partition to build a special database schema in Oracle. On another hand, based on RCP and Java, EPICS data acquiring system is developed successfully with a very friendly user interface. It's easy for users to check the status of each PV's connection, manage or maintain the system. Meanwhile, the authors also develop the system of data query, which provides many functions, including data query, data plotting, data exporting, data zooming, etc. This new system has been put into running for three years. It also can be applied to any EPICS control systems.
+ 
+
+ 
+
+
+
+
+
+
+Poster WEPGF070 [0.946 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF070
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF071
+Python Scripting for Instrument Control and Online Data Treatment
+869
+
+
+ 
+
+N. Xiong, N. Hauser, D. Mannickepresenter
+                       ANSTO, Menai, New South Wales, Australia
+
+ 
+
+
+ 
+
+Scripting is an important feature of instrument control software. It allows scientists to execute a sequence of tasks to run complex experiments, and it makes a software developers' life easier when testing and deploying new features. Modern instrument control applications require easy to develop and reliable scripting support. At ANSTO we provide a Python scripting interface for Gumtree. Gumtree is an application that provides three features; instrument control, data treatment and visualisation for neutron scattering instruments. The scripting layer has been used to coordinate these three features. The language is simple and well documented, so scientists require minimal programming experience. The scripting engine has a web interface so that users can use a web browser to run scripts remotely. The script interface has a numpy-like library that makes data treatment easier. It also has a GUI library that automatically generates control panels for scripts. The same script can be loaded in both the workbench (desktop) application and the web service application for online data treatment. In both cases a GUI will be generated with similar look and feel.
+ 
+
+ 
+
+
+
+
+
+
+Poster WEPGF071 [3.069 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF071
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF072
+Parameters Tracking and Fault Diagnosis base on NoSQL Database at SSRF
+873
+
+
+ 
+
+Y.B. Yan, Z.C. Chen, L.W. Lai, Y.B. Leng
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+As a user facility, the reliability and stability are very important. Besides using high-reliability hardware, the rapid fault diagnosis, data mining and predictive analytic s are also effective ways to improve the efficiency of the accelerator. A beam data logging system was built at SSRF, which was based on NoSQL database. The logging system stores beam parameters under some predefined conditions. The details of the system will be reported in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF072
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF074
+FPGA Firmware Framework for MTCA.4 AMC Modules
+876
+
+
+ 
+
+Ł. Butkowski, T. Kozak, B.Y. Yang
+                       DESY, Hamburg, Germany
+P. Prędki
+                       TUL-DMCS, Łódź, Poland
+R. Rybaniec
+                       Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+
+ 
+
+
+ 
+
+Many of the modules in specific hardware architectures use the same or similar communication interfaces and IO connectors. MicroTCA (MTCA.4) is one example of such a case. All boards: communicate with the central processing unit (CPU) over PCI Express (PCIe), send data to each other using Multi-Gigabit Transceivers (MGT), use the same backplane resources and have the same Zone3 IO or FPGA mezzanine card (FMC) connectors. All those interfaces are connected and implemented in Field Programmable Gate Array (FPGA) chips. It makes possible to separate the interface logic from the application logic. This structure allows to reuse already done firmware for one application and to create new application on the same module. Also, already developed code can be reused in new boards as a library. Proper structure allows the code to be reused and makes it easy to create new firmware. This paper will present structures of firmware framework and scripting ideas to speed up firmware development for MTCA.4 architecture. European XFEL control systems firmware, which uses the described framework, will be presented as example.
+
+ 
+
+
+
+
+
+
+Poster WEPGF074 [0.706 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF074
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF080
+Encoder Interface for NSLS-II Beam Line Motion Scanning Applications
+881
+
+
+ 
+
+R.A. Kadyrov, J.H. De Long, K. Hapresenter, S. So, E. Stavitski
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The variety of motion control applications on existing and future NSLS-II beam lines demand custom control electronics developed to meet specific needs and ease integration to existing systems. Thus an encoder interface was designed for a number of detection techniques that require fly-scan applications. This design fits in a 2U chassis and can handle up to 4 incremental quadrature encoders with a digital RS-422A interface and output frequencies up to 10 MHz. The logic, based on Xilinx Virtex-6 FPGA, processes signals from an encoder, associates it with accelerator timestamp and sends the data to a server using TCP/IP stack, with the server side running an EPICS IOC. Several filtering and compression techniques are also applied. The device then re-translates the interface signals for the motion controller, allowing the device to be installed between encoder and motion controller with no interference to the system. The hardware leverages the NSLS-II BPM Digital Front End (DFE) board with Virtex-6 FPGA and periphery. The design harmoniously complements the family of NSLS-II equipment sharing same mechanical and electrical platform.
+
+ 
+
+
+
+
+
+
+Poster WEPGF080 [4.674 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF080
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF081
+Em# Platform: Towards a Hardware Interface Standardization Scheme
+885
+
+
+ 
+
+O. Matilla, J.A. Avila-Abellan, M. Broseta, G. Cuní, D. Fernández-Carreiras, A. Ruz, J. Salabert, X. Serra-Gallifa
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+Low current measurements developments have been pointed out as strategic for ALBA synchrotron. From the first day of operation of the seven Beamlines currently in operation ALBA Em electrometer this has been successfully used. Today, the two new beamlines of Phase 2 that are being constructed and the new end stations have required specification changes in terms of increased accuracy, capability of synchronization, timestamping, management of large buffers and high performance closed-loop implementation. The scheme of full custom hardware design has been abandoned. ALBA Em# project approach has been based in the selection of industry standard interfaces: FMC boards design for custom needs, FMC carrier over PCIe using SPEC board from CERN under OHWR license, and Single Board Computer using PCIe to implement interfaces with the control system. This Paper describes the new design of the Electrometers at Alba, suited for the newer requirements, more flexible, performing and maintainable, which profits from the know-how acquired with previous versions and suits the new data acquisition paradigm emerged with the standardization of quick continuous scans and data acquisition.
+
+ 
+
+
+
+
+
+
+Poster WEPGF081 [0.306 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF081
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF083
+Single Neutron Counting Using CCD and CMOS Cameras
+889
+
+
+ 
+
+P. Mutti, M. Plaz, E. Ruiz-Martinez, P. Van Esch
+                       ILL, Grenoble, France
+M. Crisanti
+                       Università degli di Perugia, Perugia, Italy
+
+ 
+
+
+ 
+
+Neutron detection traditionally takes place with detectors based upon particle detection technologies like gas or scintillation detections. These detectors have a high dynamic range, and are very performing at low counting rates and fast timing (time of flight) applications. At high counting rates however, continuous imaging detectors such as CCD or CMOS camera's optically linked to scintillators, can have very good performances concerning linearity and spatial resolution but the dynamic range of these systems is limited by noise and gamma background. We explore a technique that allows us to use imaging detectors as counting detectors at lower counting rates, and transits smoothly to continuous imaging at higher rates. Neutron detection involves reactions releasing energies of the order of the MeV, while X-ray detection releases energies of the order of the photon energy, (10 KeV range). This 100-fold higher energy allows the individual neutron detection light signal to be significantly above the noise level, as such allowing for discrimination and individual counting. The theory is next confronted with experimental measurements on CCD and CMOS type commercial cameras.
+
+ 
+
+
+
+
+
+
+Poster WEPGF083 [7.979 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF083
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF084
+New Digitisers for Position Sensitive 3He Proportional Counters
+893
+
+
+ 
+
+P. Mutti, M. Plaz, E. Ruiz-Martinez, P. Van Esch
+                       ILL, Grenoble, France
+
+ 
+
+
+ 
+
+3He gas-filled detectors are a classical choice for the detection of thermal and cold neutrons. The incident neutrons are captured by the 3He producing a tritium and an hydrogen which are sharing the 765 keV of energy generated in the reaction. The classical geometry of a charge-division neutron detector consists of a cylindrical volume housing a resistive anode. Electrical signals are extracted at both ends of the tube and the information about the interaction point along the tube can be derived from the ratio of the collected charged at both ends. The classical analog approach for the charge readout consists of a shaping amplifier coupled with a peak sensing ADC. The development of a new digital front-end electronics based on 64 channels, 62.5 Msample/s and 12 bit digitisers, is reported on. Excellent results have been obtained in terms of position resolution and signal to noise ratio when adopting a continuous digital filtering and gaussian shaping. 
+
+ 
+
+
+
+
+
+
+Poster WEPGF084 [8.289 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF084
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF085
+The Construction of the SuperKEKB Magnet Control System
+897
+
+
+ 
+
+T.T. Nakamura, A. Akiyama, M. Iwasaki, H. Kaji, J.-I. Odagiri, S. Sasaki
+                       KEK, Ibaraki, Japan
+T. Aoyama, T. Nakamura, K. Yoshii
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+N. Yoshifuji
+                       EJIT, Hitachi, Ibaraki, Japan
+
+ 
+
+
+ 
+
+There were more than 2500 magnet power supplies for KEKB storage rings and injection beam transport lines. For the remote control of such a large number of power supplies, the Power Supply Interface Controller Module (PSICM), which is plugged into each power supply, was developed. It has a microprocessor, ARCNET interface, trigger signal input interface, and parallel interface to the power supply. The PSICM is not only an interface card but also controls synchronous operation of the multiple power supplies with an arbitrary tracking curve. For SuperKEKB we have developed the upgraded version of the PSICM. It has the fully backward compatible interface to the power supply. The enhanced features includes high speed ARCNET communication and redundant trigger signals. Towards the phase 1 commissioning of SuperKEKB, the construction of the magnet control system is ongoing. First mass production of 1000 PSICMs has been completed and their installation is in progress. The construction status of the magnet control system is presented in this paper.
+
+ 
+
+
+
+
+
+
+Poster WEPGF085 [2.305 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF085
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF089
+CERN Open Hardware Experience: Upgrading the Diamond Fast Archiver
+901
+
+
+ 
+
+I.S. Uzun, M.G. Abbott
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Diamond Light Source developed and integrated the Fast Archiver into its Fast Orbit Feedback communication network in 2009. It enabled synchronous capture and archive of the entire position data in real-time from all Electron Beam Position Monitors (BPMs) and X-RAY BPMs . The FA Archiver solution has also been adopted by SOLEIL and ESRF. However, the obsolescence of the existing PCI Express based FPGA board from Xilinx and continuing interest from community forced us to look for a new hardware platform while keeping the back compatibility with the existing Linux kernel driver and application software. This paper reports our experience with using the PCIe SPEC board from CERN Open Hardware initiative as the new FA Archiver platform. Implementation of the SPEC-based FA Archiver has been successfully completed and recently deployed at ALBA in Spain.
+
+ 
+
+
+
+
+
+
+Poster WEPGF089 [0.581 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF089
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF090
+Design of EPICS IOC Based on RAIN1000Z1 ZYNQ Module
+905
+
+
+ 
+
+T. Xue, G.H. Gong, H. Li, J.M. Li
+                       Tsinghua University, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+ZYNQ is the new architecture of FPGA with dual high performance ARM Cortex-A9 processors from Xilinx. A new module with Giga Bit Ethernet interface based on the ZYNQ XC7Z010 is development for the High Purity Germanium Detectors' data acquisition in the CJPL (China JingPing under-ground Lab) experiment, which is named as RAIN1000Z1. Base on the nice RAIN1000Z1 hardware platform, EPICS is porting on the ARM Cortex-A9 processor with embedded Linux and an Input Output Controller is implemented on the RAIN1000Z1 module. Due to the combination of processor and logic and new silicon technology of ZYNQ, embedded Linux with TCP/IP sockets and real time high throughput logic based on VHDL are running in a single chip with small module hardware size, lower power and higher performance. This paper will introduce how to porting the EPICS IOC application on the ZYNQ based on embedded Linux and give a demo of IO control and RS232 communication.
+
+ 
+
+
+
+
+
+
+Poster WEPGF090 [1.811 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF090
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF091
+A Formal Specification Method for PLC-based Applications
+907
+
+
+ 
+
+D. Darvas, E. Blanco Vinuelapresenter
+                       CERN, Geneva, Switzerland
+I. Majzik
+                       BUTE, Budapest, Hungary
+
+ 
+
+
+ 
+
+The correctness of the software used in control systems has been always a high priority, as a failure can cause serious expenses, injuries or loss of reputation. To improve the quality of these applications, various development and verification methods exist. All of them necessitate a deep understanding of the requirements which can be achieved by a well-adapted formal specification method. In this paper we introduce a state machine and data-flow-based formal specification method tailored to PLC modules. This paper presents the practical benefits and new possibilities of this method, comprising consistency checking, PLC code generation, and checking equivalence between the specification and its previous versions or legacy code. The usage of these techniques can improve the level of understanding of the requirements and increase the confidence in the correctness of the implementation. Furthermore, they can help to apply formal verification techniques by providing formalised requirements.
+
+ 
+
+
+
+
+
+
+Poster WEPGF091 [0.569 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF091
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF092
+PLCverif: A Tool to Verify PLC Programs Based on Model Checking Techniques
+911
+
+
+ 
+
+D. Darvas, E. Blanco Vinuelapresenter, B. Fernández Adiego
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Model checking is a promising formal verification method to complement testing in order to improve the quality of PLC programs. However, its application typically needs deep expertise in formal methods. To overcome this problem, we introduce PLCverif, a tool that builds on our verification methodology and hides all the formal verification-related difficulties from the user, including model construction, model reduction and requirement formalisation. The goal of this tool is to make model checking accessible to the developers of the PLC programs. Currently, PLCverif supports the verification of PLC code written in ST (Structured Text), but it is open to other languages defined in IEC 61131-3. The tool can be easily extended by adding new model checkers.
+
+ 
+
+
+
+
+
+
+Poster WEPGF092 [3.550 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF092
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF093
+CXv4, a Modular Control System
+915
+
+
+ 
+
+D. Bolkhovityanov, P.B. Cheblakov, F.A. Emanov
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+CX control system is used at VEPP-5 and several other BINP facilities. CX version 4 is designed to provide more flexibility and enable interoperability with other control systems. In addition to device drivers, most of its components are implemented in a modular fashion, including data access at both client and server sides. The server itself is a library. This approach allows clients to access several different control systems simultaneously and natively (without any gateways). CXv4 servers are able to provide data access to clients from diverse CS architectures/protocols, subject to appropriate network module being loaded. The server library, coupled with "null link" client-server access module, allows to create standalone monolythic programs for specific small applications (such as test benches and device test screens/utilities) using the same ready code from large-scale control system but without its complexity. CXv4 design principles and solutions are discussed and first deployment results are presented.
+
+ 
+
+
+
+
+
+
+Poster WEPGF093 [0.752 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF093
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF094
+A Modular Approach to Develop Standardized HVAC Control Systems with UNICOS CPC Framework
+919
+
+
+ 
+
+W. Booth, R. Barillère, M. Bes, E. Blanco Vinuela, B. Bradu, M. Quilichini, M.Z. Zimny
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+At CERN there are currently about 200 ventilation air handling units in production, used in many different applications, including building ventilation, pressurization of safe rooms, smoke extraction, pulsion/extraction of experimental areas (tunnel, cavern, etc), and the ventilation of the computing centre. The PLC applications which operate these installations are currently being revamped to a new framework (UNICOS CPC). This work began 3 years ago, and we are now in a position to standardize the development of these HVAC applications, in order to reduce the cost of initial development (including specification and coding), testing, and long-term maintenance of the code. In this paper the various improvements to the process with be discussed, and examples will be shown, which can thus help the community develop HVAC applications. Improvements include templates for the "Functional Analysis" specification document, standardized HVAC devices and templates for the PLC control logic, and automatically generated test documentation, to help during the Factory Acceptance Test (FAT) and Site Acceptance Test (SAT) processes.
+
+ 
+
+
+
+
+
+
+Poster WEPGF094 [1.277 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF094
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF095
+Application of PyCDB for K-500 Beam Transfer Line
+923
+
+
+ 
+
+P.B. Cheblakov, S.E. Karnaev, O.A. Khudayberdieva
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Funding: This work has been supported by Russian Science Foundation (project N 14-50-00080).
+The new injection complex for VEPP-4 and VEPP-2000 e-p colliders is under construction at Budker Institute, Novosibirsk, Russia. The double-direction bipolar transfer line K-500 of 130 and 220 meters length respectively will provide the beam transportation from the injection complex to the colliders with a frequency of 1 Hz. The designed number of particles in the transferred beam is 2*1010 of electrons or positrons, the energy is 500 MeV. K-500 has dozens of types of magnets, power supplies and electronic devices. It is rather complicated task to store and manage information about such a number of types and instances of entities, especially to handle relations between them. This knowledge is critical for configuration of all aspects of control system. Therefore we have chosen PyCDB to handle this information and automate configuration data extraction for different purposes starting with reports and diagrams and ending with high-level applications and EPICS IOCs' configuration. This paper considers concepts of this approach and shows the PyCDB database sctructure designed for K-500 transfer line. An automatic configuration of IOCs is described as integration with EPICS.
+
+ 
+
+
+
+
+
+
+Poster WEPGF095 [0.792 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF095
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF096
+Managing a Real-time Embedded Linux Platform with Buildroot
+926
+
+
+ 
+
+J.S. Diamond, K.S. Martin
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy under contract No. DE-AC02-07CH11359
+Developers of real-time embedded software often need to build the operating system kernel, tools and supporting applications from source to work with the differences in their hardware configuration. The first attempt to introduce Linux-based real-time embedded systems into the Fermilab accelerator controls system used this approach but it was found to be time-consuming, difficult to maintain and difficult to adapt to different hardware configurations. Buildroot is an open source build system with a menu-driven configuration tool (similar to the Linux kernel build system) that automates this process. A customized Buildroot system has been developed for use in the Fermilab accelerator controls system that includes several hardware configuration profiles (including Intel, ARM and PowerPC) and packages for Fermilab support software. A bootable image file is produced containing the Linux kernel, shell and supporting software suite that varies from 3 to 20 megabytes large ' ideal for network booting. The result is a platform that is easier to maintain and deploy in diverse hardware configurations.
+
+ 
+
+
+
+
+
+
+Poster WEPGF096 [1.058 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF096
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF097
+Local Monitoring and Control System for the SKA Telescope Manager: A Knowledge-Based System Approach for Issues Identification Within a Logging Service
+930
+
+
+ 
+
+M. Di Carlo, M. Dolci
+                       INAF - OA Teramo, Teramo, Italy
+R. Smareglia
+                       INAF-OAT, Trieste, Italy
+P.S. Swart, G.M. le Roux
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+The SKA Telescope Manager (SKA. TM) is a distributed software application aimed to control the operation of thousands of radio telescopes, antennas and auxiliary systems (e.g. infrastructures, signal processors, …) which will compose the Square Kilometre Array, the world's largest radio astronomy facility currently under development. SKA. TM, as an "element" of the SKA, is composed in turn by a set of sub-elements whose tight coordination is ensured by a specific sub-element called "Local Monitoring and Control" (TM.LMC). TM.LMC is mainly focussed on the life cycle management of TM, the acquisition of every network-related information useful to understand how TM is performing and the logging library for both online and offline sub-elements. Given the high complexity of the system, identifying the origin of an issue, as soon as a problem occurs, appears to be a hard task. To allow a prompt diagnostics analysis by engineers, operators and software developers, a Knowledge-Based System (KBS) approach is proposed and described for the logging service.
+
+ 
+
+
+
+
+
+
+Poster WEPGF097 [7.145 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF097
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF100
+DRAMA 2 - An Evolutionary Leap for the DRAMA Environment for Instrumentation Software Development
+934
+
+
+ 
+
+T.J. Farrell, K. Shortridge
+                       AAO, North Ryde, Australia
+
+ 
+
+
+ 
+
+The DRAMA Environment provides an API for distributed instrument software development. It originated at the Anglo-Australian Observatory (now Australian Astronomical Observatory) in the early 1990s, in response to the need for a software environment for large distributed and heterogeneous systems, with some components requiring real-time performance. It was first used for the AAO's 2dF fibre positioner project for the Anglo-Australian Telescope. 2dF is still in use today, but has changed dramatically over time. DRAMA is used for other AAO systems and is or has been used at various other observatories looking for a similar solution. Whilst DRAMA has evolved and many features were added, there had been no big changes. It was still a largely C language based system, with some C++ wrappers. It did not provide good support for threading or exceptions. Ideas for proper thread support within DRAMA have been in development for some years, but C++11 has provided many features which allow a high quality implementation. The opportunity provided by C++11 has been taken to make significant changes to the DRAMA API, producing a modern and more reliable interface to DRAMA, known as DRAMA2.
+
+ 
+
+
+
+
+
+
+Poster WEPGF100 [5.729 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF100
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF101
+A Modular Software Architecture for Applications that Support Accelerator Commissioning at MedAustron
+938
+
+
+ 
+
+M. Hager, M. Regodic
+                       EBG MedAustron, Wr. Neustadt, Austria
+
+ 
+
+
+ 
+
+The commissioning and operation of an accelerator requires a large set of supportive applications. Especially in the early stages, these tools have to work with unfinished and changing systems. To allow the implementation of applications that are dynamic enough for this environment, a dedicated software architecture, the Operational Application (OpApp) architecture, has been developed at MedAustron. The main ideas of the architecture are a separation of functionality into reusable execution modules and a flexible and intuitive composition of the modules into bigger modules and applications. Execution modules are implemented for the acquisition of beam measurements, the generation of cycle dependent data, the access to a database and other tasks. On this basis, Operational Applications for a wide variety of use cases can be created, from small helper tools to interactive beam commissioning applications with graphical user interfaces. This contribution outlines the OpApp architecture and the implementation of the most frequently used applications.
+
+ 
+
+
+
+
+
+
+Poster WEPGF101 [2.169 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF101
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF102
+Solving the Synchronization Problem in Multi-Core Embedded Real-Time Systems
+942
+
+
+ 
+
+F. Hoguin, S. Deghaye
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Multi-core CPUs have become the standard in embedded real-time systems. In such systems, where several tasks run simultaneously, developers can no longer rely on high priority tasks blocking low priority tasks. In typical control systems, low priority tasks are dedicated to receiving settings from the control room, and high priority real-time tasks, triggered by external events, control the underlying hardware based on these settings. Settings' correctness is of paramount importance and they must be modified atomically from a real-time task point of view. This is not feasible in multi-core environments using classic double-buffer approaches, mainly because real-time tasks can overlap, preventing buffer swaps. Other common synchronization solutions involving locking critical sections introduce unpredictable jitter on real-time tasks, which is not acceptable in CERN's control system. A lock-free, wait-free solution to this problem based on a triple buffer, guaranteeing atomicity no matter the number of concurrent tasks, is presented. The only drawback is potential synchronization delay on contention. This solution has been implemented and tested in CERN's real-time C++ framework.
+
+ 
+
+
+
+
+
+
+Poster WEPGF102 [0.437 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF102
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF105
+EPICS V4 Evaluation for SNS Neutron Data
+947
+
+
+ 
+
+K.-U. Kasemir, G.S. Guyotte, M.R. Pearson
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by UT-Battelle, LLC under Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy.
+Version 4 of the Experimental Physics and Industrial Control System (EPICS) toolkit allows defining application-specific structured data types (pvData) and offers a network protocol for their efficient exchange (pvAccess). We evaluated V4 for the transport of neutron events from the detectors of the Spallation Neutron Source (SNS) to data acquisition and experiment monitoring systems. This includes the comparison of possible data structures, performance tests, and experience using V4 in production on a beam line.
+
+ 
+
+
+
+
+
+
+Poster WEPGF105 [1.281 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF105
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF106
+CCLIBS: The CERN Power Converter Control Libraries
+950
+
+
+ 
+
+Q. King, K.T. Lebioda, M. Magrans de Abril, M. Martino, R. Murillo-Garcia
+                       CERN, Geneva, Switzerland
+A. Nicoletti
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+Accurate control of power converters is a vital activity in large physics projects. Several different control scenarios may coexist, including regulation of a circuit's voltage, current, or field strength within a magnet. Depending on the type of facility, a circuit's reference value may be changed asynchronously or synchronously with other circuits. Synchronous changes may be on demand or under the control of a cyclic timing system. In other cases, the reference may be calculated in real-time by an outer regulation loop of some other quantity, such as the tune of the beam in a synchrotron. The power stage may be unipolar or bipolar in voltage and current. If it is unipolar in current, it may be used with a polarity switch. Depending on the design, the power stage may be controlled by a firing angle or PWM duty-cycle reference, or a voltage or current reference. All these different cases are supported by the CERN Converter Control Libraries (CCLIBS), which are open-source C libraries that include advanced reference generation and regulation algorithms. This paper introduces the libraries and reviews their origins, current status and future.
+
+ 
+
+
+
+
+
+
+Poster WEPGF106 [2.801 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF106
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF107
+Multi-Host Message Routing in MADOCA II
+954
+
+
+ 
+
+T. Matsumoto, Y. Furukawa, K. Okada
+                       JASRI/SPring-8, Hyogo-ken, Japan
+
+ 
+
+
+ 
+
+MADOCA II is a next generation of Message And Database Oriented Control Architecture (MADOCA) and implemented into control system of SPring-8 and SACLA data acquisition (DAQ) system since 2013. In 2014, SACLA introduced a third beam line to increase the capacity of experiments. Then sophisticated control architecture needed to be developed to prevent miss operations among beamlines. In this paper, multi-host message routing in MADOCA II and its application to SALCA DAQ system to solve the problem is presented. In SACLA DAQ system, a master server was added which intermediates control messages between clients and equipment management servers. Since the access control can be centralized to the master server, reliable operation can be had by avoiding the influence by accidental modification of DAQ setting by end-users. The multi-host message routing was implemented to add an extension in MADOCA II by forwarding specific message objects to other hosts. Some technical issues related to messaging loop and time delay, are also addressed. It is also planned to utilize this technique to other cases in BL at SPring-8 where access control under firewall is required.
+
+ 
+
+
+
+
+
+
+Poster WEPGF107 [0.762 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF107
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF112
+Flop: Customizing Yocto Project for MVMExxxx PowerPC and BeagleBone ARM
+958
+
+
+ 
+
+L. Pivetta, A.I. Bogani, R. Passuello
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+During the last fifteen years several PowerPC-based VME single board computers, belonging to the MVMExxxx family, have been used for the control system front-end computers at Elettra Sincrotrone Trieste. Moreover, a low cost embedded board has been recently adopted to fulfill the control requirements of distributed instrumentation. These facts lead to the necessity of managing several releases of the operating system, kernel and libraries, and finally to the decision of adopting a comprehensive unified approach based on a common codebase: the Yocto Project. Based on Yocto Project, a control system oriented GNU/Linux distribution called 'Flop' has been created. The complete management of the software chain, the ease of upgrading or downgrading complete systems, the centralized management and the platform-independent deployment of the user software are the main features of Flop.
+
+ 
+
+
+
+
+
+
+Poster WEPGF112 [1.254 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF112
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF113
+Physics Application Infrastructure Design for FRIB Driver Linac
+962
+
+
+ 
+
+G. Shen, Z.Q. He, M. Ikegami, D. Liu, D.G. Maxwell, V. Vuppala
+                       FRIB, East Lansing, Michigan, USA
+E.T. Berrymanpresenter
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661.
+FRIB, which is a new heavy ion accelerator facility to provide intense beams of rare isotopes is currently under construction at Michigan State University. Its driver linac accelerates all stable ions up to uranium, and targets to provides a CW beam with the energy of 200MeV/u and the beam power of 400 kW. The beam commissioning of the driver linac has been planned to start from December 2017. A new infrastructure is under development using service oriented architecture for physics applications, which is a 3-tier structure consisting of upper level, middle layer, and low level respectively. The detailed design and its current status will be presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF113
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF115
+LabVIEW EPICS Program for Measuring BINP HLS of PAL-XFEL
+966
+
+
+ 
+
+H. J. Choi, K.H. Gil, H.-S. Kang, S.H. Kim, K.W. Seo, Y.J. Suhpresenter
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+In PAL-XFEL, a 4th generation light source, the HLS (Ultrasonic-type Hydrostatic Levelling System) developed at BINP (Budker Institute of Nuclear Physics) in Russia was installed and operated in all parts of PAL-XFEL in order to maintain observations of the vertical change building floor by the ground sinking and uplifting. For this, a HLS measuring program was written using NI LabVIEW and an EPICS IOC Server was built using the CA Lab which has been developed at BESSY (Berlin Electron Storage Ring Society for Synchrotron Radiation) in Germany. The CA Lab was improved and verified in order to confirm that it could support EPICS BASE libraries V3.14.12, and EPICS CA Client and that the EPICS IOC Server could be easily constructed by CA Lab in a 64-bit LabVIEW. This made Multi-core CPU (Multi-core Processor / Multi-thread Program) resource of 64bit Computer System (64bit Hardware PC / 64bit Windows OS / 64bit LabVIEW Multi-thread Programming) to be 100 percent utilized. This study proposes a configuration process for the HLS measuring program algorithm and a building process for the EPICS IOC Server by using CA Lab.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF115
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF116
+PvaPy: Python API for EPICS PV Access
+970
+
+
+ 
+
+S. Veseli
+                       ANL, Argonne, Ilinois, USA
+
+ 
+
+
+ 
+
+As the number of sites deploying and adopting EPICS Version 4 grows, so does the need to support PV Access from multiple languages. Especially important are the widely used scripting languages that tend to reduce both software development time and the learning curve for new users. In this paper we describe PvaPy, a Python API for the EPICS PV Access protocol and its accompanying structured data API. Rather than implementing the protocol itself in Python, PvaPy wraps the existing EPICS Version 4 C++ libraries using the Boost. Python framework. This approach allows us to benefit from the existing code base and functionality, and to significantly reduce the Python API development effort. PvaPy objects are based on Python dictionaries and provide users with the ability to access even the most complex of PV Data structures in a relatively straightforward way. Its interfaces are easy to use, and include support for advanced EPICS Version 4 features such as implementation of client and server Remote Procedure Calls (RPC).
+
+ 
+
+
+
+
+
+
+Poster WEPGF116 [0.742 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF116
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF117
+High Level Applications for HLS-II
+974
+
+
+ 
+
+K. Xuan, C. Li, J.Y. Li, W. Li, G. Liu, J.G. Wang, L. Wang
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+The Hefei light source was overhauled beginning from 2010 and completed in the end of 2013. The new light source is renamed as HLS-II. A set of high level application tools, including physical quantity based control IOC, lattice calibration tools, orbit feedback, etc., were developed for the light source commissioning and operation. These tools have been playing important roles in the commissioning and operation of the light source. This paper reports some critical applications.
+
+ 
+
+
+
+
+
+
+Poster WEPGF117 [0.683 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF117
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF118
+Use of Tornado in KAT-­7 and MeerKAT Framework
+977
+
+
+ 
+
+C.C.A. de Villiers, B. Xaia
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: SKA South Africa, National Research Foundation of South Africa, Department of Science and Technology, 3rd Floor, The Park, Park Road, Pinelands, Cape Town, South Africa, 7405.
+The KAT­-7 and MeerKAT radio telescope control systems (www.ska.ac.za) are built on a rich Python architecture. At its core, we use KATCP (Karoo Array Telescope Communications Protocol), a text­-based protocol that has served the projects very well. KATCP is supported by every device and connected software component in the system. However, its original implementation relied on threads to support asynchronous operations, and this has sometimes complicated the evolution of the software. Since MeerKAT (with 64 dishes) will be much larger and more complex than KAT-7, the Control and Monitoring (CAM) team investigated some alternatives to classical threading. We have adopted Tornado (www.tornadoweb.org) as the asynchronous engine for KATCP. Tornado, popular for Web applications, is built on a robust and very efficient coroutine paradigm that in turn is based on Python's generators. Co-routines avoid the complexity of thread re-entrancy and lifetime management, resulting in cleaner and more maintainable user code. This paper will describe our migration to a Tornado co-routine architecture, highlighting the benefits and some of the pitfalls and implementation challenges we have met.
+*www.tornadoweb.org.
+
+ 
+
+
+
+
+
+
+Poster WEPGF118 [6.066 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF118
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF119
+Bunch to Bucket Transfer System for FAIR
+980
+
+
+ 
+
+J.N. Bai
+                       IAP, Frankfurt am Main, Germany
+R. Bär, D. Beck, O.K. Kester, D. Ondreka, C. Prados, W.W. Terpstra
+                       GSI, Darmstadt, Germany
+T. Ferrand
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+For the FAIR accelerator complex, synchronization of the bunch to bucket (B2B) transfer will be realized by the General Machine Timing system and the Low-Level RF system. Based on these two systems, both synchronization methods, the phase shift and the frequency beating method, are available for the B2B transfer system for FAIR. This system is capable to realize the B2B transfer within 10ms and the precision better than 1 degree for ions over the whole range of stable isotopes. At first, this system will be used for the transfer from the SIS18 to the SIS100. It will then be extended to all transfers at the FAIR accelerator facility. This paper introduces the synchronization methods and concentrates on the standard procedures and the functional blocks of the B2B transfer system.
+
+ 
+
+
+
+
+
+
+Poster WEPGF119 [1.493 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF119
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF120
+Timing System at MAX IV - Status and Development
+984
+
+
+ 
+
+J.J. Jamróz, J. Forsberg, V.H. Hardion, V. Martos, D.P. Spruce
+                       MAX-lab, Lund, Sweden
+
+ 
+
+
+ 
+
+Funding: MAX IV Laboratory
+A MAX IV construction of two storage rings (SR1.5GeV and SR3GeV) and a short pulse facility (SPF) has been proceeding over last years and will be finished in the middle of 2016. In 2014, few timing procurements were successfully finalized according to the MAX IV requirements and the installation works are ongoing along with the TANGO control system integration.
+THPPC103
+
+ 
+
+
+
+
+
+
+Poster WEPGF120 [0.725 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF120
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF121
+Operation Status of J-PARC Timing System and Future Plan
+988
+
+
+ 
+
+N. Kamikubota, N. Yamamoto
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+N. Kikuzawa, F. Tamura
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+The beam commissioning of J-PARC started in November, 2006. Since then, the timing system of J-PARC accelerator complex has contributed stable beam operations of three accelerators: a 400-MeV linac (LI), a 3-GeV rapid cycling synchrotron (RCS), and a 50-GeV synchrotron (MR). The timing system handles two different repetition cycles: 25 Hz for LI and RCS, and 2.48-6.00 sec. for MR (MR cycle). In addition, the timing system is capable to provide beams to two different experimental facilities in single MR cycle: Material and Life Science Experimental Facility (MLF) and Neutrino Experimental Facility (NU), or, MLF and Hadron Experimental Facility (HD). Recently, a plan to introduce a new facility, Accelerator-Driven Transmutation Experimental Facility (ADS), around 2018, has been discussed. Studies for the timing system upgrade are started: change of the master repetition rate from 25Hz to 50 Hz, and a scheme to provide beams to three different experimental facilities in single MR cycle (MLF, NU and ADS or MLF, HD and ADS). This paper reviews the 8-year operation experience of the J-PARC timing system, followed by a present perspective of upgrade studies.
+
+ 
+
+
+
+
+
+
+Poster WEPGF121 [1.138 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF121
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF122
+Real-Time Performance Improvements and Consideration of Parallel Processing for Beam Synchronous Acquisition (BSA)
+992
+
+
+ 
+
+K.H. Kim, S. Allison, T. Straumann, E. Williams
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the the U.S. Department of Energy, Office of Science under Contract DE-AC02-76SF00515 for LCLS I and LCLS II.
+Beam Synchronous Acquisition (BSA) provides a common infrastructure for aligning data to each individual beam pulse, as required by the Linac Coherent Light Source (LCLS). BSA allows 20 independent acquisitions simultaneously for the entire LCLS facility and is used extensively for beam physics, machine diagnostics and operation. BSA is designed as part of LCLS timing system and is currently an EPICS record based implementation, allowing timing receiver EPICS applications to easily add BSA functionality to their own record processing. However, the non-real-time performance of EPICS record processing and the increasing number of BSA devices has brought real-time performance issues. The major reason for the performance problem is likely due to the lack of separation between time-critical BSA upstream processing and non-critical downstream processing. BSA is being improved with thread level programming, breaking the global lock in each BSA device, adding a queue between upstream and downstream processing, and moving out the non-critical downstream to a lower priority worker thread. The use of multiple worker threads for parallel processing in SMP systems is also being investigated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF122
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF124
+Application Using Timing System of RAON Accelerator
+995
+
+
+ 
+
+S. Lee, H. Jang, C.W. Son
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Rare Isotope Science Project funded by Ministry of Science, ICT and Future Planning(MSIP) and National Research Foundation(NRF) of Korea(Project No. 2011-0032011).
+RAON is a particle accelerator to research the interaction between the nucleus forming a rare isotope as Korean heavy-ion accelerator. RAON accelerator consists of a number of facilities and equipments as a large-scaled experimental device operating under the distributed environment. For synchronization control between these experimental devices, timing system of the RAON uses the VME-based EVG/EVR system. In order to test the high-speed performance of the control logic with the minimized event signal delay, it is planned to establish the step motor controller testbed applying the FPGA chip. The testbed controller will be configured with Zynq 7000 series of Xilinx FPGA chip. Zynq as SoC (System on Chip) is divided into PS (Processing System) with PL (Programmable Logic). PS with the dual-core ARM cpu is performing the high-level control logic at run-time on linux operating system. PL with the low-level FPGA I/O signal interfaces with the step motor controller with the event signal received from timing system. This paper describes the content and performance evaluation obtained from the step motor control through the various synchronized event signal received from the timing system.
+
+ 
+
+
+
+
+
+
+Poster WEPGF124 [1.695 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF124
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF126
+Prototype of White Rabbit Network in LHAASO
+999
+
+
+ 
+
+H. Li, G.H. Gong
+                       Tsinghua University, Beijing, People's Republic of China
+Q. Du
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Key Laboratory of Particle & Radiation Imaging, Open Research Foundation of State Key Lab of Digital Manufacturing Equipment & Technology in Huazhong Univ. of Science & Technology
+Synchronization is a crucial concern in distributed measurement and control systems. White Rabbit provides sub-nanosecond accuracy and picoseconds precision for large distributed systems. In the Large High Altitude Air Shower Observatory project, to guarantee the angular resolution of reconstructed air shower event, a 500 ps overall synchronization precision must be achieved among thousands of detectors. A small prototype built at Yangbajin, Tibet, China has been working well for a whole year. A portable calibration node directly synced with the grandmaster switch and a simple detectors stack named Telescope are used to verify the overall synchronization precision of the whole prototype. The preliminary experiment results show that the long term synchronization of the White-Rabbit network is promising and 500 ps overall synchronization precision is achievable with node by node calibration and temperature correction.
+
+ 
+
+
+
+
+
+
+Poster WEPGF126 [1.233 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF126
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF127
+A Generic Timing Software for Fast Pulsed Magnet Systems at CERN
+1003
+
+
+ 
+
+C. Chanavat, M. Arruat, E. Carlier, N. Magninpresenter
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+At CERN, fast pulsed magnet (kicker) systems are used to inject, extract, dump and excite beams. Depending on their operational functionalities and as a result of the evolution of controls solutions over time, the timing controls of these systems were based on hybrid hardware architectures that have resulted in a large disparity of software solutions. In order to cure this situation, a Kicker Timing Software (KiTS), based on a modular hardware and software architecture, has been developed with the objective to increase the homogeneity of fast and slow timings control for all types of fast pulsed magnet systems. The KiTS uses a hardware abstraction layer and a configurable software model implemented within the Front-End Software Architecture (FESA) framework. It has been successfully deployed in the control systems of the different types of kicker systems at CERN like for the PS continuous transfer, the SPS injection and extraction, the SPS tune measurement and the LHC injection.
+
+ 
+
+
+
+
+
+
+Poster WEPGF127 [38.304 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF127
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF128
+Development Status of the Sirius Timing System
+1007
+
+
+ 
+
+J.L.N. Brito, S.R. Marques, L.A. Martins, D.O. Tavares
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Sirius is a new low-emittance 3 GeV synchrotron light source under construction in Brazil by LNLS, scheduled for commissioning in 2018. Its timing system will be responsible for providing low jitter synchronized signals for the beam injection process as well as reference clocks and triggers for diverse subsystems such as electron BPMs, fast orbit feedback and beamlines distributed around the 518 meters circumference of the storage ring, Booster and Linac. It will be composed of Ethernet-configured standalone event generators and event receivers modules developed by SINAP through a collaboration with LNLS. The modules will be controlled by remote EPICS soft IOCs. This paper presents the system structure and the status of the development, some options for integrating it to the Sirius BPM MicroTCA platform are also discussed.
+
+ 
+
+
+
+
+
+
+Poster WEPGF128 [13.925 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF128
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF129
+CERN timing on PXI and cRIO platforms
+1011
+
+
+ 
+
+A. Rijllart, O.Ø. Andreassen, J. Blanco Alonso
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Given the time critical applications, the use of PXI and cRIO platforms in the accelerator complex at CERN, require the integration into the CERN timing system. In this paper the present state of integration of both PXI and cRIO platforms in the present General Machine Timing system and the White Rabbit Timing system, which is its successor, is described. PXI is used for LHC collimator control and for the new generation of control systems for the kicker magnets on all CERN accelerators. The cRIO platform is being introduced for transient recording on the CERN electricity distribution system and has potential for applications in other domains, because of its real-time OS, FPGA backbone and hot swap modules. The further development intended and what type of applications are most suitable for each platform, will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF129
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF132
+An Update on CAFE, a C++ Channel Access Client Library, and its Scripting Language Extensions
+1013
+
+
+ 
+
+J.T.M. Chrin
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+CAFE (Channel Access interFacE) is a C++ client library that offers a comprehensive and easy-to-use Channel Access (CA) interface to the Experimental Physics and Industrial Control System (EPICS). The code base has undergone significant refactoring to make the internal structure more comprehensible and easier to interpret, and further methods have been implemented to increase its flexibility in readiness to serve as the CA host in fourth-generation and scripting languages for use at the SwissFEL, Switzerland's X-ray Free-Electron Laser facility. A number of specific design features are presented, including policies that provide control over configurable components that govern the behaviour of interactions, and the methodology that guarantees that the outcome of all remote method invocations are captured with integrity in every eventuality, thereby ensuring reliability and stability. An account is also given on newly created bindings for the Cython programming language, which offers a major performance improvement to Python developers, and on an update to CAFE's MATLAB Executable (MEX) file.
+
+ 
+
+
+
+
+
+
+Poster WEPGF132 [0.302 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF132
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF133
+TINE Studio, Making Life Easy for Administrators, Operators and Developers
+1017
+
+
+ 
+
+P. Duval, M. Lomperski
+                       DESY, Hamburg, Germany
+J. Bobnar
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+A mature control system will provide central services such as alarm handling, archiving, location and naming, debugging, etc. along with development tools and administrative utilities. It has become common to refer to the collection of these services as a 'studio'. Indeed Control System Studio (CSS)* strives to provide such services independent of the control system protocol. Such a 'one-size-fits-all' approach is likely, however, to focus on features and behavior of the most prominent control system protocol in use, providing a good fit there but perhaps offering only a rudimentary fit for 'other' control systems. TINE** is for instance supported by CSS but is much better served by making use of TINE Studio. This paper reports here on the rich set of services and utilities comprising TINE Studio.
+* http://www.controlsystemstudio.org ** http://tine.desy.de
+
+ 
+
+
+
+
+
+
+Poster WEPGF133 [2.528 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF133
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF134
+Applying Sophisticated Analytics to Accelerator Data at BNLs Collider-Accelerator Complex: Bridging to Repositories, Tools of Choice, and Applications
+1021
+
+
+ 
+
+K.A. Brown, P. Chitnis, T. D'Ottavio, J. Morris, S. Nemesure, S. Perez, D.J. Thomas
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+Analysis of accelerator data has traditionally been done using custom tools, either developed locally or at other laboratories. The actual data repositories are openly available to all users, but it can take significant effort to mine the desired data, especially as the volume of these repositories increases to hundreds of terabytes or more. Much of the data analysis is done in real time when the data is being logged. However, sometimes users wish to apply improved algorithms, look for data correlations, or perform more sophisticated analysis. There is a wide spectrum of desired analytics for this small percentage of the problem domains. In order to address this tools have been built that allow users to efficiently pull data out of the repositories but it is then left up to them to post process that data. In recent years, the use of tools to bridge standard analysis systems, such as Matlab, R, or SciPy, to the controls data repositories, has been investigated. In this paper, the tools used to extract data from the repositories, tools used to bridge the repositories to standard analysis systems, and directions being considered for the future, will be discussed.
+
+ 
+
+
+
+
+
+
+Poster WEPGF134 [2.714 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF134
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF135
+Using the Vaadin Web Framework for Developing Rich Accelerator Controls User Interfaces
+1025
+
+
+ 
+
+K.A. Brown, T. D'Ottavio, W. Fu, S. Nemesure
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy
+Applications used for Collider-Accelerator Controls at Brookhaven National Laboratory typically run as console level programs on a Linux operating system. One essential requirement for accelerator controls applications is bidirectional synchronized IO data communication. Several new web frameworks (Vaadin, GXT, node.js, etc.) have made it possible to develop web based Accelerator Controls applications that provide all the features of console based UI applications that includes bidirectional IO. Web based applications give users flexibility by providing an architecture independent domain for running applications. Security is established by restricting access to users within the local network while not limiting this access strictly to Linux consoles. Additionally, the web framework provides the opportunity to develop mobile device applications that makes it convenient for users to access information while away from the office. This paper explores the feasibility of using the Vaadin web framework for developing UI applications for Collider-Accelerator controls at Brookhaven National Laboratory.
+
+ 
+
+
+
+
+
+
+Poster WEPGF135 [0.990 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF135
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF136
+Development of iBeacon Based Equipment Inventory System at STAR Experiment
+1029
+
+
+ 
+
+J. Fujita, M.G. Cherney
+                       Creighton University, Omaha, NE, USA
+
+ 
+
+
+ 
+
+An inventory system using iBeacon technology has been developed. Using a specially written iOS app, makes the location of the equipment easier to a workers during the routine access to the experiment. The use of iBeacons and iOS devices allow us to distinguish one equipment rack from another very easily. Combined with 2D barcode, the use of iBeacons may provide better inventory management of the equipment for experiments.
+
+ 
+
+
+
+
+
+
+Poster WEPGF136 [2.598 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF136
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF137
+Adopting and Adapting Control System Studio at Diamond Light Source
+1032
+
+
+ 
+
+M.J. Furseman, N.W. Battam, T.M. Cobb, I.J. Gillingham, M.T. Heron, G. Knap, W.A.H. Rogers
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Since commissioning, Diamond Light Source has used the Extensible Display Manager (EDM) to provide a GUI to its EPICS-based control system. As Linux moves away from X-Windows the future of EDM is uncertain, leading to the evaluation of Control System Studio (CS-Studio) as a replacement. Diamond has a user base accustomed to the interface provided by EDM and an infrastructure designed to launch the multiple windows associated with it. CS-Studio has been adapted to provide an interface that is similar to EDM's while keeping the new features of CS-Studio available. This will allow as simple as possible a transition to be made to using CS-Studio as Diamond's user interface to EPICS. It further opens up the possibility of integrating the control system user interface with those in the Eclipse based GDA and DAWN tools which are used for data acquisition and data analysis at Diamond.
+
+ 
+
+
+
+
+
+
+Poster WEPGF137 [4.177 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF137
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF141
+Tools and Procedures for High Quality Technical Infrastructure Monitoring Reference Data at CERN
+1036
+
+
+ 
+
+R. Martini, M. Bräger, J.L. Salmon, A. Suwalska
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The monitoring of the technical infrastructure at CERN relies on the quality of the definition of numerous and heterogeneous data sources. In 2006, we introduced the MoDESTI* procedure for the Technical Infrastructure Monitoring** (TIM) system to promote data quality. The first step in the data integration process is the standardisation of the declaration of the various data points whether these are alarms, equipment statuses or analogue measurement values. Users declare their data points and can follow their requests, monitoring personnel ensure the infrastructure is adapted to the new data, and control room operators check that the data points are defined in a consistent and intelligible way. Furthermore, rigorous validations are carried out on input data to ensure correctness as well as optimal integration with other computer systems at CERN (maintenance management, geographical viewing tools etc.). We are now redesigning the MoDESTI procedure in order to provide an intuitive and streamlined Web based tool for managing data definition, as well as reducing the time between data point integration requests and implementation. Additionally, we are introducing a Class-Device-Property data definition model, a standard in the CERN accelerator sector, for a more flexible use of the TIM data points.
+*MoDESTI: Monitoring Data Entry System for the Technical Infrastructure **TIM: Technical Infrastructure Monitoring
+
+ 
+
+
+
+
+
+
+Poster WEPGF141 [0.509 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF141
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF142
+Advanced Matlab GUI Development with the DataGUI Library
+1040
+
+
+ 
+
+S.M. Meykopff
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+On the DESY campus Matlab is a widely used tool for creating complex user interfaces. Although the on-board GUI tools are easy to use and provide quick results, the generated low-level code lacks uniformity and advanced features like automatic verification and conversion of input and output data. These limitations are overcome by the newly developed DataGUI library. The library is based on the model-view-controller software pattern and supports enhanced data handling, undocumented Matlab GUI elements, and configurable resizing of the user interface. An outlook on features of the upcoming release is also presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF142
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF145
+A Structured Approach to Control System GUI Design for the Solaris Light Source
+1044
+
+
+ 
+
+V. Juvan, I. Dolin'ek, T. Humar, M. Pavleskipresenter
+                       Cosylab, Ljubljana, Slovenia
+P.P. Goryl
+                       Solaris, Kraków, Poland
+
+ 
+
+
+ 
+
+In the framework of delivering control system services to the Solaris synchrotron light source, Kraków, Poland, Cosylab realized a comprehensive set of controls GUIs, using a structured approach. The goals of using this architecture are threefold. The first is to achieve reliable, predictable and consistent behaviour of the controls software. The second is that it is easy to deploy and maintain through scripting. The third is that it is future-proof by providing extensibility, using dedicated templates. The system is based on a configuration database, populated with devices, device specifics and device groups (clusters of devices performing specific operations). The GUIs are dynamically generated from this configuration. For the synoptic views, TANGO-standard JDraw and its configuration are integrated into the framework. Existing GUIs, written in PyTango can be easily adapted to function as part of this system. The compelling user benefits are high usability and life-time management through controlled upgrade and extension. For new big physics projects this GUI control program offers a customizable solution for any TANGO based control system.
+
+ 
+
+
+
+
+
+
+Poster WEPGF145 [4.620 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF145
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF146
+GUI Style Guide for Control System Applications at ESS
+1047
+
+
+ 
+
+F. Amand, M. Pavleskipresenter, M. Pleško
+                       Cosylab, Ljubljana, Slovenia
+L. Fernandez
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+To help developers create consistent-looking control system application GUIs, the European Spallation Source Integrated Control Systems group asked Cosylab to develop a Style Guide document. Its purpose is to avoid that GUIs needlessly diverge and make the end-result of all screens combined look harmonious, even if GUIs have been developed over several years by many contributors. Also it will speed up development, by letting developers start from design patterns, rather than starting "from a blank page". The document defines a set of basic panel sizes, containing a 960px-style grid for consistent organization of content. It also defines color scheme and font usage, in-line with the overall ESS corporate communications manual, with the addition of signal colors. In addition it shows example screens to serve as GUI design patterns for typical screen types such as engineering screens, control applications and synoptic screens. It concludes by setting rules and recommendations for the usage of automation symbols and display of engineering and physical units. The document is further complemented by a separate document with Usability Guidelines for Human-Machine interfaces.
+
+ 
+
+
+
+
+
+
+Poster WEPGF146 [1.866 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF146
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF147
+ALICE Monitoring in 3-D
+1049
+
+
+ 
+
+O. Pinazza
+                       INFN-Bologna, Bologna, Italy
+A. Augustinus, P.M. Bond, P.Ch. Chochula, M. Lechman, J. Niedziela
+                       CERN, Geneva, Switzerland
+A.N. Kurepin
+                       RAS/INR, Moscow, Russia
+
+ 
+
+
+ 
+
+The ALICE experiment is a complex hardware and software device, monitored and operated with a control system based on WinCC OA. ALICE is composed of 19 detectors and installed in a cavern along the LHC at CERN; each detector is a set of modular elements, assembled in a hierarchical model called Finite State Machine. A 3-D model of the ALICE detector has been realized, where all elements of the FSM are represented in their relative location, giving an immediate overview of the status of the detector. For its simplicity, it can be a useful tool for the training of operators. The development is done using WinCC OA integrated with the JCOP fw3DViewer, based on the AliRoot geometry settings. Extraction and conversion of geometry data from AliRoot requires the usage of conversion libraries, which are currently being implemented. A preliminary version of ALICE 3-D is now deployed on the operator panel in the ALICE Run Control Centre. In the next future, the 3-D panel will be available on a big touch screen in the ALICE Visits Centre, providing visitors with the unique experience of navigating the experiment from both inside and out.
+
+ 
+
+
+
+
+
+
+Poster WEPGF147 [1.282 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF147
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF148
+Unifying All TANGO Control Services in a Customizable Graphical User Interface
+1052
+
+
+ 
+
+S. Rubio-Manrique, G. Cuní, D. Fernandez-Carreiraspresenter, C. Pascual-Izarra, D. Roldán
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+E. Al-Dmour
+                       MAX-lab, Lund, Sweden
+
+ 
+
+
+ 
+
+TANGO is a distributed Control System with an active community of developers. The community features multiple services like Archiving or Alarms with an heterogeneous mix of technologies and look-and-feels that must be integrated in the final user workflow. The Viewer and Commander Control Application (VACCA) was developed on top of Taurus to provide TANGO with the user experience of a commercial SCADA, keeping the advantages of open source. The Taurus GUI application enables scientists to design their own live applications using drag-and-drop from the widget catalog. The VACCA User Interface provides a template mechanism for synoptic-driven applications and extends the widget catalog to interact with all the components of the control system (Alarms, Archiving, Databases, Hosts Administration). The elements of VACCA are described in this paper, as well as its mechanisms to encapsulate all services in a GUI for an specific subsystem (e.g. Vacuum).
+
+ 
+
+
+
+
+
+
+Poster WEPGF148 [1.588 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF148
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF150
+A HTML5 Web Interface for JAVA DOOCS Data Display
+1056
+
+
+ 
+
+E. Sombrowski, R. Kammering, K.R. Rehlich
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+JAVA DOOCS Data Display (JDDD) is the standard tool for developing control system panels for the FLASH facility and European XFEL. The panels are mainly started on DESY campus. For remote monitoring and expert assistance a secure, fast and light-weight access method is required. One possible solution is using HTML5 as transport protocol, because it is available on many common platforms including mobile ones. For this reason an HTML5 version of JDDD, running in a Tomcat application server, was developed. WebSocket technology is used to transfer the panel image to the browser. In the other direction, mouse events are sent back from the browser to the Tomcat server. Now thousands of existing JDDD panels can be accessed from remote using standard web technology. No special browser plugins are required. This article discusses the general issues of the web-based interaction with the control system such as security, usability, network traffic and scalability, and presents the WebSocket approach.
+
+ 
+
+
+
+
+
+
+Poster WEPGF150 [1.024 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF150
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF152
+Time Travel Made Possible at FERMI by the Time-Machine Application
+1059
+
+
+ 
+
+G. Strangolino, M. Lonzapresenter, L. Pivetta
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+The TANGO archiving system HDB++ continuously stores data over time into the historical database. The new time-machine application, a specialization of the extensively used save/restore framework, allows bringing back sets of control system variables to their values at a precise date and time in the past. Given the desired time stamp t0 and a set of TANGO attributes, the values recorded at the most recent date and time preceding or equaling t0 are fetched from the historical database. The user can examine the list of variables with their values before performing a full or partial restoration of the set. The time-machine seamlessly integrates with the well known save/restore application, sharing many of its characteristics and functionalities, such as the matrix-based subset selection, the live difference view and the simple and effective user interface.
+
+ 
+
+
+
+
+
+
+Poster WEPGF152 [0.445 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF152
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF153
+Karabo-GUI: A Multi-Purpose Graphical Front-End for the Karabo Framework
+1063
+
+
+ 
+
+M. Teichmann, B.C. Heisen, K. Weger, J. Wiggins
+                       XFEL. EU, Hamburg, Germany
+
+ 
+
+
+ 
+
+The Karabo GUI is a generic graphical user interface (GUI) which is currently developed at the European XFEL GmbH. It allows the complete management of the Karabo distributed control and data acquisition system. Remote applications (devices) can be instantiated, operated and terminated. Devices are listed in a live navigation view and from the self-description inherent to every device a default configuration panel is generated. The user may combine interrelated components into one project. Such a project includes persisted device configurations, custom control panels and macros. Expert panels can be built by intermixing static graphical elements with dynamic widgets connected to parameters of the distributed system. The same panel can also be used to graphically configure and execute data analysis workflows. Other features include an embedded IPython scripting console, logging, notification and alarm handling. The GUI is user-centric and will restrict display or editing capability according to the user's role and the current device state. The GUI is based on PyQt technology and acts as a thin network client to a central Karabo GUI-Server.
+
+ 
+
+
+
+
+
+
+Poster WEPGF153 [0.767 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF153
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF154
+Visualization of Interlocks with EPICS Database and EDM Embedded Windows
+1066
+
+
+ 
+
+E. Tikhomolov
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+The control system for TRIUMF's upgraded secondary beam line M20 was implemented by using a PLC and one of many EPICS IOCs running on a multi-core Dell server. Running the IOC on a powerful machine rather than on a small dedicated computer has a number of advantages such as fast code execution and the availability of a large amount of memory. A large EPICS database can be loaded into the IOC and used for visualization of the interlocks implemented in the PLC. The information about interlock status registers, text messages, and the names of control and interlock panels are entered into a relational database by using a web browser. Top-level EPICS schematics are generated from the relational database. For visualization the embedded windows available in the Extensible Display Manager (EDM) are the EPICS clients, which retrieve interlock status information from the EPICS database. A set of interlock panels is the library, which can be used to show any chains of interlocks. If necessary, a new interlock panel can be created by using the visualization tools provided with EDM. This solution, in use for more than 3 years, has proven to be reliable and very flexible.
+
+ 
+
+
+
+
+
+
+Poster WEPGF154 [1.158 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF154
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPGF155
+Improving Software Services Through Diagnostic and Monitoring Capabilities
+1070
+
+
+ 
+
+P. Charrue, M. Buttner, F. Ehm, P. Jurcso
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+CERN's Accelerator Controls System is built upon a large set of software services which are vital for daily operations. It is important to instrument these services with sufficient diagnostic and monitoring capabilities to reduce the time to locate a problem and to enable pre-failure detection by surveillance of process internal information. The main challenges here are the diversity of programs (C/C++ and Java) , real-time constraints, the distributed environment and diskless systems. This paper describes which building blocks have been developed to collect process metrics and logs, software deployment and release information and how equipment/software experts today have simple and time-saving access to them using the DIAMON console. This includes the possibility to remotely inspect the process (build-time, version, start time, counters,..) and change its log levels for more detailed information.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEPGF155
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

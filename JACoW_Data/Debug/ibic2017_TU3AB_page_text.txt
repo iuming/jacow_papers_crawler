@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2017 - Table of Session: TU3AB (Tuesday After Lunch)
+
+
+TU3AB —  Tuesday After Lunch   (22-Aug-17   14:00—16:00)
+Chair: N. Eddy, Fermilab, Batavia, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+TU3AB1
+Optics Measurements at SuperKEKB Using Beam Based Calibration for BPM and Beam Based Experiment
+141
+
+
+ 
+
+H. Sugimoto, H. Koiso, A. Morita, Y. Ohnishi, M. Tejima
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+SuperKEKB is an electron-position collider realizes a new luminosity frontier. The target luminosity is 8x1035 cm-2 s-1. The initial beam commissioning started in February 2016 and operated until June 2016. Low Emittance Tuning (LET) is an important issue in the beam commissioning. The Beam-Based Calibration (BBC) scheme for Beam-Position-Monitor (BPM) has been applied in order to establish reliable beam measurement system. In the BBC, a response model among beam position, charge and output signals of the BPM electrodes are introduced to calibrate the relative gain of each electrodes. The gains are adjusted by least squares fitting so that the model reproduces the measured BPM signals. The Beam-Based Alignment (BBA) is also performed to determine the magnetic center of each quadrupole magnet. Using the BBC, the performance of the BPM system and optics correction has been successfully improved. After the series of the optics tuning and the BPM calibration, the vertical emittance of about 10 pm is achieved in the positron ring. This paper presents what we experienced during the beam commissioning focusing on the beam optics measurement and the BBC scheme for the BPM system.
+
+ 
+
+
+
+
+
+
+Slides TU3AB1 [10.644 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TU3AB1
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TU3AB2
+Status of the Transverse Intra Bunch Train Feedback of the European XFEL
+ 
+
+
+ 
+
+W. Koprek, M. Gloor, B. Keilpresenter, A. Malatesta, F. Marcellini, G. Marinkovic, M. Roggli, M. Stadler, D.M. Treyer
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The European XFEL has a transverse Intra Bunch Train Feedback (IBFB) that is able to measure and correct the beam position of each bunch individually by means of cavity beam position monitors (CBPMs) and stripline kicker magnets. The IBFB core system is located between the collimator and the beam distribution kicker system, using two vertical and two horizontal kickers as well as eight nearby CBPMs for an ultra-fast feedback loop. Moreover, it receives data from all undulator BPMs via longer fiber optic cables, thus allowing to correct small beam trajectory perturbations that may occur between the IBFB core systems and the undulators located some 100m downstream. After first lasing has been observed in 5/2017, the IBFB is presently being commissioned with beam. This paper will report on the final design of the IBFB system, FPGA-based data transfer and signal processing concept, as well as on the achieved performance and latest results of the different IBFB subsystems (including CBPMs) and overall system.
+
+ 
+
+
+
+
+
+
+Slides TU3AB2 [4.992 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TU3AB3
+Digital Signal Processing Techniques to Monitor Bunch-by-Bunch Beam Positions in the LHC for Machine Protection Purposes
+146
+
+
+ 
+
+J. Pospisil, O. Bjorkqvist, A. Boccardi, M. Wendt
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+This paper presents the development of an upgrade to the beam position interlock system for the Large Hadron Collider (LHC) at the European Organization for Nuclear Research (CERN). The beam orbit at the beam dump kicker is continuously monitored by 16 beam position monitors that are part of the machine protection system. In case of unacceptable orbit movement the system has to trigger the beam abort immediately to prevent damage to the machine. An upgrade of the present system is underway with the aim of handling a larger dynamic range of bunch intensities, and coping with different bunch time structures (both the standard bunch spacing of 25 ns and special doublet bunches spaced by 5 ns). The proposed architecture combines the analogue signals from opposite pickup electrodes on a single read-out channel, and stretches it with a delay-line based comb-filter. The resulting signal, covering a dynamic range of 60 dB, is digitised at 3.2 GSPS and processed inside a Field-programmable Gate Array (FPGA) to extract a position value. Different signal processing techniques are compared on simulated ideal beam signals, and preliminary results of a prototype installation is presented.
+
+ 
+
+
+
+
+
+
+Slides TU3AB3 [22.361 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TU3AB3
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

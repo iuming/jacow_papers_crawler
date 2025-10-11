@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: TUCPA (Data Analytics)
+
+
+TUCPA —  Data Analytics   (10-Oct-17   14:00—15:30)
+Chair: M. Gonzalez Berges, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+TUCPA01
+Data Analysis Support in Karabo at European XFEL
+245
+
+
+ 
+
+H. Fangohr, M. Beg, V. Bondar, D. Boukhelef, S. Brockhauser, C. Danilevski, W. Ehsan, S.G. Esenov, G. Flucke, G. Giovanetti, D. Goeries, S. Hauf, B.C. Heisen, D.G. Hickin, D. Khakhulin, A. Klimovskaia, M. Kuster, P.M. Lang, L.G. Maia, L. Mekinda, T. Michelat, A. Parenti, G. Previtali, H. Santos, A. Silenzi, J. Sztuk-Dambietz, J. Szuba, M. Teichmann, K. Weger, J. Wiggins, K. Wrona, C. Xu
+                       XFEL. EU, Schenefeld, Germany
+S. Aplin, A. Barty, M. Kuhn, V. Mariani
+                       CFEL, Hamburg, Germany
+T. Kluyver
+                       University of Southampton, Southampton, United Kingdom
+
+ 
+
+
+ 
+
+We describe the data analysis structure that is integrated into the Karabo framework [1] to support scientific experiments and data analysis at European XFEL GmbH. The photon science experiments have a range of data analysis requirements, including online (i.e. near real-time during the actual measurement) and offline data analysis. The Karabo data analysis framework supports execution of automatic data analysis for routine tasks, supports complex experiment protocols including data analysis feedback integration to instrument control, and supports integration of external applications. The online data analysis is carried out using distributed and accelerator hardware (such as GPUs) where required to balance load and achieve near real-time data analysis throughput. Analysis routines provided by Karabo are implemented in C++ and Python, and make use of established scientific libraries. The XFEL control and analysis software team collaborates with users to integrate experiment specific analysis codes, protocols and requirements into this framework, and to make it available for the experiments and subsequent offline data analysis.
+[1] Heisen et al (2013) "Karabo: An Integrated Software Framework Combining Control, Data Management, and Scientific Computing Tasks". Proc. of 14th ICALEPCS 2013, Melbourne, Australia (p. FRCOAAB02)
+
+ 
+
+
+
+
+
+
+Slides TUCPA01 [10.507 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPA01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPA02
+Leveraging Splunk for Control System Monitoring and Management
+253
+
+
+ 
+
+M.A. Fedorov, P. Adams, G.K. Brunton, B.T. Fishler, M.S. Flegel, K.C. Wilhelmsen, E.F. Wilson
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344
+The National Ignition Facility (NIF) is the world's largest and most energetic laser experimental facility with 192 beams capable of delivering 1.8 megajoules and 500-terawatts of ultraviolet light to a target. To aid in NIF control system troubleshooting, the commercial product Splunk was introduced to collate and view system log files collected from 2,600 processes running on 1,800 servers, front-end processors, and embedded controllers. We have since extended Splunk's access into current and historical control system configuration data, as well as experiment setup and results. Leveraging Splunk's built-in data visualization and analytical features, we have built custom tools to gain insight into the operation of the control system and to increase its reliability and integrity. Use cases include predictive analytics for alerting on pending failures, analyzing shot operations critical path to improve operational efficiency, performance monitoring, project management, and in analyzing and monitoring system availability. This talk will cover the various ways we've leveraged Splunk to improve and maintain NIF's integrated control system.
+LLNL-ABS-728830
+
+ 
+
+
+
+
+
+
+Slides TUCPA02 [1.762 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPA02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPA03
+Experience with Machine Learning in Accelerator Controls
+258
+
+
+ 
+
+K.A. Brown, S. Binello, T. D'Ottavio, P.S. Dyer, S. Nemesure, D.J. Thomas
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+The repository of data for the Relativistic Heavy Ion Collider and associated pre-injector accelerators consists of well over half a petabyte of uncompressed data. By todays standard, this is not a large amount of data. However, a large fraction of that data has never been analyzed and likely contains useful information. We will describe in this paper our efforts to use machine learning techniques to pull out new information from existing data. Our focus has been to look at simple problems, such as associating basic statistics on certain data sets and doing predictive analysis on single array data. The tools we have tested include unsupervised learning using Tensorflow, multimode neural networks, hierarchical temporal memory techniques using NuPic, as well as deep learning techniques using Theano and Keras.
+
+ 
+
+
+
+
+
+
+Slides TUCPA03 [6.658 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPA03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPA04
+Model Learning Algorithms for Anomaly Detection in CERN Control Systems
+265
+
+
+ 
+
+F.M. Tilaro, B. Bradu, M. Gonzalez-Berges, F. Varela
+                       CERN, Geneva, Switzerland
+M. Roshchin
+                       Siemens AG, Corporate Technology, München, Germany
+
+ 
+
+
+ 
+
+At CERN there are over 600 different industrial control systems with millions of deployed sensors and actuators and their monitoring represents a challenging and complex task. This paper describes three different mathematical approaches that have been designed and developed to detect anomalies in CERN control systems. Specifically, one of these algorithms is purely based on expert knowledge while the other two mine historical data to create a simple model of the system, which is then used to detect anomalies. The methods presented can be categorized as dynamic unsupervised anomaly detection; "dynamic" since the behaviour of the system is changing in time, "unsupervised" because they predict faults without reference to prior events. Consistent deviations from the historical evolution can be seen as warning signs of a possible future anomaly that system experts or operators need to check. The paper also presents some results, obtained from the analysis of the LHC Cryogenic system. Finally the paper briefly describes the deployment of Spark and Hadoop into the CERN environment to deal with huge datasets and to spread the computational load of the analysis across multiple nodes.
+
+ 
+
+
+
+
+
+
+Slides TUCPA04 [1.965 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPA04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPA05
+Laser Damage Image Pre-processing Based on Total Variation
+272
+
+
+ 
+
+J. Luo, Z. Ni, X. Xie, X. Zhoupresenter
+                       CAEP, Sichuan, People's Republic of China
+
+ 
+
+
+ 
+
+The inspection and tracking of laser-induced damages of optics play a significant role in high-power laser systems. Laser-induced defects or flaws on the surfaces of optics are presented in images acquired by specific charge coupled devices (CCDs), hence the identification of defects from laser damage images is essential. Despite a great effort we have made to improve the imaging results, the defect identification is a challenging task. The proposed research focuses on the pre-processing of laser damage images, which assists identifying optic defects. We formulate the image pre-processing as a total variation (TV) based image reconstruction problem, and further develop an alternating direction method of multipliers (ADMM) algorithm to solve it. The use of TV regularization makes the pre-processed image sharper by preserving the edges or boundaries more accurately. Experimental results demonstrate the effectiveness of this method.
+
+ 
+
+
+
+
+
+
+Slides TUCPA05 [0.538 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPA05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPA06
+SwissFEL - Beam Synchronous Data Acquisition - The First Year
+276
+
+
+ 
+
+S.G. Ebner, H. Brands, B. Kalantari, R. Kapeller, F. Märki, L. Sala, C. Zellweger
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The SwissFEL beam-synchronous data-acquisition system is based on several novel concepts and technologies. It is targeted on immediate data availability and online processing and is capable of assembling an overall data view of the whole machine, thanks to its distributed and scalable back-end. Load on data sources is reduced by immediately streaming data as soon as it becomes available. The streaming technology used provides load balancing and fail-over by design. Data channels from various sources can be efficiently aggregated and combined into new data streams for immediate online monitoring, data analysis and processing. The system is dynamically configurable, various acquisition frequencies can be enabled, and data can be kept for a defined time window. All data is available and accessible enabling advanced pattern detection and correlation during acquisition time. Accessing the data in a code-agnostic way is also possible through the same REST API that is used by the web-frontend. We will give an overview of the design and specialities of the system as well as talk about the findings and problems we faced during machine commissioning.
+
+ 
+
+
+
+
+
+
+Slides TUCPA06 [5.107 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPA06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

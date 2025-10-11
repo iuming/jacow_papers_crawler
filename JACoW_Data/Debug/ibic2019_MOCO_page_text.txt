@@ -1,0 +1,257 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2019 - Table of Session: MOCO (Current measurement, Overview III)
+
+
+MOCO —  Current measurement, Overview III   (09-Sep-19   14:30—16:00)
+Chair: S.A. Gavrilov, RAS/INR, Moscow, Russia
+
+
+Paper
+Title
+Page
+
+
+
+MOCO01
+Online Touschek Beam Lifetime Measurement Based on the Precise Bunch-By-Bunch Beam Charge Monitor
+36
+
+
+ 
+
+B. Gao, F.Z. Chen, Y.B. Leng
+                       SSRF, Shanghai, People’s Republic of China
+Y.M. Zhou
+                       SINAP, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+Beam current and lifetime are the most important parameters to characterize the beam and machine quality of an electron storage ring. In order to describe the behavior of all electron bunches completely and accurately, a precisely bunch-by-bunch charge monitor has been developed at SSRF. Method called two-point equilibrium sampling is introduced to avoid the influence of longitudinal oscillation on the sampling point, thanks to this, the resolution of the BCM was below 0.2 pC. Utilizing the advantages of BCM’s high refresh rate and high resolution, the system can meet the requirement of monitor the bunch-by-bunch beam lifetime, measure touschek lifetime and vacuum lifetime. In this paper, experiments and and analysis will be described in detail.
+
+ 
+
+
+
+
+
+
+Slides MOCO01 [18.156 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOCO01
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCO02
+Development of a Passive Cavity Beam Intensity Monitor for Pulsed Proton Beams for Medical Applications
+41
+
+
+ 
+
+P. Nenzi, A. Ampollini, G. Bazzano, F. Cardelli, L. Picardi, L. Piersanti, C. Ronsivalle, V. Surrenti, E. Trinca
+                       ENEA C.R. Frascati, Frascati (Roma), Italy
+
+ 
+
+
+ 
+
+Funding: This work has been funded by the Innovation Department of Regione Lazio Government, Italy.
+In this work the design of a passive cavity beam intensity monitor to be used in the TOP-IMPLART medical proton linac for the on-line measurement of beam current is presented. It will be used to monitor the beam between modules and at the linac exit. TOP-IMPLART produces a pulsed proton beam with 3 us duration at 200 Hz repetition rate with a current between 0.1 uA and 50 uA. The current required for medical applications is less than 1 uA and has to be known with an accuracy better than 5%. Large dynamic range and space constraints make the use of usual non-interceptive beam diagnostics unfeasible. The proposed system consists of a resonant cavity working in the TM010 mode, generating an electromagnetic field when the beam enters the cavity; a magnetic pickup senses an RF pulse whose amplitude is proportional to the current. The RF pulse is amplified and subsequently detected with zero-biased Schottky diodes. The cavity operates in vacuum when used in the inter-module space. The work reports also the results of preliminary measurements done on an copper prototype in air at the exit of the TOP-IMPLART linac to test the sensitivity of the system on the actual 35 MeV proton beam.
+
+ 
+
+
+
+
+
+
+Slides MOCO02 [3.269 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOCO02
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCO03
+Estimation of Longitudinal Profiles of Ion Bunches in the LHC Using Schottky-Based Diagnostics
+45
+
+
+ 
+
+K. Łasocha, D. Alvespresenter
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The Large Hadron Collider (LHC) Schottky monitors have been designed to measure various parameters of relevance to beam quality, namely tune, momentum spread and chromaticity. We present another application of this instrument - the evaluation of longitudinal bunch profiles. The relation between the distribution of synchrotron amplitudes within the bunch population and the longitudinal bunch profile is derived from probabilistic principles. Our approach, limited to bunched beams with no intra-bunch coherent motion, initially fits the cumulative power spectral density of acquired Schottky spectra with the underlying distribution of synchrotron amplitudes. The result of this fit is then used to reconstruct the bunch profile using the derived model. The results obtained are verified by a comparison with measurements from the LHC Wall Current Monitors.
+
+ 
+
+
+
+
+
+
+Slides MOCO03 [48.066 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOCO03
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCO04
+Overview of Bunch-Resolved Diagnostics for the Future BESSY VSR Electron-Storage Ring
+50
+
+
+ 
+
+G. Schiwietz, J.G. Hwang, M. Koopmans, M. Ries
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+The upgrade of the BESSY II light source in Berlin towards the Variable pulse-length Storage-Ring BESSY VSR will lead to a complex fill pattern. This involves co-existing electron bunches with significant variations of bunch-length, bunch charge as well as charge density. Among many other boundary conditions, this calls for bunch resolved measurements with sub-ps time resolution and micrometer spatial resolution. Currently, we are constructing a diagnostic platform connected to three new dipole beamlines for visible light as well as THz measurements. The mid-term aim is a 24/7 use of beam-diagnostic tools and the development of advanced methods for specific purposes. Recently, we have set-up a sub-ps streak camera* and we are investigating other innovative methods for bunch-length** as well as lateral size determination using visible light*** at the first of our new diagnostic dipole beamlines. Preliminary results as well as our concepts for achieving high sensitivity, good signal-to-noise ratio and time resolution will be presented and discussed at the conference.
+* G.Schiwietz et al., J.Phys.:Conf. Series 1067, 072005 (2018)  ** T.Mitsuhashi, M.Tadano, Proc. of EPAC¿02, Paris, France, p. 1936 *** J.Breunlin et al., NIM- A803, pp.55 (2015) &refs. therein
+
+ 
+
+
+
+
+
+
+Slides MOCO04 [10.924 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-MOCO04
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB2014 - Table of Session: WEO2LR (Working Group C)
+
+
+WEO2LR —  Working Group C   (12-Nov-14   10:50—12:30)
+Chair: S.M. Lund, FRIB, East Lansing, Michigan, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEO2LR01
+Code Requirements for Long Term Tracking with Space Charge
+249
+
+
+ 
+
+F. Schmidt
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In view of the LHC Injectors Upgrade (LIU) for the LHC pre-accelerators Leir, PSB, PS, SPS we have started a new working group at CERN to deal with space charge issues of these machines. The goal is to operate these machines with basically twice the number of particles per bunch which will further increase the space charge tune shifts which are large already now in present operation. Besides the obvious remedies of increasing the injection energy we are obliged to better understand the space charge force to optimize our machines. To this end it has become clear that we need computer models that faithfully represent the linear but also the non-linear features of our machines. We have started close collaborations with several laboratories around the world to upgrade existing self-consistent Space Charge Particle-In-Cell (PIC) codes for our CERN needs. In parallel, we have created a frozen space charge facility in CERN's MAD-X code. Both types of codes are being used to study long-term stability of our machines and to compare it with machine experiments.
+
+ 
+
+
+
+
+
+
+Slides WEO2LR01 [3.171 MB]
+        
+ 
+
+
+ 
+
+
+
+WEO2LR02
+Status of PY-ORBIT: Benchmarking and Noise Control in PIC Codes
+254
+
+
+ 
+
+J.A. Holmes, S.M. Cousineau, A.P. Shishlo
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL is managed by UT-Battelle, LLC, under contract DE-AC05-00OR22725 for the U.S. Department of Energy.
+PY-ORBIT is a broad collection of accelerator beam dynamics simulation models, written primarily in C++, but accessed by the user through Python scripts. PY-ORBIT was conceived as a modernization, standardization, and architectural improvement of ORBIT, a beam dynamics code designed primarily for rings. Although this goal has been substantially achieved, PY-ORBIT has now incorporated additional capabilities. A major consideration in high intensity beam dynamics codes, such as PY-ORBIT and ORBIT, is the simulation of space charge effects. Computational space charge simulation is, of necessity, accompanied by noise due to discretization errors, which can compromise results over long time scales. Discretization errors occur due to finite step sizes between space charge kicks, due to graininess of the numerical space charge distribution, and due to the effects of spatial grids embedded in certain solvers. In order to simulate space charge, most tracking codes use solvers containing some or all of these effects. We compare the manifestation of discretization effects in different types of space charge solvers with the object of long time scale space charge simulation.
+
+ 
+
+
+
+
+
+
+Slides WEO2LR02 [23.093 MB]
+        
+ 
+
+
+ 
+
+
+
+WEO2LR03
+Artificial Noise in PIC Codes and Consequences on Long Term Tracking
+259
+
+
+ 
+
+K. Ohmi
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Particle in Cell codes are widely used in studies on beam-beam, space charge and electron cloud effects. Numerical noise due to macro-particle statistics appears in orbit offset and beam size (beta function). The noise induces artficial emittance growth. It is indispensable to understand underlying mechanism of the emittance growth for the validity of simulation results.
+
+ 
+
+
+
+
+
+
+Slides WEO2LR03 [4.279 MB]
+        
+ 
+
+
+ 
+
+
+
+

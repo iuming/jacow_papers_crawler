@@ -1,0 +1,55 @@
+{
+  "session_info": {
+    "id": "THSH1",
+    "name": "THSH1 - Speakers' Corner",
+    "url": "https://proceedings.jacow.org/icalepcs2017/html/thsh1.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THSH101",
+      "title": "Using Control Surfaces to Operate CS-Studio OPIs",
+      "authors": [
+        "ESS",
+        "Lund",
+        "Sweden",
+        "Modern control software has given us virtually unlimited possibilities for monitoring and controlling EPICS systems",
+        "but sacrifices the organic feel of faders and knobs at our fingertips. This article will show how to reclaim that experience without losing the power of software through control surfaces commonly used with DAWs (Digital Audio Workstations) to manipulate audio",
+        "demonstrating how real motorised touch-sensitive faders",
+        "buttons and assignable V-pots will improve and speed up the control experience."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2017/talks/thsh101_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2017/papers/thsh101.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2017/posters/thsh101_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2017-THSH101",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": true
+    },
+    {
+      "paper_id": "THSH103",
+      "title": "Using Color Blindness Simulator During User Interface Development for Accelerator Control Room Applications",
+      "authors": [
+        "DESY",
+        "Hamburg",
+        "Germany",
+        "For normally sighted developers it is hard to imagine how the user interface is going to look to a color blind person. Our purpose is to draw attention to people with color blindness and to consider their color vision. For that",
+        "this paper presents the integration of color blindness simulators into the development process of user interfaces. At the end we discuss the main contributing factors."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2017/talks/thsh103_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2017/papers/thsh103.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2017/posters/thsh103_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2017-THSH103",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": true
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 18:20:07"
+}

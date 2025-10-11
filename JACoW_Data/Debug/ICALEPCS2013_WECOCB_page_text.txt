@@ -1,0 +1,237 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: WECOCB (Hardware Technology)
+
+
+WECOCB —  Hardware Technology   (09-Oct-13   10:45—12:30)
+Chair: J. Serrano, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+WECOCB01
+CERN's FMC Kit
+1020
+
+
+ 
+
+E. Van der Bij, M. Cattin, E. Gousiou, J. Serrano, T. Włostowski
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In the frame of the renovation of controls and data acquisition electronics for accelerators, the BE-CO-HT section at CERN has designed a kit based on carriers and mezzanines following the FPGA Mezzanine Card (FMC, VITA 57) standard. Carriers exist in VME64x and PCIe form factors, with a PXIe carrier underway. Mezzanines include an Analog to Digital Converter (ADC), a Time to Digital Converter (TDC) and a fine delay generator. All of the designs are licensed under the CERN Open Hardware Licence (OHL) and commercialized by companies. The paper discusses the benefits of this carrier-mezzanine strategy and of the Open Hardware based commercial paradigm, along with performance figures and plans for the future.
+
+ 
+
+
+
+
+
+
+Slides WECOCB01 [3.300 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOCB02
+ARM Based Embedded EPICS Controller for Beam Diagnostics of Cyclotrons at VECC
+1024
+
+
+ 
+
+S. Sahoo, T. Bhattacharjee, R.B. Bhole, N. Chaddha, S. Pal, A. Roy, A. Roy
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+ARM based controller with embedded EPICS has been developed for beam diagnostics purpose in K-130 Room Temperature Cyclotron and K-500 Superconducting Cyclotron at Variable Energy Cyclotron Center. The beam diagnostics system in these cyclotrons consists of many hardware devices to be controlled and monitored. Presently, these hardware modules are interfaced with PC based systems using serial communication line. The ARM based embedded controller card is developed to replace the existing PC based systems with a small plug-in module that will contain the EPICS IOC and the database having the control parameters. This will have an obvious advantage of integrating the control system inside the hardware itself thus reducing the overall hardware complexities which was involved in the PC based systems. The paper explains the steps involved in designing the ARM based controller for beam diagnostics and Graphical User Interface (GUI) for Operator Interface. EPICS Channel Access embedded ActiveX components along with Microsoft Visual Basic (VB) is chosen as the OPI development platform.
+
+ 
+
+
+
+
+
+
+Slides WECOCB02 [1.428 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOCB03
+Development of a Front-end Data-Acquisition System with a Camera Link FMC for High-Bandwidth X-Ray Imaging Detectors
+1028
+
+
+ 
+
+C. Saji, T. Ohata, T. Sugimoto, R. Tanaka, M. Yamaga
+                       JASRI/SPring-8, Hyogo-ken, Japan
+T. Abe
+                       RIKEN SPring-8 Center, Innovative Light Sources Division, Hyogo, Japan
+T. Kudo
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+
+ 
+
+
+ 
+
+X-ray imaging detectors are indispensable for synchrotron radiation experiments and growing up with larger number of pixels and higher frame rate to acquire more information on the samples. The novel detector with data rate of up to 8 Gbps/sensor, SOPHIAS, is under development at SACLA facility. Therefore, we have developed a new front-end DAQ system with high data rate beyond the present level. The system consists of an FPGA-based evaluation board and a FPGA mezzanine card (FMC). As the FPGA interface, FMC was adopted for supporting variety of interfaces and considering COTS system. Since the data transmission performance of the FPGA board in combination with the FMCs was already evaluated as about 20 Gbps between boards, our choice of devices has the potential to meet the requirements of SOPHIAS detector*. We made a FMC with Camera Link (CL) interface to support 1st phase of SOPHIAS detector. Since almost CL configurations are supported, the system handles various types of commercial cameras as well as new detector. Moreover, the FMC has general purpose input/output to satisfy various experimental requirements. We report the design of new front-end DAQ and results of evaluation.
+* A Study of a Prototype DAQ System with over 10 Gbps Bandwidth for the SACLA X-Ray Experiments, C. Saji, T. Ohata, T. Sugimoto, R. Tanaka, and M. Yamaga, 2012 IEEE NSS and MIC, p.1619-p.1622
+
+ 
+
+
+
+
+
+
+Slides WECOCB03 [0.980 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOCB05
+Modern Technology in Disguise
+1032
+
+
+ 
+
+T. Korhonen, D. Anicic, B. Kalantari, R. Kalt, M.P. Laznovsky, T. Schilcher, D. Zimoch
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+A modern embedded system for fast systems has to incorporate technologies like multicore CPUs, fast serial links and FPGAs for interfaces and local processing. Those technologies are still relatively new and integrating them in a control system infrastructure that either exists already or has to be planned for long-term maintainability is a challenge that needs to be addressed. At PSI we have, in collaboration with an industrial company (IOxOS SA)[*], built a board and infrastructure around it solving issues like scalability and modularization of systems that are based on FPGAs and the FMC standard, simplicity in taking such a board in operation and re-using parts of the source code base for FPGA. In addition the board has several state-of-the-art features that are typically found in the newer bus systems like MicroTCA, but can still easily be incorporated in our VME64x-based infrastructure. In the presentation we will describe the system architecture, its technical features and how it enables us to effectively develop our different user applications and fast front-end systems.
+* IOxOS SA, Gland, Switzerland, http://www.ioxos ch
+
+ 
+
+
+
+
+
+
+Slides WECOCB05 [0.675 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOCB06
+Saving Costs and Increasing Data Throughput in MicroTCA.4 by Hardware Concept Extension and Optimization of Data Transfer Performance
+ 
+
+
+ 
+
+V. Dirksen
+                       DESY, Hamburg, Germany
+W. Jałmużna
+                       TUL-DMCS, Łódź, Poland
+
+ 
+
+
+ 
+
+MicroTCA has found many uses in applications requiring a modular open standard that is smaller and cheaper than AdvancedTCA. Although MTCA.4 has closed the functional gap between ATCA and MicroTCA, the system and slot costs still are key to success, especially for smaller systems. A new hardware concept utilizing the capabilities of the MCH slot in a MTCA.4 system addresses this issue and helps to build more cost efficient solutions without degradation of the performance. At the same time this new hardware concept allows the customer to select from an even larger ecosystem of solutions than what was available so far. This presentation introduces new possibilities of MTCA.4 system configuration and presents first evaluation of the data transfer performance. To optimize performance of the system (in terms of data transfer bandwidth and latency) each configuration requires different approach on firmware/software layer. The presentation shows several concepts of data transfer implementation in PCIe environment and demonstrates their applications in an example uTCA system. Implementations include firmware level interfaces, driver to OS and interfaces to common control systems .
+MTCA.4, RTM, more performance, cost saving, PCIexpress, EPICS and DOOCS
+
+ 
+
+
+
+
+
+
+Slides WECOCB06 [1.260 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOCB07
+Development of an Open-Source Hardware Platform for Sirius BPM and Orbit Feedback
+1036
+
+
+ 
+
+D.O. Tavares, R.A. Baron, F.H. Cardoso, S.R. Marques, L.M. Russo
+                       LNLS, Campinas, Brazil
+A.P. Byszuk, G. Kasprowicz, A.J. Wojenski
+                       Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+
+ 
+
+
+ 
+
+The Brazilian Synchrotron Light Laboratory (LNLS) is developing a BPM and orbit feedback system for Sirius, the new low emmitance synchrotron light source under construction in Brazil. In that context, 3 open-source boards and accompanying low-level firmware/software were developed in cooperation with the Warsaw University of Technology (WUT) to serve as hardware platform for the BPM data acquisition and digital signal processing platform as well as orbit feedback data distributor: (i) FPGA board with 2 high-pin count FMC slots in PICMG AMC form factor; (ii) 4-channel 16-bit 130 MS/s ADC board in ANSI/VITA FMC form factor; (iii) 4-channel 16-bit 250 MS/s ADC board in ANSI/VITA FMC form factor. The experience of integrating the system prototype in a COTS MicroTCA.4 crate will be reported, as well as the planned developments.
+
+ 
+
+
+
+
+
+
+Slides WECOCB07 [4.137 MB]
+            
+ 
+
+
+ 
+
+
+
+

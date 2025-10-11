@@ -1,0 +1,408 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: WEPSM (Poster Session)
+
+
+WEPSM —  Poster Session   (02-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPSM01
+Design Study of Knot-APPLE Undulator for PES-Beamline at SSRF
+1043
+
+
+ 
+
+S. Sasaki, A. Miyamoto
+                       HSRC, Higashi-Hiroshima, Japan
+S. Qiao
+                       SIMIT, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+An intense on-axis radiation power from a linear undulator is a serious problem especially for a low-photon-energy beamline at high or medium energy storage ring. This problem may be solved by using a Figure-8, a Pera, or a Knot undulator configuration [*,**]. However, these schemes are useless for elliptical undulators since such devices are not capable for changing polarizations. Also, among these, only Figure-8 undulators are realized and used in several SR facilities. Pera undulator exists only in a magnet design, and Knot undulator has only a suggested ideal magnetic field variation. In this situation, we have completed a conceptual magnet design of Knot-APPLE udulator which is capable to generate elliptically polarized radiation as well as linearly polarized radiation. This pure permanent magnet device is equipped with a motion mechanism of APPLE undulator. In this paper, we present detailed magnet design feature, magnetic field distributions, and radiation properties including variations of polarization in comparisons with other exotic devices such as Figure-8, Pera, Leaf, and APPLE-8 undulators.
+* S. Sasaki, "Undulators, wigglers and their applications," pp.237-243 (Ed. by H. Onuki & P. Elleaume, Taylor & Francis Inc, New York, 2003) ** S. Qiao, et. al, Rev. Sci. Instrum., 80, 085108 (2009)
+
+ 
+
+
+ 
+
+
+
+WEPSM02
+Concepts for Short Period RF Undulators
+1046
+
+
+ 
+
+S.V. Kuzikov, A.V. Savilov, A.A. Vikharev
+                       IAP/RAS, Nizhny Novgorod, Russia
+
+ 
+
+
+ 
+
+Several concepts for room-temperature RF undulators, fed by cm- or mm- wavelength radiation and aimed to produce ~1 nm wavelength radiation using relatively low energy electron beams, are considered. The analysis shows that requirements to electron beam quality and to RF power become more severe with wavelength reduction. In order to satisfy these requirements, we suggest to build an undulator of several separate segments. In accordance with first concept each segment introduces a high-Q cavity fed by its own multi-megawatt RF source. The 30 GHz pulsed gyroklystron or gyrotrons at 30 - 300 GHz, already elaborated and tested in IAP RAS, are appealing candidates. These sources can provide the effective undulator period of 0.5 - 0.05 cm, the undulator parameter up to 1, and the effective field length of 50 cm for each segment. The second concept implies using a high-power short pulse propagating in a long corrugated waveguide where -1st field harmonic is responsible for particle wiggling. High group velocity of this pulse allows to provide long interaction of particles with RF fields.
+
+ 
+
+
+ 
+
+
+
+WEPSM04
+Helical Self Focusing and Cooling Accelerating Structure
+1049
+
+
+ 
+
+S.V. Kuzikov, S. Mishakin, A.A. Vikharev
+                       IAP/RAS, Nizhny Novgorod, Russia
+
+ 
+
+
+ 
+
+A new helical RF accelerating structure, which can provide emittance control of the electron beam, is proposed. This structure combines properties of a linear accelerator and a damping ring simultaneously. It makes acceleration of straight on-axis beam as well as beam cooling due to the synchrotron radiation of particles. These properties are provided by specific slow eigen mode which consists of two partial waves, TM01 and TM11 (near to cut off). The longitudinal field of the first wave is synchronous with electrons, the transverse fields of the second wave are far from synchronous condition and they cause electron wiggling like it occurs in RF undulator. As a result the emittance control might be employed at linear trajectory of the high-energy beam without decrease of the average gradient. Calculations show that surface electric field at level ~0,31 (relative to accelerating field) and shunt impedance ~20 MOhm/m at 30 GHz are achievable. Cooling rate at gradient 100 MV/m corresponds to the equivalent magnetic field ~0,75 T.
+
+ 
+
+
+ 
+
+
+
+WEPSM05
+Progress on Pulsed Multipole Injection for the MAX IV Storage Rings
+1052
+
+
+ 
+
+S.C. Leemann
+                       MAX-lab, Lund, Sweden
+L.O. Dallin
+                       CLS, Saskatoon, Saskatchewan, Canada
+
+ 
+
+
+ 
+
+Injection into the MAX IV storage rings will not make use of a conventional local injection bump with four dipole kickers. Instead, pulsed multipole injection will be applied. Previously, it was foreseen to use a pulsed sextupole magnet similar to what KEK had originally designed for the PF ring. But after seeing encouraging results with a prototype nonlinear kicker magnet developed for BESSY II, pulsed multipole injection for the MAX IV storage rings was revisited. A nonlinear kicker magnet similar to the BESSY-type can be realized for both MAX IV storage rings. Such a nonlinear kicker offers a broad zero-field region around the center which does not perturb the stored beam, while offering a high-field region around the location of the injected beam making it ideal for top-up injection. This paper summarizes the proposed kicker magnet design and shows beam dynamics results from multi-particle tracking studies. A comparison with the previous PSM design is also included.
+
+ 
+
+
+ 
+
+
+
+WEPSM06
+Beam-Induced Heat Load Predictions and Measurements in the APS Superconducting Undulator
+1055
+
+
+ 
+
+K.C. Harkay, L.E. Boon, M. Borland, Y.-C. Chae, R.J. Dejus, J.C. Dooling, C.L. Doose, L. Emery, Y. Ivanyushenkov, M.S. Jaski, M. Kasa, S.H. Kim, R. Kustom, V. Sajaev, Y. Shiroyanagi, X. Sun
+                       ANL, Argonne, USA
+L.E. Boon
+                       Purdue University, West Lafayette, Indiana, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The first prototype superconducting undulator (SCU0) was successfully installed and commissioned at the Advanced Photon Source (APS) and is delivering photons for user science. The cryosystem was designed to handle a beam-induced heat load of up to 40 W. Prior to operations, detailed predictions of this heat load were made, including that produced by resistive wall heating by the image current, geometric wakefields, synchrotron radiation, electron cloud, and beam losses. The dominant cw source is the resistive wall heat load. The heat load predictions for standard 100 mA user operation were benchmarked using thermal sensors that measure temperatures at various locations in the SCU0 cryostat and along the electron beam chamber. Thermal analysis using the predicted heat loads from the electron beam, using three independent methods, agrees well with the observed measurements.
+
+ 
+
+
+ 
+
+
+
+WEPSM07
+Beam-based Alignment of the First Superconducting Undulator at APS
+1058
+
+
+ 
+
+K.C. Harkay, L.E. Boon, M. Borland, L. Emery, R. Kustom, V. Sajaev, Y. Shiroyanagi, A. Xiao
+                       ANL, Argonne, USA
+L.E. Boon
+                       Purdue University, West Lafayette, Indiana, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The first prototype superconducting undulator (SCU0) was successfully installed and commissioned at the Advanced Photon Source (APS) and is delivering photons for user science. The magnet cores are mounted on but thermally isolated from the beam vacuum chamber. Protecting the SCU0 from high beam-induced heat loads was an important requirement before operating the SCU0 in the storage ring. Precise alignment of the beam vacuum chamber with respect to both the electron beam orbit as well as the synchrotron radiation generated in the upstream dipole magnet was therefore extremely important. The beam vacuum chamber was instrumented with nine thermal sensors. Using the sensors, the chamber alignment was determined with a 100-micron precision. This precision is more than 10 times higher than in a standard aperture scan. Other advantages of the thermal sensor-based alignment method include isolating the SCU0 alignment from other components in the orbit bump and providing good longitudinal spatial resolution. The chamber temperatures agreed well the predicted heat load and dependence on steering. This novel beam-based alignment method and results will be presented.
+
+ 
+
+
+ 
+
+
+
+WEPSM08
+Fast-Switching Variably Polarizing Undulator
+1061
+
+
+ 
+
+M.S. Jaski, R.J. Dejus, B. Deriy, E. Gluskin, E.R. Moog, I. Vasserman, J. Wang, A. Xiao
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357
+Development of a new fast-switching Electromagnetic Variably Polarizing Undulator (EMVPU) is underway at the Advanced Photon Source (APS). The EMVPU can produce x-rays with left- and right-handed circular polarizations and horizontal and vertical linear polarizations in the energy range 400-2000 eV. The undulator will be able to switch between left- and right-handed circular polarization at 10 Hz, fast enough to allow for magnetic circular dichroism studies that rely on lock-in amplifier techniques. The handedness switch will be accomplished by switching only the vertical component of the field while the horizontal component stays constant. Details of the EMVPU and its initial experimental test models are presented.
+
+ 
+
+
+ 
+
+
+
+WEPSM09
+An Electromagnetic Variably Polarizing Quasi-Periodic Undulator
+1064
+
+
+ 
+
+M.S. Jaski, M. Abliz, R.J. Dejus, B. Deriy, E. Gluskin, E.R. Moog, I. Vasserman, A. Xiao
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+An electromagnetic variably polarizing quasi-periodic undulator was installed in the Advanced Photon Source (APS) storage ring in April 2012 and has been successfully commissioned with stored beam. This device is identified as the Intermediate Energy X-ray (IEX) undulator. The IEX undulator takes its name from the IEX beamline where it is installed. The IEX undulator is able to produce a variety of polarizations: linear vertical, linear horizontal, and right- or left-handed elliptical or circular. Ten pairs of poles, distributed quasi-periodically along the undulator length, are powered separately, allowing the field strength of the quasi-periodic poles to be adjusted. This adjustability allows the user to seek a balance between the suppression of the higher harmonics and the loss of flux in the fundamental that best suits the measurement being made. The IEX undulator has a 12.5-cm period and can achieve photon energies as low as 250 eV in horizontal polarization and 440 eV in vertical polarization. A description of the IEX undulator will be presented.
+
+ 
+
+
+ 
+
+
+
+WEPSM10
+Design of a 17.2-mm-Period Planar Undulator for the APS
+1067
+
+
+ 
+
+E.R. Moog, M. Abliz, R.J. Dejus, J.H. Grimmer, M.S. Jaski
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: * Work supported by U.S. Department of Energy, Office of Science, under contract number DE-AC02-06CH11357.
+The design process for a short-period planar undulator is described. This is a conventional planar design based on Nd-Fe-B magnets and vanadium permendur poles. The period length was driven by the users’ request for a high flux of photons at 23.7 keV, with minimal tuning range. A shorter period gives higher flux; 17.2 mm was the shortest value consistent with the gap limitations of the vacuum chamber and with reaching the desired photon energy. Details of the design, especially the various chamfers of edges of the magnet and pole, were examined more closely than has been the standard past practice in order to minimize the period length.
+
+ 
+
+
+ 
+
+
+
+WEPSM11
+The Intermediate-Energy X-ray (IEX) Undulator Commissioning Results
+1070
+
+
+ 
+
+A. Xiao, M. Abliz, B. Deriy, M.S. Jaski, M.L. Smith, I. Vasserman, J.Z. Xu
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+Strong beam perturbation from the intermediate-energy x-ray (IEX) undulator operation has been expected from the beginning. This paper describes our efforts including the initial magnet design, field measurements and compensation, special considerations of power supplies and the control system, and the final commissioning results with beam. Perturbations are well within the specified limits, and the IEX was made ready for user operation in less than six months.
+
+ 
+
+
+ 
+
+
+
+WEPSM12
+Non-linear Effects of Insertion Devices: Simulation and Experiment Results
+1073
+
+
+ 
+
+A. Xiao, M. Borland, L. Emery, V. Sajaev
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The APS Upgrade project includes adding more insertion devices (IDs) to the APS storage ring. Perturbations from IDs have been reviewed, and the most significant sources are coming from the IDs that generate circular polarized light. To address this issue, we measured non-linear effects from the existing circular polarized undulator (CPU) and intermediate-energy x-ray (IEX). Measurement results have been compared with the simulation work. Correction schemes have been proposed and tested through experiments.
+
+ 
+
+
+ 
+
+
+
+WEPSM13
+On-axis Injection Scheme for Ultra-Low-Emittance Light Sources
+1076
+
+
+ 
+
+A. Xiao, M. Borland, C. Yao
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+An ultra-low-emittance light source generally manifests very strong non-linear effects due to the significant focusing force applied and the resultant strong sextupoles. As one of the consequences, the dynamic aperture becomes very small, and only on-axis "swap-out" beam injection is workable. Another consequence is that the intra-beam scattering (IBS) effect and beam instability are much more severe, which limits the maximum achievable single-bunch intensity. As a result, multiple bunches with tight bunch spacing are required to reach high average beam current, which requires injection to be finished in a very short period, e.g., during the interval between bunches. Using a multi-bend-achromat (MBA) lattice designed for the Advanced Photon Source (APS) storage ring as an example, this paper presents an on-axis injection scheme based on the fast stripline technique together with discussions on how the scheme works with different parameter settings.
+
+ 
+
+
+ 
+
+
+
+WEPSM14
+Advanced X-ray Beam Position Monitor System Design at the APS
+1079
+
+
+ 
+
+B.X. Yang, G. Decker, J.S. Downey, Y. Jaski, T.L. Kruy, S.-H. Lee, M. Ramanathan, F. Westferro
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+As part of the Advanced Photon Source (APS) Upgrade, new x-ray beamline front ends are planned that include extensive integrated x-ray diagnostic capability. The design includes a grazing-incidence insertion device x-ray beam position monitor (GRID-XBPM) based on Cu K-edge x-ray fluorescence from x-rays striking a pair of copper absorbers. At a 1.0-degree grazing incidence angle, the XBPM assembly was designed to withstand two inline Undulator A devices operating at 150-mA beam current, a total power of 16 kW. A second x-ray BPM located outside of the accelerator enclosure monitors back fluorescence from the beamline exit mask, which is a critical beamline-defining aperture. In addition, an intensity monitor is used to detect x-ray flux passing through a front-end mask inside the enclosure, while a second intensity monitor is located immediately downstream of the exit mask. Details of these designs and expected performance will be presented.
+
+ 
+
+
+ 
+
+
+
+WEPSM17
+Non-Invasive Beam Detection in a High-Average Power Electron Accelerator
+1082
+
+
+ 
+
+J.E. Williams, S. Biedron, J.R. Harris, S.V. Milton
+                       CSU, Fort Collins, Colorado, USA
+S.V. Benson, P.E. Evtushenko, G. Neil, S. Zhang
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+For a free-electron laser (FEL) to work effectively the electron beam quality must meet exceptional standards. In the case of an FEL operating at infrared wavelengths in an amplifier configuration the critical phase space tends to be in the longitudinal direction. Achieving high enough longitudinal phase space density directly from the electron injector system of such an FEL is difficult due to space charge effects, thus one needs to manipulate the longitudinal phase space once the beam energy reaches a sufficiently high value. However, this is fraught with problems. Longitudinal space charge and coherent synchrotron radiation can both disrupt the overall phase space, furthermore, the phase space disruption is exacerbated by the longitudinal phase space manipulation process required to achieve high peak current. To achieve and maintain good FEL performance one needs to investigate the longitudinal emittance and be able to measure it during operation preferably in a non-invasive manner. Using the electro-optical sampling (EOS) method, we plan to measure the bunch longitudinal profile of a high-energy (~120-MeV), high-power (~10kW or more FEL output power) beam.
+
+ 
+
+
+ 
+
+
+
+WEPSM18
+Investigation of Upstream Transient Wakefields due to Coherent Synchrotron Radiation in Bunch Compression Chicanes
+1085
+
+
+ 
+
+C.E. Mitchell, J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The longitudinal wakefield due to coherent synchrotron radiation (CSR) in the bending magnets of bunch compression chicanes can significantly impact the beam quality in high-brightness FEL light-sources. In addition to single-bend CSR effects, transient radiation that is generated within a bend can follow the electron bunch downstream through one or more lattice elements before interacting with the bunch. An analytical 1-D model is used to estimate the size of these upstream wakefields in the absence of vacuum chamber shielding. An FFT-based, integrated Green function method for computing these wakefields is used in the code IMPACT to investigate their dynamical effects in the bunch compressor of a Next Generation Light Source.
+
+ 
+
+
+ 
+
+
+
+

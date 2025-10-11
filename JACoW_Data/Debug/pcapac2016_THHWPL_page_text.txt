@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2016 - Table of Session: THHWPL (Hardware)
+
+
+THHWPL —  Hardware   (27-Oct-16   10:00—11:35)
+Chair: D.O. Tavares, LNLS, Campinas, Brazil
+
+
+Paper
+Title
+Page
+
+
+
+THHWPLIO01
+PandABox: A Multipurpose Platform Adapted for Multi-technique Scanning and Feedback
+67
+
+
+ 
+
+Y.-M. Abiven, J. Bisou, G. Renaud, F. Ta
+                       SOLEIL, Gif-sur-Yvette, France
+M.G. Abbott, T.M. Cobb, A.M. Cousins, I.S. Uzun
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Synchrotron SOLEIL and Diamond Light Source are two third generation light sources located respectively in France and the UK. In 2015, both facilities initiated the collaboration project 'PandA' to overcome technical limitations of SPIETBOX at SOLEIL and Zebra at Diamond as well as to manage obsolescence of the products. The collaboration enables both institutes to share the technical leadership on hardware, firmware and software developments. The initial objective is to achieve multi-channel encoder processing to synchronize motion systems and acquisition during experiments addressing simultaneous and multi-technique scanning. However, its design based on Xilinx Zynq SoC is thought to be powerful and modular in terms of firmware as well as for hardware. This flexibility permits envisaging derivative applications and interfacing to different third party hardware. This paper details the organization of this collaboration, status of the ongoing project in terms of hardware and firmware capabilities and the results of the first tests at both sites.
+
+ 
+
+
+
+
+
+
+Slides THHWPLIO01 [6.727 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THHWPLIO01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHWPLCO02
+New Controls Platform for SLAC High-Performance Systems
+72
+
+
+ 
+
+T. Straumann, R. Claus, J.M. D'Ewart, J.C. Frisch, G. Haller, R.T. Herbst, B. Hong, U. Legat, L. Ma, J.J. Olsen, B.A. Reese, R. Ruckman, L. Sapozhnikov, S.R. Smith, J.A. Vásquez, M. Weaver, E. Williams, C. Xu, A. Young
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The 1MHz beam rate of LCLS-2 precludes the use of a traditional software solution for controls of "high-performance systems" which operate at this rate, such as BPMs, LLRF or MPS. Critical algorithms are ported into FPGA logic and administered by ordinary PCs via commodity ethernet. SLAC has developed a controls architecture which is based on FPGA technology interconnected by 10G ethernet and commercially available ATCA shelves. A custom ATCA carrier board hosting an FPGA, memory and other resources provides a "common platform" for many applications which can be implemented on AMC cards which are plugged into the carrier. A library of firmware modules including e.g., timing, history buffers and reliable network communication together with corresponding software packages complement the common platform hardware and provide a standardized environment which can be employed for a variety of high-performance applications across the laboratory.
+
+ 
+
+
+
+
+
+
+Slides THHWPLCO02 [1.604 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THHWPLCO02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHWPLIO03
+Network-Attached Device Model Using Field-Programmable Gate Arrays
+ 
+
+
+ 
+
+W.E. Norum
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The high speed serial transceivers available on modern Field-Programmable Gate Arrays provide a convenient mechanism for communicating with FPGA firmware using standard network equipment and protocols. This presentation highlights some of the techniques used including systems incorporating embedded processors as well systems based on direct firmware implementations. Such firmware-only implementations exhibit deterministic low-latency response. Results of latency measurements will be presented.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHWPLCO04
+Open Hardware Experience on LNLS' Beam Diagnostics
+75
+
+
+ 
+
+G.B.M. Bruno, J.L. Brito Neto, S.R. Marques, L.A. Martins, L.M. Russo, F.C. Sant'Anna, H.A. Silva, D.O. Tavares
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+LNLS' diagnostics group has decided on adopting open hardware technologies for most of its projects, partnering with other institutes and companies to design and build its RF BPM electronics, from the analog front-end to the FPGA board. This decision resulted in advancements and learning, bringing new technologies, flexibility and knowledge, but also brought some hardships and new challenges. This talk details the history, advantages and difficulties of this open-hardware approach to beam diagnostics electronics.
+
+ 
+
+
+
+
+
+
+Slides THHWPLCO04 [4.190 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THHWPLCO04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

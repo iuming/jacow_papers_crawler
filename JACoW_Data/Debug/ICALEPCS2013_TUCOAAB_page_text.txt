@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: TUCOAAB (Project Status Reports 2)
+
+
+TUCOAAB —  Project Status Reports 2   (08-Oct-13   09:15—10:15)
+Chair: R. Tanaka, JASRI/SPring-8, Hyogo-ken, Japan
+
+
+Paper
+Title
+Page
+
+
+
+TUCOAAB01
+Status of the National Ignition Facility (NIF) Integrated Computer Control and Information Systems
+483
+
+
+ 
+
+L.J. Lagin, G.A. Bowers, G.K. Brunton, A.D. Casey, M.J. Christensen, A.J. Churby, R. Demaret, D.B. Dobson, J.M. Fisher, B.T. Fishler, P.A. Folta, T.M. Frazier, M.S. Hutton, D. Larson, A.P. Ludwigsen, C.D. Marshall, M.G. Miller, V.J. Miller Kamm, J.R. Nelson, R.K. Reed, S.M. Reisdorf, D.E. Speck, G.L. Tietbohl, S.L. Townsend
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-631632
+The National Ignition Facility (NIF) is operated by the Integrated Computer Control System in an object-oriented, CORBA-based system distributed among over 1800 front-end processors, embedded controllers and supervisory servers. At present, NIF operates 24x7 and conducts a variety of fusion, high energy density and basic science experiments. During the past year, the control system was expanded to include a variety of new diagnostic systems, and programmable laser beam shaping and parallel shot automation for more efficient shot operations. The system is also currently being expanded with an Advanced Radiographic Capability, which will provide short (<10 picoseconds) ultra-high power (>1 Petawatt) laser pulses that will be used for a variety of diagnostic and experimental capabilities. Additional tools have been developed to support experimental planning, experimental setup, facility configuration and post shot analysis, using open-source software, commercial workflow tools, database and messaging technologies. This talk discusses the current status of the control and information systems to support a wide variety of experiments being conducted on NIF including ignition experiments.
+
+ 
+
+
+
+
+
+
+Slides TUCOAAB01 [4.087 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOAAB02
+The Laser Megajoule Facility: Control System Status Report
+487
+
+
+ 
+
+J.P.A. Arnoul
+                       CEA, LE BARP cedex, France
+J.I. Nicoloso
+                       CEA/DAM/DIF, Arpajon, France
+
+ 
+
+
+ 
+
+The French Commissariat à l’Énergie Atomique (CEA) is currently building the Laser Megajoule (LMJ), a 176-beam laser facility, at the CEA Laboratory CESTA near Bordeaux. It is designed to deliver about 1.4 MJ of energy to targets for high energy density physics experiments, including fusion experiments. The assembly of the first lines of amplification is almost achieved and functional tests are planed for next year. The first part of the presentation is a photo album of the progress of the assembly of the bundles in the four laser bay, and the equipements in the target bay. The second part of the presentation illustrates a particularity of the LMJ commissioning: a secondary control room is dedicated to successive bundles commissioning, while the main control room allows shots and fusion experiments with already commissioned bundles
+
+ 
+
+
+
+
+
+
+Slides TUCOAAB02 [3.928 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOAAB03
+
+Approaching the Final Design of ITER Control System
+490
+
+
+ 
+
+A. Wallander, L. Abadie, F. Di Maio, B. Evrard, C. Fernandez Robles, J.L. Fernández-Hernando, J-M. Fourneron, J.Y. Journeaux, C.S. Kim, K. Mahajan, P. Makijarvi, S. Pande, M.K. Park, V. Patel, P. Petitbas, N. Pons, A. Simelio, S. Simrock, D. Stepanov, N. Utzel, A. Vergara-Fernandez, A. Winter, I. Yonekawa
+                       ITER Organization, St. Paul lez Durance, France
+
+ 
+
+
+ 
+
+The control system of ITER (CODAC) is subject to a final design review early 2014, with a second final design review covering high-level applications scheduled for 2015. The system architecture has been established and all plant systems required for first plasma have been identified. Interfaces are being detailed, which is a key activity to prepare for integration. A built to print design of the network infrastructure covering the full site is in place and installation is expected to start next year. The common software deployed in the local plant systems as well as the central system, called CODAC Core System and based on EPICS, has reached maturity providing most of the required functions. It is currently used by 55 organizations throughout the world involved in the development of plant systems and ITER controls. The first plant systems are expected to arrive on site in 2015 starting a five-year integration phase to prepare for first plasma operation. In this paper, we report on the progress made on ITER control system over the last two years and outline the plans and strategies allowing us to integrate hundreds of plant systems procured in-kind by the seven ITER members.
+
+ 
+
+
+
+
+
+
+Slides TUCOAAB03 [5.294 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOAAB04
+The MedAustron Accelerator Control System: Design, Installation and Commissioning
+494
+
+
+ 
+
+J. Gutleber, R. Moser
+                       CERN, Geneva, Switzerland
+R. Moser
+                       EBG MedAustron, Wr. Neustadt, Austria
+
+ 
+
+
+ 
+
+MedAustron is a light-ion accelerator cancer treatment facility built on the green field in Austria. The accelerator, its control systemand protection systems have been designed under the guidance of CERN within the MedAustron – CERN collaboration. Building construction has been completed in October 2012 and accelerator installation has started in December 2012. Readiness for accelerator control deployment was reached in January 2013. This contribution gives an overview of the accelerator control system project. It reports on the current status of commissioning including the ion sources, low-energy beam transfer and injector. The major challenge so far has been the readiness of the industry supplied IT infrastructure on which accelerator controls relies heavily due to its distributed and virtualized architecture. After all, the control system has been successfully released for accelerator commissioning within time and budget. The need to deliver a highly performant control system to cope with thousands of cycles in real-time, to cover interactive commissioning and unattended medical operation were mere technical aspects to be solved during the development phase.
+
+ 
+
+
+
+
+
+
+Slides TUCOAAB04 [2.712 MB]
+            
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,425 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: MOBPL (Software Technology Evolution 1)
+
+
+MOBPL —  Software Technology Evolution 1   (09-Oct-17   11:30—13:00)
+Chair: L. Van den Heever, SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+
+Paper
+Title
+Page
+
+
+
+MOBPL01
+EPICS 7 Provides Major Enhancements to the EPICS Toolkit
+22
+
+
+ 
+
+L.R. Dalesio, M.A. Davidsaver
+                       Osprey DCS LLC, Ocean City, USA
+S.M. Hartman, K.-U. Kasemir
+                       ORNL, Oak Ridge, Tennessee, USA
+A.N. Johnson
+                       ANL, Argonne, Illinois, USA
+H. Junkes
+                       FHI, Berlin, Germany
+T. Korhonen
+                       ESS, Lund, Sweden
+M.R. Kraimer
+                       Self Employment, Private address, USA
+R. Lange
+                       ITER Organization, St. Paul lez Durance, France
+G. Shen
+                       FRIB, East Lansing, USA
+K. Shroff
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The release of EPICS 7 marks a major enhancement to the EPICS toolkit. EPICS 7 combines the proven functionality, reliability and capability of EPICS V3 with the powerful EPICS V4 extensions enabling high-performance network transfers of structured data. The code bases have been merged and reorganized. EPICS 7 provides a new platform for control system development, suitable for data acquisition and high-level services. This paper presents the current state of the EPICS 7 release, including the pvAccess network protocol, normative data types, and language bindings, along with descriptions of new client and service applications.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/Er2uQitieWI
+        
+ 
+
+
+
+
+
+
+Slides MOBPL01 [1.155 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-MOBPL01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBPL02
+TANGO Kernel Development Status
+27
+
+
+ 
+
+R. Bourtembourg, J.M. Chaize, T.M. Coutinho, A. Götz, V. Michel, J.L. Pons, E.T. Taurel, P.V. Verdier
+                       ESRF, Grenoble, France
+G. Abeillé, N. Leclercq
+                       SOLEIL, Gif-sur-Yvette, France
+S. Gara
+                       NEXEYA Systems, La Couronne, France
+P.P. Goryl
+                       3controls, Kraków, Poland
+I.A. Khokhriakov
+                       HZG, Geesthacht, Germany
+G.R. Mant
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+J. Moldes
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+B. Plötzeneder
+                       ELI-BEAMS, Prague, Czech Republic
+
+ 
+
+
+ 
+
+Funding: On behalf of the TANGO Controls Collaboration
+The TANGO Controls Framework continues to improve. This paper will describe how TANGO kernel development has evolved since the last ICALEPCS conference. TANGO kernel projects source code repositories have been transferred from subversion on Sourceforge.net to git on GitHub.com. Continuous integration with Travis CI and the GitHub pull request mechanism should foster external contributions. Thanks to the TANGO collaboration contract, parts of the kernel development and documentation have been sub-contracted to companies specialized in TANGO. The involvement of the TANGO community helped to define the roadmap which will be presented in this paper and also led to the introduction of Long Term Support versions. The paper will present how the kernel is evolving to support pluggable protocols - the main new feature of the next major version of TANGO.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/t6L6hj0rNDc
+        
+ 
+
+
+
+
+
+
+Slides MOBPL02 [5.754 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-MOBPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBPL03
+The SKA Telescope Control System Guidelines and Architecture
+34
+
+
+ 
+
+L. Pivetta
+                       SKA Organisation, Macclesfield, United Kingdom
+A. DeMarco
+                       ISSA, Msida, Malta
+S. Riggi
+                       INAF-OACT, Catania, Italy
+L. Van den Heever
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+S. Vrcic
+                       NRC-Herzberg, Penticton, BC, Canada
+
+ 
+
+
+ 
+
+The Square Kilometre Array (SKA) project is an international collaboration aimed at building the world's largest radio telescope, with eventually over a square kilometre of collecting area, co-hosted by South Africa, for the mid-frequency arrays, and Australia for the low-frequency array. Since 2015 the SKA Consortia joined in a global effort to identify, investigate and select a single control system framework suitable for providing the functionalities required by the SKA telescope monitoring and control. The TANGO Controls framework has been selected and comprehensive work has started to provide telescope-wide detailed guidelines, design patterns and architectural views to build Element and Central monitoring and control systems exploiting the TANGO Controls framework capabilities.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/S-C9zPdmld0
+        
+ 
+
+
+
+
+
+
+Slides MOBPL03 [6.980 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-MOBPL03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBPL04
+MADOCA II Data Collection Framework for SPring-8
+39
+
+
+ 
+
+T. Matsumoto, Y. Hamada
+                       JASRI/SPring-8, Hyogo-ken, Japan
+Y. Furukawa
+                       JASRI, Hyogo, Japan
+
+ 
+
+
+ 
+
+MADOCA II (Message and Database Oriented Control Architecture II) is next generation of MADOCA and was developed to fulfill current and future requirements in accelerator and beamline control at SPring-8. In this paper, we report on the recent evolution in MADOCA II for data collection, which was missing in the past reports at ICALEPCS *,**. In MADOCA, the biggest challenge in data collection was to manage signals into Parameter Database smoothly. Users request Signal Registration Table (SRT) for new data collection. However, this costed time and manpower due to typo in SRT and iteration in DB registration. In MADOCA II, we facilitated signal registration scheme with prior test of data collection and validity check in SRT with web-based user interface. Data collection framework itself was also extended to manage various data collection types in SPring-8 with a unified method. All of data collection methods (polling, event type), data format (such as point and waveform data) and platform (Unix, Embedded, Windows including LabVIEW) can be flexibly managed. We started to implement MADOCA II data collection into SPring-8 with 241 hosts and confirmed stable operation since April 2016.
+* T. Matsumoto et al., Proceedings of ICALEPCS 2013, p.944. ** A.Yamashita et al., Proceedings of of ICALEPCS 2015, p.648
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/wEuh_gRPiH4
+        
+ 
+
+
+
+
+
+
+Slides MOBPL04 [1.550 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-MOBPL04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBPL05
+How to Design & Implement a Modern Communication Middleware Based on ZeroMQ
+45
+
+
+ 
+
+J. Lauener, W. Sliwinski
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In 2011, CERN's Controls Middleware (CMW) team started a new project aiming to design and implement a new generation equipment access framework using modern, open-source products. After reviewing several communication libraries [1], ZeroMQ [2] was chosen as the transport layer for the new communication framework. The main design principles were: scalability, flexibility, easy to use and maintain. Several core ZeroMQ patterns were employed in order to provide reliable, asynchronous communication and dispatching of messages. The new product was implemented in Java and C++ for client and server side. It is the core middleware framework to control all CERN accelerators and the future GSI FAIR [3] complex. This paper presents the overall framework architecture; choices and lessons learnt while designing a scalable solution; challenges faced when designing a common API for two languages (Java and C++) and operational experience from using the new solution at CERN for 3 years. The lessons learnt and observations made can be applied to any modern software library responsible for fast, reliable, scalable communication and processing of many concurrent requests.
+[1] A. Dworak et al., "Middleware trends and market leaders 2011", ICALEPCS 2011.  [2] ZeroMQ, http://zeromq.org  [3] V. Rapp et al., "Controls Middleware for FAIR", PCaPAC 2014. 
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/b4AoU3Vdlko
+        
+ 
+
+
+
+
+
+
+Slides MOBPL05 [0.205 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-MOBPL05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOBPL06
+Reactive Programming, and How It Fits Within Control Systems
+ 
+
+
+ 
+
+V. Michel
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+The MAX-IV synchrotron decided to adopt events as the main communication channel in order to increase both the responsiveness and reliability of its TANGO* control system. That means the tango (software) devices do not perform read hardware operation on client request but instead maintain a reliable communication with the hardware while publishing the data through event channels. Reactive programming** is an asynchronous programming paradigm oriented around data streams and the propagation of change. Instead of using the traditional imperative approach of maintaining the integrity of variables, a reactive program expresses the relationship between data streams. High-level tango devices (software devices aggregating data from other tango devices) make very good candidates for reactive programming. More precisely, it is possible to describe the attributes of those devices as relationships, where the input data comes from the event channels of lower-level devices. The facadedevice*** python library is an attempt to implement the reactive machinery within a tango device base class, and provides a descriptive API for defining the relationships in a clear and concise way.
+* TANGO controls: http://www.tango-controls.org/  ** Reactive programming: http://en.wikipedia.org/wiki/Reactiveprogramming *** facadedevice: http://github.com/MaxIV-KitsControls/tango-facadedevice
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/E7kUZBa8MHA
+        
+ 
+
+
+
+
+
+
+Slides MOBPL06 [0.627 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

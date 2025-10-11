@@ -1,0 +1,379 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: TUCPL (Timing and Synchronization)
+
+
+TUCPL —  Timing and Synchronization   (10-Oct-17   14:00—15:30)
+Chair: E. Bjorklund, LANL, Los Alamos, New Mexico, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUCPL01
+Refurbishment of the ESRF Accelerator Synchronization System Using White Rabbit
+224
+
+
+ 
+
+G. Goujon, A. Broquet, N. Janvierpresenter
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+The ESRF timing system, dating from the early 90's and still in operation, is built around a centralized RF driven sequencer distributing synchronization signals along copper cables. The RF clock is broadcasted over a separate copper network. White Rabbit, offers many attractive features for the refurbishment of a synchrotron timing system, the key one being the possibility to carry RF over the White Rabbit optical fiber network. CERN having improved the feature to provide network-wide phase together with frequency control over the distributed RF, the whole technology is now mature enough to propose a White Rabbit based solution for the replacement of the ESRF system, providing flexibility and accurate time stamping of events. We describe here the main features and first performance results of the WHIST module, an ESRF development based on the White Rabbit standalone SPEC board embedding the White Rabbit protocol and a custom mezzanine (DDSIO) extending the FMC-DDS hardware to provide up to 12 programmable output signals. All WHIST modules in the network run in phase duplicates of a common RF driven sequencer. A master module broadcasts the RF and the injection trigger.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/Ege_6IGHNPU
+        
+ 
+
+
+
+
+
+
+Slides TUCPL01 [1.595 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPL01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL02
+Synchronized Timing and Control System Construction of SuperKEKB Positron Damping Ring
+229
+
+
+ 
+
+H. Sugimura, K. Furukawa, H. Kaji, F. Miyahara, T.T. Nakamura, Y. Ohnishi, S. Sasaki, M. Satoh
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The KEK electron/positron injector chain delivers beams for particle physics and photon science experiments. A damping ring has been constructed at the middle of the linac to generate a positron beam with sufficiently low emittance to support a 40-fold higher luminosity in the SuperKEKB asymmetric collider over the previous project of KEKB, in order to increase our understanding of flavour physics. A timing and control system for the damping ring is under construction to enable the timing synchronization and beam bucket selection between the linac, the positron damping ring and the SuperKEKB main ring. It should manage precise timing down to several picoseconds for the beam energy and bunch compression systems. Besides precise timing controls to receive and transmit positron beams, it has to meet local analysis requirements in order to measure beam properties precisely with changing the RF frequency. It is incorporating the event timing control modules from MRF and SINAP.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/BMAJimbEQB4
+        
+ 
+
+
+
+
+
+
+Slides TUCPL02 [0.482 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL03
+White Rabbit in Radio Astronomy
+ 
+
+
+ 
+
+E.P. Boven
+                       JIVE, Dwingeloo, The Netherlands
+
+ 
+
+
+ 
+
+The Square Kilometre Array (SKA) is a new radio telescope that is currently being designed. It will consist of two interferometric antenna arrays, one in South Africa and one in Australia, which together will cover a frequency span of 50 MHz to 13.8 GHz. Our design for the timing synchronization of all the receivers in these arrays uses White Rabbit to distribute absolute time. This talk will discuss how we will provide synchronization on these long distances, in the rather challenging climatic conditions of the semi-desert sites chosen for the SKA telescopes, and the improvements to WR we implemented for that. Very Long Baseline Interferometry (VLBI) is an instrumental method in radio astronomy where radio telescopes distributed all over the globe carry out observations simultaneously, and through aperture synthesis operate as a single radio telescope. As the resolution of such an instrument scales with the longest baseline between stations, global VLBI provides unsurpassed resolution in astronomy. In the ASTERICS project, we are demonstrating how White Rabbit can be used to distribute a coherent frequency reference for VLBI on public, shared fiber.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/bisES3VNN7M
+        
+ 
+
+
+
+
+
+
+Slides TUCPL03 [4.277 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL04
+SwissFEL Timing System: First Operational Experience
+232
+
+
+ 
+
+B. Kalantari, R. Biffiger
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The SwissFEL timing system builds on MRF's event system products. Performance and functional requirements have pushed MRF timing components to its newest generation (300 series) providing active delay compensation, conditional sequence events, and topology identification among others. However, employing available hardware functionalities to implement complex and varying operational demands and provide them in the control system has its own challenges. After a brief introduction to the new MRF hardware this paper describes operational aspects of the SwissFEL timing and related control system applications. We describe a new technique for beam rate control and how this scheme is used for the machine protection system (MPS). We show how a well thought modular software-side design enables us to maintain various rep rates across the facility and allows us to implement complex triggering patterns with minimum development effort. We also discuss our timestamping method and its interface to the beam synchronous data acquisition system. Further we share our experience in timing network installation, monitoring and maintenance issues during commissioning phase of the facility.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/CWx8QBpSxXc
+        
+ 
+
+
+
+
+
+
+Slides TUCPL04 [5.381 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPL04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL05
+Design and Prototyping of a New Synchronization System with Stability at Femtoseconds
+ 
+
+
+ 
+
+M. Liu, X.L. Dai, C.X. Yin
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+We present the design and prototyping of a new synchronization system with high stability. Based on a continuous-wave laser, the RF reference and the timing events are transmitted along the same optical fiber at femtoseconds. Therefore, the system could reutilize the existing fiber optic network of the event timing system around large accelerator facilities. The phase drift of the signal is detected based on Michelson interference and is then compensated with optical methods. The dispersion drift is corrected by appropriative dispersion compensating fiber. The system design and the test results in the lab are demonstrated in the paper.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/xgjL-mg9YLM
+        
+ 
+
+
+
+
+
+
+Slides TUCPL05 [3.503 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCPL06
+Verification of the FAIR Control System Using Deterministic Network Calculus
+238
+
+
+ 
+
+M. Schütze, S. Bondorf
+                       DISCO, Kaiserslautern, Germany
+M. Kreider
+                       GSI, Darmstadt, Germany
+M. Kreider
+                       Glyndŵr University, Wrexham, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Carl Zeiss Foundation
+The FAIR control system (CS) is an alarm-based design and employs White Rabbit time synchronization over a GbE network to issue commands executed accurate to 1 ns. In such a network based CS, graphs of possible machine command sequences are specified in advance by physics frameworks. The actual traffic pattern, however, is determined at runtime, depending on interlocks and beam requests from experiments and accelerators. In 'unlucky' combinations, large packet bursts can delay commands beyond their deadline, potentially causing emergency shutdowns. Thus, prior verification if any possible combination of given command sequences can be delivered on time is vital to guarantee deterministic behavior of the CS. Deterministic network calculus (DNC) can derive upper bounds on message delivery latencies. This paper presents an approach for calculating worst-case descriptors of runtime traffic patterns. These so-called arrival curves are deduced from specified partial traffic sequences and are used to calculate end-to-end traffic properties. With the arrival curves and a DNC model of the FAIR CS network, a worst-case latency for specific packet flows or the whole CS can be obtained.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/t1AXzTi8kJA
+        
+ 
+
+
+
+
+
+
+Slides TUCPL06 [0.203 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUCPL06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

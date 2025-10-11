@@ -1,0 +1,395 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2019 - Table of Session: TUYBB (Tuesday Parallel Session 4)
+
+
+TUYBB —  Tuesday Parallel Session 4   (03-Sep-19   10:30—12:30)
+Chair: J.M. Byrd, ANL, Lemont, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUYBB1
+Vacuum System Solutions for Small Vacuum Chamber Next Generation Storage Rings
+ 
+
+
+ 
+
+O. Omolayo
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the Director of the Office of Science of the US Department of Energy under Contract no. DEAC02-05CH11231.
+The extremely low emittance promised by multi-bend achromat (MBA) based lattices can be achieved only by strong focusing and combined functions magnets that are challenging the present technology for those magnets. Such a level of focusing can be achievable only if significantly small gap magnets are used. Such a requirement imposes extremely small vacuum chamber cross-section with very small vacuum conductance. A new vacuum strategy using distributed pumping and other challenging solutions are adopted to achieve the goals. This talk describes these challenges and presents a review of the technological solutions presently pursued.
+
+ 
+
+
+
+
+
+
+Slides TUYBB1 [18.677 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUYBB2
+Manipulating H⁻ Beams with Lasers
+309
+
+
+ 
+
+A. Rakhman, A.V. Aleksandrov, S.M. Cousineau, T.V. Gorlov, Y. Liu, A.P. Shishlo
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL is managed by UT-Battelle, LLC, under contract DE-AC05-00OR22725 for the U.S. Department of Energy.
+In recent years lasers have been playing a vital role in many H− beam measurements and experiments. This talk will review current state of development of various applications using lasers for manipulating H− ion beams in accelerators. A wide range of applications will be reviewed such as beam diagnostics, laser-assisted charge-exchange injection, generation of arbitrary H0 pulse patterns and others. An overview of ongoing developments and prospects for other laser H− beam interactions will also be given.
+
+ 
+
+
+
+
+
+
+Slides TUYBB2 [16.483 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB2
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 12 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUYBB3
+Final Design of the APS-Upgrade Storage Ring Vacuum System
+315
+
+
+WEPLM10
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+J.A. Carter, B. Billett, B. Brajuskovic, M.A. Lale, A. McElderry, O.K. Mulvany, J.R. Noonan, M.M. O’Neill, R.R. Swanson, K.J. Wakefield, D.R. Walters, G.E. Wiemerslage, J. Zientek
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Argonne National Laboratory’s work was supported by the U.S. Department of Energy, Office of Science under contract DE-AC02-06CH11357.
+The Advanced Photon Source Upgrade project is progressing from its final design phase into production for the future 6 GeV, 200 mA upgrade of the existing APS. The storage ring arc vacuum system will include over 2500 custom vacuum chambers ranging from 70 mm to 2.5 meters in length and typically feature a narrow 22 mm inner diameter aperture. The scope of NEG coatings was increased to 40% of the length along the e-beam path to ensure efficient conditioning and low pressure requirements can be met. The final design phase required advancing previous work to a procurement-ready level and to address local and system level challenges. Local challenges include designing thin-walled vacuum chambers with carefully controlled lengths and outer profiles and also mitigating significant radiation heat loads absorbed along vacuum chamber walls. System level challenges include planning for the complex machine assembly, networking components to utilities, managing the quality of upcoming procurements. This presentation will highlight the major design challenges and solutions for the storage ring vacuum system and also plans for production and installation.
+
+ 
+
+
+
+
+
+
+Slides TUYBB3 [10.852 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUYBB3 [5.028 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB3
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 30 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUYBB4
+Online Modelling and Optimization of Nonlinear Integrable Systems
+318
+
+
+ 
+
+N. Kuklev, Y.K. Kim
+                       University of Chicago, Chicago, Illinois, USA
+A. Valishev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by National Science Foundation award PHY-1549132, the Center for Bright Beams. Fermi Research Alliance operates Fermilab under Contract DE-AC02-07CH11359 with the US Dept. of Energy.
+Nonlinear integrable optics was recently proposed as a design approach to increase the limits on beam brightness and intensity imposed by fast collective instabilities. To study these systems experimentally, a new research electron and proton storage ring, the Integrable Optics Test Accelerator, was constructed and recently commissioned at Fermilab. Beam-based diagnostics and online modelling of nonlinear systems presents unique challenges - in this paper, we report on our efforts to develop optimization methods suited for such lattices. We explore the effectiveness of neural networks as fast online surrogate estimators, and integrate them into a beam-based tuning algorithm. We also develop a method of knob dimensionality reduction and subsequent robust multivariate optimization for maximizing key performance metrics under complicated lattice optics constraints.
+
+ 
+
+
+
+
+
+
+Slides TUYBB4 [5.771 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB4
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 13 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUYBB5
+Design and Analysis of a Halo-Measurement Diagnostics
+322
+
+
+SUPLS10
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+TUPLS15
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C.J. Marshall, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+S.V. Benson, J. Gubeli
+                       JLab, Newport News, Virginia, USA
+P. Piot, J. Ruan
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear physics under contract DE-AC05-06OR23177 and DE-AC02-07CH11359.
+A large dynamical-range diagnostics (LDRD) design at Jefferson Lab will be used at the FAST-IOTA injector to measure the transverse distribution of halo associated with a high-charge electron beam. One important aspect of this work is to explore the halo distribution when the beam has significant angular momentum (i.e. is magnetized). The beam distribution is measured by recording radiation produced as the beam impinges a YAG:Ce screen. The optical radiation is split with a fraction directed to a charged-couple device (CCD) camera. The other part of the radiation is reflected by a digital micromirror device (DMD) that masks the core of the beam distribution. Combining the images recorded by the two cameras provides a measurement of the transverse distribution with over a large dynamical range. The design and analysis of the optical system will be discussed including optical simulation using SRW and the result of a mockup experiment to test the performances of the system will be presented.
+
+ 
+
+
+
+
+
+
+Slides TUYBB5 [3.013 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB5
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 13 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUYBB6
+Beam Dynamics in a High Gradient RF Streak Camera
+326
+
+
+TUPLE19
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+F. Toufexis, V.A. Dolgashev, A. Landa
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This project was funded by U.S. Department of Energy under Contract No. DE-AC02-76SF00515.
+Traditionally, time-resolved experiments in storage ring synchrotron light sources and free-electron lasers are performed with short x-ray pulses with time duration smaller than the time resolution of the phenomenon under study. Typically, storage-ring synchrotron light sources produce x-ray pulses on the order of tens of picoseconds. Newer diffraction limited storage rings produce even longer pulses. We propose to use a high-gradient RF streak camera for time-resolved experiments in storage-ring synchrotron light sources with potential for sub-100 fs resolution. In this work we present a detailed analysis of the effects of the initial time and energy spread of the photo-emitted electrons on the time resolution, as well as a start-to-end beam dynamics simulation in an S-Band system.
+* F. Toufexis, et al, "Sub-Picosecond X-Ray Streak Camera using High-Gradient RF Cavities", in Proceedings of IPAC’19.
+
+ 
+
+
+
+
+
+
+Slides TUYBB6 [5.958 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUYBB6
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,354 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: TUZE (Beam Dynamics)
+
+
+TUZE —  Beam Dynamics   (09-Aug-22   14:00—16:00)
+Chair: M. Borland, ANL, Lemont, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUZE1
+Experimental Phase-Space Tracking of a Single Electron in a Storage Ring
+329
+
+
+ 
+
+A.L. Romanov, J.K. Santucci, G. Stancari, A. Valishev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+This paper presents the results of the first ever experimental tracking of the betatron and synchrotron phases for a single electron in the Fermilab’s IOTA ring. The reported technology makes it is possible to fully track a single electron in a storage ring, which requires tracking of amplitudes and phases for both, slow synchrotron and fast betatron oscillations.
+
+ 
+
+
+
+
+
+
+Slides TUZE1 [3.600 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-TUZE1
+
+ 
+
+
+About •
+Received ※ 08 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 21 August 2022 — Issue date ※ 27 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUZE2
+Nonlinear Optics from Off-Energy Closed Orbits
+ 
+
+
+ 
+
+D.K. Olsson
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+Among several techniques used to characterize and correct the non-linear optics of a storage ring, NOECO (Non-linear optics from Off-Energy Closed Orbits) is the natural expansion of the well-known scheme LOCO for quadrupoles. This approach is based on measuring an orbit response matrix at an off-nominal energy and it is valid for chromatic sextupoles. In this contribution the method [1] will be presented as deployed for the MAX IV 3 GeV ring.
+[1] https://link.aps.org/doi/10.1103/PhysRevAccelBeams.23.102803 
+
+ 
+
+
+
+
+
+
+Slides TUZE2 [3.080 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUZE3
+Optimizing the Discovery of Underlying Nonlinear Beam Dynamics
+335
+
+
+ 
+
+L.A. Pocher, T.M. Antonsen, L. Dovlatyan, I. Haber, P.G. O’Shea
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE-HEP grants: DE-SC0010301 and DE-SC0022009
+One of the DOE-HEP Grand Challenges identified by Nagaitsev et al. relates to the use of virtual particle accelerators for beam prediction and optimization. Useful virtual accelerators rely on efficient and effective methodologies grounded in theory, simulation, and experiment. This paper uses an algorithm called Sparse Identification of Nonlinear Dynamical systems (SINDy), which has not previously been applied to beam physics. We believe the SINDy methodology promises to simplify the optimization of accelerator design and commissioning, particularly where space charge is important. We show how SINDy can be used to discover and identify the underlying differential equation system governing the beam moment evolution. We compare discovered differential equations to theoretical predictions and results from the PIC code WARP modeling. We then integrate the discovered differential system forward in time and compare the results to data analyzed in prior work using a Machine Learning paradigm called Reservoir Computing. Finally, we propose extending our methodology, SINDy for Virtual Accelerators (SINDyVA), to the broader community’s computational and real experiments.
+
+ 
+
+
+
+
+
+
+Slides TUZE3 [3.141 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-TUZE3
+
+ 
+
+
+About •
+Received ※ 08 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 22 August 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUZE4
+Particle-in-Cell Simulations of High Current Density Electron Beams in the Scorpius Linear Induction Accelerator
+339
+
+
+ 
+
+S.E. Clark, Y.-J. Chen, J. Ellsworth, A.T. Fetterman, C.N. Melton, W.D. Stem
+                       LLNL, Livermore, USA
+
+ 
+
+
+ 
+
+Funding: This work was performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+Particle-in-cell (PIC) simulations of a high current density (I > 1 kA), and highly relativistic electron beam (E ~ 2-20 MeV) in the Scorpius Linear Induction Accelerator (LIA) are presented. The simulation set consists of a 3D electrostatic/magnetostatic simulation coupled to a 2D XY slice solver that propagates the beam through the proposed accelerator lattice for Scorpius, a next-generation flash X-ray radiography source. These simulations focus on the growth of azimuthal modes in the beam (e.g. Diocotron instability) that arise when physical ring distributions manifest in the beam either due to electron optics or solenoidal focusing and transport. The saturation mechanism appears to lead to the generation of halo particles and conversion down to lower mode numbers as the width of the ring distribution increases. The mode growth and saturation can contribute to the generation of hot spots on the target as well possible azimuthal asymmetries in the radiograph. Simulation results are compared to linear theory and tuning parameters are investigated to mitigate the growth of azimuthal modes in the Scorpius electron beam.
+* LLNL-ABS-830595, Approved for public release. Distribution Unlimited.
+
+ 
+
+
+
+
+
+
+Slides TUZE4 [4.305 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-TUZE4
+
+ 
+
+
+About •
+Received ※ 02 August 2022 — Revised ※ 05 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 21 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUZE5
+Studies of Ion Beam Heating by Electron Beams
+343
+
+
+ 
+
+S. Seletskiy, A.V. Fedotov, D. Kayran
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Presence of an electron beam created by either electron coolers or electron lenses in an ion storage ring is associated with an unwanted emittance growth (heating) of the ion bunches. In this paper we report experimental studies of the electron-ion heating in the Low Energy RHIC electron Cooler (LEReC).
+
+ 
+
+
+
+
+
+
+Slides TUZE5 [1.368 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-TUZE5
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 17 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUZE6
+Studies of Ion Instability Using a Gas Injection System
+347
+
+
+ 
+
+J.R. Calvey, M. Borland, L. Emery, P.S. Kallakuri
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+Ion trapping occurs when a negatively charged beam ionizes residual gas inside an accelerator vacuum chamber, and the resulting ions become trapped in the beam potential. Trapped ions can cause a variety of undesirable effects, including coherent instability and incoherent emittance growth. Because of the challenging emittance and stability requirements of next generation light sources, ion trapping is a serious concern. To study this effect at the present APS, a gas injection system was designed and installed at two different locations in the ring. The system creates a controlled and localized pressure bump of nitrogen gas, so the resulting ion instability can be studied. Measurements were taken under a wide variety of beam conditions, using a spectrum analyzer, pinhole camera, and bunch-by-bunch feedback system. The feedback system was also used to perform grow-damp measurements, allowing us to measure the growth rate of individual unstable modes. This paper will present some of the results of these experiments. Simulations using the IONEFFECTS element in the particle tracking code elegant will also be presented.
+
+ 
+
+
+
+
+
+
+Slides TUZE6 [2.425 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-TUZE6
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 07 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 24 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: THCOBA (Control Systems Infrastructure)
+
+
+THCOBA —  Control Systems Infrastructure   (10-Oct-13   15:00—16:30)
+Chair: R.A. Krempaska, PSI, Villigen PSI, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+THCOBA01
+Evolution of the Monitoring in the LHCb Online System
+1408
+
+
+ 
+
+C. Haen, E. Bonaccorsi, N. Neufeld
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHCb online system relies on a large and heterogeneous I.T. infrastructure : it comprises more than 2000 servers and embedded systems and more than 200 network devices. The low level monitoring of the equipment was originally done with Nagios. In 2011, we replaced the single Nagios instance with a distributed Icinga setup presented at ICALEPCS 2011. This paper will present with more hindsight the improvements we observed, as well as problems encountered. Finally, we will describe some of our prospects for the future after the Long Shutdown period, namely Shinken and Ganglia.
+
+ 
+
+
+
+
+
+
+Slides THCOBA01 [1.426 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBA02
+Unidirectional Security Gateways: Stronger than Firewalls
+1412
+
+
+ 
+
+A.F. Ginter
+                       Waterfall Security Solutions, New York, USA
+
+ 
+
+
+ 
+
+In the last half decade, application integration via Unidirectional Security Gateways has emerged as a secure alternative to firewalls. The gateways are deployed extensively to protect the safety and reliability of industrial control systems in nuclear generators, conventional generators and a wide variety of other critical infrastructures. Unidirectional Gateways are a combination of hardware and software. The hardware allows information to leave a protected industrial network, and physically prevents any signal whatsoever from returning to the protected network. The result is that the hardware blocks all online attacks originating on external networks. The software replicates industrial servers to external networks, where the information in those servers is available to end users and to external applications. The software does not proxy bi-directional protocols. Join us to learn how this secure alternative to firewalls works, where and how the tecnhology is deployed routinely, and how all of the usual remote support, data integrity and other apparently bi-directional deployment issues are routinely resolved.
+
+ 
+
+
+
+
+
+
+Slides THCOBA02 [0.721 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBA03
+DIAMON2 – Improved Monitoring of CERN’s Accelerator Controls Infrastructure
+1415
+
+
+ 
+
+W. Buczak, M. Buttner, F. Ehm, P. Jurcso, M. Mitev
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Monitoring of heterogeneous systems in large organizations like CERN is always challenging. CERN's accelerators infrastructure includes large number of equipment (servers, consoles, FECs, PLCs), some still running legacy software like LynxOS 4 or Red Hat Enterprise Linux 4 on older hardware with very limited resources. DIAMON2 is based on CERN Common Monitoring platform. Using Java industry standards, notably Spring, Ehcache and the Java Message Service, together with a small footprint C++ -based monitoring agent for real time systems and wide variety of additional data acquisition components (SNMP, JMS, JMX etc.), DIAMON2 targets CERN’s environment, providing easily extensible, dynamically reconfigurable, reliable and scalable monitoring solution. This article explains the evolution of the CERN diagnostics and monitoring environment until DIAMON2, describes the overall system’s architecture, main components and their functionality as well as the first operational experiences with the new system, observed under the very demanding infrastructure of CERN’s accelerator complex.
+
+ 
+
+
+
+
+
+
+Slides THCOBA03 [1.209 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBA04
+Evolution Of IT Infrastructure For Fusion Control Systems
+ 
+
+
+ 
+
+T.M. Frazier, P. Adams
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-633253
+The National Ignition Facility (NIF) at the Lawrence Livermore National Laboratory is a stadium-sized facility that contains a 192-beam, 1.8-Megajoule, 500-Terawatt, ultraviolet laser system that provides a scientific center to study Inertial Confinement Fusion and matter at extreme energy densities and pressures. An Information Technology (IT) infrastructure consisting of some 2,500 servers, 400 network devices and 700 terabytes of storage provides the foundation for NIF’s Control System & Data Archive. Over the past 36 months, NIF’s infrastructure has been highly consolidated and segmented. This talk discusses the high-level requirements and design principles which guided this effort, the metrics & monitoring tools used to assess the performance and configuration management of the infrastructure, and the processes and procedures used to migrate to a highly virtualized infrastructure. Elements of NIF’s approach that might be applicable at other facilities will be discussed.
+
+ 
+
+
+
+
+
+
+Slides THCOBA04 [3.370 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBA05
+Control System Virtualization for the LHCb Online System
+1419
+
+
+ 
+
+E. Bonaccorsi, L. Granado Cardoso, N. Neufeld
+                       CERN, Geneva, Switzerland
+F. Sborzacchi
+                       INFN/LNF, Frascati (Roma), Italy
+
+ 
+
+
+ 
+
+Virtualization provides many benefits such as more efficiency in resource utilization, less power consumption, better management by centralized control and higher availability. It can also save time for IT projects by eliminating dedicated hardware procurement and providing standard software configurations. In view of this virtualization is very attractive for mission-critical projects like the experiment control-system (ECS) of the large LHCb experiment at CERN. This paper describes our implementation of the control system infrastructure on a general purpose server-hardware based on Linux and the RHEV enterprise clustering platform. The paper describes the methods used , our experiences and the knowledge acquired in evaluating the performance of the setup using test systems, constraints and limitations we encountered. We compare these with parameters measured under typical load conditions in a real production system. We also present the specific measures taken to guarantee optimal performance for the SCADA system (WinCC OA), which is the back-bone of our control system.
+
+ 
+
+
+
+
+
+
+Slides THCOBA05 [1.065 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOBA06
+Virtualization and Deployment Management for the KAT-7 / MeerKAT Control and Monitoring System
+1422
+
+
+ 
+
+N. Marais, P.S. Swart, L. Van den Heever, C.C.A. de Villiers
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: National Research Foundation (NRF) of South Africa
+To facilitate efficient deployment and management of the Control and Monitoring software of the South African 7-dish Karoo Array Telescope (KAT-7) and the forthcoming Square Kilometer Array (SKA) precursor, the 64-dish MeerKAT Telescope, server virtualization and automated deployment using a host configuration database is used. The advantages of virtualization is well known; adding automated deployment from a configuration database, additional advantages accrue: Server configuration becomes deterministic, development and deployment environments match more closely, system configuration can easily be version controlled and systems can easily be rebuilt when hardware fails. We chose the Debian GNU/Linux based Proxmox VE hypervisor using the OpenVZ single kernel container virtualization method along with Fabric (a Python ssh automation library) based deployment automation and a custom configuration database. This paper presents the rationale behind these choices, our current implementation and our experience with it, and a performance evalution of OpenVZ and KVM. Tests include a comparison of application specific networking performance over 10GbE using several network configurations.
+
+ 
+
+
+
+
+
+
+Slides THCOBA06 [5.044 MB]
+            
+ 
+
+
+ 
+
+
+
+

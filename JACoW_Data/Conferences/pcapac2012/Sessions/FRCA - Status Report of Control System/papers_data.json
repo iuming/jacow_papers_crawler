@@ -1,0 +1,96 @@
+{
+  "session_info": {
+    "id": "FRCA",
+    "name": "FRCA - Status Report of Control System",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/frca.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FRCA02",
+      "title": "Status Report, Future Plans and Maintenance Issues of  VME Based Cryogenic Control System at IUAC",
+      "authors": [
+        "J. Antony",
+        "T.S. Datta",
+        "D.S. Mathuria",
+        "IUAC",
+        "New Delhi",
+        "India",
+        "The Cryogenic Data Acquisition and Control system (CRYO-DACS) at IUAC was commissioned successfully in the year 2002 and has been continuously in operation since then with uptime better than 95%. The aim of CRYO-DACS is to control and acquire many analog and digital cryogenic parameters of super conducting LINAC and related equipments like beam-line cryostats",
+        "helium compressors",
+        "cryogenic distribution etc. The complete system is implemented using two VME crates",
+        "housing I/O modules",
+        "placed far apart and interconnected using Ethernet. The software implementation and maintenance have also been trouble-free which used IOWORKS as the development tool for embedded CPUs running VxWORKS. The OPC Client was developed using VB6 & MSACCESS RDBMS for data logging",
+        "viewing and trending under Windows 2000 stable server. In summary",
+        "this paper will elaborate the implementation",
+        "use and related failures faced for last 10 years and the subsequent corrective actions taken to keep the system running for such a long time round the clock along with some future plans."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/frca02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/frca02.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/frca02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-FRCA02",
+      "page_number": "245",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRCA03",
+      "title": "Development of the Car-borne Survey System KURAMA",
+      "authors": [
+        "M. Tanigaki",
+        "Y. Kobayashi",
+        "R. Okumua",
+        "N. Sato",
+        "K. Takamiya",
+        "H. Yoshinaga",
+        "H. Yoshino",
+        "Kyoto University",
+        "Research Reactor Institute",
+        "Osaka",
+        "Japan",
+        "We have developed a car-borne survey system named as KURAMA (Kyoto University RAdiation MApping system) for the establishment of air dose rate map in Fukushima and surrounding area as a response to the nuclear accident at TEPCO Fukushima Daiichi Nuclear Power Plant on March 11",
+        "2011. KURAMA is developed with LabVIEW. The monitoring data tagged by GPS location data are shared with remote servers over 3G mobile network",
+        "then processed by servers for a real time plot on Google Earth and other various purposes. A CompactRIO-based KURAMA-II is developed for the autonomous operation in public vehicles. More than a hundred of KURAMA and KURAMA-II now serves for the drawing up the radiation map in the East Japan by Japanese government. The outline and present status of KURAMA and KURAMA-II are introduced."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/frca03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/frca03.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/frca03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-FRCA03",
+      "page_number": "248",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRCA04",
+      "title": "Control System for BARC-TIFR Pelletron",
+      "authors": [
+        "S. Singh",
+        "J.A. Gore",
+        "S. Kulkarni",
+        "P. Singh",
+        "BARC",
+        "Mumbai",
+        "India",
+        "Pelletron is 14 MV tandem Accelerator operating from past 20 years. It was operating on DOS based control system. Its control system software and CAMAC controller hardware has been changed recently. Control system software is is a two layer software namely Scanner and operator console. First layer which runs at equipment interface layer interacts with all CAMAC crates acts a server",
+        "known as Scanner. Scanner is developed in LINUX and uses TCP/IP protocol suite for interaction with CAMAC and operator interface. Scanner uses shared memory to store machine's runtime data. Operator console is a Graphics interface software developed by using QT APIs. Operator interface is source code portable between MS windows and LInix."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/frca04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/frca04.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/frca04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-FRCA04",
+      "page_number": "251",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-11 02:11:50"
+}

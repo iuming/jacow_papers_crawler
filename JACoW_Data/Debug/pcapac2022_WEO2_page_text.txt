@@ -1,0 +1,172 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2022 - Table of Session: WEO2 (Oral Presentation)
+
+
+WEO2 —  Oral Presentation   (05-Oct-22   13:30—14:15)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEO21
+Status of EPICS Based Control System for the Cyclotrons in VECC, Kolkata
+ 
+
+
+ 
+
+A. Roy, N. Chaddha, S. Sahoo
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+At present two cyclotrons are operational in Variable Energy Cyclotron Centre (VECC), namely K130 Room Temperature Cyclotron (RTC) and K500 Superconducting Cyclotron (SCC). Around 2008, the open source distributed control system framework, EPICS was adopted for the development of RTC control system in VECC after its modernization. The journey was started with EPICS Base 3.14.8, asynDriver R4-4 and MEDM. Initially, the control system for precision magnet power supplies and vacuum system of RTC were implemented using EPICS. Over time, other systems like beam diagnostics, ion source gas flow system, beam line vacuum system of RTC were integrated with EPICS control system. There are also a number of unique EPICS based developments took place in VECC. The control system of SCC is also upgraded with EPICS over time. Recently some of the cyclotron model and analysis codes are integrated with SCC control system. A MySQL based machine operational database is also developed for storing operational data. The Control System Studio (CSS) is now taken up for developing the operator interface. The evolution of EPICS based control system in VECC over time is discussed in this paper.
+
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEO22
+Applications of Timing Read-Back System in J-PARC Main Ring
+8
+
+
+ 
+
+M. Yang, N. Kamikubota, K.C. Sato
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+N. Kikuzawa
+                       JAEA/J-PARC, Tokai-mura, Japan
+Y. Tajima
+                       KIS, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Japan Proton Accelerator Research Complex (J-PARC) timing system has been in operation since 2006. Over the past 16 years, there were trigger-failure events, and some of which seriously affected the operation of J-PARC ac-celerator, especially at Main Ring. To troubleshoot the source of such events more quickly, we decided to devel-op a timing read-back system to read back distributed timing signals at the device side. A PLC-type triggered scaler module was developed as a key of the system. It can count number of pulses in an accelerator cycle and store the counts in a momentary array. Using the module, customized read-back applications for various timing-related signals have been developed: (a) read-back a 25-Hz trigger clock, (b) read-back a pulsed bending magnet trig-ger, (c) read-back a magnet power-supply trigger. These applications were implemented successfully in J-PARC Main Ring, and demonstrated as countermeasure against past trigger-failure events. More details will be given in the paper.
+
+ 
+
+
+
+
+
+
+Slides WEO22 [10.587 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-PCaPAC2022-WEO22
+
+ 
+
+
+About •
+Received ※ 02 October 2022 — Revised ※ 04 October 2022 — Accepted ※ 15 February 2023 — Issue date ※ 20 February 2023
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEO23
+Avoiding and Managing Pitfalls of Control System Projects
+12
+
+
+ 
+
+A. Jesenko
+                       Cosylab, Ljubljana, Slovenia
+G. Pajor
+                       COSYLAB, Control System Laboratory, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+Cosylab is the leading provider of software solutions for the world’s most complex, precise and advanced systems. We also provide software products and services to the largest medical device manufacturers and cancer centers worldwide. In our 20-year history, Cosylab has worked on hundreds of multi-year projects worldwide. Software projects run the highest risk of cost and schedule overruns. On average, large IT projects run 45 percent over budget and 7 percent over time*. There are some common pitfalls when defining and executing projects in the Control Systems field. This article presents some concepts on how to address them, such as: having a clear definition of a project’s scope, budget, and timeline; doing project risk management; having a clear division of responsibilities; and having a project sponsor from the management.
+*: https://www.mckinsey.com/~/media/McKinsey/dotcom/clientservice/Corporate%20Finance/MoF/PDF%20issues/PDFs%20Issue%2045/Final/MoF45LargeScaleIT.ashx
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-PCaPAC2022-WEO23
+
+ 
+
+
+About •
+Received ※ 27 September 2022 — Revised ※ 04 October 2022 — Accepted ※ 17 February 2023 — Issue date ※ 19 February 2023
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,282 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: MOCOAAB (Project Status Reports 1)
+
+
+MOCOAAB —  Project Status Reports 1   (07-Oct-13   09:45—12:00)
+Chair: H. Shoaee, SLAC, Menlo Park, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+MOCOAAB01
+The First Running Period of the CMS Detector Controls System - A Success Story
+1
+
+
+ 
+
+F. Glege, A. Aymeric, O. Chaze, S. Cittolin, J.A. Coarasa, C. Deldicque, M. Dobson, D. Gigi, R. Gomez-Reino, C. Hartl, L. Masetti, F. Meijers, E. Meschi, S. Morovic, C. Nunez-Barranco-Fernandez, L. Orsini, W. Ozga
+                       CERN, Geneva, Switzerland
+G. Bauer
+                       MIT, Cambridge, Massachusetts, USA
+U. Behrens
+                       DESY, Hamburg, Germany
+J. Branson, A. Holzner
+                       UCSD, La Jolla, California, USA
+S. Erhan
+                       UCLA, Los Angeles, California, USA
+R.K. Mommsen, V. O'Dell
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+After only three months of commissioning, the CMS detector controls system (DCS) was running at close to 100% efficiency. Despite millions of parameters to control and the HEP typical distributed development structure, only minor problems were encountered. The system can be operated by a single person and the required maintenance effort is low. A well factorized system structure and development are keys to success as well as a centralized, service like deployment approach. The underlying controls software PVSS has proven to work in a DCS environment. Converting the DCS to full redundancy will further reduce the need for interventions to a minimum.
+
+ 
+
+
+
+
+
+
+Slides MOCOAAB01 [1.468 MB]
+            
+ 
+
+
+ 
+
+
+
+MOCOAAB02
+Design and Status of the SuperKEKB Accelerator Control System
+4
+
+
+ 
+
+M. Iwasaki, A. Akiyama, K. Furukawa, H. Kaji, T. Naito, T.T. Nakamura, J.-I. Odagiri, S. Sasaki
+                       KEK, Ibaraki, Japan
+T. Aoyama, M. Fujita, T. Nakamura, N. Tanaka, K. Yoshii
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+M. Hirose, K. Iwase
+                       KIS, Ibaraki, Japan
+T. Okazaki, N. Yoshifuji
+                       EJIT, Hitachi, Ibaraki, Japan
+
+ 
+
+
+ 
+
+SuperKEKB is the upgrade of the KEKB asymmetric energy e+e− collider, for the B-factory experiment in Japan, designed to achieve a 40-times higher luminosity than the world record by KEKB. The KEKB control system was based on EPICS at the equipment layer and scripting languages at the operation layer. The SuperKEKB control system continues to employ those features, while we implement additional technologies for the successful operation at such a high luminosity. In the accelerator control network system, we introduce 10GbE for the wider bandwidth data transfer, and redundant configurations for reliability. The network security is also enhanced. For the SuperKEKB construction, the wireless network is installed into the beamline tunnel. In the timing system, the new configuration for positron beams is required. We have developed the faster response beam abort system, interface modules to control thousands magnet power supplies, and the monitoring system for the final focusing superconducting magnets to assure stable operations. We introduce the EPICS embedded PLC, where EPICS runs on a CPU module. The design and status of the SuperKEKB accelerator control system will be presented.
+
+ 
+
+
+
+
+
+
+Slides MOCOAAB02 [5.930 MB]
+            
+ 
+
+
+ 
+
+
+
+MOCOAAB03
+The Spiral2 Control System Progress Towards the Commission Phase
+8
+
+
+ 
+
+E. Lécorché, P. Gillette, C.H. Haquin, E. Lemaître, G. Normand, C.H. Patard, L. Philippe, D.T. Touchard
+                       GANIL, Caen, France
+J.F. Denis, F. Gougnaud, J.-F. Gournay, Y. Lussignol
+                       CEA/DSM/IRFU, France
+P.G. Graehling, J.H. Hosselet, C. Maazouzi
+                       IPHC, Strasbourg Cedex 2, France
+
+ 
+
+
+ 
+
+The commissioning of the Spiral2 Radioactive Ion Beams facility at Ganil will soon start, so requiring the control system components to be delivered in time. Yet, parts of the system were validated during preliminary tests performed with ions and deuterons beams at low energy. The control system development results from the collaboration between Ganil, CEA/IRFU, CNRS/IPHC laboratories, using appropriate tools and approach. Based on Epics, the control system follows a classical architecture. At the lowest level, Modbus/TCP protocol is considered as a field bus. Then, equipment are handled by IOCs (soft or VME/VxWorks) with a software standardized interface between IOCs and clients applications on top. This last upper layer consists of Epics standard tools, CSS/BOY user interfaces within the so-called CSSop Spiral2 context suited for operation and, for machine tunings, high level applications implemented by Java programs developed within a Spiral2 framework derived from the open-Xal one. Databases are used for equipment data and alarms archiving, to configure equipment and to manage the machine lattice and beam settings. A global overview of the system is therefore here proposed.
+
+ 
+
+
+
+
+
+
+Slides MOCOAAB03 [3.205 MB]
+            
+ 
+
+
+ 
+
+
+
+MOCOAAB04
+The Integrated Control System at ESS
+12
+
+
+ 
+
+G. Trahern
+                       ESS, Lund, Sweden
+M. Rescic
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+The European Spallation Source (ESS) is a high current proton LINAC to be built in Lund, Sweden. The LINAC delivers 5 MW of power to the target at 2500 MeV, with a nominal current of 50 mA. The project entered Construction phase on January 1st 2013. In order to design, develop and deliver a reliable, well-performing and standardized control system for the ESS facility, the Integrated Control System (ICS) project has been established. The ICS project also entered Construction phase on January 1st. ICS consists of four distinct Core components (Physics, Software Services, Hardware and Protection) that make up the essence of the control system. Integration Support activities support the stakeholders and users, and the Control System Infrastructure provides the required underlying infrastructure for operating the control system and the facility. The current state of the control system project and key decisions are presented as well as immediate challenges and proposed solutions.
+
+ 
+
+
+
+
+
+
+Slides MOCOAAB04 [11.760 MB]
+            
+ 
+
+
+ 
+
+
+
+MOCOAAB05
+Keck Telescope Control System Upgrade Project Status
+15
+
+
+ 
+
+J.M. Johnson, J.A. Mader, K.T. Tsubota
+                       W.M. Keck Observatory, Kamuela, USA
+
+ 
+
+
+ 
+
+The Keck telescopes, located at one of the world’s premier sites for astronomy, were the first of a new generation of very large ground-based optical/infrared telescopes with the first Keck telescope beginning science operations in May of 1993, and the second in October of 1996. The components of the telescopes and control systems are more than 15 years old. The upgrade to the control systems of the telescopes consists of mechanical, electrical, software and network components with the overall goals of improving performance, increasing reliability, addressing serious obsolescence issues and providing a knowledge refresh. The telescope encoder systems will be replaced to fully meet demanding science requirements and electronics will be upgraded to meet the needs of modern instrumentation. The upgrade will remain backwards compatible with remaining Observatory subsystems to allow for a phased migration to the new system. This paper describes where Keck is in the development processes, key decisions that have been made, covers successes and challenges to date and presents an overview of future plans.
+
+ 
+
+
+
+
+
+
+Slides MOCOAAB05 [2.172 MB]
+            
+ 
+
+
+ 
+
+
+
+MOCOAAB06
+MeerKAT Control and Monitoring - Design Concepts and Status
+19
+
+
+ 
+
+L. Van den Heever
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: National Research Foundation of South Africa
+This presentation gives a status update of the MeerKAT Control & Monitoring subsystem focusing on the development philosophy, design concepts, technologies and key design decisions. The presentation will be supplemented by a poster (if accepted) with **live demonstation** of the current KAT-7 Control&Monitoring system. The vision for MeerKAT includes to a) use Offset Gregorian antennas in a radio telescope array combined with optimized receiver technology in order to achieve superior imaging and maximum sensitivity, b) be the most sensitive instrument in the world in L-band, c) be an instrument that will be considered the benchmark for performance and reliability by the scientific community at large, and d) be a true precursor for the SKA that will be integrated into the SKA-mid dish array. The 7-dish engineering prototype (KAT-7) for MeerKAT is already producing exciting science and is being operated 24x7. The first MeerKAT antenna will be on site by the end of this year and the first two Receptors will be fully integrated and ready for testing by April 2014. By December 2016 hardware for all 64 receptors will be installed and accepted and 32 antennas will be fully commissioned.
+
+ 
+
+
+
+
+
+
+Slides MOCOAAB06 [1.680 MB]
+            
+ 
+
+
+ 
+
+
+
+MOCOAAB07
+Real Time Control for KAGAR, 3km Cryogenic Gravitational Wave Detector in Japan
+23
+
+
+ 
+
+O. Miyakawa
+                       ICRR, Chiba, Japan
+
+ 
+
+
+ 
+
+KAGRA is a 3km cryogenic interferometer for gravitational wave detection located underground Kamioka-mine in Japan. The next generation large scale interferometric gravitational wave detectors require very complicated control topologies for the optical path length between mirrors, and very low noise feedback controls in order to detect an extremely tiny motion between mirrors excited by gravitational waves. The interferometer consists of a Michelson interferometer with Fabry-Perot cavities on its arms, and other two mirrors as, so called, a power recycling and a resonant sideband extraction technique. In total, 5 degrees of freedom for length between 7 mirrors should be controlled at a time, and the control must be continuously kept during the observation of gravitational waves. We are currently developing a real time controls system using computers for KAGRA. In this talk, we report how the control system works.
+
+ 
+
+
+
+
+
+
+Slides MOCOAAB07 [8.536 MB]
+            
+ 
+
+
+ 
+
+
+
+

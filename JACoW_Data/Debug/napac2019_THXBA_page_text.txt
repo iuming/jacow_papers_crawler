@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2019 - Table of Session: THXBA (Thursday Parallel Session 1)
+
+
+THXBA —  Thursday Parallel Session 1   (05-Sep-19   08:30—10:00)
+Chair: M. Borland, ANL, Lemont, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+THXBA1
+Machine Learning Demonstrations on Accelerators
+ 
+
+
+ 
+
+A.L. Edelen
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Machine learning has been used in various ways to improve acclerator operation including the development of surrogate models to improve real-time modeling, advanced optimization of accelerator operating configurations such as quadrupole or undulator strengths, development of virtual diagnostics to ’measure’ accelerator and beam parameters, and prognostics to improve operating time.
+
+ 
+
+
+
+
+
+
+Slides THXBA1 [31.075 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXBA2
+Analysis of Beam Position Monitor Requirements with Bayesian Gaussian Regression
+912
+
+
+WEPLM09
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Y. Li, R.S. Rainer
+                       BNL, Upton, New York, USA
+W.X. Cheng
+                       ANL, Lemont, Illinois, USA
+Y. Hao
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This research is supported by U.S. Department of Energy under Contract No. DE-SC0012704, and the NSF under Cooperative Agreement PHY-1102511.
+With a Bayesian Gaussian regression approach, a systematic method for analyzing a storage ring’s beam position monitor (BPM) system requirements has been developed. The ultimate performance of a ring-based accelerator, based on brightness or luminosity, is determined not only by global parameters, but also by local beam properties at some particular points of interest (POI). BPMs used for monitoring the beam properties, however, can not be located at these points. Therefore, the underlying and fundamental purpose of a BPM system is to predict whether the beam properties at POIs reach their desired values. The prediction process is a regression problem with BPM readings as the training data, but containing random noise. A Bayesian Gaussian regression approach can determine the probability distribution of the predictive errors, which can be used to conversely analyze the BPM system requirements. This approach is demonstrated by using turn-by-turn data to reconstruct a linear optics model, and predict the brightness degradation for a ring-based light source. The quality of BPMs was found to be more important than their quantity in mitigating predictive errors.
+
+ 
+
+
+
+
+
+
+Slides THXBA2 [3.205 MB]
+        
+ 
+
+
+
+
+
+
+Poster THXBA2 [7.083 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-THXBA2
+
+ 
+
+
+About •
+paper received ※ 16 August 2019       paper accepted ※ 04 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXBA3
+Adaptive Machine Learning and Feedback Control for Automatic Particle Accelerator Tuning
+916
+
+
+ 
+
+A. Scheinker
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Free electron lasers (FEL) and plasma wakefield accelerators (PWA) are creating more and more complicated electron bunch configurations, including multi-color modes for FELs such as LCLS and LCLS-II and custom tailored bunch current profiles for PWAs such as FACET-II. These accelerators are also producing shorter and higher intensity bunches than before and require an ability to quickly switch between many different users with various specific phase space requirements. For some very exotic setups it can take hours of tuning to provide the beams that users require. In this work, we present results adaptive machine learning and model independent feedback techniques and their application in both the LCLS and European XFEL to 1) control electron bunch phase space to create desired current profiles and energy spreads by tuning FEL components automatically, 2) maximize the average pulse output energy of FELs by automatically tuning over 100 components simultaneously, 3) preliminary results on utilizing these techniques for non-invasive electron bunch longitudinal phase space diagnostics at PWAs.
+
+ 
+
+
+
+
+
+
+Slides THXBA3 [8.110 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-THXBA3
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 15 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXBA4
+Update on BPM Signal Processing Circuitry Development at AWA
+919
+
+
+ 
+
+W. Liu, M.E. Conde, D.S. Doran, G. Ha, J.G. Power, J.H. Shao, C. Whiteford, E.E. Wisniewski
+                       ANL, Lemont, Illinois, USA
+C. Jing
+                       Euclid Beamlabs LLC, Bolingbrook, USA
+
+ 
+
+
+ 
+
+Funding: The US Department of Energy, Office of Science
+Beam position monitor (BPM) is widely used in accelerator facilities worldwide. It is a device which is capable of providing, non-destructively, accurate beam centroid and charge information of a passing charged beam. A typical BPM system contains customized hardware and specialized processing electronics. The cost is often too high for small facilities to afford them. As a small facility, Argonne Wakefield Accelerator (AWA) decided to develop a solution with high cost-efficiency to fit in its budget. Some details about the development are presented in this paper.
+
+ 
+
+
+
+
+
+
+Slides THXBA4 [8.544 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-THXBA4
+
+ 
+
+
+About •
+paper received ※ 29 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THXBA5
+Electro-Optic Sampling Beam Position Monitor
+ 
+
+
+ 
+
+K.D. Hunt-Stone, R.A. Ariniello, J.R. Cary, C.E. Doss
+                       CIPS, Boulder, Colorado, USA
+J.R. Cary
+                       Tech-X, Boulder, Colorado, USA
+M.D. Litos
+                       Colorado University at Boulder, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported in part by the U.S. D.O.E. grant number DE-SC0017906.
+Electron beam-driven plasma wakefield accelerator (PWFA) experiments at SLAC’s FACET-II research facility will require diagnostics that can measure the transverse position of both the drive beam and the witness beam in a single shot. This is a challenge for ordinary beam position monitors due to the close temporal spacing between the two bunches, usually on the order of 300 fs. Here we will discuss the concept for an electro-optic sampling beam position monitor (EOS-BPM) that can measure the transverse position of the individual bunches with roughly 10 µm spatial resolution, and 50 fs temporal resolution. The EOS-BPM has the advantage of being a non-destructive, single shot measurement. It uses two EO crystals on either side of the beamline. The half-cycle THz fields of the electron beams induce a birefringence in the crystals which are probed by a chirped laser pulse. The longitudinal current profile is spectrally encoded into the probe laser, while the transverse position for each bunch is encoded in the relative strength of the signal in either crystal. We present simulations demonstrating the effectiveness of an EOS-BPM in the context of PWFA experiments planned for FACET-II.
+
+ 
+
+
+
+
+
+
+Slides THXBA5 [23.339 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

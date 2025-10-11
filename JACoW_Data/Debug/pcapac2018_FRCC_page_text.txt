@@ -1,0 +1,264 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2018 - Table of Session: FRCC (Contributed Oral: Hardware Technologies 3)
+
+
+FRCC —  Contributed Oral: Hardware Technologies 3   (19-Oct-18   13:30—14:30)
+Chair: Y.B. Yan, SSRF, Shanghai, People’s Republic of China
+
+
+Paper
+Title
+Page
+
+
+
+FRCC1
+FPGA-based Image Processing System for Electron Beam Welding Facility
+239
+
+
+ 
+
+M. M. Sizov, K.A. Blokhina, A.M. Medvedev, A.A. Starostenko
+                       BINP SB RAS, Novosibirsk, Russia
+A.M. Medvedev
+                       NSU, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+In this paper image processing system for secondary emission of electrons in electron beam welding facility is described. System runs on Intel Field Programmable Gate Array (FPGA) for digital processing. Time-sensitive algorithms are designed in VHDL and dataflow DSL Caph. Seam finder algorithm and data filters are written in Caph. The system is designed to filter high-frequency noise and estimate seam location for its automatic correction within 2 us. General algorithms for hardware control and data visualization are described with the interface to the FPGA-based part.
+
+ 
+
+
+
+
+
+
+Slides FRCC1 [2.753 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2018-FRCC1
+
+ 
+
+
+About •
+paper received ※ 10 October 2018       paper accepted ※ 16 October 2018        issue date ※ 21 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRCC2
+Continuous Beam Scanning Intensity Control of a Medical Proton Accelerator Using a Simulink Generated FPGA Gain Scheduled Controller
+242
+
+
+ 
+
+P. Fernandez Carmona, C. Bula, M. Eichin, G. Klimpki, D. Meer, V. Minnig, S. Psoroulas, D.C. Weber
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+At the Centre for Proton Therapy at the Paul Scherrer Institut we treat cancer patients using a fixed beam line and two gantries. The latter use a step-and-shoot technique to deliver dose covering the treatment volume with a grid of weighted proton bunches. Dose delivery for tumours moving under respiration (e.g. lung) is however challenging and not routinely performed because of the interplay between target and beam motions. At the Gantry 2 unit, we are implementing a novel continuous beam modulation concept called line scanning, aiming at realizing a faster dose delivery to allow for effective organ motion mitigation techniques such as rescanning and gating. The current should stabilise within 100 us, which is tough due to the non-linearity of the system and latency of the monitors. In this work we implemented a gain scheduled controller and a predictor by modelling the accelerator in Simulink and developing a controller using the frequency domain robust method. We used Mathwork’s HDL Coder functionality to generate VHDL code that was implemented in an FPGA in the gantry control system. Latency, overshoot and dosimetric performance improved considerably compared to a classic PID.
+
+ 
+
+
+
+
+
+
+Slides FRCC2 [5.959 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2018-FRCC2
+
+ 
+
+
+About •
+paper received ※ 10 October 2018       paper accepted ※ 16 October 2018        issue date ※ 21 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRCC3
+CERN Supervision, Control and Data Acquisition System for Radiation and Environmental Protection
+248
+
+
+ 
+
+A. Ledeul, A. Savulescu, G. Segurapresenter, B. Styczen, D. Vazquez Rivera
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The CERN Health, Safety and Environment Unit is mandated to provide a Radiation and Environment Supervision, Control and Data Acquisition system for all CERN accelerators, experiments as well as the environment. The operation and maintenance of the previous CERN radiation and environment supervisory systems showed some limitations in terms of flexibility and scalability. In order to face the increasing demand for radiation protection and continuously assess both conventional and radiological impacts on the environment, CERN developed and deployed a new supervisory system, called REMUS - Radiation and Environment Monitoring Unified Supervision. REMUS design and development focused on these desired features. REMUS interfaces with 75 device types, providing about 3,000 measurement channels (approximately 600, 000 tags) at the time of writing. This paper describes the architecture of the system, as well as the innovative design that was adopted in order to face the challenges of heterogeneous equipment interfacing, diversity of end users and continuous operation.
+
+ 
+
+
+
+
+
+
+Slides FRCC3 [3.230 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2018-FRCC3
+
+ 
+
+
+About •
+paper received ※ 09 October 2018       paper accepted ※ 17 October 2018        issue date ※ 21 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRCC4
+Maintenance and Optimization of Insertion Devices at NSLS-II Using Motion Controls
+253
+
+
+ 
+
+C.A. Guerrero, J. Escallier, R.I. Farnsworth, D.A. Hidas, Y. Tian
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: This project is funded by Brookhaven Science Associates. BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University.
+The purpose of this project is to demonstrate the performance improvements on insertion devices by upgrading the motion control software. The insertion devices installed inside the NSLS-II storage ring are currently operating at micron precision with slow speeds, which can limit the scope of preferences for user experimentation. We can manipulate the devices with adaptive tuning algorithms to compensate for varying electromagnetic forces throughout motion scans. By correcting positional feedback with encoder compensation and redefining motion programs, we can safely increase the speed to run the same motion trajectories in less time.
+
+ 
+
+
+
+
+
+
+Slides FRCC4 [3.876 MB]
+        
+ 
+
+
+
+
+
+
+Poster FRCC4 [4.979 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2018-FRCC4
+
+ 
+
+
+About •
+paper received ※ 10 October 2018       paper accepted ※ 17 October 2018        issue date ※ 21 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

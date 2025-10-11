@@ -1,0 +1,224 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEDSI2020 - Table of Session: THOB (Thursday Contributed Oral Session B)
+
+
+THOB —  Thursday Contributed Oral Session B   (29-Jul-21   11:15—12:15)
+Chair: K.J. Suthar, ANL, Lemont, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+THOB01
+Thermal Contact Conductance in a Typical Silicon Crystal Assembly Found in Particle Accelerators
+353
+
+
+ 
+
+P. Sanchez Navarro
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Every mirror at Diamond Light Source (the UK’s Particle Accelerator) has been installed with the premise of clamping the cooling copper manifolds as lightly as possible to minimize distortion. The problem with this approach is that the Thermal Contact Conductance (TCC) depends on the applied pressure among other factors*. The assembly is usually a symmetric stack of Copper - Indium Foil - Silicon Crystal - Indium Foil - Copper. Variables that interest the most are those that are easily adjustable in the set-up assembly (number of clamps, pressure applied and cooling water flow rate) PT100 temperature sensors have been used along the surface of the crystal and along the surface of the copper manifolds. Custom PCB units have been created for this project to act as a mean of collecting data and Matlab has been used to plot the temperature measurements vs. time. Another challenge is the creation of an accurate model in Ansys that matches reality up to a good compromise where the data that is being recorded from the sensors matches Ansys results within reason.
+*Gilmore DG. Spacecraft thermal control handbook. Volume I, Volume I, [Internet]. 2002. Available from: http://app.knovel.com/hotlink/toc/id:kpSTCHVFT2/spacecraft-thermal-control
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides THOB01 [11.322 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-THOB01
+
+ 
+
+
+About •
+paper received ※ 20 July 2021       paper accepted ※ 13 October 2021        issue date ※ 06 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOB02
+Heat Load Simulation of Optic Materials at European XFEL
+357
+
+
+ 
+
+F. Yang, D. La Civita, H. Sinn, M. Vannoni
+                       EuXFEL, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL GmbH, located in Hamburg area in Germany, is the X-ray free electron laser light source which has been in the operation since 2017. It is designed to provide users high intensity X-ray beam with 27000 pulses/s repetition rate in the photon energy range from 0.5 to 25 keV*. In the beam transport system, the optic components which have direct contact with the beam, e.g. mirror, absorber and beam shutter, etc., could get up to 10 kW heat load on a sub-mm spot in 0.6 ms. Therefore, the thermo-mechanical performance of these optic components is playing an important role in the safety operation of the facility, restricting the maximum allowed beam power delivered to each experiment station. In this contribution, using finite element simulation tools, a parametric study about coupled thermo-mechanical behavior of some general used materials, e.g. CVD diamond, B4C, silicon, etc. is presented. Based on the design of several devices which are already in operation at European XFEL**, an initial damage threshold for these materials is established, with respect to the corresponding beam parameters. Furthermore, the relevant analytical and numerical solutions are discussed and compared, taking the material and geometrical nonlinearities into account. These simulation results can be referred as design and operation benchmark for the optic elements in the beamlines.
+*Altarelli, M. et al., The XFEL Technical Design Report, 2006.  **Tschentscher, Th. et al., Photon Beam Transport and Scientific Instruments at the European XFEL, Applied Sciences 7(6):592, 2017. 
+
+ 
+
+
+
+
+
+
+Slides THOB02 [1.911 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-THOB02
+
+ 
+
+
+About •
+paper received ※ 21 July 2021       paper accepted ※ 28 September 2021        issue date ※ 29 October 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOB03
+Innovative and Biologically Inspired Petra IV Girder Design
+360
+
+
+ 
+
+S. Andresen
+                       Alfred-Wegener-Institut, Bremerhaven, Germany
+N. Meyners, D. Thoden
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: Deutsches Elektronen Synchrotron (DESY), a research centre of the Helmholtz Association - Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research
+DESY (Deutsches Elektronen Synchrotron) is currently expanding the PETRA III storage ring X-ray radiation source to a high-resolution 3D X-ray microscope providing all length scales from the atom to millimeters. This PETRA IV project involves an optimization of the girder magnet assemblies to reduce the impact of ambient vibrations on the particle beam. For this purpose, an innovative and biologically inspired girder structure has been developed. Beforehand, a large parametric study analyzed the impact of different loading and boundary conditions on the eigenfrequencies of a magnet-girder assembly. Subsequently, the girder design process was generated, which combined topology optimizations with biologically inspired structures (e.g., complex Voronoi combs, hierarchical structures, and smooth connections) and cross section optimizations using genetic algorithms to obtain a girder magnet assembly with high eigenfrequencies, a high stiffness, and reduced weight. The girder was successfully manufactured from gray cast iron and first vibration experiments have been conducted to validate the simulations.
+
+ 
+
+
+
+
+
+
+Slides THOB03 [4.169 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-THOB03
+
+ 
+
+
+About •
+paper received ※ 28 July 2021       paper accepted ※ 28 September 2021        issue date ※ 08 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

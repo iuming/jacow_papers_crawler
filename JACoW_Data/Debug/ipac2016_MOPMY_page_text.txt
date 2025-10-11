@@ -1,0 +1,1058 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2016 - Table of Session: MOPMY (Poster Session)
+
+
+MOPMY —  Poster Session   (09-May-16   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPMY001
+Beam Dynamics Analysis for the Ultra-fast Kicker in Circular Cooler Ring of JLEIC
+510
+
+
+ 
+
+Y.L. Huang
+                       IMP/CAS, Lanzhou, People's Republic of China
+R.A. Rimmerpresenter, H. Wang, S. Wang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+An ultra-fast kicker system consist of four quarter wavelength resonator based deflecting cavities was developed that simultaneously resonates at 10 subharmonic modes of the 476.3MHz bunch repetition frequency, thus every 10th bunch in the bunch train will experience a transverse kick while all the other bunches are undisturbed. This fast kicker is developed for the Energy Recovery Linac (ERL) based electron Circular Cooler Ring (CCR) in the proposed Jefferson Lab Electron Ion Collider (JLEIC, previously MEIC). The electron bunches can be reused 10-30 turns thus the beam current in the ERL can be reduced to 1/10 - 1/30 (150mA - 50mA) of the cooling bunch current (1.5A). In this paper, several methods to synthesis such a kicker waveform will be discussed with the comparison of beam dynamics tracking in Elegant.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY001
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY002
+Simulation and Experimental Studies of a 2.45GHz Magnetron Source for an SRF Cavity with Field Amplitude and Phase Controls
+514
+
+
+ 
+
+H. Wang, T. E. Plawski, R.A. Rimmerpresenter
+                       JLab, Newport News, Virginia, USA
+A. Dudas, M.L. Neubauer
+                       Muons, Inc, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177 and NP STTR Grant DE-SC0013203.
+Phase lock to an SRF cavity by using injection signal through output waveguide of a magnetron has been demonstrated [1, 3]. Amplitude control using magnetic field trimming and anode voltage modulation has been studied using MATLAB/Simulink simulations [2]. Based on these, we are planning to use an FPGA based digital LLRF system, which allows applying various types of control algorithms in order to achieve the required accelerating field stability. Since the 1497 MHz magnetron is still in the design stage, the proof of principle measurements of a commercial 2450 MHz magnetron are carried out to characterize the anode I-V curve, output power (the tube electronic efficiency), frequency dependence on the anode current (frequency pushing) and the Rieke diagram (frequency pulling by the reactive load). Based on early Simulink simulation, experimental data and extension of the Adler equation governing injection phase stability by Chen's model, the specification of the new LLRF control chassis for both 2450 and 1497MHz systems are presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY003
+Transient Beam Loading Effects in RF Systems in JLEIC
+518
+
+
+ 
+
+H. Wang, J. Guo, R.A. Rimmerpresenter, S. Wang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+The pulsed electron bunch trains generated from the Continuous Electron Beam Accelerator Facility (CEBAF) linac to inject into the proposed Jefferson Lab Electron Ion Collider (JLEIC) e-ring will produce transient beam loading effects in the Superconducting Radio Frequency (SRF) systems that, if not mitigated, could cause unacceptably large beam energy deviation in the injection capture, exceed the energy acceptance of CEBAF's recirculating arc. In the electron storage ring, the beam abort or ion clearing gaps or uneven bucket filling can cause large beam phase transients in the (S)RF cavity control systems and even beam loss due to Robinson instability. We have first analyzed the beam stability criteria in steady state and estimate the transient effect in Feedforward and Feedback RF controls. Initial analytical models for these effects are shown for the design of the JLEIC e-ring from 3GeV to 12GeV.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY003
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY005
+Study of Pretuning and High Power Test of DTL Iris Waveguide Couplers Using a Single Cell Cavity
+522
+
+
+ 
+
+S.W. Lee, M.S. Champion, Y.W. Kang
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by SNS through UT-Battelle, LLC, under contract DE-AC05-00OR22725 for the U.S.DOE.
+Six drift tube linac (DTL) cavities have been operating successfully at the Spallation Neutron Source (SNS). Each cavity is fed by a tapered ridge waveguide iris input coupler and a waveguide ceramic disk window. The original couplers and cavities have been in service for more than a decade. Design optimization and tuning of the couplers were initially performed prior to installation and commissioning of the cavities. Since each DTL cavity is unique, expensive, and fully utilized for neutron production, none of the cavity structure is available as a test cavity or a spare. Maintaining spares for operations and for future system upgrade, test setup of the iris couplers for precision tuning is needed. Ideally a smaller cavity structure may be used for pretuning and RF conditioning of the iris couplers as a test cavity or a bridge waveguide. In this paper, study of using a single cell cavity for the iris tuning and conditioning is presented along with the 3D simulation results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY005
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY007
+Mechanical Design and 3-D Coupled RF, Thermal-Structural Analysis of Normal Conducting 704 MHz and 2.1 GHz Cavities for LEReC Linac
+525
+
+
+ 
+
+J.C. Brutus, S.A. Belomestnykh, I. Ben-Zvi, M. Blaskiewicz, J.M. Brennan, A.V. Fedotov, M.C. Grau, C. Pai, L. Snydstrup, J.E. Tuozzolo, B. P. Xiao, T. Xin, W. Xu, A. Zaltsman
+                       BNL, Upton, Long Island, New York, USA
+V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work is supported by Brookhaven Science Associates, LLC under contract No. DE-AC02-98CH10886 with the US DOE.
+Two normal conducting cavities operating at 704 MHz and 2.1 GHz will be used for the Low Energy RHIC electron Cooling (LEReC) under development at BNL to improve RHIC luminosity for heavy ion beam energies below 10 GeV/nucleon. The single cell 704 MHz cavity and the 3-cell 2.1 GHz third harmonic cavity will be used in LEReC to correct the energy spread introduced in the SRF cavity. The successful operation of normal RF cavities has to satisfy both RF and mechanical requirements. 3-D coupled RF-thermal-structural analysis has been performed on the cavities to confirm the structural stability and to minimize the frequency shift resulting from thermal and structural expansion. In this paper, we will present an overview of the mechanical design, results from the RF-thermal-mechanical analysis, progress on the fabrication and schedule for the normal conducting RF cavities for LEReC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY007
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY009
+HOM Consideration of 704 MHz and 2.1 GHz Cavities for LEReC Linac
+528
+
+
+ 
+
+B. P. Xiao, I. Ben-Zvi, M. Blaskiewicz, J.M. Brennan, J.C. Brutus, A.V. Fedotov, H. Hahn, G.T. McIntyre, C. Pai, K.S. Smith, J.E. Tuozzolo, Q. Wu, T. Xin, W. Xupresenter, A. Zaltsman
+                       BNL, Upton, Long Island, New York, USA
+S.A. Belomestnykh
+                       Fermilab, Batavia, Illinois, USA
+S.A. Belomestnykh, I. Ben-Zvi
+                       Stony Brook University, Stony Brook, USA
+V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under contract No. DE-AC02-98CH10886 and by National Energy Research Scientific Computing Center under contract No. DE-AC02-05CH11231 by US DOE.
+To improve RHIC luminosity for heavy ion beam energies below 10 GeV/nucleon, the Low Energy RHIC electron Cooler (LEReC) is currently under development at BNL. The Linac of LEReC is designed to deliver 2 MV to 5 MV electron beam, with rms dp/p less than 5·10-4. The HOM in this Linac is carefully studied to ensure this specification.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY009
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY010
+RF Design of Normal Conducting 704 MHz and 2.1 GHz Cavities for LEReC Linac
+532
+
+
+ 
+
+B. P. Xiao, I. Ben-Zvi, M. Blaskiewicz, J.M. Brennan, J.C. Brutus, A.V. Fedotov, H. Hahn, G.T. McIntyre, C. Pai, K.S. Smith, J.E. Tuozzolo, Q. Wu, T. Xin, W. Xupresenter, A. Zaltsman
+                       BNL, Upton, Long Island, New York, USA
+S.A. Belomestnykh
+                       Fermilab, Batavia, Illinois, USA
+S.A. Belomestnykh, I. Ben-Zvi, T. Xin
+                       Stony Brook University, Stony Brook, USA
+V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under contract No. DE-AC02-98CH10886 and by National Energy Research Scientific Computing Center under contract No. DE-AC02-05CH11231 by US DOE.
+To improve RHIC luminosity for heavy ion beam energies below 10 GeV/nucleon, the Low Energy RHIC electron Cooler (LEReC) is currently under development at BNL. Two normal conducting cavities, a single cell 704 MHz cavity and a 3 cell 2.1 GHz third harmonic cavity, will be used in LEReC for energy spread correction. Currently these two cavities are under fabrication. In this paper we report the RF design of these two cavities.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY011
+LLRF System Performance during SC Cavity Conditioning at STF KEK
+536
+
+
+ 
+
+S.B. Wibowo
+                       Sokendai, Ibaraki, Japan
+T. Matsumoto, S. Michizono, T. Miura, F. Qiupresenter
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+High Energy Accelerator Research Organization (KEK) is now developing a digital low-level radio frequency (LLRF) control system based on digital feedback control at superconducting RF test facility (STF). The goal is to achieve the amplitude and phase stability of the accelerating field in the superconducting accelerator. Testing and evaluation of the digital LLRF system were conducted during the cavity conditioning performed between October and December 2015 to determine the level of performance. To enable cavity signal monitoring, direct sampling system was constructed and evaluated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY013
+Design Study of Collector for CEPC 650 MHz  Klystron
+540
+
+
+ 
+
+S.C. Wang, D.D. Dong, S. Fukuda, G. Pei, O. Xiaopresenter, .. Zaib-un-Nisa, Z.S. Zhou
+                       IHEP, Beijing, People's Republic of China
+S. Fukuda
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+This paper presents the design and simulation of collector for CEPC 650 MHz high-power CW klystron. Power dissipation in collector is optimised by universal beam spread curve using EGUN code, and beam trajectory in collector is verified by Magic code. The thermal analysis is done by ANSYS-CFX, and groove number and water flow rate are optimized by fluid-solid coupled heat transfer simulation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY013
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY014
+Design Study of RF Section and Cavities for Cepc 650 MHz Klystron
+543
+
+
+ 
+
+O. Xiao
+                       Institute of High Energy Physics (IHEP), People's Republic of China
+D.D. Dong, S. Fukuda, Z.J. Lu, G. Pei, S.C. Wang, .. Zaib-un-Nisa, Z.S. Zhou
+                       IHEP, Beijing, People's Republic of China
+S. Fukuda
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+An 800 kW CW klystron operating at 650 MHz is de-veloped for CEPC at Institute of High Energy Physics in China. The conceptual design has been finished and the main parameters are presented in this paper. A 1D large signal disk model code, AJDISK, has been used to design and optimize klystron RF section parameters. In addition, the RF cavities have been designed using SUPERFISH, HFSS and CST.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY014
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY015
+Design Study of Electron Gun for CEPC 650 MHz Klystron
+546
+
+
+SUPSS097
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+.. Zaib-un-Nisa, D.D. Dong, Z.J. Lu, G. Pei, S.C. Wang, O. Xiao, Z.S. Zhou
+                       IHEP, People's Republic of China
+S. Fukuda
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+This paper presents the design and simulation of an electron gun for 800 kW CW klystron of which frequency is 650 MHz for CEPC project. An electron gun with a modulating anode is designed using DGUN software. The uniform beam trajectories, with a beam perveance of 0.64μA/V 3/2 are simulated. We employed a Ba-dispenser cathode of radius 35 mm with Φ10 hole at the center and obtained a current density on cathode less than 0.45 A/cm2. The beam trajectories were also simulated over whole tube length with a magnetic field of 207 Gauss. Expecting functions using the modulating anode gun are also described. Proposed beam tester and whole CEPC klystron layout are also shown in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY016
+Quadrature Directional Coupling Method for Precise RF Power Measurement
+549
+
+
+SUPSS096
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+B. Du, G. Huang, L. Lin, Y.T. Liu, Z. Zhao
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+The directional coupler is used in the RF transmission and distribution system of accelerator, to measure the forward and backward power. Due to the finite directional isolation of the coupler (20-30dB normally), the crosstalk exists between the bi-directional coupling output signals. For the typical isolation of 26dB, if the bi-directional crosstalk signals are in- or anti- phase, the error of input or reflected power measurement is 10% in case of total reflection, whilst the error of reflected power measurement is 100% in case of VSWR 1.1. A method of quadrature directional coupling measurement is developed to solve the isolation problem. A pair of directional couplers with 90° phase difference are employed to measure the RF power. The influence of the directional crosstalk would be reduced significantly by processing the measurement data. The prototype of quadrature directional couplers is constructed to verify this method. The results showed that the measurement accuracy of quadrature coupler pair after data process is better than 2% for forward measurement, even if the error of single coupler is over 6%. The paper also analyses the error caused by non-ideal quadrature.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY016
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY023
+High Power Test of the RF System for the KOMAC MEBT
+552
+
+
+ 
+
+S.G. Kim, Y.-S. Cho, H.S. Kim, H.-J. Kwon
+                       Korea Atomic Energy Research Institute (KAERI), Gyeongbuk, Republic of Korea
+Y.G. Song
+                       KAERI, Gyeongbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work has been supported through KOMAC (Korea Multi-purpose Accelerator Complex) operation fund of KAERI by MSIP (Ministry of Science, ICT and Future Planning)
+A 100 MeV proton linac of the Korea multi-purpose accelerator complex (KOMAC) has been operated for providing a proton beam to users. RF systems of two medium energy beam transports (MEBT) have been designed to improve a beam quality. An operating frequency of the MEBT RF system is 350 MHz, and the required RF power is 44 kW for MEBT-1 and 18 kW for MEBT-2. The RF duty is 9% (1.5 ms, 60 Hz), and an RF stability of ±1% in amplitude and ±1° in phase is required. The RF system includes a low-level RF (LLRF) control system, a solid state RF amplifier (SSPA) as a 60 kW SSPA for MEBT-1 and a 30 kW SSPA for MEBT-2, a coaxial circulator, and 3-1/8" coaxial line components. A RF power test to the MEBT has been performed with 4 kW SSPA before the full power operation. The configuration and high power test results of the MEBT RF system are presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY026
+Development of an X-Band Linearizer System for PAL-XFEL
+554
+
+
+ 
+
+H. Heo, J. Hu, H.-S. Kang, K.H. Kim, S.H. Kim, H.-S. Lee, B.G. Oh, S.S. Park, Y.J. Park, Y.J. Suh
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+We developed an X-band RF system for the linear bunch compression in the PAL-XFEL. We installed a SLAC X-band accelerating structure on a precise mover stage and applied RF power by using a SLAC XL-4 11.424 GHz klystron driven by an inverter charging type modulator. We are developing a solid state amplifier controlled by an X-band LLRF system instead of using a TWTA as a driving RF source for the klystron. We present and discuss the recent test results of the system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY026
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY027
+Preliminary Design of High-efficiency Klystron for Pohang Accelerator Laboratory (PAL)
+557
+
+
+ 
+
+S.J. Park, J.Y. Choi, Y.D. Joo, K.R. Kim, W. Namkung, C.D. Park
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+M.-H. Cho, J.H. Hwang, T. Seong
+                       POSTECH, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: Supported by the Ministry of Science, ICT and Future Planning of Korea.
+Klystrons for particle accelerators are typically designed to have narrow bandwidths with center frequencies ranging from several hundreds (e.g., 350) MHz to X-band (11.424 GHz). Output powers are from several tens of kW to ~1 MW for CW klystrons and ~100 MW for pulsed ones. The narrow-bandwidth requirement has enabled them to provide high gain (typically 40 - 50 dB) which greatly simplifies the RF drive system. Recently, especially for large-scale accelerator facilities, the klystron efficiency has become one of the most demanding issues. This is because electricity cost occupies a great portion of their operating budgets and the klystron efficiency is one of the important factors determining the electricity consumption of the whole accelerator system. In this regard, we have designed a high-efficiency klystron for use in the PLS-II and PAL XFEL at PAL. The basic scheme is to re-design the cavity system to include multi-cell output cavity. In this article, we report on our preliminary design work to determine major cavity parameters including cell frequencies, inter-cell distances, and coupling to external circuits (coupling beta).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY027
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY030
+SOSDAQ - a Data Acquisition and Slow Control System for the Swiss Light Source 500 MHz 65 Kw Solid State Power Amplifier
+560
+
+
+ 
+
+M.A. Gaspar, T. Garvey
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The Paul Scherrer Institut has developed a compact 500 MHz - 65 kW solid state RF power amplifier intended for applications in booster and storage rings of modern synchrotron light sources. The solid state power amplifier is presently under evaluation in the booster ring of the Swiss Light Source (SLS). In order to achieve this high RF output power levels using the present state of the art solid state technology, a large number of power amplifier modules, each one including its own power amplifier module and a local monitoring and control, are combined, configuring a complete distributed system. In order to monitor and control this large distributed system, we developed a specific data acquisition, monitoring and control system, called SOSDAQ. This system offers flexibility for efficiency optimization, easy addition and replacement of components, easy configuration for different types of power and efficiency requirements, among other features. We will discuss about the control system architecture, the software and the hardware implementation, and the results obtained.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY031
+Development of a 500 MHz Solid-state RF Amplifier as a Combination of Ten Modules
+563
+
+
+ 
+
+T.-C. Yu, F.-Y. Chang, L.-H. Chang, M.H. Chang, L.J. Chen, F.-T. Chungpresenter, M.-C. Lin, Z.K. Liu, C.H. Lo, C.L. Tsai, M.H. Tsai, Ch. Wang, M.-S. Yeh
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The recent development of semiconductor technology has proved that a solid-state RF amplifier is an attractive alternative high-power RF source for numerous accelera-tor applications. Because of the great redundancy and reliability of solid-state amplifiers present in many facili-ties worldwide, the development of a kW-level RF power per module using compact planar baluns has also been undertaken in NSRRC. Ten amplifier modules are com-bined to achieve stable output power 8 kW as an initial conceptual realization of a basic power unit within a combined network. This article describes each portion of the amplifier with the experimental results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY031
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY032
+Design and Upgrade the Safety System for the SRF Electronic System at the Taiwan Photon Source
+567
+
+
+ 
+
+F.-T. Chung, F.-Y. Chang, L.-H. Chang, M.H. Chang, L.J. Chen, M.-C. Lin, Z.K. Liu, C.H. Lo, C.L. Tsai, M.H. Tsai, Ch. Wang, M.-S. Yeh, T.-C. Yu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+This paper presents some new designs and upgrades of a SRF interlock and electronic system. Based on the experience from Taiwan Light Source (TLS) that uses one Cornell-type superconducting cavity made by ACCEL in the storage-ring RF system [1], in the new TPS SRF system [3] home-made LLRF and SRF electronics [4] are constructed for two KEKB-type superconducting cavities [2] that are installed in the storage ring of circumference 518 m. For reliable operation of the TPS SRF system, enhanced safety functions of the system were added to improve the original SRF system in TLS. The improved functions can provide both the operators and the RF systems with a safer environment and clearer messages for trouble-shooting and malfunction status indications.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY032
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY033
+Effect of Bandwidth of Low Level Radio Frequency System on the Instability of an Electron Beam
+570
+
+
+ 
+
+Z.K. Liu, L.-H. Chang, M.H. Chang, L.J. Chen, PY. Chen, F.-T. Chungpresenter, M.-C. Lin, C.H. Lo, C.L. Tsai, M.H. Tsai, Ch. Wang, M.-S. Yeh, T.-C. Yu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The analog Low Level Radio Frequency (LLRF) system is used at Taiwan Photon Source (TPS) RF system. It is composed of three feedback loops to control the amplitude and phase of accelerating field and the frequency of RF cavity. Instability of electron beam and accelerating field due to the bandwidth of LLRF system were observed during the TPS commissioning. This effect was studied and the results will be presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY034
+The Distributed Bunch Amplifier
+573
+
+
+ 
+
+M.A. Franzi, A. Jensen, S.G. Tantawi, F. Toufexis, A.R. Vrielink
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The Distributed Bunch Amplifier (DBA) is a high efficiency RF source that utilizes a phase locked deflecting cavity and output circuit to produce a synchronous beam-wave interaction. The DBA improves on the design of previous embodiments of this technology, such as the Gyrocon*, by implementing a modern decoupled output circuit design and conical PPM beam focusing array in order to scale to higher frequencies and efficiency than previously demonstrated. Presented is a proof-of-concept S-band, 2.856 GHz, device operating with a 60 kV, 8 Amp, electron beam. Each stage of the three-cavity decoupled output circuit is optimized based on complex amplitude and shunt impedance to achieve an electronic efficiency of greater than 90%. Initial numerical analysis of this design indicates that an overall operating efficiency of greater than 70% is feasible. Detailed simulated results of the S-band model and designs to scale this technology to higher power and frequency will be discussed.
+* Budker, G. I., et al. "The Gyrocon: An Efficient Relativistic High Power VHF Generator." Part. Accel. 10 (1979): 41-59.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY034
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY035
+Theoretical Analysis and Simulation of a Compact Frequency Multiplier for High Power Millimeter and Terahertz Sources
+576
+
+
+SUPSS098
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A.R. Vrielink, S.G. Tantawi, F. Toufexis
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+As the demands on accelerating gradients and the temporal resolution of beam diagnostics and manipulation schemes grow, millimeter-wave and terahertz (THz) accelerator structures may present a natural solution. The recent advent of a radiofrequency undulator and the development of a 0.45 THz accelerator demonstrate growing interest in this frequency regime; however, growth in this area is limited by the lack of efficient, compact high power sources. We present a novel vacuum electronic device featuring an interaction between a radially bunched electron beam and azimuthally traveling waves. The use of an inward traveling radial sheet beam mitigates space charge effects at the low operating energy of 10-30 keV and allows for a high input beam current of approximately 0.5-10 A. Based on preliminary calculations, these devices could operate from 50 GHz to 250 GHz with tens of kiloWatts of output power, while the expected efficiency would scale from 60% at 80 GHz to 15% at 230 GHz. Here we present the underlying theory, possible structure design, and preliminary results from analytical calculations and simulation.
+Tantawi, S. et al. Phys. Rev. Lett. 112, 164802 (April, 2014) Nanni, E. et al. Nat. Commun. 6, 8486 (October, 2015)
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY035
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY036
+High-harmonic mm-Wave Frequency Multiplication using a Gyrocon-like Device
+579
+
+
+ 
+
+F. Toufexis, V.A. Dolgashev, M.V. Fazio, A. Jensen, S.G. Tantawi, A.R. Vrielinkpresenter
+                       SLAC, Menlo Park, California, USA
+P. Borchard
+                       Dymenso LLC, San Francisco, USA
+
+ 
+
+
+ 
+
+Funding: This project was funded by U.S. Department of Energy under Contract No. DE-AC02-76SF00515, and the National Science Foundation.
+Traditional linear interaction RF sources, such as Klystrons and Traveling Wave Tubes, fail to produce significant power levels at millimeter wavelengths. This is because their critical dimensions are small compared to the wavelength, and the output power scales as the square of the wavelength. We present a vacuum tube technology, where the device size is inherently larger than the operating wavelength. We designed a low–voltage mm–wave source, with an output interaction circuit based on a spherical sector cavity. This device was configured as a phased-locked frequency multiplier. We report the design and cold test results of a proof-of-principle fifth harmonic frequency multiplier with an output frequency of 57.12 GHz.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY036
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPMY037
+GaN Class-F Power Amplifier for Klystron Replacement
+583
+
+
+ 
+
+A.V. Smirnov
+                       RadiaBeam Systems, Santa Monica, California, USA
+R.B. Agustsson, S. Boucher, D.I. Gavryushkin, J.J. Hartzellpresenter, K.J. Hoyt, A.Y. Murokh, T.J. Villabona
+                       RadiaBeam, Santa Monica, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy (award No. DE-SC0013136)
+The vacuum-tube-based RF amplifiers are relatively inefficient and becoming obsolete as the RF world has been progressively converting to solid state technology. Currently, the JLAB upgrade program requires 340 amplifiers capable of 8 kW CW at 1497 MHz while operating at more than 55-60% efficiency to replace their klystrons. Here we explore the possibility of a klystron replacement employing high electron mobility packaged GaN transistors applied in an array of Class-F amplifiers. The inputs and outputs of the many modules needed to make a complete amplifier are connected via precise, in-phase, low-loss, broadband, combiners-dividers. We describe early prototypes of the amplifiers as well as the combiners-dividers and discuss the design features and challenges of such a scheme. This approach can be applied to other national facilities and also for replacement of the klystrons in Middle Energy Electron-Ion Collider which requires about 1.8 MW CW power in total to be produced at 952.6 MHz frequency including 2x12.5 kW power for "crabbing" and 0.53 MW for electron cooling.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-IPAC2016-MOPMY037
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

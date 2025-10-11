@@ -1,0 +1,2985 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2018 - Table of Session: WEPAL (MC6 Poster Session)
+
+
+WEPAL —  MC6 Poster Session   (02-May-18   09:00—12:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPAL001
+LLRF Control and Master Oscillator System for Damping Ring at SuperKEKB
+2137
+
+
+ 
+
+T. Kobayashi, K. Akai, A. Kabe, K. Nakanishi, M. Nishiwaki, J.-I. Odagiri
+                       KEK, Ibaraki, Japan
+H. Deguchi, K. Hayashi, J. Mizuno
+                       Mitsubishi Electric TOKKI Systems, Amagasaki, Hyogo, Japan
+K. Hirosawa
+                       Sokendai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+For SuperKEKB, new low level RF (LLRF) control systems has ben developed and they worked successfully in the first beam commissioning (Phase-1) of SuperKEKB, which was accomplished in 2016. Damping ring (DR) was newly constructed for positron beam injection, in order to make significantly emittance smaller for SuperKEKB. The beam commissioning of DR will be conducted in JFY2017 for the Phase-2 commissioning. Phase-2 is scheduled in the last quater of JFY2017. DR has an RF station, and two cavities (or three cavities in future) are driven by a klystron. New LLRF control system for DR (DR-LLRF) was also developed and installed. RF frequency of DR operation is common with the main storage rings (MR) of SuperKEKB. The good performance of DR-LLRF was demonstrated in test operation, and RF conditioning of the pair of two cavities was successfully completed in June 2017. This paper reports the detail of the performance results of DR-LLRF controls, and also the other some relevant issues in LLRF controls for DR, including the master oscillator system (synchronization with the injection linac), are introduced.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL001
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL002
+Improvement of Personnel and Machine Protection System in Superkekb Injector Linac
+2140
+
+
+ 
+
+I. Satake, H. Honma, A. Shirakawa, N. Toge
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Since summer of 2010, the radiation control area for the KEK electron positron injector linac had been split at the around 3 GeV point by a concrete wall into upstream and downstream parts with independent beam sources. This was so as to allow operation of the downstream part for beam injection into photon factory rings while construction and development of new electron guns proceed in the upstream part. In summer of 2017, this arrangement was revised and the entire injector linac was reconsolidated into a single radiation control area. This was in conjunction with the introduction of the 1.1 GeV positron damping ring for Phase-II operation of SuperKEKB and successful development of new electron RF guns in the far upstream part of the linac. Along with this reconsolidation, the personnel and machine protection system was modified and improved. Interlock signal lines for the damping ring and RF guns were added. The operation panel of the main console was modified accordingly. In addition, the screen displays of the interlock status were updated. In this paper we report on the renewed system of KEK injector linac in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL003
+Baseband Simulation Model of the Vector RF Voltage Control System for the J-PARC RCS
+2144
+
+
+ 
+
+F. Tamura, M. Nomura, T. Shimada, M. Yamamoto
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+M. Furusawa, K. Hara, K. Hasegawa, C. Ohmori, Y. Sugiyama, M. Yoshiipresenter
+                       KEK, Tokai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Vector rf voltage feedback control for the wideband magnetic alloy cavity of the J-PARC RCS is considered to be employed to compensate the heavy beam loading caused by high intensity proton beams. A prototype system of multiharmonic rf vector voltage control has been developed and is under testing. To characterize the system performance, full rf simulations could be performed by software like Simulink, while the software is proprietary and expensive. Also, it requires much computing power and time. We performed the simplified baseband simulations of the system in z-domain by using free software, Scilab and Python control library. It seems to be beneficial for searching the parameters that the baseband simulation can be performed quickly. In this presentation, we present the setup and results of the simulations. The simulations well reproduce the open and closed loop responses of the prototype system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL003
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL004
+The Algorithm Research of DBPM for HEPS
+2147
+
+
+ 
+
+F. Liu, J.S. Cao, Y.Y. Du, S.J. Wei
+                       IHEP, People's Republic of China
+
+ 
+
+
+ 
+
+The High Energy Photon Source (HEPS) is a 6-GeV, low-emittance, 1300m scale new generation photon source to be built in China [1]. As a key component, digital beam positon monitor (DBPM) needs to make the beam slow acquisition's resolution up to 0.1um. Because of the high requirements and large expenses, we designed our own DBPM system. In this paper, I will present the algorithm of our BPM. The algorithm is based on Discrete Fourier Transform (DFT) method and tested in BEPCII with using our own designed hardware. The Turn-by-Turn's resolution tested in BEPCII is 0.62um (STD value, 65080 counts, 1.2432MHz), the fast acquisition's resolution is 0.32um (STD value, 65080 counts, 10kHz), the slow acquisition's resolution is 0.18um (STD value, 65080 counts, 10Hz).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL004
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL005
+Beam Size Measurement and PSF Evaluate of KB Mirror Monitor at SSRF
+2151
+
+
+ 
+
+D.C. Zhu, J.S. Cao, Y.F. Sui, J.H. Yue
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Work supported by National Nature Science Foundation of China(11605213)
+A Kirkpatrick Baez mirror imaging system was designed and installed to measure the transverse beam size and emittance of SSRF storage ring. Two crossed cylindrical mirrors are used to image the dipole source point in the horizontal and vertical direction. Both mirrors could be moved in and out in order to interchangeable with an original X-ray pinhole system. Hard X-ray with peak energy of 20.5 keV was focused at the X-ray scintillator camera. Aberration and point spread function which would cause image blur were evaluated. System commissioning and optimization have been done. PSF measurement was acquired using beam based calibration scheme by varying the beam images with different quadrupole settings and fitting them with the corresponding theoretical beam sizes.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL005
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL006
+Experimental Study of a Differential Beam Intensity Monitoring for the CIADS LINAC
+2155
+
+
+ 
+
+Z.P. Xie, Y.K. Ding, J. Liang
+                       Hohai University, Nanjing, People's Republic of China
+Y. He, Z.J. Wangpresenter, J.X. Wu, Y. Zhang
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Work supported by the National Natural Science Foundation of China (Grant No. 91026001) and the Fundamental Research Funds for the Chinese Central Universities
+A BPM based beam loss monitoring scheme for the China initiative accelerator driven subcritical (CIADS) facility has been proposed for the MEBT section of its high power Linac. In this scheme, a differential beam monitoring algorithm is utilized that relies on beam intensity measurements using BPM electrodes. Discussions of the experimental results for the scheme are presented. Further experiments have been performed with some promising results. This paper describes the experimental results with some analyses on measurement errors of the system. The proposed physical design of this system is described and further development is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL006
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL008
+Low-level RF System for The Chinese ADS Front-end Demo Linac
+2159
+
+
+ 
+
+J.Y. Ma, Z. Gao, G. Huang, L.P. Sunpresenter
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+The Chinese ADS Front-end Demo Linac (FDL) is constructed to demonstrate the technology of superconducting linac with high proton beam loading of CW 10mA. The low-level RF (LLRF) control system for the ADS FDL is developed by IMP, and the cooperation with TRIUMF. In the normal conducting (NC) section, the normal RF feedback control loop is used. In order to stable the superconducting (SC) cavity with loaded high RF power, the self excited loop with phase locked mode was used on the SC linac. This paper introduces the LLRF control system for buncher, SC linac, and the structures of hardware and the functions of software of these LLRF systems. The operating status of the LLRF systems is also reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL008
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL010
+Review of the ELI-NP-GBS Low Level RF and Synchronization Systems
+2162
+
+
+ 
+
+L. Piersanti, D. Alesini, M. Bellaveglia, F. Cardelli, M. Diomedepresenter, A. Gallo, V. Martinelli
+                       INFN/LNF, Frascati (Roma), Italy
+B.B. Baricevic, R. Cerne, G. Jug
+                       I-Tech, Solkan, Slovenia
+M. Diomedepresenter
+                       Sapienza University of Rome, Rome, Italy
+P.N. Dominguez
+                       Menlo Systems GmbH, Martinsried, Germany
+
+ 
+
+
+ 
+
+ELI-NP is a linac based gamma-source in construction at Magurele (RO) by the European consortium EuroGammaS led by INFN. Photons with tunable energy and with intensity and brilliance well beyond the state of the art, will be produced by Compton back-scattering between a high quality electron beam (up to 740 MeV) and a 515 nm intense laser pulse. Production of very intense photon flux with narrow bandwidth requires multi-bunch operation at 100 Hz repetition rate. A total of 13 klystrons, 3 S-band (2856 MHz) and 10 C-band (5712 MHz) will power a total of 14 Travelling Wave accelerating sections (2 S-band and 12 C-band) plus 3 S-band Standing Wave cavities (a 1.6 cell RF gun and 2 RF deflectors). Each klystron is individually driven by a temperature stabilized LLRF module for a maximum flexibility in terms of accelerating gradient, arbitrary pulse shaping (e.g. to compensate beam loading effects in multi-bunch regime) and compensation of long-term thermal drifts. In this paper, the whole LLRF system architecture and bench test results, the RF reference generation and distribution together with an overview of the synchronization system will be described.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL011
+iPipe: An Innovative Fiber Optic Monitoring System for Beam Induced Heating on Accelerator Pipes
+2166
+
+
+ 
+
+F. Fienga, S. Buontempo, M.R. Masullo
+                       INFN-Napoli, Napoli, Italy
+A. Ball, N. Beni, B. Salvantpresenter, W. Zeuner
+                       CERN, Geneva, Switzerland
+G. Breglio, A. Irace
+                       University of Napoli Federico II, Napoli, Italy
+Z. Szillasi
+                       ATOMKI, Debrecen, Hungary
+V.G. Vaccaro
+                       Naples University Federico II and INFN, Napoli, Italy
+
+ 
+
+
+ 
+
+The iPipe project consists in the instrumentation, with Fiber Bragg Grating sensors (FBGs), of the beam pipe of the CMS experiment, which is part of the LHC. Being spectrally encoded, the FBGs are not sensitive to electromagnetic interference and broadband-radiation-induced losses. These characteristics allow to realize long distance punctual sensing systems, capable to operate in harsh environments like the underground experimental and accelerator facilities at CERN. The iPipe secures the measurement of any deformation induced on the central beam pipe by any motion in the CMS detector due to element displacement or to magnetic field induced deformations. Moreover, the iPipe FBG temperature sensors represent a unique solution to monitor the beam pipe thermal behavior during the various operational and maintenance phases. This paper reports the use of the iPipe to measure the beam induced heating on the CMS vacuum chamber throughout 2016 and 2017. A first comparison between the measurements and the heat load predicted from beam induced RF heating due to the coupling impedance of the CMS pipe is also reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL012
+Measurements with the ELI-NP Cavity Beam Position Monitor Read-out Electronics at FLASH
+2169
+
+
+ 
+
+G. Franzini, D. Pellegrini, M. Serio, A. Stella, A. Variola
+                       INFN/LNF, Frascati (Roma), Italy
+B.B. Baricevic, M. Cargnelutti
+                       I-Tech, Solkan, Slovenia
+D. Lipka
+                       DESY, Hamburg, Germany
+M. Marongiu
+                       INFN-Roma, Roma, Italy
+A. Mostacci
+                       Sapienza University of Rome, Rome, Italy
+
+ 
+
+
+ 
+
+The Extreme Light Infrastructure - Nuclear Physics Gamma Beam Source (ELI-NP GBS) will be installed and commissioned starting within the next year in Magurele, Romania. It will generate gamma beam through Compton back-scattering of a recirculated laser and a multi-bunch electron beam, produced by a 720 MeV LINAC. In order to obtain bunch by bunch position measurements, four cavity beam position monitors (cBPM) near the two interaction points are foreseen. Extensive tests on the cBPM read-out electronics, recently developed by Instrumentation Technologies and acquired for ELI-NP GBS, were performed in laboratory at INFN-LNF and at FLASH in DESY, during the user operation. In the latter case, three cBPMs installed along the LINAC, with similar features as the ones of ELI-NP GBS, were used as measuring devices and signal sources for the read-out electronics under test. We present here the measurements collected and the related analysis, with a particular focus on the beam position measurement resolution.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL012
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL013
+Design of the Diagnostic Stations for the ELI-NP Compton Gamma Source
+2173
+
+
+SUSPF103
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Marongiu
+                       INFN-Roma, Roma, Italy
+M. Castellano, E. Chiadroni, G. Di Pirro, G. Franzini, A. Giribono, V. Shpakov, A. Stella, A. Variola
+                       INFN/LNF, Frascati (Roma), Italy
+A. Cianchi
+                       Università di Roma II Tor Vergata, Roma, Italy
+A. Mostacci, L. Palumbo
+                       Sapienza University of Rome, Rome, Italy
+
+ 
+
+
+ 
+
+A high brightness electron Linac is being built in the Compton Gamma Source at the ELI Nuclear Physics facility in Romania. To achieve the design luminosity, a train of 32 bunches, 16 ns spaced, with a nominal charge of 250 pC will collide with the laser beam in the interaction point. Electron beam spot size is measured with optical transition radiation (OTR) profile monitors. Furthermore, OTR angular distribution strongly depends on beam energy. Since OTR screens are typically placed in several positions along the Linac to monitor beam envelope, one may perform a distributed energy measurement along the machine. This will be useful, for instance, during the commissioning phase of the GBS in order to verify the correct functionality of the C-Band accelerating structures, due to the fact that there are OTR screens after each accelerating module. This paper deals with the studies of different optic configurations to achieve the field of view, resolution and accuracy in order to measure the energy of the beam. Several configurations of the optical detection line will be studied with simulation tools (e.g. Zemax).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL013
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL014
+Non-Distructive 2-D Beam Profile Monitor Using Gas Sheet in J-PARC LINAC
+2177
+
+
+ 
+
+J. Kamiya, Y. Hikichi, M. Kinsho, A. Miura, N. Ogiwarapresenter
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+We have been developed a beam profile monitor using interaction between the beam and the gas molecules distributed in sheet shape*. Generated luminescence or ions by passing the beam through the gas sheet has the information of cross-section shape of the beam. The gas sheet beam monitor will become a useful tool to measure the profile of high power beams because it has no breakable element such as wires and a 2-D beam profile at a certain position of beam line can be immediately obtained by just injecting the gas. Previously, the development of the gas sheet generator and successful demonstration of the beam profile measurement were reported. This time, we applied a gas sheet monitor to J-PARC LINAC, where the negative hydrogen atoms (H−) are accelerated to the energy of 400 MeV in the normal operation. Most challenging factor was the development of the gas sheet monitor system, which generates the enough dense gas sheet to detect the clear image of the beam profile without harmful effect on the ultra-high vacuum in the beam line. We will report the gas sheet beam monitor system for J-PARC LINAC and the results of the first measurement of the beam profile.
+* N. Ogiwara, et al., Proceedings of IPAC2016, p.2102.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL014
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL015
+Improvement of Motor Control System in J-PARC Linac and RCS
+2180
+
+
+ 
+
+H. Takahashi, A. Miurapresenter, Y. Sawabe, M. Yoshimoto
+                       JAEA/J-PARC, Tokai-mura, Japan
+M. Kawase, T. Suzuki
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+
+ 
+
+
+ 
+
+In J-PARC, at the Linac wire scanner, the RCS collimator, and etc., a motor control system by VME is constructed as a drive system of them. Since the malfunction of operation occurred in the control system of the RCS collimator drive system in 2016, we decided to improve the motor control system. As a cause of malfunction, it is considered that aging of control equipment is one of them as J-PARC has been operated for more than 10 years. However, the defect did not occur in the reproduction test. Therefore, it can be considered that a malfunction occurred in the VME control system due to abnormality of the semiconductor element due to radiation ray. Then, in the improved motor control system, PLC with FA* specification with high reliability was adopted as the control device. Also, in case of unexpected event that a malfunction occurred in the PLC, the emergency stop mechanism was developed to stop the drive system by the signal of the limit switch, and a system incorporating it was constructed. In this paper, we show the inference of cause of the malfunction and details the improved motor control system with high safety.
+* Factory Automation
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL016
+Tensile Fracture Test of Metallic Wire of Beam Profile Monitors
+2183
+
+
+ 
+
+A. Miura, Y. Kawane, K. Moriya
+                       JAEA/J-PARC, Tokai-mura, Japan
+S. Fukuoka
+                       Nihon Koshuha Co. Ltd, Yokohama, Japan
+K. Futatsukawa, T. Miyao
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+In order to mitigate the beam loss during a beam transportation in a high-brilliant accelerator facilities, wire-based profile monitors are used to measure by both transverse and longitudinal beam profiles using wire-scanner monitors (WSMs) and bunch-shape monitors (BSMs) for the tuning of quadrupole magnets and bunching cavities. Signals are come from the direct interaction between a metallic wire and beam. We have used the tungsten wire as a high melting-point material by estimation of heat loading during the impact of beam particles. In addition, a spring is applied for the relaxing a sag under wire's own weight. A tensile fracture test is conducted by supplying an electrical current as a simulated beam-heat loading. As the results, we obtained the relation between the thermal limit to break down and tension loading of tungsten wire.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL016
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL017
+Adaptive Feedforward Control Design Based on Simulink for  the J-PARC LINAC LLRF System
+2187
+
+
+ 
+
+S. Li
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+Z. Fang, Y. Fukui, K. Futatsukawa, F. Qiu
+                       KEK, Ibaraki, Japan
+S. Mizobata, Y. Sato, S. Shinozaki
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+In j-parc linac, for dealing with high beam loading effect, an adaptive feedforward control method which based on iterative learning control was put forward. At the same time, in order to verify its effectiveness before it is officially put into use, an llrf system simulation model was built in simulink, matlab. In this paper, the architecture of llrf system simulation model will be introduced. The result of iterative learning control (ILC) is summarized.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL017
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL018
+A Non-destructive 2D Profile Monitor Using a  Gas Sheet
+2190
+
+
+ 
+
+N. Ogiwara, Y. Namekawa
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+M. Fukuda, K. Hatanaka, T. Shima, K. Takahisa
+                       RCNP, Osaka, Japan
+Y. Hikichi, J. Kamiya, M. Kinsho
+                       JAEA/J-PARC, Tokai-mura, Japan
+Y. Hori
+                       KEK, Tokai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+We are developing a non-destructive and fast-response beam profile monitor using a dense gas sheet target. To make a gas sheet, we use the beaming effect, which is well known in vacuum science and technology. The emitted molecules through a long rectangular channel, which has a very small ratio of the gap to the width, are forced to concentrate on a plane. The gas sheet with a thickness of 1.5 mm and the density of 2×10-4 Pa was easily generated by the combination of the deep slit and the thin slit. Here, the gas sheet was produced by the deep slit, and the shape of the sheet was improved by the thin slit. The usefulness of this monitor was shown by the following experiments: 1) For the electron beam of 30 keV with a diameter greater than 0.35 mm, the position and the two-dimensional profiles were well measured using the gas sheet. 2) Then the profiles of the 10 and 400 MeV proton beam with a current of several microamperes were well measured, too. 3) Recently, the profiles of the 400 MeV H− ion beams in J-PARC linac were measured.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL018
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL019
+A Novel Field Cage Design for the CPS IPM and Systematic Errors in Beam Size and Emittance
+2193
+
+
+ 
+
+K. Satou
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+D. Bodart, S. Levasseur, G. Schneider, J.W. Storey
+                       CERN, Geneva, Switzerland
+M. Sapinski
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+An ionization profile monitor has been recently installed in the CERN proton synchrotron. We design a novel and simple structure field cage that suppresses the secondary electrons that are induced by the ionized ions. We discuss a field cage design, and the systematic error on the basis of beam size and emittance, considering the non-uniformity of the fields, the space-charge effect of the beam, and the lattice parameter errors.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL020
+Measurement of Transverse Dipole and Quadrupole Moments with the BPMS in the J-PARC 3-50 BT
+2197
+
+
+ 
+
+T. Toyama
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+H. Kuboki, K. Satou, M. Tejima
+                       KEK, Tokai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+We measure dipole and quadrupole moments of the beam using the BPMs in the beam transport line 3-50BT of J-PARC and obtain differences of squared horizontal- and vertical-rms-sizes for those BPMs. Then we obtain rms emittances and rms momentum by fitting with given Twiss parameters.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL020
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL021
+Study of a Tuner for a High-Accuracy Bunch Shape Monitor
+2200
+
+
+ 
+
+K. Moriya, Y. Kawane, A. Miura
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+K. Futatsukawa, T. Miyao
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+In the J-PARC Linac, development and higher precision of Bunch Shape Monitor (BSM) have been progressed for measuring the longitudinal beam distribution. To transform a longitudinal beam-profile into transverse one with an rf field, we need the field having an acceleration synchronizing frequency. An rf deflector of BSM consists of a half λ cylindrical cavity and two electrodes for deflection. In general, the resonance frequency can be tuned by adjusting the electrode length. We designed the new tuner with CST Studio. We can control the resonance frequency by Adjusting not only the electrode length but the cavity volume. We found the optimum lengths of electrode and volume for tuning. We introduce development of the new rf tuner for BSM in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL021
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL022
+Operating Experience of Water Cooling System in the J-PARC LINAC and RCS
+2203
+
+
+ 
+
+K. Suganuma, K. Fujirai, M. Kinsho, P.K. Sahapresenter, Y. Yamazaki
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+The cooling system for the J-PARC LINAC and RCS uses a total of 25 circulation pumps to cool the accelerator devices. In February 2017, we experienced damage of circulation pumps due to low flow rate, and started the development of an abnormality detection system concentrating on the vibration measurements of the circulation pumps. In this report, the vibration measurement results of the coolant circulation pumps and the development status of abnormality detection through multivariate analysis using vibration values are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL022
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL023
+Pulsed Operation at MAMI with High Beam Loading
+2206
+
+
+ 
+
+M. Dehn, K. Aulenbacher, F. Fichtner, P. Jennewein, W. Klag, H.-J. Kreidel, J.R. Röthgen
+                       IKP, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by DFG (CRC 1044) and the German federal state of Rhineland-Palatinate
+The Mainz Microtron Accelerator (MAMI) is a microtron cascade which is normally operated CW for particle physics experiments. For certain investigations it is necessary to use a pulsed beam (macro pulses, several milliseconds). Up to now this pulsed mode can only be applied if the beam loading for the accelerating RF structures is negligible. To achieve higher pulse intensities the accelerator RF infrastructure needs to be equipped with feed-forward techniques to compensate for the expected beam loading. To monitor beam losses the machine protection system at MAMI needs to be extended to be able to localize fast occurrences of beam losses. This paper will present the possibilities being investigated to allow pulsed operation of MAMI within the near future.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL024
+High Precision Beam Parameter Stabilization for P2 at MESA
+2209
+
+
+SUSPL056
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+R.F.K. Kempf, J. Diefenbach
+                       IKP, Mainz, Germany
+K. Aulenbacher
+                       HIM, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: Cluster of Excellence PRISMA (EXC 1098/2014) German Research Foundation DFG (GRK 2128)
+The experiment P2 will measure the weak mixing angle with an all-time high precision via electron-proton scattering. The measured physics asymmetry and its uncertainty has to be corrected by the apparatus' asymmetry, which is generated by helicity correlated fluctuations of the beam parameters position, angle, intensity and energy. This Poster will describe how the high precision of 0.1 ppb of the parity violating asymmetry can be provided by the high precision measurements of the parameters position, angle and intensity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL025
+Development of a Low-Latency, High-Precision, Beam-Based Feedback System Based on Cavity BPMs at the KEK ATF2
+2212
+
+
+SUSPL058
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+R.L. Ramjiawan, D.R. Bett, N. Blaskovic Kraljevic, R.M. Bodenstein, T. Bromwich, P. Burrows, G.B. Christian, C. Perry
+                       JAI, Oxford, United Kingdom
+
+ 
+
+
+ 
+
+A low-latency, intra-train feedback system employing cavity beam position monitors (BPMs) has been developed and tested at the Accelerator Test Facility (ATF2) at KEK. The feedback system can be operated with either position information from a single BPM to provide local beam stabilisation, or by using position information from two BPMs to stabilise the beam at an intermediate location. The correction is implemented using a stripline kicker and a custom power amplifier, with the feedback calculations being performed on a digital board built around a Field Programmable Gate Array (FPGA). The addition of indium sealing to the BPMs to increase the cavities' Q-values has led to improvements to the BPM system resolution, with current measurements of the resolution of order 20 nm. The feedback performance was tested with beam trains of two bunches, separated by 280 ns and with a charge of ~1 nC. For single- (two-)BPM feedback, stabilisation of the beam has been demonstrated to below 50 nm (41 nm). Ongoing work to improve the feedback performance further will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL026
+High Repetition Rate, Single-Shot Electro-Optical Monitoring of Longitudinal Electron Bunch Dynamics Using the Linear Array Detector KALYPSO
+2216
+
+
+ 
+
+G. Niehues, E. Blomley, M. Brosipresenter, E. Bründermann, M. Caselle, S. Funkner, A.-S. Müller, M.J. Nasse, L. Rota, M. Schuh, P. Schönfeldt, M. Weber
+                       KIT, Eggenstein-Leopoldshafen, Germany
+N. Hiller
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Funding: This work is funded by the BMBF contract numbers: 05K13VKA and 05K16VKA.
+High repetition rate diagnostics are required when detecting single-shot electro-optical (EO) bunch profiles. The KIT storage ring KARA (KArlsruhe Research Accelerator) is the first storage ring in the world that has a near-field EO bunch-profile monitor in operation. By imprinting longitudinal electron bunch profiles onto chirped laser pulses, single-shot detection is feasible. However, limitations of available detection systems are challenging: The constraints are either given by the repetition rate or the duration of the consecutive acquisitions. Two strategies can overcome these limitations: Based on the photonic time-stretch method, the ps laser pulses can be stretched to the ns range using km long fibers. The readout with a high-bandwidth oscilloscope then enables a single-shot detection at high repetition rates. The other strategy is the development of dedicated ultra-fast photodetector arrays allowing direct detection of the ps pulses at MHz repetition rates. We developed KALYPSO, a linear detector array with a DAQ allowing to record high data-rates over long time scales. Here, we present recent results of studies of the longitudinal electron bunch dynamics using KALYPSO.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL026
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL027
+Filling Pattern Measurements Using Dead-Time Corrected Single Photon Counting
+2219
+
+
+ 
+
+B. Kehrer, E. Blomley, M. Brosipresenter, E. Bründermann, A.-S. Müller, M. Schuh, P. Schönfeldt, J.L. Steinmann
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+Time-correlated single photon counting (TCSPC) is a versatile tool for various accelerator diagnostics aspects. Amongst others it allows a precise determination of the filling pattern. At the visible light diagnostics port at the Karlsruhe Research Accelerator (KARA), the KIT storage ring, a Single-Photon Avalanche Diode (SPAD) in combination with a histogramming device (PicoHarp) is used. To compensate for possible dead-time effects, a correction scheme was developed and tested successfully. The compensation increases the dynamic range in which accurate measurements are possible and avoids distortion of the measured filling pattern. This contribution presents the experimental setup, as well as a series of benchmark measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL027
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL028
+Study of the Influence of the CSR Impedance on the Synchronous Phase Shift at KARA
+2223
+
+
+ 
+
+P. Schönfeldt, E. Blomley, M. Brosi, E. Bründermann, J. Gethmann, B. Kehrer, A.-S. Müller, A.I. Papash, J.L. Steinmannpresenter
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+Funding: This work has been supported by the German Federal Ministry of Education and Research (Grant No. 05K16VKA) and the Helmholtz Association (Contract No. VH-NG-320).
+Measurements of the bunch current dependent synchronous phase shift are a standard method to characterize the impedance of a storage ring. To study this shift, different experimental approaches can be used. In this contribution, we first derive the phase shift caused by the impedance describing the emission of coherent synchrotron radiation (CSR) based on numerical simulations of the longitudinal phase space. The predicted shift is compared to measurement results obtained by time-correlated single photon counting.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL028
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL029
+FLUTE Diagnostics Integration
+2227
+
+
+ 
+
+M. Yan, A. Bernhard, E. Bründermann, S. Funkner, A. Malygin, S. Marsching, W. Mexner, A. Mochihashipresenter, A.-S. Müller, M.J. Nasse, G. Niehues, R. Ruprecht, T. Schmelzer, M. Schuh, N.J. Smale, P. Wesolowski, S. Wüstling
+                       KIT, Karlsruhe, Germany
+I. Križnar
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+FLUTE (Ferninfrarot Linac- Und Test-Experiment) will be a new compact versatile linear accelerator at KIT. Its primary goal is to serve as a platform for a variety of accelerator studies as well as to generate strong ultra-short THz pulses for photon science. The machine consists of an RF gun, a traveling wave linac and a D-shaped bunch compressor chicane with corresponding diagnostics sections. In this contribution, we report on the latest developments of the diagnostics components. An overview of the readout and control system integration will be given.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL029
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL030
+Deep Learning Based Predictive Control for RFT-30 Cyclotron
+2230
+
+
+ 
+
+Y.B. Kong, M.G. Hur, E.J. Lee, J.H. Park, H.S. Song, S.D. Yang
+                       KAERI, Jeongeup-si, Republic of Korea
+
+ 
+
+
+ 
+
+Successful construction of the control system is an important problem in the accelerator. The RFT-30 cyclotron is 30 MeV cyclotron for radioisotope production and fundamental researches. To operate the RFT-30 cyclotron for beam irradiation, the human operators should carefully manipulate the control parameters. If the control does not function properly, it becomes difficult to handle the cyclotron and cannot perform the accurate operations for the control. In this work, we propose a deep learning based model predictive control approach for the RFT-30 cyclotron. The proposed approach is composed of two steps: system identification and a control design. In the system identification procedure, the proposed approach constructs the predictive model of the accelerator using the deep learning approach. In the control design stage, the controller finds the optimal control inputs by solving the optimization problem. To analyze the performance of the proposed approach, we applied the approach into the RFT-30 cyclotron.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL031
+RF Interlock Implementation Using Digital LLRF System for 100 MeV Proton Linac at KOMAC
+2233
+
+
+ 
+
+H.S. Jeong, Y.-S. Cho, H.S. Kim, J.H. Kim, S.G. Kim, H.-J. Kwonpresenter, Y.G. Song
+                       Korea Atomic Energy Research Institute (KAERI), Gyeongbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work has been supported through KOMAC (Korea Multi-purpose Accelerator Complex) operation fund of KAERI by MSIT (Ministry of Science and ICT)
+KOMAC (Korea Multi-purpose Accelerator Complex) already has operated 100 MeV proton linear accelerator with high availability since 2013. This accelerator is composed of Ion source, LEBT, RFQ and DTL systems to transport proton particles to the target. Total 9 klystrons with 1.6 MWpeak are used to provide controlled RF power to the accelerator cavities with 350 MHz of operating frequency. These klystrons are driven by LLRF systems that the LLRF systems should control the RF and protect the amplifiers and cavities from the abnormal RF. In this article, the RF interlock using cavity pickup signal introduced. When the cavity pickup amplitude breaks away from the adjustable upper or lower limit window, the digital LLRF system interrupts the LLRF output. These implementations were conducted by upgrading the FPGA (Field Programmable Gate Array) logics of the existing digital LLRF system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL031
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL033
+Development of Real-Time Mass Analysis System with Permanent Magnet for Ion Beam
+2236
+
+
+SUSPL051
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Y. Takeuchi, Y. Iwashita, H. Tongu
+                       Kyoto ICR, Uji, Kyoto, Japan
+
+ 
+
+
+ 
+
+In order to analyze time variation of the ion species in a pulse, we are developing a mass analysis system that has multiple collector electrodes to detect several ion species simultaneously. Strong permanent magnets can generate 1T magnetic field and the size of the analyzing magnet system can be compact. The detected signals are scanned by a fast multiplexer. The scanning rate is 2 MHz, so that all electrode signals of the 16 channels are scanned in 8 μs period. In this paper, details of the design of the analysis system, and preliminary beam extraction test results with prototype of the system are described.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL034
+Bunch Length Measurements Using Coherent Smith-Purcell Radiation With Several Gratings at CLIO
+2239
+
+
+ 
+
+N. Delerue, S. Jenzer, V. Khodnevych, A. Migayron
+                       LAL, Orsay, France
+J.P. Berthet, N. Jestin, J.-M. Ortega, R. Prazeres
+                       CLIO/ELISE/LCP, Orsay, France
+
+ 
+
+
+ 
+
+Funding: Financially supported by the Université Paris-Sud (programme "attractivité"), by the French ANR (contract ANR-12-JS05-0003-01) and by IN2P3.
+Coherent Smith Purcell radiation allows the measurement of a beam longitudinal profile through the study of the emission spectrum of the radiation emitted when a grating is brought close from the beam. In order to increase the dynamic range of our measurements we have used several gratings and we report on the measured bunch form factor using this technique. We report on these measurements and on the background rejection used.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL034
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL035
+The Synchronization System of the Thomx Accelerator
+2243
+
+
+ 
+
+N. Delerue, V. Chaumat, R. Chiche, N. ElKamchi, H. Monard, F. Wicek
+                       LAL, Orsay, France
+B. Lucas
+                       CNRS LPGP Univ Paris Sud, Orsay, France
+
+ 
+
+
+ 
+
+Funding: CNRS and ANR
+The ThomX compact light source uses a 50 MeV ring to produce X-rays by Compton scattering. For historical reasons the linac and the ring could not operate at harmonic frequencies of each other. A heterodyne synchronization system has been designed for this accelerator. This synchronization is based on mixing the two RF frequencies to produce an heterodyne trigger signal and that is then distributed to the users. Bench tests of the system has demonstrated a jitter of less than 2 ps. We describe here this synchronization system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL035
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL036
+Implementation of CSNS RCS Beam Injection and Extraction Modes in Timing System
+2247
+
+
+ 
+
+P. Zhu, M.Y. Huang, D.P. Jin, G. Lei, G.L. Xu, Y.L. Zhang
+                       IHEP, Beijing, People's Republic of China
+L. Wang
+                       CSNS, Guangdong Province, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Institute of High Energy Physics， Chinese Academy of Sciences, Beijing 100049, China; Dong guan Neutron Science Center, Dong guan 523803, China
+Based on the physical design of the accelerator and the demand of the beam research, we designed four RCS beam injection modes and two RCS beam extraction modes, each of which corresponds to a series of specific timing for the accelerator. RCS beam injection and extraction modes are implemented on "VME + customized boards" hardware platform. In this paper, we will introduce the design and implementation of RCS beam injection and extraction modes as well as the RCS timing requirements and implementation in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL036
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL037
+Simulation Study on Luminosity Feedback for Horizontal Beam Stabilization at Superkekb
+2250
+
+
+ 
+
+C.G. Pang, P. Bambade
+                       LAL, Orsay, France
+Y. Funakoshi, S. Uehara
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The SuperKEKB e+ e- collider uses highly focused ultra-low emittance bunches colliding every 4 ns to reach a very high luminosity of 8× 1035 cm-2s-1. It is quite essential to have an orbit feedback system at the Interaction Point (IP) to maintain the optimum overlap between the colliding beams in the presence of ground motion disturbances. For the horizontal motion, a luminosity monitoring system, based on measuring the rate of the Bhabha process at vanishing scattering angle, is developed as input signal to the feedback system. The relative precision needed for this monitor is studied in detail, for the different successive stages of luminosity operation, based on a full simulation of this system, including the detector, DAQ, lock-in amplifier, and feedback control.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL037
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL038
+First Tests of Superkekb Fast Luminosity Monitors During 2018 Phase-2 Commissioning
+2254
+
+
+ 
+
+C.G. Pang, P. Bambade, S. Di Carlo, D. Jehanno, V. Kubytskyi, Y. Peinaud, C. Rimbault
+                       LAL, Orsay, France
+Y. Funakoshi, S. Uehara
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The SuperKEKB e+e- collider aims to reach a very high luminosity of 8× 1035 cm-2s-1, by using highly focused ultra-low emittance bunches colliding every 4 ns, it is essential to have an orbit feedback system at the Interaction Point (IP) to maintain the optimum overlap between two colliding beams. Luminosity monitoring systems including LumiBelle2 and ZDLM as input to dithering feedback system used to stabilize the horizontal orbit at the IP were developed and will be described, including the detectors, mechanical set-up, DAQ. Preliminary measurements and analysis of background and first stage luminosity monitoring data collected will be reported and compared with simulation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL038
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL039
+LCLS-II Gun/Buncher LLRF System Design
+2258
+
+
+ 
+
+G. Huang, K.S. Campbell, L.R. Doolittle, J.A. Jones, Q. Qiang, C. Serranopresenter
+                       LBNL, Berkeley, California, USA
+S. Babel, A.L. Benwell, M. Boyes, G.W. Brown, D. Cha, J.H. De Long, J.A. Diaz Cruz, B. Hong, A. McCollough, A. Ratti, C.H. Rivetta, D. Rogind, F. Zhou
+                       SLAC, Menlo Park, California, USA
+R. Bachimanchi, C. Hovater, D.J. Seidman
+                       JLab, Newport News, Virginia, USA
+B.E. Chase, E. Cullerton, J. Einstein-Curtis, D.W. Klepec
+                       Fermilab, Batavia, Illinois, USA
+J.A. Diaz Cruz
+                       CSU, Fort Collins, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the LCLS-II Project and the U.S. Department of Energy, Contract n. DE-AC02-05CH11231.
+For a free electron laser, the stability of injector is critical to the final electron beam parameters, e.g., beam energy, beam arrival time, and eventually it determines the photon quality. The LCLS-II project's injector contains a VHF copper cavity as the gun and a two-cell L-band copper cavity as its buncher. The cavity designs are inherited from the APEX design, but requires more field stability than demonstrated in APEX operation. The gun LLRF system design uses a connectorized RF front end and low noise digitizer, together with the same general purpose FPGA carrier board used in the LCLS-II SRF LLRF system. The buncher LLRF system directly adopts the SRF LLRF chassis design, but programs the controller to run the normal conducting cavities. In this paper, we describe the gun/buncher LLRF system design, including the hardware design, the firmware design and bench test.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL039
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL040
+High Precision Synchronization Development for HiRES, the Ultrafast Electron Diffraction Beamline at LBNL
+2262
+
+
+ 
+
+Y. Yang, K.M. Baptiste, M. Betz, L.R. Doolittle, Q. Du, D. Filippetto, G. Huang, F. Ji
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Precise synchronization between the laser and electron is critical for the pump-probe experiments in the HiRES Ultrafast Electron Diffraction facility. We are upgrading the LLRF and laser control system, which ultimately aims at a synchronization below 50 fs RMS between the pump laser pulse and electron probe at the sample plane. Such target poses tight requirements on the RF field stability both in amplitude and phase, and on the synchronization between the RF field and the laser repetition rate. We are presently developing a new LLRF system that has the potential to decrease the overall noise, reaching the required stability of tens of ppm on RF amplitude and phase. For the laser control side, we are replacing the long coaxial cables with fibers for both control signal transmission and laser signal reception. The control transmission side has been implemented, and the timing jitter has been reduced.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL040
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL041
+FPGA Based Optical Phase Control for Coherent Laser Pulse Stacking
+2265
+
+
+ 
+
+Y. Yang, L.R. Doolittle, Q. Du, G. Huang, W. Leemans, R.B. Wilcox, T. Zhou
+                       LBNL, Berkeley, California, USA
+A. Galvanauskas
+                       University of Michigan, Ann Arbor, Michigan, USA
+
+ 
+
+
+ 
+
+Coherent temporal pulse stacking combines the energy from a train of pulses into one pulse through a series of optical cavities. To stabilize the output energy, the cavity roundtrip phases must be precisely locked to particular values. Leveraging the LLRF expertise we have for conventional accelerators, a FPGA-based control system has been developed for optical cavity phase control. A phase measurement method, ''Modulated Impulse Response'', has been developed and implemented on FPGA. An experiment demonstrated that it can measure and lock the optical phases of four stacking cavities, leading to combination of 25 pulses into one pulse with 1.5 % RMS stability over 30 hours.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL041
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL043
+Distributed Control Architecture for an Integrated Accelerator and Experimental System
+2268
+
+
+ 
+
+D.J. Gibson, R.A. Marsh, B. Rusnak
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+A neutron imaging demonstration system is under construction at LLNL, integrating 4 MeV and 7 MeV deuteron accelerators with gas-based neutron production target the associated supply and return systems. This requires integrating a wide variety of control points from different rooms and floors of the Livermore accelerator facility at a single operator station. The control system adopted by the commercial vendor of the accelerators relies on the National Instruments cRIO platform, so that hardware system has been extended across all the beamline and experimental components. Here we present the unified, class-based framework that has been developed and implemented to connect the operator station through the deployed Real Time processors and FPGA interfaces to the hardware on the floor. Connection between the deployed processors and the operator workstations is via a standard TCP/IP network and relies on a publish/subscribe model for data distribution. This measurement and control framework has been designed to be extensible as additional control points are added, and to enable comprehensive, controllable logging of shot-correlated data at up to 300 Hz.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL043
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL044
+ENSOLVE : A Simulation Code for FXR LIA Downstream Section
+2271
+
+
+ 
+
+Y.H. Wu, Y.-J. Chen
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was performed under the auspi-ces of the U.S. Department of Energy by Law-rence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+In this paper, we describe an envelope code, ENSOLVE. It solves the rms beam envelope equation by including space change depression of the potential, spherical aberration of the so-lenoidal lens, emittance growth and focusing effects of backstreaming ions in the final focus region. In this paper, we focus on the physics included for beam transport simulations in the downstream section of flash x-ray radiography linear induction accelerators, such as FXR LIA. We have used ENSOLVE to design final focus tunes for FXR LIA downstream section
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL044
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL045
+An Electrostatic Fixed-Slit Emittance Measurement System
+2274
+
+
+ 
+
+J.W. Lewellen, H.L. Andrews, R.L. Fleming, K.E. Nichols, E.I. Simakov
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Los Alamos National Laboratory LDRD Program
+The emittance of a field emission cathode can be difficult to measure close to the emitter, due to the high average current density of the beam and the potential for desorbed material from an imaging screen to contaminate the cathode. We present the design for a dual fixed-slit emittance measurement system for a field emitter cathode, implemented using electrostatic deflecting plates. Results from fabrication and initial testing will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL045
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL046
+A New Digital Feedback and Feedforward Controller for Cavity Field Control of the LANSCE  Accelerator
+2277
+
+
+ 
+
+S. Kwon, L.J. Castellano, D.J. Knapp, J.T.M. Lyles, M.S. Prokop, A. Scheinkerpresenter, P.A. Torrez
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work Supported by DOE
+A new digital low-level RF system was designed and has been deployed on the drift-tube-linac section of the Los Alamos Neutron Science Center(LANSCE) proton accelerator. This new system is part of a modernization of the existing analog cavity-field controls that were originally developed and put into service forty-five years ago. For stabilization of the cavity field amplitude and phase during beam loading, a proportional-integral feedback controller, a static beam feedforward controller, and an iterative learning controller working in parallel have been implemented. In this paper, the controller architecture is described, and the performances of the three controllers when beam is being actively accelerated is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL046
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL047
+Online Optimisation of the MAX IV 3 GeV Ring Dynamic Aperture
+2281
+
+
+SUSPL065
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D.K. Olsson
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+In order to improve the resilience of the MAX IV 3 GeV ring's beam to a horizontal dipole kick while at the design tunes (42.20, 16.28) the optimisation algorithm RCDS (Robust Conjugate Direction Search) was deployed. The algorithm was able to increase the horizontal acceptance by finding new settings for the sextupole and octupole magnets, whilst leaving the vertical acceptance virtually unchanged. Additionally, the optimisation increased the momentum acceptance of the lattice, increasing beam lifetime.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL047
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL048
+Control Command Strategy for the ThomX Accelerator
+2284
+
+
+ 
+
+H. Guler, N. ElKamchi, P. Gauron, H. Monard
+                       LAL, Orsay, France
+
+ 
+
+
+ 
+
+ThomX is an accelerator project designed to create a compact X Compton Backscattering Source for medical and cultural heritage applications. Control-Command (CC) system is a central part for the commissionning. ThomX CC is designed with TANGO SCADA system. This framework allows to control several devices from several places with the same SCADA System. TANGO Device Servers are software programs allowing to control devices and to implement data processing and presentation layers. For commissionning, experts need to access values of each device in a convenient way to allow them to modify parameters and check effect of a configuration on hardware. CC is a key part for this stage. Several GUI have been designed and gathered into several panels in collaboration with each expert group to gather their needs.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL048
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL049
+Simulating Non-Relativistic Beams Using Helical Pulse Lines
+2288
+
+
+SUSPL049
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C.J. Richard
+                       NSCL, East Lansing, Michigan, USA
+S.M. Lidia
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the US Department of Energy, Office of Science, High Energy Physics under Cooperative Agreement award number DE-SC0018362.
+Benchtop calibration of capacitive beam position monitors (BPMs) in low energy beamlines is challenging due to non-relativistic effects. Typical benchtop calibrations cannot account for these effects because they rely on speed of light fields transmitted along a straight wire. However, it is possible to replicate the electromagnetic fields generated by non-relativistic beams using a helical line pulse instead of a straight wire. In order to properly replicate the fields from a beam, a method must be developed for tailoring input pulses into the helical line to match bunch shape and a model of the impedance of the helix should be developed to assist with matching. This paper uses the sheath helix model to analyze signal propagation along a helical line in the time domain, with attention to dispersive effects and impedance matching. The results from this model are then compared to Microwave Studio simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL049
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL051
+Mirascope Residual-Gas Luminescent Beam Profile Monitors
+2291
+
+
+ 
+
+V.G. Dudnikov, R.J. Abramspresenter, M.A. Cummings
+                       Muons, Inc, Illinois, USA
+
+ 
+
+
+ 
+
+Muons, Inc. proposes to develop a Residual-Gas Beam Profile Monitor for Transfer Lines with pulse-to-pulse precision of better than 0.1 mm in position and size that will operate over a wide range of proton beam intensities including those needed for multi-MW beams of future facilities. Traditional solid-based beam intercepting instrumentation produces unallowable levels of radiation at high powers. Our alternative approach is to use a low mass residual-gas profile monitor, where ionization electrons are collected along extended magnetic field lines and the gas composi-tion and pressure in the beam pipe are locally controlled to minimize unwanted radiation and to improve resolu-tion. Beam Induced Fluorescence profile monitor with micrascope light collection is proposed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL051
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL053
+Dynamic Signal Analysis Based on FPGA for NSRRC DLLRF
+2295
+
+
+ 
+
+F.Y. Chang, L.-H. Chang, M.H. Chang, S.W. Chang, L.J. Chen, F.-T. Chung, Y.T. Li, M.-C. Lin, Z.K. Liu, C.H. Lo, Ch. Wang, M.-S. Yeh, T.-C. Yu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+As DLLRF control system designs for SRF cavities have greatly matured and the FPGA technology has im-proved as well, it is possible now to think about incorporating dynamic signal analysis (DSA). Implementation of a DSA in the FPGA is desired to study the frequency response of the open/closed loop gain in a SRF system. Open loop gain is useful to observe the stability of a SRF system while closed loop gain can be applied to investi-gate the operational bandwidth of the system feedback and also to configure the performance of a PID controller. The DSA function was confirmed by analyzing the frequency response of a digital filter and the results of the analysis will be compared with MATLAB simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL053
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL054
+Digital Low Level Radio Frequency System for the Booster Ring of the Taiwan Photon Source
+2298
+
+
+ 
+
+Z.K. Liu, F.Y. Changpresenter, L.-H. Chang, M.H. Chang, S.W. Chang, L.J. Chen, F.-T. Chung, Y.T. Li, M.-C. Lin, C.H. Lo, Ch. Wang, M.-S. Yeh, T.-C. Yu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The purpose of a Low-Level Radio Frequency (LLRF) system is to control the accelerating cavity field amplitude and phase. For the Taiwan Photon Source (TPS) at NSRRC, the currently operating LLRF systems are based on analog technology. To have better RF field stability, precise con-trol and high noise reduction, a digital LLRF control sys-tems based on Field Programmable Gate Arrays (FPGA) was developed. We replaced the analog LLRF system with the digital version for the TPS booster ring at the beginning of 2018, and we will replace those in the storage rings in the future. Test results and operational performance of the TPS booster DLLRF system are reported here.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL054
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL055
+TPS Beam Trip Analysis and Dose Distribution
+2302
+
+
+ 
+
+B.Y. Chen, F.Y. Changpresenter, S. Fann, C.S. Huang, C.H. Kuo, T.Y. Lee, C.C. Liang, W.Y. Lin, Y.C. Lin, Y.-C. Liu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Failure analysis during TPS users operation is im-portant to improve the performance of the TPS storage ring. In this report, we discuss the particular radiation dose patterns, relevant to different beam trips, and the development of a tool to help us analyse this dose distri-bution. We will use this analysing tool to train our ability for future failure analysis to shorten the time it takes to find the problem.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL055
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL057
+Methods to Detect Error Sources and Their Application at the TPS
+2305
+
+
+ 
+
+C.H. Huang, Y.-S. Cheng, P.C. Chiu, K.T. Hsu, K.H. Hu, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+For a low-emittance photon light source, beam stability is a very important property to attain a high-quality photon beam. While it is hard to avoid beam perturbations in a storage ring, it is more important to quickly find the source locations and to remove or eliminate the sources as soon as possible. In this report, we develop a method to identify the locations of multiple sources. For a source with a particular frequency, the relative phase between sources can also be obtained. This method has been a useful tool during TPS operation and its methodology and practical applications are described in this report.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL057
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL058
+Beam Loss Studies at the Taiwan Photon Source
+2309
+
+
+ 
+
+C.H. Huang, J. Chen, Y.-S. Cheng, K.T. Hsu, K.H. Hu, D. Lee, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+PIN-photodiodes and RadFETs are installed in the storage ring of the Taiwan Photon Source (TPS) to study beam loss distributions and mechanisms. In the highest dose area, the radiation comes mainly from hard X-rays produced by synchrotron bending magnets. During beam cleaning and after replacing a vacuum chamber, losses due to inelastic Coulomb scattering occur mostly downstream from bending magnets while elastic scattering causes electrons to get lost mainly after an elliptically polarizing undulator which has a limited vertical aperture. During the injection period, the beam loss pattern can be changed by modifying injection conditions or lattice settings. The beam loss usually happens in the injection section and small-aperture section. The injection efficiency can be improved by minimizing the detected injection loss.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL058
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL059
+Observation and Suppression of Beam Orbit Drift Due to Path Length Changes and Thermal Effect in TPS
+2313
+
+
+ 
+
+P.C. Chiu, K.T. Hsu, K.H. Hu, C.H. Huangpresenter, C.-C. Kuo
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Tidal effect, ambient temperature fluctuation and other effects of the TPS site can cause the path length changes of the electron beam in the TPS storage ring. Off-energy orbit drifts from the path length change, if not varying the RF frequency, cannot be properly corrected by the horizontal correctors and this causes the fast orbit feedback system over its normal working range. RF frequency adjustment loop is therefore applied to compensate for the circumference change based on the accumulating corrector strengths of the fast orbit feedback system. Implementation and operational experiences will be discussed in the report.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL059
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL062
+Bunch Length Measurements with a Streak Camera in Low Alpha Lattice Operation at the  TPS
+2316
+
+
+ 
+
+C.H. Chen, J.Y. Chen, M.-S. Chiu, P.J. Chou, K.T. Hsu, K.H. Hu, C.-C. Kuo, C.C. Liang, C.Y. Liao, Y.-C. Liu, G.-H. Luo, H.-J. Tsai, F.H. Tsengpresenter
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+We developed and tested lattice with lower momentum compaction factor (low alpha) in TPS (Taiwan Photon Source) recently. Operating low alpha lattice can provide picosecond bunch length for time-resolved research and coherent IR/THz synchrotron light. The bunch length around 2.5 picosecond rms was measured by a streak camera* in low alpha mode while operating in the routine users mode** it was around 10 picosecond. This paper presents the related processes and measurements.
+* L.Y. Liao et al., "Preliminary beam test of synchrotron radiation monitoring system at Taiwan Photon Source", IPAC'15.  ** C.C. Kuo et al., "Commissioning of Taiwan Photon Source", IPAC'15.  
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL062
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL063
+A Method to Tune Pulse Magnets' Waveforms
+2320
+
+
+ 
+
+T.Y. Lee, B.Y. Chen, S. Fann, C.S. Huang, C.H. Kuo, C.C. Liang, W.Y. Lin, Y.-C. Liu, Y.C. Yangpresenter
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Pulse magnets are used in storage ring injection kickers. The waveform of the the four kickers have strong relation with injection efficiency. A slightly offset of waveform may cause the four kickers mismatched, which would lead to storaged beam loss and decrease injection efficiency. In order to define the peak value and timing of the half-sine waveform which has noises interfering diagnosis, a curve-fitting method was introduced to monitor and fine-tuning the waveform. The waveforms' data are also archived for reference in case of replacing power supplies. By using this method, it helps to retain a consistent injection efficiency after the power supplies maintenance or replacement.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL063
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL064
+Diagnosis Application by Great Amount Operation Data Analysis Program for Taiwan Photon Source
+2323
+
+
+ 
+
+C.C. Liang, B.Y. Chen, C.H. Chen, S. Fann, C.S. Huang, C.H. Kuo, T.Y. Lee, W.Y. Lin, Z.-D. Tsai, Y.C. Yangpresenter, T.-C. Yu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+To find out abnormal situations of the machine for preventive maintenance or machine trip tracking or instability source diagnosis, a large amount of operating data in an accelerator is thus can be used to build a series data analysis program. When the archived data is classified accordingly, the standard deviation (STD), peak-to-peak value and other statistic indexes within the inspection time zone by the belonging families can be used to point out the especially abnormal signals. The analysis program adopts the techniques of parallel calculation and memory optimization to greatly reduce the time for data transmission and analysis and also displays the correlation signals to opera-tors for deeper analysis. This paper illustrated a simple yet effective method for quickly identifying a not-so-obscure hardware issue by simply using a personal computer (PC).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL064
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL065
+Development of a Gas Sheet Beam Profile Monitor for IOTA
+2326
+
+
+SUSPL050
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S. Szustkowski, B.T. Freemire
+                       Northern Illinois University, DeKalb, Illinois, USA
+S. Chattopadhyay
+                       Northern Illinois Univerity, DeKalb, Illinois, USA
+D.J. Crawford
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: US Department of Energy, Office of High Energy Physics, General Accelerator Research and Development (GARD) Program
+A nitrogen gas sheet will measure the two dimensional transverse profile of the 2.5 MeV proton beam in IOTA. The beam lifetime is limited by the interaction with the gas, thus a minimally invasive instrument is required. To produce a gas sheet with the desired density and thickness, various nozzle types are being investigated, including rectangular capillary tubes for gas injection and skimmers for final shaping of the gas. It is essential to meet vacuum requirements in the interaction chamber while maintaining the precise thickness and density of the gas, without significantly affecting the beam lifetime. The current design of a gas sheet beam profile monitor and present status will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL065
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL066
+Determination of RF Resonator Axis Inclination to Beam Axis in Electron-Positron Storage Ring
+2330
+
+
+SUSPF101
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Leshenok D. Leshenok
+                       NSU, Novosibirsk, Russia
+S.A. Nikitin
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+We proposed and tested the method that allows obtaining of an upper limit for an angle of the RF resonator axis inclination relative to a beam axis. Such disturbance gives an additional contribution to separation of electron and positron orbits due to action of the transverse component of the electric field. In the horizontal plane, this effect can lead to increase of the difference between electrons and positrons spin precession frequencies in a storage mono-ring collider. This effect can play a great role in FCC. At the angular disturbance of axis in the certain VEPP-4M RF resonators ~10-3 rad, the difference between the spin frequencies is about 10-8. Our method is based on resonant excitation of betatron oscillations using phase modulation of the master oscillator of the RF system. The maximal amplitude of the enforced oscillations is measured by the counting rate of the VEPP-4M Touschek polarimeter scintillation counters. Comparison of the obtained results with the data of the special calibration experiment allows estimating the value of the inclination angle. In this calibrated experiment the betatron oscillations excite using the VEPP-4M kicker.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL066
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL067
+Number of Turn Measurements on the HIPA Cyclotrons at PSI
+2334
+
+
+ 
+
+P.-A. Duperrex, A. Facchetti
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The number of turns is an important parameter for the tuning of a cyclotron; it is even more important for high intensity machines such as the 1.4 MW High Intensity Proton Accelerator (HIPA) facility. Up to recently, the number of turns had to be measured using radial probes, which cannot be performed during user operation but only during beam development shifts. For user shifts, the estimate of the number of turns was based on the acceleration voltage measurements, with the inherent limited precision of RF measurements. A new scheme based on the time of flight (ToF) measurements has been deployed on the two cyclotrons of HIPA. It is based on the cross-correlation of fast sampled data from pickups located at the entrance and at the exit of the cyclotrons. For the first cyclotron, called Injector 2 (accelerating the beam from 870 keV to 72MeV), the beam had to be externally modulated whereas, for the Ring Cyclotron (72 MeV to 590 MeV), no external modulation was necessary. This paper will present the details of both implementations, their limitations and the quality of the results that can be obtained with the ToF techniques.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL067
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL068
+Improving Machine and Target Protection in the SINQ Beam Line at PSI-HIPA
+2337
+
+
+ 
+
+D. Reggiani, P.-A. Duperrex, R. Dölling, D.C. Kiselev, J. Welte, M. Wohlmuther
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+With a nominal beam power of nearly 1.4 MW, the PSI High Intensity Proton Accelerator (HIPA) facility is currently at the forefront of the high intensity frontier of particle accelerators. A key issue of this facility is to ensure safe operation of the SINQ spallation source. In particular, too large beam current density and/or inaccurate beam steering can seriously compromise the integrity of the spallation target. Recently, a campaign has been launched in order to improve the fast detection of improper beam delivery and therefore the reliability of the system. New beam diagnostics elements such as an absolute intensity monitor, a beam ellipticity monitor and additional loss monitors have been installed during the 2017 shutdown. In 2018 a new SINQ target will be installed featuring a system of thermocouples which will keep track of the beam position. Moreover, an additional monitor is currently under study which should reliably detect small beam fractions accidentally bypassing the muon production target TE and which are intrinsically dangerous for the SINQ spallation target. This contribution reviews the all efforts to increase the efficiency of the SINQ protection system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL068
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL069
+Reentrant Cavity Resonator for Low Intensities Proton Beam Measurements
+2341
+
+
+ 
+
+S. Srinivasan, P.-A. Duperrex
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+A non-interceptive beam current monitor has been developed to investigate the measurement possibilities of low-intensity beams down to 1 nA for proton therapy machines without the drawback of interceptive monitors. This works on the principle of a reentrant cavity resonator such that its fundamental mode resonance frequency of 145.7 MHz matches the second harmonic of the pulse repetition rate of the cyclotron beam i.e. 72.85 MHz. The Driven Modal analysis from the simulation tool ANSYS HFSS was used for parametric model development and to optimize design parameters such as e.g. the position of the inductively coupled pick-ups. A ceramic plate has been inserted in the resonator gap to relax the precision required during manufacturing. A test bench has been designed and constructed for the characterization tests of the prototype. Comparison of the simulated and the experimental scattering parameter from the test bench shows a good agreement.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL069
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL070
+HLS System to Measure the Location Changes in Real Time of PAL-XFEL Devices
+2345
+
+
+ 
+
+H. J. Choi, J.H. Han, H.-S. Kangpresenter, S.H. Kim, H.-G. Lee, S.B. Lee
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+All components of PAL-XFEL (Pohang Accelerator Laboratory's X-ray free-electron laser) were completely installed in December 2015, and Hard X-ray 0.1nm lasing achieved through its beam commissioning test and machine study on March 16, 2017. The beam line users has been performing various tests including pump-probe X-ray scattering, time-resolved x-ray liquidography, etc in the hard x-ray beam line since March 22. The energy and flux of x-ray photon beam generated from XFEL and synchronization timing should be stable to ensure successful time-resolved tests. Several parts that comprise the large scientific equipment should be installed and operated at precise three-dimensional location coordinates X, Y, and Z through survey and alignment to ensure their optimal performance. As time goes by, however, the ground goes through uplift and subsidence, which consequently changes the coordinates of installed components and leads to alignment errors ΔX, ΔY, and ΔZ. As a result, the system parameters change, and the performance of the large scientific equipment deteriorates accordingly. Measuring the change in locations of systems comprising the large scientific equipment in real time would make it possible to predict alignment errors, locate any region with greater changes, realign components in the region fast, and shorten the time of survey and alignment. For this purpose, a HLS's (hydrostatic leveling sensor) with 0.2um of resolution are installed and operated in a waterpipe of total length 1km in the PAL-XFEL building. This paper is designed to introduce the operating principle of the HLS, the installation and operation of the HLS system, and how to utilize the HLS system in order to ensure beam stabilization.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL070
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL072
+A Novel Longitudinal Laserwire to Non-Invasively Measure 6-Dimensional Bunch Parameters at High Current Hydrogen Ion Accelerators
+2349
+
+
+ 
+
+S.M. Gibson, A. Bosco
+                       Royal Holloway, University of London, Surrey, United Kingdom
+S.E. Alden, A. Bosco, S.M. Gibson
+                       JAI, Egham, Surrey, United Kingdom
+A.P. Letchford
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+J.K. Pozimski
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+J.K. Pozimski
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+Funding: We acknowledge funding by the STFC Grant ST/P003028/1 and the John Adams Institute at Royal Holloway, University of London.
+Optical methods for non-invasive beam diagnostics of high current H− ion accelerators have been developed in recent years*, **. Such laserwires typically measure a 1D beam profile and/or 2D transverse emittance from the products of photo-detached ions as a laser beam is scanned across the H− beam. For laser pulse durations (~80ns) longer than the RF period (~3ns), the detector integrates many complete bunches, enabling only transverse beam monitoring. This paper presents a new technique to capture a series of time resolved transverse emittance measurements along the bunch train. A fast (~10ps) pulsed laser photo-detaches ions within each bunch and is synchronized to sample consecutive bunches at certain longitudinal positions along each bunch. A fast detector records the spatial distribution and time-of-flight of the neutralized H0, thus both the transverse and longitudinal emittance are reconstructed. We present simulations of a time varying pulsed laser field interacting within an H− bunch, and estimate the yield, spatial and time distributions of H0 arriving at the detector. We summarise the design of a recently funded longitudinal laserwire being installed in FETS at RAL, UK.
+* NIM-A, 830, p526-531, T. Hofmann et al ** T. Hofmann et al, 'Commissioning of the Operational Laser Emittance Monitors for LINAC4 at CERN' IPAC18.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL072
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL073
+Enhanced Bunch Monitoring by Interferometric Electro-Optic Methods
+2353
+
+
+ 
+
+S.M. Gibson, A. Arteche, A. Bosco
+                       Royal Holloway, University of London, Surrey, United Kingdom
+S.E. Bashforth, A. Bosco, S.M. Gibson
+                       JAI, Egham, Surrey, United Kingdom
+M. Krupa, T. Lefèvre
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: We acknowledge funding by UK STFC grant ST/N001583/1, JAI at Royal Holloway University of London and CERN
+A prototype Electro-Optic Beam Position Monitor has been installed for tests* in the CERN SPS to develop the concept for high-bandwidth (6-12GHz) monitoring of crabbed-bunch rotation and intra-bunch instabilities at the High Luminosity LHC**. The technique relies on the ultrafast response of birefringent MgO:LiNO3 crystals to optically measure the intra-bunch transverse displacement of a passing relativistic bunch. This paper reports on recent developments, including a new interferometric electro-optic pick-up that was installed in the CERN SPS in September 2017; in first beam tests with nominal bunch charge, a corresponding interferometric signal has been observed. The interferometric arrangement has the advantages of being sensitive to the strongest polarisation coefficient of the crystal, and the phase offset of the interferometer is controllable by frequency scanning of the laser, which enables rapid optimisation of the working point. Novel concepts and bench tests for enhancements to the pick-up design are reviewed, together with prospects for sensitivity during the first crab-cavity beam tests at the CERN SPS in 2018.
+* A. Arteche et al "First beam tests at the CERN SPS of an electro-optic beam position monitor for the HL-LHC" TUPCF23, IBIC 2017. ** HL-LHC TDR v0.1 doi.org/10.23731/CYRM-2017-004
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL073
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL074
+Commissioning of the Operational Laser Emittance Monitors for LINAC4 at CERN
+2357
+
+
+ 
+
+T. Hofmann, G.E. Boorman, A. Bosco, S.M. Gibson
+                       Royal Holloway, University of London, Surrey, United Kingdom
+F. Roncarolo
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+A laser-based emittance monitor has been developed to non-invasively measure the transverse emittance of the LINAC4 H− beam at its top energy of 160MeV. After testing several sub-systems of the instrument during linac commissioning at intermediate energies, two instruments are now permanently installed. These instruments use a pulsed laser beam delivered to the accelerator tunnel by optical fibres before final focusing onto the H− beam. The photons in the laser pulse detach electrons from the H− ions, which can then be deflected into an electron multiplier. In addition, the resulting neutral H0 atoms can be separated from the main beam by a dipole magnet before being recorded by downstream diamond strip-detectors. By scanning the laser in the horizontal and vertical plane the beam profiles are obtained from the electron signals and the emittance can be reconstructed by the H0 profiles at the diamond detectors. This paper describes the final system layout that consists of two independent instruments, each measuring profile and emittance of the H− beam in the horizontal and vertical plane and discusses the preliminary commissioning results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL074
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL075
+Time-Resolved Transverse Beam Profile Measurements with a Rest Gas Ionisation Profile Monitor Based on Hybrid Pixel Detectors
+2361
+
+
+ 
+
+S. Levasseur, S.M. Gibson
+                       Royal Holloway, University of London, Surrey, United Kingdom
+W. Bertsche, H. Sandberg
+                       UMAN, Manchester, United Kingdom
+D. Bodart, A. Huschauer, G. Schneider, J.W. Storey, R. Veness
+                       CERN, Geneva, Switzerland
+M. Sapinski
+                       GSI, Darmstadt, Germany
+K. Satou
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+A novel rest gas ionisation profile monitor which aims to provide continuous, bunch-by-bunch and turn-by-turn measurement of the transverse beam profile has recently been in- stalled in the CERN Proton Synchrotron (PS) as part of the LHC Injector Upgrade (LIU) project. The instrument consists of an electric drift field to transport ionisation electrons produced by beam-gas interaction onto a measurement plane, and a magnetic field to maintain the transverse position of the ionisation electrons. The electron detector located at the measurement plane is based on four in-vacuum hybrid pixel detectors. The detectors record the position, time and energy of single ionisation electrons with unprecedented precision compared to traditional MCP based techniques. Continuous transverse beam profile measurements for LHC-type beams in the PS will be presented, demonstrating the unique capabilities of the instrument to provide new insights into beam dynamics throughout the acceleration cycle.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL075
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPAL079
+Control of Intra-Bunch Vertical Motion in the SPS with GHz Bandwidth Feedback
+2365
+
+
+ 
+
+J.D. Fox, J.E. Dusatko, C.H. Rivetta, O. Turgut
+                       SLAC, Menlo Park, California, USA
+H. Bartosik, E.R. Bjørsvik, W. Höfle, G. Kotzian, K.S.B. Li, E. Métral, B. Salvant, U. Wehrle
+                       CERN, Geneva, Switzerland
+S. De Santis
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy DE-AC02-76SF00515, US LHC Accelerator Research program, CERN LHC Injector Upgrade Project and the US-Japan Cooperative Program in High Energy Physics.
+A GHz bandwidth vertical beam feedback system has been in development at the CERN SPS to explore control of unstable beam motion in single bunch and bunch train configurations. We present measurements and recent studies of stable and unstable motion for intensities up to 2x1011 p/bunch. The system has been operated at 3.2GS/s with 16 samples across a 5 ns RF bucket (4.2 ns 3 σ bunch at injection). Experimental results confirm damping of intra-bunch instabilities in Q20, Q22 and Q26 optics configurations. Instabilities with growth times of 200 turns are well-controlled from injection, consistent with the achievable gains for the 2 installed stripline kickers with 1 kW broadband total power. Studies of the damping achieved with the diagonal FIR controllers and existing system noise floors are highlighted to evaluate benefits of MIMO feedback controllers. The work is motivated by anticipated intensity increases from the LIU and HL-LHC upgrade programs, and has included the development of a new 1 GHz bandwidth slotline kicker structure and associated amplifier system
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2018-WEPAL079
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,80 @@
+{
+  "session_info": {
+    "id": "TUOA",
+    "name": "TUOA - Seeding and Seeded FELs",
+    "url": "https://proceedings.jacow.org/FEL2012/html/tuoa.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUOA03",
+      "title": "Two Novel Laser-Based Seeding Schemes for X-ray FELs",
+      "authors": [
+        "Q.R. Marksteiner",
+        "K. Bishofberger",
+        "B.E. Carlsten",
+        "L.D. Duffy",
+        "C.M. Fortgang",
+        "P.L. Walstrom",
+        "N.A. Yampolsky",
+        "LANL",
+        "Los Alamos",
+        "New Mexico",
+        "USA",
+        "The proposed Matter-Radiation Interactions in Extremes (MaRIE) hard X-ray facility at Los Alamos National Laboratory (LANL) has some user requirements that require longitudinal bandwidths that are an order of magnitude smaller than the bandwidths provided by a SASE FEL. We discuss two novel laser-based harmonic generation schemes for x-ray FELs which could be incorporated into x-ray FELs in order to achieve these bandwidths. The first scheme is a hybrid of Echo-Enabled Harmonic Generation (EEHG) and High-Gain Harmonic Generation (HGHG)",
+        "which only requires a single laser with relatively low power",
+        "compared with EEHG. The second scheme uses a pair of Emittance Exchangers (EEX) after a laser modulator",
+        "in order to compress the modulation by a large factor. The strengths and design constraints of these schemes will be discussed",
+        "and a general formulism for studying the evolution of bandwidth and bunching factors in a complex seeding scheme will be presented [Yampolsky",
+        "arXiv:111.0553v1]. We will show how the hybrid EEHG-HGHG scheme can be incorporated into the NGLS for increased seeding performance."
+      ],
+      "institutions": [
+        "Funding: We acknowledge the support of the LDRD program at Los Alamos National Laboratory."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/FEL2012/talks/tuoa03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/FEL2012/papers/tuoa03.pdf",
+      "poster_url": "https://proceedings.jacow.org/FEL2012/posters/tuoa03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-FEL2012-TUOA03",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOA04",
+      "title": "Coherence Properties of FERMI@Elettra",
+      "authors": [
+        "B. Mahieu",
+        "E. Allaria",
+        "G. De Ninno",
+        "E. Ferrari",
+        "F. Parmigiani",
+        "L. Raimondi",
+        "S. Spampinati",
+        "C. Spezzani",
+        "C. Svetina",
+        "M. Zangrando",
+        "Elettra-Sincrotrone Trieste S.C.p.A.",
+        "Basovizza",
+        "Italy",
+        "CEA/DSM/DRECAM/SPAM",
+        "Gif-sur-Yvette",
+        "France",
+        "We report the results of a campaign of measurements aimed at characterizing the spatial and temporal coherence of the FERMI@Elettra free-electron laser. The results (the first obtained on a high-gain seeded single-pass free-electron laser)",
+        "are compared with those obtained on other (SASE-based) facilities."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/FEL2012/talks/tuoa04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/FEL2012/papers/tuoa04.pdf",
+      "poster_url": "https://proceedings.jacow.org/FEL2012/posters/tuoa04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-FEL2012-TUOA04",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 17:33:58"
+}

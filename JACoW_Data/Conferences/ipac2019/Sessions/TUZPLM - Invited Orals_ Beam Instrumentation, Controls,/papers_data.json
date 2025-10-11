@@ -1,0 +1,68 @@
+{
+  "session_info": {
+    "id": "TUZPLM",
+    "name": "TUZPLM - Invited Orals: Beam Instrumentation, Controls, Feedback and Operational Aspects",
+    "url": "https://proceedings.jacow.org/ipac2019/html/tuzplm.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUZPLM1",
+      "title": "Adding Data Science and More Intelligence to Our Accelerator Toolbox",
+      "authors": [
+        "University of New Mexico",
+        "Albuquerque",
+        "USA",
+        "Element Aero",
+        "Chicago",
+        "USA",
+        "Requirements for recent accelerators are becoming more and more stringent and sophisticated machine tuning is necessary. A large amount of data is acquired from accelerator components as an assistant of machine tuning. It is hard for operators to utilize all the accelerator data for machine tuning. Therefore",
+        "machine learning",
+        "data mining and big data handling are recently applied to accelerators. For instance",
+        "Bayesian optimization is used for maximizing a target performance",
+        "a clustering algorithm is used for anomaly detection",
+        "and hidden correlation finding is utilized for discovering new aspects of a machine. This talk reviews recent progress of machine learning applications and big data handling in accelerators."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2019/talks/tuzplm1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2019/papers/tuzplm1.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2019/posters/tuzplm1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2019-TUZPLM1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUZPLM2",
+      "title": "Optics Measurements at SuperKEKB Using Beam Based Calibration for BPM and BBA",
+      "authors": [
+        "H. Sugimoto",
+        "H. Koiso",
+        "K. Mori",
+        "A. Morita",
+        "Y. Ohnishi",
+        "M. Tejima",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "The beam-based calibration(BBC) technique for Beam-Position-Monitor(BPM) is applied in order to establish reliable optics measurement. In the BBC",
+        "a response model between beam position",
+        "charge and output signals of the BPM electrodes are introduced to calibrate the relative gain of the BPM electrodes. The gains are adjusted by total squares fitting so that the model reproduces the measured BPM signals. The Beam-Based Alignment(BBA) is also performed to determine the magnetic center of a quadrupole. Using BBC and BBA",
+        "the performance of the BPM system and optics correction are successfully improved. This talk presents what we experienced during the beam commissioning focusing on beam optics measurement and some details on the beam-based calibration scheme for BPM system."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2019/talks/tuzplm2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2019/papers/tuzplm2.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2019/posters/tuzplm2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2019-TUZPLM2",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 19:08:25"
+}

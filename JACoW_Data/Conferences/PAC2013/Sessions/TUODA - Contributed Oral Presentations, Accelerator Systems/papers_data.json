@@ -1,0 +1,82 @@
+{
+  "session_info": {
+    "id": "TUODA",
+    "name": "TUODA - Contributed Oral Presentations, Accelerator Systems",
+    "url": "https://proceedings.jacow.org/PAC2013/html/tuoda.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUODA1",
+      "title": "High Pressure Gas-Filled RF Cavities for Use in a Muon Cooling Channel",
+      "authors": [
+        "B.T. Freemire",
+        "P.M. Hanlet",
+        "Y. Torun",
+        "IIT",
+        "Chicago",
+        "Illinois",
+        "USA",
+        "M. Chung",
+        "M.R. Jana",
+        "M.A. Leonova",
+        "A. Moretti",
+        "T.A. Schwarz",
+        "A.V. Tollestrup",
+        "Y. Torun",
+        "K. Yonehara",
+        "Fermilab",
+        "Batavia",
+        "USA",
+        "Politecnico di Torino",
+        "Torino",
+        "Italy",
+        "Muons",
+        "Inc",
+        "Illinois",
+        "USA",
+        "A high pressure hydrogen gas-filled RF (HPRF) cavity can operate in the multi-Tesla magnetic fields required for a muon accelerator cooling channel. A beam test was performed at the Fermilab MuCool Test Area by sending a 400 MeV proton beam through an 805 MHz cavity and quantifying the effects of the resulting plasma within the cavity. The resulting energy loss per electron-ion pair produced has been measured at 10-18 to 10-16 J every RF cycle. Doping the hydrogen gas with oxygen greatly decreases the lifetime of an electron",
+        "thereby improving the performance of the HPRF cavity. Electron lifetimes as short as 1 ns have been measured. The recombination rate of positive and negative ions in the cavity has been measured on the order of 10-8 cm3/s. Extrapolation in both gas pressure and beam intensity are required to obtain Muon Collider parameters",
+        "however the results indicate HPRF cavities can be used in a muon accelerator cooling channel."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/tuoda1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/tuoda1.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/tuoda1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-TUODA1",
+      "page_number": "419",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUODA2",
+      "title": "Test of Optical Stochastic Cooling in the IOTA Ring",
+      "authors": [
+        "V.A. Lebedev",
+        "Y. Tokpanov",
+        "Fermilab",
+        "Batavia",
+        "USA",
+        "LBNL",
+        "Berkeley",
+        "California",
+        "USA",
+        "A new 150 MeV electron storage ring is being built at Fermilab. The construction of a new machine pursues two goals a test of highly non-linear integrable optics and a test of optical stochastic cooling (OSC). This paper discusses details of OSC arrangements",
+        "choice of major parameters of the cooling scheme and experimental tests of the optical amplifier prototype. The amplifier uses highly doped Ti-sapphire crystal as amplification medium. The major goal of experiments is to measure the amplifier dispersion which determines lengthening of single particle signal and the effective bandwidth of the system."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/tuoda2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/tuoda2.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/tuoda2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-TUODA2",
+      "page_number": "422",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 01:37:30"
+}

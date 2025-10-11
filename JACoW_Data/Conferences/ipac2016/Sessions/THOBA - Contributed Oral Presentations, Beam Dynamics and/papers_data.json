@@ -1,0 +1,96 @@
+{
+  "session_info": {
+    "id": "THOBA",
+    "name": "THOBA - Contributed Oral Presentations, Beam Dynamics and Electromagnetic Fields",
+    "url": "https://proceedings.jacow.org/ipac2016/html/thoba.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THOBA01",
+      "title": "RF Pinger Commissioning and Beam Dynamics Studies at NSLS-II",
+      "authors": [
+        "G.M. Wang",
+        "B. Holub",
+        "Y. Li",
+        "J. Rose",
+        "T.V. Shaftan",
+        "V.V. Smaluk",
+        "BNL",
+        "Upton",
+        "Long Island",
+        "New York",
+        "USA",
+        "NSLS II storage ring RF system has the digital ramp control function",
+        "enabling rapid change of the cavity phase and amplitude. This",
+        "together with largely overcoupled RF cavity and transmitter geometry",
+        "enables the possibility to \"ping\" the beam in longitudinal phase space. Similar to the pinger commonly used for transverse beam dynamic studies",
+        "the RF jump presents with a powerful tool for investigation of the machine longitudinal beam dynamics. During our beam studies",
+        "RF phase was jumped within a short interval of time (less than synchrotron period). Using turn-by-turn data from BPMs we measured the machine energy acceptance with and without damping wigglers. This paper presents the beam study results."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2016/talks/thoba01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2016/papers/thoba01.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2016/posters/thoba01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2016-THOBA01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THOBA02",
+      "title": "Space Charge Induced Collective Modes and Beam Halo in Periodic Channels",
+      "authors": [
+        "C. Li",
+        "Zh.C. Liu",
+        "Q. Qin",
+        "Y.L. Zhao",
+        "IHEP",
+        "Beijing",
+        "People's Republic of China",
+        "The collective mode instabilities of periodically focused high intensity beams based on the Vlasov-Poisson equation are investigated both analytically and numerically. It is found that the broadened collective stop bands resulting from space charge induced structure resonance in long periodic channels predict well the areas where the rms emittance growth accompanied with n-fold phase space structure (beam halo) would take place. We believe that the formed beam halo",
+        "which is depicted in action-angle frame",
+        "could be understood as a side-effect of the collective beam mode."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2016/talks/thoba02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2016/papers/thoba02.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2016/posters/thoba02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2016-THOBA02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THOBA03",
+      "title": "Start-to-end Calculations and Trajectory Correction for BERLinPro",
+      "authors": [
+        "B.C. Kuske",
+        "C.J. Metzger-Kraus",
+        "HZB",
+        "Berlin",
+        "Germany",
+        "BERLinPro is an ERL project under construction at the Helmholtz-Zentrum Berlin",
+        "with the goal to illuminate the challenges and promises of a high brightness 100 mA superconducting RF gun in combination with a 50 MeV return loop and energy recovery. Latest changes to the optics code OPAL allow for the first time to perform start-to-end tracking studies including space charge in a single run",
+        "without switching between codes. This opens the way to apply correction schemes to displaced trajectories in the complete machine and to study the effect of jitter sources",
+        "including the space charge dominated injector",
+        "on the machine performance parameters. Trajectory correction is discussed. Jitter is studied with respect to its potential impact on the recovery process and parameter changes before the dump."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2016/talks/thoba03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2016/papers/thoba03.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2016/posters/thoba03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2016-THOBA03",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 20:14:23"
+}

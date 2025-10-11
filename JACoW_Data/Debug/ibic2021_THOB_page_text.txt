@@ -1,0 +1,253 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2021 - Table of Session: THOB (Feedback Systems and Beam Stability)
+
+
+THOB —  Feedback Systems and Beam Stability   (16-Sep-21   22:40—23:59)
+
+
+
+Paper
+Title
+Page
+
+
+
+THOB01
+Control of the Microbunching Instability and Stabilization of the THz Coherent Radiation
+ 
+
+
+ 
+
+C. Evain, S. Bielawski
+                       PhLAM/CERLA, Villeneuve d’Ascq, France
+
+ 
+
+
+ 
+
+A PhLAM laboratory team, together with the Synchrotron SOLEIL, have demonstrated the possibility to control the multibunching instability that appears spontaneously when the number of electrons in a bunch exceeds a threshold value (typically few mA). By measuring the amplitude of THz emission created by the bunch structure appearing with this instability, and by modulating correspondingly the RF cavity amplitude (to change the bunch length), the THz coherent radiation can be stabilized. The method is inspired by control of chaos techniques which aims at stabilizing an unstable state thanks to feedback loop. Feasibility experiment conducted at Synchrotron SOLEIL showed that the stabilization process is efficient up to 9.15 mA. This major achievement is a first step toward strong THz coherent sources in storage rings. Next challenges are the extension of the control to higher current.
+’Stable coherent terahertz synchrotron radiation from controlled relativistic electron bunches’, C. Evain et al. , Nature Physics (april 2019).
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides THOB01 [51.650 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOB02
+High-Resolution, Low-Latency, Bunch-by-Bunch Feedback Systems for Nanobeam Production and Stabilization
+458
+
+
+ 
+
+P. Burrows, D.R. Bett, N. Blaskovic Kraljevic, T. Bromwich, G.B. Christian, C. Perry, R.L. Ramjiawan
+                       JAI, Oxford, United Kingdom
+
+ 
+
+
+ 
+
+High-precision intra-bunch-train beam orbit feedback correction systems have been developed and tested in the ATF2 beamline of the Accelerator Test Facility at the High Energy Accelerator Research Organization in Japan. Two systems are presented: 1) The vertical position of the bunch measured at two beam stripline position monitors (BPMs) is used to calculate a pair of kicks which are applied to the next bunch using two upstream kickers, thereby correcting both the vertical position and trajectory angle. This system was optimized so as to stabilize the beam offset at the feedback BPMs to better than 350 nm, yielding a local trajectory angle correction to within 250 nrad. Measurements with a beam size monitor at the focal point (IP) demonstrate that reducing the trajectory jitter of the beam by a factor of 4 also reduces the observed wakefield-induced increase in the measured beam size as a function of beam charge by a factor of c. 1.6. 2) High-resolution cavity BPMs were used to provide local beam stabilization in the IP region. The BPMs were demonstrated to achieve an operational resolution of ~20 nm. With the application of single-BPM and two-BPM feedback, beam stabilization of below 50 nm and 41 nm respectively has been achieved with a closed-loop latency of 232 ns.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides THOB02 [15.336 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2021-THOB02
+
+ 
+
+
+About •
+paper received ※ 27 August 2021       paper accepted ※ 28 September 2021        issue date ※ 10 October 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOB03
+Adaptive Control and Machine Learning for Particle Accelerator Beam Control and Diagnostics
+466
+
+
+ 
+
+A. Scheinker
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+In this tutorial, we start by reviewing some topics in control theory, including adaptive and model-independent feedback control algorithms that are robust to uncertain and time-varying systems, and provide some examples of their application for particle accelerator beams at both hadron and electron machines. We then discuss recent developments in machine learning (ML) and show some examples of how ML methods are being developed for accelerator controls and diagnostics, such as online surrogate models that act as virtual observers of beam properties. Then we give an overview of adaptive machine learning (AML) in which adaptive model-independent methods are combined with ML-based methods so that they are robust for and applicable to time-varying systems*. Finally, we present some recent applications of AML for accelerator controls and diagnostics. In particular we present recently developed adaptive latent space tuning methods and show how they can be used as virtual adaptive predictors of an accelerator beam’s longitudinal phase space as well as all of the other 2D projections of a beam’s 6D phase space**,***. Throughout the tutorial we will present recent results of various algorithms which have been applied at the LANSCE ion accelerator, the EuXFEL and LCLS FELs, the FACET plasma wakefield accelerator facility, the NDCXII ion accelerator, and the HiRES compact UED.
+* A. Scheinker, et al. Physical review letters 121.4 (2018): 044801.  ** A. Scheinker, et al. arXiv preprint arXiv:2102.10510 (2021). *** A. Scheinkeret al. arXiv preprint arXiv:2105.03584(2021).
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides THOB03 [24.453 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2021-THOB03
+
+ 
+
+
+About •
+paper received ※ 04 September 2021       paper accepted ※ 26 September 2021        issue date ※ 25 October 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

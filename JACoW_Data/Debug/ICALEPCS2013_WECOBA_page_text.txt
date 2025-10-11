@@ -1,0 +1,266 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: WECOBA (Data Management and Processing)
+
+
+WECOBA —  Data Management and Processing   (09-Oct-13   10:45—12:30)
+Chair: N. Hauser, ANSTO, Menai, Australia
+
+
+Paper
+Title
+Page
+
+
+
+WECOBA01
+Algebraic Reconstruction of Ultrafast Tomography Images at the Large Scale Data Facility
+996
+
+
+ 
+
+X. Yang, T. Jejkal, H. Pasic, R. Stotzka, A. Streit, T. dos Santos Rolo, T. van de Kamp
+                       KIT, Eggenstein-Leopoldshafen, Germany
+
+ 
+
+
+ 
+
+Funding: Kalsruhe Institute of Technology, Institute for Data Processing and Electronics; China Scholarship Council
+The ultrafast tomography system built up at the ANKA Synchrotron Light Source at KIT makes possible the study of moving biological objects with high temporal and spatial resolution. The resulting amounts of data are challenging in terms of reconstruction algorithm, automatic processing software and computing. The standard operated reconstruction method yields limited quality of reconstruction images due to much fewer projections obtained from the ultrafast tomography. Thus an algebraic reconstruction technique based on a more precise forward transform model and compressive sampling theory is investigated. It results in high quality images, but is computationally very intensive. For near real–time reconstruction, an automatic workflow is started after data ingest, processing a full volume data in parallel using the Hadoop cluster at the Large Scale Data Facility (LSDF) to reduce the computing time greatly. It will not only provide better reconstruction results but also higher data analysis efficiency to users. This study contributes to the construction of the fast tomography system at ANKA and will enhance its application in the fields of chemistry, biology and new materials.
+
+ 
+
+
+
+
+
+
+Slides WECOBA01 [1.595 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOBA02
+Distributed Information Services for Control Systems
+1000
+
+
+ 
+
+V. Vuppala, E.T. Berryman
+                       NSCL, East Lansing, Michigan, USA
+C.P. Chu, D. Liu, S. Peng
+                       FRIB, East Lansing, Michigan, USA
+L.R. Dalesio, D. Dohan, G. Shen, K. Shroff
+                       BNL, Upton, Long Island, New York, USA
+H.H. Lv, C.H. Wang, Z. Zhao
+                       IHEP, Beijing, People's Republic of China
+K. Rathsman, G. Trahern
+                       ESS, Lund, Sweden
+M. Vitorovic
+                       Cosylab, Ljubljana, Slovenia
+K. Žagar
+                       COBIK, Solkan, Slovenia
+
+ 
+
+
+ 
+
+During the design and construction of an experimental physics facility (EPF), a heterogeneous set of engineering disciplines, methods, and tools is used, making subsequent exploitation of data difficult. In this paper, we describe a framework (DISCS) for building high-level applications for commissioning, operation, and maintenance of an EPF that provides programmatic as well as graphical interfaces to its data and services. DISCS is a collaborative effort of BNL, FRIB, Cosylab, IHEP, and ESS. It is comprised of a set of cooperating services and applications, and manages data such as machine configuration, lattice, measurements, alignment, cables, machine state, inventory, operations, calibration, and design parameters. The services/applications include Channel Finder, Logbook, Traveler, Unit Conversion, Online Model, and Save-Restore. Each component of the system has a database, an API, and a set of applications. The services are accessed through REST and EPICS V4. We also discuss the challenges to developing database services in an environment where requirements continue to evolve and developers are distributed among different laboratories with different technology platforms.
+
+ 
+
+
+ 
+
+
+
+WECOBA03
+eResearch Tools for the Australian Synchrotron Research Community
+ 
+
+
+ 
+
+C.U. Felzmann
+                       SLSA, Clayton, Australia
+
+ 
+
+
+ 
+
+Funding: NeCTAR is an Australian Government project conducted as part of the Super Science initiative and financed by the Education Investment Fund.
+The Australian Synchrotron (AS) supports a large and growing sector of the Australian and New Zealand research communities. Research conducted at the facility strongly enhances programs in a broad range of sciences including fields as diverse as medicine, materials science, electronics, clean fuels, agriculture, art conservation and forensics. The steady growth in user numbers and rise in synchrotron applications and science output can only be maintained with matching growth in information technologies. In particular, collaborative approaches for data analysis are needed to account for the geographic spread of synchrotron users. As a consequence, the AS is a recognized pioneer in the use of cyber-infrastructure in Australia. Currently the AS is in partnership with “NeCTAR”, an Australian Government project to develop “eResearch Tools for the Australian Synchrotron research community”. The project focuses on automating technique-specific workflows for data processing, heavily utilizing local HPC and Cloud resources, and making these capabilities remotely accessible. Here we present the deliverables, the impact on the research community, and the measured uptake of this project.
+
+ 
+
+
+
+
+
+
+Slides WECOBA03 [1.933 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOBA04
+Effective End-to-end Management of Data Acquisition and Analysis for X-ray Photon Correlation Spectroscopy
+1004
+
+
+ 
+
+F. Khan, J.P. Hammonds, S. Narayanan, A. Sandy, N. Schwarz
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+Low latency between data acquisition and analysis is of critical importance to any experiment. The combination of a faster parallel algorithm and a data pipeline for connecting disparate components (detectors, clusters, file formats) enabled us to greatly enhance the operational efficiency of the x-ray photon correlation spectroscopy experiment facility at the Advanced Photon Source. The improved workflow starts with raw data (120 MB/s) streaming directly from the detector camera, through an on-the-fly discriminator implemented in firmware to Hadoop’s distributed file system in a structured HDF5 data format. The user then triggers the MapReduce-based parallel analysis. For effective bookkeeping and data management, the provenance information and reduced results are added to the original HDF5 file. Finally, the data pipeline triggers user specific software for visualizing the data. The whole process is completed shortly after data acquisition – a significant improvement of operation over previous setup. The faster turn-around time helps scientists to make near real-time adjustments to the experiments.
+
+ 
+
+
+
+
+
+
+Slides WECOBA04 [9.540 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOBA05
+Understanding NIF Experimental Results: NIF Target Diagnostic Automated Analysis Recent Accompolishments
+1008
+
+
+ 
+
+J.A. Liebman, R.C. Bettenhausen, E.J. Bond, A.D. Casey, R.N. Fallejo, M.S. Hutton, A.A. Marsh, T. M. Pannell, S.M. Reisdorf, A.L. Warrick
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was performed under the auspices of the Lawrence Livermore National Security, LLC, (LLNS) under Contract No. DE-AC52-07NA27344. #LLNL-ABS-632818
+The National Ignition Facility (NIF) at the Lawrence Livermore National Laboratory is the most energetic laser system in the world. During a NIF laser shot, a 20-ns ultraviolet laser pulse is split into 192 separate beams, amplified, and directed to a millimeter-sized target at the center of a 10-m target chamber. To achieve the goals of studying energy science, basic science, and national security, NIF laser shot performance is being optimized around key metrics such as implosion shape and fuel mix. These metrics are accurately quantified after each laser shot using automated signal and image processing routines to analyze raw data from over 50 specialized diagnostics that measure x-ray, optical and nuclear phenomena. Each diagnostic’s analysis is comprised of a series of inverse problems, timing analysis, and specialized processing. This talk will review the framework for general diagnostic analysis, give examples of specific algorithms used, and review the diagnostic analysis team’s recent accomplishments. The automated diagnostic analysis for x-ray, optical, and nuclear diagnostics provides accurate key performance metrics and enables NIF to achieve its goals.
+
+ 
+
+
+
+
+
+
+Slides WECOBA05 [3.991 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOBA06
+Exploring No-SQL Alternatives for ALMA Monitoring System
+1012
+
+
+ 
+
+T.C. Shen, A.I. Aguirre, A.J. Barrientos, M.H. Bartsch, J.P.A. Ibsen, M. Merino, L.I. Peña, R. Soto
+                       ALMA, Joint ALMA Observatory, Santiago, Chile
+
+ 
+
+
+ 
+
+The Atacama Large Millimeter /submillimeter Array (ALMA) will be a unique research instrument composed of at least 66 reconfigurable high-precision antennas, located at the Chajnantor plain in the Chilean Andes at an elevation of 5000 m. This paper describes the experience gained after several years working with the monitoring system, which has the fundamental requirement to collect and storage up to 100K variables. The original design is built on top of a cluster of relational database server and network attached storage with fiber channel interface. As the number of monitoring points increases with the number of antennas included in the array, the current monitoring system has demonstrated to be able to handle the increased data rate in the collection and storage area, but the data query interface has started to suffered serious performance degradation. A solution based on no-SQL platform was explored as an alternative of the current long-term storage system, specifically mongoDB has been chosen. Intermediate cache servers based on Redis are also introduced to allow faster online data streaming of the most recent data to data analysis application and web based charts applications
+
+ 
+
+
+
+
+
+
+Slides WECOBA06 [0.916 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOBA07
+High Speed Detectors: Problems and Solutions
+1016
+
+
+ 
+
+N.P. Rees, M. Basham, J. Ferner, U.K. Pedersen, T.S. Richter, J.A. Thompson
+                       Diamond, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Diamond has an increasing number of high speed detectors primarily used on Macromolecular Crystallography, Small Angle X-Ray Scattering and Tomography beamlines. Recently, the performance requirements have exceeded the performance available from a single threaded writing process on our Lustre parallel file system, so we have had to investigate other file systems and ways of parallelising the data flow to mitigate this. We report on the some comparative tests between Lustre and GPFS, and some work we have been leading to enhance the HDF5 library to add features that simplify the parallel writing problem.
+
+ 
+
+
+
+
+
+
+Slides WECOBA07 [0.617 MB]
+            
+ 
+
+
+ 
+
+
+
+

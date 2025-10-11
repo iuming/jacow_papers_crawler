@@ -1,0 +1,146 @@
+{
+  "session_info": {
+    "id": "MOZGBD",
+    "name": "MOZGBD - MC2 Orals",
+    "url": "https://proceedings.jacow.org/ipac2018/html/mozgbd.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOZGBD1",
+      "title": "Towards Full Performance Operation of SwissFEL",
+      "authors": [
+        "PSI",
+        "Villigen PSI",
+        "Switzerland"
+      ],
+      "institutions": [
+        "SwissFEL is the new X-ray free-electron laser facility at the Paul Scherrer Institute (PSI) in Switzerland. It was inaugurated in December 2016 and saw its first pilot experiments at the end of 2017. We describe the commissioning steps leading to the first phase of pilot experiments and outline the plans towards reaching nominal performance levels in 2018."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2018/talks/mozgbd1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2018/papers/mozgbd1.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2018/posters/mozgbd1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2018-MOZGBD1",
+      "page_number": "24",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOZGBD2",
+      "title": "FEL Performance Achieved at European XFEL",
+      "authors": [
+        "DESY",
+        "Hamburg",
+        "Germany",
+        "The European XFEL has achieved first lasing by mid-2017 and first user experiments started by the end of that year. This invited talk describes the status of this facility",
+        "presenting highlights from the construction and commissioning",
+        "outlining experience from early operation",
+        "and discussing potential future developments."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2018/talks/mozgbd2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2018/papers/mozgbd2.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2018/posters/mozgbd2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2018-MOZGBD2",
+      "page_number": "29",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOZGBD3",
+      "title": "Performance of the First LCLS-II Cryomodules: Issues and Solutions",
+      "authors": [
+        "N. Solyak",
+        "E. Cullerton",
+        "J. Einstein-Curtis",
+        "E.R. Harms",
+        "B.D. Hartsell",
+        "J.P. Holzbauer",
+        "T.N. Khabiboulline",
+        "A. Lunin",
+        "Y.M. Pischalnikov",
+        "R.P. Stanek",
+        "G. Wu",
+        "Fermilab",
+        "Batavia",
+        "Illinois",
+        "USA",
+        "CEA/DSM/IRFU",
+        "France",
+        "LCLS-II 4 GeV linac is on the middle production stage. Linac contains 40 cryomodules of 1.3 GHz and 3 cryomodules of 3.9 GHz",
+        "including spares. Fermilab and JLAB share responsibility for cryomodule design",
+        "assembly and test. Paper will overview the performance of the cryomodules it the tests",
+        "lessons learned and modifications in design to improve performance."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2018/talks/mozgbd3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2018/papers/mozgbd3.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2018/posters/mozgbd3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2018-MOZGBD3",
+      "page_number": "34",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOZGBD4",
+      "title": "Toward 10 fs Timing Stability of PAL-XFEL",
+      "authors": [
+        "C.-K. Min",
+        "I. Eom",
+        "J. Hu",
+        "S.H. Jung",
+        "H.-S. Kang",
+        "S.H. Kim",
+        "H.-S. Lee",
+        "S.S. Park",
+        "PAL",
+        "Pohang",
+        "Kyungbuk",
+        "Republic of Korea",
+        "PAL-XFEL demonstrates 20 fs jitter in e-bunch arrival time at the end of undulators and its pump-probe system",
+        "which is extremely useful for maintaining high stability of machine and time-resolved experiments with high time resolution. Our low phase noise timing system and high stability high power RF system enable this low jitter. Our measurement shows 10 fs jitter of e-bunch arrival time at the injector and it increased ~20 fs due to e-bunch energy variation. The possibility of improving the final jitter is described based on the optimization of bunch compressors and longitudinal feedback."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2018/talks/mozgbd4_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2018/papers/mozgbd4.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2018/posters/mozgbd4_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2018-MOZGBD4",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOZGBD5",
+      "title": "A Proposal for Coherent Hard X-Ray Generation Based on Two-Stage EEHG",
+      "authors": [
+        "Z.T. Zhao",
+        "J.H. Chen",
+        "C. Feng",
+        "Z. Wang",
+        "K.Q. Zhang",
+        "SINAP",
+        "Shanghai",
+        "People's Republic of China"
+      ],
+      "institutions": [],
+      "abstract": "A two stage echo-enabled harmonic generation (EEHG) scheme to produce coherent hard X-rays is presented. Electron bunchs of quite different lengths are separately used in each stage of EEHG and a monochromator is employed to purify the radiation from the first stage for seeding the second one. Theoretical analysis and 3D simulations show that the proposed scheme can generate fully coherent hard X-ray pulses directly from a conventional UV seed laser.",
+      "presentation_url": "https://proceedings.jacow.org/ipac2018/talks/mozgbd5_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2018/papers/mozgbd5.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2018/posters/mozgbd5_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2018-MOZGBD5",
+      "page_number": "38",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 5,
+  "scrape_time": "2025-10-10 19:22:23"
+}

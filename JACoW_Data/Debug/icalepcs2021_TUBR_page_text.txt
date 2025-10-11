@@ -1,0 +1,327 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: TUBR (Device Control and Integrating Diverse Systems II)
+
+
+TUBR —  Device Control and Integrating Diverse Systems II   (19-Oct-21   13:15—14:30)
+Chair: M. Fedorov, LLNL, Livermore, California, USA
+
+
+
+TUBR
+   Video of full session  »Device Control and Integrating Diverse Systems II« (total time: 01:16:45 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+TUBR01
+Nominal Device Support (NDSv3) as a Software Framework for Measurement Systems in Diagnostics
+337
+
+
+ 
+
+R. Lange
+                       ITER Organization, St. Paul lez Durance, France
+M. Astrain, V. Costa, D. Rivilla, M. Ruiz
+                       UPM-I2A2, Madrid, Spain
+J. Moreno, D. Sanz
+                       GMV, Madrid, Spain
+
+ 
+
+
+ 
+
+Software integration of diverse data acquisition and timing hardware devices in diagnostics applications is very challenging. While the implementation should manage multiple hardware devices from different manufacturers providing different applications program interfaces (APIs), scientists would rather focus on the high level configuration, using their specific environment such as EPICS, Tango, the ITER Real-Time Framework or the MARTe2 middleware. The Nominal Device Support (NDSv3) C++ framework, conceived by Cosylab and under development at ITER for use in its diagnostic applications, uses a layered approach, abstracting specific hardware device APIs as well as the interface to control systems and real-time applications. ITER CODAC and its partners have developed NDS device drivers using both PXIe and MTCA platforms for multifunction DAQ devices, timing cards and FPGA-based solutions. In addition, the concept of an NDS-System encapsulates a complex structure of multiple NDS device drivers, combining functions of the different low-level devices and collecting all system-specific logic, separating it from generic device driver code.
+
+ 
+
+
+
+
+
+
+Slides TUBR01 [2.551 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUBR01
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Accepted ※ 30 November 2021       
+Issue date ※ 23 February 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBR02
+Design Patterns for the SKA Control System
+343
+
+
+ 
+
+S. Vrcic
+                       SKAO, Macclesfield, United Kingdom
+
+ 
+
+
+ 
+
+The Control System for the Square Kilometre Array, a project to build two large Radio-Telescopes, is based on the TANGO Controls framework. The SKA Telescopes comprise a large number of diverse elements and instruments; this paper presents the key design patterns for the implementation of the SKA Control System.
+
+ 
+
+
+
+
+
+
+Slides TUBR02 [4.002 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUBR02
+
+ 
+
+
+About •
+Received ※ 16 October 2021       Accepted ※ 29 January 2022       
+Issue date ※ 11 March 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBR03
+Control System for 6 MeV Linear Accelerator at LINAC Project PINSTECH
+348
+
+
+ 
+
+N.U. Saqib, M. Ajmal, A. Majid, D.A. Nawaz, F. Sher, A. Tanvir
+                       PINSTECH, Islamabad, Pakistan
+
+ 
+
+
+ 
+
+At LINAC Project PINSTECH, 6 MeV electron linear accelerator prototypes are being developed for medical as well as industrial purposes. Control system of the linear accelerators is a distributed control system mainly comprised of EPICS and PLCs. Graphical User Interface (GUI) are developed using Phoebus Control System Studio (CSS) and Siemens WinCC Advanced software. This paper focuses on design, development and implementation of accelerator control system for various subsystems such as RF, vacuum, cooling as well as safety subsystems. The current status of the control system and services is presented.
+
+ 
+
+
+
+
+
+
+Slides TUBR03 [7.940 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUBR03
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 16 October 2021       
+Accepted ※ 24 November 2021        Issue date ※ 22 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBR04
+Control System of Cryomodule Test Facilities for SHINE*
+353
+
+
+ 
+
+H.Y. Wang, G.H. Chen, J.F. Chen, J.G. Ding, M. Li, Y.J. Liu, Q.R. Mi, H.F. Miao, C.L. Yu
+                       SSRF, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: Work supported by Shanghai Municipal Science and Technology Major Project (Grant No. 2017SHZDZX02)
+Shanghai HIgh repetition rate XFEL aNd Extreme light facility (SHINE) is under construction. The 8 GeV superconducting Linac consists of seventy-five 1.3 GHz and two 3.9 GHz cryomodules. A cryomodule assembling and test workshop is established. Multiple platforms have been built for cryomodule and superconducting cavity test, including two vertical test platforms, two horizontal test platform, one multiple test platform and one liquid helium visualization platform. The local control systems are all based on Yokogawa PLC, which monitor and control the process variables such as temperature, pressure, liquid level and power of the heater. PID and other algorithms are used to keep liquid level and power balance. EPICS is adopt to integrate these platforms’along with vacuum devices, solid state amplifiers, LLRF and RF measurement system, etc. The details of the control system design, development and commissioning will be reported in this paper.
+
+ 
+
+
+
+
+
+
+Slides TUBR04 [22.084 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUBR04
+
+ 
+
+
+About •
+Received ※ 22 October 2021       Accepted ※ 11 February 2022       
+Issue date ※ 24 February 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUBR05
+Integrating OPC UA Devices into EPICS Using the Open62541 Library
+ 
+
+
+ 
+
+S. Marsching
+                       Aquenos GmbH, Baden-Baden, Germany
+E. Blomley, D. Hoffmann, W. Mexner, A.-S. Müller, M. Schuh
+                       KIT, Eggenstein-Leopoldshafen, Germany
+
+ 
+
+
+ 
+
+OPC UA is a standardized network protocol for integrating diverse control systems. In recent years, this protocol has gained support from many vendors of both hardware and software components, thus significantly reducing the efforts needed to integrate components from different vendors. We have developed an EPICS device support that is based on the open62541 open-source library for use at the accelerator facilities operated by the Karlsruhe Institute of Technology. This device support acts as an OPC UA client, enabling the integration of hardware components (e.g. programmable logic controllers) as well as software components (e.g. third-party control-system frameworks) into our EPICS based control systems. In this contribution, we present this EPICS device support, which is publicly available under an open-source license.
+
+ 
+
+
+
+
+
+
+Slides TUBR05 [5.179 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

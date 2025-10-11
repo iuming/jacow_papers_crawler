@@ -1,0 +1,2200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2019 - Table of Session: WEPP (Wednesday Poster Session)
+
+
+WEPP —  Wednesday Poster Session   (11-Sep-19   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPP001
+Study and Characterization of SPIRAL2 BPMs
+499
+
+
+ 
+
+V. Langlois, T. Andre, C. Jamet, G. Ledu, P. Legallois, S. Leloir, F. Lepoittevin, M. Lewitowicz, S. Loret, C. Potier de courcy
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The SPIRAL2 facility currently under commissioning at GANIL in France will deliver high-intensity up to 20MeV/n and 5mA light and heavy ions beams. SPIRAL2 beams are accelerated by a Radio Frequency Quadrupole (RFQ) and a LINAC fitted with 20 supraconducting cavities. A tuning of the SPIRAL2 LINAC relies mainly on Pick-up Beam Profile Monitors (BPM). 20 BPM are mounted inside the warm sections between superconducting cavities. They serve to measure a beam transverse position to center the beam, a phase to tune cavities and an ellipticity to adjust beam optics along the LINAC. The phase and ellipticity measurements require high acquisition accuracy of the BPM signals. This paper deals with an analytical study and CST code simulations of the BPM performed in order to compute correction coefficients for the ellipticity measurements. The results of calculations were compared with experimental ones obtained with two BPMs located on a ¿diagnostic plate¿ after the RFQ . Finally, the BPM acquisition chain was carefully characterized to identify its uncertainties and to ensure that it meets initial specifications.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP001
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP002
+Development of a Low-beta BPM for MYRTE Project
+504
+
+
+ 
+
+M. Ben Abdillah, P. Blache, F. Fournier, H. Kraftpresenter
+                       Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France
+
+ 
+
+
+ 
+
+MYRTE (MYRRHA Research Transmutation Endeavour) performs research to support the development of the MYRRHA (Multi-Purpose Hybrid Research Reactor for High-Tech Applications) research facility, which aims to demonstrate the feasibility of high-level nuclear waste transmutation at industrial scale. MYRRHA Facility aims to accelerate 4mA proton beam up to 100 MeV. The accurate tuning of LINAC is essential for the operation of MYRRHA and requires measurement of the beam transverse position and shape , the phase of the beam with respect to the radiofrequency voltage with the help of Beam Position Monitor (BPM) system. MYRTE aims to qualify beam operation at 1.5MeV. Two BPMs were realized for MYRTE operation. This paper addresses the design, realization, and calibration of these two BPMs and their associated electronics. The characterization of the beam shape is performed by means of a test bench allowing a position mapping with a resolution of 0.02mm.
+
+ 
+
+
+
+
+
+
+Poster WEPP002 [1.082 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP002
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP003
+A new button-type beam position monitor for BESSY II and BESSY VSR
+508
+
+
+ 
+
+J.G. Hwang, V. Dürr, F. Falkenstern, M. Ries, A. Schälicke, G. Schiwietz, D. Wolk
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Funding: This work was supported by the German Bundesministerium für Bildung und Forschung, Land Berlin and grants of Helmholtz Association.
+The future BESSY VSR system involves more than one order-of-magnitude differences in the total charge of adjacent short and long bunches within the bunch train. Thus, any signal ringing beyond a nanosecond in time will cause a misreading of beam position and current, specifically for low bunch charges. This calls for improved performance for the bunch-selective operation of the beam-position-monitor (BPM) system. We report on the corresponding design and fabrication of a new button BPM with advanced features, such as impedance matching inside the button as well as optimization of insulator material, button size, and position, for reduced crosstalk between buttons.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP003
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP004
+Concept of a Beam Diagnostics System for the Multi-Turn ERL Operation at the S-DALINAC
+513
+
+
+ 
+
+M. Dutine, M. Arnold, T. Bahlo, R. Grewe, L.E. Jürgensen, N. Pietralla, F. Schließmann, M. Steinhorst
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by BMBF through grant No. 05H18RDRB2 and DFG through GRK 2128.
+The S-DALINAC* is a thrice-recirculating linear electron accelerator operating in cw-mode at a frequency of 3 GHz. A path-length adjustment system in the second recirculation beam line allows to shift the beam phase by 360° and thus to operate in ERL mode. For the multi-turn ERL operation, the beam will be accelerated twice and subsequently decelerated twice again (not demonstrated yet). For this mode, it is necessary to develop a nondestructive beam diagnostics system in order to measure the beam position, phase and beam current of both, the accelerated and the decelerated beam, simultaneously in the same beamline. A particular challenge will be the operation at low beam currents of 100 nA, which corresponds to bunch charges of about 30 aC. The conceptional study of a 6 GHz resonant cavity beam position monitor will be presented together with alternative solutions.
+* N. Pietralla, Nuclear Physics News, Vol. 28, No. 2, 4 (2018)
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP004
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP005
+BPM Resolution Studies at PETRA III
+517
+
+
+ 
+
+G. Kube, J. Neugebauer, F. Schmidt-Föhre
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+In order to measure the noise level of a BPM system from beam generated orbit data, the correlated beam jitter has to be removed from the position signals. There exist different ways to extract the BPM noise, as the "three-BPM" correlation method or the model-independent principal components analysis (PCA). Both methods will shortly be reviewed. Based on a PCA, the resolution of the PETRA III Libera Brilliance based BPM system was measured. The results will be presented together with first measurements in view of an updated BPM system for the future PETRA IV project at DESY.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP005
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP006
+Operational Performance of New Detection Electronics for Stripline-Type Beam Position Monitors at the SuperKEKB Injector Linac
+522
+
+
+ 
+
+F. Miyahara, K. Furukawa, M. Satoh, Y. Seimiya, T. Suwada
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+SuperKEKB injector linac delivers four different beam modes modulated pulse by pulse at 50 Hz, which have 100-times different beam charges, and a pulse may contain two bunches only 96-ns apart. Required low-emittance beams for SuperKEKB rings would need precise beam orbit controls in order to suppress the transverse wakefield in the accelerating structures. A new detection electronics with a wide dynamic range of 40 dB with a high resolution based on a 180-MHz narrow-band detection technique for stripline-type beam position monitors (BPMs) has been developed for the SuperKEKB injector linac. While such measurement condition is challenging, a position resolution of 3 micrometer in one standard deviation was successfully achieved with beam-based tests. The self-calibration system is also installed in order to compensate gain drifts for each input channel with an accuracy down to 0.1%, by using test pulses going through stripline heads between 50-Hz beam pulses. The design concept of the new detection electronics is described in detail, as well as operational performance of synchronized measurement with 100 BPMs for injection beams to four electron/positron storage rings.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP006
+
+ 
+
+
+About •
+paper received ※ 09 September 2019       paper accepted ※ 11 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP007
+Calibration for Beam Energy Position Monitor System for Riken Superconducting Acceleration Cavity
+526
+
+
+ 
+
+T. Watanabe, M. Fujimaki, N. Fukunishi, H. Imao, O. Kamigaito, N. Sakamoto, Y. Watanabe, K. Yamada
+                       RIKEN Nishina Center, Wako, Japan
+K. Hanamura, T. Kawachi
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+A. Kamoshida
+                       National Instruments Japan Corporation, MInato-ku, Tokyo, Japan
+R. Koyama
+                       SHI Accelerator Service Ltd., Tokyo, Japan
+A. Miura
+                       JAEA/J-PARC, Tokai-mura, Japan
+T. Miyao, T. Toyama
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Upgrades for the RIKEN Heavy-ion Linac (RILAC) involving a new Superconducting Linac (SRILAC) are currently underway to promote super-heavy element searches and Radio Isotope (RI) production (211At) for medical use at the RIKEN radioactive isotope beam factory (RIBF). If destructive monitors are used, since they generate outgassing, it becomes difficult to maintain the Q value and surface resistance indicating the performance of the superconducting radio frequency (SRF) cavities over a long period of time. Therefore it is crucially important to develop nondestructive beam measurement diagnostics. We have developed a beam energy position monitor (BEPM) system which can measure not only the beam position but also the beam energy simultaneously by measuring the time of flight of the beam. By using parabolic cut, ideal linear response of the quadrupole moments is realized, keeping a good linear position sensitivity at the same time. We fabricated 11 BEPMs and the position calibration system employing a wire method has been used to obtain the sensitivity and offset of BEPMs. We will describe details concerning the BEPM, calibration system and measured results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP007
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP008
+Design of Resonant Stripline BPM for an IR-FEL Project at NSRL
+ 
+
+
+ 
+
+X.Y. Liu, B.G. Sun
+                       USTC/NSRL, Hefei, Anhui, People’s Republic of China
+M. Bopp, M.M. Dehler, X.Y. Liu, A. Scherer
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Funding: Work supported by the National Science Foundation of China (11575181, 21327901, 11705203); X. Y. Liu was supported by the China Scholarship Council for a 2-year study at PSI (Grant No. 201706340057).
+This paper presents the design of a 476MHz resonant stripline beam position monitor (BPM) for an IR-FEL machine at NSRL. This type of BPM was developed based on stripline BPM by moving the coupling feedthrough closer to the short end downstream. This modification introduces a resonance that gives this BPM a better capability to detect lower beam currents compared to broadband devices like button and stripline BPM. Meanwhile, the change is small enough to use the same type of electronics [1-3]. In the following sections, the basic principle, nonlinear effect, sensitivity, the filtered sum and difference signals, and the mechanical design of this BPM will be mainly discussed.
+Email address: xiaoyu.liu@psi.ch
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP009
+Measurement of Electron Pulse Length at 35 MeV Using a Terahertz Split Ring Resonator
+ 
+
+
+ 
+
+X.Y. Liu
+                       USTC/NSRL, Hefei, Anhui, People’s Republic of China
+M.M. Dehler, V. Guzenko, R. Ischebeck, X.Y. Liu, C. Lombosi, V. Schlott
+                       PSI, Villigen PSI, Switzerland
+T. Feurer, M. Hayati, Z. Ollmann
+                       Universität Bern, Institute of Applied Physics, Bern, Switzerland
+V. Georgiadis, D.M. Graham, M.T. Hibberd
+                       The University of Manchester, The Photon Science Institute, Manchester, United Kingdom
+A.L. Healy, S.P. Jamison
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+D. Lake
+                       The University of Manchester, Manchester, United Kingdom
+T.H. Pacey
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+D. Rohrbach
+                       University of Bern, Bern, Switzerland
+
+ 
+
+
+ 
+
+Funding: This work was supported by the European Union’s Horizon 2020 Research and Innovation Programme (730871). X.Y. Liu was supported by China Scholarship Council for a 2-year study at PSI (201706340057).
+The resolution of a streak camera system strongly depends on the slew rate of the deflecting element, which is the product of the amplitude and frequency of the device. An attractive approach towards femtosecond and sub-femtosecond range consists in using terahertz-driven devices, which offer a good combination of high frequency and high gradient-gradients of GV/m have been demonstrated in split ring resonator using pulse created by rectifying ultrashort laser pulses. We present results obtained from a beam experiment at the VELA facility at Daresbury laboratory. We tested a planar resonator derived from the geometry of a split ring resonator with an aperture for the beam of 20 um.
+Email address: xiaoyu.liu@psi.ch
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP010
+Design and Simulation of a Cavity BPM for HUST Proton Therapy Facility
+530
+
+
+ 
+
+J.Q. Li, Q.S. Chen, K. Tang, P. Tian
+                       HUST, Wuhan, People’s Republic of China
+K. Fan
+                       Huazhong University of Science and Technology, State Key Laboratory of Advanced Electromagnetic Engineering and Technology,, Hubei, People’s Republic of China
+
+ 
+
+
+ 
+
+In proton therapy facility, non-destructive beam diagnostic devices are essential for on-line measurement during the patient treatment. To meet the clinical requirement, the beam current becomes ultra-low of the order of nano-ampere, which is a great challenge to non-destructive beam diagnostics because of the extremely low signal level. Compared with conventional non-destructive beam diagnostic devices, the cavity beam position monitor (BPM) has a high shunt impedance to get enough power levels, so a cavity BPM system is designed for HUST-PTF. It is made up of two resonant cavities called reference cavity and position cavity, respectively. Both cavities are simulated and optimized by CST Microwave Studio and Particle Studio. Finally, the electronics of cavity BPM we plan to use is shown.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP010
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP011
+Calibration for 60 Sets of SCL3 BPM and Electronics in RAON
+ 
+
+
+ 
+
+J.W. Kwon, Y.S. Chung, G.D. Kim, H.J. Woo
+                       IBS, Daejeon, Republic of Korea
+E.-S. Kim
+                       KUS, Sejong, Republic of Korea
+
+ 
+
+
+ 
+
+RAON (Rare isotope accelerator complex for On-line experiments) is an accelerator to produce heavy ion such as uranium, oxygen, and proton. Required transverse position resolution and accuracy on RAON for BPM are 150 um and is 400 um, respectively. BPM fabrication error, ADC gain of electronics and cable characteristics are related to the resolution and the accuracy. Electronics of Mobiis measure positions with IQ method for 1st, 2nd and 3rd harmonic frequencies of 81.25 MHz. Considering the frequency dependence of BPMs and electronics, and the correlation between each BPM and electronics, we obtained calibration factors for 60 BPMs and 60 electronics for three frequency harmonic components. The merits of this way, three frequencies can be selected to measure the beam positions depending on beam energy, and the BPM and electronics can be switched to other devices. In this poster we present a calibration results for 60 sets of BPM, electronics by off-line test.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP012
+Beam Measurements Results of a BPM System Implementing the Pilot-Tone Stabilization Concept
+ 
+
+
+ 
+
+D. Bisiach, M. Cargneluttipresenter, P. Leban, M. Žnidarčič
+                       I-Tech, Solkan, Slovenia
+G. Brajnik, R. De Monte
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+The next generation light sources will require Beam Position Monitoring systems capable of performing high resolution measurements as well as assuring long-term measurement stability. One possible solution to stabilize the position measurements long-term drifts is using a pilot-tone signal which is transferred together with the BPM signal and measured by the BPM electronics. To investigate this solution, Elettra Sincrotrone Trieste developed a pilot-tone injector which was used together with the commercial BPM readout electronics Libera Spark to validate the concept with several measurements related to the typical figures of merit of the BPM systems: position resolution, long-term drift and dependence from beam current and fill pattern. In addition, the behavior of the system was studied under different environmental conditions (changes in temperature and humidity). After the first measurements with beam at Elettra Sincrotrone Trieste, the test-setup was provided also to other laboratories and the measurement results are presented in this paper.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP013
+Beam Commissioning of Beam Position and Phase Monitors for LIPAc
+534
+
+
+ 
+
+I. Podadera, D. Gavela, A. Guirao, D. Jiménez-Rey, L.M. Martínez, J. Mollá, C. Oliver, R. Varela, V. Villamayor
+                       CIEMAT, Madrid, Spain
+T. Akagi, K. Kondo, Y. Shimosaki, T. Shinya, M. Sugimoto
+                       QST, Aomori, Japan
+L. Bellan, M. Comunian, F. Grespan, F. Scantamburlo
+                       INFN/LNL, Legnaro (PD), Italy
+P. Cara
+                       IFMIF/EVEDA, Rokkasho, Japan
+Y. Carin, H. Dzitko, D. Gex, A. Jokinen, I.M. Moya
+                       F4E, Germany
+A. Marqueta
+                       Fusion for Energy, Garching, Germany
+A. Rodríguez Páramo
+                       ESS Bilbao, Zamudio, Spain
+
+ 
+
+
+ 
+
+Funding: Work partially supported by the Spanish Ministry of Science and Innovation under project AIC-A-2011-0654 and FIS2013-40860-R
+The LIPAc accelerator is 9-MeV, 125-mA CW deuteron accelerator that aims to validate the technology that will be used in the future IFMIF accelerator (40-MeV, 2 x 125-mA CW). LIPAc is presently under beam commissioning of the second acceleration stage (injector and Radio Frequency Quadrupole) at 5 MeV. In this stage two types of BPM¿s are used: four stripline-type to control the transverse position and phase at the Medium Energy Beam Transport line (MEBT), and three other stripline-type mainly for the precise measurements of the mean beam energy at the Diagnostics Plate. All the BPM¿s have been successfully tested and served to increase the duty cycle and the average power of the beam delivered down to the beam dump. Moreover, the BPM¿s were key devices for the transverse beam positioning and longitudinal beam tuning and validation of the RFQ and re-buncher cavities at the MEBT. In this contribution, an overview of the beam position monitors system installation and characterization in the facility will be reported. First tests of the system with the upgraded acquisition electronics for the next phase will be also presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP013
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP014
+A Report on Developments of the BCM and BPM Pickups of the ESS MEBT
+539
+
+
+ 
+
+S. Varnasseri, I. Bustinduy, A. Conde, J. Martin, A. Ortega, I. Rueda, A.Z. Zugazaga
+                       ESS Bilbao, Zamudio, Spain
+R.A. Baronpresenter, H. Hassanzadegan, T.J. Shea
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+In the framework of the Spanish In-Kind Contribution (IKC) to the construction of the European Spallation Source (ESS-ERIC), ESS-Bilbao is in charge of providing some key systems for the accelerator. In this paper, design and pre-delivery measurements of non-interceptive devices of MEBT (e.g Beam Position Monitor pick-ups, shielded ACCT and FCT) are reported. Overall there are 8 BPMs distributed in MEBT, which 7 of them are used for the beam position and phase measurements and one BPM is used for the fast timing characterization. The latter is used mainly to characterize the partially chopped bunches and rise/fall time of the Beam Chopper. Furthermore there are two ACCTs, one just attached to the beam dump and the other at the last raft of the MEBT. One FCT combined with the second ACCT gives the complementary information on the fast timing characteristics of the beam pulses.
+
+ 
+
+
+
+
+
+
+Poster WEPP014 [1.291 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP014
+
+ 
+
+
+About •
+paper received ※ 02 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP015
+ESS Beam Position and Phase Monitor System
+543
+
+
+ 
+
+R.A. Baron, H. Hassanzadegan, A. Jansson, H. Kocevar, K.E. Rosengren, T.J. Shea
+                       ESS, Lund, Sweden
+I. Bustinduy, S. Varnasseri
+                       ESS Bilbao, Zamudio, Spain
+F. Grespan, M. Poggi
+                       INFN/LNL, Legnaro (PD), Italy
+T. Gräber
+                       DESY Zeuthen, Zeuthen, Germany
+D. Lipka, S. Vilcins
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European Spallation Source (ESS) is a neutron facility under construction in Lund, Sweden, and established as an European collaboration between different member countries. The machine is a 2 GeV proton LINAC with a nominal beam current of 62.5 mA, 2.86 ms of pulse length and a bunch repetition rate of 352 MHz. The Beam Position and Phase Monitors (BPM) at ESS were designed to satisfy the specifications for the different beam modes, which span from 5 µs pulse length and 6.3 mA beam until the nominal beam condition. The system is designed for standard beam position measurements for beam trajectory correction and for beam phase measurements for cavity phase tuning, imposing restrictions on the sensor design and electronics architecture. Approximately a hundred BPM’s were manufactured and are being installed by partners in collaboration with ESS. The BPM system comprises a MicroTCA.4 electronics based in COTS AMC and RTM modules with custom FPGA firmware implementation and a custom Front-End electronics. In this work, the system architecture, implementation, performance, and test results are presented and discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP015
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP016
+Real-Time Synchronized Calibration and Computing System with EPICS Based Distributed Controls in the TPS XBPM System
+548
+
+
+ 
+
+J.-Y. Chuang, C.K. Chan, C.-C. Chang, C.M. Cheng, Y.T. Cheng, Y.M. Hsiao, Y.Z. Lin, Y.-C. Liu, C. Shueh, Y.C. Yang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+In synchrotron facilities, X-ray beam position monitor (XBPM) is an important detector for photon beam position monitoring and must be calibrated to ensure reliability and precision. However, light source operating conditions, such as beam orbit, injection and insertion device parameters, etc., can influence the sensitivity and specific weighting of photoemission current from the XBPM diamond blades. In the Taiwan Photon Source (TPS), Experimental Physics and Industrial Control System (EPICS) was utilized to implant an automatic calibration process. By using EPICS, we can ensure a seamless integration between the different front ends (FEs) and direct all data stream into a centralized server, creating a distributed XBPM calibration system. The XBPM performance indicators are analyzed to evaluate the validity of calibration parameters by input/ output controller (IOC) in each FE computing system. This paper will discuss the benefits of implanting this distributed control system into a working environment such as the TPS.
+XBPM, TPS, Front end, Distributed XBPM calibration system
+
+ 
+
+
+
+
+
+
+Poster WEPP016 [0.843 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP016
+
+ 
+
+
+About •
+paper received ※ 01 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP017
+Current Monitor and Beam Position Monitor Performance for High Charge Operation of the Advanced Photon Source Particle Accumulator Ring
+552
+
+
+ 
+
+A.R. Brill, J.R. Calvey, K.C. Harkay, R.T. Keane, N. Sereno, U. Wienands, K.P. Wootton, C. Yao
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+A design choice for the Advanced Photon Source Upgrade to inject into the storage ring using bunch swap out rather than off-axis accumulation means that the Advanced Photon Source injectors are required to accelerate much higher electron bunch charge than originally designed. In the present work, we outline upgrades to the current monitor and beam position monitor diagnostics for the Particle Accumulator Ring to accommodate bunch charges of 1-20 nC. Through experiments, we compare and characterize the system responses over the range of bunch charge.
+
+ 
+
+
+
+
+
+
+Poster WEPP017 [3.163 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP017
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP018
+THz Generation by Optical Rectification for a Novel Shot to Shot Synchronization System Between Electron Bunches and Femtosecond Laser Pulses in a Plasma Wakefield Accelerator
+555
+
+
+ 
+
+S. Mattiello, A. Penirschke
+                       THM, Friedberg, Germany
+H. Schlarb
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: The work of S. Mattiello is supported by the German Federal Ministry of Education and Research (BMBF) within the Project ¿ MAKE-PWA.
+We investigate the influence of the optical properties and of the theoretical description of the THz generation on the conversion efficiency of the generation of short THz pulses. The application is a feedback-system for SINBAD with a time resolution of less than 1 fs for the synchronization of the electron bunch and of the plasma wake field in a laser driven plasma particle accelerator*. Here stable THz pulses are generated by optical rectification of a fraction of the plasma generating high energy laser pulses in a nonlinear lithium niobate crystal. Then the generated THz pulses will energy modulate the electron bunches shot to shot before the plasma to achieve the required time resolution. In this contribution we compare different approximations for the modeling of the generation dynamics using second order or first order equations as well as considering pump depletion effects. Additionally, the dependence of the efficiency of the THz generation on the choice of the dielectric function has been investigated.
+*The feedback system will be tested at the Accelerator R&D facility SINBAD (Short Innovative Bunches and Accelerators at DESY).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP018
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP019
+Concept of a Novel High-Bandwidth Arrival Time Monitor for Very Low Charges as a Part of the All-Optical Synchronization System at ELBE
+560
+
+
+ 
+
+A. Penirschke
+                       THM, Friedberg, Germany
+W. Ackermann
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+M.K. Czwalinna, H. Schlarb
+                       DESY, Hamburg, Germany
+M. Kuntzsch
+                       HZDR, Dresden, Germany
+
+ 
+
+
+ 
+
+Funding: This work is supported by the German Federal Ministry of Education and Research (BMBF) under contract no. 05K19RO1.
+Numerous advanced applications of X-ray free-electron lasers require pulse durations and time resolutions in the order of only a few femtoseconds or better. The generation of these pulses to be used in time-resolved experiments require synchronization techniques that can simultaneously lock all necessary components to a precision in the range of a few fs only. The CW operated electron accelerator ELBE at the Helmholtzzentrum Dresden Rossendorf uses a all-optical synchronization system to ensure a timing stability on the few 10 fs scale. ELBE requires a minimum beam pipe diameter of 43mm that limits the achievable output voltage of the pickup structure to drive the attached electro-optical modulator. This contribution presents a concept for a novel high-bandwidth arrival time monitor with sufficient output signal for the attached EOMs for very low charges as a part of the all-optical synchronization system at ELBE.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP019
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP020
+First results on Femtosecond Level Photocathode Laser Synchronization at the SINBAD Facility
+564
+
+
+ 
+
+M. Titberidze, M. Felber, T. Kozak, T. Lamb, J. Müller, H. Schlarb, S. Schulz, C. Sydlo, F. Zummack
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+SINBAD, the "short-innovative bunches and accelerators at DESY" is an accelerator research and development facility which will host various experiments. SINBAD-ARES linac is a conventional S-band linear accelerator which will be capable of producing ultra-short electron bunches with duration of few femtoseconds and energy of up to 100 MeV. In order to fully utilize the potential of ultra-short electron bunches while probing the novel acceleration techniques (e.g. external injection in LWFA), it is crucial to achieve femtosecond level synchronization between photocathode laser and RF source driving the RF gun of the ARES linac. In this paper we present the first results on the synchronization of the near-infrared photocathode laser to the RF source with the residual timing jitter performance of ~10 fs rms. These results were obtained using a conventional laser-to-RF synchronization setup employing heterodyne detection of an RF signal generated by impinging the laser pulses to a fast photodetector. In addition, we describe an advanced laser-to-RF phase detection scheme as a future upgrade; promising even lower timing jitter and most importantly the long-term timing drift stability.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP020
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP021
+Machine Learning Image Processing Technology Application in Bunch Longitudinal Phase Data Information Extraction
+568
+
+
+ 
+
+X.Y. Xu, Y.M. Zhou
+                       SINAP, Shanghai, People’s Republic of China
+Y.B. Leng, Y.M. Zhou
+                       SSRF, Shanghai, People’s Republic of China
+X.Y. Xu
+                       University of Chinese Academy of Sciences, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+To achieve the bunch-by-bunch longitudinal phase measurement, Shanghai Synchrotron Radiation Facility (SSRF) has developed a high resolution measurement system. We used this measurement system to study the injection transient process, and obtained the longitudinal phase of the refilled bunch and the longitudinal phase of the original stored bunch. A large number of parameters of the synchronous damping oscillation are included in this large amount of longitudinal phase data, which are important for the evaluation of machine state and bunch stability. The multi-turn phase data of a multi-bunch is a large two-dimensional array that can be converted into an image. The convolutional neural network (CNN) is a machine learning model with strong capabilities in image processing. We hope to use the convolutional neural network to process the longitudinal phase two-dimensional array data, and extract important parameters such as the oscillation amplitude and the synchrotron damping time.
+
+ 
+
+
+
+
+
+
+Poster WEPP021 [1.292 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP021
+
+ 
+
+
+About •
+paper received ※ 23 August 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP022
+A Method of Correcting the Beam Transverse Offset for the Cavity Bunch Length Monitor
+572
+
+
+ 
+
+Q. Wang, Q. Luo, B.G. Sun
+                       USTC/NSRL, Hefei, Anhui, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by National Key R&D Program of China (Grant No. 2016YFA0401900 and No. 2016YFA0401903) and The National Natural Science Foundation of China (Grant No. U1832169 and No. 11575181)
+Cavity bunch length monitor uses monopole modes excited by bunches within the cavities to measure the bunch longitudinal root mean square (rms) length. It can provide a very high accuracy and high resolution. However, when the bunch passes through the cavities with transverse offset (that is, the bunch moves off the cavity axis), the amplitude of the monopole modes will change and cannot reflect the bunch length precisely. In this paper, a method of correcting the beam transverse offset is proposed. Simulation results show that the method can reduce the error of the bunch length measurement significantly.
+
+ 
+
+
+
+
+
+
+Poster WEPP022 [0.735 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP022
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP025
+A Transverse Deflecting Cavity Prototype for the MAX IV LINAC
+575
+
+
+ 
+
+D. Olsson, A. Bjermo, L. Christiansson, J. Lundh, D. Lundström, E. Mansten, M. Nilsson, E. Paju, L.K. Roslund, K. Åhnberg
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+The MAX IV LINAC operates both as a full-energy injector for two electron storage rings, and as a driver for a Short Pulse Facility (SPF). There are also plans to build Soft X-ray Laser (SXL) beamlines at the end of the existing LINAC. For SPF and SXL operation, it is important to characterize beam parameters such as bunch profile, slice energy spread and slice emittance. For these measurements, two 3 m long transverse deflecting RF structures are being developed. The structures are operating at S-band, and it is possible to adjust the polarization of the deflecting fields. In order to verify the RF concept, a short 9-cell prototype was constructed. The measurements results of the prototype are presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP025
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP026
+Electron Bunch Compression Monitors for Short Bunches  - Commissioning Results from SwissFEL
+578
+
+
+ 
+
+F. Frei, R. Ischebeck
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+In SwissFEL, by using three magnetic chicanes, 3ps long electron bunches can by compressed by a factor of more than 100 down to a few fs in order to generate ultra short X-ray pulses. In order to meet the envisaged beam performance, noninvasive longitudinal diagnostic after each compression stage is essential. These bunch compression monitors measure relative bunch length changes on a shot-to-shot basis by detecting coherent edge, synchrotron or diffraction radiation emitted by the electron bunches. While after the first two magnetic chicanes, a wide spectral part is integrated on a single broadband detector, an infrared spectrometer installed after the third magnetic chicane is providing more detailed information. Here, we will mainly report on commissioning results of the third bunch compression monitor for electron bunches of a few fs.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP026
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP028
+Laser Compton Backscattering Source for Beam Diagnostics at the S-DALINAC
+582
+
+
+ 
+
+M.G. Meier, M. Arnold, J. Enders, N. Pietralla, M. Roth
+                       TU Darmstadt, Darmstadt, Germany
+V. Bagnoud
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Supported in part through the state of Hesse (LOEWE research cluster Nuclear Photonics) and DFG through GRK 2128 ’AccelencE’.
+The Superconducting DArmstadt electron LINear ACcelerator S-DALINAC is a thrice-recirculating linac* providing electron beams with energies up to 130 MeV and beam currents up to 20 ¿A for a variety of nuclear physics experiments**. It has been operated as Germany¿s first energy-recovery linac (ERL) in 2017***. The electron beam is produced either in a thermionic gun or a DC photo-gun using GaAs as cathode material****. A new project foresees to use the S-DALINAC for Laser Compton Backscattering (LCB) to produce a monochromatic high-energy photon beam for nuclear photonics applications in photonuclear reactions and atomics physics experiments. Besides this LCB will be used as an additional diagnostic tool for determining electron beam energy and the energy spread at the third recirculation of the S-DALINAC, when the maximum reachable energy at this point (98.8 MeV) yields a scattered photon energy of 179.7 keV. An overview over the desired laser system for LCB at the S-DALINAC will be given, and simulations for the layout and the estimated output of the Compton-backscattering light source will be presented.
+*M. Arnold, Diss., TU Darmstadt (2017)  **N. Pietralla, Nucl. Phys. News 28(2), 4(2018)  ***M. Arnold et al., Proc. IPAC¿18(4859), 9(2018)  ****Y. Poltoratska et al., J.Phys.: Conf. S. 298, 012002(2011)
+
+ 
+
+
+
+
+
+
+Poster WEPP028 [0.900 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP028
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 11 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP029
+Virtual Pepper-Pot Technique for 4D Phase Space Measurements
+586
+
+
+ 
+
+G.Z. Georgiev, M. Krasilnikov
+                       DESY Zeuthen, Zeuthen, Germany
+
+ 
+
+
+ 
+
+A novel method for 4-dimensional transverse beam phase space measurement is proposed at the Photo Injector Test facility at DESY in Zeuthen (PITZ) for ongoing beam coupling studies. This method is called Virtual Pepper-Pot (VPP), because key principles of the pepper-pot mask scheme are applied. The latter approach is of limited use in high-brightness photo injectors, because of technical reasons. At PITZ a slit scan method instead is the standard tool for reconstruction of horizontal and vertical phase spaces. The VPP method extends the slit scan technique with a special post-processing. The 4D transverse phase space is reconstructed from a pepper-pot like pattern that is generated by crossing each measured horizontal slit beamlet with all measured vertical slit beamlets. All elements of the 4D transverse beam matrix are calculated and applied to obtain the 4D transverse emittance, 4D kinematic beam invariant and coupling factors. The proposed technique has been applied to experimental data from the PITZ photo injector optimization for 0.5 nC bunch charge. Details of the VPP technique and results of its application will be discussed.
+
+ 
+
+
+
+
+
+
+Poster WEPP029 [2.982 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP029
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP030
+Betatron Phase Advance Measurements Using the Gated Turn-by-turn Monitors at SuperKEKB
+591
+
+
+ 
+
+G. Mitsuka, K. Mori, M. Tobiyama
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+In the SuperKEKB commissioning Phases 2 (Feb.-Jul., 2018) and 3 (from Mar. 2019), the betatron phase advances between adjacent beam position monitors have been measured using a total of 138 gated turn-by-turn monitors. A fast RF gating of the monitors enables turn-by-turn beam position detections by focusing only on an artificially-excited non-colliding bunch, while leaving colliding bunches unaffected. Betatron phase advances measured by the gated turn-by-turn monitors and accordingly obtained betatron functions were consistent with the closed orbit measurements. High signal-to-noise ratio were achieved by advanced signal extraction methods such as NAFF, SVD, and independent component analysis.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP030
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP031
+Long Beam Pulse Extraction by the Laser Charge Exchange Method Using the 3-MeV Linac in J-Parc
+595
+
+
+ 
+
+H. Takei, K. Hirano, S.I. Meigo
+                       JAEA/J-PARC, Tokai-mura, Japan
+K. Tsutsumi
+                       Nippon Advanced Technology Co., Ltd., Tokai, Japan
+
+ 
+
+
+ 
+
+The Accelerator-driven System (ADS) is one of the candidates for transmuting long-lived nuclides, such as minor actinide (MA), produced by nuclear reactors. For efficient transmutation of the MA, a precise pre-diction of neutronics of ADS is required. In order to obtain the neutronics data for the ADS, the Japan Pro-ton Accelerator Research Complex (J-PARC) has a plan to build the Transmutation Physics Experimental Facility (TEF-P), in which a 400-MeV negative proton (H−) beam will be delivered from the J-PARC linac. Since the TEF-P requires a stable proton beam with a power of less than 10 W, a stable and meticulous beam extraction method is required to extract a small amount of the proton beam from the high power beam of 250 kW. To fulfil this requirement, the Laser Charge Exchange (LCE) method has been developed. To demonstrate the long beam pulse extraction using the bright continuous laser beam with a power of 196 W, we installed the LCE device at the end of a 3-MeV linac. As a result of the experiment, a charge-exchanged proton beam with a power of 0.67 W equivalent was obtained under the J-PARC linac beam condition, and this value agreed well with the theoretical value.
+
+ 
+
+
+
+
+
+
+Poster WEPP031 [7.256 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP031
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP032
+Beam Based Alignment of Elements and Source at the ESS Low Energy Beam Transport Line
+600
+
+
+ 
+
+N. Milas, M. Eshraqi, B. Gålander, Y. Levinsen, R. Miyamoto, E. Nilsson, D.C. Plostinar
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The European Spallation Source (ESS), currently under construction in Lund, Sweden, will be the world’s most powerful linear accelerator driving a neutron spallation source, with an average power of 5 MW at 2.0 GeV. The first protons were accelerated at the ESS site during the commissioning of the ion source and low energy beam transport (LEBT), that started in September 2018 and ran until July 2019. Misalignments of the elements in the LEBT can have a strong impact on the final current transmission of the low energy part. In this paper, we present a way to isolate and measure tilts of the elements and the initial centroid divergence of the source. We also present initial test measurements for the ESS LEBT and discuss how to extend the method to other facilities.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP032
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP033
+Position Based Phase Scan
+605
+
+
+ 
+
+N. Milas, M. Eshraqi, Y. Levinsen, R. Miyamoto, D.C. Plostinar
+                       ESS, Lund, Sweden
+Y. Liu
+                       KEK/JAEA, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+Knowledge of the longitudinal beam parameters is important for understanding beam dynamics in linacs. As well as with transverse optics, the settings for the RF cavities have to be established and phase and amplitude seen by the beam must be determined in order to guarantee a stable motion in the longitudinal plane. This work presents an extension of the most widely used phase scan method, relying on time-of-flight, using only transverse positions measured at a few selected BPMs downstream of the cavity being scanned. In principle, the method can be applied both to normal conducting and SC. The suggested method is fast and relatively simple and is capable to provide the values for the cavity transverse misalignment (offsets and tilts) at the same time. It can be a useful part of the initial longitudinal beam tuning.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP033
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP034
+Optics-Measurement-Based BPM Calibration
+610
+
+
+ 
+
+A. García-Tabarés Valdivieso, R. Tomás
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Beam position monitors (BPMs) are key elements in accelerator operation, providing essential information about different beam parameters that are directly related to the accelerator performance. In order to obtain an accurate conversion from an induced voltage to the center of charge position, the BPMs have to be calibrated prior to its installation in the accelerator. This calibration procedure can only be performed when the accelerator is in a period of non-activity and does not completely reproduce the exact conditions that occur during the machine operation. Discrepancies observed during the optics measurements at the Large Hadron Collider and the Proton Synchrotron Booster show that the impact of the BPM calibration factors on the optics functions was greater than expected from the design values and tolerances. Measurement of the optics functions allows obtaining extra information on BPM calibration together with its associated uncertainty and resolution. The optics measurement based calibration allows further developing new techniques for computing optics functions that are biased by a possible miss-calibration such as beta function, dispersion function and beam action.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP034
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP035
+Using Tune Measurement Systems Based on Diode Detectors for Quadrupolar Beam Oscillation Analysis in the Frequency Domain
+615
+
+
+ 
+
+M. Gąsior, T.E. Levenspresenter
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Requirements for diagnostics of injection matching and beam space charge effects have driven studies at CERN using high sensitivity tune measurement systems based on diode detectors for the observation of quadrupolar beam oscillations in the frequency domain. This has led to an extension of such tune systems to include a channel optimised for quadrupolar oscillation measurements. This paper presents the principles of such measurements, the developed hardware and example measurements.
+
+ 
+
+
+
+
+
+
+Poster WEPP035 [29.814 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP035
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP036
+Application of Thermoelectric Oscillations in a Lithium Niobate Single Crystal for Particle Generation
+620
+
+
+ 
+
+K.V. Fedorov, P. Karataev
+                       JAI, Egham, Surrey, United Kingdom
+K.V. Fedorov
+                       TPU, Tomsk, Russia
+O.O. Ivashchuk, A.A. Klenin, A.S. Kubankin, A.N. Oleinik
+                       BelSU, Belgorod, Russia
+A.V. Shchagin
+                       NSC/KIPT, Kharkov, Ukraine
+
+ 
+
+
+ 
+
+Single crystals of lithium niobate (LiNbO3) and lithium tantalate (LiTaO3) can be used to accelerate electrons and positive ions to energies of the order of 100 keV and generate X-rays and fast neutrons, as well as to control beams of charged particles. However, this way of particles acceleration and generation is not widely used yet due to an unstable particle flux caused by electric breakdowns or crystal impurities leading to temporal discontinuity of pyroelectric current. A sinusoidal mode of the temperature change demonstrated stable oscillations of the pyroelectric current on the polar surface with typical frequency being of the order of 1-50 mHz and the amplitude being about 1-10 nA for samples with area of several cm2. In vacuum it leads to generation of high electric field, which oscillates with the same frequency. Estimated amplitude of electric field is order of 105 V/cm. The possibilities of using such mode of temperature change to obtain a quasi-stable X-ray and electron source are considered. The fundamental properties and further prospects for the application of thermoelectric oscillations are also discussed.
+
+ 
+
+
+
+
+
+
+Poster WEPP036 [1.256 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP036
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 11 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP037
+First Measurements of Cherenkov-Diffraction Radiation at Diamond Light Source
+624
+
+
+ 
+
+D.M. Harryman, P. Karataev
+                       JAI, Egham, Surrey, United Kingdom
+M. Apollonio, L. Bobb
+                       DLS, Oxfordshire, United Kingdom
+M. Bergamaschi, R. Kieffer, M. Krupa, T. Lefèvre, S. Mazzoni
+                       CERN, Geneva, Switzerland
+A. Potylitsyn
+                       TPU, Tomsk, Russia
+
+ 
+
+
+ 
+
+Cherenkov Diffraction Radiation (ChDR), appearing when a charged particle moves in the vicinity of a dielectric medium with speed faster than the speed of light inside the medium, is a phenomenon that can be exploited for a range of non-invasive beam diagnostics. By using dielectric radiators that emit photons when in proximity to charged particle beams, one can design devices to measure beam properties such as position, direction and size. The Booster To Storage-ring (BTS) test stand at Diamond Light Source provides a 3 GeV electron beam for diagnostics research. A new vessel string has been installed to allow the BTS test stand to be used to study ChDR diagnostics applicable for both hadron and electron accelerators. This paper will discuss the commissioning of the BTS test stand, as well as exploring the initial results obtained from the ChDR monitor.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP037
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP038
+Observation of Microbunching Instabilities using THz Detector at NSLS-II
+629
+
+
+ 
+
+W.X. Cheng
+                       ANL, Lemont, Illinois, USA
+B. Bacha, G.L. Carr
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Microbunching instabilities have been observed in several light sources with high single bunch current stored. The instability is typically associated with threshold beam currents. Energy spread and bunch length are increasing above the thresholds. Recently, a terahertz (THz) detector was installed at the cell 22 infrared (IR) beamline at NSLS-II storage ring to study the micro-bunch instabilities. The IR beamline has wide aperture allowing long-wavelength synchrotron radiation or microwave signal propagate to the end station, where the detector was installed. The detector output signal has been analyzed using oscilloscope, spectrum analyzer and FFT real-time spectrum analyzer. Clear sidebands appear as single bunch current increases and the sidebands tend to shift/jump. We present measurement results of the THz detector at different nominal bunch lengths and ID gaps.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP038
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 08 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP039
+Single-Shot Diagnostics of Microbunched Electrons in Laser-Driven Plasma Accelerators and Free-Electron Lasers
+633
+
+
+ 
+
+A.H. Lumpkin
+                       Fermilab, Batavia, Illinois, USA
+D.W. Rule
+                       Private Address, Silver Spring, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy, Office of Science, Office of High Energy Physics.
+The need for single-shot diagnostics of the periodic longitudinal density modulation of relativistic electrons at the resonant wavelength (microbunching) in a free-electron laser (FEL) or at broadband visible wavelengths as in a laser-driven plasma accelerator (LPA) has been reaffirmed. In the self-amplified spontaneous emission (SASE) FEL case, statistical fluctuations in the microbunching occur in the startup-from-noise process. In the LPA, the plasma itself is chaotic and varies shot to shot. Fortunately, we have shown that coherent optical transition radiation (COTR) techniques, can assess beam size, divergence, spectral evolution, and z-dependent gain (100, 000) of microbunched electrons in a past SASE FEL experiment at 530 nm*. Recently, the application to LPAs has been demonstrated with single-shot near-field (NF) and far-field (FF) COTR imaging done at the exit of an LPA for the first time**. In this case few-micron beam sizes and extensive fringes due to sub-mrad divergences were measured based on point-spread-function effects and an analytical model for COTR interferometry, respectively. A proposed diagnostics application at 266 nm to pre-bunched beams is also described.
+*A.H. Lumpkin et al., Phys. Rev. Lett. 88, No.23, 234801 (2002).  **A.H. Lumpkin, M. LaBerge, D.W. Rule, et al., Proceedings of AAC18, (IEEE), 2019.  
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP039
+
+ 
+
+
+About •
+paper received ※ 10 September 2019       paper accepted ※ 11 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP040
+Optimization of Antiproton Capture for Antihydrogen Creation in the ALPHA Experiment
+637
+
+
+ 
+
+S.S. Fabbri, W. Bertsche
+                       UMAN, Manchester, United Kingdom
+
+ 
+
+
+ 
+
+At the ALPHA Experiment at CERN, thin foils of material are used to slow down and trap antiprotons in a Penning trap, where they can be used for antihydrogen creation and measurements. Historically, over 99% of antiprotons are lost during the capture process as a result of the 5.3 MeV initial kinetic energy of the beam delivered by the Antiproton Decelerator. This places a limit early on in the achievable number of antihydrogen. ELENA is a new storage ring coming online which will lower this initial kinetic energy of the beam to 100 keV, requiring experiments to update their infrastructure. We present Monte Carlo and particle tracking simulation results for the optimization of the new degrading foil material, thickness, and location in the ALPHA catching Penning trap. From these results, we expect an upper capture efficiency of roughly 50 %. We further propose techniques for manipulating, detecting and extracting on the anticipated larger-numbered antiproton plasmas. These methods and associated hardware developments will allow performing antiproton experiments with significantly higher efficiency in ALPHA and other similar antiproton-based experiments.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP040
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 11 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP042
+Measurement of the Second Moments of Transverse Beam Distribution with Solenoid Scan
+642
+
+
+ 
+
+I. Pinayev
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Measurement of the dependence of the beam size on profile monitor vs. strength of a focusing element is widely used for measurement of the beam parameters. Such measurements are mostly used for the separate planes and assumption that beam satisfied Gaussian distribution. In many linear accelerators the transverse beam dynamics is coupled between planes and distribution is far from the Gaussian. We developed measurement technique of the second moments of beam distribution which does not rely on any assumptions. The theory and experimental results are presented.
+
+ 
+
+
+
+
+
+
+Poster WEPP042 [1.756 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP042
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP043
+Time-of-flight Technique for Matching Energies in Electron Cooler
+645
+
+
+ 
+
+I. Pinayev, R.L. Hulsart, K. Mernick, R.J. Michnoff, Z. Sorrell
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Electron cooler with bunched electron beam is being commissioned at the Relativistic Heavy Ion Collider at BNL. For the cooler to operate the energies of the hadron and electron beams should be matched with high accuracy. We have developed time-of-flight technique based on the phase measurement of the beam induced signal in the beam position monitors separated by a drift. We present the method description and experimental results.
+
+ 
+
+
+
+
+
+
+Poster WEPP043 [9.892 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP043
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP044
+Beam Position Monitoring System for Fermilab’s Muon Campus
+648
+
+
+ 
+
+N. Patel, J.S. Diamond, N. Eddy, C.R. McClure, P.S. Prieto, D.C. Voy
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+A Beam Position Monitor (BPM) system has been designed for Fermilab Muon Campus. The BPM system measures Turn-by-Turn orbits as well as Closed Orbits (average of multiple turns). While in the early commissioning phase of this program, preliminary measurements have been made using these BPMs. This paper discusses the design and implementation of these BPMs.
+
+ 
+
+
+
+
+
+
+Poster WEPP044 [0.612 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP044
+
+ 
+
+
+About •
+paper received ※ 09 September 2019       paper accepted ※ 12 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP045
+Development of an Automated BPM Test Bench
+651
+
+
+ 
+
+M. Schwarz, H. Podlech
+                       IAP, Frankfurt am Main, Germany
+H. Höltermann, B. Koubek, U. Ratzinger, W. Schweizer, D. Strehl, C. Trageser
+                       BEVATECH, Frankfurt, Germany
+
+ 
+
+
+ 
+
+The Institute for Applied Physics (IAP) of Goethe University Frankfurt has a long history in developing DTL-cavities and further essential components of particle accelerators from design and simulation up to tuning and final testing. In recent times, the development of beam diagnostic components for the hadron accelerator projects has become increasingly important. Bevatech is designing and setting up linear accelerators, RF and vacuum technology for research laboratories and enterprises worldwide. In a joint effort a simple, efficient and mobile beam position monitor (BPM) test bench has been developed and will be further improved for future tests and the calibration of beam position monitors. It is fully automated using single-board computers and microcontrollers to obtain the essential calibration data like electrical offset, button sensitivity and the 2D response map. In addition, initial tests with the implementation and evaluation of the Libera signal processing units Single Pass H and Spark were promising.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP045
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPP046
+Technology and First Beam Tests of the New CERN-SPS Beam Position System
+655
+
+
+ 
+
+M. Wendt, M. Barros Marin, A. Boccardi, T.B. Bogey, I. Degl’Innocenti, A. Topaloudis
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The CERN Super Proton Synchrotron (SPS) uses 215 beam position monitors (BPMs) to observe the beam orbit when accelerating protons or ions on a fast ramp cycle to beam energies of up to 450 GeV/c. In the frame of the CERN LHC Injector Upgrade (LIU) initiative the aged, and diffi- cult to maintain homodyne-receiver based BPM read-out system is currently being upgraded with A Logarithmic Po- sition System ¿ ALPS. As the name indicates, this new BPM electronics builds upon the experience at CERN with using logarithmic detector amplifiers for beam position processing, and is well suited to cover the large range of beam intensities accelerated in the SPS. The system will use radiation toler- ant electronics located in close proximity to the split-plane or stripline beam position monitor with GB/s optical data transmission to the processing electronics located on the surface. Technical details of the analog and digital signal processing, the data transmission using optical fibers, cal- ibration and testing, as well as first beam tests on a set of ALPS prototypes are presented in this paper.
+
+ 
+
+
+
+
+
+
+Poster WEPP046 [16.711 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-WEPP046
+
+ 
+
+
+About •
+paper received ※ 06 September 2019       paper accepted ※ 10 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

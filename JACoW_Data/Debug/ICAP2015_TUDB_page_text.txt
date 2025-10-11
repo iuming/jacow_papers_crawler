@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2015 - Table of Session: TUDB (Beam-physics, Magnet Design and Magnetic Measurements)
+
+
+TUDB —  Beam-physics, Magnet Design and Magnetic Measurements   (13-Oct-15   15:45—17:15)
+Chair: C.E. Mitchell, LBNL, Berkeley, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUDBC1
+A "Multipole Factory" for Measuring Magnetic Fields in Large-aperture Accelerator Magnets
+ 
+
+
+ 
+
+O. Koester, L. Fiscarelli, S. Russenschuck
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The paper deals with the combination of several magnetic measurements, using small-diameter rotating search-coils, in order to cover magnet apertures largely exceeding the size of the search-coil. The method relies on the scaling laws for multipole coefficients (derived from the theory of analytical continuation) and the oversampling of the measurement domain. The uncertainty on the higher-order field harmonics is reduced by trade-off against positioning errors of the subsequent measurements. These positioning errors can be kept under tight control by mounting the search-coil and its motor-drive unit on precision alignment stages. The technique not only yields more accurate results, it also enhances largely the versatility of the measurement bench because by avoiding the construction of dedicated search-coils of fixed measurement radii.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUDBC2
+Development Status of a Thin Lens Model for FRIB Online Model Service
+51
+
+
+ 
+
+G. Shen, Z.Q. He
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661.
+As a high-power heavy ion accelerator facility, FRIB (Facility for Rare Isotope Beams) has its specific requirement for its online tuning purpose. Existing simulation code either can not provide all needed functions, or is slow for the online purpose. A new thin lens model (TLM) code is under active developing to address above issues. Specifically, it uses multipole expansion scheme to model non-axisymmetric RF cavities like quarter-wave resonators (QWRs) and half-wave resonators (HWRs), and calculate beam dynamics influence coming from dipole components and quadrupole components. A special data structure is also designed to handle multi-charge state acceleration using divide-and-conquer scheme. TLM also contains all other beam element models, such as solenoid, quadrupole, bending magnet, stripper, corrector and diagnostic device. Based on envelope tracking scheme, TLM is able to run within hundreds of milliseconds, while keeping high precision (1% RMS error) with other multiple particle tracking code used at FRIB like IMPACT-Z. In this paper, we present our latest status for the TLM model development.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-TUDBC2
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUDBC3
+Maximum Entropy Tomography Reconstruction
+55
+
+
+ 
+
+S. Zheng
+                       CIAE, Beijing, People's Republic of China
+T. Planche, Y.-N. Rao
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+The goal of tomography is to reconstruct a higher dimensional distribution from a series of projections measured in a lower dimensional subspace. In the absence of large number of projections, the maximum entropy algorithm can reconstruct a distribution that maximizes the entropy and simultaneously reproduce all the measured projections exactly. The MENT algorithm has been applied to the reconstruction of the transverse and longitudinal phase space distributions at particle accelerators. Only one-dimensinonal intensity profiles of different beam transfer matrices have to be measured. The article mainly completed the code for the tomographic reconstruction of the longitudinal phase space where non-linear transformations have to be taken into account, and finally introduced the test result of the real data taken from accelerator in triumf for transverse tomography.
+G. Minerbo, MENT: A Maximum Entropy Algorithm for Reconstructing a Source from Projection Data*  J.J. Scheins, Tomographic Reconstruction of Transverse and Longitudinal Phase Space Distributions* 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-TUDBC3
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

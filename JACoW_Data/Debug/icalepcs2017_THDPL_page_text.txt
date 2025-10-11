@@ -1,0 +1,208 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: THDPL (Experiment Control 2)
+
+
+THDPL —  Experiment Control 2   (12-Oct-17   16:00—16:45)
+Chair: G. Cuni, ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+
+Paper
+Title
+Page
+
+
+
+THDPL01
+Configuring and Automating an LHC Experiment for Faster and Better Physics Output
+1233
+
+
+ 
+
+C. Gaspar, R. Aaij, F. Alessio, J. Barbosa, L.G. Cardoso, M. Frank, B. Jost, N. Neufeld, R. Schwemmer
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+LHCb has introduced a novel online detector alignment and calibration for LHC Run II. This strategy allows for better trigger efficiency, better data quality and direct physics analysis at the trigger output. This implies: running a first High Level Trigger (HLT) pass synchronously with data taking and buffering locally its output; use the data collected at the beginning of the fill, or on a run-by-run basis, to determine the new alignment and calibration constants; run a second HLT pass on the buffered data using the new constants. Operationally, it represented a challenge: it required running different activities concurrently in the farm, starting at different times and load balanced depending on the LHC state. However, these activities are now an integral part of LHCb's dataflow, seamlessly integrated in the Experiment Control System and completely automated under the supervision of LHCb's 'Big Brother'. In total, around 60000 tasks run in the ~1600 nodes of the farm. Load balancing of tasks between activities takes less than 1 second. The mechanisms for configuring, scheduling and synchronizing different activities on the farm and in the experiment in general will be discussed.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/_KuZiIuHbQw
+        
+ 
+
+
+
+
+
+
+Slides THDPL01 [3.600 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THDPL01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THDPL02
+GigaFRoST (Gigabyte Fast Read-Out System for Tomography): Control and DAQ System Design
+1240
+
+
+ 
+
+T. Celcer
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The GigaFRoST (Gigabit Fast Read-out System for Tomography) detector and readout system used at the tomographic microscopy beamline TOMCAT of the Swiss Light Source will be presented. GigaFRoST was built at Paul Scherrer Institute (PSI) and designed to overcome the limitations of existing commercially available high-speed CMOS detectors. It is based on a commercial CMOS fast imaging sensor (pco.dimax) with custom-designed readout electronics and control board. The latter is used for detector configuration, coordination of image readout process and system monitoring. The detector can acquire and stream data continuously at 7.7 GB/s to a dedicated backend server, using two data readout boards, each equipped with two FPGAs, and each directly connected with the server via four 10 Gbit/s fiber optics connections. The paper will focus on the implementation of the EPICS control system, data acquisition (DAQ) system, integration of the detector into the beamline infrastructure and implementation of efficient distribution of TTL triggers between the devices involved in the experiments (i.e. GigaFRoST detector, sample rotation stage, arbitrary external devices).
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/OTv2zFyE_k4
+        
+ 
+
+
+
+
+
+
+Slides THDPL02 [4.017 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THDPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THDPL03
+areaDetector: EPICS Software for 2-D Detectors
+1245
+
+
+ 
+
+M.L. Rivers
+                       CARS, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+areaDetector is an EPICS framework for 2-D and other types of detectors that is widely used in synchrotron and neutron facilities. Recent enhancements to the EPICS areaDetector module will be presented. -Plugins can now run multiple threads to significant increase performance -Scatter/gather capability for plugins to run in parallel -ImageJ plugin that uses EPICS V4 pvAccess rather than Channel Access. Provides structured data with atomic update, and better performance than Channel Access plugin. -ImageJ plugin that allows graphically defining detector readout region, ROIs, and overlays. -Plugins can now be reprocessed without receiving a new NDArray for testing effect of different parameters, etc. A roadmap for future developments will also be presented.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/PkiQD9EVNKU
+        
+ 
+
+
+
+
+
+
+Slides THDPL03 [0.936 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THDPL03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

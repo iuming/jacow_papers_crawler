@@ -1,0 +1,362 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eeFACT2016 - Table of Session: WET2H (Superconducting RF)
+
+
+WET2H —  Superconducting RF   (26-Oct-16   10:45—14:50)
+Chair: R.A. Rimmer, JLab, Newport News, Virginia, USA
+
+
+Paper
+Title
+Page
+
+
+
+WET2H1
+State-of-the-Art SRF Cavities for CW Applications
+ 
+
+
+ 
+
+R.A. Rimmer, J. Henry, F. Marhauser, L. Turlington, H. Wang, S. Wang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177
+We report on the development of new CW SRF cavities for the colliding rings of an electron-ion collider (EIC) or other high current storage rings. In the context of the Jefferson Lab EIC we are developing new strongly HOM-damped SRF cavities for the ion collider ring and a high-energy electron cooler at 952.6 MHz. The baseline design will re-use the PEP-II 476 MHz cavities for the electron ring with a possible future upgrade to 952.6 MHz SRF cavities at a later date. We discuss the design optimization of the new high current cavities and compare options for the strong HOM damping required. A concept for a modular cryostat to house these various cavities will be shown.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WET2H2
+FCC RF System Parameters for Z, W, H and tt
+ 
+
+
+ 
+
+O. Brunner
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The FCC-ee RF system must handle beams at different energies and beam intensities ranging from the high energy case of a few mA at 175 GeV to the heavily beam loaded situation at 1.45 A and 45.5 GeV. Higher order mode power will be a major issue at the highest beam intensities. A conceptual design of the FCC RF system is proposed along with staging schemes and highlights of specific R&D topics to reach the design performance. Challenges related to RF structure design, RF powering and higher order modes are addressed. Optimum configurations and synergies between the different collider modes and the hadron collider are identified.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WET2H3
+Interrelationships and Limits
+ 
+
+
+ 
+
+N. Schwerg, S. Aull, O. Brunner, A.C. Butterworth, M. Therasse
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+For the FCC ee-machine we consider 4 different operation scenarios (Z, W, H, t) with requirements ranging from a high beam current and HOM (Z) to high accelerating gradients (H, t). We investigate the RF system for the 4 machines towards cavity design, material choice and staging scenarios. We built a generic model of the RF system based on the mathematical relationships found in the common accelerator literature describing all relevant aspects, e.g., the amount of RF power or the overall length of the RF installation. These mathematical expressions depend on other quantities which are either fixed design variables or show further dependencies. The mathematical model can be represented as a directed graph allowing to study the impact of each of the design variables on the overall system performance. Furthermore, the model indicates when any of the quantities exceeds assigned limits, e.g., in power consumption. Applying these limitations to the RF model for a wide range of cavity types (number of cells), materials (Nb/Cu or bulk Nb), operating temperatures (2 or 4 K) and wake loss parameters we derive the most suitable parameter range for the two distinct machine layouts.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WET2H4
+New Cavity Techniques and Future Prospects
+173
+
+
+ 
+
+P. Sha
+                       Institute of High Energy Physics (IHEP), Chinese Academy of Sciences, Beijing, People's Republic of China
+J.Y. Zhai
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: This study was supported by National Key Programme for S&T Research and Development (Grant NO.: 2016YFA0400400) and National Natural Science Foundation of China (Grant NO.: 11505197)
+In the recent decades, Superconducting cavities have been widely used to accelerate electron, positron, and ions. Most SRF cavities are made from bulk niobi-um till now, which has developed fast in the past years and is hard to advance more. Take 1.3 GHz 9-cell cavi-ty for example, the quality factor (Q) can keep above 1010 when the accelerating field (Eacc) reach 40 MV/m, which nearly touch the theoretical limitation of Q and Eacc for bulk niobium. For large superconducting accelerators in future (FCC, CEPC, etc), Q and Eacc should be increased significantly compared to now, which can reduce the cryogenic power and use fewer cavities. So new cavity material and techniques are being studied at accelerator laboratories, while Nitro-gen doping (N-doping) and Nb3Sn have developed quickly and been paid attention to mostly [1]. N-doping can increase Q by one time for 1.3 GHz 9-cell cavity, which have been adopted by Linac Coherent Light Source II (LCLS-II) at SLAC [2].
+[1],Alexander Romanenko, Bulk Nb Based SRF Technology, FCC Week 2016. [2],Camille M Ginsburg, LCLS-II Cryomodules at FNAL & JLAB, TTC 2016.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-eeFACT2016-WET2H4
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WET2H5
+High RF Power Couplers for New High Luminosity Colliders
+ 
+
+
+ 
+
+W.-D. Möller
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Future high luminosity colliders ask for high beam power. The main task of the RF power coupler is to transfer the RF power from the generator to the cavity and to the beam. It also provides the matching between the RF generator and the cavity / beam system. Other tasks are the vacuum barrier for the beam vacuum and the connection between the low temperature of the superconducting cavity and the room temperature environment. In this talk we will discuss the requirements of power couplers for future colliders. We compare possible design approaches in respect to RF and non RF related functions and address problems of material and fabrication technologies. Many power couplers for different power levels and cavity designs are designed, fabricated and in operation worldwide. Some of the existing power coupler designs and developments will be shown and discussed.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WET2H6
+Higher Order Modes in CW SRF Cavities and Very High Efficiency Nb3Sn SRF Cavities for Future Circular Colliders
+ 
+
+
+ 
+
+M. Liepe
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Future circular colliders will require high performance superconducting radio-frequency (SRF) cavities, pushing the envelope of currently available technology. High cryogenic efficiency, support of high beam currents, and cost control are of particular importance. Addressing these topics, here we present (1) recent work on Higher-Order Mode control in SRF cavities for very high current operation of multicell cavities, and (2) latest results from the Cornell Nb3Sn cavity program, which has developed next generation cavities with unprecedented cryogenic efficiency.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WET2H7
+LLRF Controls Including Gap Transients at KEKB and Plans for SuperKEKB
+177
+
+
+ 
+
+T. Kobayashi, K. Akai
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Features of LLRF control systems in KEKB and SuperKEKB will be reviewed, and the evaluation of the bunch gap transient effect on beam phase will be presented for SuperKEKB. The RF systems of KEKB are being reinforced to handle triple as large beam power for upgrade to SuperKEKB. Furthermore, a new LLRF control system, which is based on a recent digital control technique, has been developed. For nine RF stations, among a total of thirty, the LLRF control system has been replaced with new ones. They were worked successfully in the Phase-1 commissioning. Bunch phase shift along the bunch train due to a bunch gap transient is a concern. In KEKB operation, a rapid phase change was observed at the leading part of the train, which was not predicted. Our new simulation study clarified that the rapid phase change is caused by a transient loading in the three-cavity system of ARES. And the new simulation shows that the phase change will be much large in SuperKEKB. The main issue is the difference in beam phase change between the two rings for the asymmetry colliding. The measures by means of mitigation of the relative beam phase difference between the two rings will be also suggested.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-eeFACT2016-WET2H7
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WET2H8
+SRF Material R&D for FCC
+ 
+
+
+ 
+
+W. Venturini Delsolaro, S. Aull, K. Ilyina, G.J. Rosaz
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In the context of the FCC study, CERN is re-launching R/D efforts on SRF materials to meet the challenges of a large machine: energy efficiency and investment costs. The focus is put on the development of thin superconducting films on copper substrates. Thin films have been used at CERN for large SRF systems since the LEP time, on to the LHC and now recently in the HIE-ISOLDE linac. In all these applications niobium was the superconductor of choice. Nb/Cu cavities have achieved low surface resistances at the fields of interest, and their potential is not exhausted. Q slope mechanisms are being investigated, with the aim of bringing the high field performance of coated cavities closer to the the level of bulk Nb. In parallel, other superconducting materials, like Nb3Sn and V3Si are studied as a promising alternative to Nb/Cu in the timeline of the study. In this contribution, an overview will be given of the R/D program ongoing at CERN on SRF materials for FCC, and some first results will be presented.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WET2H9
+Superconducting Radio Frequency Cavities Coating Techniques
+ 
+
+
+ 
+
+A. Sublet, S. Calatroni, K. Ilyina, P. Juda, T. Richard, G.J. Rosaz, W. Venturini Delsolaro
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Thin film superconducting coatings offer a valuable alternative to conventional bulk niobium cavities mainly by reducing the cost of raw material and enhancing the heat exchange efficiency thanks to the copper substrate. The current and future superconducting radiofrequency (SRF) cavities designs and working frequencies lead to a variety of shapes and sizes to be coated. In this work we present the constraints to coat complex 3D geometries and the challenges of obtaining uniform SC layer properties with different coating techniques. It will be supported by concrete examples from ongoing cavities coating production and studies for future projects at CERN. Finally the R&D methodology, from plasma simulation to layer characterization, will be described.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

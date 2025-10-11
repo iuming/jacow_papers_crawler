@@ -1,0 +1,900 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2012 - Table of Session: TUPA (Poster in Room 201 on Tuesday)
+
+
+TUPA —  Poster in Room 201 on Tuesday   (02-Oct-12   16:20—17:50)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPA01
+Diagnostics Update of the Taiwan Photon Source
+324
+
+
+ 
+
+C.H. Kuo, J. Chen, Y.-S. Cheng, P.C. Chiu, K.T. Hsu, S.Y. Hsu, K.H. Hu, C.Y. Liao, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Taiwan Photon Source (TPS) is a 3 GeV synchrotron light source which is being construction at campus of NSRRC. Various diagnostics are in implementation and will deploy in the future to satisfy stringent requirements of TPS for commissioning, top-up injection, and operation. These designs include beam intensity observation, trajectory and beam positions measurement, destructive profile measurement, synchrotron radiation monitors, beam loss monitors, orbit and bunch-by-bunch feedbacks, filling pattern and etc. are in final design phase. Progress of construction of the planned beam instrumentation system for the TPS will be summarized in this report.
+
+ 
+
+
+ 
+
+
+
+TUPA02
+Modernized of the Booster Synchrotron Diagnostics in the Taiwan Light Source
+329
+
+
+ 
+
+C.H. Kuo, J. Chen, Y.-S. Cheng, P.C. Chiu, K.T. Hsu, S.Y. Hsu, K.H. Hu, C.Y. Liao, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Taiwan Light Source is an 1.5 GeV synchrotron based light source which dedicated almost 20 year ago. During several major and minor upgrades, the TLS operate in top-up mode. To provide a better operation of the injector for the TLS, several minor upgrade in diagnostics are proceed recently. Efforts of these upgrades and modifications will summary in this report.
+
+ 
+
+
+ 
+
+
+
+TUPA05
+The Calibration Factor Determined and Analysis for HLS Bunch Current Measurement System
+334
+
+
+ 
+
+Y.L. Yang, C. Cheng, P. Lu, T.J. Ma, B.G. Sun, J.G. Wang, J.Y. Zou
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Work supported by National Natural Science Project(11105141) and Chinese Universities Scientific Fund
+For bunch current measurement, the calibration factor is a key parameter. Usually, button electrode or stripline electrode can be selected as signal pickup, and peak value or integral of bunch signal from pickup can be used to calculate the related bunch current value. To obtain the absolute value of bunch current, the calibration factor should be determined with the help of DCCT. At HLS, the Stretch effect of bunch length was observed when bunch current decay over time and this will affect the performance of bunch current detection for different pickup type and calculate method. Theoretical analysis and experimental validation results are performed to find out an ideal solution for bunch current measurement at HLS. The results show that, bunch current measurement system can obtain the best performance by stripline and its integral signal.
+
+ 
+
+
+ 
+
+
+
+TUPA06
+Pulsed Electron Beam Current and Flux Monitor for the Race-track Microtron
+337
+
+
+ 
+
+S.D. Dhole, S. Akhter, V.N. Bhoraskar, B.J. Patil, N.S. Shinde
+                       University of Pune, Pune, India
+
+ 
+
+
+ 
+
+In electron irradiation experiments on the materials, a true current of the electron beam is to be known to calculate the electron fluence received by the sample. Therefore, a pulsed electron beam current and flux monitor alongwith electronic system for an electron accelerator called Race-Track Microtron has been designed and developed. The sensing device used was a ferrite core having suitable number of turns of copper wire wound around it, through which the electron beam was passed without loss in the intensity. With an appropriate developed electronic circuit, the instantaneous value of the induced voltage was measured which in turn provides value of the electron beam pulsed current. The total charge passed through the ferrite core per unit time was therefore recorded and an integrated value of the total charge in a given period could be derived. This system can be used to measure the electron flux in the range from 108 electron/cm2 to 1016 electron/cm2. Moreover, this system has been used successfully in a few electron irradiation experiments where the knowledge of the electron fluence received by the sample is required.
+
+ 
+
+
+ 
+
+
+
+TUPA07
+BPM Selection for Beam Current Monitoring in SSRF
+341
+
+
+ 
+
+Z.C. Chen, Y.B. Leng, Y.B. Yan
+                       SSRF, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Although Direct Current Current Transformer (DCCT) is the general solution of beam current monitor, Beam Position Monitor (BPM) sum signals may still surpass it in some aspects such as the faster data rate and higher resolution in low current situations. Nevertheless, an additional monitor should be harmless. Meanwhile, the DCCTs in the storage ring of Shanghai Synchrotron Radiation Facility (SSRF) have been suffering from various noise and the signals from the BPMs could be an aid to provide the beam current more accurately. There're 140 BPMs in the storage ring in SSRF but not all of them are suitable for this particular usage. This article focuses on the methods used here to dynamicly choose the BPMs that meet the criteria.
+
+ 
+
+
+ 
+
+
+
+TUPA08
+Application of Single Crystal Diamonds (scCVD) as Beam Conditions Monitors at LHC
+344
+
+
+ 
+
+M.E. Castro Carballo
+                       DESY Zeuthen, Zeuthen, Germany
+
+ 
+
+
+ 
+
+The properties of the single-crystal diamond (scCVD): radiation hardness, low leakage current and fast signal, make it suitable for use as a particle detector in areas of high radiation dose. The Beam Conditions and Radiation Monitoring system (BRM) of the CMS experiment has a monitor (BCM1F) consisting of 4 modules located 1.8 m away from the interaction point, on both sides. Each module contains a sensor, radiation hard FEE and optical transmission of the signal. It counts single particles of beam halo, beam-gas, machine induced background, and collision products. The BRM protects CMS from high beam losses and provides feedback to the LHC and CMS on the beam conditions. The BCM1F sub-detector is very helpful as it is able to provide different background information together with luminosity correlations. Additional scCVD sensors are being installed in the LHC ring to be used as BLMs. The new BLM system (BCM1F4LHC) will be composed of 8 diamonds in points likely to suffer from beam losses. Nowadays, four sensors deliver information of hit rates that are correlated to the existing BLMs. A characterization of both BCM1F systems is presented.
+
+ 
+
+
+ 
+
+
+
+TUPA09
+System Architecture for Measuring and Monitoring Beam Losses in the Injector Complex at CERN
+347
+
+
+ 
+
+C. Zamantzas, M. Alsdorf, B. Dehning, S. Jackson, M. Kwiatkowski, W. Viganò
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The strategy for beam setup and machine protection of the accelerators at the European Organisation for Nuclear Research (CERN) is mainly based on its Beam Loss Monitoring (BLM) systems. For their upgrade to higher beam energies and intensities, a new BLM system is under development with the aim of providing faster measurement updates with higher dynamic range and the ability to accept more types of detectors as input compared to its predecessors. In this paper, the architecture of the complete system is explored giving an insight to the design choices made to provide a highly reconfigurable system that is able to fulfil the different requirements of each accelerator using reprogrammable devices.
+
+ 
+
+
+ 
+
+
+
+TUPA10
+Optical-Fiber Beam Loss Monitor for the KEK Photon Factory
+351
+
+
+ 
+
+T. Obina, Y. Yano
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Beam loss monitor system using optical fibers has been developed to determine the loss point of the injected beam at the KEK Photon Factory (PF) electron storage ring. Large-core optical fiber was installed along the vacuum chamber of the storage ring, of which circumference is about 187m. In order to cover the whole location, total 10 optical fibers with the length of 30 m is used. Both ends of the fiber has been fed out of the radiation shield of the ring. The Cherenkov light produced by the electron which is not captured in the ring, is detected by a photomultiplier tube (PMT) attached on the upstream side of the fiber. Rise-time of the PMT of 5 ns is fast enough to determine the location of the beam loss point. In the KEK-PF, two kinds of injection system, kicker magnets and a pulsed sextupole magnet (PSM), has been used for the routine operation. In this paper, details of the loss monitor system are reported and the difference of the two injection system will be discussed.
+
+ 
+
+
+ 
+
+
+
+TUPA11
+SSRF BPM System Optimization and Upgrade
+355
+
+
+ 
+
+Y.B. Yan, Y.B. Leng
+                       SSRF, Shanghai, People's Republic of China
+L.Y. Yu, W.M. Zhou
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+The beam position monitor (BPM) system at SSRF was fully equipped with Libera Electrons. It have operated steadily for nearly five years. During the summer shutdown of 2012 more than 50 Libera Electrons were upgraded to Libera Brilliance which are used mainly for fast obit feedback system. The software of whole system is upgraded from 1.42 to 2.07. Some other hardware and software optimizations are carried out. After this upgrade, the stability and performance have been improved significantly. This paper introduces the details of the optimization and upgrade.
+
+ 
+
+
+ 
+
+
+
+TUPA12
+A DBPM Calibration Method Implemented on FPGA
+358
+
+
+ 
+
+X.D. Sun, Y.B. Leng
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+An calibration method on the four channels of DBPM is discussed . Using interpolation, the method is implemented on FPGA , which can handle the data on-line. The calibration algorithm is mono-channel dependent and is intended to solve the beam current dependence problem and increase resolution. Orientations of the method is presented. Basic design diagrams of the pipelined FPGA modules are listed and comparisons are made before and after the calibration
+
+ 
+
+
+ 
+
+
+
+TUPA15
+Beam Postion Monitor for Energy Recovery Linac
+361
+
+
+ 
+
+I. Pinayev
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by US Department of Energy.
+The energy recovery linacs have co-propagating beams in the same vacuum vessel. These beams can have different trajectories, which should be distinguished by beam position monitors (BPM). In this paper we present a concept of BPM utilizing the phase information for calculation individual position of each of the two beams (accelerating and decelerating). The practical realizations are presented and achievable accuracy is estimated.
+
+ 
+
+
+ 
+
+
+
+TUPA16
+HOM Choice Study with Test Electronics for use as  Beam Position Diagnostics in 3.9 GHz Accelerating Cavities in FLASH
+364
+
+
+ 
+
+N. Baboi, B. Lorbeer, P. Zhang
+                       DESY, Hamburg, Germany
+N. Eddy, B.J. Fellenz, M. Wendt
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported in part by the European Commission within the Framework Programme 7, Grant Agreement 227579
+Higher Order Modes (HOM) excited by the beam in the 3.9 GHz accelerating cavities in FLASH can be used for beam position diagnostics, as in a cavity beam position monitor. Previous studies of the modal choices within the complicated spectrum have revealed several options*: cavity modes with high coupling to the beam, and therefore with the potential for better position resolution, but which are propagating within all 4 cavities, and modes localized in the cavities or the beam pipes, which can give localized position information, but which provide worse resolution. For a better characterization of these options, test electronics has been built, which can down convert various frequencies between about 4 and 9 GHz to 70 MHz. The performance of various 20 MHz bands has been estimated. The best resolution of 20 μm was found for some propagating modes. Based on this study one band at ca. 5 GHz was chosen for high resolution position monitoring and a band at ca. 9 GHz for localized monitoring.
+* N. Baboi et al., SRF2011, Chicago, IL, US
+
+ 
+
+
+ 
+
+
+
+TUPA17
+TPS BPM Electronics Performance Measurement and Statistics
+369
+
+
+ 
+
+P.C. Chiu, K.T. Hsu, K.H. Hu, C.H. Kuo
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The new BPM electronics Libera Brilliance Plus are developed for Taiwan Photon Source (TPS) which is a 3 GeV synchrotron light source constructed at NSRRC. This new BPM electronics can accommodate four BPM modules with integrated FPGA-based hardware. The preliminary test for the first arrival unit had been performed in the TLS (Taiwan Light Source) and had shown nearly equal performance compared with Libera Brilliance. The extra 75 sets had been delivered in 2011 and 2012. Performance of each unit are individually tested and measured.
+
+ 
+
+
+ 
+
+
+
+TUPA18
+Development of the Beam Position Monitors for the SPIRAL2 Linac
+374
+
+
+ 
+
+M. Ben Abdillah, P. Ausset, G. Belot, P. Blache, P. Dambre, J. Lesrel, E. Marius
+                       IPN, Orsay, France
+
+ 
+
+
+ 
+
+Funding: CNRS (Centre National de la Recherche Scientifique) CEA (Commissariat à l'Energie Atomique); Région Basse Normandie Co-Authors: P. Ausset, J. Lesrel, P. Blache, P. Dambre, G. Belot, E. Marius
+The SPIRAL 2 facility will be able to deliver stable heavy ion beams and deuteron beams at very high intensity, producing and accelerating light and heavy rare ion beams. The driver will accelerate between 0.15mA and 5 mA deuteron beam up to 20 MeV/u and also q/A=1/3 heavy ions up to 14.5 MeV/u. The accurate tuning of the LINAC is essential for the operation of SPIRAL2 and requires from the Beam Position Monitor (BPM) system the measurements of the beam transverse position, the phase of the beam with respect to the radiofrequency voltage and the beam energy. Twenty three BPM were realized for SPIRAL2. This paper addresses all aspects of the design, realization, and calibration of these BPM, while emphasizing the determination of the beam position and shape. The measurements on the BPM are carried out on a test bench in the laboratory: the position mapping with a resolution of 50 μm is performed and the sensitivity to the beam displacement is about 1.36dB/mm at the centre of the BPM. The characterization of the beam shape is performed by means of a special test bench configuration. An overview of the electronics under realization for the BPM of the SPIRAL2 Linac is given.
+Keywords: BPM, SPIRAL2, position mapping , sensitivity  References:   *P. Ausset « Overview of the beam diagnostics for the driver of SPIRAL 2»  *R.H.Miller « Nonintercepting Emittance Monitor »
+
+ 
+
+
+ 
+
+
+
+TUPA19
+First Tests of a Low Charge MTCA-based Electronics for Button and Strip-line BPM at FLASH
+378
+
+
+ 
+
+B. Lorbeer, N. Baboi, F. Schmidt-Föhre
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Current FEL based light sources foresee operation with very short electron bunches. These can be obtained with charges of 100pC and lower. The specified charge range for FLASH, DESY, Hamburg goes from 100pC up to 1nC. The electronics currently installed at button and stripline BPMs of FLASH have been designed for best performance at higher charges and have reached their limits. Currently a new type of electronics is being developed at DESY to overcome these limitations. These electronics is/are conforming with the uTCA for physics standard(ref). This paper describes the next generation of FLASH BPM electronics suitable for button and stripline BPM. Furthermore the first measurement results taken with beam at FLASH, DESY are presented here.
+
+ 
+
+
+ 
+
+
+
+TUPA22
+Design of RF Front End for Cavity Beam Position Monitor based on ICs
+383
+
+
+ 
+
+B.P. Wang, Z.C. Chen, Y.B. Leng, L.Y. Yu, R.X. Yuan, W.M. Zhou
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+RF front end has the significant impact on the performance of cavity beam position monitor (CBPM) which is indispensable beam instrumentation component in free electron laser(FEL) or linear collider facility. With many new advances in data converter and radio technology, complex RF front end design has been greatly simplified. Now based on digital intermediate frequency (IF) receiver architecture, a new RF front end for (CBPM) has been designed and fabricated using surface mount component on print circuit board (PCB). The front end contains analog-digital converter used to digitize the IF signals. The whole system would be integrated to a digital board developed by our lab to produce the dedicated signal processor for CBPM. There is an Xilinx Vertex-5 FPGA device on the digital board and relevant signal processing algorithm has been implemented on it using VHDL. The details about design and test results would be introduced blow.
+
+ 
+
+
+ 
+
+
+
+TUPA23
+Performance of a Downconverter Test-electronics with MTCA-based Digitizers for Beam Position Monitoring in 3.9 GHz Accelerating Cavities
+386
+
+
+ 
+
+T. Wamsat, N. Baboi, B. Lorbeer
+                       DESY, Hamburg, Germany
+P. Zhang
+                       UMAN, Manchester, United Kingdom
+
+ 
+
+
+ 
+
+Beam excited higher order modes (HOM) in 3.9GHz accelerating cavities at the European XFEL are planned to be used for beam position monitoring. The selected HOMs are located around 5440MHz and 9060MHz and are filtered in a bandwidth of 100MHz. A downconverter test electronics converts the HOMs to an intermediate frequency of 70MHz. The μTCA (Micro Telecommunications Computing Architecture) standard will be used for the XFEL. Thus it is important to have a performance study of the downconverter test electronics using the μTCA digitizer card SIS8300. In the digitizer IF frequency of 70MHz is undersampled with a clock frequency of 108MS/s. The paper will present the performance of the digitizer together with the test-electronics. A comparison with a 216MS/s VME (Versa Module Eurocard) digitizer will be made.
+
+ 
+
+
+ 
+
+
+
+TUPA24
+Design of Cavity BPM Pickups for SwissFEL
+390
+
+
+ 
+
+F. Marcellini, B. Keil, M. Rohrer, M. Stadler, J. Stettler, D.M. Treyer
+                       PSI, Villigen PSI, Switzerland
+D. Lipka, D. Nölle, M. Pelzer, S. Vilcins
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+SwissFEL is a 0.1nm hard X-ray Free Electron Laser being built at PSI. A photocathode gun, S-band injector and C-band linac provide 2 bunches at 28ns spacing, 10-200pC charge, and 5.8GeV maximum energy. A fast distribution kicker will provide one bunch each to one hard X-ray and one soft X-ray undulator line. For linac and undulators, first prototypes of dual-resonator cavity BPM pickups have been designed and fabricated. The pickups were optimized for low charge and short bunch spacing in the linac. Design considerations, simulation and first test results will be reported.
+
+ 
+
+
+ 
+
+
+
+TUPA25
+Signal Transmission Characteristics in Stripline-Type Beam Position Monitor
+394
+
+
+ 
+
+T. Suwada
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+New stripline-type beam position monitor (BPM) system is under development at the KEKB injector linac in order to measure transverse beam positions with a high precision less than 10 micron meters towards the Super KEKB-factory (SKEKB) at KEK. During the KEKB operation, conventional stripline-type BPMs with a position resolution of 0.1 mm have been working well. However, the high-precision BPM system is strongly required for the SKEKB operation to stably accelerate single-bunch electron and positron beams with high bunch charges of ~5 nC/bunch, and also to keep the beam stability with higher brightness. The new stripline-type BPMs with large aperture compared with previously designed BPMs, which will be installed just after the positron production and capture section, have been designed. In this report, the basic design for fabricating the prototype stripline-type BPM, and, especially, theoretical analysis and experimental investigations on the signal propagation characteristics and performance along the stripling electrodes are described in detail on the base of a coupled-mode analysis of uniform coupled transmission lines.
+
+ 
+
+
+ 
+
+
+
+TUPA26
+Development of New BPM Electronics for the Swiss Light Source
+399
+
+
+ 
+
+W. Koprek, R. Baldinger, R. Ditter, B. Keil, G. Marinkovic, M. Roggli, M. Stadler
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+PSI is currently developing new BPM electronics for the Swiss Light Source (SLS). Although the present "DBPM1" system that was designed 12 years ago still allows to achieve excellent beam stability and uptime, the development of a new system is motivated by long-term maintenance, improved performance in line with increasing user requirements, and new features and functionality provided by latest electronics technology. The new electronics is based on a generic modular BPM electronics platform developed by PSI that will also be used for linac based FELs like European XFEL and SwissFEL. The hardware and firmware architecture of the present prototypes as well as first test results will be presented.
+
+ 
+
+
+ 
+
+
+
+TUPA27
+Beam Test Results of Undulator Cavity BPM Electronics for the European XFEL
+404
+
+
+ 
+
+M. Stadler, R. Baldinger, R. Ditter, B. Keil, R. Kramert, G. Marinkovic, M. Roggli
+                       PSI, Villigen PSI, Switzerland
+D. Lipka, D. Nölle, M. Pelzer, S. Vilcins
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by Swiss State Secretariat for Education and Research SER
+The European X-ray Free Electron Laser (E-XFEL) will use dual-resonator cavity BPMs (CBPMs) in the SASE undulators to measure and stabilize the beam trajectory. The BPM electronics is developed by PSI, while the pickup mechanics is developed by DESY. First beam tests with three adjacent pickups have been performed. The system architecture and algorithms, achieved performance and noise correlation measurements of the present electronics prototypes will be presented.
+
+ 
+
+
+ 
+
+
+
+TUPA29
+Implementation of an FPGA Based System Survey and Diagnostic Reader with the Aim to Increase the System Dependability
+409
+
+
+ 
+
+M. Alsdorf, B. Dehning, M. Kwiatkowski, W. Viganò, C. Zamantzas
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The operation and machine protection of accelerators practically rely on their underlying instrumentation systems and a failure of any of those systems could pose a significant impact on the overall reliability and availability. In order to improve the detection and in some cases the prevention of failures, a survey mechanism could be integrated to the system that collects crucial information about the current system status through a number of acquisition modules. The implementation and integration of such a method is presented with the aim to standardize the implementation, where the acquisition modules share a common build and are connected through a standardized interface to a survey reader. The reader collects regularly data and controls the readout intervals. The information collected from these modules is used locally in the FPGA device to identify critical system failures and results in an immediate failsafe reaction with the data also transmitted and stored in external databases for offline analysis.
+
+ 
+
+
+ 
+
+
+
+TUPA30
+Development of a Beam Loss Measurement System with Gigabit Ethernet Readout at CERN
+414
+
+
+ 
+
+M. Kwiatkowski, M. Alsdorf, E. Angelogiannopoulos, B. Dehning, S. Jackson, W. Viganò, C. Zamantzas
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The aim of the BLM Dual Polarity card under development at the European Organisation for Nuclear Research (CERN) is to measure and digitise with high precision the current produced by several types of beam loss detectors. In its default configuration, it is expected to provide data to the processing electronics through two point-to-point connections with bidirectional multi-gigabit optical links. For the development phases as well as later serving as a stand-alone measurement system, its reconfigurable FPGA device is exploited to provide a soft-core CPU with a custom made server. This server, running on the CPU, will expose through the Gigabit Ethernet connection and the TCP/IP protocol different types of data in the network. In this paper the development of the system and of the communication protocol is explored as well as the accompanying client application that is realised with the purpose of commanding, collecting storing and viewing the different types of data.
+
+ 
+
+
+ 
+
+
+
+TUPA31
+A Real-Time FPGA Based Algorithm for the Combination of Beam Loss Acquisition Methods used for Measurement Dynamic Range Expansion
+419
+
+
+ 
+
+M. Kwiatkowski, M. Alsdorf, B. Dehning, W. Viganò, C. Zamantzas
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The aim of the Beam Loss Monitoring Dual Polarity (BLEDP) module under development at the European Organisation for Nuclear Research (CERN) is to measure and digitise with high precision the current produced by several types of beam loss detectors. The BLEDP module consists of eight analogue channels each with a fully differential integrator and an accompanying 16 bit ADC at the output of each analogue integrator. The on-board FPGA device controls the integral periods, instructs the ADC devices to perform measurements at the end of each period and collects the measurements. In the next stage it combines the number of charge and discharge cycles accounted in the last interval together with the cycle fractions observed using the ADC samples to produce a digitized high precision value of the charges collected. This paper describes briefly the principle of the fully differential integrator and focuses on the algorithm employed to process the digital data.
+
+ 
+
+
+ 
+
+
+
+TUPA32
+Signal Equalizer for SPS Ecloud/TMCI Instability Feedback Control System
+424
+
+
+ 
+
+K.M. Pollock, J.E. Dusatko, J.D. Fox, C.H. Rivetta, D. Van Winkle
+                       SLAC, Menlo Park, California, USA
+R. Secondo
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy under contract #DE-AC02-76F00515 and the US LHC Accelerator Research Program.
+The 4GS/sec electron cloud and transverse mode coupled instability (TMCI) control system in development for the CERN Super Proton Synchrotron (SPS) requires 1.5GHz of processing bandwidth for the beam pickups and signal digitizer. An exponentially tapered stripline pickup has sufficient bandwidth, but has a phase response that distorts the beam signal in the time domain. We report on results from the design and implementation of an equalizer for the front end signal processing with correction for the pickup and cable responses. Using a model of the transfer functions for the pickups and the cabling, we determine a desired frequency response for the equalizer. Design for the circuitry, component value fitting is discussed as well as board construction and reduction of parasitic impedances. Finally, we show results from the measurement of an assembled equalizer, compare them with simulations and show beam signals from use at the SPS.
+
+ 
+
+
+ 
+
+
+
+TUPA33
+Fast Orbit Feedback Calculation Implementation for TPS
+428
+
+
+ 
+
+P. Leban, A. Bardorfer
+                       I-Tech, Solkan, Slovenia
+K.T. Hsu, C.H. Kuo
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Fast orbit feedback (FOFB) application is planned for the Taiwan Photon Source (TPS) at storage ring commissioning. Part of the application is transferred to the beam position electronics which implements global orbit position data concentration, its processing and actuating the magnet power supply controllers via optical links. The beam position electronics (Libera Brilliance+) includes gigabit data exchange (GDX) modules with Virtex6 field programmable gate array. The feedback calculation algorithm is based on the SVD ' the PI controller will be applied in the modal space for individual eigenmodes. The calculation will be distributed to all GDX modules to reduce overall latency. Each GDX module will calculate either 4 vertical or 4 horizontal magnet corrections. This article presents details about the FOFB topology and implementation in the GDX module.
+
+ 
+
+
+ 
+
+
+
+TUPA34
+Inverse Response Matrix Computation for the Storage Ring Slow Orbit Feedback Control: Synthesized Topological Inversion Computation
+431
+
+
+ 
+
+J.M. Lee, J.Y. Huang, C. Kim
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Using the derivative response matrix between BPM-data and MPS-setting, we described the inverse computation methodology for the storage ring orbit feedback control. Practically useful for SOFB with assistance of FOFB, the inverse of SVD manipulation is less efficient because a type of consecutive instability noise irreversibly accumulates in the beam trajectory deviation. In contrast, a novel numerical recipe based on topological math can lead to a self-consistent solution, dramatically suppressing ill-posed instability problems. This approach, known as a singularity regularization method, makes it feasible to compute a system-matched de-noising filter. The response matrix in H/V dimensions reflects a global beam dynamics along the storage ring lattices. Matrix refinement manipulatcan can be made to filter out the uncertainty of measurement errors escaping from beam dynamics constraints. Then we believe that algorithm filter can be effective as a software part of FOFB control. Our math STIC (Synthesized Topological Inversion Computation*) appears to be the most reliable inverse computation methodology. Our PLS-2 response matrix will be presented to explain our ORBIT-STIC test.
+* Jay Min Lee et al, presented at the 15th International Conference on X-ray Absorption Fine Structure, Beijing, July 22-28, 2012.
+
+ 
+
+
+ 
+
+
+
+TUPA35
+Digital Longitudinal Bunch-by-bunch Feedback System for the HLS II
+434
+
+
+ 
+
+W.B. Li, P. Lu, B.G. Sun, F.F. Wu, W. Xu, Y.L. Yang, Z.R. Zhou, J.Y. Zou
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+In order to suppress the longitudinal coupled bunch instabilities, a digital longitudinal bunch-by-bunch feedback system will be developed in the upgrade project of Hefei Light Source (HLS II). The longitudinal feedback system consists of a pickup BPM, a front-end signal processor unit to detect the phase errors of all electron bunches, an iGp signal processor to calculate correction signals of those bunches, two RF power amplifiers, and a longitudinal kicker to supply proper correction energy kicks to individual bunches. A new waveguide overloaded cavity longitudinal feedback kicker has been designed with broadband and high shunt impedance. In this paper, we describe an overview of the new longitudinal feedback system.
+
+ 
+
+
+ 
+
+
+
+TUPA37
+FPGA Based Fast Orbit Feedback System for the Australian Synchrotron
+437
+
+
+ 
+
+Y.E. Tan, T.D. Cornall, S.A. Griffiths, S. Murphy, E. Vettoor
+                       ASCo, Clayton, Victoria, Australia
+
+ 
+
+
+ 
+
+An initial design for a Fast Global Orbit Feedback System based on FPGAs has been proposed for the Australian Synchrotron Light Source (ASLS). The design uses a central processor (Xilinx Virtex 6) for all the computations and fast optical connections to distribute the computed data to corrector magnet power supplies. The network topology consists of two fibre optic rings. The first ring is used by the Libera Electron's to aggregate the beam position data at 10 kHz using Instrumentation Technologies' Grouping algorithm. The second ring is used to transmit the computed data. The cycle frequency of the feedback is 10 kHz with a targeted total latency of under 350 us. We shall give an overview of the design goals and discuss the merits of the current implementation. We shall also present the measured bandwidth of the stainless steel vacuum chamber and test results from initial prototyping work.
+
+ 
+
+
+ 
+
+
+
+TUPA41
+Ultra-short Electron Bunch and X-ray Temporal Diagnostics with an X-band Transverse Deflecting Cavity
+441
+
+
+ 
+
+P. Krejcik, Y. Ding, J.C. Frisch, Z. Huang, H. Loos, J.W. Wang, M.-H. Wang
+                       SLAC, Menlo Park, California, USA
+C. Behrens
+                       DESY, Hamburg, Germany
+P. Emma
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by Department of Energy Contract No. DE-AC0276SF00515
+The technique of streaking an electron bunch with a RF deflecting cavity to measure its bunch length is being applied in a new way at the Linac Coherent Light Source with the goal of measuring the femtosecond temporal profile of the FEL photon beam. A powerful X-band deflecting cavity is being installed downstream of the FEL undulator and the streaked electron beam will be observed at an energy spectrometer screen at the beam dump. The single-shot measurements will reveal which time slices of the streaked beam have contributed to the FEL process by virtue of their greater energy loss and energy spread relative to the non-lasing portions of the electron bunch. Since the diagnostic is located downstream of the undulator it can be operated continuously without interrupting the beam to the users. The resolution of the new X-band system will be compared to the existing S-band RF deflecting diagnostic systems at SLAC and consideration is given to the required RF phase stability tolerances required for acceptable beam jitter on the monitor. Simulation studies show that about 1 fs (rms) time resolution is achievable in the LCLS over a wide range of FEL wavelengths and pulse lengths.
+
+ 
+
+
+ 
+
+
+
+TUPA42
+Diagnostics Beamline Optimisation and Image Processing for Sub-ps Streak Camera Bunch Length Measurement
+445
+
+
+ 
+
+C.A. Thomas, I.P.S. Martin, G. Rehm
+                       Diamond, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Low alpha beam lattice at Diamond can generate bunch length as small as 0.6ps. In order to be able to measure reliably such a short bunch, we have been optimising the optical design of the visible Diagnostics beamline, and we have implemented image processing, taking into account the point spread function of the streak camera. The beamline optical design has removed a large chirp of 15ps/150nm bandwidth to 2ps /200nmbandwidth. It has also permit the transport of almost all the available power, increasing the power by a factor 20, yet maintaining the possibility to focus the beam down to less than 20um into the streak camera for the best static streak camera point spread function. The deconvolution technique implemented extends the performance of the streak camera to bunch length measurement much smaller than the 1ps PSF of the streak camera. In this paper we present these two essential features required to measure sub-ps bunched with a streak camera.
+
+ 
+
+
+ 
+
+
+
+TUPA43
+First Operation of the Electro-optical Sampling Diagnostics of the FERMI@Elettra FEL
+449
+
+
+ 
+
+M. Veronese, A. Abrami, E. Allaria, M. Bossi, M.B. Danailov, M. Ferianis, L. Fröhlich, S. Grulja, M. Predonzani, F. Rossi, G. Scalamera, C. Spezzani, M. Trovò, M. Tudor
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+The FERMI@Elettra seeded FEL has demanding specifications in terms of longitudinal properties of the electron beam. Several diagnostics are installed along the linac. At the entrance of the FEL1 undulator chain an electro optical sampling (EOS) station based on the spatial encoding scheme is installed. The EOS provides both time jitter and longitudinal profile measurements in a non-destructive way. The layout of this system is described and the first operational measurement results obtained are reported. The paper includes also the capability of this diagnostics to perform the temporal coarse alignment of the seed laser to the electron beam. Finally a discussion on the future developments foreseen for this system is given.
+
+ 
+
+
+ 
+
+
+
+TUPA44
+Status of the LCLS Experiment Timing System
+453
+
+
+ 
+
+J.C. Frisch, C. Bostedt, R.N. Coffee, A.R. Fry, N. Hartmann, J. May, D.J. Nicholson, S. Schorb, S.R. Smith
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work Supported by Department of Energy Contract DE AC03 76SF00515
+X-ray / optical laser pump - probe experiments are used for a significant fraction of the scientific work performed at LCLS. The experimental laser systems are locked to the timing of the electron beam through a combination of RF and optical fiber based systems. The remaining ~100 femtosecond RMS jitter of the X-rays relative to the optical laser is measured shot-to-shot by both a RF timing detector, and by direct X-ray to optical cross-correlation, and the result is used to correct the experiment timing to 10s of femtoseconds. We present the present status of the system and plans for future upgrades.
+
+ 
+
+
+ 
+
+
+
+TUPA46
+Streak Camera Measurements at ALBA: Bunch Length and Energy Matching
+458
+
+
+ 
+
+U. Iriso, F.F.B. Fernández
+                       CELLS-ALBA Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+This report describes the electron beam longitudinal studies performed at ALBA Storage Ring using the streak camera. We first show the usual studies involving precise bunch length measurements and related beam parameters like energy spread or momentum compaction factor. Next, the studies to match the injected beam in energy and phase are reported and compared with simulations.
+
+ 
+
+
+ 
+
+
+
+TUPA47
+Middle-infrared Prism Spectrometer for Single-shot Bunch Length Diagnostics at the LCLS
+463
+
+
+ 
+
+T.J. Maxwell, Y. Ding, A.S. Fisher, J.C. Frisch, H. Loos
+                       SLAC, Menlo Park, California, USA
+C. Behrens
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported in part by US Department of Energy contract number DE-AC02-76SF00515.
+Modern high-brightness accelerators such as laser plasma wakefield and free-electron lasers continue the drive to ever-shorter bunches. At low-charge (< 20 pC), bunches as short as 10 fs are reported at the Linac Coherent Light Source (LCLS). Advanced time-resolved diagnostics approaching the fs-level have been proposed requiring the support of rf-deflectors, modern laser systems, or other complex systems. Though suffering from a loss of phase information, spectral diagnostics remain appealing by comparison as compact, low-cost systems suitable for deployment in beam dynamics studies and operations instrumentation. Progress in mid-IR imaging and detection of the corresponding micrometer-range power spectrum has led to the continuing development of a single-shot, 1.2 - 40 micrometer prism spectrometer for ultra-short bunch length monitoring. In this paper we report further analysis and experimental progress on the spectrometer installation at LCLS.
+
+ 
+
+
+ 
+
+
+
+

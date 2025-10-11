@@ -1,0 +1,233 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB2016 - Table of Session: WEB3 (Working Group B - Session 3)
+
+
+WEB3 —  Working Group B - Session 3   (06-Jul-16   14:00—15:40)
+Chair: Y. He, IMP/CAS, Lanzhou, People's Republic of China
+
+
+Paper
+Title
+Page
+
+
+
+WEPM1Y01
+Emittance Reconstruction Techniques in Presence of Space Charge Applied During the Linac4 Beam Commissioning
+433
+
+
+ 
+
+V.A. Dimov, J.-B. Lallement, A.M. Lombardi
+                       CERN, Geneva, Switzerland
+R. Gaur
+                       RRCAT, Indore, India
+
+ 
+
+
+ 
+
+The classical emittance reconstruction technique, based on analytic calculations using transfer matrices and beam profile measurements, is reliable only if the emittance is conserved and the space charge forces are negligible in the beamline between the reconstruction and measurement points. The effects of space charge forces prevent this method from giving sound results up to a relativistic beta of about 0.5 and make it inapplicable to the Linac4 commissioning at 50 and 100 MeV. To compensate for this drawback we have developed a dedicated technique, the forward method, which extends the classical method by combining it with an iterative process of multiparticle tracking including space charge forces. The forward method, complemented with a tomographic reconstruction routine, has been applied to transverse and longitudinal emittance reconstruction during the Linac4 beam commissioning. In this paper we describe the reconstruction process and its application during Linac4 beam commissioning.
+
+ 
+
+
+
+
+
+
+Slides WEPM1Y01 [1.923 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-HB2016-WEPM1Y01
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPM2Y01
+Model Benchmark With Experiment at the SNS Linac
+439
+
+
+ 
+
+A.P. Shishlo, A.V. Aleksandrov, M.A. Plum
+                       ORNL, Oak Ridge, Tennessee, USA
+Y. Liu
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL/SNS is managed by UT-Battelle, LLC, for the U.S. Department of Energy under contract DE-AC05-00OR22725.
+The history of attempts to perform a transverse matching in the SNS superconducting linac (SCL) is discussed. The SCL has 9 laser wire (LW) stations to perform nondestructive measurements of the transverse beam profiles. Any matching starts with the measurement of the initial Twiss parameters which in the SNS case was done by using the first four LW stations at the beginning of the superconducting linac. For years the consistency between all LW stations data could not be achieved. This problem was resolved only after significant improvements in accuracy of the phase scans of the SCL cavities, more precise analysis of all available scan data, better optics planning, and the initial longitudinal Twiss parameters measurements. The presented paper discusses in details these developed procedures.
+
+ 
+
+
+
+
+
+
+Slides WEPM2Y01 [2.815 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-HB2016-WEPM2Y01
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPM3Y01
+Efficient Particle In Cell Simulations of Beam Collimation in the FRIB Front-End
+ 
+
+
+ 
+
+S.M. Lund, K. Fukushima
+                       FRIB, East Lansing, Michigan, USA
+C.Y. Wong
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661 and the National Science Foundation under Grant No. PHY-1102511.
+Particle-In-Cell (PIC) simulations of FRIB front-end are being carried out with the open-source Warp code. Near source evolution of an intense, multi-species DC ion beam emerging from a Electron Cyclotron Resonance (ECR) source is simulated in a realistic lattice. Flexible, script-based simulation tools are applied to analyze the plethora of ion cases within a maintainable and extendable framework to support front-end commissioning activities which commence in late 2016. Linked transverse xy slice and 3D simulations are carried out in the lattice downstream of the ECR to better understand species charge selection and collimation. The simulations improve understanding of the complex dynamics and augment limited laboratory diagnostics to improve optimization. Effects from large canonical angular momentum (magnetized beam from ECR) induced beam rotation, thermal spread, initial distribution asymmetries, space-charge, and varying degree of electron neutralization are examined for impact on charge selection and beam quality. Ranges of initial conditions are analyzed since the beam emerging from ECR sources is not well understood. Simulation scripts developed are made freely available.
+
+ 
+
+
+
+
+
+
+Slides WEPM3Y01 [19.590 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPM4Y01
+HPSim - Advanced Online Modeling for Proton Linacs
+444
+
+
+ 
+
+L. Rybarcyk
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+High-power proton linacs seek to operate with low and stable losses. This aspect is carefully evaluated with multi-particle beam dynamics codes during the design stage. However, it is just as important to evaluate the performance of the actual operating linac, which is typically more tedious and complicated when using these same design codes. To improve this situation, we have developed a high-performance, multi-particle online modeling tool, HPSim, with the goal of providing near real-time simulation results for our 800-MeV proton linac at Los Alamos. This presentation will cover the motivation, code features, benefits and applications.
+
+ 
+
+
+
+
+
+
+Slides WEPM4Y01 [7.537 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-HB2016-WEPM4Y01
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

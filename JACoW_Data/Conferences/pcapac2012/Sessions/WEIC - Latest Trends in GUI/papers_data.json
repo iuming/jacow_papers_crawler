@@ -1,0 +1,38 @@
+{
+  "session_info": {
+    "id": "WEIC",
+    "name": "WEIC - Latest Trends in GUI",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/weic.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEIC01",
+      "title": "Web2cToGo: Bringing the Web2cToolkit to Mobile Devices",
+      "authors": [
+        "DESY",
+        "Hamburg",
+        "Germany",
+        "The Web2cToolkit is a collection of Web services. It enables scientists",
+        "operators and service technicians to supervise and operate accelerators and beam lines through the World Wide Web. The toolkit includes a synoptic display viewer and editor",
+        "an archive viewer",
+        "a messenger service",
+        "a logbook facility",
+        "an administration manager and an HTTP gateway to control systems. Recently",
+        "a novel view (Web2cToGo) has been added which is especially designed for mobile devices such as tablet computers or smartphones running iOS",
+        "Android or other mobile operation systems. Web2cToGo is a frame which embeds instances of all kinds of Web2c tools. It provides a single-sign-on user authentication and authorization procedure. Web2cToGo supports single- or multi-touch user gestures and is available as a platform-independent browser-based Web application or as a platform-dependent native app. This paper describes the conceptual design of Web2cToGo and the technologies used behind the scenes as well as the experiences gathered so far. It presents an outlook of ongoing developments including user-device interaction based on voice recognition."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/weic01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/weic01.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/weic01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-WEIC01",
+      "page_number": "4",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-11 02:07:41"
+}

@@ -1,0 +1,682 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: TUPSM (Poster Session)
+
+
+TUPSM —  Poster Session   (01-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPSM01
+Study on 2 Cell RF-Deflector Cavity for Ultra-short Electron Bunch Measurement
+628
+
+
+ 
+
+T. Takahashi, Y. Nishimura, M. Nishiyama, K. Sakaue, M. Washio
+                       Waseda University, Tokyo, Japan
+T. Takatomi, J. Urakawa
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: Work supported by JSPS Grant-in-Aid for Scientific Research (A) 10001690 and the Quantum Beam Technology Program of MEXT.
+We have been studying on a system to measure ultra-short electron beam bunch length at Waseda University. We adopted the rf-deflector system which can convert the longitudinal distribution to transverse by sweeping the electron bunch. We used HFSS for designing the rf-deflector cavity and GPT for beam tracking. In order to achieve the desired magnitude of magnetic field in the rf-deflector, we decided to use a 2-cells cavity of rectangular structure. Finally we optimized the design for the rf-deflector which is operating on π-mode, standing wave, dipole (TM120) mode at 2856 MHz. We have confirmed this rf-deflector has enough performance, which is 100 femt seconds bunch measurement, by GPT simulations. Now we have finished manufacturing with the collaboration of High Energy Accelerator Research Organization (KEK). We could adjust resonant frequency to 2856 MHz and combine the waveguide with the rf-deflector precisely. We will integrate the rf-deflector into an S-band Cs-Te photocathode rf electron gun system in Waseda University, and carry out bunch length measurement in this summer. In this conference, we will report the present progresses and future plan.
+
+ 
+
+
+ 
+
+
+
+TUPSM03
+10s Femtosecond Bunch Length Measurement Based on Coherent Transition Radiation
+631
+
+
+ 
+
+X.H. Lu, W.-H. Huang, C.-X. Tang
+                       TUB, Beijing, People's Republic of China
+R.K. Li, P. Musumeci, K.G. Roberts, H.L. To
+                       UCLA, Los Angeles, California, USA
+
+ 
+
+
+ 
+
+In this paper, we discuss bunch length measurement based on coherent transition radiation for 10s femtosecond electron bunches with of several MeV energy and several pC charge. The ultrashort bunch length is obtained by velocity bunching using a compact dual slot resonantly coupled linac located after an RF photoinjector. Strong focusing with a solenoid is required to enhance the radiation generation. Filters are used to reconstruct coherent transition radiation spectrum. The transverse and longitudinal form factors are also studied with simulation.
+
+ 
+
+
+ 
+
+
+
+TUPSM04
+High-Charge Femtosecond Electron Generations for Ultrafast, High-Brightness Electron Beam Applications
+634
+
+
+ 
+
+J.H. Park, H. Bluem, J. Rathke, T. Schultheiss, A.M.M. Todd
+                       AES, Princeton, New Jersey, USA
+
+ 
+
+
+ 
+
+Funding: *This work was supported by the U.S. Department of Energy, under Contract No. DE-SC0009556.
+Generation and preservation of ultrafast, high-brightness electron beams is one of the major challenges in accelerator R&D for high-brightness beam application such as free electron laser (FEL) and ultrafast electron diffraction (UED). Transverse and longitudinal space charge forces play a key role in emittance dilution and bunch lengthening, respectively, for all high brightness beams. We present newly designed radial bunch compression in an X-band photocathode radio frequency electron gun in achieving a compact ultrafast, high-brightness source. By compensating the path length difference in an extremely high acceleration gradient cavity with a curved cathode, we numerically demonstrate the potential for achieving more than an order of magnitude increase in beam brightness over existing electron guns. The thermal dynamics study and mechanical conceptual design to pursue the mechanical reliability will also present.
+
+ 
+
+
+ 
+
+
+
+TUPSM05
+Studies of Field and Photo-Emission in a New Short-Pulse, High-Charge Cs2Te RF Photocathode Gun
+637
+
+
+ 
+
+E.E. Wisniewski, M.E. Conde, W. Gai, C.-J. Jing, W. Liu, J.G. Power
+                       ANL, Argonne, USA
+C.-J. Jing
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+L.K. Spentzouris, Z.M. Yusof
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was funded by the U.S. Dept. of Energy Office of Science under contract number Agency DE-AC02-06CH11357.
+A new high-charge RF gun is now operating at the Argonne Wakefield Accelerator (AWA) facility at Argonne National Laboratory (ANL). The 1.5 cell 1.3 GHz gun uses a Cesium telluride photocathode driven with a 248 nm laser to provide short-pulse, high charge electron beams for the new 75 MeV drive beamline. The high-gradient RF gun (peak field on the cathode > 80MV/m) is a key piece of the facility upgrade (see M. E. Conde, this proceedings). The large Cs2Te photocathode (diameter > 30 mm) is fabricated in-house. The photo-injector generates high-charge, short pulse, single bunches (Q > 100 nC) or bunch-trains (Q > 1000 nC) for wakefield experiments, typically involving dielectric-loaded accelerating structures. Field-emitted dark current from the Cs2Te cathode was measured during RF conditioning. Fowler-Nordheim plots of the data are presented and compared to similar measurements made using a copper cathode in the initial phase of conditioning. Results of quantum efficiency (QE) studies are presented with the cathode operating in both single and bunch-train modes.
+
+ 
+
+
+ 
+
+
+
+TUPSM06
+The Cathode Preparation Chamber for the DC High Current High Polarization Gun
+640
+
+
+ 
+
+O.H. Rahman, I. Ben-Zvi, D.M. Gassner, A.I. Pikin, T. Rao, E.J. Riehn, B. Sheehy, J. Skaritka, E. Wang, Q. Wu
+                       BNL, Upton, Long Island, New York, USA
+I. Ben-Zvi
+                       Stony Brook University, Stony Brook, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+A compact cathode preparation chamber for the high current high polarization gun for the proposed eRHIC project has been designed and assembled at Brookhaven National Laboratory. This preparation chamber will be used to activate GaAs photocathodes to be used in the Gatling gun. The chamber is capable of achieving XHV on a consistent basis. Bulk GaAs samples were activated in this chamber with standard QE for the respective wavelength. In this paper, we discuss the design of this vacuum system, the heat cleaning and the activation procedure for the GaAs sample which will eventually be followed for the Gatling gun.
+
+ 
+
+
+ 
+
+
+
+TUPSM07
+Parmela Simulation for BNL 704MHz SRF Gun in Low Emittance Operation
+643
+
+
+ 
+
+E. Wang, I. Ben-Zvi, J. Kewisch
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The BNL 704MHz 0.5 cell SRF gun is designed for an ERL prototype with high bunch charge and high average current, and may ultimately be used to generate a high average current and high brightness electron beam for a high power far infrared free electron laser. In simulations with the space charge tracking code PARMELA we obtained a transverse normalized emittance beam of 0.28mm-mrad for a bunch charge of 300pC. The schematic layout of 704 MHz gun and its preliminary beam dynamics are presented in this paper. The emittance of electron beam was optimized for 300pC bunch charge,20ps bunch length and 20 MeV operations.
+
+ 
+
+
+ 
+
+
+
+TUPSM08
+Beam Dynamics of Funneling Multiple Bunches Electrons
+646
+
+
+ 
+
+E. Wang, I. Ben-Zvi, D.M. Gassner, W. Meng, O.H. Rahman, T. Rao, E.J. Riehn, J. Skaritka
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The proposed electron ion collider (eRHIC) at Brookhaven National Laboratory requires a polarized electron source with high average current, short bunch length, and small emittance. The-state-of-the-art single polarized electron photocathode is far from delivering the required 50mA current due to ion back-bombardment limiting the cathode’s lifetime and surface charge limit. In our funneling gun design, currently under construction, the electron bunches, generated from 20 photocathodes in a 220 kV DC gun, funnel to a single common beam axis. This article details our design of a high-average-current polarized electron gun’s optics, and presents our simulation of beam dynamics and combiner design. We also report the progress of funneling gun construction here.
+
+ 
+
+
+ 
+
+
+
+TUPSM09
+A Two Frequency Gun for High Current Thermionic Cathode Electron Injector Systems
+649
+
+
+ 
+
+J.P. Edelen, S. Biedron, J.R. Harris, S.V. Milton
+                       CSU, Fort Collins, Colorado, USA
+J.W. Lewellen
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Office of Naval Research
+This paper discusses work done on designing a Radio Frequency, thermionic cathode electron gun for high current injection systems. The background and previous work on the subject is overviewed as well as an introduction to other facilities operating thermionic cathodes and their particular configuration. We discuss using a two frequency TM010 electron gun at the Colorado State University accelerator facility and we discuss theory and simulation of exotic mode electron guns. Results are compared using both PARMELA and SPIFFE and for high current electron beams we have simulated CW operation with very-low back-bombardment levels.
+
+ 
+
+
+ 
+
+
+
+TUPSM10
+The Conceptual Design of PXIE Vacuum System
+652
+
+
+ 
+
+A.Z. Chen, V.A. Lebedev, A.V. Shemyakin
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: under Contract No. DE-AC02-07CH11359 with the United States Department of Energy
+The Project X Injector Experiment (PXIE) will be a prototype of the Project X front end that will be used to validate the design concept and decrease technical risks. It consist of a 30 kV, 5mA H− ion source; LEBT; 2.1 MeV CW RFQ; MEBT that forms a desired bunch structure by removing ~80% of bunches; two SC cryomodules accelerating the beam to ~25 MeV; and a beam dump. The PXIE vacuum system faces significant technical challenges, including a large hydrogen flux from the H− ion source and large outgassing from the LEBT absorber. The greatest challenge is probably to minimize the risk of degrading re-bunching RF cavities and the nearby SC cryomodule due to the migration of large gas load and microparticles from MEBT absorber. Therefore, it is important to apply low particulate vacuum practices in the vicinity of cryomodules for preventing contamination of the SC cryomodules. Differential pumping is also necessary to protect and ensure reliable operation of the beamline. The conceptual design of the vacuum system is presented in this paper.
+
+ 
+
+
+ 
+
+
+
+TUPSM11
+Development of a Compact Photo-injector with RF-Focusing Lens for Short Pulse Electron Source Application
+655
+
+
+ 
+
+Y.-M. Shin
+                       Fermilab, Batavia, USA
+D.W. Eaton
+                       Scandinova Systems AB, Uppsala, Sweden
+A.F. Grabenhofer
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+For development of compact ultrafast electron source system, we have been designing a short-pulse RF-gun with RF focusing structure with comprehensive modeling analysis processes. EM design of a 2.5 cell resonant cavity with input coupler, acceleration dynamics of photo-emitted electron bunch, EM design of RF-lens with input coupler, and phase-space analysis of focused electron bunch are systematically examined with multi-physics simulators. All the features of the 2.856 GHz cavity geometry were precisely engineered for acceleration energies ranging from 100 keV to 500 keV (safety limited) to be powered by our 5.5 MW S-band klystron. The klystron (Thales TH2163) and modulator system (ScandiNova K1 turnkey system) were successfully installed and tested. Performance tests of the klystron system show peak output power >5 MW, as per operation specifications.
+
+ 
+
+
+ 
+
+
+
+TUPSM12
+High Power Test of a 3.9 GHz 5-Cell Deflecting-Mode Cavity in a Cryogenic Operation
+658
+
+
+ 
+
+Y.-M. Shin, M.D. Church
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+A 3.9 GHz deflecting mode (pi, TM110) cavity has been long used for six-dimensional phase-space beam manipulation tests * ** *** **** ***** at the A0 Photo-Injector Lab (16 MeV) in Fermilab and their extended applications with vacuum cryomodules are currently planned at the Advanced Superconducting Test Accelerator (ASTA) user facility (> 50 MeV). Despite the successful test results, the cavity, however, demonstrated limited RF performance during liquid nitrogen (LN2) ambient operation that was inferior to theoretical prediction. We have been performing full analysis of the designed cavity by analytic calculation and comprehensive system simulation analysis to solve complex thermodynamics and mechanical stresses. The re-assembled cryomodule is currently under the test with a 50 kW klystron at the Fermilab A0 beamline, which will benchmark the modeling analysis. The test result will be used to design vacuum cryomodules for the 3.9 GHz deflecting mode cavity that will be employed at the ASTA facility for beam diagnostics and phase-space control.
+* D. A. Edwards, LINAC 2002  ** Y.-E Sun, PRTAB 2004  *** P. Piot, PRSTAB2006  **** J. Ruand et al., PRL 2011  ***** Y.-E. Sun, et al., PRL 2010 
+
+ 
+
+
+ 
+
+
+
+TUPSM13
+RF Gun Water Temperature Control System at ASTA
+661
+
+
+ 
+
+P. Stabile, M. Ball, J. Czajkowski, J.D. Firebaugh, P.A. Kasley, P.S. Prieto, T.J. Zuchnik
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: Fermi Research Alliance, LLC under Contract No. De-AC02-07CH11359 with the United States Department of Energy.
+A linear electron accelerator is in the late stage of construction at the Advanced Superconducting Test Accelerator (ASTA) facility at Fermilab. The purpose of this accelerator is to operate, study and develop the superconducting cavities and associated systems to be used in future superconducting accelerators. ASTA incorporates an L-band radiofrequency (RF) gun with a coaxial RF input operation at 1.3GHz, based on 1+1/2 cell DESY-type gun, followed by two superconducting cavities. A temperature control system regulates the RF power transmission between 5MW Klystron and the RF Gun. Its role is to maintain the resonant frequency by exploiting the 16.5ppm/°C thermal expansion of the copper. Temperature is regulated by mixing chilled low conductivity water (LCW) with circulating water between the cavity and gun skid located outside the radiation cave. A fine pneumatic actuated valve controls the chilled water flow and in turn is controlled by a feedforward/feedback regulation algorithm. This paper will describe the water temperature control system used to stabilize the tuning frequency of the RF Gun.
+
+ 
+
+
+ 
+
+
+
+TUPSM14
+EPICS Accelerator Control Systems for Lambda EMS and TCR Magnet Power Supplies
+664
+
+
+ 
+
+A. Andrews, B.L. Berls, K. Folkman, Y. Kim, C. O'Neill, J. Ralph
+                       IAC, Pocatello, IDAHO, USA
+P. Buaphad, C.F. Eckman, Y. Kim
+                       ISU, Pocatello, Idaho, USA
+
+ 
+
+
+ 
+
+The Idaho Accelerator Center (IAC) of Idaho State University has been operating a 44 MeV L-band linac for high average power THz generation, various nuclear physic related applications, medical isotope generation, and Laser Compton Scattering (LCS) based X-ray generation. As of August 2012, the IAC has been upgrading the 44 MeV linac with a new computer based EPICS accelerator control system to replace the old analog control system. So far, this upgrade includes control of two GigE CCD cameras, and several magnet power supplies with embedded IEEE controllers. However, the 44 MeV linac also has some magnet power supplies which are controlled with external RSTL controllers. This paper describes the development of the EPICS accelerator control system to control Lambda EMS and TCR magnet power supplies with these external RSTL controllers.
+
+ 
+
+
+ 
+
+
+
+TUPSM16
+Progress Report of H− Ion Beam Production  at the LANL Ion Source Test Stand
+667
+
+
+ 
+
+I. Draganić, Y.K. Batygin, C.M. Fortgang, R.W. Garnett, J.G. Gioia, S.S. Kurennoy, R.C. McCrady, J.F. O'Hara, G. Rouleau, L. Rybarcyk
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+As part of the Los Alamos Neutron Science Center (LANSCE) the Ion Source Test Stand (ISTS) is a flexible, stand-alone facility used for H− ion beam source development and studies of low energy beam transport. It consists of a surface convertor ion source with a multi-cusp permanent-magnet plasma confinement structure, an 80-kV high-voltage electrostatic extraction column, a low-energy ion beam transport line, and beam phase-space diagnostics. After resolving several technical issues, the ISTS was successfully restarted during the summer of 2012. Since then we have performed several long duration experiments. A development program is ongoing with the goals of improving source performance (reliability, availability, increased current, etc.) and beam transport efficiency (beam neutralization at low energy, beam dynamics with/without noble gas injection, etc.). Several enhancements to performance are being investigated in order to achieve a forthcoming upgrade requirement of LANSCE operations in 2014: beam current of 16-18 mA, 120-Hz operation at a duty factor of 10% and a source lifetime of 28 days. We present recently obtained results and a short description of the ISTS apparatus.
+
+ 
+
+
+ 
+
+
+
+TUPSM17
+A Specialized MEBT Design for the LANSCE H+ RFQ Upgrade Project
+670
+
+
+ 
+
+C.M. Fortgang, Y.K. Batygin, R.W. Garnett, S.S. Kurennoy, L. Rybarcyk
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U. S. Department of Energy, Contract DE-AC52-06NA25396.
+The LANSCE accelerator operates with both H+ and H− ions. Presently, each species has its own 750 keV Cockcroft-Walton (CW) and an initial transport line. The two transport lines merge into a common transport after which both species are injected into the 201.25 MHz DTL. The H+ CW will be replaced with a 4-rod RFQ that is now in fabrication. Because of the complication of accommodating two beam species, the MEBT for the RFQ beam is much longer than usual. The length of the MEBT for the H+ beam, and a requirement to merge it with the existing common transport, present new and unique challenges for the MEBT design. In particular, multiple ¼-wave bunchers in addition to the existing final buncher upstream of the DTL are necessary to minimize phase spread of the RFQ output beam for DTL injection. Estimates of emittance growth, matching into the DTL over a range of H+ beam currents, and simulations through the first two DTL tanks are presented.
+
+ 
+
+
+ 
+
+
+
+TUPSM18
+Design of a Duoplasmatron Extraction Geometry and LEBT for the LANSCE H+ RFQ Project
+673
+
+
+ 
+
+C.M. Fortgang, Y.K. Batygin, I. Draganić, R.W. Garnett, R.C. McCrady, L. Rybarcyk
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U. S. Department of Energy, Contract DE-AC52-06NA25396.
+The 750 keV H+ Cockcroft-Walton at LANSCE will be replaced with a 4-rod RFQ with injection energy of 35 keV. The existing duoplasmatron source extraction optics need to be modified to produce up to 35 mA of H+ current with an emittance <0.02 pi-cm-mrad (rms,norm) for injection into the RFQ. In addition to source modifications we need a new LEBT for transport and matching into the RFQ. The LEBT uses 2 magnetic solenoids with enough drift space between them to accommodate diagnostics and a beam deflector. The LEBT is designed to work over a range of space-charge neutralized currents and emittances. The LEBT is optimized in the sense that it minimizes the beam size in both solenoids for a point design of a given neutralized current and emittance. Special attention has been given to estimating emittance growth due to solenoid aberrations. Examples of source-to-RFQ matching and emittance growth (due to both non-linear space charge and solenoid aberrations) are presented over a range of currents and emittances about the design point. A preliminary mechanical layout drawing will also be presented.
+
+ 
+
+
+ 
+
+
+
+TUPSM19
+Application and Calibration Aspects of a New High-Performance Beam-Dynamics Simulator for the LANSCE Linac
+676
+
+
+ 
+
+L. Rybarcyk, X. Pang
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+The Los Alamos Neutron Science Center utilizes a linear accelerator (linac) consisting of two 750-keV injectors, a 100-MeV drift tube linac and an 800-MeV coupled cavity linac to provide both H− and H+ beams to several user facilities. We are presently developing a graphics processing unit (GPU)-based high-performance multiparticle beam-dynamics simulator to aid in tune-up and operation of the linac. Our primary goal is to create an on-line tool that will act as a virtual beam diagnostic and in pseudo real-time provide accelerator operators and physicists with insight into the evolution of the beam throughout the linac. This paper will discuss potential applications of this tool and aspects of the various calibrations that are a prerequisite to using the model
+
+ 
+
+
+ 
+
+
+
+TUPSM20
+Integration Between the FRIB Linac Mechanical CAD Model Geometry and the Accelerator Physics Lattice Database
+679
+
+
+ 
+
+M.J. Johnson
+                       NSCL, East Lansing, Michigan, USA
+N.K. Bultman, I. Grender, M. Leitner, G. Morgan, O. Yair, Q. Zhao
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE Cooperative Agreement DE-SC0000661.
+This paper will summarize the systems engineering techniques utilized to translate the FRIB accelerator physics lattice file to actual three dimensional CAD geometry for linac components. An automated approach of using the accelerator physics lattice database used for optics and particle simulation has been implemented to generate data points used to position the technical 3-dimensional CAD geometry. This coordinated method ensures consistency between the technical and scientific design domains throughout the project design phases. The FRIB configuration management used to control lattice and CAD model revisions is also discussed. In addition, the paper discusses fiducialization plans and tolerance stack up analysis to meet positional requirements for FRIB cryomodules, diagnostics, and the beam delivery magnet systems.
+
+ 
+
+
+ 
+
+
+
+TUPSM22
+Improving Efficiency of Ions Production in Ion Source with Saddle Antenna
+682
+
+
+ 
+
+V.G. Dudnikov, R.P. Johnson
+                       Muons, Inc, Illinois, USA
+T.R. Pennisi, C. Piller, M. Santana, M.P. Stockli, R.F. Welton
+                       ORNL, Oak Ridge, Tennessee, USA
+M.W. Turvey
+                       University of Florida, Gainesville, Florida, USA
+
+ 
+
+
+ 
+
+Funding: Work supported in part by US DOE Contract DE-AC05-00OR22725 and by STTR grant DE-SC0002690.
+Extraction of negative ions from RF surface plasma source (SPS) with saddle antenna radio frequency (SA RF) discharge is considered. Several versions of new plasma generators with different antennas and magnetic field configurations were tested in the SNS small Test Stand. The efficiency of positive ion generation in plasma has been improved up to ~90 mA/cm2 per 1 kW of RF power at 13.56 MHz. For first cesiation was used a heating of the cesium chromate cartridges by CW RF discharge. A small oven for cesium compounds and alloys decomposition by heating was developed and tested. After cesiation a current of negative ions to the collector was increased from 0.5 mA to 10 mA with RF power ~ 1.5 kW in the plasma and longitudinal magnetic field Bl~250 Gauss. With increase of a longitudinal magnetic field the collector current can be increased up to 7 times. A stable long time generation of H− beam without degradation was demonstrated in RF discharge with AlN discharge chamber.
+
+ 
+
+
+ 
+
+
+
+TUPSM24
+Operation of a Diamond Field-Emission-Array Cathode in an L-Band RF-Gun
+685
+
+
+ 
+
+P. Piot, B.R. Blomberg, D. Mihalcea, H. Panuganti
+                       Northern Illinois University, DeKalb, Illinois, USA
+C.A. Brau, B.K. Choi, B.L. Ivanov, J.D. Jarvis, M.H. Mendenhall
+                       Vanderbilt University, Nashville, TN, USA
+W.E. Gabella
+                       Vanderbilt University, W.M. Keck Foundation Free-Electron Laser Center, Nashville, USA
+P. Piot
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+We report on the operation of a field-emission diamond cathode in a L-band RF-gun (1.3 GHz) at Fermilab's HBESL facility. The diamond cathode consists of an array of a million sub-micrometric pyramidal diamond tips. Beam currents in excess of 10 mA were observed and the cathode did not show appreciable signs of degradation after days of operation. Measured Fowler-Nordheim characteristics and transverse beam densities are also reported.
+
+ 
+
+
+ 
+
+
+
+TUPSM25
+Multiphoton Emission from Cesium Telluride Photocathodes
+688
+
+
+ 
+
+H. Panuganti, P. Piot, C.R. Prokop
+                       Northern Illinois University, DeKalb, Illinois, USA
+P. Piot
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+The High-Brightness Electron Source Lab (HBESL) operates an L-band RF gun (1.3-GHz) that incorporates a Cesium Telluride photocathode illuminated by ultra-short (sub-100-fs) laser pulses. In this contribution we report recent studies on (1) characterizing the longitudinal phase of the photoemitted bunch in the blow-out regime using a single-shot diagnostics, (2) exploring the electron beam emission using 800 nm laser pulses (instead of the 266 nm nominal wavelength).
+
+ 
+
+
+ 
+
+
+
+TUPSM26
+Android Application for Monitoring the Status of the Advanced Photon Source
+691
+
+
+ 
+
+M. Borland
+                       Private Address, Westmont, USA
+
+ 
+
+
+ 
+
+Smartphones and tablets are nearly ubiquitous and have the ability to quickly access and display data from network sources. This suggests their suitability for remote monitoring of a facility such as the Advanced Photon Source (APS). While one possibility is to access data using a web browser running on the device, native applications offer attractive features, such as improved display and background execution. We report on development of an Android application for monitoring the status of the APS. In addition to displaying data, the application can issue alerts when beam is lost or restored. Home screen widgets of various sizes are also provided. We describe not only the features of the application, but also give details of the implementation. The application is free of advertising and is available free of charge on the Google Play store.
+
+ 
+
+
+ 
+
+
+
+TUPSM27
+High-power Tests and Initial Electron Beam Measurements of the New High-gradient Normal Conducting RF Photoinjector System for the Sincrotrone Trieste
+694
+
+
+ 
+
+L. Faillace, R.B. Agustsson, H. Badakov, P. Frigola, A. Verma
+                       RadiaBeam, Santa Monica, USA
+F. Cianciosi, P. Craievich, M. Trovò
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+A. Fukasawa, J.B. Rosenzweig, A. Yakub
+                       UCLA, Los Angeles, California, USA
+
+ 
+
+
+ 
+
+Radiabeam Technologies, in collaboration with UCLA, presents the development of a high gradient normal conducting radio frequency (NCRF) 1.6 cell photoinjector system, termed the Fermi Gun II, for the Sincrotrone Trieste (ST) facility. Designed to operate with a 120MV/m accelerating gradient, this single feed, fat lipped racetrack coupler design is modeled after the LCLS photoinjector with a novel demountable cathode which permits cost effective cathode exchange. Full overview of the project to date, installation, high-power RF conditioning and initial electron beam emittance measurements at Sincrotrone Trieste will be discussed along with basic design, engineering and manufacturing.
+
+ 
+
+
+ 
+
+
+
+TUPSM28
+Innovative Low-Energy Ultra-Fast Electron Diffraction (UED) System
+697
+
+
+ 
+
+E.W. Threlkeld, P. Musumeci
+                       UCLA, Los Angeles, California, USA
+S. Boucher, L. Faillace, A.V. Smirnov
+                       RadiaBeam, Santa Monica, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE grant # DE-SC0006274
+RadiaBeam, in collaboration with UCLA, is developing an innovative, inexpensive, low-energy ultra-fast electron diffraction (UED) system which allows us to reconstruct a single ultrafast event with a single pulse of electrons. Time resolved measurement of atomic motion is one of the frontiers of modern science, and advancements in this area will greatly improve our understanding of the basic processes in materials science, chemistry and biology. The high-frequency (GHz), high voltage, phase-locked RF field in the deflector allows temporal resolution as fine as sub-100 fs. In this paper, we show the complete design of the UED system based on this concept, including initial beam measurements.
+
+ 
+
+
+ 
+
+
+
+TUPSM30
+Modeling the Development and Mitigation of Charge Accumulation for Photo Emission Electron Guns
+700
+
+
+ 
+
+C. Nieter, Y. Choi, D.A. Dimitrov
+                       Tech-X, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: Project supported by DOE SBIR grant DE-SC0006246
+One potential problem with the operation of photo emission electron guns is the potential for charge to accumulate on the emission surface depending on how the biasing voltage is applied to the gun. If the voltage is applied away from the emission surface there is the potential for charge to accumulate on the emission surface since not all electrons will necessarily be emitted. This charge accumulation may affect the gun operation by reducing the accelerating field in the gun. We report on simulations that demonstrate this potential issue as well as simulations that test a potential solution where a secondary voltage is applied periodically to clear the accumulated charge.
+
+ 
+
+
+ 
+
+
+
+

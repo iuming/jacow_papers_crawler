@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: FRIA (Status Report of Control System)
+
+
+FRIA —  Status Report of Control System   (07-Dec-12   09:30—09:55)
+Chair: P. Duval, DESY, Hamburg, Germany
+
+
+Paper
+Title
+Page
+
+
+
+FRIA01
+The New White Rabbit Based Timing System for the FAIR Facility
+242
+
+
+ 
+
+D.H. Beck, R. Bär, M. Kreider, C. Prados, S. Rauch, W.W. Terpstra, M. Zweig
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+A new timestamp and event distribution system for the upcoming FAIR facility is being developed at GSI. This timing system is based on White Rabbit[1], which is a fully deterministic Ethernet-based network for general data transfer and synchronization. White Rabbit is developed by CERN, GSI and other institutes as well as partners from industry based on Synchronous Ethernet and PTP. The main tasks of the FAIR timing system are time synchronization of more than 2000 nodes with nanosecond accuracy, distribution of timing messages and subsequent generation of real-time actions (interrupts, digital signals …) by the nodes of the timing system. This allows precise real-time control of the accelerator equipment according to the beam production schedule. Furthermore the timing system must support other accelerator systems like post-mortem and interlock. It also provides interfaces between the accelerator control system and experiments at FAIR. This contribution focuses on the design principles of the timing system, its integration with other components of the control system, the present status and the planned implementation.
+[1] J. Serrano, P. Alvarez, M. Cattin, E. G. Cota, P. M. J. H. Lewis, T. Włostowski et al., The White Rabbit Project, in Proceedings of ICALEPCS TUC004, Kobe, Japan, 2009.
+
+ 
+
+
+
+
+
+
+Slides FRIA01 [5.452 MB]
+            
+ 
+
+
+ 
+
+
+
+

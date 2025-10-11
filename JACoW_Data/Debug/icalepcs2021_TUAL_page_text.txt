@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: TUAL (Hardware Technology)
+
+
+TUAL —  Hardware Technology   (19-Oct-21   12:30—13:15)
+Chair: S. Cogan, FRIB, East Lansing, Michigan, USA
+
+
+
+TUAL
+   Video of full session  »Hardware Technology« (total time: 0:47:56 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+TUAL01
+CompactPCI-Serial Hardware Toolbox for SLS 2.0
+ 
+
+
+ 
+
+B. Kalantari, E. Johansen, W. Koprek, P. Pollet, G. Theidel
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Motivated by upcoming large upgrade projects at PSI, most prominently SLS2.0, and due to increasing demands for performance (handling more data, faster processing) in various subsystems of the accelerator and beamlines, our electronics and control system experts had the task to evaluate alternatives to the existing VME technology and build a new portfolio of electronic hardware tools accordingly. CompactPCI-Serial was chosen as the standard platform for building our future modular control and data acquisition systems. We are currently developing two CompactPCI-Serial FPGA boards: FMC+ carrier and the COM-I/O. Both cards use the same family of Xilinx MPSoC (Zynq UltraScale+) as their processing building block. Combination of these two boards, together with COTS hardware should provide our system architects with enough flexibility to build systems with required budget and performance (high-end and/or low-cost) for various applications. We report on the state of the current challenging developments and describe system architectures for building high performance control and data acquisition systems using our hardware toolbox.
+
+ 
+
+
+
+
+
+
+Slides TUAL01 [23.886 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAL02
+Development of a Single Cavity Regulation Based on microTCA.4 for SAPS-TP
+286
+
+
+ 
+
+W. Long, X. Li, S.H. Liu
+                       IHEP, Beijing, People’s Republic of China
+Y. Liu
+                       DNSC, Dongguan, People’s Republic of China
+
+ 
+
+
+ 
+
+A domestic hardware platform based on MTCA.4 is developed for a single cavity regulation in Southern Advanced Photon Source Test Platform (SAPS-TP). A multifunction digital processing Advanced Mezzanine Card (AMC) works as the core function module of the whole system, implement high speed data processing, Low-Level Radio Frequency (LLRF) control algorithm and interlock system. Its core data processing chip is a Xilinx ZYNQ SOC, which is embedded an ARM CPU to implement EPICS IOC under embedded Linux. A down-conversion and up-conversion RTM for cavity probes sensing and high power RF source driver can communi-cate with AMC module by a ZONE3 connector. A hosted tuning control FPGA Mezzanine Card (FMC) combines both the piezo controlling and step-motor controlling functions for independent external drive devices. The design of the hardware and software of the platform electronics and some test results are described in this paper. Further test and optimization is under way.
+
+ 
+
+
+
+
+
+
+Slides TUAL02 [10.504 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUAL02
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 28 November 2021       
+Accepted ※ 22 December 2021        Issue date ※ 24 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAL03
+R&D Studies for the Atlas Tile Calorimeter Daughterboard
+290
+
+
+ 
+
+E. Valdes Santurio, K.E. Dunne, S. Lee
+                       FYSIKUM, AlbaNova, Stockholm University, Stockholm, Sweden
+C. Bohm, H. Motzkau, S.B. Silverstein
+                       Stockholm University, Stockholm, Sweden
+
+ 
+
+
+ 
+
+The ATLAS Hadronic Calorimeter DaughterBoard (DB) interfaces the on-detector with the off-detector electronics. The DB features two 4.6 Gbps downlinks and two pairs of 9.6 Gbps uplinks powered by four SFP+ Optical transceivers. The downlinks receive configuration commands and LHC timing to be propagated to the front-end, and the uplinks transmit continuous high-speed readout of digitized PMT samples, detector control system and monitoring data. The design minimizes single points of failure and mitigates radiation damage by means of a double-redundant scheme. To mitigate Single Event Upset rates, Xilinx Soft Error Mitigation and Triple Mode Redundancy are used. Reliability in the high speed links is achieve by adopting Cyclic Redundancy Check in the uplinks and Forward Error Correction in the downlinks. The DB features a dedicated Single Event Latch-up protection circuitry that power-cycles the board in the case of any over-current event avoiding any possible hardware damages. We present a summary of the studies performed to verify the reliability if the performance of the DB revision 6, and the radiation qualification tests of the components used for the design.
+
+ 
+
+
+
+
+
+
+Slides TUAL03 [4.675 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUAL03
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 20 October 2021       
+Accepted ※ 22 December 2021        Issue date ※ 03 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

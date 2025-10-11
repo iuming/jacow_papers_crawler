@@ -1,0 +1,456 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2019 - Table of Session: SUPLO (Student Poster Session-Lake Ontario)
+
+
+SUPLO —  Student Poster Session-Lake Ontario   (01-Sep-19   14:00—16:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+SUPLO01
+Studies in Applying Machine Learning to Resonance Control in Superconducting RF Cavities
+ 
+
+
+WEPLM01
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+J.A. Diaz Cruz, S. Biedron, M. Martinez-Ramon, R. Pirayesh, S.I. Sosa Guitron
+                       University of New Mexico, Albuquerque, USA
+J.A. Diaz Cruz
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Traditional PID, active resonance and feed-forward controllers are dominant strategies for cavity resonance control, but performance may be limited for systems with tight detuning requirements, as low as 10 Hz peak detuning (few nanometers change in cavity length), that are affected by microphonics and Lorentz Force Detuning. Microphonic sources depend on cavity and cryomodule mechanical couplings with their environment and come from several systems: cryoplant, RF sources, tuners, etc. A promising avenue to overcome the limitations of traditional resonance control techniques is machine learning due to recent theoretical and practical advances in these fields, and in particular Neural Networks (NN), which are known for their high performance in complex and nonlinear systems with large number of parameters and have been applied successfully in other areas of science and technology. In this paper we introduce NN to resonance control and compare initial performance results with traditional control techniques. An LCLS-II superconducting cavity type system is simulated in an FPGA, using the Cryomodule-on-Chip model developed by LBNL, and is used to evaluate machine learning algorithms.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM01
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 15 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPLO03
+Error Minimization in Transverse Phase-Space Measurements Using Quadrupole and Solenoid Scans
+ 
+
+
+THZBB6
+  use link to access more material from this paper's primary paper code
+ 
+
+
+TUPLE18
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.Y. Wong
+                       NSCL, East Lansing, Michigan, USA
+S.M. Lund
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Quadrupole and solenoid scans are common techniques where a series of beam profile measurements are taken under varying excitation of the linear focusing elements to unfold second-order phase-space moments of the beam at an upstream location. Accurate knowledge of the moments is crucial to machine tuning and understanding the underlying beam dynamics. The scans have many sources of errors including measurement errors, field errors and misalignments. The impact of these uncertainties on the moment measurement is often not analyzed. This study proposes a scheme motivated by linear algebra error bounds that can efficiently select a set of scan parameters to minimize the errors in measured initial moments. The results are verified via a statistical error analysis. These techniques are being applied at the Facility for Rare Isotope Beams (FRIB). We find that errors in initial moments can be large under conventional scans but are greatly reduced using the procedures described.
+
+ 
+
+
+
+
+
+
+Slides THZBB6 [2.153 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-THZBB6
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 04 December 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPLO04
+NuMI Beam Muon Monitor Data Analysis and Simulation for Improved Beam Monitoring
+ 
+
+
+WEPLM06
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+P. Snopok
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+A. Bashyal
+                       Oregon State University, Corvallis, USA
+T.J. Rehak
+                       Drexel University, Philadelphia, Pennsylvania, USA
+D.A. Wickremasinghe, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+Y. Yupresenter
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE grants DE-SC0019264 and DE-SC0017815 and Fermilab Research Alliance, LLC under Contract No. DE-AC02-07CH11359.
+The NuMI muon monitors (MMs) are a very important diagnostic tool for monitoring the stability of the neutrino beam used by the NOvA experiment at Fermilab. The goal of our study is to maintain the quality of the MM signal and to establish the correlations between the neutrino and muon beam profile. This study could also inform the LBNF decision on the beam diagnostic tools. We report on the progress of beam scan data analysis (beam position, spot size, and magnetic horn current scan) and comparison with the simulation outcomes.
+
+ 
+
+
+
+
+
+
+Poster WEPLM06 [6.150 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLM06
+
+ 
+
+
+About •
+paper received ※ 30 August 2019       paper accepted ※ 02 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPLO05
+Helical Transmission Line Test Stand for Non-Relativistic BPM Calibration
+ 
+
+
+TUPLS07
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.J. Richard
+                       NSCL, East Lansing, Michigan, USA
+S.M. Lidia
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Measurements of non-relativistic beams by coupling to the fields are affected by the properties of the non-relativistic fields. The authors propose calibrating for these effects with a test stand using a helical line which can propagate pulses at low velocities. Presented are simulations of a helical transmission line for such a test stand which propagates pulses at 0.033c. A description of the helix geometry used to reduce dispersion is given as well as the geometry of the input network.
+
+ 
+
+
+
+
+
+
+Poster TUPLS07 [3.469 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS07
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPLO06
+Analysis of Allison Scanner Phase Portraits Using Action-Phase Coordinates
+ 
+
+
+TUPLS08
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.J. Richard
+                       NSCL, East Lansing, Michigan, USA
+J.-P. Carneiro, L.R. Prost, A.V. Shemyakin
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Allison scanners provide detailed information on the beam transverse phase space. An effective way for analyzing the beam distribution from these measurements is to use action-phase coordinates, where beam propagation in a linear lattice is reduced to advancing the phase. This report presents such analysis for measurements performed with a 2.1 MeV, 5 mA H− beam in the MEBT of the PIP2IT test accelerator at Fermilab. In part, with the choice of calculating the Twiss parameters over the high intensity portion of the beam, the beam core is found to be phase-independent with intensity decreasing exponentially with action, while the beam tails exhibit a clear phase dependence that is stable over the beam line.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLS08
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPLO07
+Skimmer-Nozzle Configuration Measurements for a Gas Sheet Beam Profile Monitor
+ 
+
+
+TUPLE06
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Szustkowski, S. Chattopadhyay, B.T. Freemire
+                       Northern Illinois University, DeKalb, Illinois, USA
+S. Chattopadhyay, D.J. Crawford, B.T. Freemire
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: US Department of Energy, Office of High Energy Physics, General Accelerator Research and Development (GARD) Program
+Understanding the characteristics of the gas sheet being produced and optimal configuration of the gas injection system is essential to the the performance of a gas sheet beam profile monitor. A gas injection system test stand has been built at Fermilab to test various nozzle and slit configurations. The distance between the nozzle and slit can be changed to find an optimal configuration. Using a moveable cold cathode gauge the gas profile is measured.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLE06
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 03 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPLO09
+Analytical Thermal Analysis of Thin Diamond in High-Intensity High-Repetition-Rate Application
+ 
+
+
+TUPLE13
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y. Hong, B. Yang
+                       University of Texas at Arlington, Arlington, USA
+J. Wu, G. Zhou
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Thin diamond plates are used in monochromator for X-ray Free-Electron Laser self-seeding scheme. To function properly, they must endure high-intensity and high-repetition-rate laser pulses without crossing thresholds set by various adverse effects, such as thermal strain-induced diffraction distortion and graphitization. In this work, a theoretical model is developed, and an analytical solution is derived to elucidate potential thermal runaway under edge cooling condition. It is shown that the crystal edge cooling can effectively mitigate the issue to a certain extent. The analytical solution can be used as an efficient tool for XFEL operation parameter setup.
+
+ 
+
+
+
+
+
+
+Poster TUPLE13 [0.939 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-TUPLE13
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 06 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

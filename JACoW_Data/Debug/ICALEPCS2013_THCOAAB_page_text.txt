@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: THCOAAB (User Interfaces and Tools)
+
+
+THCOAAB —  User Interfaces and Tools   (10-Oct-13   09:15—12:00)
+Chair: R. Bacher, DESY, Hamburg, Germany
+
+
+Paper
+Title
+Page
+
+
+
+THCOAAB01
+A Scalable and Homogeneous Web-Based Solution for Presenting CMS Control System Data
+1040
+
+
+ 
+
+L. Masetti, O. Chaze, J.A. Coarasa, C. Deldicque, M. Dobson, A.D. Dupont, D. Gigi, F. Glege, R. Gomez-Reino, C. Hartl, F. Meijers, E. Meschi, S. Morovic, C. Nunez-Barranco-Fernandez, L. Orsini, W. Ozga, A. Petrucci, G. Polese, A. Racz, H. Sakulin, C. Schwick, A.C. Spataru, C.C. Wakefield, P. Zejdi
+                       CERN, Geneva, Switzerland
+G. Bauer, C. Paus, O. Raginel, F. Stoeckli, K. Sumorok
+                       MIT, Cambridge, Massachusetts, USA
+U. Behrens
+                       DESY, Hamburg, Germany
+J. Branson, S. Cittolin, A. Holzner, M. Pieri, M. Sani
+                       UCSD, La Jolla, California, USA
+S. Erhan
+                       UCLA, Los Angeles, California, USA
+R.K. Mommsen, V. O'Dell
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+The Control System of the CMS experiment ensures the monitoring and safe operation of over 1M parameters. The high demand for access to online and historical Control System Data calls for a scalable solution combining multiple data sources. The advantage of a Web solution is that data can be accessed from everywhere with no additional software. Moreover, existing visualization libraries can be reused to achieve a user-friendly and effective data presentation. Access to the online information is provided with minimal impact on the running control system by using a common cache in order to be independent of the number of users. Historical data archived by the SCADA software is accessed via an Oracle Database. The web interfaces provide mostly a read-only access to data but some commands are also allowed. Moreover, developers and experts use web interfaces to deploy the control software and administer the SCADA projects in production. By using an enterprise portal, we profit from single sign-on and role-based access control. Portlets maintained by different developers are centrally integrated into dynamic pages, resulting in a consistent user experience.
+
+ 
+
+
+
+
+
+
+Slides THCOAAB01 [1.814 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOAAB02
+Enhancing the Man-Machine-Interface of Accelerator Control Applications with Modern Consumer Market Technologies
+1044
+
+
+ 
+
+R. Bacher
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The paradigms of human interaction with modern consumer market devices such as tablets, smartphones or video game consoles are currently undergoing rapid and serious changes. Device control by multi-finger touch gesture or voice recognition has now become standard. Even further advanced technologies such as 3D-gesture recognition are becoming routine. Smart enhancements of head-mounted display technologies are beginning to appear on the consumer market. In addition, the look-and-feel of mobile apps and classical desktop applications are becoming remarkably similar to one another. We have used Web2cToGo to investigate the consequences of the above-mentioned technologies and paradigms with respect to accelerator control applications. Web2cToGo is a framework which is being developed at DESY. It provides a common, platform-independent Web application capable of running on widely-used mobile as well as common desktop platforms. This paper reports the basic concept of the project and presents the results achieved so far and discusses the next development steps.
+
+ 
+
+
+
+
+
+
+Slides THCOAAB02 [0.667 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOAAB03
+Bringing Control System User Interfaces to the Web
+1048
+
+
+ 
+
+X.H. Chen, K.-U. Kasemir
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: SNS is managed by UT-Battelle, LLC, under contract DE-AC05-00OR22725 for the U.S. Department of Energy
+With the evolution of web based technologies, especially HTML5[1], it becomes possible to create web-based control system user interfaces (UI) that are cross-browser and cross-device compatible. This article describes two technologies that facilitate this goal. The first one is the WebOPI [2], which can seamlessly display CSS BOY[3] Operator Interfaces (OPI) in web browsers without modification to the original OPI file. The WebOPI leverages the powerful graphical editing capabilities of BOY, it provides the convenience of re-using existing OPI files. On the other hand, it uses auto-generated JavaScript and a generic communication mechanism between the web browser and web server. It is not optimized for a control system, which results in unnecessary network traffic and resource usage. Our second technology is the WebSocket-based Process Data Access (WebPDA). It is a protocol that provides efficient control system data communication using WebSockets[4], so that users can create web-based control system UIs using standard web page technologies such as HTML, CSS and JavaScript. The protocol is control system independent, so it potentially can support any type of control system.
+[1]http://en.wikipedia.org/wiki/HTML5  [2]https://sourceforge.net/apps/trac/cs-studio/wiki/webopi  [3]https://sourceforge.net/apps/trac/cs-studio/wiki/BOY [4]http://en.wikipedia.org/wiki/WebSocket
+
+ 
+
+
+
+
+
+
+Slides THCOAAB03 [1.768 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOAAB04
+Synchrobots: Experiments with Telepresence and Teleoperated Mobile Robots in a Synchrotron Radiation Facility
+1052
+
+
+ 
+
+M. Pugliese, F. Billè, R. Borghes, A. Curri, D. Favretto, G. Kourousias, M. Prica, M. Turcinovich
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Synchrobot is an autonomous mobile robot that supports the machine operators of Elettra (*), a synchrotron radiation facility, in tasks such as diagnostic and measurement campaigns being capable of moving in the restricted area when the machine is running. In general, telepresence robots are mobile robot platforms capable of providing two way audio and video communication. Recently many companies are entering the business of telepresence robots. This paper describes our experience with tools like synchrobot and also commercially available telepresence robots. Based on our experience, we present a set of guidelines for using and integrating telepresence robots in the daily life of a research infrastructure and explore potential future development scenarios.
+http://www.elettra.eu
+
+ 
+
+
+
+
+
+
+Slides THCOAAB04 [9.348 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOAAB05
+Rapid Application Development Using Web 2.0 Technologies
+1058
+
+
+ 
+
+S.M. Reisdorf, B.A. Conrad, D.A. Potter, P.D. Reisdorf
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: * This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-632813
+The National Ignition Facility (NIF) strives to deliver reliable, cost effective applications that can easily adapt to the changing business needs of the organization. We use HTML5, RESTful web services, AJAX, jQuery, and JSF 2.0 to meet these goals. WebGL and HTML5 Canvas technologies are being used to provide 3D and 2D data visualization applications. JQuery’s rich set of widgets along with technologies such as HighCharts and Datatables allow for creating interactive charts, graphs, and tables. PrimeFaces enables us to utilize much of this Ajax and JQuery functionality while leveraging our existing knowledge base in the JSF framework. RESTful Web Services have replaced the traditional SOAP model allowing us to easily create and test web services. Additionally, new software based on NodeJS and WebSocket technology is currently being developed which will augment the capabilities of our existing applications to provide a level of interaction with our users that was previously unfeasible. These Web 2.0-era technologies have allowed NIF to build more robust and responsive applications. Their benefits and details on their use will be discussed.
+
+ 
+
+
+
+
+
+
+Slides THCOAAB05 [0.832 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOAAB06
+Achieving a Successful Alarm Management Deployment – The  CLS Experience
+1062
+
+
+ 
+
+E. D. Matias, L. Baribeau, T. Batten, J.W. Li, W.A. Wurtz
+                       CLS, Saskatoon, Saskatchewan, Canada
+
+ 
+
+
+ 
+
+Alarm management systems promise to improve situational awareness, aid operational staff in correcting responding to accelerator problems and reduce downtime. Many facilities, including the Canadian Light Source (CLS), have been challenged in achieving this goal. At CLS past attempts focusing on software features and capabilities. Our third attempt switched gears and instead focused on human factors engineering techniques and the associated response processes to the alarm. Aspects of ISA 18,2, EEMUA 191 and NREG-700 standards were used. CLS adopted the CSS BEAST alarm handler software. Work was also undertaken to identify bad actors and analyzing alarm system performance and to avoid alarm flooding. The BEAST deployment was augmented with a locally developed voice annunciation system for a small number of critical high impact alarms and auto diallers for shutdown periods when the control room is not staffed. This paper summaries our approach and lessons learned.
+
+ 
+
+
+
+
+
+
+Slides THCOAAB06 [0.397 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOAAB07
+NIF Electronic Operations: Improving Productivity with iPad Application Development
+1066
+
+
+ 
+
+S.M. Reisdorf, D.A. Potter
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-632815
+In an experimental facility like the National Ignition Facility (NIF), thousands of devices must be maintained during day to day operations. Teams within NIF have documented hundreds of procedures, or checklists, detailing how to perform this maintenance. These checklists have been paper based, until now. NIF Electronic Operations (NEO) is a new web and iPad application for managing and executing checklists. NEO increases efficiency of operations by reducing the overhead associated with paper based checklists, and provides analysis and integration opportunities that were previously not possible. NEO’s data driven architecture allows users to manage their own checklists and provides checklist versioning, real-time input validation, detailed step timing analysis, and integration with external task tracking and content management systems. Built with mobility in mind, NEO runs on an iPad and works without the need for a network connection. When executing a checklist, users capture various readings, photos, measurements and notes which are then reviewed and assessed after its completion. NEO’s design, architecture, iPad application and uses throughout the NIF will be discussed.
+
+ 
+
+
+
+
+
+
+Slides THCOAAB07 [1.237 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOAAB08
+NOMAD Goes Mobile
+1070
+
+
+ 
+
+J. Locatelli, F. Cecillon, C. Cocho, A. Elaazzouzi, Y. Le Goc, P. Mutti, H. Ortiz, J. Ratel
+                       ILL, Grenoble, France
+
+ 
+
+
+ 
+
+The commissioning of the new instruments at the Institut Laue-Langevin (ILL) has shown the need to extend instrument control outside the classical desktop computer location. This, together with the availability of reliable and powerful mobile devices such as smartphones and tablets has triggered a new branch of development for NOMAD, the instrument control software in use at the ILL. Those devices, often considered only as recreational toys, can play an important role in simplifying the life of instrument scientists and technicians. Performing an experiment not only happens in the instrument cabin but also from the office, from another instrument, from the lab and from home. The present paper describes the development of a remote interface, based on Java and Android Eclipse SDK, communicating with the NOMAD server using CORBA via wireless network. Moreover, the application is distributed on “Google Play” to minimise the installation and the update procedures.
+
+ 
+
+
+
+
+
+
+Slides THCOAAB08 [2.320 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOAAB09
+Olog and Control System Studio: A Rich Logging Environment
+1074
+
+
+ 
+
+K. Shroff, A. Arkilic, L.R. Dalesio
+                       BNL, Upton, Long Island, New York, USA
+E.T. Berryman
+                       NSCL, East Lansing, Michigan, USA
+D. Dezman
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+Leveraging the features provided by Olog and Control System Studio, we have developed a logging environment which allows for the creation of rich log entries. These entries in addition to text and snapshots images store context which can comprise of information either from the control system (process variables) or other services (directory, ticketing, archiver). The client tools using this context provide the user the ability to launch various applications with their state initialized to match those while the entry was created.
+
+ 
+
+
+
+
+
+
+Slides THCOAAB09 [1.673 MB]
+            
+ 
+
+
+ 
+
+
+
+

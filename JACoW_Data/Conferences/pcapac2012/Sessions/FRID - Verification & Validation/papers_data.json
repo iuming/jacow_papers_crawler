@@ -1,0 +1,48 @@
+{
+  "session_info": {
+    "id": "FRID",
+    "name": "FRID - Verification & Validation",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/frid.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FRID01",
+      "title": "Introducing the !CHAOS Control Systems Framework",
+      "authors": [
+        "L. Catani",
+        "F. Zani",
+        "INFN-Roma II",
+        "Roma",
+        "Italy",
+        "C. Bisegni",
+        "D. Di Giovenale",
+        "G. Di Pirro",
+        "L.G. Foggetta",
+        "G. Mazzitelli",
+        "A. Stecchi",
+        "INFN/LNF",
+        "Frascati (Roma)",
+        "Italy",
+        "The analysis of most recent developments on high-performance software technologies suggests that new a design of distributed control systems (DCS) for particle accelerators may profit from solutions borrowed from cutting-edge Internet services. To fully profit from this new technologies the DCS model should be reconsidered",
+        "thus leading to the definition of a new paradigm. In this paper we present the conceptual design of a new control system for a particle accelerator and associated machine data acquisition system (DAQ)",
+        "based on a synergic combination of a non-relational key/value database (KVDB) and network distributed object caching (DOC). The use of these technologies",
+        "to implement continuous data archiving and data distribution between components respectively",
+        "brought about the definition of a new control system concept offering a number of interesting features such as a high level of abstraction of services and components and their integration in a framework that can be seen as a comprehensive control services provider for GUI applications",
+        "front-end controllers",
+        "measurement and feedback procedures etc."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/frid01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/frid01.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/frid01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-FRID01",
+      "page_number": "282",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-11 02:12:51"
+}

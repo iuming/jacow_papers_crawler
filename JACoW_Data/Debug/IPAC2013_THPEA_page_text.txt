@@ -1,0 +1,1212 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2013 - Table of Session: THPEA (Poster Session)
+
+
+THPEA —  Poster Session   (16-May-13   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPEA002
+The Accelerator Control System at ELSA
+3149
+
+
+ 
+
+D. Proft, F. Frommberger, W. Hillert
+                       ELSA, Bonn, Germany
+
+ 
+
+
+ 
+
+To fulfill the new requirements of the post-accelerator mode of the electron stretcher facility ELSA, a new computer control system was developed during the early 1990s. Providing capabilities to control and monitor the facility, it represents the top layer of a distributed control system composed of HP workstations, VME and field bus processors as well as linux based personal computer s. In addition to regular updates and improvements, the HP-UX operated part of the control system recently was ported to linux, so the outdated HP workstations could be replaced by a single linux PC. All reference values, for example the betatron tune or the extraction energy, can be specified using a window-based graphical user front end. They are directly computed to hardware compatible representations. Vice versa, measured beam parameters, e.g. the transversal beam emittance, are displayed for easy user access, allowing real time diagnostics. This abstraction layer allows for an intuitive approach to machine operation, requiring no detailed knowledge of the hardware implementation. In this contribution, the design principles and implementation at different layers of the control system are presented.
+
+ 
+
+
+ 
+
+
+
+THPEA003
+Use of FPGA-based Configurable Electronics to Calibrate Cavities
+3152
+
+
+ 
+
+S. Schäfer, A. Klaus, H. Klingbeil, B. Zipfel
+                       GSI, Darmstadt, Germany
+U. Hartel, H. Klingbeil
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+At the GSI Helmholzzentrum für Schwerionen-forschung GmbH the accuracy requirements for synchrotron rf cavities have strongly increased in the last years, especially for multi-harmonic operation. For heavy-ion acceleration the amplitude and phase have to be well adjusted over a whole machine cycle. In order to compensate small deviations induced by low-level rf components (LLRF) and transmission lines in the control paths, a calibration electronic (CEL) with a characteristic map was developed. It is a real-time module which is based on modern FPGA (Field Programmable Gate Array) technology and adaptable to special cavities with various physical dependencies (e.g. attenuation, dispersion, temperature drift, aging etc.). The hardware and software architecture of this CEL module are presented here.
+
+ 
+
+
+ 
+
+
+
+THPEA004
+Precise Verification of Phase and Amplitude Calibration by means of a Debunching Experiment in SIS18
+3155
+
+
+ 
+
+U. Hartel, H. Klingbeil
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+J. Grieser, D.E.M. Lens
+                       TU Darmstadt, RTR, Darmstadt, Germany
+H. Klingbeil, U. Laier, K.-P. Ningel, S. Schäfer, B. Zipfel
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by the GSI Helmholtzzentrum für Schwerionenforschung GmbH
+Several new rf cavity systems have to be realized for the FAIR synchrotrons and for the upgrade of the existing GSI synchrotron SIS18*. For this purpose, a completely new low-level rf system architecture** has been developed, which is now used in SIS18 operation. Closed-loop control systems stabilize the amplitude and the phase of the rf gap voltages. Due to component imperfections the transmission and the detection of the actual values lead to systematic errors without countermeasures. These errors prohibit the operation of the rf systems over the whole amplitude and frequency range within the required accuracy. To compensate the inevitable errors, the target values provided by the central control system are modified by so-called calibration electronics*** modules. The calibration curves can be measured without the beam, but the desired beam behaviour has to be verified by experiments. For this purpose, a debunching scenario was selected as a SIS18 beam experiment that proved to be very sensitive to inaccuracies. In this contribution the results of this experiment are presented, showing for the first time at GSI by beam observation that the accuracy requirements are met based on predefined calibration curves.
+* “FAIR - Baseline Technical Report,” Volume 2, Accelerator and Scientific Infrastructure, (2006).  ** Klingbeil et al.: Phys. Rev. ST Accel. Beams 14, 102802, 2011. *** S. Schaefer et al., “Use of FPGA-based Configurable Electronics to Calibrate Cavities,” THPEA003, these proceedings.
+
+ 
+
+
+ 
+
+
+
+THPEA006
+!CHAOS Historical Engine
+3158
+
+
+ 
+
+M. Mara, A. Paoletti
+                       Istituto Nazionale di Fisica Nucleare, Amministrazione Centrale, Frascati, Italy
+C. Bisegni, G. Di Pirro, L.G. Foggetta, G. Mazzitelli, A. Stecchi
+                       INFN/LNF, Frascati (Roma), Italy
+L. Catani, F. Zani
+                       INFN-Roma II, Roma, Italy
+
+ 
+
+
+ 
+
+!CHAOS is an INFN project aimed at creating the communication framework and the services needed for the definition of a new control system standard, mainly addressed to large experimental apparatus and particle accelerators. !CHAOS is under test at DAΦNE accelerator and has been developed to overcome the strong requirements throughput of new accelerators, like superB. One of the main components of the framework is the historical engine (HST Engine), a cloud-like environment optimized for the fast storage of large amount of data produced by the control system’s devices and services (I/O channels, alerts, commands, events, etc.), each with its own storage and aging rule. The HST subsystem is designed to be highly customizable, such to adapt to any desirable data storage technologies, database architecture, indexing strategy and fully scalable in each part. The architecture of HST Engine and the results of preliminary tests for the evaluation of performance are presented.
+
+ 
+
+
+ 
+
+
+
+THPEA007
+Upgrade of Safety Interlock System of e+/e− Linac for SuperKEKB Project
+3161
+
+
+ 
+
+A. Shirakawa, H. Honma, Y. Ogawa
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The upgrade of e+/e− Injector Linac is going on for SuperKEKB project. The personal interlock system of the Linac has been upgrading several times according to the upgrade phase. One of the biggest changes has been made when the Linac was divided into two areas: upstream and downstream linacs, which allows us to work out the upgrade even during injection to Photon Factories at lower energies using the downstream linac. Most of the interlock system devices were duplicated to start the 'half' accelerator operation. Another remarkable update is to adopt an RF-Gun as a new electron source. We programmed a specific strong logic for the RF-Gun operation. These upgrades will be reported with the introduction of the whole interlock system.
+
+ 
+
+
+ 
+
+
+
+THPEA008
+Study on the Energy Response of a Multi-layer Planar High Pressure Ionization Chamber using MCNP Program
+3164
+
+
+ 
+
+Y.D. Ding, P.F. Wang, Q.B. Wang, Q.J. Zhang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+High pressure ionization chamber is widely used to detect various radiation fields due to its good energy response. A new Multi-layer planar high pressure ionization chamber is designed suitable for measuring directional radiation field of high dose rate, because of its high electric field strength. In this paper, MCNP program is used to simulate and calculate the energy response of this ionization chamber to obtain the energy response of high energy photons, which could not be obtained by experimental methods. The results show that this ionization chamber can measure photon radiation energy up to 10MeV.
+
+ 
+
+
+ 
+
+
+
+THPEA010
+Design and Implementation of the Remote Control System of the Digital Magnet Power Supply of China Spallation Neutron Source
+3167
+
+
+ 
+
+X. Wu, Y.C. He, J. Liu, C.H. Wang, J.C. Wang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The magnet power supplies of the China Spallation Neutron Source (CSNS) can be classified into three types: rapid cycling synchrotron (RCS) resonant power supplies, fast response power supplies and DC power supplies. All of the magnet power supplies are controlled by the intelligent controller called Digital Power Supply Control Module (DPSCM), which can regulate the current and voltage circuit. The DPSCM is developed by the power supply group. It has two RS232 communication interfaces. All the command setting and reading power parameters are transmitted by Modbus protocol. Therefore, we made the communication protocol based on Modbus RTU between the remote control system and the DPSCM. This paper introduces the design of the remote control interface to the DPSCM. We developed EPICS IOC applications and real-time database on MOXA embedded serial device DA710 and OPIs using Control System Studio (CSS) according to different kinds of the power supplies. We have tested the remote control system with these kinds of power supplies. The test result shows that the remote control system is stable and reliable and it can basically meet the requirements of power supply system and physicists.
+
+ 
+
+
+ 
+
+
+
+THPEA011
+WPF Based EPICS Server and its Application in CSNS
+3170
+
+
+ 
+
+Y.L. Zhang, G. Lei
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The control system of China Spallation Neutron Source(CSNS) is under construction based on EPICS. The Linac low level RF(LLRF) local control program running on a local control PC uses Windows Presentation Foundation( WPF) as its development tool and uses the C# codes to implement the functionality. The Linac LLRF control system is non-EPICS, so the Linac LLRF local variables can’t be accessed directly from EPICS. Therefore we need to port the Linac LLRF local control system to EPICS. This paper presents the WPF base EPICS server and its application in CSNS.
+
+ 
+
+
+ 
+
+
+
+THPEA015
+Induced Radioactivity Research for Scraper
+3173
+
+
+ 
+
+L.J. He, Y.K. Chen, W. Li
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+The 200MeV electron linac of NSRL is one of the earliest high-energy electron linear accelerators in China. The electrons are accelerated to 200MeV by five accelerating tubes and collimated by the scraper followed each accelerating tube. The scraper aperture is smaller than the accelerating tube,so some electrons will hit on the structure materials when they pass through them. These lost electrons will cause induced radioactivity due to bremsstrahlung, cascade shower and photo-nuclear reaction. This paper gives the simulation to different energy electrons lost at the corresponding scraper by EGSnrc. The results showed that electrons were lost mainly at the scraper during the accelerating period,and the actual measurement confirmed this. Meanwhile,the induced radionuclide types have been studied. Recently,the linac mentioned above has been retired because of upgrading. The equipments and materials removed are used to study induced radioactivity generated in different materials. The research will provide the theoretical basis for the similar accelerator decommissioning plan,and is also significant for accelerator structure design,material selection and radiation protection programs design.
+
+ 
+
+
+ 
+
+
+
+THPEA016
+EPICS Driver for Phoenix Contact Redundant PLC
+3176
+
+
+ 
+
+G. Liu, C. Li, J.Y. Li, J.G. Wang, W. Xu, K. Xuan
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+The RFC 460R PLC from Phoenix Contact is a high-performance controller that has been extended to offer redundancy functionality. This redundancy functionality is vital for uninterrupted processes in complex systems and large plants. In order to integrate this product into EPICS environment, an EPICS Driver is developed. This driver is intended to connect a pair of RFC 460R redundant PLCs via TCP/IP to an EPICS IOC. In this paper, the communication mechanism, software implementation and the test results of a prototype system will be described.
+
+ 
+
+
+ 
+
+
+
+THPEA017
+Based on Channel Archiver of EPICS to Realize SSC-LINAC System Efficiently Beam Tuning
+3179
+
+
+ 
+
+S.Z. Gou, M. Yue, W. Zhang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+In order to improve running efficiency of accelerator, shorten the time of changing accelerator beam is key link and it should be considered how to accelerate the ion to specific energy quickly and accurately. We will discuss how to use years of heavy ion accelerator operation data to generate a set of virtual accelerator equipment data for specific ion and energy, load to all the accelerator equipment fast. EPICS provide Channel Archiver tools that can achieve and store data from the IOC equipment operation information. In this study, we use Archive Engine tool and Oracle to combine data acquisition function and data management function. Firstly store the Archive Engine acquisition data into Oracle database, and then according to the data to create accelerator system operation snapshot as the basis for beam tuning. The snapshot data includes all equipment state and parameters at special time in accelerator operating. When the ion is to be changed, related snapshot in Oracle database will be retrieved and loaded to all the equipment and to realize efficiently beam tuning.
+
+ 
+
+
+ 
+
+
+
+THPEA018
+Design of an Integrated Platform based on CSS and MATLAB for SSC-LINAC System Controlling and Data Analysis
+3182
+
+
+ 
+
+M. Yue, S.Z. Gou, W. Zhang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+CSS is the abbreviation of Control System Studio and is widely used in particle accelerator experiments area. Based on Eclipse, it is a collection of tools which can display details of the PV, show alarm state, as well as the function of data browsers, archive engine and so on. CSS offers an integrated approach to build a control system. We have recently developed a control and monitor system for the SSC-LINAC system to control and monitor power supply, vacuum, high frequency, and other accelerator equipments. In the area of accelerator controlling, we often need to do some mathematical operations like Fourier transform of the monitored data to get some accuracy performances of interested equipments. Unfortunately, CSS cannot satisfy this requirement. It is well known that MATLAB plays very well in data process and provides many mathematical tools. If we can combine these two tools together, we can get better control strategy. In the presentation, we will discuss the design of this integrated platform to implement the display, control and data process.
+
+ 
+
+
+ 
+
+
+
+THPEA019
+A Method of Implementing HIRFL-CSR Chopper Controls
+3185
+
+
+ 
+
+K. Gu, S. An, X.J. Liu, W. Zhang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+A method of implementing controls of chopper for HIRFL-CSR (Heavy Ion Research Facility of Lanzhou and Cooler Storage Rings) is introduced. This method is based on an ARM and DSP co-operation system. The control algorithm of this method is based on a data structure which is defined and implemented in the DSP module. Output data is created by the control algorithm and the actually pulse output is triggered by a timer which is achieved through a logic circuit actualized in a FPGA chip. The results show that the method is flexible and the control system matches the chopper regulating requirements.
+
+ 
+
+
+ 
+
+
+
+THPEA020
+The Design for Presetting Data Automatically in HIRFL Power Supply Control System
+3187
+
+
+ 
+
+X.J. Liu, Y. Chen, K. Gu, A. Shi, J.Q. Wu, F. Yang, W. Zhang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+This article introduces the structure of power supply in HIRFL(Heavy Ion Research Facility in Lanzhou) and designs a program which can preset power supply data automatically. We use Labview which is produced by NI Corporation to read Excel, access the Oracle database and send the generated instructions to power supply controllers. This program brings great convenience to physicists. It is used in SSC(Separated Sector Cyclotron) power supply system. The result shows that we can preset data quickly and accurately.
+
+ 
+
+
+ 
+
+
+
+THPEA021
+A Platform Control System for 320 kV HV Platform
+3189
+
+
+ 
+
+W. Zhang, K. Gu, J.Y. Li, X.J. Liu
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+This article describes the platform control system applied to the Chinese Academy of 320KV HV platform for highly charged ions. This system is composed of the hardware and the software. The hardware is composed of the network controller based on ATmega128 core chip. Our control group has designed the network controller for controlling the different types of equipment on the platform. The control system achieves the reliability, stability control of the different types of equipment on the HV platform, and control of the network, improve operational efficiency. The software uses NI Corporation's LABVIEW to program user interface. We have established for the application modules of the network controller in the LABVIEW and realized the optimization of the network controller to configure and use. The platform control system has run three years in the 320KV HV platform.
+
+ 
+
+
+ 
+
+
+
+THPEA022
+The Remote Control System for LAPECR1
+3192
+
+
+ 
+
+W.X. Zhou, F.Y. Lin, J.F. Luo, Y.Y. Wang, J. Yin, Y.J. Yu, D.T. Zhou
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+In order to support the debug of LAPECR1(Lanzhou All Permanent Magnet ECR Ion Source No.1) which merely provides H+ beam for HIRFL(Heavy Ion Research Facility in Lanzhou), a control system was realized in November 2011. The control system is composed of some controllers, a control-software and Intranet which is established by a switch. All of the controllers can access to Intranet directly or through serial-switch. And the controllers of the HV power and motor were designed by us. A IPC(Industrial Personal Computer) could control all of the equipments through Intranet. For the software of the system, it is designed using C++. And it could show the important data in the form of spectrum for the purpose of analysis and debug. The control system can acquire data and send command from/to the corresponding equipment.
+
+ 
+
+
+ 
+
+
+
+THPEA024
+The Control System of the SDUV-FEL Test Facility
+3195
+
+
+ 
+
+J.G. Ding, S.M. Hu, G.Y. Jiang, H.F. Miao, H. Zhao, H.J. Zhu
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+At SINAP, the Shanghai deep ultraviolet FEL test facility (SDUV FEL) was integrated to test the FEL key technologies and principles. The facility was constructed based on the existed SINAP 100MeV LINAC with modifications of cathode gun replacement and magnet compressor segment increment, extension of the undulator section, and the seeded laser system. The control system of the facility has been developed which upgraded and extended from the existed LINAC control system. The system was integrated based on the EPICS toolkit, consists of several subsystems of magnet power supply control, timing, vacuum monitor, RF control, undulator gap adjustment, and machine protection system. In this paper, the SDUV FEL control system is introduced. Solutions of equipment control, hardware and software implementations, and system integrations are described in details.
+
+ 
+
+
+ 
+
+
+
+THPEA026
+Radiation Safety Interlock System for DCLS
+3198
+
+
+ 
+
+G. Wang, S. Liu, J.J. Lu, X. Xia, J.Q. Xu, Y. Xu, F. Yang
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Dalian Coherent Light Source (DCLS) is in the design phase currently and will be constructed in Dalian from 2013. It is a seeded HGHG-FEL, mainly consisting of one 300 MeV electron linear accelerator and one undulator. Radiation safety is one of the most important tasks for Dalian FEL. Radiation safety interlock system (RSIS) is designed to prevent personnel exposure to high radiation levels, based on the As Low As Reasonably Achievable (ALARA) principle. RSIS controls access to the radiation protection areas and monitors safety devices. Only if all the radiation safety conditions are satisfied, then the facility will be permitted to operate. Once any condition is broken, RSIS will send a signal to stop the electron beam immediately to guarantee radiation safety. The core component of RSIS utilizes Programmable Logic Controller (PLC), which is a proven and reliable technology in the field of industrial automatic control. All safety-relevant functions of RSIS are implemented with fail-safe components. The hard wiring cable of the peripheral signals for the safety-relevant functions is redundant. The safety interlock signals are sent via a fail-proof protocol and transferred redundantly.
+
+ 
+
+
+ 
+
+
+
+THPEA027
+Radiation Calculations for Advanced Proton Therapy Facility
+3201
+
+
+ 
+
+J.Q. Xu, J.J. Lu, G. Wang, X. Xia
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+The shielding calculations for Advanced Proton Therapy Facility (APTRON), which is under design in Shanghai, were carried out. The thickness of radiation shielding walls for the accelerator and treatment rooms of APTRON were determined by Monte Carlo simulation and empirical formula. Beam loss scenarios and workloads of different energy at LINAC, synchrotron, beam transport line and treatment are given for the calculations. The calculations were carried out for the proton energy of 150MeV, 220MeV and 250MeV, and the targets of iron and equivalent tissue material. Source terms and attenuation length were calculated with different angles by the simulation using FLUKA code. Based on the source terms and the attenuation length, the thickness of the bulk walls were determined. Local shielding and maze design were also concerned.
+
+ 
+
+
+ 
+
+
+
+THPEA028
+Embedded EPICS Controller in Inserting Devices of SSRF
+3204
+
+
+ 
+
+G.Y. Jiang
+                       SSRF, Shanghai, People's Republic of China
+G.H. Chen
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+SSRF is the first homemade third-generation of synchrotron radiation light source in China. In the first stage of SSRF, 7 beamlines have been built. Among of them, 5 beamlines have used inserting devices (IDs) including both of wigglers and undulators. To support stable and long life beam, the control part of these IDs must focus on high stability and high precision. Thus, Simens PLC, which has been widely used in industrial control fields, was used as local device controllers to control the motors. About upper layer control, we adopted a kind of embedded EPICS controller to implement the control of correction coil power supplies and PLC. This embedded EPICS controller is based on a commercial Ethernet/Serial converter which running MontaVista linux as its operation system. Beyond this, EPICS IOC Core program and several kinds of device control drivers were integrated to it. After several months using, the whole system works stably. Details of the necessary integration work and operation performance will be discussed in this paper.
+
+ 
+
+
+ 
+
+
+
+THPEA030
+Improved Vector Modulator Card for MTCA-based LLRF Control System for Linear Accelerators
+3207
+
+
+ 
+
+I. Rutkowski, K. Czuba, M. Grzegrzólka
+                       Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+D.R. Makowski, A. Mielczarek, P. Perek
+                       TUL-DMCS, Łódź, Poland
+H. Schlarb
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Modern linear accelerators require high-precision RF field regulation of accelerating cavities. A critical component to achieve high-precision in the feedback loop a Low Level Radio Frequency (LLRF) controller is the vector modulator driving the high power RF chain. At FLASH, the Free Electron Laser in Hamburg and European XFEL the LLRF controls are based on MTCA.4 platform. This paper describes the concept, design and performance of an improved vector modulator module (DRTM-VM2). It is constructed as Rear Transition Module (RTM). The module consists of digital, analog, diagnostic and management subsystems. FPGA from Xilinx Spartan 6 family receives data from control module (AMC) using Multi-Gigabit Transceivers (MGTs). The FPGA controls the analog part which includes fast, high-precision DACs, I/Q modulator chips, programmable attenuators, power amplifier and fast RF gates for external interlock system. Pin assignment on the Zone3 connector is compliant with digital class D1.2 recommendations proposed by DESY. The design has been optimized for mass production and for easy extends to wider frequency range. Electronic switches offer software configuration of power and clock sources.
+
+ 
+
+
+ 
+
+
+
+THPEA031
+REGAE LLRF Control System Overview
+3210
+
+
+ 
+
+I. Rutkowski, Ł. Butkowski
+                       Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+M. Hoffmann, H. Schlarb, Ch. Schmidt
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The linear accelerator REGAE (Relativistic Electron Gun for Atomic Exploration) at DESY delivers electron bunches with a few femtosecond duration for time-resolved investigation of material structures in pump-probe configuration. To achieve sub-10fs resolution, the Low Level RF controls for the normal conducting S-band cavities must provide field stability of .005% in amplitude and of .005deg in phase. To achieve these demands, the recently developed LLRF control modules based on the Micro-Telecommunications Computing Architecture (MTCA.4) platform are used. For precise field detection and control a rear transition module (DRTM-DWC8VM1) housing 8 down-converters and 1 vector-modulator has been developed. The down-converted signals are transmitted to low-noise ADCs on an advanced mezzanine card (SIS8300L) with two high speed DACs driving the vector-modulator. The on board FPGA device runs the advanced control algorithms with minimum latency. Shot-to-shot learning feed forward and ultra-fast analog and digital feedbacks are applied. In this paper, the first results of the new RTM-AMC module pairs are presented together with the achievements and limitations on the RF field stability.
+
+ 
+
+
+ 
+
+
+
+THPEA032
+Software for Power Supplies Control of the NSLS-II Booster Synchrotron
+3213
+
+
+ 
+
+P.B. Cheblakov, A.A. Derbenev, S.E. Karnaev, S.S. Serednyakov
+                       BINP SB RAS, Novosibirsk, Russia
+M.A. Davidsaver, Y. Tian
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+The booster synchrotron of the NSLS-II light source at Brookhaven National Laboratory (BNL) provides electron beam acceleration from 200 MeV up to 3 GeV in 300 ms. This imposes strict conditions on both accuracy of control and synchronization of ramping Power Supplies (PS). Hardware part of PS controls are based on electronics specially developed at BNL and includes Power Supply Controllers (PSC) and Power Supply Interfaces (PSI). The former represents digital part of hardware and implements low-level logic (generating ramp functions, simple data verification and data acquisition), communication with control system software and PSI. The latter is an analogue part of entire system and it performs generation and acquisition analogue and digital signals by a set of on-board DACs, ADCs and digital inputs/outputs. The PSC and the PSI are connected by digital fibre optic link for electrical decoupling. This paper describes software for the booster synchrotron PSs control which is based on EPICS and includes a specially designed electronics configuration, a set of programs to manage ramp functions and to control different types of power supplies, both pulsed and ramping.
+
+ 
+
+
+ 
+
+
+
+THPEA033
+Electronics for Precise Measurements of Accelerator Pulsed Magnets
+3216
+
+
+ 
+
+A.V. Pavlenko, A.M. Batrakov, I.V. Ilyin
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Injection and extraction systems of modern accelerator complexes have high requirements for measurements accuracy of pulsed magnets field parameters. To satisfy these demands the fast and precision digital integrators were elaborated in BINP, Russia. These devices are intended for measurements in pulsed magnets (septum magnets, bumps, etc.) with the field duration, ranging from 5 μs, providing a relative accuracy better than 5•10-5. The set of these devices are the main measuring electronics in injection and extraction section of 3 GeV Booster Ring at NSLS-II facility, which is under construction now in BNL (USA).
+
+ 
+
+
+ 
+
+
+
+THPEA034
+ESS Integrated Control System Integration Support and the Agile Methodology Proposal
+3219
+
+
+ 
+
+M. Reščič
+                       Cosylab, Ljubljana, Slovenia
+L. Fernandez, A. Nordt
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The stakeholders of the ESS Integrated Control System (ICS) reside in four main parts of the ESS machine: accelerator, target, neutron instruments and conventional facilities. In order to maintain and support the standardized hardware and software platforms for controls all of the stakeholders' integration requirements and efforts must be strictly harmonized. This called for a decision by the ICS to perform the majority of the work in a package titled 'Integration Support', ranging from FPGA code development to EPICS integration. This exposes a high number of interfacing systems and devices and planning of such activities for each system make the standard waterfall planning model highly inefficient and risky. In order to properly address the planning risks the agile methodology is proposed - from product owners and teams to scrums and sprints, everything to offer a better and more efficient integration support to controls stakeholders.
+
+ 
+
+
+ 
+
+
+
+THPEA038
+ESS Naming Convention
+3222
+
+
+ 
+
+K. Rathsman, G. Trahern
+                       ESS, Lund, Sweden
+J. Malovrh Rebec, M. Rescic, M. Vitorovic
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+The European Spallation Source is an intergovernmental project building a multidisciplinary research laboratory based upon thermal neutrons. The main facility will be built in Lund, Sweden. Construction is expected to start 2013 and the first neutrons will be produced in 2019. The ESS linac will deliver 5 MW of power to the target at 2.5 GeV, with a nominal current of 50 mA. The ESS Naming Convention is based on a standard, originally developed for the Super Superconducting Collider (SSC) and later adopted by other large research facilities, e.g. the Spallation Neutron Source (SNS), Facility for Rare Isotope Beams (FRIB), International Thermonuclear Experimental Reactor (ITER), and the Continuous Electron Beam Accelerator Facility (CEBAF). The ESS Naming Convention was agreed upon and approved at a very early stage of the ESS project in order to establish a standard before names started to evolve. The main scope was to standardise meaningful, yet short and mnemonic signal and device names. The present paper describes the naming convention, the site wide implementation at ESS and associated web based tools.
+
+ 
+
+
+ 
+
+
+
+THPEA039
+Radiation Protection Study for the Shielding Design of the LINAC 4 Beam Dump at CERN
+3225
+
+
+ 
+
+J. Blaha, J. Vollaire
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Linac4, a new 160 MeV H− accelerator, is currently being constructed at CERN. The accelerator is terminated by a dump collecting beam which is not intended for further utilization. The aim of this study is to determine an optimal shielding of the beam dump fulfilling the radio-protection requirements. The proposed shielding must take into account different accelerator operational phases, the space constraints inside the accelerator vault as well as the decommissioning of the installation at the end of its lifetime. Therefore a detailed Monte-Carlo calculation using FLUKA particle transport and interaction code has been performed and the relevant physics quantities have been evaluated for different irradiation profiles and shielding material. Moreover, the residual dose rate and induced activation have been calculated for several cooling times in order to optimize the choice of the shielding material following the ALARA principle. Finally the airborne radioactivity induced by particles escaping the shielding as well as the activation of the beam dump cooling water have been also calculated using FLUKA and simplified laminar flow models.
+
+ 
+
+
+ 
+
+
+
+THPEA040
+Design of a Magnetic Bump Tail Scraping System for the CERN SPS
+3228
+
+
+ 
+
+Ö. Mete, J. Bauche, F. Cerutti, S. Cettour Cave, K. Cornelis, L.N. Drøsdal, F. Galleazzi, B. Goddard, L.K. Jensen, V. Kain, Y. Le Borgne, G. Le Godec, M. Meddahi, E. Veyrunes, H. Vincke, J. Wenninger
+                       CERN, Geneva, Switzerland
+A. Mereghetti
+                       UMAN, Manchester, United Kingdom
+
+ 
+
+
+ 
+
+The LHC injectors are being upgraded to meet the demanding beam specification required for High Luminosity LHC (HL-LHC) operation. In order to reduce the beam losses which can trigger the sensitive LHC beam loss interlocks during the SPS-to-LHC beam injection process, it is important that the beam tails are properly scraped away in the SPS. The current SPS tail cleaning system relies on a moveable scraper blade, with the positioning of the scraper adjusted over time according to the orbit variations of the SPS. A new robust beam tail cleaning system has been designed which will use a fixed scraper block towards which the beam will be moved by a local magnetic orbit bump. The design proposal is presented, together with the related beam dynamics studies and results from machine studies with beam.
+
+ 
+
+
+ 
+
+
+
+THPEA041
+Performance Improvements of the SPS Internal Beam Dump for the HL-LHC Beam
+3231
+
+
+ 
+
+F.M. Velotti, O. Aberle, C. Bracco, E. Carlier, P. Chiggiato, J.A. Ferreira Somoza, B. Goddard, M. Meddahi, V. Senaj, J.A. Uythoven
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The SPS internal beam dump has been designed for beam specifications well below the HL-LHC ones, and for modes of operation which may not be adequate for the HL-LHC era. The present system suffers from several limitations in the allowed intensity and energy range, and its vacuum performance affects nearby high-voltage kicker systems. In this report the limitations of the internal beam dump system are reviewed, and the possible improvements compared. Preliminary upgrade proposals are presented, taking into consideration the expected operational HL-LHC parameters.
+
+ 
+
+
+ 
+
+
+
+THPEA042
+TREC: Traceability of Radioactive Equipment at CERN
+3234
+
+
+ 
+
+M.P. Kepinski, L. Bruno, Ch. Delamare, S. Mallon Amerigo, P. Martel, S. Petit, T. Schmittler, M.J.S. Tavlet, D. Widegren
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Activated accelerator components are frequently removed from service due to changes in design, configuration or maintenance work. Safe and effective management of such components is a necessity. Moreover, local authorities require the tracking of this equipment: any piece of equipment or waste which has been in a potentially radioactive area must be controlled by a radio protection responsible before leaving the accelerator premises. CERN must also be able to prove that the required measurements have been done and are properly stored in a computerized system. TREC is the official system used at CERN to trace potentially radioactive equipment. It replaces paper work by electronic data, manual phone calls by automatic email notifications and helps to enforce CERN safety rules. Some of the major benefits are the reduction of the delays related to equipment movements (from installation to workshops or waste storage areas) as well as increased personal safety. The system is fully integrated with the CMMS* tools used at CERN to ensure the complete equipment lifecycle’s traceability.
+*CMMS: Computerized Maintenance Management System
+
+ 
+
+
+ 
+
+
+
+THPEA043
+An Equipment Hub for Managing a Small Town and a Complex Machine
+3237
+
+
+ 
+
+P. Martel, A. Alexandre Metola, Ch. Delamare, M.P. Kepinski, S. Mallon Amerigo, L. Pater, S. Petit, D. Widegren
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Effective maintenance of the accelerators’ complex is vital for CERN’s mission. While this work is highly dependent on operational planning and constraints, it also needs to be coordinated with the maintenance of the infrastructure where the complex is embedded. The nature and degree of the logistics problems that arise from this interdependence cannot be handled by partial, decoupled solutions from each of the stakeholders. CERN’s Enterprise Asset Management system is the central hub where all relevant data about equipment and its maintenance is kept. It is also where data and documents about the manufacturing, installation, safety inspection, radiation measurements, disposal, etc. of the scientific equipment reside. This hub allows the effective sharing of consistent equipment data, accessed by a large number of people and systems, and supplies a wide range of interfaces – ranging from the user in the field with no access to a desktop computer, to scheduling systems that need to interact with it through Web services; this is achieved by means of a series of systems, tools and mechanisms, all dedicated to different needs but working on the same data and sharing common policies.
+
+ 
+
+
+ 
+
+
+
+THPEA044
+Radiation Tolerance of Cryogenic Beam Loss Monitor Detectors
+3240
+
+
+ 
+
+C. Kurfuerst, C. Arregui Rementeria, M.R. Bartosik, B. Dehning, T. Eisel, M. Sapinski
+                       CERN, Geneva, Switzerland
+V. Eremin, E. Verbitskaya
+                       IOFFE, St. Petersburg, Russia
+C. Fabjan
+                       HEPHY, Wien, Austria
+E. Griesmayer
+                       CIVIDEC Instrumentation, Wien, Austria
+
+ 
+
+
+ 
+
+At the triplet magnets, close to the interaction regions of the LHC, the current Beam Loss Monitoring system is sensitive to the particle showers resulting from the collision of the two beams. For the future, with beams of higher energy and intensity resulting in higher luminosity, distinguishing between these interaction products and possible quench-provoking beam losses from the primary proton beams will be challenging. Investigations are therefore underway to optimise the system by locating the beam loss detectors as close as possible to the superconducting coils of the triplet magnets. This means putting detectors inside the cold mass in superfluid helium at 1.9 K. Previous tests have shown that solid state diamond and silicon detectors as well as liquid helium ionisation chambers are promising candidates. This paper will address the final open question of their radiation resistance for 20 years of nominal LHC operation, by reporting on the results from high irradiation beam tests carried out at CERN in a liquid helium environment.
+
+ 
+
+
+ 
+
+
+
+THPEA045
+Beam Induced Quenches of LHC Magnets
+3243
+
+
+ 
+
+M. Sapinski, T. Baer, M. Bednarek, G. Bellodi, C. Bracco, R. Bruce, B. Dehning, W. Höfle, A. Lechner, E. Nebot Del Busto, A. Priebe, S. Redaelli, B. Salvachua, R. Schmidt, D. Valuch, A.P. Verweij, J. Wenninger, D. Wollmann, M. Zerlauth
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In the years 2009-2013 LHC was operating with the beam energy of 3.5 and 4 TeV instead of the nominal 7 TeV, with the corresponding currents in the superconducting magnets also half nominal. To date only a small number of beam-induced quenches have occurred, with most being due to specially designed quench tests. During normal collider operation with stored beam there has not been a single beam induced quench. This excellent result is mainly explained by the fact that the cleaning of the beam halo worked very well and, in case of beam losses, the beam was dumped before any significant energy was deposited in the magnets. However, conditions are expected to become much tougher after the long LHC shutdown, when the magnets will be working at near nominal currents in the presence of high energy and intensity beams. This paper summarizes the experience to date with beam-induced quenches. It describes the techniques used to generate controlled quench conditions which were used to study the limitations. Results are discussed along with their implication for LHC operation after the first Long Shutdown.
+
+ 
+
+
+ 
+
+
+
+THPEA046
+Machine Protection at the LHC - Experience of Three Years Running and Outlook for Operation at Nominal Energy
+3246
+
+
+ 
+
+D. Wollmann, R. Schmidt, J. Wenninger, M. Zerlauth
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+With above 22fb-1 integrated luminosity delivered to the experiments ATLAS and CMS the LHC surpassed the results of 2011 by more than a factor 5. This was achieved at 4TeV, with intensities of ~2e14p per beam. The uncontrolled loss of only a small fraction of the stored beam is sufficient to damage parts of the sc. magnet system, accelerator equipment or the particle physics experiments. To protect against this a correct functioning of the complex LHC machine protection (MP) systems through the operational cycle is essential. Operating with up to 140MJ stored beam energy was only possible due to the experience and confidence gained in the two previous running periods, where the intensity was slowly increased. In this paper the 2012 performance of the MP systems is discussed. The strategy applied for a fast, but safe, intensity ramp up and the monitoring of the MP systems during stable running periods are presented. Weaknesses in the reliability of the MP systems, set-up procedures and setting adjustments for machine development periods, discovered in 2012, are critically reviewed and improvements for the LHC operation after the up-coming long shut-down of the LHC are proposed.
+
+ 
+
+
+ 
+
+
+
+THPEA047
+Diamond Particle Detector Properties during High Fluence Material Damage Tests and their Future Applications for Machine Protection in the LHC
+3249
+
+
+ 
+
+F. Burkart, J. Blanco, J. Borburgh, B. Dehning, M. Di Castro, E. Griesmayer, A. Lechner, J. Lendaro, F. Loprete, R. Losito, S. Montesano, R. Schmidt, D. Wollmann, M. Zerlauth
+                       CERN, Geneva, Switzerland
+E. Griesmayer
+                       CIVIDEC Instrumentation, Wien, Austria
+
+ 
+
+
+ 
+
+Experience with LHC machine protection (MP) during the last three years of operation shows that the MP systems sufficiently protect the LHC against damage in case of failures leading to beam losses with a time constant exceeding 1ms. An unexpected fast beam loss mechanism, called UFOs, was observed, which could potentially quench superconducting magnets. For such fast losses, but also for better understanding of slower losses, an improved understanding of the loss distribution within a bunch train is required. Diamond particle detectors with bunch-by-bunch resolution and high dynamic range have been developed and successfully tested in the LHC and in experiments to quantify the damage limits of LHC components. This paper will focus on experience gained in use of diamond detectors. The properties of these detectors were measured during high-fluence material damage tests in CERN's HiRadMat facility. The results will be discussed and compared to the cross-calibration with FLUKA simulations. Future applications of these detectors in the LHC to understand beam losses and to improve the protection against fast particle losses will be discussed.
+
+ 
+
+
+ 
+
+
+
+THPEA048
+The FPGA-based Power Monitoring System for TPS Facility
+3252
+
+
+ 
+
+C.S. Chen, Z.-D. Tsai
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+There are more and more non-linear electronic equipments such as inverters using in facility nowadays. These non-linear electronic equipments let us achieve energy saving, but induce other electrical pollution to the whole power grid in contrast. How to monitor the electrical noises from these non-linear equipments becomes an important issue. In this article, a set of power quality monitoring system based on FPGA and PAC has been built because of the programmability and fast processing speed. By using this monitoring system, any abnormality in power system and its spectrum will be recorded thoroughly. On the other hand, the maintainer could follow the trace of noise and then propose a suitable solution to eliminate the electrical interference too.
+
+ 
+
+
+ 
+
+
+
+THPEA049
+Implementation of the EPICS Data Archive System for the TPS Project
+3255
+
+
+ 
+
+Y.-S. Cheng, Y.-T. Chang, J. Chen, P.C. Chiu, K.T. Hsu, C.H. Kuo, C.Y. Liao
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The EPICS framework was chosen as control system infrastructure for the new project of 3 GeV synchrotron light source (Taiwan Photon Source, TPS). Various control system prototypes of TPS with the EPICS mechanism have been gradually built and tested. One EPICS archive system is necessary to be developed to record various machine parameters and status information for long time logging. The archive system of CSS (Control System Studio) which named BEAUTY (Best Ever Archive Toolset, yet) was built to be used as the TPS data archive system in 3rd quarter of 2012. An archive engine takes PV data from EPICS IOCs via channel access, and stores them in the data storage. The PostgreSQL RDB (Relational Database) was adopted as the data storage for the BEAUTY. Both the historic PVs data and the archive engine configuration are saved into the same RDB. The archived data can be retrieved in a form of graphical representation using the CSS-based data browser. Taking the performance and redundancy into considerations, the storage servers and RDB table structures are tuned relatively. The efforts will be described at this report.
+
+ 
+
+
+ 
+
+
+
+THPEA050
+Power Supply Control and Applications Development for the TPS Storage Ring Quadrupole and Sextupole Magnet
+3258
+
+
+ 
+
+Y.-S. Cheng, J. Chen, P.C. Chiu, K.T. Hsu, C.Y. Liao, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The TPS intermediate power supply for storage ring quadrupole and sextupole magnets with current rating 250 Amp will be equipped with Ethernet interface. The quadrupole power supply is 18bit with higher stability than sextupole with 16 bits, and have internal data buffer for post-mortem capability. The dedicated IOCs are built individually at the 24 cPCI platforms to manipulate the devices of the 24 cells of storage ring respectively. Each IOC is used to control 10 quadrupole magnet power supplies and 7 sextupole magnet power supplies. The GUIs of storage ring quadrupole and sextupole power supplies controls were implemented by the EDM toolkit. The client console can use the specific EDM pages to access power supplies via PVs channel access. The measured currents of quadrupole and sextupole power supplies were read back for observing performance. Some applications, like the degauss process, boot function and etc, are also developed with the specific toolkit. The efforts will be summarized at this report.
+
+ 
+
+
+ 
+
+
+
+THPEA052
+TLS Operation Information Management: Automatic Logging Tools
+3261
+
+
+ 
+
+C.C. Liang, H.C. Chen, J. Chen, C.K. Chou, S. Fann, K.T. Hsu, K.H. Hu, J.A. Li, D. Lin, T.F. Lin, Y.K. Lin, Y.-C. Liu, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+Y.-C. Liu
+                       NTHU, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The Taiwan Light Source (TLS) has been operated in the Top-up mode since October 2005 and has maintained a beam current of 360mA since 2010. Several essential parameters and waveforms are constantly recorded as routine accelerator operation reference. Therefore, five LabVIEW-based data and waveform logging software programs have been developed for the purpose of preliminary diagnose at the TLS. In this report, certain actual cases in regular operation are presented.
+
+ 
+
+
+ 
+
+
+
+THPEA053
+Data Acquisition and Monitoring for TPS SRF Module Horizontal Test
+3264
+
+
+ 
+
+Y.-H. Lin, L.-H. Chang, M.H. Chang, L.J. Chen, F.-T. Chung, M.-C. Lin, Z.L. Liu, C.H. Lo, M.H. Tsai, Ch. Wang, M.-S. Yeh, T.-C. Yu
+                       NSRRC, Hsinchu, Taiwan
+M.H. Tsai
+                       NTUT, Taiwan
+
+ 
+
+
+ 
+
+Three KEKB-type single-cell SRF modules were shipped to NSRRC before the end of 2012. The horizontal test of the first KEKB-type SRF module has been already finished in January of 2013. While the horizontal tests for the next two SRF module will be completed in May and August of this year. This article introduces the data acquisition and monitoring systems during the SRF horizontal test in NSRRC.
+
+ 
+
+
+ 
+
+
+
+THPEA055
+NESTOR Facility Control System
+3267
+
+
+ 
+
+D.V. Tarasov, V.N. Boriskin, I.M. Karnaukhov, D. Korzhov, V.N. Ljashchenko, A. Mytsykov, A.A. Shcherbakov, V.L. Skirda, V.I. Trotsenko, A.Y. Zelinsky
+                       NSC/KIPT, Kharkov, Ukraine
+
+ 
+
+
+ 
+
+The general principles of the NESTOR facility control system are presented in the paper. The main features of the systems such as magnetic, vacuum, diagnostic, Rf etc. concerning the control and monitoring are discussed. The first results of the system implementation are presented.
+
+ 
+
+
+ 
+
+
+
+THPEA057
+Compensation Schemes for Operation of FEL Wigglers on Duke Storage Ring
+3270
+
+
+ 
+
+J.Y. Li, H. Hao, S.F. Mikhailov, V. Popov, W. Wu, Y.K. Wu
+                       FEL/Duke University, Durham, North Carolina, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported in part by the US DOE grant no. DE-FG02-97ER41033.
+The Duke FEL is the photon driver for the High Intensity Gamma-ray Source (HIGS). To extend the capabilities of the FEL and HIGS to higher photon energy regions, a FEL wiggler switchyard system was developed in the recent years. This system was installed and commissioned in 2012. The FEL wiggler switchyard is used to change between two planar OK-4 wigglers and two helical OK-5 wigglers in the middle of the FEL straight section in a short period of time (a few days). With a total of six electromagnetic wigglers, the Duke FEL can be operated in a number of wiggler configurations and with a wide range of magnetic fields. The operation of uncompensated FEL wigglers can cause significant changes to the electron beam closed orbit and magnetic lattice. To maintain a sufficiently large dynamic aperture for an efficient injection and good beam lifetime, a set of complex compensation schemes, including magnetic field and lattice compensation, have been developed for the operation of the FEL wigglers. This paper reports the overall architecture and performance of the FEL wiggler compensation schemes and their implementation in the accelerator controls system using the feedforward mechanism.
+
+ 
+
+
+ 
+
+
+
+THPEA059
+Database for Accelerator Modeling
+3273
+
+
+ 
+
+C.P. Chu, J. Wu
+                       SLAC, Menlo Park, California, USA
+D. Dohan, G. Shen
+                       BNL, Upton, Long Island, New York, USA
+H.H. Lv
+                       IHEP, Beijing, People's Republic of China
+Y. Zhang
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661.
+A database for model data is design for the Facility for Rare Isotope Beams (FRIB) Project. The database schema design takes most general approach and is not limited to FRIB models. Programmatically access to the database can be done through a set of Application Programming Interfaces (APIs). Initial data population demonstrates that the database is suitable for XAL application framework. The model database is also part of a collaboration for complete database needs among various domains across an accelerator.
+
+ 
+
+
+ 
+
+
+
+THPEA060
+LLRF System for LCLS-II at SLAC
+3276
+
+
+ 
+
+Z. Geng, B. Hong, K.H. Kim, R.S. Larsen, D. Van Winkle, C. Xu
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US Department of Energy Contract DE AC03 76SF00515
+After LCLS-I successfully delivering the full operation for users, SLAC has been approved to build the second Linac Coherent Light Source, LCLS-II, which makes use of another third of the 2-mile long Linac from Sector 10 to Sector20. The LLRF System will use mTCA (Micro Telecommunication Computing Architecture) to replace the VME system for LCLS-II injector and some key stations along the LINAC. The faster data acquisition and more powerful FPGA and CPU in the mTCA system enable the LLRF system to extend its control ability to a 2.5 μsec beam pulse rate of 360Hz. The new LLRF system is more compact and has the capability of low latency intra-pulse feedback to reduce fast phase and amplitude jitter during a single pulse. The prototype of the mTCA based LLRF control system has been operating at RF station 28-2 in LCLS-I. Detailed design structure and the prototype experimental results will be presented that demonstrate the system meets the exacting phase and amplitude stability requirements for LCLS-II.
+
+ 
+
+
+ 
+
+
+
+THPEA061
+EPICS Accelerator Control System for the IAC-RadiaBeam THz Project
+3279
+
+
+ 
+
+A. Andrews, B.L. Berls, T. Downer, C.F. Eckman, K. Folkman, Y. Kim, C. O'Neill, J. Ralph
+                       IAC, Pocatello, IDAHO, USA
+P. Buaphad, Y. Kim
+                       ISU, Pocatello, Idaho, USA
+
+ 
+
+
+ 
+
+The Idaho Accelerator Center (IAC) of Idaho State University has been operating a 44 MeV L-band linac for various nuclear physics related applications. However, for the past several years, this research has been done without the aid of a modern computer based control system. To obtain a better reproducibility and stability in operation, the EPICS accelerator control system has been applied to control various components of this linac. This has been done for the purpose of a joint THz research project between IAC and RadiaBeam that was performed in November 2012. This paper describes the development of the EPICS accelerator control system used during this joint THz research experiment.
+
+ 
+
+
+ 
+
+
+
+THPEA062
+Magnetic Field Measurements for the IAC-RadiaBeam THz Project
+3282
+
+
+ 
+
+P. Buaphad, Y. Kim, M. Williams
+                       ISU, Pocatello, Idaho, USA
+A. Andrews, T. Downer, C.F. Eckman, Y. Kim, M. Smith
+                       IAC, Pocatello, IDAHO, USA
+
+ 
+
+
+ 
+
+At the Idaho Accelerator Center (IAC) of Idaho State University, recently, a new chicane with four dipoles and quadrupole triplet magnets were installed in a 44 MeV linac to perform the IAC-RadiaBeam Terahertz (THz) project. To generate high power THz radiation, a THz radiator with numerous periodic gratings was also installed downstream of the quadrupole triplet. However, the electron beam shape at the radiator has to be horizontally focused strip-like one due to a tiny radiator gap with a width of 1.2 mm, and electron bunch length should be about a few picosecond (ps) to generate high power THz radiation in the radiator. By using the quadrupole triplet and chicane dipoles, we can control the transverse beam profile and bunch length freely. In this paper, we report the measured field maps of the dipole and quadrupole magnets, their effective lengths, and field strength or gradient as a function of the magnet power supply current.
+
+ 
+
+
+ 
+
+
+
+THPEA063
+NSLS II Injector Integrated Testing
+3285
+
+
+ 
+
+G.M. Wang, B. Bacha, A. Blednykh, E.B. Blum, W.X. Cheng, J. Choi, L.R. Dalesio, M.A. Davidsaver, J.H. De Long, R.P. Fliller, W. Guo, K. Ha, H.-C. Hseuh, Y. Hu, W. Louie, M.A. Maggipinto, D. Padrazo, T.V. Shaftan, G. Shen, O. Singh, Y. Tian, K. Vetter, F.J. Willeke, H. Xu, L. Yang, X. Yang
+                       BNL, Upton, Long Island, New York, USA
+P.B. Cheblakov, A.A. Derbenev, A.I. Erokhin, S.M. Gurov, R.A. Kadyrov, S.E. Karnaev, E.A. Simonov, S.V. Sinyatkin, V. Smalyuk
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+The NSLS-II is a state of the art 3 GeV synchrotron light source under construction at Brookhaven National Laboratory. Since 2012, the injector system gradually moves to the commissioning stage. It occurs after group people efforts on optics design, equipment specifications, construction and tests, assembly, installation and alignment. It is very important and exciting. To make the commissioning smooth and efficient, an important effort was put on the sub-system integration test to make sure the device function along with utility, timing system and control system, to calibrate diagnostics system and to debug high level application with simulated beam signals and required hardware. In this paper, we report our integration test experience and related control system software development.
+
+ 
+
+
+ 
+
+
+
+

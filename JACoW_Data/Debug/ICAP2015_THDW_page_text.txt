@@ -1,0 +1,152 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2015 - Table of Session: THDW (Plasma and Laser Acceleration, Synchrotron Radiation)
+
+
+THDW —  Plasma and Laser Acceleration, Synchrotron Radiation   (15-Oct-15   15:45—17:15)
+
+
+
+Paper
+Title
+Page
+
+
+
+THDWC1
+Efficient Plasma Wakefield Acceleration Simulations via Kinetic-Hydro Code Architect
+175
+
+
+ 
+
+F. Massimo, A. Marocchino, A. Mostacci, L. Palumbo
+                       University of Rome La Sapienza, Rome, Italy
+E. Chiadroni, M. Ferrario
+                       INFN/LNF, Frascati (Roma), Italy
+A. Marocchino, F. Massimo, A. Mostacci, L. Palumbo
+                       INFN-Roma, Roma, Italy
+A.R. Rossi
+                       Istituto Nazionale di Fisica Nucleare, Milano, Italy
+
+ 
+
+
+ 
+
+Funding: FIRB RBFR12NK5K and Sapienza C26A14K3WK
+Start-to-end simulations are needed for sensitivity studies and online analysis of experimental data of the Plasma Wakefield Acceleration experiment COMB at SPARC LAB facility, Frascati (Italy). Ad hoc tools are needed for the plasma section modeling. Particle in cell codes are the most widely used tools for this purpose, but they suffer from the considerable amount of computational resources they require. We seek for a simple, portable, quick-to-run approach. For this purpose we introduce a time-explicit cylindrical hybrid fluid-kinetic code: Architect. The beam particles are treated with PIC-like kinetic approach, while the plasma wake is treated as a fluid. Since the number of computational particles used by the hybrid model is significantly reduced with respect of full PIC codes with the same number of dimensions, the time required for a simulation is reduced as well.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-THDWC1
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THDWC2
+Simulations of Pulse Quality Effects in Laser-plasma Self-injection and Acceleration
+ 
+
+
+ 
+
+B.M. Cowan, D.T. Abell, J.R. Cary, A.V. Higuera
+                       Tech-X, Boulder, Colorado, USA
+J.R. Cary
+                       CIPS, Boulder, Colorado, USA
+M. Downer, N. Fazel, K.J. Weichman
+                       The University of Texas at Austin, Austin, Texas, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy and National Science Foundation under Grant No. DE-SC0012584.
+In laser-plasma acceleration (LPA), the self-injection process is highly nonlinear and therefore sensitive to the initial conditions of the experiment. The propagation and depletion of the laser pulse and its effects on the accelerating wake similarly depend strongly on the initial laser pulse and plasma density parameters. At the Texas Petawatt Facility, injection and acceleration to over 2 GeV in a 7 cm LPA stage have been observed. However, deviation of the incident laser spot from an ideal Gaussian profile has also been observed. We present simulations that compare the injection and acceleration dynamics with an ideal spot and with the measured profiles from experiment. We describe new techniques in the laser envelope model which allow simulation of realistic pulses based on measured data while being highly computationally efficient. We also discuss the use of boosted frame techniques in the simulation of the acceleration process into laser depletion. We use this data to assess the effects of spot quality on the efficacy of the LPA process.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THDWC3
+Design of a Proton Radiography Test Stand Based on an 100 MeV Proton Cyclotron
+ 
+
+
+ 
+
+J.J. Yang, Y.L. Lv, F. Wang, S.M. Wei, T.J. Zhang, X. Zheng
+                       CIAE, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The high energy proton beam can be used as an scatheless radiographic probe for the diagnosis of hydrotesting research. Recently a proof-of-principle system for proton radiography was designed to use 100 MeV proton beam to radiograph thin static objects. This system consists of a 100MeV proton cyclotron, which is constructed at China Institute of Atomic Energy in the year of 2014, and an imaging beam line. The design work is finished by now and the first radiography experiment is expected by the end of this year. Here the overall design of the proton radiography system is described in detail, including the beam dynamic design of imaging beam line and the mechnaical design of the main components.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

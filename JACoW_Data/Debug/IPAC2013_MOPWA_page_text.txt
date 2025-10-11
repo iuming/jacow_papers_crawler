@@ -1,0 +1,1923 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2013 - Table of Session: MOPWA (Poster Session)
+
+
+MOPWA —  Poster Session   (13-May-13   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPWA001
+Development of a High Precision Integrator for Analog Signals to Measure Magnetic Fields in Realtime
+661
+
+
+ 
+
+E. Feldmeier, Th. Haberer
+                       HIT, Heidelberg, Germany
+
+ 
+
+
+ 
+
+For the Magnetic Field Control of the synchrotron at the Heidelberg Ion Therapy Centre the magnetic fields are measured with a pickup coil along the beam pipe. The induced pickup voltage, corresponding to changes in the magnetic field, has to be integrated in realtime to determine the actual field. A high precision integrator has been developed to measure fields with an accuracy of 4ppm over 10 seconds. This new integrator has a very low drift and calibrates during the measurement. It is the fastest and most accurate integrator for integrating analoge voltages in realtime.
+
+ 
+
+
+ 
+
+
+
+MOPWA002
+New Purposed High Precision Power Supply For Quadrupole Magnets Of  ILSF using Low Resolution Digital PWM
+664
+
+
+ 
+
+M. Jafarzadeh, M. Akbari, J. Rahighi, D. Shirangi, E.H. Yousefi
+                       ILSF, Tehran, Iran
+
+ 
+
+
+ 
+
+A total number of 104 quadrupole magnets, split into 9 families, will be required for the ISLF storage ring lattice. Each quadrupole magnet is connected with its own independent power supply. In new design for quadrupole magnets, the outputs of two synchronized push-pull converters (one for coarse regulation and another for fine current regulation) will be added together before a synchronous rectification. In this manner, there will be no need for extra high-current electronic parts. Another advantage of this design is using a high-voltage inductor on the switching side rather than a high current inductor ion the high current side. The PWM signal to control of buck converter (at the input stage of each unit) will be generated inside a dsPIC .
+
+ 
+
+
+ 
+
+
+
+MOPWA003
+New Development of Compact Fast Pulsed Power Supply System in the SPring-8
+666
+
+
+ 
+
+C. Mitsuda, K. Fukami, K. Kobayashi, T. Nakanishi, H. Ohkuma, S. Sasaki
+                       JASRI/SPring-8, Hyogo-ken, Japan
+T. Ohshima
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+
+ 
+
+
+ 
+
+We have developed a compact fast pulsed power supply system as a part of the development of the fast kicker magnet system in the SPring-8 storage ring. The kicker magnet is needed for the 1 ps short pulsed X-ray generation by a vertical kick and the suppression of the fast beam oscillation by counter kick. The required pulse width and current for above applications have to be a enough short time less than 4.8 us of the revolution time and more than 200 A respectively. We selected a Si-MOSFET as a switching device because a MOSFET has two capabilities of the fast switching and high-voltage resistance, and has a smaller size than an IGBT. The current are increased by parallel or parallel-series connecting of MOSFETs. We started the development of a test system whose output current was a 67 A with a pulse width of 1.0 us in 2008. From 2009 to 2011, we succeeded in achieving the output current of a 270 A with a pulse width of 0.8 us by using prototype system. In 2012, by increasing the number of MOSFET, we confirmed the output current of 250 A with a pulse width of 0.5 us, whose case size is a just 210(W) x 160(H) x 300(D) mm. We will report the development status in detail.
+
+ 
+
+
+ 
+
+
+
+MOPWA004
+Development of a Non-inductive Ceramic Resistor
+669
+
+
+ 
+
+T. Sugimoto, K. Fan, K. Ishii, H. Matsumoto
+                       KEK, Ibaraki, Japan
+K. Abe
+                       Hitachi Haramachi Electronics Co. Ltd., Hitachishi, Ibaraki, Japan
+S. Fukuoka
+                       University of Tsukuba, Graduate School of Pure and Applied Sciences,, Tsukuba, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Non-inductive ceramic resistors, based on alumina and carbon, are used for impedance matching in the circuit of the J-PARC main ring injection kicker system. The kickers were installed in December 2011, and have been in operation successfully since then. However, discharges at the edge of the ceramic bulk were observed after several weeks’ operation, which increase resistance from O(100) to O(1M). Investigation indicates that poor contact with the rough surface of the ceramic bulk due to irregular shaped spots causes micro-gaps, which trigger the discharge. In order to improve the contact, one type of brazing technology has been experimentally applied to one resistor. Another resistor had an annealed thin copper plate inserted, and both resistors were tested and compared. In this paper, we will describe details of the development of the resistors and give future prospects.
+
+ 
+
+
+ 
+
+
+
+MOPWA005
+Development of a Feedback Control System for Resonant Power Supplies in the J-PARC 3-GeV Synchrotron
+672
+
+
+ 
+
+Y. Watanabe
+                       JAEA, Ibaraki-ken, Japan
+N. Tani
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+In the J-PARC 3-GeV Synchrotron, dipole magnets and seven families of quadrupole magnets are excited with a DC-biased 25 Hz sinusoidal waveforms using an individual resonant circuits. This paper proposed a feedback system to improve the amplitude and phase stability, specially against variation of capacitance caused by temperature characteristics in the resonant circuits. The control system has been successfully demonstrated and achieved amplitude and phase stability under ±0.005% and ±0.5 uS, respectively.
+
+ 
+
+
+ 
+
+
+
+MOPWA006
+Magnet Power Supply with Small Ripple using Sub-converter and Symmetrical Structure
+675
+
+
+ 
+
+S. Nakamura
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+S. Yamada
+                       KEK, Tokai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+High precision tracking and small current ripple are necessary for a magnet power supply of a high power accelerator. A prototype power supply of the 100kW class is developed with an aim of small current ripple less than 10ppm, which employs a combination of main and sub-converter with symmetrical structure. The main converter unit supplies pattern current by a voltage feedforward control, while the sub-converters by a current feedback control. The symmetrical structure of the power supply is adopted to decouple normal mode and common mode ripples. Each converter unit is modularized and surrounded by a Faraday cage suppress for suppressing radiation of electrical noise and ease for maintenance. Its performance is studied using a set of 24 units of setupole magnets installed in J-PARC Main Ring.
+
+ 
+
+
+ 
+
+
+
+MOPWA007
+Operating Experience of Kicker Magnet System in the J-PARC 3GeV RCS
+678
+
+
+ 
+
+K. Suganuma, M. Kinsho, T. Togashi, M. Watanabe
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+The J-PARC 3-GeV rapid cycling synchrotron (RCS) has been provided proton beam to the Material and Life Science Facility (MLF)as well as to the 50 GeV Main Ring (MR). Proton beam is accelerated from 181 MeV to 3GeV in the RCS and immediately extracted it to the beam transport line to the MLF and the MR. Extraction kicker system is used for this fast extraction. The RCS has been operated for the neutron and MLF users program from December 23rd, 2008. At the beginning of user operation there were many troubles for the extraction kicker system, especially, thyratron which are used for switch of power supply often caused failure. The beam stop rate due to RCS extraction kicker system was more than 13% in the total beam stop of the J-PARC, establishment and operation experience of the tuning for power supply of the extraction kicker make the beam stop rate less than 0.5% in November 2012. In this paper, we are going to report about daily operation whose main is about operation of thyratron and the maintenance held in summer 2012. And　 We also going to report about the aptitude test of thyratron as a plan of the future.
+
+ 
+
+
+ 
+
+
+
+MOPWA008
+Power Supply of the Pulse Steering Magnet for Changing the Painting Area between the MLF and the MR at J-PARC 3 GeV RCS
+681
+
+
+ 
+
+T. Takayanagi, N. Hayashi, K. Horino, M. Kinsho, T. Togashi, T. Ueno, Y. Watanabe
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+Y. Irie
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The power supply of the pulse steering magnet (PSTR) has been produced. The PSTR of the 3-GeV RCS (Rapid Cycling Synchrotron) in the J-PARC (Japan Proton Accelerator Research Complex) aims at changing the painting area in a pulse-to-pulse mode at 25Hz between the MLF (Material and Life science Experimental Facility) and the MR (50-GeV Main Ring synchrotron) at J-PARC. The power supply has the equipment used to excite the pulse current and the direct current (DC) to correspond to two modes that the paint injection for beam users and the central injection for beam commissioning. In case of the paint injection, the power supply excites the current from 40 A to 450 A in pulse mode, which has the capability to switch from positive to negative polarity. The pulse current has been performed with good accuracy whose deviation to a setting current becomes to be less than ± 0.2 %. In case of the central injection, the power supply excites the current from 1000 A to 3000A in DC mode, which has been realized output current deviation below ± 0.01 %. This paper summarizes the design parameters and the experimental results of the power supply.
+
+ 
+
+
+ 
+
+
+
+MOPWA009
+Development of a Fast Compensation Kicker System for J-PARC Main-ring Injection
+684
+
+
+ 
+
+S. Fukuoka
+                       University of Tsukuba, Graduate School of Pure and Applied Sciences,, Tsukuba, Ibaraki, Japan
+K. Fan, K. Ishii, H. Matsumoto, T. Sugimoto
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Injection system of J-PARC main ring employs four lumped kickers to deflect the incoming beam. The residual field caused by tail and reflection of excitation current increases the closed beam orbit leading to particle loss in high power operation. A correction method using a fast kicker system to compensate the remaining angle is being developed. Doe to the narrow bunch spacing, transmission line kicker is selected to satisfy requirements of fast rise and fall time. The kicker magnet uses ceramic capacitors instead of parallel metal plates to make the magnet compact and reduce the stray inductance. Capacitors are installed in vacuum chamber. A very thin core is used to reduce distributed inductance. A bandwidth is calculated as 160 MHz. A Marx generator using FET switches has been studied, which is able to produce fast rise and fall time as 50 ns. Any pulse shape is generated by choosing switches to fire. A prototype magnet and a power supply have been fabricated for parameters test. In this paper, we will report the details of the system design, analyze the measurement results and give future prospects.
+
+ 
+
+
+ 
+
+
+
+MOPWA013
+The New Injection System of the HLS II
+687
+
+
+ 
+
+L. Shang, Y. Lu, F. Shang, Y.Y. Wang
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: The program is funded by NSFC with No. 10875116 and No. 11175181
+The 0.8GeV storege ring is being rebuilt in NSRL. The design and construction of the new injection system of the new ring is presented. Kicker magnet, septum magnet and their pulsed power suplies are described. Test results are given. The ceramic chambers, vacuum tank of the septum magnet, system timing and local pulsed power control are also described. The installation and testing of the new system undergoing.
+
+ 
+
+
+ 
+
+
+
+MOPWA014
+Research and Design of Digital Power Supply for  HIRFL-RIBLL Corrector Magnet
+690
+
+
+ 
+
+Y.Z. Huang, Y.X. Chen, D.Q. Gao, J.B. Shangguan, R.K. Wang, H.H. Yan, Z.Z. Zhou
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+One digital power supply was designed for RIBLL (Radioactive Ion Beam Line in Lanzhou) corrector magnet at HIRFL (Heavy Ion Research Facility in Lanzhou). Adopting two parallel connected IGBT full-bridges as the power circuit topology, the power supply can generate bipolar DC current when it runs in the fourquadrant working states, which well meets the requirements of corrector magnet. SOPC platform of Altera based on Nios II is chosen to design the digital power supply regulator. Employing FPGA as the control core and utilizing SOPC principles, the digital regulator is designed against special requirements of accelerator power supply. The test results indicate that performance of the power supply can meet the design requirements.
+
+ 
+
+
+ 
+
+
+
+MOPWA015
+The Control Strategy Research on Two Kinds of Topological Pulse Power Supply
+693
+
+
+ 
+
+C.F. Shi, D.Q. Gao, Y.Z. Huang, H.H. Yan, Z.Z. Zhou
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+This paper introduces a kind of pulsed power supply at HIRFL-CSR，analyzes the ripple and current error of the quadrupole magnet power supply in the operation process, and gives a two-stage topology of pulsed power supply. The control method is simulinked and the results show that the new one can make up for the deficiencies of the existing pulse power supply and the main circuit structure and control method are feasible.
+
+ 
+
+
+ 
+
+
+
+MOPWA017
+Design of the 500 kA Linear Transformer Driver Stage
+696
+
+
+ 
+
+T.X. Liang, X.F. Jiang, A.C. Qiu, F.J. Sun, Z.G. Wang, J.H. Yin, Z. Zhang
+                       NINT, Xi'an, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by the funding of National Natural Science of China (Grant No. 51077111) and Stage Key Laboratory of Electrical Insulation and Power Equipment(Grant No.51077111) , Xi’an Jiaotong Univercity.
+Linear transformer driver (LTD) is a novel fast discharge high pulsed power source. It can realize many LTD stages in series or parallel conveniently, and can directly acquire 100~200ns high power pulse. The pulse maybe realizes to directly drive load without any pulse compressing and forming unit. This paper introduces the latest development of fast LTD technology in abroad. The 100kV/500kA LTD stage with the rise time of 150ns has been designed. The stage is consisting of 20 discharging bricks in parallel. The simplified circuit model of LTD stage is given and the output parameters are simulated with universal circuit simulation software program, and the matched load current of 500kA and the rise time of about 150ns is obtained at the charging voltage of the capacitors about ±80kV.
+Tianxue Liang is with the State Key Laboratory of Environment Simulation and Effect for Intense Pulsed Radiation, Northwest Institute of Nuclear Technology, P. O. Box 69-10, Xi’an 710024, China(phone:86-029-84767380; e-mail: liangtxlkk@163.com).
+
+ 
+
+
+ 
+
+
+
+MOPWA018
+CW-type HV Power Supply of 50 Hz and its Application in Accelerator Power Supply
+699
+
+
+ 
+
+Z.-F. He, D.M. Li, Y.H. Liu, S.L. Wang, J.-L. Zhang, Y.-T. Zhang
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: The Knowledge Innovation Program of Chinese Academy of Sciences
+　　The high-voltage power supply is an integral part of accelerator technology, as its stable and reliable output is an important guarantee for accelerator properly working. In a number of engineering practice of accelerator design and construction, we tried to use the Cockcroft-Walton (CW) type of power supply driven by 50 Hz and got success. It is of simple structure, low cost, easy maintenance, and high efficiency. This report describes the technical difficulties and the solutions in the CW-type power supply driven by 50 Hz. It also gives an introduction of the latest design of 800 kV/30 mA electron accelerator, which is being assembled at SINAP. Recent work has shown that it is an option to choose 50 Hz driven power system when it is more lenient on the voltage ripple but needed to be as high as possible on the energy conversion efficiency.
+
+ 
+
+
+ 
+
+
+
+MOPWA019
+Digital Power Supply Controller Development Based on FPGA
+702
+
+
+ 
+
+R.N. Xu, C.L. Guo, D.M. Li, R. Li, S. Tan, W.F. Wu
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+A digital power supply controller of SSRF (Shanghai Synchrotron Radiation Facility) adops advanced DSP, FPGA and precision ADC as core unit and data acquisition unit. The controller, which is embedded in the power supply case, is composed of two cards, DSP card and ADC card. The controller can communicate with IOC by optical fiber via the Ethernet, Manchester or RS-232 port. The parameters of adjusting power supply can be easily changed to achieve high stability and repeatability. The long-term stability is better than 20ppm. The resolution of current is better than 5ppm. As a replacement of imported PSI controller, the controller is mainly used in middle power supplies in SSRF, and it could accord with all the technical requirements of the facility.
+
+ 
+
+
+ 
+
+
+
+MOPWA021
+Design of the Air Cooling System for the High Voltage Power Supply of a Electron Accelerator
+705
+
+
+ 
+
+F. Zhong, X. Lei, J. Yang, L. Yang
+                       HUST, Wuhan, People's Republic of China
+
+ 
+
+
+ 
+
+High voltage electron accelerators are widely applied in many fields of radiation pro-cessing,and the high voltage power supply is the critical equipment for the accelerator. for the requirement of high voltage, the design of locate the power supply in a steel barrel filled with SF6 is commonly used. Considering the various losses of the power supply, an air-cooling system is needed. This paper presents the design of the air-cooling system for the high voltage power supply. The fluid simulation of SF6 based on Fluent and the optimal design of the air duct's structure and the thermal efficiency have been done. The comparison and analysis of the simulation and the empirical formula result is also carried out. It illustrates the design of the air-cooling system can satisfy the demand of the heat radiation This paper also provides an effective method for the optimal design of the air duct's structure and the maximize efficiency of heat exchange.
+
+ 
+
+
+ 
+
+
+
+MOPWA022
+A 500 kV Pulser with Fast Risetime for EMP Simulation
+708
+
+
+ 
+
+W. Jia, W.Q. Chen, J.N. Li, J.P. Tang, L.S. Xie, Y.Z. Xie, G.W. Zhang
+                       NINT, Xi'an, People's Republic of China
+
+ 
+
+
+ 
+
+A fast risetime generator with 500kV rated output voltage for the electromagnetic pulse ( EMP ) effects experiment is fabricated. It mainly consists of a low inductance Marx ge nerator, a compact independent-sealed peaking capacitor, an output switch, and a small quantity of gas-sealed insulated containers. Compared with other similar pulsers mentioned in IEC 61000-4-32, the insulated containers of the generator are independent of each other in gas-sealed structure, and its number is les s than that of other pulsers. It can be used to drive a guided wave antenna directly to produce an electromagnetic environment, which conformed with the new standard for high-altitude nuclear explosion electromagnetic pulse (HEMP) developed by IEC. Output voltage produced by the generator in demo-load state can reach to 600kV. And, risetime of the waveform is 1.2ns, pulse width (FWHM) being 32ns. When the generator driving a 10m guided-wave antenna, an output voltage with a risetime of no more than 2.7ns and a FWHM of 30ns is achieved.
+
+ 
+
+
+ 
+
+
+
+MOPWA023
+A Low Jitter Pulse Generator Based on Two-stage Storage Module
+711
+
+
+ 
+
+J.N. Li, W.Q. Chen, F. Guo, W. Jia
+                       NINT, Xi'an, People's Republic of China
+
+ 
+
+
+ 
+
+A scheme for a low jitter pulse generator based on two-stage storage module is described. The thyristor is used for the first stage of the generator, the UV-illumination gas switch is used for the second stage of the generator. Between them, the pulsed transformer is used for connecting. A capacitance-resistance coupling structure was designed to produce UV light which triggered the switch to decrease the breakdown jitter. The test result shows, the risetime of the current is 0.73μs, the peak value of the current is 1.8kA on 1.1Ω load. The delay of the generator is 35.1μs, and the jitter of the generator attaches to 0.22μs.
+
+ 
+
+
+ 
+
+
+
+MOPWA025
+2Hz Ramping Mode Dipole Power Supply for Testing the NSLSII Booster Dipole Magnets
+714
+
+
+ 
+
+A.I. Erokhin, A.V. Bulatov, K. Gorchakov, S.M. Gurov, V.V. Kolmogorov, A.A. Kremnev, D.N. Pureskin, D.V. Senkov, R.V. Vakhrushev
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Budker Institute has designed and delivered Booster for NSLSII project including vacuum system, magnet system, diagnostics and power supplies. Dipole power supplies were directly delivered to BNL by sub-contractor (Danfysik, Denmark). To test dipole magnets on factory side, at BINP, it was decided to design and construct a high current ramping mode power supply. The designed power supply can operate with the reactive output power up to 150kVA and output current up to 900A at 2Hz ramping mode. The absolute accuracy achieved is better than 100ppm for the injection and extraction flats and better than 500ppm for the ramps.
+
+ 
+
+
+ 
+
+
+
+MOPWA026
+Fast Magnetic Kickers for the NSLS-II Booster-Synchrotron: Design and Test Results
+717
+
+
+ 
+
+D.A. Shvedov, O. Anchugov, V.A. Kiselev, A.A. Korepanov, S.V. Sinyatkin
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+For the purpose of realization of single-turn injection and extraction from the NSLS-II booster synchrotron, BINP members created nanosecond non-vacuum ferrite kickers with fronts of pulsed magnetic field of ~ 200 ns, flat-top duration of 300 nsec and its instability of 0.2/1% at most. This paper describes the design of unique kicker magnets with ceramic vacuum chambers with deposited longitudinal strips of titanium nitride (TiN) inside. The paper also presents the results of bench tests of the kickers: oscillograms of current pulse in bus bars, the shape of the pulsed magnetic field, and transverse distribution of the longitudinal field integral in the kicker aperture.
+
+ 
+
+
+ 
+
+
+
+MOPWA027
+Pulse Power Supplies for Kicker Magnets of NSLS-2 Booster Ring
+720
+
+
+ 
+
+A.A. Korepanov, A. Akimov, A.A. Pachkov, A. Panov
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+A set of identical ferrite kicker modules is utilized for the injection and extraction of the NSLS-2 booster ring. The pulse power supplies of these modules are based on the PFN-thyratron design. The pulse current amplitude of up to 4 kA at 300 ns flat top duration and PFN charging voltage of up to 23 kV were achieved on the extraction pulsers. The pulse to pulse repeatability of the output current waveform was measured and made up to 0.05% (σ) at nominal current for the extraction pulsers. The injection pulsers have a specification on the reverse current overshoot to be less than 0.5% of the amplitude. To fulfill this requirement a single turn saturated choke in the thyratron circuit was used. The design and the test results of the power supplies on NSLS-2 site are presented in the paper.
+
+ 
+
+
+ 
+
+
+
+MOPWA028
+Power System for Quadrupole Magnets of NSLS-II 3 GeV Booster
+723
+
+
+ 
+
+D.V. Senkov, A.I. Erokhin, V.V. Kolmogorov, A.S. Medvedko, S.I. Potapov, D.N. Pureskin
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Power system for quadrupole magnets of NSLS-II 3 GeV booster is designed, manufactured and tested in BINP, Russia. The power system consists of 2 parts. The first part is a charging source with a capacitance bank at output. And the second part consists of 3 current sources powered by a capacitance bank. The charging source output voltage is up to 180 V, peak power is 40 kW and average power is 20 kW. Capacitance bank has a 120 kVA storage energy. The second part contains 3 independent current sources with up to 180 A output current each. This report considers the details of current sources design, their parameters and results of inspection test in BINP. Finally, the first results of injection and extraction section commissioning at BNL site are reported.
+
+ 
+
+
+ 
+
+
+
+MOPWA029
+Pulse Generators for Septums and Bumps of Injection and Extraction Systems  of NSLS-II Booster
+726
+
+
+ 
+
+D.V. Senkov, A.M. Batrakov, A.D. Chernyakin, V.A. Kiselev, A.V. Pavlenko, A.N. Zhuravlev
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Pulse generators for injection and extraction systems of NSLS-II 3 GeV booster are designed, manufactured and tested in BINP, Russia and installed and tested at BNL site. This report considers the details of bump, injection septum and extraction septum pulse generators design, their parameters and results of inspection test in BINP. The design and electronics features of control system of pulse generators are presented. Finally, the first results of injection and extraction section commissioning at BNL site are reported.
+
+ 
+
+
+ 
+
+
+
+MOPWA030
+Upgrade of the LHC Injection Kicker Magnets
+729
+
+
+ 
+
+M.J. Barnes, P. Adraktas, V. Baglin, G. Bregliozzi, S. Calatroni, F. Caspers, H.A. Day, L. Ducimetière, M. Garlaschè, V. Gomes Namora, J.M. Jimenez, N. Magnin, V. Mertens, E. Métral, B. Salvant, M. Taborelli, J.A. Uythoven, W.J.M. Weterings
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The two LHC injection kicker systems, comprising 4 magnets per ring, produce a kick of 1.3 T.m with a rise-time of less than 900 ns and a flattop ripple of less than ±0.5%. A beam screen is placed in the aperture of each magnet, to provide a path for the image current of the high intensity LHC beam and screen the ferrite yoke against wake fields. The screen consists of a ceramic tube with conductors in the inner wall. The initially implemented beam screen ensured a low rate of electrical breakdowns while providing an adequate beam coupling impedance. Operation with increasingly higher intensity beams, stable for many hours at a time, now results in substantial heating of the ferrite yoke, sometimes requiring cool down over several hours before the LHC can be refilled. During the long shutdown in 2013/2014 all 8 kicker magnets will be upgraded with an improved beam screen and an increased emissivity of the vacuum tank. In addition equipment adjacent to the injection kickers and various vacuum components will also be modified to help reduce the vacuum pressure in the kickers during high-intensity operation. This paper discusses the upgrades as well as their preparation and planning.
+
+ 
+
+
+ 
+
+
+
+MOPWA031
+Beam Induced Ferrite Heating of the LHC Injection Kickers and Proposals for Improved Cooling
+732
+
+
+ 
+
+M.J. Barnes, S. Calatroni, F. Caspers, L. Ducimetière, M. Garlaschè, V. Gomes Namora, V. Mertens, Z.K. Sobiech, M. Taborelli, J.A. Uythoven, W.J.M. Weterings
+                       CERN, Geneva, Switzerland
+H.A. Day
+                       UMAN, Manchester, United Kingdom
+
+ 
+
+
+ 
+
+The two LHC injection kicker systems produce a kick of 1.3 T.m with a flattop duration variable up to 7860 ns, and rise and fall times of less than 900 ns and 3000 ns, respectively. A beam screen is placed in the aperture of each magnet, which consists of a ceramic tube with conductors in the inner wall. The conductors provide a path for the beam image current and screen the ferrite yoke against wake fields. Recent LHC operation, with high intensity beam stable for many hours, resulted in significant heating of both the ferrite yoke and beam impedance reduction ferrites. For one kicker magnet the ferrite yoke approached its Curie temperature. As a result of a long thermal time-constant the ferrites can require several hours to cool enough to re-inject beam, thus limiting the availability of the LHC. Thermal measurement data has been analysed, a thermal model developed and emissivity measurements carried out. The effects of various measures to improve the ferrite cooling have been simulated, including an improved emissivity of the vacuum tank and active cooling on the outside of the tank.
+
+ 
+
+
+ 
+
+
+
+MOPWA032
+Reduction of Surface Flashover of the Beam Screen of the LHC Injection Kickers
+735
+
+
+ 
+
+M.J. Barnes, P. Adraktas, S. Calatroni, F. Caspers, L. Ducimetière, V. Gomes Namora, V. Mertens, R. Noulibos, M. Taborelli, B. Teissandier, J.A. Uythoven, W.J.M. Weterings
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHC injection kicker magnets include beam screens to shield the ferrite yokes against wake fields resulting from the high intensity beam. The screening is provided by conductors lodged in the inner wall of a ceramic support tube. Operation with increasingly higher bunch intensity, and narrow bunches, now requires improved ferrite screening. This will be implemented by additional conductors; however the good high-voltage behaviour of the kicker magnets must not be compromised by the supplementary screening. Extensive studies and optimisations have been carried out, to better satisfy the often conflicting requirements for low beam coupling impedance, fast magnetic field rise-time, high vacuum and good high voltage behaviour. A new configuration is proposed which reduces significantly the electric field associated with the screen conductors and the secondary electron yield of the surface of the ceramic tube. Results of high voltage test results are also presented.
+
+ 
+
+
+ 
+
+
+
+MOPWA033
+Modelling of Parasitic Inductances of a High Precision Inductive Adder for CLIC
+738
+
+
+ 
+
+J. Holma, M.J. Barnes
+                       CERN, Geneva, Switzerland
+S.J. Ovaska
+                       Aalto University, School of Science and Technology, Aalto, Finland
+
+ 
+
+
+ 
+
+The CLIC study is exploring the scheme for an electron-positron collider with high luminosity and a nominal centre-of-mass energy of 3 TeV. The CLIC pre-damping rings and damping rings will produce, through synchrotron radiation, ultra-low emittance beam with high bunch charge. To avoid beam emittance increase, the damping ring kicker systems must provide extremely flat, high-voltage, pulses. The specifications for the extraction kickers of the DRs are particularly demanding: the flat-top of the pulses must be ±12.5 kV with a combined ripple and droop of not more than ±0.02 % (±2.5 V). An inductive adder is a very promising approach to meeting the specifications. However, the output impedance of the inductive adder needs to be well matched to the system impedance. The primary leakage inductance, which cannot be computed accurately analytically, has a significant effect upon the output impedance of the inductive adder. This paper presents predictions, obtained by modelling the 3D geometry of the adder structure and printed circuit boards using the FastHenry code, for primary leakage inductance.
+
+ 
+
+
+ 
+
+
+
+MOPWA034
+Electron Tracking Simulations in the Presence of the Beam and External Fields
+741
+
+
+ 
+
+M. Patecki, B. Dehning, G. Iadarola, M. Sapinski
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The ionisation profile monitors installed in the CERN LHC and SPS, makes use of the ionisation of small quantities of injected neon gas by the circulating beam. The electrons produced are guided towards the readout system using a combination of electric and magnetic fields. However, in the presence of the beam field their tracks are modified and the resulting profile is distorted. The Geant4 physics simulation package has been used to simulate the ionisation process, while the CERN-developed PyECLOUD code has been used for tracking the resulting ionised particles. In this paper the results of simulations are compared with observations, with conclusions presented on the accuracy of the reconstruction of high-intensity beam profiles.
+
+ 
+
+
+ 
+
+
+
+MOPWA035
+Beam Loss Studies for the CERN PS Booster using FLUKA
+744
+
+
+ 
+
+S. Damjanovic, B. Dehning, B. Mikulec, M. Sapinski
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In view of future upgrade plans, the beam loss monitor (BLM) coverage of the PS Booster (PSB) rings was reviewed. The response of two types of monitors, LHC-IC and LHC-LIC, has been studied with FLUKA at LINAC4 injection and PSB extraction energies. The goal of this study was to find out whether the current beam loss monitor coverage of two monitors at a certain location per PSB section was adapted to potential beam losses associated with a future Linac4 injection. The outcome of this study was a proposal to double the number of beam loss monitors in the PSB section by using a combination of horizontally oriented LHC-IC and LHC-LIC type monitors.
+
+ 
+
+
+ 
+
+
+
+MOPWA036
+GEM Detectors for the Transverse Profile Measurement of Low Energy Antiprotons and High Energy Hadrons
+747
+
+
+ 
+
+J. Spanggaard, P. Carriere, S.C. Duarte Pinto, G. Tranquille
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Gas Electron Multipliers (GEM) are finding more and more applications in beam instrumentation. Gas Electron Multiplication is a very similar physical phenomenon to that which occurs in Multi Wire Proportional Chambers (MWPC), but for small profile monitors GEMs are much more cost effective to produce and maintain. In 2012, all Multi-Wire Proportional Chambers in the experimental areas of the Antiproton Decelerator at CERN were successfully replaced by Gas Electron Multipliers. This paper describes the choice of detector and reports on the commissioning of 20 GEM detectors for transverse profile measurement on low energy antiproton beams (5.3 MeV, equal to 100 MeV/c). It will also cover the development of, and first results from, a new 200x200 mm GEM detector for profiling the high energy muon beam (172 GeV/c) delivered to the COMPASS experiment and discuss the outlook for replacing all Multi-Wire Proportional Chambers in the CERN experimental areas by GEM based monitors.
+
+ 
+
+
+ 
+
+
+
+MOPWA037
+Commissioning of the CERN Linac4 BPM System with 50 MeV Proton Beams
+750
+
+
+ 
+
+J. Tan, M. Ludwig, L. Søby, M. Sordet, M. Wendt
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The new Linac4 at CERN will provide a 160 MeV H− ion beam for charge-exchange injection into the existing CERN accelerator complex. Shorted stripline pick-ups placed in the Linac intertank regions and the transfer lines will measure beam orbit, relative beam current, beam phase, and average beam energy via the time-of-flight between two beam pickups. A prototype Beam Position Monitor (BPM) system has been installed in the transfer line between the existing Linac2 and the Proton Synchrotron Booster (PSB) in order to study and review the complete acquisition chain. This paper presents measurements and performance of this BPM system operating with 50 MeV proton beams, and compares the results with laboratory measurements and electromagnetic simulations.
+
+ 
+
+
+ 
+
+
+
+MOPWA038
+Flashbox Compact Beam Spectrometer and its Application to the High-gradient Acceleration Study
+753
+
+
+ 
+
+A. Dubrovskiy, F. Tecker
+                       CERN, Geneva, Switzerland
+M. Jacewicz, R.J.M.Y. Ruber, V.G. Ziemann
+                       Uppsala University, Uppsala, Sweden
+
+ 
+
+
+ 
+
+A Flashbox compact spectrometer has been developed for the Two-beam Test Stand (TBTS), which is a part of the CLIC test facility CTF3 at CERN. It is used to study limitations of high-gradient acceleration in X-band structures being prototyped in the TBTS. The Flashbox is built around the beam tube such that an electron beam can pass to be accelerated in the X-band structure while charged particles emitted from the accelerating structure can be intercepted on the spectrometer consisting of detector plates aligned along the beam axis in combination with magnetic and electric fields. The Flashbox has made it possible to identify electrons and ions emitted by the accelerating structure during RF breakdown. We describe the Flashbox and first results.
+
+ 
+
+
+ 
+
+
+
+MOPWA040
+Bipolar 10A and 50A Magnet Power Supplies for SwissFEL
+756
+
+
+ 
+
+R. Künzi, M. Emmenegger
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+15 years ago the Power Electronics Group at PSI, Switzerland developed power supplies (PS) for the magnets of the Swiss Light Source (SLS). These PS are based on switched mode converters with fully digital control. During the 12 years of operation of the SLS they have shown a very good reliability but also revealed some potential for improvement: After several years of operation the many fans installed started to fail more frequently and the same was observed for “off-the-shelf” AC/DC converters for the DC link. For the new SwissFEL, which shall be in service by 2016, approx. 610 PS rated at 10A and 40 PS rated at 50A will be necessary. As for any accelerator application high stability and reliability of the magnet PS are essential for high beam quality and availability. The development of the SwissFEL PS aims to raise the already good reliability by omitting as many fans as possible and adding redundancy for the AC/DC converters. Presently, a prototype rack with 21 10A PS is available and the mass production has started. The presented paper describes the PS concept and test results of the prototype regarding stability and efficiency are given.
+
+ 
+
+
+ 
+
+
+
+MOPWA041
+The New SLS Beam Size Monitor, First Results
+759
+
+
+ 
+
+Á. Saá Hernández, N. Milas, M. Rohrer, V. Schlott, A. Streun
+                       PSI, Villigen PSI, Switzerland
+Å. Andersson, J. Breunlin
+                       MAX-lab, Lund, Sweden
+
+ 
+
+
+ 
+
+Funding: This research has received funding from the European Commission under the FP7-INFRASTRUCTURES-2010-1/INFRA-2010-2.2.11 project TIARA (CNI-PP). Grant agreement no. 261905.
+An extremely small vertical beam size of 3.6 μm, corresponding to a vertical emittance of 0.9 pm, only about five times bigger than the quantum limit, has been achieved at the storage ring of the Swiss Light Source (SLS). The measurement was performed by means of a beam size monitor based on the imaging of the vertically polarized synchrotron radiation in the visible and UV spectral ranges. However, the resolution limit of the monitor was reached during the last measurement campaign and prevented further emittance minimization. In the context of the work package “SLS Vertical Emittance Tuning” of the TIARA collaboration, a new improved monitor was built. It provides larger magnification, an increase of resolution and enables two complementary methods of measurement: imaging and interferometry. In this paper we present the design, installation, commissioning, performance studies and first results obtained with the new monitor.
+
+ 
+
+
+ 
+
+
+
+MOPWA042
+The Leakage Current Induced by Stray Capacitance in the Pulse Magnet System
+762
+
+
+ 
+
+C.S. Chen, C.K. Chan, K.H. Hsu, Y.-H. Liu, C.S. Yang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+A huge amount of current must be provided during the nominal operation of the pulse magnet system in TPS (Taiwan Photon Source). It comes with all kinds of electromagnetic noises, including radiated and conducted EMI (electromagnetic interferences). The primary object of this article is to clarify the paths of induced EMI, especially by means of capacitance induction. Furthermore, some geometrical suggestions which had been tested are listed in this paper as the guidelines of the pulse magnet design. According to the measurement, proper distance and surface area lead to sufficient insulation and reduce the leakage current under the expected value.
+
+ 
+
+
+ 
+
+
+
+MOPWA043
+The HV Withstands Test for In Vacuum Booster Kicker
+765
+
+
+ 
+
+Y.-H. Liu, C.K. Chan, C.S. Chen, H.H. Chen, J.-R. Chen, K.H. Hsu, H.P. Hsueh, Y.T. Huang, C.S. Yang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The maximum driving voltage of TPS booster extraction kicker is close to 30 kV, the HV insulation should be carefully noticed. A DC withstand voltage tester MUSASHI 3802 (Model: IP-701G) is used to test the DC breakdown voltage, which the maximum driving voltage is 37 kV. The 10 mm gap between coil and ferrite is designed in order to increase HV break down voltage. The safety breakdown distance between HV coil and grounding plate was tested in air. Different insulation material with different thickness was tested the breakdown voltage. Thicker than 10 mm ceramic plate could effectively avoid the breakdown occurred with 37 kV DC charging. Thus HV withstand voltage will be higher in vacuum chamber and the insulation with HV will not be the problem.
+
+ 
+
+
+ 
+
+
+
+MOPWA044
+TLS Booster Measurement and Observation by New BPM Electronics
+768
+
+
+ 
+
+P.C. Chiu, J. Chen, Y.-S. Cheng, K.T. Hsu, S.Y. Hsu, K.H. Hu, C.H. Kuo
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Taiwan Light Source (TLS) is a 1.5 GeV synchrotron based light source and its booster synchrotron was delivered in 1992. Due to the new project Taiwan Photon Source proceeded at the same site, some up-to-date device are available now before TPS civil construction complete and temporarily adapted for TLS booster to improve its operations. The major parameters of the TLS booster synchrotron are measured. It also provides a chance to experience for the TPS project booster diagnostic.
+
+ 
+
+
+ 
+
+
+
+MOPWA045
+The Pulsed Power Supply System for TPS Project
+771
+
+
+ 
+
+C.-S. Fann, C.L. Chen, K.T. Hsu, S.Y. Hsu, A.P. Lee, K.-K. Lin, K.L. Tsai
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The pulsed power supply system for TPS project consists of three types of pulser for booster injection/extraction and storage ring injection. Categorizing by the delivered peak current, pulse shape base-width, they are for: 1) booster kicker: 500 A, square, 1 μs; 2) storage ring kicker: 5 kA, half-sine, 5 μs; 3) transfer line septum: 10 kA, half-sine, 300 μs; respectively. All together, there are 10 units constructed for the associated pulsed magnets. In this report, the test results of the pulsed power supplies will be summarized and the measured results of their performance are presented.
+
+ 
+
+
+ 
+
+
+
+MOPWA046
+The Multi-channel Measuring Data Acquisition Interface for TPS Quadrupole and Sextupole Magnet Power Supplies by using LabVIEW as the Developing Tool
+774
+
+
+ 
+
+B.S. Wang, Y.-C. Chien, C.-Y. Liu, K.-B. Liu
+                       NSRRC, Hsinchu, Taiwan
+H.P. Tsai
+                       Chroma ATE Inc., Taiwan
+
+ 
+
+
+ 
+
+This paper presents an implementation of a multi-channel measuring data acquisition interface of quadrupole and sextupole magnet power supplies (MPS) for Taiwan Photon source (TPS) withLabVIEW as the developing tool. The multi-channel measuring data acquisition interface could reduce quantity of measurement instrument and loading of operator at the MPS acceptance test. The instrument devices of measurement system include a multiplexer 、 a dynamic signal analyzer (DSA) and a multi-channel digital voltage meter (DVM), GPIB is the communication protocol betweenthe multi-channel measuring data acquisition interfaceand instruments. There are threeanalyzing procedure for the output currentof MPSin the default setting of the LabVIEW program, 1) Fast Fourier Transform of output current measured by DSA, 2) long-term stability of output current measured by DVM, 3) the linear error function fitting of output current by LabVEW toolbox;after these three analyzing procedureis completed, the performance of each MPS can be automatically generatedas a Microsoft Word report file.
+
+ 
+
+
+ 
+
+
+
+MOPWA047
+Development of a Digital Control Interface Card with a LabVIEW Control Program for TLS Corrector Magnet Power Supply
+777
+
+
+ 
+
+B.S. Wang, K.-B. Liu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+This paper presents an implementation of a virtual instrument control interface and a digitally controlled interface card for Taiwan Light Source (TLS) corrector magnet power supplies (MPS). Eight pieces of corrector MPS converter module are monitored and controlled by the digitally controlled interface card with delimit boundary of ±10 voltage. The digitally controlled interface card was implemented with an ADS1278 24-bits multi-channel analog-to-digital converter、a DAC8718 16-bits multi-channel digital-to-analog converter and the TMS320F28335 digital signal processor. There are two control modes of the virtual instrument control interface, which are 1) local control mode by RS-232, 2) the remote control by MiiNePort\E1 TCP/IP protocol; with the developed Labview control interface the user can choose which mode to communicate with the corrector magnet power supplies depending on the working environment.
+
+ 
+
+
+ 
+
+
+
+MOPWA048
+The Cable Engineering Project for the TPS Power Supply
+780
+
+
+ 
+
+C.-Y. Liu, D.-G. Huang, K.-B. Liu, B.S. Wang
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The civil engineering of Taiwan Photon Source will soon be completed. The engineering of the power supply cabling should be done in advance of the schedule for the completion of the civil engineering. Using software (SolidWorks) to build a 3-D model, we obtain detailed cabling information because the model is made to scale 1 to 1. As all components are built into the model of the TPS accelerator, we can build accurately a model of the power supply cabling. For example, we can estimate every length and the total cable length for purchase and budget control. We can evaluate the conditions for every power cable to lay the cable tray from the power supply to the magnets, so we can lay every cable to follow the sequence in the cable tray. We thereby convert the drawing of the two-dimensional construction graph when we design the finished three-dimensional cabling model. The excellent and precise results are proved in this paper.
+
+ 
+
+
+ 
+
+
+
+MOPWA049
+Status Report of the FETS Photo Detachment Emittance Instrument at RAL
+783
+
+
+ 
+
+C. Gabor
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+G.E. Boorman, A. Bosco, S.M. Gibson
+                       Royal Holloway, University of London, Surrey, United Kingdom
+G.E. Boorman, A. Bosco, S.M. Gibson
+                       JAI, Egham, Surrey, United Kingdom
+A.P. Letchford
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+P. Savage
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+V.E. Scarpine
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+The Front End Test Stand at the Rutherford Appleton Laboratory (RAL) is being developed to demonstrate a chopped H− beam of 60 mA at 3 MeV with 10% duty cycle. Due to the high beam power it is advisable to use the technique of photo detachment to avoid intrusive methods. It is intended to apply this technique to perform emittance measurements at the output of the RFQ at full power. This requires a dedicated diagnostics dipole with a special-made vacuum chamber giving room for the different beam paths necessary to install a particle detector to measure the produced neutrals. Other aspects are the beam transport and influence of the dipole and its fringe field to the beam transport Other considerations are the installation of the laser, the optics and the particle detector itself.
+
+ 
+
+
+ 
+
+
+
+MOPWA050
+Bunch Train Characterisation for an Infra-red FEL Driven by an Energy Recovery Linac
+786
+
+
+ 
+
+T.T. Thakker, D. Angal-Kalinin, D.J. Dunning, F. Jackson, S.P. Jamison, J.K. Jones, N. Thompson
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+The IR-FEL on the ALICE test facility in the UK first achieved lasing in October 2010 and has since been characterised in terms of its output *. In this work we make a characterisation of electron bunch properties along a complete 100us macropulse to characterise the lasing-induced energy change and its effect on energy recovery. Measurements of bunch energy and timing are correlated with the FEL radiation output and discussed.
+* N. R. Thompson et al, ‘First lasing of the ALICE infra-red Free-Electron Laser’, Nuclear Instruments and Methods A, 680 (2012) 117–123
+
+ 
+
+
+ 
+
+
+
+MOPWA051
+ZEMAX Simulations for an Optical System for a Diffraction Radiation Monitor at CesrTA
+789
+
+
+ 
+
+T. Aumeyr, V. Karataev
+                       JAI, Egham, Surrey, United Kingdom
+M.G. Billing
+                       CLASSE, Ithaca, New York, USA
+L.M. Bobb, B. Bolzon, T. Lefèvre, S. Mazzoni
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Diffraction Radiation (DR) is produced when a relativistic charged particle moves in the vicinity of a medium. The target atoms are polarized by the electric field of the charged particle, which then oscillate thus emitting radiation with a very broad spectrum. The spatial-spectral properties of DR are sensitive to various electron beam parameters. Since the energy loss due to DR is so small that the electron beam parameters are unchanged, DR can be used to develop non-invasive diagnostic tools. The aim of this project is to measure the transverse (vertical) beam size using incoherent DR. To achieve the micron-scale resolution required by CLIC, DR in the UV and X-ray spectral-range must be studied. During the next few years, experimental validation of such a scheme will be conducted on the CesrTA at Cornell University, USA. This paper reports on simulations carried out with ZEMAX, studying the optical system used to image the emitted radiation.
+
+ 
+
+
+ 
+
+
+
+MOPWA052
+Short Range Wakefield Measurements of High Resolution RF Cavity Beam Position Monitors at ATF2
+792
+
+
+ 
+
+J. Snuverink, S.T. Boogert, F.J. Cullinan, Y.I. Kim, A. Lyapin
+                       JAI, Egham, Surrey, United Kingdom
+K. Kubo, T. Okugi, T. Tauchi, N. Terunuma, J. Urakawa
+                       KEK, Ibaraki, Japan
+G.R. White
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Cavity beam position monitors (CBPM) have been used in several accelerator facilities and are planned to be used in future accelerators and light sources. High position resolution up to tens of nanometres has been achieved, but short range wakefields are a concern, especially for small beam emittances. This paper presents the wakefield calculations as well as the first measurements of the CBPM-generated short range wakefields performed at the Accelerator Test Facility (ATF2).
+
+ 
+
+
+ 
+
+
+
+MOPWA053
+Sub-Micrometre Resolution Laserwire Transverse Beam Size Measurement System
+795
+
+
+ 
+
+L.J. Nevay, G.A. Blair, S.T. Boogert, V. Karataev, K.O. Kruchinin
+                       Royal Holloway, University of London, Surrey, United Kingdom
+A.S. Aryshev, N. Terunuma, J. Urakawa
+                       KEK, Ibaraki, Japan
+L. Corner, R. Walczak
+                       Oxford University, Physics Department, Oxford, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+Funding: The research leading to these results has received funding from the European Commission under the FP7 Research Infrastructures project Eu-CARD, grant agreement no. 227579
+We present the results from the laserwire system at the Accelerator Test Facility 2 (ATF2) during recent operation after relocation to the virtual image point of the ATF2 final focus. The characterisation of the 150 mJ, 77 ps long laser pulses at a scaled virtual interaction point is used to deconvolve the transverse laserwire profile demonstrating a 1.16 ± 0.06 um vertical electron beam profile. Horizontal laserwire scans were used in combination with the vertical scans to measure the electron beam size using a full overlap integral model due to the problems presented by a large aspect ratio electron beam.
+
+ 
+
+
+ 
+
+
+
+MOPWA055
+Status of Higher Order Mode Beam Position Monitors in 3.9 GHz Superconducting Accelerating Cavities at FLASH
+798
+
+
+ 
+
+P. Zhang, R.M. Jones, I.R.R. Shinton
+                       UMAN, Manchester, United Kingdom
+N. Baboi, P. Zhang
+                       DESY, Hamburg, Germany
+T. Flisgen, U. van Rienen
+                       Rostock University, Faculty of Computer Science and Electrical Engineering, Rostock, Germany
+
+ 
+
+
+ 
+
+Funding: This work was partially funded by the European Commission under the FP7 Research Infrastructures grant agreement No.227579.
+Higher order mode (HOM) beam position monitors (BPM) are being developed for the 3.9GHz third harmonic superconducting accelerating cavities at FLASH. The transverse beam position in a cavity can be determined utilizing beam-excited HOMs based on dipole components. The existing couplers used for HOM suppression provide the necessary signals. The diagnostics principle is similar to a cavity BPM, but requires no additional vacuum instruments on the linac. The challenges lie in the dense HOM spectrum arising from couplings of the majority HOMs amongst the four cavities in the cryo-module. HOMs with particularly promising diagnostics features were evaluated using various devices with various analysis methods. After careful theoretical and experimental assessment of HOMs, multi-cavity modes at ~5GHz were chosen to provide a global position over the complete module with superior resolution (~20μm) while trapped modes at ~9GHz provide local position in each cavity with comparable resolution (~50μm). A similar HOM-BPM system is planned for the European XFEL 3.9GHz module with 8 cavities. This paper reviews both the current status and the future prospects of HOM-BPMs in 3.9GHz cavities.
+
+ 
+
+
+ 
+
+
+
+MOPWA056
+Spectra of Coherent Smith-Purcell Radiation Observed from Short Electron Bunches: Numerical and Experimental Studies
+801
+
+
+ 
+
+F. Bakkali Taheri, G. Doucas, I.V. Konoplev, A. Reichold
+                       JAI, Oxford, United Kingdom
+H.L. Andrews
+                       LANL, Los Alamos, New Mexico, USA
+R. Bartolini
+                       Diamond, Oxfordshire, United Kingdom
+V. Bharadwaj, C.I. Clarke
+                       SLAC, Menlo Park, California, USA
+N. Delerue
+                       LAL, Orsay, France
+N. Fuster Martinez
+                       IFIC, Valencia, Spain
+J.D.A. Smith
+                       TXUK, Warrington, United Kingdom
+P. Stoltz
+                       Tech-X, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: This work performed [in part] under DOE Contract DE-AC02-7600515
+There is a significant interest in the development of compact particle accelerators within research areas including X-ray and THz (T-ray) sources of radiation, particle physics and medical sciences. To support the progress in these areas, non-invasive, electron beam diagnostics that are capable of measuring a single femtosecond electron bunch are required. At the current stage such beam diagnostics for femtosecond-long electron bunches are still not available. The goal of the work presented is to understand the spectral characteristics of coherent Smith-Purcell radiation to enable its quick and reliable interpretation including the longitudinal profile reconstruction of electron bunches. The research presented comprises results from numerical modelling and experimental studies. Using the numerical data, we discuss the radiated spectra dependence on the electron bunch profile and analyse the results. We also discuss the experimental data and compare it with theoretical predictions.
+
+ 
+
+
+ 
+
+
+
+MOPWA057
+Development of a High-resolution, Broad-band, Stripline Beam Position Monitoring System
+804
+
+
+ 
+
+G.B. Christian, D.R. Bett, N. Blaskovic Kraljevic, P. Burrows, M.R. Davis, Y.I. Kim, C. Perry
+                       JAI, Oxford, United Kingdom
+R. Apsimon, B. Constance
+                       CERN, Geneva, Switzerland
+P. Burrows, C. Perry
+                       Oxford University, Physics Department, Oxford, Oxon, United Kingdom
+J. Resta
+                       IFIC, Valencia, Spain
+
+ 
+
+
+ 
+
+A low-latency, sub-micron resolution stripline beam position monitoring system has been developed and tested with beam at the KEK Accelerator Test Facility, where it has been used as part of a feedback system for beam stabilisation. The fast analogue front-end signal processor is based on a single-stage down-mixer and is combined with an FPGA-based system for digitisation and feedback control. A resolution as low as 400 nm has been demonstrated for beam intensities of ~1 nC, with single-pass beam. The latest results of recent modifications to balance the input path lengths to the processor will be discussed. These modifications compensate for the inherent phase sensitivity of the processors, and hence improve the intrinsic resolution, without the need for offline correction. Modifications to the FPGA firmware will also be described, to allow for flexible operation with variable system-synchronous data acquisition at up to 400 MHz, with up to nine data channels of 13-bit width, and a nominal record length of 1 KS/channel/pulse (extensible to a total record length of 120 KS per pulse, for example, for use with long bunch trains or wide-band multi-turn measurements in storage rings).
+
+ 
+
+
+ 
+
+
+
+MOPWA058
+Cavity Beam Position Monitor at Interaction Point Region of Accelerator Test Facility 2
+807
+
+
+ 
+
+Y.I. Kim, D.R. Bett, N. Blaskovic Kraljevic, P. Burrows, G.B. Christian, M.R. Davis, A. Lyapin
+                       JAI, Oxford, United Kingdom
+S.T. Boogert
+                       Royal Holloway, University of London, Surrey, United Kingdom
+J.C. Frisch, D.J. McCormick, J. Nelson, G.R. White
+                       SLAC, Menlo Park, California, USA
+Y. Honda, T. Tauchi, N. Terunuma, J. Urakawa
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Nanometre resolution cavity beam position monitors (BPMs) have been developed to measure the beam position and linked to a feedback system control the beam position stability within few nanometres in the vertical direction at the focus, or interaction point (IP), of Accelerator Test Facility 2 (ATF2). In addition, for feedback applications a lower-Q and hence faster decay time system is desirable. Two IPBPMs have been installed inside of IP chamber at the ATF2 focus area. To measure the resolution of IPBPMs two additional C-band cavity BPMs have been installed one upstream and one downstream of the IP. One cavity BPM has been installed at an upstream image point of IP. The performance of the BPMs is discussed and the correlation between IP and image point positions is presented along with a discussion of using these BPMs for position stabilisation at the IP.
+
+ 
+
+
+ 
+
+
+
+MOPWA059
+Beam Emittance Measurements and Beam Transport Optimization at the Clatterbridge Cancer Centre
+810
+
+
+ 
+
+T. Cybulski, O. Karamyshev, C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+A. Degiovanni
+                       TERA, Novara, Italy
+A. Kacperek, B. Marsland, I. Taylor, A. Wray
+                       The Douglas Cyclotron, The Clatterbridge Cancer Centre NHS Foundation Trust, Wirral, United Kingdom
+O. Karamyshev, C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Cockcroft Institute, Daresbury, Warrington, WA4 4AD, United Kingdom University of Liverpool, Liverpool, United Kingdom
+The QUASAR Group is preparing tests of the high energy physics LHCb VELO detector as a non–invasive online dose monitor at the 60 MeV proton therapy beam at the Clatterbridge Cancer Centre (CCC), UK. The proposed method relies on the cross-correlation between the beam halo signal as measured by VELO and the dose delivered to the patient, linked via the absolute intensity of the beam. In order to estimate the expected halo signal and the total beam intensity, studies into proton beam transport through the whole CCC beam line have been carried out. This required the measurement of beam emittance at several positions of the beam delivery system. Quadrupole scans have been realized using a CsI (Tl) scintillating screen in combination with an 8 bit, 13 Mpixel CCD camera. In this contribution, results from measurements are presented and include a discussion of the effects from dispersion in the beam. Experimental data are compared against earlier measurements performed in 1998 and are used as a basis for suggestions targeting an overall optimization of beam transport at CCC.
+* Assessing the Suitability of a Medical Cyclotron as an Injector for an Energy Upgrade, J. A. Clarke et all , CLRC Daresbury Laboratory, Warrington, UK 
+
+ 
+
+
+ 
+
+
+
+MOPWA060
+DITANET - An International Network in Beam Diagnostics
+813
+
+
+ 
+
+C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Work supported by the EU under contract 215080.
+Beam diagnostics systems are essential constituents of any particle accelerator; they reveal the properties of a beam and how it behaves in a machine. Without an appropriate set of diagnostic elements, it would simply be impossible to operate any accelerator complex, let alone optimize its performance. Beam diagnostics is also a rich field in which a great variety of physical effects are made use of and consequently provides a wide interdisciplinary base for the training of researchers. The DITANET Consortium develops beyond state-of-the-art beam diagnostic techniques for hadron and electron accelerators and trained more than 20 researchers between 2008 and 2012. This contribution summarizes the network's research outcomes in beam instrumentation and diagnostics.
+
+ 
+
+
+ 
+
+
+
+MOPWA061
+A New Tool for Longitudinal Tomography in Fermilab's Main Injector and Recycler Rings
+816
+
+
+ 
+
+N.J. Evans, S.E. Kopp
+                       The University of Texas at Austin, Austin, Texas, USA
+P. Adamson, D.J. Scott
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: U.S Department of Energy
+We are developing software to compute tomographic reconstructions of longitudinal phase space distributions in the Fermi National Accelerator Laboratory Main Injector and Recycler rings using data from existing resistive wall current monitors to diagnose beam quality at injection and provide input distributions for simulation of losses. Building on the algorithm developed by *S. Hancock et al. at CERN the software is able to process a full synchrotron period of a Booster batch of 81 bunches with 18.94 ns spacing and a sampling rate of 2.5 GHz, in < 30 sec, or every ~270 injections. Processing an entire injection opens up the possibility of investigating coupled bunch instabilities via tomography. To speed reconstruction for use on a full injection, phase space maps are created once for a given set of parameters and saved for injections with similar machine settings. We present an overview of the system and studies done on the effect of small errors present including: random noise, mismatch between sampling rate and machine period, errors in locating bunch centers, and trigger jitter.
+*Tomographic Measurements of Longitudinal Phase Space Density; 1998 ed. - Hancock, S et al - CERN-PS-98-030-RF
+
+ 
+
+
+ 
+
+
+
+MOPWA062
+Transverse Beam Halo Measurements at High Intensity Neutrino Source (HINS) using Vibrating Wire Monitor
+819
+
+
+ 
+
+M. Chung, B.M. Hanna, V.E. Scarpine, V.D. Shiltsev, J. Steimel
+                       Fermilab, Batavia, USA
+S. Artinian
+                       BERGOZ Instrumentation, Saint Genis Pouilly, France
+S.G. Arutunian
+                       ANSL, Yerevan, Armenia
+
+ 
+
+
+ 
+
+Funding: Research supported by the U.S. Department of Energy.
+Measurement and control of transverse beam halo will be critical for the applications of future high-intensity hadron linacs. In particular, beam profile monitors require a very high dynamic range when using for transverse beam halo measurements. In this study, the Vibrating Wire Monitor (VWM) with aperture 60 mm was installed at the High Intensity Neutrino Source (HINS) front-end to measure transverse beam halo. A vibrating wire is excited at its resonance frequency with the help of a magnetic feedback loop, and the vibrating and sensitive wires are connected through a balanced arm. The sensitive wire is moved into the beam halo region by a stepper motor controlled translational stage. We study the feasibility of the vibrating wire for transverse beam halo measurements in the low-energy front-end of the proton linac.
+
+ 
+
+
+ 
+
+
+
+MOPWA063
+Proposed Coherent Diffraction Radiation Measurements of Bunch Length at ASTA
+822
+
+
+ 
+
+A.H. Lumpkin, J. Ruan, R.M. Thurman-Keup
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+The feasibility of using the autocorrelation of coherent diffraction radiation (CDR) as a non-intercepting diagnostics technique for bunch length and indirectly rf phase measurements is evaluated and proposed for the Advanced Superconducting Test Accelerator (ASTA) facility under construction at Fermilab. Previous experiments on an rf thermionic cathode gun beam at 50 MeV provide a proof-of-principle reference for the ASTA injector. The ASTA injector is based on an L-band rf photocathode (PC) gun with UV pulse drive laser, two L-band superconducting accelerator structures, a chicane bunch compressor, and an electron spectrometer. The injector energy of 40-50 MeV is expected. The 3-MHz micropulse repetition rate with micropulse charges up to to 3.2 nC and 1-ps bunch lengths should generate sufficient CDR signal for standard pyroelectric detectors to be used. The CDR signals will also be evaluated as a bunch compression signal for beam-based feedback for rf phase. The technique would also be applicable at high energy in straight transport lines after the cryomodules.
+
+ 
+
+
+ 
+
+
+
+MOPWA064
+Microwave Resonator Diagnostics of Electron Cloud Density Profile in High Intensity Proton Beam
+825
+
+
+ 
+
+Y.-M. Shin, J. Ruan, C.-Y. Tan, J.C.T. Thangaraj, R.M. Zwaska
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+We have developed an novel technique to accurately estimate the density of dilute electron clouds emitted from high intensity proton beams. The strong phase shift enhancement from multiple reflections of standing microwaves in a resonating beam pipe cavity has been demonstrated with numerical modeling using dielectric approximation and e S-parameter measurements. The equivalent dielectric simulation showed a ~ 10 times phase shift enhancement (Pi-mode, 1.516 GHz) with the cavity beam pipe compared to the waveguide model. The position-dependence of the technique is investigated by overlapping the field distributions of harmonic resonances. The simulation with various positions of dielectric insertions confirmed that resonance peaks in phase-shift spectra corresponding to the relative distance between field-nodes and electron cloud position, which allows for one-dimensional mapping. Preliminary experimental studies based on a bench-top setup confirm the results of the simulation showing that thicker reflectors enhance the phase-shift measurement of the electron cloud density.
+
+ 
+
+
+ 
+
+
+
+MOPWA065
+Affordable, Short Pulse MARX Modulator
+828
+
+
+ 
+
+R.A. Phillips, M.P.J. Gaudreau, M.K. Kempkes, B.E. Simpson
+                       Diversified Technologies, Inc., Bedford, Massachusetts, USA
+J.A. Casey
+                       Rockfield Research Inc., Las Vegas, Nevada, USA
+
+ 
+
+
+ 
+
+Under a U.S. Department of Energy grant, Diversified Technologies, Inc. (DTI) is developing a short pulse, solid-state Marx modulator for the next generation of klystrons and accelerators. For short-pulse modulators, this Marx topology provides a means to achieve astounding risetimes and flattop control that are simply not available with hard switch or transformer coupled topologies. The design is a high peak-power pulse modulator of greater efficiency than presently available, in the 100 kV to 1 MV range, for currents of 0.1 to 1 kA, pulse lengths of 0.2 to 5.0 us, and rise/fall times 10% of pulse length. A key objective of the development effort is a design which is modular and scalable, yet low cost, and easy to manufacture and maintain. The modulator will be delivered to Yale Beam Physics Laboratory for evaluation, and will be affordable for deployment at other national labs for klystron and modulator evaluation. In this paper, DTI will describe the new design and provide an update on progress.
+
+ 
+
+
+ 
+
+
+
+MOPWA066
+Components of Heating and Fueling of Fusion Plasmas
+831
+
+
+ 
+
+K. Schrock, M.P.J. Gaudreau, M.K. Kempkes
+                       Diversified Technologies, Inc., Bedford, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: Funded by US DOE, Grant # DE-SC0004250
+Next generation fusion facilities will require many megawatts of RF power from dozens of gyrotrons. Each gyrotron requires a power system that must deliver the high-voltage power, modulate cathode voltage, and protect these expensive gyrotrons from arcing damage. It must be highly efficient, to minimize both the power and cooling costs associated with operation and to ensure high facility availability. Diversified Technologies, Inc. (DTI) has bench-tested a table-top scale ‘Buck Matrix’ modulator which uses a single set of IGBT switches for voltage regulation, arc protection, and pulse modulation. Although pulse step modulators represent a one-step solution, their size, and the complexity of their driving transformer make them more expensive than DTI’s two-step approach. DTI’s Buck Matrix modulator, with an efficiency of ~96%, cuts the size of the system in half, using a single layer of solid state switches for both voltage regulation and arc protection/modulation. This cuts the total hardware costs by a~30% or more, and eliminates the need for a separate opening switch or crowbar. DTI will present the system components of the design as well as the performance results to date.
+
+ 
+
+
+ 
+
+
+
+MOPWA067
+Robust High-average-power Modulator
+834
+
+
+ 
+
+I. Roth, N. Butler, M.P.J. Gaudreau, M.K. Kempkes
+                       Diversified Technologies, Inc., Bedford, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: US DOE. Grant No. DE-SC0004254
+Diversified Technologies Inc. (DTI) designed a modulator which meets the requirements of the Spallation Neutron Source (SNS) modulators at Oak Ridge National Laboratory and will be less expensive than copies of the current modulators. The SNS modulators, under development for a decade, still do not meet the specifications for voltage, droop, or pulsewidth. The modulators must provide pulses of 85 kV, 165 A, with pulsewidths of 1.5 ms and voltage flatness of 1%. The current modulator switches the full power at high frequency during each pulse, and has a complex output transformer. DTI designed a modulator that meets all specifications and is less expensive. The proposed design is cheaper because there is an HV switch that operates at full current only once per pulse, a corrector that switches only 5% of the power at high frequency, a low-cost transformer-rectifier power supply, and no output transformer. DTI’s patented switch uses IGBTs, allowing the switch to operate at full capacity even if 20% of the devices fail. The modulator will be installed in 2013 at SNS to test klystrons. DTI will present the system components of the design as well as the performance results to date.
+
+ 
+
+
+ 
+
+
+
+MOPWA069
+Time-resolved Electron Beam Position Monitor Macropulse Waveform Measurement in MkV Linear Accelerator at University of Hawaii Free Electron Laser Laboratory
+837
+
+
+ 
+
+P. Niknejadi, M.R. Hadmack, B.T. Jacobson, J. Madey, G.S. Varner
+                       University of Hawaii, Honolulu, HI, USA
+
+ 
+
+
+ 
+
+Real time waveform measurements of electron beams will provide valuable data and possibility of online bunch diagnostics in linear accelerators. The University of Hawaii Linear Accelerator utilizes a thermionic LaB6 cathode microwave gun injector and a single section of S-band linear accelerator capable of producing a 40MeV, 1-2 ps bunched electron beam with average current of 200mA over the duration of a 4.5 us macropulse. This beam, pulsed at 4 Hz, produces strong RF signal at 2.856 GHz which is coupled out of the beam-pipe by a family of stripline beam position monitors (BPM's) and read out using custom built logarithmic-difference based electronics installed in 2012.* A high speed Analog to Digital Convertor and Field-Programmable Gate Array will be used to digitize the signal and record the waveform. The goal is to make a cost effective oscilloscope on a chip/board with feasible and functional operation to achieve optimal beam configuration. The circuit board design, in-circuit programming, waveform digitization challenges, and preliminary results from the prototype will be presented at the conference.
+* B. T. Jacobson, M. R. Hadmack, J. M. J. Madey, P. Niknejadi "Modular Logarithmic Amplifier Beam Position Monitor Readout System at University of Hawai’i," IBIC Conf. Proc. (2012) 
+
+ 
+
+
+ 
+
+
+
+MOPWA070
+Beam Position Monitor within the Cornell Energy Recovery Linac Cavity Assembly
+840
+
+
+ 
+
+M.G. Billing, M. Liepe, V.D. Shemelin, N.R.A. Valles
+                       CLASSE, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+In an energy recovery Linac (ERL) the low energy beam is very sensitive to deflections due to the RF fields as it passes through the accelerator cavities. Therefore, to avoid the possible effects of beam breakup, it will be important to determine the optimum transverse position for the beam within the first several sets of cavity cells in the cryostat assembly and to maintain this position over long periods. As a result a beam position monitor (BPM) has been designed to be located between the higher-order modes (HOM) loads and the seven-cell RF structures. This BPM’s design reduces the coupling of RF power from the fundamental mode and HOMs into the BPM, while maintaining acceptable position sensitivity and resolution. We analyzed the coupling of the probe to the HOMs of realistically shaped cavities by generating geometries for hundreds of cavities having small shape variations from the nominal dimensions consistent with present machining tolerances, and solved for their monopole and dipole spectra. Our results show that the peak, dissipated power within BPM cables, which pass through the cryostat, is well within the permissible levels.
+
+ 
+
+
+ 
+
+
+
+MOPWA071
+A Comparison of Electron Cloud Density Measurements at CesrTA
+843
+
+
+ 
+
+J.P. Sikora, J.A. Crittenden, D.O. Duggins, Y. Li, X. Liu
+                       CLASSE, Ithaca, New York, USA
+S. De Santis
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the US National Science Foundation PHY-0734867, PHY-1002467, and the US Department of Energy DE-FC02-08ER41538, DE-SC0006505.
+Several techniques have been employed to measure the electron cloud (EC) density in accelerators. These include Time Resolved Retarding Field Analyzers (TR-RFA) and Shielded Pickups (SPU) that measure the flux of cloud electrons onto the beam-pipe wall, as well as TE wave resonance techniques that measure the EC density in a region within the volume of the beam-pipe. We have made measurements to test the EC mitigation properties of different surface coatings and geometries, often with more than one technique used in the same test chamber. We present a comparison of bare aluminum chambers with those having a TiN coating, as well as the effect of beam conditioning. In addition, we will compare the results of the different measurement techniques used in the same chamber. These measurements were made at the Cornell Electron Storage Ring (CESR) which has been reconfigured as a test accelerator (CesrTA) having positron or electron beam energies ranging from 2 GeV to 5 GeV.
+
+ 
+
+
+ 
+
+
+
+MOPWA072
+MODELING FOR TIME-RESOLVED RETARDING FIELD ANALYZER MEASUREMENTS OF ELECTRON CLOUD BUILDUP AT CesrTA
+846
+
+
+ 
+
+J.A. Crittenden, Y. Li, X. Liu, M.A. Palmer, J.P. Sikora
+                       CLASSE, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: US National Science Foundation PHY-0734867, PHY-1002467, and the U.S. Department of Energy DE-FC02-08ER41538
+The Cornell Electron Storage Ring Test Accelerator program includes investigations into electron cloud buildup mitigation techniques using custom vacuum chambers. Multibunch electron and positron beams of energies between 2.1 and 5.3 GeV with bunch spacings from 4 to 98 ns and bunch populations ranging from 1010 to 16·1010 provide highly differentiated sensitivity to the processes contributing to cloud buildup such as photoelectron production, cloud space-charge dynamics, and secondary electron emission. Measurements of the time dependence of cloud buildup using BPM-style shielded pickups have been shown to provide tight constraints on cloud buildup models. Recently, time-resolving retarding-field analyzers have been designed, installed and commissioned. These novel detectors combine the time-resolving feature of the shielded pickups with the fine transverse segmentation and cloud electron energy sensitivity of the time-integrating retarding-field analyzers used previously. We report on progress in modeling these measurements and quantify their sensitivity to various parameters describing the underlying physical processes contributing to cloud buildup.
+
+ 
+
+
+ 
+
+
+
+MOPWA073
+A Turn-by-turn Beam Profile Monitor using Visible Synchrotron Radiation at CESR-TA
+849
+
+
+ 
+
+S. Wang, D. L. Rubin, C.R. Strohman
+                       CLASSE, Ithaca, New York, USA
+R.F. Campbell, R. Holtzapple
+                       CalPoly, San Luis Obispo, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the National Science Foundation and Department of Energy under contract numbers PHY-0734867, PHY-1002467, DMR-0936384, and DE-FC02-08ER41538, DE-SC0006505
+A fast beam profile monitor using visible synchrotron radiation (SR) has been constructed and installed in Cornell Electron Storage Ring. This monitor utilizes fast readout electronics based on the Hamamatsu H7260K multi-anode photomultiplier, which has a 32-channel linear array with 1mm channel pitch and sub-nanosecond rise time. In a low emittance lattice at 2 GeV, a double-slit interferometer is employed to measure the horizontal beam size. After careful calibration of the interference pattern, the horizontal beam size within a range of 100 to 500 microns can be measured with a precision of ±5 microns. Due to finite array size, the small vertical beam size is measured by imaging the pi-polarized component of the SR. The fast beam profile monitor is capable of measuring bunch-by-bunch turn-by-turn transverse beam sizes, which eliminates beam jitter inherent when imaging the average beam size with a CCD camera. Details of hardware and software controls are also discussed.
+
+ 
+
+
+ 
+
+
+
+MOPWA074
+High Voltage Converter Modulator Optimization
+852
+
+
+ 
+
+A. Scheinker
+                       LANL, Los Alamos, New Mexico, USA
+M.J. Bland
+                       University of Nottingham, Nottingham, United Kingdom
+
+ 
+
+
+ 
+
+High voltage converter modulators (HVCM) are at the forefront of long pulse high voltage (100kV) technology for Klystron voltage sources. We present results of digitally implementing an extremum seeking (ES) algorithm with which we optimized the rise time of the output voltage of a HVCM at the Los Alamos Neutron Science Center (LANSCE) HVCM test stand by iteratively, simultaneously tuning the first 8 switching edges of each of the three phase drive waveforms (24 variables total). We achieved a 50us rise time, which is reduction in half compared to the 100us currently achieved at the Spallation Neutron Source (SNS) at Oak Ridge National Laboratory. The ES algorithm is successful despite the noisy measurements and cost calculations, confirming the theoretical predictions that the algorithm is not affected by noise unless it both matches exactly the frequency components of the controller's specific perturbing frequencies and is of comparable size.
+
+ 
+
+
+ 
+
+
+
+MOPWA076
+Improvements to Existing Jefferson Lab Wire Scanners
+855
+
+
+ 
+
+M.D. McCaughan, M.G. Tiefenback, D.L. Turner
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+This poster will detail the augmentation of selected existing CEBAF wire scanners with commercially available hardware, PMTs, and self created software in order to improve the scanners both in function and utility. Notice: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177. The U.S. Government retains a non-exclusive, paid-up, irrevocable, world-wide license to publish or reproduce this manuscript for U.S. Government purposes.
+
+ 
+
+
+ 
+
+
+
+MOPWA077
+EPICS, MATLAB, GigE CCD Camera Based Beam Imaging System for the IAC-RadiaBeam THz Project
+858
+
+
+ 
+
+C.F. Eckman, A. Andrews, T. Downer, Y. Kim, C. O'Neill
+                       IAC, Pocatello, IDAHO, USA
+P. Buaphad, Y. Kim
+                       ISU, Pocatello, Idaho, USA
+Y. Kim
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+At the Idaho Accelerator Center (IAC) of Idaho State University, we have been operating an L-band RF linear accelerator running at low energies (5 - 44 MeV) for the IAC-RadiaBeam THz project. We have designed and implemented an image acquisition and analysis system that can be used for real time observation of the electron beam, tuning of THz radiation production, and measurement of the transverse beam emittance. The imaging system contains an Yttrium Aluminium Garnet (YAG) screen on an actuator, a Prosilica GC1290 GigE CCD camera with an adjustable lens, a screen illuminator, an optical alignment structure, and a lead tube for the camera shielding. The real time continuous beam images can be acquired by SampleViewer, while the single shot beam image can be acquired by the Experiential Physics and Industrial Control System (EPICS) and areaDetector. In this paper, we describe components of the imaging system, the real time beam image acquisition with SampleViewer, the single shot beam image acquisition with areaDetector, and a remote controllable beam image acquisition via MATLAB Channel Access (MCA), MATLAB, and EPICS.
+
+ 
+
+
+ 
+
+
+
+MOPWA078
+The Calibration of the PEPPo Polarimeter for Electrons and Positrons
+861
+
+
+ 
+
+A.H. Adeyemi
+                       JLAB, Newport News, Virginia, USA
+E. J-M. Voutier
+                       LPSC, Grenoble, France
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177
+The PEPPo (Polarized Electrons for Polarized Positrons) experiment at Jefferson Laboratory investigated the polarization transfer from longitudinally polarized electrons to longitudinally polarized positrons, with the aim of developing this technology for a low energy (~MeV) polarized positron source. Polarization of the positrons was measured by means of a Compton transmission polarimeter where incoming positrons transfer their polarization into circularly polarized photons that were subsequently analyzed by a thick polarized iron target. The measurement of the transmitted photon flux with respect to the orientation of the target polarization (±) or the helicity (±) of the incoming leptons provided the measurement of their polarization. Similar measurements with a known electron beam were also performed for calibration purposes. This presentation will describe the apparatus and calibrations performed at the injector at the Jefferson Laboratory to measure positron polarization in the momentum range 3.2-6.2 MeV/c, specifically to quantify the positron analyzing power from electron experimental data measured over a comparable momentum range.
+The U.S. Government retains a non-exclusive, paid-up, irrevocable, world-wide license to publish or reproduce this manuscript for U.S. Government purposes
+
+ 
+
+
+ 
+
+
+
+MOPWA079
+Characterization of the Analyzing Target of the PEPPo Experiment
+864
+
+
+ 
+
+O. Dadoun
+                       LAL, Orsay, France
+E. Froidefond, E. J-M. Voutier
+                       LPSC, Grenoble, France
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177
+Various methods have been investigated over the past decades for the production of polarized positrons. The purpose of the PEPPo (Polarized Electrons for Polarized Positrons) experiment is to demonstrate, for the first time, the production of polarized positrons from a polarized electron beam. This two-step process involves the production of circularly polarized photons in a high Z target via the bremsstrahlung process followed, within the same target, by the conversion of polarized photons into polarized e+e− pairs through the pair creation process. The PEPPo experiment was performed in Spring 2012 at the injector of the Jefferson Laboratory using a highly spin-polarized (~85%) 8.3 MeV/c electron beam. The positron polarization was measured by means of a Compton transmission polarimeter over the momentum range from 3.2 MeV/c to 6.2 MeV/c. This presentation will discuss the experimental set-up with a special emphasis on the analyzing magnet constituting the polarization filter of the experiment. The knowledge of the analyzing target polarization will be discussed on the basis of simulations and calibrated to experimental data
+The U.S. Government retains a non-exclusive, paid-up, irrevocable, world-wide license to publish or reproduce this manuscript for U.S. Government purposes
+
+ 
+
+
+ 
+
+
+
+MOPWA080
+Design of a Fast, XFEL-quality Wire Scanner
+867
+
+
+ 
+
+M.A. Harrison, R.B. Agustsson, P.S. Chang, T.J. Hodgetts, A.Y. Murokh, M. Ruelas
+                       RadiaBeam, Santa Monica, USA
+
+ 
+
+
+ 
+
+RadiaBeam Technologies, in collaboration with the Pohang Accelerator Laboratory, has designed and built a fast wire scanner for transverse beam size measurements in the XFEL Injector Test Facility. The wire scanner utilizes three 25-micron diameter tungsten wires mounted vertically, horizontally, and diagonally on a single alumina card to measure the transverse beam size down to 10 microns with sub-micron accuracy of a 139-MeV electron beam. A double-ended design using dual bellows for actuation is used to reduce the vibrations of the wire holder during motion and negate the effects of air pressure on positioning. The servomotor-driven system is capable of performing full horizontal, vertical, and 45-degree scans in under a minute. Algorithms are presented for removing the broadening effect of the wires' thickness from the scanning data to measure beams that are as small or smaller than the wires. Furthermore, we present formulas for determining the beam's transverse spatial sizes (horizontal and vertical spot size and correlation) from the scan data.
+
+ 
+
+
+ 
+
+
+
+MOPWA085
+Spin Dynamics Simulations and Horizontal Intrinsic Resonance Studies in the AGS using the Zgoubi Code
+870
+
+
+ 
+
+Y. Dutheil, L. A. Ahrens, H. Huang, F. Méot, V.H. Ranjbar, T. Roser, V. Schoefer, N. Tsoupas
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+A critical point for the polarized proton program of the RHIC is the polarization transmission through the AGS acceleration cycle. Recent developments in the Zgoubi model of the AGS allow multi-particle tracking with realistic beam and machine conditions on a large scale computing system. This gives the opportunity to simulate the influence of many beam and machine conditions on the polarization transmission and leads to a better understanding of the depolarization processes, for instance the horizontal intrinsic resonances, that cannot be accurately explored by the conventional simulation approaches or by the experiments with beam. This paper introduces the developments realized on the Zgoubi code to run these simulations and shows some of the latest results.
+
+ 
+
+
+ 
+
+
+
+MOPWA087
+Predictive Diagnostics for High-availability Accelerators
+873
+
+
+ 
+
+K. Žagar, D. Bokal, K. Strniša
+                       Cosylab, Ljubljana, Slovenia
+M. Gašperin
+                       University of West Bohemia, Pilsen, Czech Republic
+L. Medeiros Romão, D. Vandeplassche
+                       SCK•CEN, Mol, Belgium
+G. Pajor
+                       COBIK, Solkan, Slovenia
+
+ 
+
+
+ 
+
+In Accelerator Driven Systems, high availability of the accelerator is one of its key requirements. Fortunately, not every beam trip is necessarily a failure. For example, in the proposed MYRRHA transmuter, absence of the beam for less than 3 seconds is still deemed acceptable. Predictive diagnostics strives to predict where a failure is likely to occur, so that a mitigating action can be taken in a more controlled manner, thus preventing failure of other components while exactly pinpointing the component that is about to fail. One approach to predictive diagnostics is to analyze process variables that quantify inputs and outputs of components as archived by the accelerator's distributed control system. By observing trends in their values an impending fault can be predicted. In addition, sensors measuring e.g., vibration, temperature or noise can be attached to critical components. By analyzing the signatures of signals acquired by these sensors, non-nominal behavior can be detected which possibly indicates a looming failure.
+
+ 
+
+
+ 
+
+
+
+MOPWA088
+FPGA Development Approach for Accelerator Systems with High Integration Complexity
+876
+
+
+ 
+
+J. Dedič, K. Zagar
+                       COBIK, Solkan, Slovenia
+A.M.M. Aulin Söderqvist, N.H. Claesson, R. Tavčar
+                       Cosylab, Ljubljana, Slovenia
+J. Neves Rodrigues
+                       Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+During the application-layer FPGA development for timing system for a medical accelerator (accelerator: MedAustron, timing system: Micro Research Finland) and a couple of other FPGA projects (power supply waveform generator, Machine Protection System proof of concept, ESS timing system demo) we got very good insight on how to approach demanding FPGA development that requires team work of many developers, coupled with particularities of accelerator system development. Because subsystems’ specific requirements evolve together with the operational understanding of the entire machine, the careful balance has to be taken between requirements gathering, prototyping and development stage. Furthermore, when doing architectural design decisions, knowledge from multiple domains should be taken into account; accelerator operation, software development and FPGA development. The design shouldn’t be register or counter centric, and FPGA functionality shouldn’t appear to the software developer as fixed – otherwise the design decisions of one world will sooner or later lead to spaghetti-code workarounds in the other world.
+
+ 
+
+
+ 
+
+
+
+

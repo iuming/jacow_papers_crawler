@@ -1,0 +1,312 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2018 - Table of Session: THCA (Contributed Oral: Hardware Technologies 1)
+
+
+THCA —  Contributed Oral: Hardware Technologies 1   (18-Oct-18   10:50—12:05)
+Chair: G. Cuni, ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+
+Paper
+Title
+Page
+
+
+
+THCA1
+Quest for the New Standard PSI IOC Platform
+119
+
+
+ 
+
+D. Anicic
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+With its four accelerator facilities the Paul Scherrer Institut (PSI) has already several decades of control system Input Output Computer (IOC) experience. The technology is moving forward fast. The older hardware is becoming obsolete: it is slow, consumes too much power, does not match new computing, networking and bus technologies, and replacements can no longer be purchased as models have been discontinued. All this forces us to opt for a new "standard" IOC platform with increasing regularity. What used to be twenty years, became ten, and is now tending towards five years. Here we present past and possible future IOC platforms which we are investigating. Feedback from the conference would be highly appreciated.
+
+ 
+
+
+
+
+
+
+Slides THCA1 [3.691 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2018-THCA1
+
+ 
+
+
+About •
+paper received ※ 08 October 2018       paper accepted ※ 17 October 2018        issue date ※ 21 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCA2
+Development of MicroTCA-based Low-level Radio Frequency Control Systems for cERL and STF
+124
+
+
+ 
+
+F. Qiu, T. Matsumoto, S. Michizono, T. Miura
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Low-level radio frequency (LLRF) control systems based on µTCA standard have been developed for facilities such as compact energy recovery linac (cERL) and superconducting test facility (STF) at the High Energy Accelerator Research Organization (KEK), Japan. Three different types of boards were developed according to their different applications. Experimental physics and industrial control system (EPICS) was selected as the data communication system for all of these µTCA boards. The LLRF systems showed good performance during the beam commissioning. This paper presents the current status of the µTCA-based LLRF systems in the cERL and STF.
+
+ 
+
+
+
+
+
+
+Slides THCA2 [2.000 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2018-THCA2
+
+ 
+
+
+About •
+paper received ※ 10 October 2018       paper accepted ※ 15 October 2018        issue date ※ 21 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCA3
+A Feedback/Feedforward System at the TPS and its Component Performance
+127
+
+
+ 
+
+C.H. Huang, Y.-S. Cheng, P.C. Chiu, K.T. Hsu, K.H. Hu, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+For a low-emittance photon light source like the Taiwan Photon Source (TPS), beam stability is a very important property for high-quality photon beams. It is, however, hard to completely remove beam disturbing effects. Therefore, a feedback/feedforward system becomes an effective tool to suppress beam motion. In this report, we discuss the performance of such a system implemented at the TPS. The component performance of the feedback system has been tested to understand its bandwidth limitations.
+
+ 
+
+
+
+
+
+
+Slides THCA3 [2.164 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2018-THCA3
+
+ 
+
+
+About •
+paper received ※ 03 October 2018       paper accepted ※ 15 October 2018        issue date ※ 21 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCA4
+Development of a Network-based Timing and Tag Information Distribution System for Synchrotron Radiation Experiments at SPring-8
+131
+
+
+ 
+
+T. Masuda
+                       JASRI/SPring-8, Hyogo, Japan
+
+ 
+
+
+ 
+
+Time-resolved measurements in synchrotron radiation experiments require an RF clock of a storage ring accelerator and a fundamental revolution frequency (zero address) signal. For the usage of these signals around the experimental station, long RF cables from the accelerator timing station, divider modules and delay modules must be deployed. These installations need a lot of cost and require a lot of efforts to adjust the timing by experts. To lower these costs and efforts, the revolution frequency, which is ~209 kHz at the SPring-8 storage ring, and tag information distribution system has been studied based on a high precision time synchronization technology over a network. In this study, the White Rabbit* (WR) technology is adopted. The proof of concept system has been built, which consists of a master PC, a slave PC and two WR switches. The master PC detects the zero-address signal and distributes the time stamps with tag information to the slave PC. Then the slave PC generates the ~209 kHz signals synchronized with the target bunch by adding the offset time by software. The measured one-σ jitter of the output signals from the slave PC has been achieved less than 100 ps.
+* https://www.ohwr.org/projects/white-rabbit
+
+ 
+
+
+
+
+
+
+Slides THCA4 [3.309 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2018-THCA4
+
+ 
+
+
+About •
+paper received ※ 09 October 2018       paper accepted ※ 15 October 2018        issue date ※ 21 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCA5
+Rethinking PLCs: Industrial Ethernet for Large-Scale Real-Time Distributed Control Applications
+136
+
+
+ 
+
+B. Plötzeneder, O. Janda, A. Kru’enko, J. Trdlicka
+                       ELI-BEAMS, Prague, Czech Republic
+P. Bastl
+                       Institute of Physics of the ASCR, Prague, Czech Republic
+
+ 
+
+
+ 
+
+Funding: Extreme Light Infrastructure - Phase 2 (CZ.02.1.01/ 0.0/0.0/15008/0000162; Ministry of Education, Youth and Sports CZ / European Regional Development Fund)
+Many research facilities rely on PLCs to automate large slow systems like vacuum or HVAC, where price, availability and reliability matter. The dominant architecture consists of local units of controllers/ modules (programmed in IEC61131-3 languages), which operate mostly autonomously from a SCADA layer. While some vendors provide low-level stacks to encourage growth of their ecosystems, PLC programming remains largely within a closed, proprietary world. In this paper, we introduce a different way of thinking about PLC hardware. Working with the open stacks intended for the design of new EtherCAT (Beckhoff) / Powerlink (B&R) modules, we built an abstract C+± API to control the existing ones. These industrial ethernet busses can be propagated using standard network hardware, so any RT-Linux system can now control any PLC module from anywhere in our facility using high-level languages (C++, LabVIEW). This way, PLC modules are seamlessly integrated into our distributed TANGO-based control system. PC-PLC interfaces are no longer needed; or in the case of traditionally implemented subsystems (machine safety), trivial.
+
+ 
+
+
+
+
+
+
+Slides THCA5 [2.456 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2018-THCA5
+
+ 
+
+
+About •
+paper received ※ 18 October 2018       paper accepted ※ 25 April 2019        issue date ※ 21 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

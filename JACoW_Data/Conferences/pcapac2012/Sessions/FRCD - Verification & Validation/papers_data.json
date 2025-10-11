@@ -1,0 +1,36 @@
+{
+  "session_info": {
+    "id": "FRCD",
+    "name": "FRCD - Verification & Validation",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/frcd.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FRCD02",
+      "title": "Process Control for Parallel Run of Two Helium Liquefiers at VEC Centre, Kolkata",
+      "authors": [
+        "S. Pal",
+        "U. Panda",
+        "VECC",
+        "Kolkata",
+        "India",
+        "WBSEDCL",
+        "India",
+        "Two helium liquefiers are working in tandem while one is always connected with the superconducting cyclotron. High pressure (HP) and low pressure (LP) controls are necessary to maintain varying helium flow to the cold box. Since these two liquefiers share the same HP and LP pipelines",
+        "any pressure fluctuation due to rapid change in flow sometimes causes trip to the liquefiers. To overcome this problem there is a need for fast responsive HP control. Introduction of derivative gain in the PID loop for fast action is not desirable as it creates instability to the control system. This problem was rectified by introducing a novel control scheme based on the forced opening of the unloading valve to push back helium gas to buffer tank by changing the offset of PI control as a function of Buffer Tank pressure. A simulation using Matlab Simulink was performed initially to check the performance of pressure control loop. The same is implemented in the control loop of the new liquefier and an experiment was performed. The experimental results obtained will be discussed in the final paper."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/frcd02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/frcd02.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/frcd02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-FRCD02",
+      "page_number": "285",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-11 02:12:54"
+}

@@ -1,0 +1,414 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: THCPL (Systems Engineering, Collaborations and Project Management)
+
+
+THCPL —  Systems Engineering, Collaborations and Project Management   (12-Oct-17   13:45—15:30)
+Chair: C.D. Marshall, LLNL, Livermore, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+THCPL01
+Speaking of Diversity
+1168
+
+
+ 
+
+K.S. White
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under contract number DE-AC05-00OR22725.
+Historically, attendance at the International Conference on Accelerator and Large Experimental Physics Control Systems has not been particularly diverse in terms of gender or race. In fact, the lack of diversity amongst the attendees was noted during the closing session of the 2015 conference by an invited speaker from outside the accelerator community. Informal discussion and observations support the assertion that our conference attendance reflects the diversity of the broader accelerator controls workforce. Facing very low participation of women in our field and even lower minority representation, it is important to examine this issue as studies point to the importance of diverse work groups to spark innovation and creativity as catalysts to solving difficult problems. This paper will discuss diversity and inclusion in the disciplines that comprise the accelerator controls workforce, including background, barriers and strategies for improvement.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/94u5LpJ7DzY
+        
+ 
+
+
+
+
+
+
+Slides THCPL01 [5.586 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THCPL01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL02
+Highlights of the European Ground System - Common Core Initiative
+1175
+
+
+ 
+
+M. Pecchioli
+                       ESA/ESOC, Darmstadt, Germany
+J.M. Carranza
+                       ESA-ESTEC, Noordwijk, The Netherlands
+
+ 
+
+
+ 
+
+Funding: European Space Agency
+The European Ground System Common Core (EGS-CC) initiative is now materializing. The goal of the this initiative is to define, build and share a software framework and implementation that will be used as the main basis for pre- and post- launch ground systems (Electrical Ground Support Equipment and Mission Control System) of future European space projects. The initiative is in place since year 2011 and is being led by the European Space Agency as a formal collaboration of the main European stakeholders in the space systems control domain, including European Space National Agencies and European Prime Industry. The main expected output of the EGS-CC initiative is a core system which can be adapted and extended to support the execution of pre- and post-launch Monitoring and Control operations for all types of missions and throughout the complete life-cycle of space projects. This presentation will introduce the main highlights of the EGS-CC initiative, its governance principles, the fundamental concepts of the resulting products and the challenges that the team is facing.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/xguMZe2WuKE
+        
+ 
+
+
+
+
+
+
+Slides THCPL02 [7.580 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THCPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL03
+A Success-History Based Learning Procedure to Optimize Server Throughput in Large Distributed Control Systems
+1182
+
+
+ 
+
+Y. Gao, T.G. Robertazzi
+                       Stony Brook University, Stony Brook, New York, USA
+K.A. Brown
+                       BNL, Upton, Long Island, New York, USA
+J. Chen
+                       Stony Brook University, Computer Science Department, Stony Brook, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+Large distributed control systems typically can be modeled by a hierarchical structure with two physical layers: Console Level Computers (CLCs) and Front End Computers (FECs). The controls system of the Relativistic Heavy Ion Collider (RHIC) consists of more than 500 FECs, each acting as a server providing services to a potentially unlimited number of clients. This can lead to a bottleneck in the system. Heavy traffic can slow down or even crash a system, making it momentarily unresponsive. One mechanism to circumvent this is to transfer the heavy communications traffic to more robust higher performance servers, keeping the load on the FEC low. In this work, we study this client-server problem from a different perspective. We introduce a novel game theory model for the problem, and formulate it into an integer programming problem. We point out its difficulty and propose a heuristic algorithms to solve it. Simulation results show that our proposed schemes efficiently manage the client-server activities, and result in a high server throughput and a low crash probability.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/veLaGGNTs8w
+        
+ 
+
+
+
+
+
+
+Slides THCPL03 [1.321 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THCPL03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL04
+SKA Synchronization and Timing Local Monitor Control - Software Design Approach
+1190
+
+
+ 
+
+R. Warange
+                       National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune, India
+R.E. Braddockpresenter
+                       University of Manchester, Manchester, United Kingdom
+
+ 
+
+
+ 
+
+The Square Kilometre Array (SKA) is a global project that aims to build a large radio telescope in Australia and South Africa with around 100 organizations in 20 countries engaged in its detailed design. The Signal and Data Transport (SaDT) consortium, includes the software and hardware necessary for the transmission of data and information between elements of SKA, and the Synchronization and Timing (SAT) system provides frequency and clock signals. The SAT local monitoring and control system (SAT. LMC) monitors and controls the SAT system. SAT. LMC has its team members distributed across India, South Africa and UK. This paper discusses the systems engineering methods adopted by SAT. LMC on interface design with work packages owned by different organizations, configuration control of design artefacts, and quality control through intermediate releases, design assumptions and risk management. The paper also discusses the internal SAT. LMC team communication model, cross culture sensitivity and leadership principles adopted to keep the project on track and deliver quality design products whilst staying flexible to the changes in the overall SKA program.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/RxwQUrOkK94
+        
+ 
+
+
+
+
+
+
+Slides THCPL04 [1.631 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THCPL04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL05
+TANGO Heads for Industry
+1195
+
+
+ 
+
+A. Götz, R. Bourtembourg, J.M. Chaize, T.M. Coutinho, V. Michel, J.L. Pons, P.V. Verdier
+                       ESRF, Grenoble, France
+S. Gara
+                       NEXEYA Systems, La Couronne, France
+P.P. Goryl
+                       3controls, Kraków, Poland
+I.A. Khokhriakov
+                       HZG, Geesthacht, Germany
+G.R. Mant
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+A. Stanik
+                       Prevac, Rogow, Poland
+S. Viénot
+                       JYSE, Grenoble, France
+
+ 
+
+
+ 
+
+The TANGO Controls Framework* continues to mature and be adopted by new sites and applications. This paper will describe how TANGO has moved closer to industry with the creation of startups and addressing industrial use cases. It will describe what progress has been made since the last ICALEPCS in 2015 to ensure the sustainability of TANGO for scientific and industrial users. It will present TANGO web based technologies and the deployment of TANGO in the cloud. Furthermore it will describe how the community has re-organised itself to fund and improve code sharing, documentation, code quality assurance and maintenance.
+* http://tango-controls.org
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/O-_JLDN4BSg
+        
+ 
+
+
+
+
+
+
+Slides THCPL05 [9.769 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THCPL05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL06
+Sustaining the National Ignition Facility (NIF) Integrated Computer Control System (ICCS) over its Thirty Year Lifespan
+1201
+
+
+ 
+
+B.T. Fishler, Y.W. Abed, A.I. Barnes, G.K. Brunton, C.M. Estes, M.A. Fedorov, M.S. Flegel, A.P. Ludwigsen, V.J. Miller Kamm, M. Paul, R.K. Reed, E.A. Stout, E.F. Wilson
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344
+The National Ignition Facility (NIF) is the world's largest and most energetic laser experimental facility with 192 beams capable of delivering 1.8 megajoules and 500-terawatts of ultraviolet light to a target. Officially commissioned as an operational facility on March 21, 2009, NIF is expected to conduct research experiments thru 2039. The 30-year lifespan of the control system presents several challenges in meeting reliability, availability, and maintainability (RAM) expectations. As NIF continues to expand on its experimental capabilities, the control system's software base of 3.5 million lines of code grows with most of the legacy software still in operational use. Supporting this software is further complicated by technology life cycles and turnover of senior experienced staff. This talk will present lessons learned and new initiatives related to technology refreshes, risk mitigation, and changes to our software development and test methodology to ensure high control system availability for supporting experiments throughout NIF's lifetime.
+LLNL-ABS-727374
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/lSrpMzlHKpM
+        
+ 
+
+
+
+
+
+
+Slides THCPL06 [3.947 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THCPL06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

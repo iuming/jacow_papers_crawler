@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: MOAPP (Project Status Reports 1)
+
+
+MOAPP —  Project Status Reports 1   (07-Oct-19   10:00—11:00)
+Chair: E. Blanco Vinuela, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+MOAPP01
+Control System of SuperKEKB
+1
+
+
+ 
+
+H. Kaji, A. Akiyama, T. Naito, T.T. Nakamura, J.-I. Odagiri, S. Sasaki, H. Sugimura
+                       KEK, Ibaraki, Japan
+T. Aoyama, M. Fujita, Y. Kuroda, T. Nakamura, K. Yoshii
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+K. Asano, M. Hirose
+                       KIS, Ibaraki, Japan
+Y. Iitsuka, N. Yoshifuji
+                       EJIT, Hitachi, Ibaraki, Japan
+
+ 
+
+
+ 
+
+We introduce the control system of the SuperKEKB collider which is based on EPICS. We standardize the CPU module so that we easily maintain our huge control system. Most Input/Output Controllers (IOCs) installed along the 3 km beamline at SuperKEKB are developed with only two kinds of CPU module. In addition to providing standard IOC for individual hardware, we develop some beam operation system which promotes the beam commissioning. The alarm monitoring system, abort trigger system, and Beam Gate system are developed by the control group. The sophisticated Beam Gate system for positron beam controls operation of both damping ring and main ring. It obviously promotes the beam commissioning at those rings. The other highlight is the precisely synchronized control system. It is necessary to realize the highly complicated control of beam injection process. We configure the dedicated network with the Event Timing System and the distributed shared memory. The distant hardware components are synchronously operated with this network. The beam commissioning of SuperKEKB has been started in 2016. The control system supports its fruitful beam operation without serious problem.
+
+ 
+
+
+
+
+
+
+Slides MOAPP01 [5.027 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOAPP01
+
+ 
+
+
+About •
+paper received ※ 03 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOAPP02
+The SPIRAL2 Control System Status Just Before the First Beam
+8
+
+
+ 
+
+C.H. Haquin, P. Anger, P.-E. Bernaudin, C. Berthe, F. Bucaille, P. Dolegieviez, C.H. Patard, D. Touchard, A.H. Trudel, Q. Tura
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The SPIRAL2 Facility at GANIL is based on the construction of a superconducting LINAC (up to 5 mA - 40 MeV deuteron beams and up to 1 mA - 14.5 MeV/u heavy ion beams) with two experimental areas called S3 and NFS [1, 2]. At the end of this year, we will reach an important milestone with the first beam accelerated by the superconducting LINAC. The control system of the new facility relies on EPICS and PLC technologies. This paper will focus on the latest validated systems: machine protection system, the LINAC cryogenic system and the radio frequency system of the superconducting cavities. The validation requested a huge effort from all the teams but allow the project to be ready for this important moment.
+
+ 
+
+
+
+
+
+
+Slides MOAPP02 [6.262 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOAPP02
+
+ 
+
+
+About •
+paper received ※ 23 September 2019       paper accepted ※ 08 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOAPP03
+Control System Plans for SNS Upgrade Projects
+12
+
+
+ 
+
+S.M. Hartman, K.S. Whitepresenter
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under contract number DE-AC05-00OR22725.
+The Spallation Neutron Source at Oak Ridge National Laboratory is planning two major upgrades to the facility. The Proton Power Upgrade project, currently underway, will double the machine power from 1.4 to 2.8 MW by adding seven additional cryomodules and associated equipment. The Second Target Station project, currently in conceptual design, will construct a new target station effectively doubling the potential scientific output of the facility. This paper discusses the control system upgrades required to integrate these projects into the existing EPICS based control systems used for the machine and neutron instrument beamlines. While much of the control system can be replicated from existing solutions, some systems require new hardware and software. Operating two target stations simultaneously will require a new run permit system to safely manage beam delivery.
+
+ 
+
+
+
+
+
+
+Slides MOAPP03 [32.100 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOAPP03
+
+ 
+
+
+About •
+paper received ※ 02 October 2019       paper accepted ※ 08 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOAPP04
+Status of the National Ignition Facility (NIF) Integrated Computer Control and Information Systems
+15
+
+
+ 
+
+G.K. Brunton, A.I. Barnes, J.R. Castro Morales, M.J. Christensen, J. Dixon, M. Fedorov, M.S. Flegel, R. Lacuata, D.W. Larson, A.P. Ludwigsen, D.G. Mathisen, V.J. Miller Kamm, M. Paul, S.L. Townsend, B.M. Van Wonterghem, S. Weaver, E.F. Wilson
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344
+The National Ignition Facility (NIF) is the world’s most energetic laser experimental facility with 192 beams capable of delivering 2.1 MJ of 500 TW ultraviolet laser light to a target. NIF experiments facilitate the study of extreme physical conditions at temperatures exceeding 100 million K and 100 billion times atmospheric pressure allowing scientists the ability to generate conditions similar to the center of the sun and explore the physics of planetary interiors, supernovae and thermonuclear burn. This year concludes a series of optimizations and enhancements to the control & information systems to sustain the quantity of experimental target shots while developing an enhanced precision diagnostic system to optimize and increase the power and energy capabilities of the facility. In addition, many new system control and diagnostic capabilities have been commissioned to increase the understanding of target performance. This year also concludes a multi-year sustainability project to migrate the control system software to Java. This talk will report on the current status of each of these areas in support of the wide variety of experiments being conducted.
+
+ 
+
+
+
+
+
+
+Slides MOAPP04 [10.709 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOAPP04
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 11 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

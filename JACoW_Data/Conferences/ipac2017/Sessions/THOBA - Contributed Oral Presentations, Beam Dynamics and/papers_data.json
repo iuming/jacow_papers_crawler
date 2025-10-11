@@ -1,0 +1,92 @@
+{
+  "session_info": {
+    "id": "THOBA",
+    "name": "THOBA - Contributed Oral Presentations, Beam Dynamics and Electromagnetic Fields",
+    "url": "https://proceedings.jacow.org/ipac2017/html/thoba.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THOBA1",
+      "title": "Studies of the Micro-Bunching Instability in Multi-Bunch Operation at the ANKA Storage Ring",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2017/talks/thoba1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2017/papers/thoba1.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2017/posters/thoba1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2017-THOBA1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THOBA2",
+      "title": "Coherent Synchrotron Radiation and Wake Fields With Discontinuous Galerkin Time Domain Methods",
+      "authors": [
+        "D. A. Bizzozero",
+        "H. De Gersem",
+        "E. Gjonaj",
+        "TEMF",
+        "TU Darmstadt",
+        "Darmstadt",
+        "Germany",
+        "Coherent synchrotron radiation (CSR) is an essential issue in modern accelerators. We propose a new method to examine CSR in the time domain using an unstructured Discontinuous Galerkin (DG) method. The method uses a 2D spatial discretization in the longitudinal and transverse coordinates (Z",
+        "X) with a Fourier series decomposition in the transverse coordinate Y and computes the fields modally. Additionally",
+        "by alignment of mesh element interfaces along a source reference orbit",
+        "DG methods can naturally handle discontinuous or thin sources in the transverse X direction. We present an overview of the method",
+        "illustrate it by calculating wake potentials in a model problem",
+        "and in a bunch compressor."
+      ],
+      "institutions": [
+        "Funding: This work is supported by DESY, Hamburg."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2017/talks/thoba2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2017/papers/thoba2.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2017/posters/thoba2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2017-THOBA2",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THOBA3",
+      "title": "A Compact 335 MeV Positron Damping Ring Design for FACET-II",
+      "authors": [
+        "G.R. White",
+        "Y. Cai",
+        "R.O. Hettel",
+        "M.A.G. Johansson",
+        "V. Yakimenko",
+        "G. Yocky",
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "FACET-II will be a new test facility",
+        "starting construction in 2018 within the main SLAC Linac. Its purpose is to build on the decades-long experience developed conducting accelerator R&D at SLAC in the areas of advanced acceleration and coherent radiation techniques with high-energy electron and positron beams. The positron system design utilizes an existing W-Re target in Linac Sector 19",
+        "driven by 4 nC electrons bunches at 10 GeV. We present the design of a 335 MeV",
+        "21.4 m circumference damping ring required to damp emittance from a modified positron return beamline by a factor of 500. The transverse emittance is calculated to be 6 um-rad",
+        "fully coupled",
+        "with a bunch length of 4 mm and energy spread 0.06 %",
+        "at a bunch charge of 1 nC. The arc magnets need to be especially compact due to tight space constraints (installation will be in the existing SLAC Linac tunnel",
+        "Sector 10",
+        "with 3 m width available) and were a key design challenge. We present a solution with combined function bend/quadrupole/sextupole magnets which have been modelled in 3D using Opera."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2017/talks/thoba3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2017/papers/thoba3.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2017/posters/thoba3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2017-THOBA3",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 19:55:52"
+}

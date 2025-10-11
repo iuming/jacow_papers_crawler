@@ -1,0 +1,3649 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: MOPPC (Poster 1 and Industrial Exhibition)
+
+
+MOPPC —  Poster 1 and Industrial Exhibition   (07-Oct-13   16:45—18:15)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPPC013
+Revolution in Motion Control at SOLEIL: How to Balance Performance and Cost
+81
+
+
+ 
+
+D. Corruble, Y.-M. Abiven, F. Ben Zekri, P. Betinelli-Deck, M. Cerato, C. Engblom, R. Millet
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+SOLEIL * is a third generation Synchrotron radiation source located near Paris in France. REVOLUTION (REconsider Various contrOLler for yoUr moTION) is the motion controller upgrade project at SOLEIL. It was initiated by the first « Motion control workshop in radiation facilities » in May 2011 that allowed development of an international motion control community in large research facilities. The next meeting will take place during pre-ICALEPS workshop: Motion Control Applications in Large Facilities **.  As motion control is an essential key element in assuring optimal results, but also at a competitive price, the REVOLUTION team selected alternatives by following a theoretical and practical methodology:  advanced market analysis, tests, measures and impact evaluation. Products from two major motion control manufacturers are on the short list. They must provide the best performance for a small selection of demanding applications, and the lowest global cost to maintain operational conditions for the majority of applications at SOLEIL. The search for the best technical, economical and organizational compromise to face our challenges is detailed in this paper.
+* : www.synchrotron-soleil.fr ** : http://www.synchrotron-soleil.fr/Workshops/2013/motioncontrol
+
+ 
+
+
+ 
+
+
+
+MOPPC014
+
+Diagnostic Use Case Examples for ITER Plant Instrumentation and Control
+85
+
+
+ 
+
+S. Simrock, L. Abadie, R. Barnsley, L. Bertalot, J.Y. Journeaux, P. Makijarvi, V. Martin, P. Patil, R. Reichle, D. Stepanov, G. Vayakis, A. Wallander, M. Walsh, I. Yonekawa
+                       ITER Organization, St. Paul lez Durance, France
+D.R. Makowski
+                       TUL-DMCS, Łódź, Poland
+
+ 
+
+
+ 
+
+ITER requires extensive diagnostics to meet the requirements for machine operation, protection, plasma control and physics studies. The realization of these systems is a major challenge not only because of the harsh environment and the nuclear requirements but also with respect to plant system Instrumentation and Control (I&C) of all the 45 diagnostics systems since the procurement arrangements of the ITER diagnostics with the domestic agencies require a large number of high performance fast controllers whose choice is based on guidelines and catalogues published by the ITER Organization (IO). The goal is to simplify acceptance testing and commissioning for both domestic agencies and the IO. For this purpose several diagnostic use case examples for plant system I&C documentation and implementation are provided by IO to the domestic agencies. Their implementations cover major parts of the diagnostic plant system I&C such as multi-channel high performance data and image acquisition, data processing as well as real-time and data archiving aspects. In this paper, the current status and achievements in implementation and documentation for the use case examples are presented.
+
+ 
+
+
+
+
+
+
+Poster MOPPC014 [2.068 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC016
+IFMIF EVEDA RFQ Local Control System to Power Tests
+89
+
+
+ 
+
+M.G. Giacchini, L. Antoniazzi, M. Montis
+                       INFN/LNL, Legnaro (PD), Italy
+A. Marqueta Barbero
+                       IFMIF/EVEDA, Rokkasho, Japan
+
+ 
+
+
+ 
+
+In the IFMIF EVEDA project, normal conducting Radio Frequency Quadrupole (RFQ) is used to bunch and accelerate a 130 mA steady beam to 5 MeV. RFQ cavity is divided into three structures, named super-modules. Each super-module is divided into 6 modules for a total of 18 modules for the overall structure. The final three modules have to be tested at high power to test and validate the most critical RF components of RFQ cavity and, on the other hand, to test performances of the main ancillaries that will be used for IFMIF EVEDA project (vacuum manifold system, tuning system and control system). The choice of the last three modules is due to the fact that they will operate in the most demanding conditions in terms of power density (100 kW/m) and surface electric field (1.8*Ekp). The Experimental Physics and Industrial Control System (EPICS) environment [1] provides the framework for monitoring any equipment connected to it. This paper report the usage of this framework to the RFQ power tests at Legnaro National Laboratories [2][3].
+[1] http://www.aps.anl.gov/epics/  [2] http://www.lnl.infn.it/ [3] http://www.lnl.infn.it/~epics/joomla/
+
+ 
+
+
+ 
+
+
+
+MOPPC017
+Upgrade of J-PARC/MLF General Control System with EPICS/CSS
+93
+
+
+ 
+
+M. Ooi, A. Akutsu, S.I. Meigo, H. Takada, A. Watanabe
+                       JAEA/J-PARC, Tokai-mura, Japan
+K. Sakai
+                       JAEA, Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+A general control system of the Materials and Life science experimental Facility (MLF-GCS) consists of programmable logic controllers (PLCs), operator interfaces (OPI) of iFix, data servers, and so on. It is controlling various devices such as a mercury target and a personnel protection system. The present system has been working well but there are problems in view of maintenance and update because of poor flexibility of OS and version compatibility. To overcome the weakness of the system, we decided to replace it to an advanced system based on EPICS and CSS as a framework and OPI software, which has advantages of high scalability and usability. Then we built a prototype system, connected it to the current MLF-GCS, and examined its performance. As the result, the communication between the EPICS/CSS system and the PLCs was successfully implemented by mediating a Takebishi OPC server, true data of 7000 were stored with suitable speed and capacity in a new data storage server based on a PostgreSQL, and OPI functions of the CSS were verified. We concluded through these examinations that the EPICS/CSS system had function and performance specified to the advanced MLF-GCS.
+
+ 
+
+
+
+
+
+
+Poster MOPPC017 [0.376 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC020
+New Automated Control System at Kurchatov Synchrotron Radiation Source Based on SCADA System Citect
+97
+
+
+ 
+
+Y.A. Fomin, V. Dombrovsky, Y.V. Efimov, E.V. Kaportsev, V. Korchuganov, Y.V. Krylov, K. Moseev, N.I. Moseiko, A.G. Valentinov
+                       NRC, Moscow, Russia
+A. Dorovatovsky, L.A. Moseiko
+                       RRC, Moscow, Russia
+
+ 
+
+
+ 
+
+The description of new automated control system of Kurchatov synchrotron radiation source which is realized at present time is presented in the paper. The necessity of automated control system modernization is explained by the equipment replacement in which we take state of art hardware decisions for facility control and increase the performances of facility control system. In particular, the number of control channels are increase, the processing and transmitting data speed are considerably increase and the requirements to measurement accuracy are become more strict. The paper presents the detailed description of all control levels (lower, server and upper) of new automated control system and integration of SCADA-system Citect into facility control system which provides the facility control, alarms notify, detailed reports preparation, acquisition and storage of historical data et al.
+
+ 
+
+
+ 
+
+
+
+MOPPC021
+Configuration System of the NSLS-II Booster Control System Electronics
+100
+
+
+ 
+
+P.B. Cheblakov, D. Bolkhovityanov, S.E. Karnaev, A.V. Makeev
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+The National Synchrotron Light Source II is under construction at Brookhaven National Laboratory, Upton, USA. NSLS-II consists of linac, transport lines, booster synchrotron and the storage ring. The main features of booster are 1 or 2 Hz cycle and beam energy ramp from 200 MeV up to 3 GeV in 300 msec. EPICS is chosen as a base for the NSLS-II Control System. The booster control system covers all parts of the facility such as power supplies, timing system, diagnostics, vacuum system and many others. Each part includes a set of various electronic devices and a lot of parameters which shall be fully defined for the control system software. This paper considers an approach proposed for defining some equipment of the NSLS-II Booster. It provides a description of different entities of the facility in a uniform way. This information is used to generate configuration files for EPICS IOCs. The main goal of this approach is to put information in one place and elimination of data duplication. Also this approach simplifies configuration and modification of the description and makes it more clear and easily usable by engineers and operators.
+
+ 
+
+
+
+
+
+
+Poster MOPPC021 [0.240 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC022
+Remote Control of Heterogeneous Sensors for 3D LHC Collimator Alignment
+103
+
+
+ 
+
+C. Charrondière, P. Bestmann, T. Feniet
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Periodically the alignment of LHC collimators needs to be verified. Access for personnel is limited due to the level of radiation close to the collimators. The required measurements precision must be comparable to the other equipment in the LHC tunnel, meaning 0.15 mm in a sliding window of 200 m. Hence conventional measurements would take 4 days for a team of 3 people. This presentation covers the design, development and commissioning of a remotely controlled system able performs the same measurements in 1 h with one operator. The system includes the integration of a variety of industrial devices ranging from position sensors, inclination sensors to video cameras, all linked to a PXI system running LabVIEW. The control of the motors is done through a PLC based system. The overall performance and user experience are reported.
+
+ 
+
+
+
+
+
+
+Poster MOPPC022 [19.665 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC023
+Centralized Data Engineering for the Monitoring of the CERN Electrical Network
+107
+
+
+ 
+
+A. Kiourkos, P. Golonka, M. Gonzalez-Berges, S. Infante, J-C. Tournier
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The monitoring and control of the CERN electrical network involves a large variety of devices and software: it ranges from acquisition devices to data concentrators, supervision systems as well as power network simulation tools. The main issue faced nowadays for the engineering of such large and heterogeneous system including more than 20,000 devices and 200,000 tags is that all devices and software have their own data engineering tool while many of the configuration data have to be shared between two or more devices: the same data needs to be entered manually to the different tools leading to duplication of effort and many inconsistencies. This paper presents a tool called ENSDM aiming at centralizing all the data needed to engineer the monitoring and control infrastructure into a single database from which the configuration of the various devices is extracted automatically. Such approach allows the user to enter the information only once and guarantee the consistency of the data across the entire system. The paper will focus more specifically on the configuration of the remote terminal unit) devices, the global supervision system (SCADA) and the power network simulation tools.
+
+ 
+
+
+
+
+
+
+Poster MOPPC023 [1.253 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC024
+An Event Driven Communication Protocol for Process Control: Performance Evaluation and Redundant Capabilities
+111
+
+
+ 
+
+J.O. Ortola Vidal, E.B. Blanco Vinuela, M. Boccioli, T.N. Nunes da Rocha
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN Unified Industrial Control System framework (UNICOS) with its Continuous Control Package (UNICOS CPC) is the CERN standard solution for the design and implementation of continuous industrial process control applications. The in-house designed communication mechanism, based on the Time Stamp Push Protocol (TSPP) provides event driven high performance data communication between the control and supervision layers of a UNICOS CPC application. In its recent implementation of full redundant capabilities for both control and supervision layers, the TSPP protocol has reached maturity. This paper presents the design of the redundancy, the architecture, the current implementation as well as a comprehensive evaluation of its performance for SIEMENS PLCs in different test scenarios.
+
+ 
+
+
+
+
+
+
+Poster MOPPC024 [7.161 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC025
+A Movement Control System for Roman Pots at the LHC
+115
+
+
+ 
+
+B. Farnham, O.O. Andreassen, I. Atanassov, J. Baechler, B. Copy, M. Deile, M. Dutour, P. Fassnacht, S. Franz, S. Jakobsen, F. Lucas Rodríguez, X. Pons, E. Radermacher, S. Ravat, F. Ravotti, S. Redaelli
+                       CERN, Geneva, Switzerland
+K.H. Hiller
+                       DESY Zeuthen, Zeuthen, Germany
+
+ 
+
+
+ 
+
+This paper describes the movement control system for detector positioning based on the Roman Pot design used by the ATLAS-ALFA and TOTEM experiments at the LHC. A key system requirement is that LHC machine protection rules are obeyed: the position is surveyed every 20ms with an accuracy of 15?m. If the detectors move too close to the beam (outside limits set by LHC Operators) the LHC interlock system is triggered to dump the beam. LHC Operators in the CERN Control Centre (CCC) drive the system via an HMI provided by a custom built Java application which uses Common Middleware (CMW) to interact with lower level components. Low-level motorization control is executed using National Instruments PXI devices. The DIM protocol provides the software interface to the PXI layer. A FESA gateway server provides a communication bridge between CMW and DIM. A cut down laboratory version of the system was built to provide a platform for verifying the integrity of the full chain, with respect to user and machine protection requirements, and validating new functionality before deploying to the LHC. The paper contains a detailed system description, test bench results and foreseen system improvements.
+
+ 
+
+
+ 
+
+
+
+MOPPC026
+Bake-out Mobile Controls for Large Vacuum Systems
+119
+
+
+ 
+
+S. Blanchard, F. Bellorini, P. Gomes, H.F. Pereira
+                       CERN, Geneva, Switzerland
+L. Kopylov, S. Merker, M.S. Mikheev
+                       IHEP, Moscow Region, Russia
+
+ 
+
+
+ 
+
+Large vacuum systems at CERN (Large Hadron Collider, the Low Energy Ion Rings…) require bake-out to achieve ultra-high vacuum specifications. The bake-out cycle is used to decrease the outgassing rate of the vacuum vessel and to activate the Non-Evaporable Getter (NEG) thin film. Bake-out control is a Proportional-Integral-Derivative (PID) regulation with complex recipes, interlocks and troubleshooting management and remote control. It is based on mobile Programmable Logic Controller (PLC) cabinets, fieldbus network and Supervisory Control and Data Acquisition (SCADA) application. CERN vacuum installations include more than 7 km of baked vessels; using mobile cabinets reduces considerably the cost of the control system. The cabinets are installed close to the vacuum vessels during the time of the bake-out cycle. Mobile cabinets can be used in all the CERN vacuum facilities. Remote control is provided by fieldbus network and SCADA application.
+
+ 
+
+
+
+
+
+
+Poster MOPPC026 [3.088 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC027
+The Control System of CERN Accelerators Vacuum [LS1 Activities and New Developments]
+123
+
+
+ 
+
+P. Gomes, F. Antoniotti, F. Bellorini, S. Blanchard, J-P. Boivin, J. Gama, G. Girardot, G. Pigny, B. Rio, H. Vestergard
+                       CERN, Geneva, Switzerland
+L. Kopylov, S. Merker, M.S. Mikheev
+                       IHEP, Moscow Region, Russia
+
+ 
+
+
+ 
+
+After 3 years of operation, the LHC entered its first Long Shutdown period (LS1), in February 2013. Major consolidation and maintenance works will be performed across the whole CERN’s accelerator chain, in order to prepare the LHC to restart at higher energy, in 2015. The rest of the accelerator complex shall resume in mid-2014. We report on the recent and on-going vacuum-controls projects. Some of them are associated with the consolidations of the vacuum systems of LHC and of its injectors; others concern the complete renovation of the controls of some machines; and there are also some completely new installations. Due to the wide age-span of the existing vacuum installations, there is a mix of design philosophies and of control-equipment generations. The renovation and the novel projects offer an opportunity to improve the Quality Assurance of vacuum controls by: identifying, documenting, naming and labelling all pieces of equipment; minimising the number of equipment versions with similar functionality; homogenising the control architectures, while converging to a single software framework.
+
+ 
+
+
+
+
+
+
+Poster MOPPC027 [67.309 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC028
+High-Density Power Converter Real-Time Control for the MedAustron Synchrotron
+127
+
+
+ 
+
+J. Gutleber, A.B. Brett, M. Hager, J. Junuzovic, M. Junuzovic, M. Marchhart, R. Moser, H. Pavetits, C. Torcato de Matos
+                       CERN, Geneva, Switzerland
+A. Ambrosch, A.B. Brett, P. Fraboulet, M. Hager, J. Junuzovic, M. Junuzovic, M. Marchhart, R. Moser, H. Pavetits, C. Torcato de Matos
+                       EBG MedAustron, Wr. Neustadt, Austria
+J. Dedič, M. Mehle, L. Šepetavc
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+The MedAustron accelerator is a synchrotron for light-ion therapy, developed under the guidance of CERN within the MedAustron-CERN collaboration. Procurement of 7 different power converter families and development of the control system were carried out concurrently. Control is optimized for unattended routine clinical operation. Therefore, finding a uniform control solution was paramount to fulfill the ambitious project plan. Another challenge was the need to operate with about 5'000 cycles initially, achieving pipelined operation with pulse-to-pulse re-configuration times smaller than 250 msec. This contribution shows the architecture and design and gives an overview of the system as built and operated. It is based on commercial-off-the-shelf processing hardware at front-end level and on the CERN function generator design at equipment level. The system is self contained, permitting use of parts and the whole is other accelerators. Especially the separation of the power converter from the real-time regulation using CERN's Converter Regulation Board makes this approach an attractive choice for integrating existing power converters in new configurations.
+
+ 
+
+
+
+
+
+
+Poster MOPPC028 [0.892 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC029
+Internal Post Operation Check System for Kicker Magnet Current Waveforms Surveillance
+131
+
+
+ 
+
+N. Magnin, E. Carlier, B. Goddard, V. Mertens, J.A. Uythoven
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+A software framework, called Internal Post Operation Check (IPOC), has been developed to acquire and analyse kicker magnet current waveforms. It was initially aimed at performing the surveillance of LHC beam dumping system (LBDS) extraction and dilution kicker current waveforms and was subsequently also deployed on various other kicker systems at CERN. It has been implemented using the Front-End Software Architecture (FESA) framework, and uses many CERN control services. It provides a common interface to various off-the-shelf digitiser cards, allowing a transparent integration of new digitiser types into the system. The waveform analysis algorithms are provided as external plug-in libraries, leaving their specific implementation to the kicker system experts. The general architecture of the IPOC system is presented in this paper, along with its integration within the control environment at CERN. Some application examples are provided, including the surveillance of the LBDS kicker currents and trigger synchronisation, and a closed-loop configuration to guarantee constant switching characteristics of high voltage thyratron switches.
+
+ 
+
+
+
+
+
+
+Poster MOPPC029 [0.435 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC030
+Developments on the SCADA of CERN Accelerators Vacuum
+135
+
+
+ 
+
+F. Antoniotti, S. Blanchard, M. Boccioli, P. Gomes, H.F. Pereira
+                       CERN, Geneva, Switzerland
+L. Kopylov, S. Merker, M.S. Mikheev
+                       IHEP, Moscow Region, Russia
+
+ 
+
+
+ 
+
+During the first 3 years of LHC operation, the priorities for the vacuum controls SCADA were to attend to user requests, and to improve its ergonomics and efficiency. We now have reached: information access simplified and more uniform; automatic scripts instead of fastidious manual actions; functionalities and menus standardized across all accelerators; enhanced tools for data analysis and maintenance interventions. Several decades of cumulative developments, based on heterogeneous technologies and architectures, have been asking for a homogenization effort. The Long Shutdown (LS1) provides the opportunity to further standardize our vacuum controls systems, around Siemens-S7 PLCs and PVSS SCADA. Meanwhile, we have been promoting exchanges with other Groups at CERN and outside Institutes: to follow the global update policy for software libraries; to discuss philosophies and development details; and to accomplish common products. Furthermore, while preserving the current functionalities, we are working on a convergence towards the CERN UNICOS framework.
+
+ 
+
+
+
+
+
+
+Poster MOPPC030 [31.143 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC031
+IEPLC Framework, Automated Communication in a Heterogeneous Control System Environment
+139
+
+
+ 
+
+F. Locci, S. Magnoni
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Programmable Logic Controllers (PLCs, PXI systems and other micro-controller families) are essential components of CERN control's system. They typically present custom communication interfaces which make their federation a difficult task. Dependency from specific protocols makes code not reusable and the replacement of old technology a tedious problem. IEPLC proposes a uniform and hardware independent communication schema. It automatically generates all the resources needed on master and slave side to implement a common and generic Ethernet communication. The framework consists of a set of tools, scripts and a C++ library. The JAVA configuration tool allows the description and instantiation of the data to be exchanged with the controllers. The Python scripts generate the resources necessary to the final communication while the C++ library, eventually, allows sending and receiving data at run-time from the master process. This paper describes the product by focusing on its main objectives: the definition of a clear and standard communication interface; the reduction of user’s developments and configuration time.
+
+ 
+
+
+
+
+
+
+Poster MOPPC031 [2.509 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC032
+OPC Unified Architecture within the Control System of the ATLAS Experiment
+143
+
+
+ 
+
+P.P. Nikiel, B. Farnham, S. Franz, S. Schlenker
+                       CERN, Geneva, Switzerland
+H. Boterenbrood
+                       NIKHEF, Amsterdam, The Netherlands
+V. Filimonov
+                       PNPI, Gatchina, Leningrad District, Russia
+
+ 
+
+
+ 
+
+The Detector Control System (DCS) of the ATLAS experiment at the LHC has been using the OPC DA standard as interface for controlling various standard and custom hardware components and their integration into the SCADA layer. Due to its platform restrictions and expiring long-term support, OPC DA will be replaced by the succeeding OPC Unified Architecture (UA) standard. OPC UA offers powerful object-oriented information modeling capabilities, platform independence, secure communication and allows server embedding into custom electronics. We present an OPC UA server implementation for CANopen devices which is used in the ATLAS DCS to control dedicated IO boards distributed within and outside the detector. Architecture and server configuration aspects are detailed and the server performance is evaluated and compared with the previous OPC DA server. Furthermore, based on the experience with the first server implementation, OPC UA is evaluated as standard middleware solution for future use in the ATLAS DCS and beyond.
+
+ 
+
+
+
+
+
+
+Poster MOPPC032 [2.923 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC033
+Opening the Floor to PLCs and IPCs: CODESYS in UNICOS
+147
+
+
+ 
+
+J. Rochez, E.B. Blanco Vinuela, M. Koutli, T. Petrou
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+This paper presents the integration of a third industrial platform for process control applications with the UNICOS (Unified Industrial Control System) framework at CERN. The UNICOS framework is widely used in many process control domains (e.g. Cryogenics, Cooling, Ventilation, Vacuum) to produce highly structured standardised control applications for the two CERN approved industrial PLC product families, Siemens and Schneider. The CoDeSys platform, developed by the 3S (Smart Software Solution), provides an independent IEC 6131-3 programming environment for industrial controllers. The complete CoDeSys based development includes: (1) a dedicated Java™ module plugged in an automatic code generation tool, the UAB (UNICOS Application Builder), (2) the associated UNICOS baseline library for industrial PLCs and IPCs (Industrial PC) CoDeSys v3 compliant, and (3) the Python-based templates to deploy device instances and control logic. The availability of this development opens the UNICOS framework to a wider community of industrial PLC manufacturers (e.g. ABB, WAGO) and, as the CoDeSys control Runtime works in standard Operating Systems (Linux, W7), UNICOS could be deployed to any IPC.
+
+ 
+
+
+
+
+
+
+Poster MOPPC033 [4.915 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC034
+Control System Hardware Upgrade
+151
+
+
+ 
+
+G. Janser, G. Dzieglewski, W. Hugentobler, F. Kreis
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The Paul Scherrer Institute builds, runs and maintains several particle accelerators. The proton accelerator HIPA, the oldest facility, was mostly equipped with CAMAC components until a few years ago. In several phases CAMAC was replaced by VME hardware and involved about 60 VME crates with 500 cards controlling a few hundred power supplies, motors, and digital as well as analog input/output channels. To control old analog and new digital power supplies with the same new VME components, an interface, so called Multi-IO, had to be developed. In addition, several other interfaces like accommodating different connectors had to be build. Through a few examples the upgrade of the hardware will be explained.
+
+ 
+
+
+
+
+
+
+Poster MOPPC034 [0.151 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC035
+Re-integration and Consolidation of the Detector Control System for the Compact Muon Solenoid Electromagnetic Calorimeter
+154
+
+
+ 
+
+O. Holme, D.R.S. Di Calafiori, G. Dissertori, L. Djambazov, W. Lustermann, S. Zelepoukine
+                       ETH, Zurich, Switzerland
+S. Zelepoukine
+                       UW-Madison/PD, Madison, Wisconsin, USA
+
+ 
+
+
+ 
+
+Funding: Swiss National Science Foundation (SNSF)
+The current shutdown of the Large Hadron Collider (LHC), following three successful years of physics data-taking, provides an opportunity for major upgrades to be performed on the Detector Control System (DCS) of the Electromagnetic Calorimeter (ECAL) of the Compact Muon Solenoid (CMS) experiment. The upgrades involve changes to both hardware and software, with particular emphasis on taking advantage of more powerful servers and updating third-party software to the latest supported versions. The considerable increase in available processing power enables a reduction from fifteen to three or four servers. To host the control system on fewer machines and to ensure that previously independent software components could run side-by-side without incompatibilities, significant changes in the software and databases were required. Additional work was undertaken to modernise and concentrate I/O interfaces. The challenges to prepare and validate the hardware and software upgrades are described along with details of the experience of migrating to this newly consolidated DCS.
+
+ 
+
+
+
+
+
+
+Poster MOPPC035 [2.811 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC036
+The BPM Integration in the Taiwan Photon Source
+158
+
+
+ 
+
+C.H. Kuo, Y.-T. Chang, J. Chen, Y.-S. Cheng, P.C. Chiu, K.T. Hsu, K.H. Hu, D. Lee, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+TPS (Taiwan Photon Source) is a 3 GeV synchrotron light source which is being in construction at NSRRC. The TPS BPM is based on xTCA platform, is used for various request and function reasons. These functions will be discussed. Another purpose is for orbit feedback system. The tradition BPM electronic is separated from orbit feedback system, is just monitor. In the TPS, the orbit feedback system is embedded in the BPM crate with FPGA modules. High throughput backplane, data transfer and processing support rich function for waveform recorder, diagnostic, beam study and transient analysis. The implementation result of the BPM system will be reported in this conference.
+
+ 
+
+
+ 
+
+
+
+MOPPC037
+Control Programs for the MANTRA Project at the ATLAS Superconducting Accelerator
+162
+
+
+ 
+
+M.A. Power, C.N. Davids, C. Nair, T. Palchan, R.C. Pardo, C.E. Peters, K.M. Teh, R.C. Vondrasek
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC02-06CH11357.
+The AMS (Accelerator Mass Spectrometry) project at ATLAS (Argonne Tandem Linac Accelerator System) complements the MANTRA (Measurement of Actinides Neutron TRAnsmutation) experimental campaign. To improve the precision and accuracy of AMS measurements at ATLAS, a new overall control system for AMS measurements needs to be implemented to reduce systematic errors arising from changes in transmission and ion source operation. The system will automatically and rapidly switch between different m/q settings, acquire the appropriate data and move on to the next setting. In addition to controlling the new multi-sample changer and laser ablation system, a master control program will communicate via the network to integrate the ATLAS accelerator control system, FMA control computer, and the data acquisition system.
+
+ 
+
+
+
+
+
+
+Poster MOPPC037 [2.211 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC038
+Rapid Software Prototyping into Large Scale Controls Systems
+166
+
+
+ 
+
+B.T. Fishler, M.W. Bowers, G.K. Brunton, S. Cohen, A.D. Conder, J.-M.G. Di Nicola, J. Heebner, J.T. Matone, M. Paul, M. A. Rever, M.J. Shaw, E.M. Tse
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-632892
+The programmable spatial shaper (PSS) within the National Ignition Facility (NIF) reduces energy on isolated optic flaws in order to lower the optics maintenance costs. This will be accomplished by using a closed-loop system for determining the optimal liquid-crystal-based spatial light pattern for beamshaping and placement of variable transmission blockers. A stand-alone prototype was developed and successfully run in a lab environment as well as on a single quad of NIF lasers following a temporary hardware reconfiguration required to support the test. Several challenges exist in directly integrating the C-based PSS engine written by an independent team into the Integrated Computer Control System (ICCS) for proof on concept on all 48 NIF laser quads. ICCS is a large-scale data-driven distributed control system written primarily in Java using CORBA to interact with +60K control points. The project plan and software design needed to specifically address the engine interface specification, configuration management, reversion plan for the existing 0% transmission blocker capability, and a multi-phase integration and demonstration schedule.
+
+ 
+
+
+
+
+
+
+Poster MOPPC038 [2.410 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC039
+Hardware Interface Independent Serial Communication (IISC)
+169
+
+
+ 
+
+P. Kankiya, L.T. Hoff, J.P. Jamilkowski
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The communication framework for the in-house controls system in the Collider-Accelerator Department at BNL depends on a variety of hardware interfaces and protocols including RS232, GPIB, USB and Ethernet to name a few. IISC is a client software library, which can be used to initiate, communicate and terminate data exchange sessions with devices over the network. It acts as a layer of abstraction allowing developers to establish communication with these devices without having to be concerned about the particulars of the interfaces and protocols involved. Details of implementation and a performance analysis will be presented.
+
+ 
+
+
+
+
+
+
+Poster MOPPC039 [1.247 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC040
+A Hazard Driven Approach to Accelerator Safety System Design - How CLS Successfully Applied ALARP in the Design of Safety Systems
+172
+
+
+ 
+
+E. D. Matias, M. Benmerrouche, G. Cubbon, A. Hodges, H. Zhang
+                       CLS, Saskatoon, Saskatchewan, Canada
+
+ 
+
+
+ 
+
+All large scale particle accelerator facilities end up utilising computerised safety systems for the accelerator access control and interlock system including search lockup sequences and other safety functions. Increasingly there has been a strong move toward IEC 61508 based standards in the design of these systems. CLS designed and deployed its first IEC 61508 based system nearly 10 years ago. The challenge has increasingly been to manage the complexity of requirements and ensure that features being added into such systems were truly requirements to achieve safety. Over the past few years CLS has moved to a more structured Hazard Analysis technique that is tightly coupled and traceable through the design and verification of its engineered safety systems. This paper presents the CLS approach and lessons learned.
+
+ 
+
+
+ 
+
+
+
+MOPPC041
+Machine Protection System for TRIUMF's ARIEL Facility
+175
+
+
+ 
+
+D. Dale, D. Bishop, K. Langton, R.B. Nussbaumer, J.E. Richards, G. Waters
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+Phase 1 of the Advanced Rare Isotope & Electron Linac (ARIEL) facility at TRIUMF is scheduled for completion in 2014. It will utilize an electron linear accelerator (eLinac) capable of currents up to 10mA and energy up to 75MeV. The eLinac will provide CW as well as pulsed beams with durations as short as 10uS. A Machine Protection System (MPS) will protect the accelerator and the associated beamline equipment from the nominal 500kW beam. Hazardous situations require the beam to be extinguished at the electron gun within 10uS of detection. Beam loss accounting is an additional requirement of the MPS. The MPS consists of an FPGA based controller module, Beam Loss Monitor VME modules developed by JLAB, and EPICS -based controls to establish and enforce beam operating modes. This paper describes the design, architecture, and implementation of the MPS.
+
+ 
+
+
+
+
+
+
+Poster MOPPC041 [1.345 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC042
+Machine Protection System for the SPIRAL2 Facility
+178
+
+
+ 
+
+C. Berthe, E. Lécorché, M.H. Moscatello, G. Normand
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The phase 1 of the SPIRAL2 facility, the extension project of the GANIL laboratory, is under construction in Caen, France. The accelerator is based on a linear solution, mainly composed of a normal conducting RFQ and a superconducting linac. One of its specificities is to be designed to accelerate high power deuteron and heavy ion beams from 40 to 200kW, and medium intensity heavy ion beams as well to a few kW. A Machine Protection System, has been studied to control and protect the accelerator from thermal damages for a very large range of beam intensities and powers. This paper presents the technical solutions chosen for this system which is based on two technical subsystems: one dedicated to thermal protection which requires a first PLC associated with a fast electronic system and a second dedicated to enlarged protection which is based on a safety products.
+
+ 
+
+
+
+
+
+
+Poster MOPPC042 [2.220 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC043
+Development of the Thermal Beam Loss Monitors of the Spiral2 Control System
+181
+
+
+ 
+
+C.H. Haquin
+                       GANIL, Caen, France
+F. Negoita
+                       IFIN, Magurele- Bucuresti, Romania
+
+ 
+
+
+ 
+
+The Spiral2 linear accelerator will drive high intensity beams, up to 5mA, to up to 200kW at linac exit. Such beams can seriously damage and activate the machine ! To prevent from such situation, the Machine Protection System (MPS) has been designed. This system is connected to diagnostics indicating if the beam remains under specific limits. As soon as a diagnostic detects its limit is crossed, it informs the MPS which will in turn take actions that can lead to a beam cut-off in appropriated timing requirements. In this process, the Beam Loss Monitors (BLM) are involved in monitoring prompt radiation generated by beam particles interactions with beam line components and responsible for activation, on one side, and thermal effects, on the other side. BLM system relies mainly on scintillator detectors, NIM electronics and a VME subsystem monitoring the heating of the machine. This subsystem, also called «Thermal BLM», will be integrated in the Spiral2 EPICS environment. For its development, a specific project organization has been setup since the development is subcontracted to Cosylab. This paper focuses on the Thermal BLM controls aspects and describes this development process.
+
+ 
+
+
+
+
+
+
+Poster MOPPC043 [0.957 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC044
+Cilex-Apollon Personnel Safety System
+184
+
+
+ 
+
+J-L. Veray, A. Bonny, J-L. Paillard
+                       LULI, Palaiseau, France
+
+ 
+
+
+ 
+
+Funding: CNRS, MESR, CG91, CRiDF, ANR
+Cilex-Apollon is a high intensity laser facility delivering at least 5 PW pulses on targets at one shot per minute, to study physics such as laser plasma electron or ion accelerator and laser plasma X-Ray sources. Under construction, Apollon is a four beam laser installation with two target areas. Such a facility causes many risks, in particular laser and ionizing radiations. The Personal Safety System (PSS) ensures to both decrease impact of dangers and limit exposure to them. Based on a risk analysis, Safety Integrity Level (SIL) has been assessed respecting international norms IEC 62061 and IEC 61511-3. To conceive a high reliability system a SIL 2 is required. The PSS is based on four laser risk levels corresponding to the different uses of Apollon. The study has been conducted according to norm EN 60825. Independent from the main command -control network the distributed system is made of a safety PLC and equipment, communicating through a safety network. The article presents the concepts, the architecture the client-server architecture, from control screens to sensors and actuators and interfaces to the access control system and the synchronization and sequence system.
+
+ 
+
+
+
+
+
+
+Poster MOPPC044 [3.864 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC045
+Cilex-Apollon Synchronization and Security System
+188
+
+
+ 
+
+M. Pina, J-L. Paillard
+                       LULI, Palaiseaux, France
+
+ 
+
+
+ 
+
+Funding: CNRS, MESR, CG91, CRiDF, ANR
+Cilex-Apollon is a high intensity laser facility delivering at least 5 PW pulses on targets at one shot per minute, to study physics such as laser plasma electron or ion accelerator and laser plasma X-Ray sources. Under construction, Apollon is a four beam laser installation with two target areas. Apollon control system is based on Tango. The Synchronization and Security System (SSS) is the heart of this control system and has two main functions. First one is to deliver triggering signals to lasers sources and diagnostics and the second one is to ensure machine protection to guarantee optic components integrity by avoiding damages caused by abnormal operational modes. The SSS is composed of two distributed systems. Machine protection system is based on a distributed I/O system running a Labview real time application and the synchronization part is based on the distributed Greenfield Technology system. The SSS also delivers shots to the experiment areas through programmed sequences. The SSS are interfaced to Tango bus. The article presents the architecture, functionality, interfaces to others processes, performances and feedback from a first deployment on a demonstrator.
+
+ 
+
+
+
+
+
+
+Poster MOPPC045 [1.207 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC047
+A New PSS for the ELBE Accelerator Facility
+191
+
+
+ 
+
+M. Justus, I. Koesterke, P. Michel
+                       HZDR, Dresden, Germany
+S. Kraft, U. Schramm
+                       Helmholtz-Zentrum Dresden-Rossendorf (HZDR), Institute of Radiation Physics, Dresden, Germany
+S. Lenk
+                       SAAS, Bannewitz, Germany
+
+ 
+
+
+ 
+
+The ELBE facility (Electron Linear accelerator with high Brightness and low Emittance) is being upgraded towards a Center for High Power Radiation Sources in conjunction with Terawatt & Petawatt femtosecond lasers. The topological facility expansion and an increased number of radiation sources made a replacement of the former personnel safety system (PSS) necessary. The new system based on failsafe PLCs was designed to fulfil the requirements of radiation protection according to effective law, where it combines both laser and radiation safety for the new laser based particle sources. Conceptual design and general specification was done in-house, while detailed design and installation were carried out in close cooperation with an outside firm. The article describes architecture, functions and some technical features of the new ELBE PSS. Special focus is on the implementation of IEC 61508 and the project track. The system was integrated in an existing (and mostly running) facility and is liable to third party approval. Operational experience after one year of run-time is also given.
+
+ 
+
+
+
+
+
+
+Poster MOPPC047 [0.120 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC048
+Evaluation of the Beamline Personnel Safety System at ANKA under the Aegis of the 'Designated Architectures' Approach
+195
+
+
+ 
+
+K. Cerff, M. Hagelstein
+                       FZK, Karlsruhe, Germany
+I. Birkel, J. Jakel, R. Stricker
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+The Beamline Personnel Safety System (BPSS) at Angstroemquelle Karlsruhe (ANKA) started operation in 2003. The paper describes the safety related design and evaluation of serial, parallel and nested radiation safety areas, which allows the flexible plug-in of experimental setups at ANKA-beamlines. It evaluates the resulting requirements for safety system hard- and software and the necessary validation procedure defined by current national and international standards, based on probabilistic reliability parameters supplied by component libraries of manufacturers and an approach known as 'Designated Architectures', defining safety functions in terms of sensor-logic-actor chains. An ANKA-beamline example is presented with special regards to features like (self-) Diagnostic Coverage (DC) of the control system, which is not part of classical Markov process modelling of systems safety.
+
+ 
+
+
+
+
+
+
+Poster MOPPC048 [0.699 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC049
+Radiation and Laser Safety Systems for the FERMI Free Electron Laser
+198
+
+
+ 
+
+F. Giacuzzo, L. Battistello, K. Casarin, M. Lonza, G. Scalamera, A. Vascotto, L. Zambon
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+G. Marega
+                       Studio di Ingegneria Giorgio Marega, Trieste, Italy
+
+ 
+
+
+ 
+
+Funding: Work supported in part by the Italian Ministry of University and Research under grants FIRB-RBAP045JF2 and FIRB-RBAP06AWK3
+FERMI@Elettra is a Free Electron Laser (FEL) users facility based on a 1.5 GeV electron linac. The personnel safety systems allow entering the restricted areas of the facility only when safety conditions are fulfilled, and set the machine to a safe condition in case any dangerous situation is detected. Hazards are associated with accelerated electron beams and with an infrared laser used for pump-probe experiments. The safety systems are based on PLCs providing redundant logic in a fail-safe configuration. They make use of a distributed architecture based on fieldbus technology and communicate with the control system via Ethernet interfaces. The paper describes the architecture, the operational modes and the procedures that have been implemented. The experience gained in the recent operation is also reported.
+
+ 
+
+
+
+
+
+
+Poster MOPPC049 [0.447 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC051
+NSLS-II Booster Interlock System
+202
+
+
+ 
+
+R.A. Kadyrov, P.B. Cheblakov, A.A. Derbenev, S.E. Karnaev, V.R. Mamkin
+                       BINP SB RAS, Novosibirsk, Russia
+S. Buda, H.-C. Hseuh
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Being responsible for 3 GeV booster synchrotron for the National Synchrotron Light Source (NSLS-II, BNL, USA) design and manufacture, Budker Institute of Nuclear Physics also designs the booster control and diagnostic system. Among others, the system includes interlock system consisting of equipment protection system, vacuum level and vacuum chamber temperature control system, beam diagnostic service system. These subsystems are to protect facility elements in case of vacuum leakage or chamber overheating and to provide subsidiary functions for beam diagnostics. Providing beam interlocks, it processes more then 150 signals from thermocouples, cold and hot cathode vacuum gauges and ion pump controllers. The subsystems contain nine 5U 19" chassis with hardware of each based on Allen-Bradley CompactLogix Programmable Logic Controller. All the interlock related connections are made with dry contacts, whereas system status and control is available through EPICS channel access. All operator screens are developed with Control System Studio tooling. This paper describes configuration and operation of the booster interlock system.
+
+ 
+
+
+ 
+
+
+
+MOPPC052
+ESS Bilbao Interlock System Approach
+206
+
+
+ 
+
+D.P. Piso, I. Arredondo, M. Eguiraun, S. Varnasseri
+                       ESS Bilbao, Zamudio, Spain
+
+ 
+
+
+ 
+
+Funding: ESS Bilbao
+This paper describes the approach used at ESS Bilbao initiative for the implementation of the Interlock System. The system is divided into two parts depending on the required speed for the system response: Slow Interlocks (>100 msec.) and Fast Interlocks (<100 msec.). Besides, both interlocks parts are arranged in two layers: Local Layer and Master Layer. The Slow Interlocks subsystem is based on PLCs. This solution is being tested in the ESS Bilbao ECR ion source with positive results and the first version design is now complete for the LEBT system. For the Fast Interlocks local layer part, a solution based on NI cRIO has been designed and tested. In these tests a maximum response time of 3.5 μs. was measured for analog acquisition, threshold comparison and signal generation. For digital signals the maximum time response of a similar process was 500 nsec. . These responses are considered valid for the standard need of the project. Finally, to extract information from the interlocks system and monitor it, the Modbus/EPICS interface is used for Slow Interlocks, while EPICS output is produced by NI cRIO. Hence, it is planned to develop a light pyQT solution to perform this task.
+
+ 
+
+
+ 
+
+
+
+MOPPC053
+A Safety System for Experimental Magnets Based on CompactRIO
+210
+
+
+ 
+
+S. Ravat, L. Deront, A. Kehrli, X. Pons
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+This paper describes the development of a new safety system for experimental magnets using National Instruments CompactRIO devices. The design of the custom Magnet Safety System (MSS) for the large LHC experimental magnets began in 1998 and it was first installed and commissioned in 2002. Some of its components like the isolation amplifier or ALTERA Reconfigurable Field-Programmable Gate Array (FPGA) are not available on the market any longer. A review of the system shows that it can be modernized and simplified by replacing the Hard-wired Logic Module (HLM) by a CompactRIO device. This industrial unit is a reconfigurable embedded system containing a processor running a real-time operating system (RTOS), a FPGA, and interchangeable industrial I/O modules. A prototype system, called MSS2, has been built and successfully tested using a test bench based on PXI crate. Two systems are currently being assembled for two experimental magnets at CERN, for the COMPASS solenoid and for the M1 magnet at the SPS beam line. This paper contains a detailed description of MSS2, the test bench and results from a first implementation and operation with real magnets.
+
+ 
+
+
+
+
+
+
+Poster MOPPC053 [0.543 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC054
+Application of Virtualization to CERN Access and Safety Systems
+214
+
+
+ 
+
+T. Hakulinen, J.B. Lopez Costa, P. Ninin, H. Nissen, R. Nunes
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Access and safety systems are by nature heterogeneous: different kinds of hardware and software, commercial and home-grown, are integrated to form a working system. This implies many different application services, for which separate physical servers are allocated to keep the various subsystems isolated. Each such application server requires special expertise to install and manage. Furthermore, physical hardware is relatively expensive and presents a single point of failure to any of the subsystems, unless designed to include often complex redundancy protocols. We present the Virtual Safety System Infrastructure project (VSSI), whose aim is to utilize modern virtualization techniques to abstract application servers from the actual hardware. The virtual servers run on robust and redundant standard hardware, where snapshotting and backing up of virtual machines can be carried out to maximize availability. Uniform maintenance procedures are applicable to all virtual machines on the hypervisor level, which helps to standardize maintenance tasks. This approach has been applied to the servers of CERN PS and LHC access systems as well as to CERN Safety Alarm Monitoring System (CSAM).
+
+ 
+
+
+
+
+
+
+Poster MOPPC054 [1.222 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC055
+Revisiting CERN Safety System Monitoring (SSM)
+218
+
+
+ 
+
+T. Hakulinen, P. Ninin, R. Nunes, T.R. Riesco
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+CERN Safety System Monitoring (SSM) is a system for monitoring state-of-health of the various access and personnel safety systems at CERN since more than three years. SSM implements monitoring of different operating systems, network equipment, storage, and special devices like PLCs, front ends, etc. It is based on the monitoring framework Zabbix, which supports alert notifications, issue escalation, reporting, distributed management, and automatic scalability. The emphasis of SSM is on the needs of maintenance and system operation, where timely and reliable feedback directly from the systems themselves is important to quickly pinpoint immediate or creeping problems. A new application of SSM is to anticipate availability problems through predictive trending that allows to visualize and manage upcoming operational issues and infrastructure requirements. Work is underway to extend the scope of SSM to all access and safety systems managed by the access and safety team with upgrades to the monitoring methodology as well as to the visualization of results.
+
+ 
+
+
+
+
+
+
+Poster MOPPC055 [1.537 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC056
+The Detector Safety System of NA62 Experiment
+222
+
+
+ 
+
+G. Maire, A. Kehrli, S. Ravat
+                       CERN, Geneva, Switzerland
+H. Coppier
+                       ESIEE, Amiens, France
+
+ 
+
+
+ 
+
+The aim of the NA62 experiment is the study of the rare decay K+→π+ν;ν- at the CERN SPS. The Detector Safety System (DSS) developed at CERN is responsible for assuring the protection of the experiment’s equipment. DSS requires a high degree of availability and reliability. It is composed of a Front-End and a Back-End part, the Front-End being based on a National Instruments cRIO system, to which the safety critical part is delegated. The cRIO Front-End is capable of running autonomously and of automatically taking predefined protective actions whenever required. It is supervised and configured by the standard CERN PVSS SCADA system. This DSS system can easily adapt to evolving requirements of the experiment during the construction, commissioning and exploitation phases. The NA62 DSS is being installed and has been partially commissioned during the NA62 Technical Run in autumn 2012, where components from almost all the detectors as well as the trigger and the data acquisition systems were successfully tested. The paper contains a detailed description of this innovative and performing solution, and demonstrates a good alternative to the LHC systems based on redundant PLCs.
+
+ 
+
+
+
+
+
+
+Poster MOPPC056 [0.613 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC057
+Data Management and Tools for the Access to the Radiological Areas at CERN
+226
+
+
+ 
+
+E. Sanchez-Corral Mena, P. Carbonez, A. Dorsival, G. Dumont, K. Foraz, T. Hakulinen, F. Havart, M.P. Kepinski, S. Mallon Amerigo, P. Martel, P. Ninin, R. Nunes, F. Valentini, J. Vollaire
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+As part of the refurbishment of the PS Personnel Protection system, the radioprotection (RP) buffer zones & equipment have been incorporated into the design of the new access points providing an integrated access concept to the radiation controlled areas of the PS complex. The integration of the RP and access control equipment has been very challenging due to the lack of space in many of the zones. Although successfully carried out, our experience from the commissioning of the first installed access points shows that the integration should also include the software tools and procedures. This paper presents an inventory of all the tools and data bases currently used (*) in order to ensure the access to the CERN radiological areas according to CERN’s safety and radioprotection procedures. We summarize the problems and limitations of each tool as well as the whole process, and propose a number of improvements for the different kinds of users including changes required in each of the tools. The aim is to optimize the access process and the operation & maintenance of the related tools by rationalizing and better integrating them.
+(*) Access Distribution and Management, Safety Information Registration, Works Coordination, Access Control, Operational Dosimeter, Traceability of Radioactive Equipment, Safety Information Panel.
+
+ 
+
+
+
+
+
+
+Poster MOPPC057 [1.955 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC058
+Design, Development and Implementation of a Dependable Interlocking Prototype for the ITER Superconducting Magnet Powering System
+230
+
+
+ 
+
+M. Zaera-Sanz
+                       GSI, Darmstadt, Germany
+J. Burdalo Gil, I. Romera, R. Schmidt, M. Zerlauth
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Based on the experience with an operational interlock system for the superconducting magnets of the LHC, CERN has developed a prototype for the ITER magnet central interlock system in collaboration with ITER. A total energy of more than 50 Giga Joules is stored in the magnet coils of the ITER Tokamak. Upon detection of a quench or other critical powering failures, the central interlock system must initiate the extraction of the energy to protect the superconducting magnets and, depending on the situation, request plasma disruption mitigations to protect against mechanical forces induced between the magnet coils and the plasma. To fulfil these tasks with the required high level of dependability the implemented interlock system is based on redundant PLC technology making use of hardwired interlock loops in 2-out-of-3 redundancy, providing the best balance between safety and availability. In order to allow for simple and unique connectivity of all client systems involved in the safety critical protection functions as well as for common remote diagnostics, a dedicated user interface box has been developed.
+
+ 
+
+
+ 
+
+
+
+MOPPC059
+Refurbishing of the CERN PS Complex Personnel Protection System
+234
+
+
+ 
+
+P. Ninin, D. Chapuis, F. Chapuis, Ch. Delamare, S. Di Luca, J.L. Duran-Lopez, T. Hakulinen, L. Hammouti, J.-F. Juget, T. Ladzinski, B. Morand, M. Munoz-Codoceo, E. Sanchez-Corral Mena, F. Schmitt, G. Smith, R. Steerenberg, F. Valentini
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In 2010, the refurbishment of the Personnel Protection System of the CERN Proton Synchrotron complex primary beam areas started. This large scale project was motivated by the obsolescence of the existing system and the objective of rationalizing the personnel protection systems across the CERN accelerators to meet the latest recommendations of the regulatory bodies of the host states. A new generation of access points providing biometric identification, authorization and co-activity clearance, reinforced passage check, and radiation protection related functionalities will allow access to the radiologically classified areas. Using a distributed fail-safe PLC architecture and a diversely redundant logic chain, the cascaded safety system guarantees personnel safety in the 17 machine of the PS complex by acting on the important safety elements of each zone and on the adjacent upstream ones. It covers radiological and activated air hazards from circulating beams as well as laser, and electrical hazards. This paper summarizes the functionalities provided, the new concepts introduced, and, the functional safety methodology followed to deal with the renovation of this 50 year old facility.
+
+ 
+
+
+
+
+
+
+Poster MOPPC059 [2.874 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC061
+Achieving a Highly Configurable Personnel Protection System for Experimental Areas
+238
+
+
+ 
+
+F. Havart, D. Chapuis, R. Nunes, D. Vaxelaire
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The personnel protection system of the secondary beam experimental areas at CERN manages the beam and access interlocking mechanism. Its aim is to guarantee the safety of the experimental area users against the hazards of beam radiation and laser light. The highly configurable, interconnected, and modular nature of those areas requires a very versatile system. In order to follow closely the operational changes and new experimental setups and to still keep the required level of safety, the system was designed with a set of matrices which can be quickly reconfigured. Through a common paradigm, based on industrial hardware components, this challenging implementation has been made for both the PS and SPS experimental halls, according to the IEC 61508 standard. The current system is based on a set of hypotheses formed during 25 years of operation. Conscious of the constant increase in complexity and the broadening risk spectrum of the present and future experiments, we propose a framework intended as a practical guide to structure the design of the experimental layouts based on risk evaluation, safety function prescriptions and field equipment capabilities.
+
+ 
+
+
+
+
+
+
+Poster MOPPC061 [2.241 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC062
+Real-Time System Supervision for the LHC Beam Loss Monitoring System at CERN
+242
+
+
+ 
+
+C. Zamantzas, B. Dehning, E. Effinger, J. Emery, S. Jackson
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The strategy for machine protection and quench prevention of the Large Hadron Collider (LHC) at the European Organisation for Nuclear Research (CERN) is mainly based on the Beam Loss Monitoring (BLM) system. The LHC BLM system is one of the most complex and large instrumentation systems deployed in the LHC. In addition to protecting the collider, the system also needs to provide a means of diagnosing machine faults and deliver feedback of the losses to the control room as well as to several systems for their setup and analysis. In order to augment the dependability of the system several layers of supervision has been implemented internally and externally to the system. This paper describes the different methods employed to achieve the expected availability and system fault detection.
+
+ 
+
+
+ 
+
+
+
+MOPPC064
+A New Spark Detection System for the Electrostatic Septa of the SPS North (Experimental) Area
+246
+
+
+ 
+
+R.A. Barlow, B. Balhan, J. Borburgh, E. Carlier, C. Chanavat, T. Fowler, B. Pinget
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Electrostatic septa (ZS) are used in the extraction of the particle beams from the CERN SPS to the North Area experimental zone. These septa employ high electric fields, generated from a 300 kV power supply, and are particularly prone to internal sparking around the cathode structure. This sparking degrades the electric field quality, consequently affecting the extracted beam, vacuum and equipment performance. To mitigate these effects, a Spark Detection System (SDS) has been realised, which is based on an industrial SIEMENS S7-400 programmable logic controller and deported Boolean processors modules interfaced through a PROFINET fieldbus. The SDS interlock logic uses a moving average spark rate count to determine if the ZS performance is acceptable. Below a certain spark rate it is probable that the ZS septa tank vacuum can recover, thus avoiding transition into a state where rapid degradation would occur. Above this level an interlock is raised and the high voltage is switched off. Additionally, all spark signals acquired by the SDS are sent to a front-end computer to allow further analysis such as calculation of spark rates and production of statistical data.
+
+ 
+
+
+
+
+
+
+Poster MOPPC064 [0.366 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC066
+Reliability Analysis of the LHC Beam Dumping System Taking into Account the Operational Experience during LHC Run 1
+250
+
+
+ 
+
+R. Filippini, E. Carlier, N. Magnin, J.A. Uythoven
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHC beam dumping system operated reliably during the Run 1 period of the LHC (2009 – 2013). As expected, there were a number of internal failures of the beam dumping system which, because of in-built safety features, resulted in safe removal of the particle beams from the machine. These failures (i.e. "false" beam dumps) have been appointed to the different failure modes and are compared to the predictions made by a reliability model established before the start of LHC operation. A statistically significant difference between model and failure data identifies those beam dumping system components that may have unduly impacted on the LHC availability and safety or might have been out of the scope of the initial model. An updated model of the beam dumping system reliability is presented, taking into account the experimental data presented and the foreseen system changes to be made in the 2013 – 2014 LHC shutdown.
+
+ 
+
+
+
+
+
+
+Poster MOPPC066 [1.554 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC068
+Operational Experience with a PLC Based Positioning System for a LHC Extraction Protection Element
+254
+
+
+ 
+
+C. Boucly, J. Borburgh, C. Bracco, E. Carlier, N. Magnin, N. Voumard
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHC Beam Dumping System (LBDS) nominally dumps the beam synchronously with the passage of the particle free beam abort gap at the beam dump extraction kickers. In the case of an asynchronous beam dump, an absorber element protects the machine aperture. This is a single sided collimator (TCDQ), positioned close to the beam, which has to follow the beam position and beam size during the energy ramp. The TCDQ positioning control is implemented within a SIEMENS S7-300 Programmable Logic Controller (PLC). A positioning accuracy better than 30 μm is achieved through a PID based servo algorithm. Errors due to a wrong position of the absorber w.r.t. the beam energy and size generates interlock conditions to the LHC machine protection system. Additionally, the correct position of the TCDQ w.r.t. the beam position in the extraction region is cross-checked after each dump by the LBDS eXternal Post Operational Check (XPOC). This paper presents the experience gained during LHC Run 1 and describes improvements that will be applied during the LHC shutdown 2013 – 2014.
+
+ 
+
+
+
+
+
+
+Poster MOPPC068 [3.381 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC069
+Operational Experience with the LHC Software Interlock System
+258
+
+
+ 
+
+L. Ponce, J. Wenninger, J.P. Wozniak
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The Software Interlock System (SIS) is a JAVA software project developed for the CERN accelerators complex. The core functionality of SIS is to provide a framework to program high level interlocks based on the surveillance of a large number of accelerator device parameters. The interlock results are exported to trigger beam dumps, inhibit beam transfers or abort the main magnets powering. Since its deployment in 2008, the LHC SIS has demonstrated that it is a reliable solution for complex interlocks involving multiple or distributed systems and when quick solutions for un-expected situations is needed. This paper is presenting the operational experience with software interlocking in the LHC machine, reporting on the overall performance and flexibility of the SIS, mentioning the risks when SW interlocks are used to patch missing functionalities for personal safety or machine protection.
+
+ 
+
+
+
+
+
+
+Poster MOPPC069 [0.323 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC071
+Development of the Machine Protection System for FERMILAB'S ASTA Facility
+262
+
+
+ 
+
+L.R. Carmichael, R. Neswold, A. Warner, J.Y. Wu
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+The Fermilab Advance Superconducting Test Accelerator (ASTA) under development will be capable of delivering an electron beam with up to 3000 bunches per macro-pulse, 5Hz repetition rate and 1.5 GeV beam energy in the final phase. The completed machine will be capable of sustaining an average beam power of 72 KW at the bunch charge of 3.2 nC. A robust Machine Protection System (MPS) capable of interrupting the beam within a macro-pulse and that interfaces well with new and existing controls system infrastructure is being developed to mitigate and analyze faults related to this relatively high damage potential. This paper will describe the component layers of the MPS system, including a FPGA-based Laser Pulse Controller, the Beam Loss Monitoring system design and the controls and related work done to date.
+
+ 
+
+
+
+
+
+
+Poster MOPPC071 [1.479 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC074
+Signal Processing Board for Beam Loss Monitor
+ 
+
+
+ 
+
+J. Yan, T.L. Allison
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Notice: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+This paper describes a new VME based machine protection Beam Loss Monitor (BLM) signal processing board designed at Jefferson Lab which features high sensitivity, high resolution, and low cost per channel. This double-wide VME board provides eight-channel signal processing with each channel having linear, logarithmic, and integrating amplifiers that simultaneously provide the optimal signal processing for both machine protection and beam diagnostics. Amplified signals are independently sampled by 16-bit, fast ADCs and then further processed through a Field Programmable Gate Array (FPGA). It also has features of fast shutdown interface (FSD), beam sync interface, built-in-self-test, remotely controlled bias signals, and on-board memory buffer. The initial experimental test shows that the BLM board has fast response (<< 1us) for integrating and wide dynamic range from 10 nA to 1 mA (>50 dB) for logarithmic signals. The board is suitable for signal processing from photomultiplier (PMT) and ion chamber detectors.
+
+ 
+
+
+ 
+
+
+
+MOPPC075
+A Monte Carlo Simulation Approach to the Reliability Modeling of the Beam Permit System of Relativistic Heavy Ion Collider (RHIC) at BNL
+265
+
+
+ 
+
+P. Chitnis, T.G. Robertazzi
+                       Stony Brook University, Stony Brook, New York, USA
+K.A. Brown
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The RHIC Beam Permit System (BPS) monitors the health of RHIC subsystems and takes active decisions regarding beam-abort and magnet power dump, upon a subsystem fault. The reliability of BPS directly impacts the RHIC downtime, and hence its availability. This work assesses the probability of BPS failures that could lead to substantial downtime. A fail-safe condition imparts downtime to restart the machine, while a failure to respond to an actual fault can cause potential machine damage and impose significant downtime. This paper illustrates a modular multistate reliability model of the BPS, with modules having exponential lifetime distributions. The model is based on the Competing Risks Theory with Crude Lifetimes, where multiple failure modes compete against each other to cause a final failure, and simultaneously influence each other. It is also dynamic in nature as the number of modules varies based on the fault trigger location. The model is implemented as a Monte Carlo simulation in Java, and analytically validated. The eRHIC BPS will be an extension of RHIC BPS. This analysis will facilitate building a knowledge base rendering intelligent decision support for eRHIC BPS design.
+
+ 
+
+
+
+
+
+
+Poster MOPPC075 [0.985 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC076
+Quantitative Fault Tree Analysis of the Beam Permit System Elements of Relativistic Heavy Ion Collider (RHIC) at BNL
+269
+
+
+ 
+
+P. Chitnis, T.G. Robertazzi
+                       Stony Brook University, Stony Brook, New York, USA
+K.A. Brown, C. Theisen
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The RHIC Beam Permit System (BPS) plays a key role in safeguarding against the anomalies developing in the collider during a run. The BPS collects RHIC subsystem statuses to allow the beam entry and its existence in the machine. The building blocks of BPS are Permit Module (PM) and Abort Kicker Module (AKM), which incorporate various electronic boards based on VME specification. This paper presents a quantitative Fault Tree Analysis (FTA) of the PM and AKM, yielding the hazard rates of three top failures that are potential enough to cause a significant downtime of the machine. The FTA helps tracing down the top failure of the module to a component level failure (such as an IC or resistor). The fault trees are constructed for all module variants and are probabilistically evaluated using an analytical solution approach. The component failure rates are calculated using manufacturer datasheets and MIL-HDBK-217F. The apportionment of failure modes for components is calculated using FMD-97. The aim of this work is to understand the importance of individual components of the RHIC BPS regarding its reliable operation, and evaluate their impact on the operation of BPS.
+
+ 
+
+
+
+
+
+
+Poster MOPPC076 [0.626 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC077
+Open Hardware Collaboration: A Way to Improve Efficiency for a Team
+273
+
+
+ 
+
+Y.-M. Abiven, P. Betinelli-Deck, J. Bisou, F. Blache, G. Renaud, S.Z. Zhang
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+SOLEIL* is a third generation Synchrotron radiation source located near Paris in France. Today, the Storage Ring delivers photon beam to 26 beamlines. In order to improve the machine and beamlines performance, new electronics requirements are identified. For these improvements, up-to-date commercial products are preferred but sometimes custom hardware designs become essential. At SOLEIL, the electronic team (8 people) is in charge of design, implementation and maintenance of 2000 electronics installed for control and data acquisition. This large basement and small team mean there is only little time left to focus on the development of new hardware designs. As alternative, we focus our development on the open Hardware (OHWR) initiative from the CERN dedicated for electronics designers at experimental physics facilities to collaborate on hardware designs. We collaborate as an evaluator and a contributor. We share some boards in the project SPI BOARDS PACKAGE**, developed to face our current challenges. We evaluated TDC core project, and we plan to evaluate FMC carrier. We will present our approach on how to be more efficient with developments, issues to face and the benefit we get.
+*: www.synchrotron-soleil.fr  **: www.ohwr.org/projects/spi-board-package 
+
+ 
+
+
+ 
+
+
+
+MOPPC078
+TANGO Steps Toward Industry
+277
+
+
+ 
+
+A. Götz, J.M. Chaize
+                       ESRF, Grenoble, France
+A. Delorme
+                       Gravit, Grenoble, France
+
+ 
+
+
+ 
+
+Funding: Gravit innovation Grenoble France.
+TANGO has proven its excellent reliability by controlling several huge scientific installations in a 24*7 mode. Even if it has originally been built for particle accelerators and scientific experiments, it can be used to control any equipment from small domestic applications to big industrial installations. In the last years the interest around TANGO has been growing and several industrial partners in Europe propose services for TANGO. The TANGO industrialization project aims to increase the visibility of the system fostering the economic activity around it. It promotes TANGO as an open-source flexible solution for controlling equipment as an alternative to proprietary SCADA systems. To achieve this goal several actions have been started, such as the development of an industrial demonstrator, better packaging, integrating OPC-UA and improving the communication around TANGO. The next step will be the creation of a TANGO software Foundation able to engage itself as a legal and economical partner for industry. This foundation will be funded by industrial partners, scientific institutes and grants. The goal is to foster and nurture the growing economic eco-system around TANGO.
+
+ 
+
+
+
+
+
+
+Poster MOPPC078 [4.179 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC079
+
+CODAC Core System, the ITER Software Distribution for I&C
+281
+
+
+ 
+
+F. Di Maio, L. Abadie, C.S. Kim, K. Mahajan, D. Stepanov, N. Utzel
+                       ITER Organization, St. Paul lez Durance, France
+
+ 
+
+
+ 
+
+In order to support the adoption of the ITER standards for the Instrumentation & Control (I&C) and to prepare for the integration of the plant systems I&C developed by many distributed suppliers, the ITER Organization is providing the I&C developers with a software distribution named CODAC Core System. This software has been released as incremental versions since 2010, starting from preliminary releases and with stable versions since 2012. It includes the operating system, the EPICS control framework and the tools required to develop and test the software for the controllers, central servers and operator terminals. Some components have been adopted from the EPICS community and adapted to the ITER needs, in collaboration with the other users. This is the case for the CODAC services for operation, such as operator HMI, alarms or archives. Other components have been developed specifically for the ITER project. This applies to the Self-Description Data configuration tools. This paper describes the current version (4.0) of the software as released in February 2013 with details on the components and on the process for its development, distribution and support.
+
+ 
+
+
+
+
+
+
+Poster MOPPC079 [1.744 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC081
+The Case of MTCA.4: Managing the Introduction of a New Crate Standard at Large Scale Facilities and Beyond
+285
+
+
+ 
+
+T. Walter, F. Ludwig, K. Rehlich, H. Schlarb
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The demands on hardware for control and data acquisition at large-scale research organizations have increased considerably in recent years. In response, modular systems based on the new MTCA.4 standard, jointly developed by large Public Research Organizations and industrial electronics manufacturers, have pushed the boundary of system performance in terms of analog/digital data processing performance, remote management capabilities, timing stability, signal integrity, redundancy and maintainability. Whereas such public-private collaborations are not entirely new, novel instruments are in order to test the acceptance of the MTCA.4 standard beyond the physics community, identify gaps in the technology portfolio and align collaborative R&D programs accordingly. We describe the ongoing implementation of a time-limited validation project as means towards this end, highlight the challenges encountered so far and present solutions for a sustainable division of labor along the industry value chain.
+
+ 
+
+
+ 
+
+
+
+MOPPC082
+Automated Verification Environment for TwinCAT PLC Programs
+288
+
+
+ 
+
+A. Beckmann
+                       XFEL. EU, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL will have three undulator systems SASE1, SASE2, and SASE3 to produce extremely brilliant, ultra-short pulses of x-rays with wavelengths down to 0.1 nm. The undulator gap is adjustable in order to vary photon beam energy. The corresponding motion control is implemented with industrial PCs running Beckhoff TwinCAT Programmable Logic Controllers (PLCs). So far, the functionality of the PLC programs has been verified on system level with the final hardware. This is a time-consuming manual task, but may also damage the hardware in case of severe program failures. To improve the verification process of PLC programs, a test environment with simulated hardware has been set up. It uses a virtual machine to run the PLC program together with a verification program that simulates the behavior of the hardware. Test execution and result checking is automated with the help of scripts, which communicate with the verification program to stimulate the PLC program. Thus, functional verification of PLC programs is reduced to running a set of scripts, without the need to connect to real hardware and without manual effort.
+
+ 
+
+
+
+
+
+
+Poster MOPPC082 [0.226 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC083
+Managing by Objectives a Research Infrastructure
+292
+
+
+ 
+
+M. Pugliese, F. Billè, D. Favretto, N. Guidi, M. Turcinovich
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Elettra (*) is a research center operating a research infrastrutcure with two light sources: a synchrotron radiation facility (Elettra) and a free electron laser (FERMI@Elettra). With the mission to promote cultural and socio economical growth of Italy and Europe through basic and applied research, technical and scientific training and technology transfer, few years ago it has adopted a balanced matrix organization. This paper describes the tools, techniques and practices we used to manage this change and the results obtained. We will describe the Virtual Unified Office (VUO) (**) based on the Project Management Institute (***) standards, that todays allow us to manage by objectives the whole research infrastructure and in particular, the integrated management of initiatives (projects, contracts, operating activities, staff commitments, skills, appointment letters and of the assessment procedures. We will also describe how the VUO integrates the various source of information to manage a set of company indicators and a balanced scorecard which allow us to execute the strategy.
+(*) http://www.elettra.eu  (**) http://vuo.elettra.trieste.it (***) http://www.pmi.org
+
+ 
+
+
+
+
+
+
+Poster MOPPC083 [2.853 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC084
+ESS Integrated Control System and the Agile Methodology
+296
+
+
+ 
+
+M. Reščič
+                       Cosylab, Ljubljana, Slovenia
+L. Fernandez
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The stakeholders of the ESS Integrated Control System (ICS) reside in four parts of the ESS machine: accelerator, target, neutron instruments and conventional facilities. ICS plans to meet the stakeholders’ needs early in the Construction phase, to accelerate and facilitate the Commissioning process by providing and delivering required tools earlier. This introduces the risk that stakeholders will not have had the full set of information required available early enough for the development of the interfacing systems (e.g. missing requirements, undecided design etc.) In order for ICS to accomplish its objectives it is needed to establish a development process that allows a quick adaptation to any change in the requirements with a minimum impact in the execution of the projects. Agile Methodology is well known for its ability to adapt quickly to change, as well as for involving users in the development process and producing working and reliable software from a very early stage in the project. The paper will present the plans, the tools, the organization of the team and the preliminary results of the setup work.
+
+ 
+
+
+ 
+
+
+
+MOPPC086
+Manage the MAX IV Laboratory Control System as an Open Source Project
+299
+
+
+ 
+
+V.H. Hardion, J.J. Jamroz, J. Lidón-Simon, M. Lindberg, A. Milán, A.G. Persson, D.P. Spruce
+                       MAX-lab, Lund, Sweden
+P.P. Goryl
+                       Solaris, Kraków, Poland
+
+ 
+
+
+ 
+
+Free Open Source Software (FOSS) is now deployed and used in most of the big facilities. It brings a lot of qualities that can compete with proprietary software like robustness, reliability and functionality. Arguably the most important quality that marks the DNA of FOSS is Transparency. This is the fundamental difference compared to its closed competitors and has a direct impact on how projects are managed. As users, reporters, contributors are more than welcome the project management has to have a clear strategy to promote exchange and to keep a community. The Control System teams have the chance to work on the same arena as their users and, even better, some of the users have programming skills. Unlike a fortress strategy, an open strategy may benefit from the situation to enhance the user experience. In this topic we will explain the position of the MaxIV KITS team. How “Tango install party” and “coding dojo” have been used to promote the contribution to the control system software and how our projects are structured in terms of process and tools (SARDANA, GIT… ) to make them more accessible for in house collaboration as well as from other facilities or even subcontractors.
+
+ 
+
+
+
+
+
+
+Poster MOPPC086 [7.230 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC087
+Tools and Rules to Encourage Quality for C/C++ Software
+303
+
+
+ 
+
+K. Sigerud, V. Baggiolini, J.C. Bau, S. Deghaye, J. Nguyen Xuan, X. Piroux, G. Sivatskiy, W. Sliwinski, I. Yastrebov
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Inspired by the success of the software improvement process for Java projects, in place since several years in the CERN accelerator controls group, it was agreed in 2011 to apply the same principles to the C/C++ software developed in the group, an initiative we call the Software Improvement Process for C/C++ software (SIP4C/C++). The objectives of the SIP4C/C++ initiative are: 1) agree on and establish best software quality practices, 2) choose tools for quality and 3) integrate these tools in the build process. After a year we have reached a number of concrete results, thanks to the collaboration between several involved projects, including: common build tool (based on GNU Make), which standardizes the way to build, test and release C/C++ binaries; unit testing with Google Test & Google Mock; continuous integration of C/C++ products with the existing CI server (Atlassian Bamboo); static code analysis (Coverity); generation of manifest file with dependency information; and runtime in-process metrics. This work presents the SIP4C/C++ initiative in more detail, summarizing our experience and the future plans.
+
+ 
+
+
+
+
+
+
+Poster MOPPC087 [3.062 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC088
+Improving Code Quality of the Compact Muon Solenoid Electromagnetic Calorimeter Control Software to Increase System Maintainability
+306
+
+
+ 
+
+O. Holme, D.R.S. Di Calafiori, G. Dissertori, L. Djambazov, W. Lustermann, S. Zelepoukine
+                       ETH, Zurich, Switzerland
+S. Zelepoukine
+                       UW-Madison/PD, Madison, Wisconsin, USA
+
+ 
+
+
+ 
+
+Funding: Swiss National Science Foundation (SNSF)
+The Detector Control System (DCS) software of the Electromagnetic Calorimeter (ECAL) of the Compact Muon Solenoid (CMS) experiment at CERN is designed primarily to enable safe and efficient operation of the detector during Large Hadron Collider (LHC) data-taking periods. Through a manual analysis of the code and the adoption of ConQAT*, a software quality assessment toolkit, the CMS ECAL DCS team has made significant progress in reducing complexity and improving code quality, with observable results in terms of a reduction in the effort dedicated to software maintenance. This paper explains the methodology followed, including the motivation to adopt ConQAT, the specific details of how this toolkit was used and the outcomes that have been achieved.
+* ConQAT, https://www.conqat.org/
+
+ 
+
+
+
+
+
+
+Poster MOPPC088 [2.510 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC090
+Managing a Product Called NIF - PLM Current State and Processes
+310
+
+
+ 
+
+D.B. Dobson, A.J. Churby, E.K. Krieger
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: * This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-632452
+Product lifecycle management (PLM) is the process of managing the entire lifecycle of a product from its conception, through design and manufacture, to service and disposal. The National Ignition Facility (NIF) can be considered one enormous product that is made up of hundreds of millions of individual parts and components (or products). The ability to manage and control the physical definition, status and configuration of the sum of all of these products is a monumental undertaking yet critical to the validity of the shot experiment data and the safe operation of the facility. NIF is meeting this challenge by utilizing an integrated and graded approach to implement a suite of commercial and custom enterprise software solutions to address PLM and other facility management and configuration requirements. It has enabled the passing of needed elements of product data into downstream enterprise solutions while at the same time minimizing data replication. Strategic benefits have been realized using this approach while validating the decision for an integrated approach where more than one solution may be required to address the entire product lifecycle management process.
+
+ 
+
+
+
+
+
+
+Poster MOPPC090 [14.237 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC092
+Commissioning the MedAustron Accelerator with ProShell
+314
+
+
+ 
+
+R. Moser, A.B. Brett, U. Dorda, M. Eichinger, M. Hager, M. Janulis, J. Junuzovic, M. Junuzovic, M. Marchhart, H. Pavetits, C. Torcato de Matos
+                       EBG MedAustron, Wr. Neustadt, Austria
+A.B. Brett, U. Dorda, M. Eichinger, J. Gutleber, M. Hager, M. Janulis, J. Junuzovic, M. Junuzovic, M. Marchhart, R. Moser, H. Pavetits, C. Torcato de Matos
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+MedAustron is a synchrotron based centre for light ion therapy under construction in Austria. The accelerator and its control system entered the on-site commissioning phase in January 2013. This contribution presents the current status of the accelerator operation and commissioning procedure framework called ProShell. It is used to model measurement procedures for commissioning and operation with Petri-Nets. Beam diagnostics device adapters are implemented in C#. To illustrate its use for beam commissioning, procedures currently in use are presented including their integration with existing devices such as ion source, power converters, slits, wire scanners and profile grid monitors. The beam spectrum procedure measures distribution of particles generated by the ion source. The phase space distribution procedure performs emittance measurement in beam transfer lines. The trajectory steering procedure measures the beam position in each part of the machine and aids in correcting the beam positions by integrating MAD-XX optics calculations. Additional procedures and (beam diagnostic) devices are defined, implemented and integrated with ProShell on demand as commissioning progresses.
+
+ 
+
+
+
+
+
+
+Poster MOPPC092 [2.896 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC094
+ARIEL Control System at TRIUMF – Project Update
+318
+
+
+ 
+
+R.B. Nussbaumer, D. Dale, D.B. Morris, K. Negishi, J.J. Pon, J.E. Richards, G. Waters, P.J. Yogendran
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+The Advanced Rare Isotope & Electron Linac (ARIEL) facility at TRIUMF, scheduled for Phase 1 completion in 2014, will use a control system based on EPICS. Discrete subsystems within the accelerator, beamlines and conventional facilities have been clearly identified. Control system strategies for each identified subsystem have been developed, and components have been chosen to satisfy the unique requirements of each system. The ARIEL control system will encompass methodology already established in the TRIUMF ISAC & ISAC-II facilities in addition to adoption of a number of technologies previously unused at TRIUMF. The scope includes interface with other discrete subsystems such as cryogenics and power distribution, as well as complete subsystem controls packages.
+
+ 
+
+
+ 
+
+
+
+MOPPC095
+PETAL Control System Status Report
+321
+
+
+ 
+
+C. Present
+                       CEA, LE BARP cedex, France
+A. Bauchet
+                       Sopra Group, Merignac, France
+
+ 
+
+
+ 
+
+Funding: CEA / Région Aquitaine / ILP / Europe / HYPER
+The PETAL laser facility is a high energy multi-petawatt laser beam being installed in the Laser MegaJoule building facility. PETAL is designed to produce a laser beam at 3 kilojoules of energy for 0.5 picoseconds of duration. The autonomous commissioning began in 2013. In the long term, PETAL’s Control System is to be integrated in the LMJ’s Control System for a coupling with its 192 nanoseconds laser beams. The presentation gives an overview of the general control system architecture, and focuses on the use of TANGO framework in some of the subsystems software. Then the presentation explains the steps planned to develop the control system from the first laser shoots in autonomous exploitation to the merger in the LMJ’s facility.
+
+ 
+
+
+
+
+
+
+Poster MOPPC095 [1.891 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC096
+Design and Implementation Aspects of the Control System at FHI FEL
+324
+
+
+ 
+
+H. Junkes, W. Schöllkopf, M. Wesemann
+                       FHI, Berlin, Germany
+R. Lange
+                       HZB, Berlin, Germany
+R. Lange
+                       AES, Princeton, New Jersey, USA
+
+ 
+
+
+ 
+
+A new mid-infrared FEL has been commissioned at the Fritz-Haber-Institut in Berlin. It will be used for spectroscopic investigations of molecules, clusters, nanoparticles and surfaces. The oscillator FEL is operated with 15 - 50 MeV electrons from a normal-conducting S-band linac equipped with a gridded thermionic gun and a chicane for controlled bunch compression. Construction of the facility building with the accelerator vault began in April 2010. First lasing was observed on Februar 15th, 2012. * The EPICS software framework was chosen to build the control system for this facility. The industrial utility control system is integrated using BACnet/IP. Graphical operator and user interfaces are based on the Control System Studio package. The EPICS channel archiver, an electronic logbook, a web based monitoring tool, and a gateway complete the installation. This paper presents design and implementation aspects of the control system, its capabilities, and lessons learned during local and remote commissioning.
+* W. Schöllkopf et al., FIRST LASING OF THE IR FEL AT THE FRITZ-HABER-INSTITUT, BERLIN, Conference FEL12
+
+ 
+
+
+
+
+
+
+Poster MOPPC096 [10.433 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC097
+The FAIR Control System - System Architecture and First Implementations
+328
+
+
+ 
+
+R. Huhmann, R. Bär, D.H. Beck, J. Fitzek, G. Fröhlich, L. Hechler, U. Krause, M. Thieme
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The paper presents the architecture of the control system for the Facility for Antiproton and Ion Research (FAIR) currently under development. The FAIR control system comprises the full electronics, hardware, and software to control, commission, and operate the FAIR accelerator complex for multiplexed beams. It takes advantage of collaborations with CERN in using proven framework solutions like FESA, LSA, White Rabbit, etc. The equipment layer consists of equipment interfaces, embedded system controllers, and software representations of the equipment (FESA). A dedicated real time network based on White Rabbit is used to synchronize and trigger actions on equipment level. The middle layer provides service functionality both to the equipment layer and the application layer through the IP control system network. LSA is used for settings management. The application layer combines the applications for operators as GUI applications or command line tools typically written in Java. For validation of concepts already in 2014 FAIR's proton injector at CEA/France and CRYRING at GSI will be commissioned with reduced functionality of the proposed FAIR control system stack.
+
+ 
+
+
+
+
+
+
+Poster MOPPC097 [2.717 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC098
+The EPICS-based Accelerator Control System of the S-DALINAC
+332
+
+
+ 
+
+C. Burandt, U. Bonnes, J. Enders, F. Hug, N. Pietralla, T. Schösser
+                       TU Darmstadt, Darmstadt, Germany
+M.G. Konrad
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: Supported by DFG through CRC 634.
+The S-DALINAC (Superconducting Darmstadt Linear Accelerator) is an electron accelerator for energies from 3 MeV up to 130 MeV. It supplies beams of either spin-polarized or unpolarized electrons for experiments in the field of nuclear structure physics and related areas of fundamental research. The migration of the Accelerator Control System to an EPICS-based system started three years ago and has essentially been done in parallel to regular operation. While it has not been finished yet it already pervades all the different aspects of the control system. The hardware is interfaced by EPICS Input/Output Controllers. User interfaces are designed with Control System Studio (CSS) and BOY (Best Operator Interface Yet). Latest activities are aimed at the completion of the migration of the beamline devices to EPICS. Furthermore, higher-level aspects can now be approached more intensely. This includes the introduction of efficient alarm-handling capabilities as well as making use of interconnections between formerly separated parts of the system. This contribution will outline the architecture of the S-DALINAC's Accelerator Control System and report about latest achievements in detail.
+
+ 
+
+
+
+
+
+
+Poster MOPPC098 [26.010 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC099
+The ANKA Control System: On a Path to the Future
+336
+
+
+ 
+
+N.J. Smale, E. Hertle, E. Huttel, W. Mexner, A.-S. Müller
+                       KIT, Karlsruhe, Germany
+I. Križnar
+                       Cosylab, Ljubljana, Slovenia
+S. Marsching
+                       Aquenos GmbH, Baden-Baden, Germany
+
+ 
+
+
+ 
+
+The machine control system of the synchrotron radiation source ANKA at KIT (Karlsruhe Institute of Technology) is migrating from dedicated I/O microcontroller boards that utilise the LonWorks field bus and are visualised with the ACS Corba based control system to Ethernet TCP/IP devices with an EPICS server layer and visualisation by Control System Studio (CSS). This migration is driven by the need to replace ageing hardware, and in order to move away from the outdated microcontroller's embedded LonWorks bus. Approximately 500 physical devices, such as power supplies, vacuum pumps etc, will need to be replaced (or have their I/O hardware changed) and be integrated to the new EPICS/CSS control system. In this paper we report on the technology choices and discuss justifications of those choices, the progress of migration, and how such a task can be achieved in a transparent way with a fully user operational machine. We also report on the benefits reaped from using EPICS, CSS and BEAST alarming.
+
+ 
+
+
+
+
+
+
+Poster MOPPC099 [0.152 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC100
+SKA Monitioring and Control Progress Status
+340
+
+
+ 
+
+S. Roy Chaudhuri, S. Natarajan
+                       TRDDC, Pune, India
+D. Barbosa
+                       GRIT, Aveiro, Portugal
+A. Bridger
+                       ROE, UTAC, United Kingdom
+T. Coiffard
+                       GTD, Barcelona, Spain
+Y. Gupta, Y.G. Wadadekar
+                       NCRA, Pune, India
+J.C. Guzman
+                       CSIRO ATNF, Epping, Australia
+V.K. Mohile
+                       PSL, Pune, India
+R. Smareglia
+                       INAF-OAT, Trieste, Italy
+L. Van den Heever
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+S. Vrcic
+                       DRAO, Penticton, British Columbia, Canada
+
+ 
+
+
+ 
+
+The Monitoring and Control system for the SKA radio telescope is now moving from the conceptual design to the system requirements and design phase, with the formation of a consortium geared towards delivering the Telescope Manager (TM) work package. Recent program decisions regarding hosting of the telescope across two sites, Australia and South Africa, have brought in new challenges from the TM design perspective. These include strategy to leverage the individual capabilities of autonomous telescopes, and also integrating the existing precursor telescopes (ASKAP and MeerKat) with heterogenous technologies and approaches into the SKA. A key design goal from the viewpoint of minimizing development and lifecycle costs is to have a uniform architectural approach across the telescopes, and to maximize standardization of software and instrumentation across the systems, despite potential variations in system hardware and procurement arrangements among the participating countries. This paper discusses some of these challenges, and their mitigation approaches that the consortium intends to work upon, along with an update on the current status and progress on the overall TM work.
+
+ 
+
+
+ 
+
+
+
+MOPPC101
+The Control Architecture of Large Scientific Facilities: ITER and LHC lessons for IFMIF
+344
+
+
+ 
+
+A. Marqueta Barbero, J. Knaster, K. Nishiyama
+                       IFMIF/EVEDA, Rokkasho, Japan
+A. Ibarra
+                       CIEMAT, Madrid, Spain
+A. Vergara-Fernandez, A. Wallander
+                       ITER Organization, St. Paul lez Durance, France
+M. Zerlauth
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The development of an intense source of neutrons with the spectrum of DT fusion reactions is indispensable to qualify suitable materials for the First Wall of the nuclear vessel in fusion power plants. The FW, overlap of different layers, is essential in future reactors; they will convert the 14 MeV of neutrons to thermal energy and generate T to feed the DT reactions. IFMIF will reproduce those irradiation conditions with two parallel 40 MeV CW deuteron Linacs, at 2x125 mA beam current, colliding on a 25 mm thick Li screen flowing at 15 m/s and producing a n flux of 1018 m2/s in 500 cm3 volume with a broad peak energy at 14 MeV. The design of the control architecture of a large scientific facility is dependent on the particularities of the processes in place or the volume of data generated; but it is also tied to project management issues. LHC and ITER are two complex facilities, with ~106 process variables, with different control systems strategies, from the modular approach of CODAC, to the more integrated implementation of CERN Technical Network. This paper analyzes both solutions, and extracts conclusions that shall be applied to the future control architecture of IFMIF.
+
+ 
+
+
+
+
+
+
+Poster MOPPC101 [0.297 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC103
+Status of the RIKEN RI Beam Factory Control System
+348
+
+
+ 
+
+M. Komiyama, N. Fukunishi, A. Uchiyama, M. Wakasugi
+                       RIKEN Nishina Center, Wako, Japan
+M. Hamanaka, M. Nishimura
+                       SHI Accelerator Service Ltd., Tokyo, Japan
+
+ 
+
+
+ 
+
+RIKEN Radioactive Isotope Beam Factory (RIBF) is a heavy-ion accelerator facility producing unstable nuclei and studying their properties. After the first beam extraction from Superconducting Ring Cyclotron (SRC), the final stage accelerator of RIBF, in 2006, several kinds of updates have been performed. We will here present two projects of large-scale experimental instrumentations to be introduced in RIBF that offer new type of experiments. One is an isochronous storage ring aiming at precise mass measurements of short-lived nuclei (Rare RI ring), and the other is construction of a new beam transport line dedicated to more effective generation of seaweed mutation induced by energetic heavy ions. In order to control them, the EPICS-based RIBF control system is now under upgrading. Each device used in new experimental instrumentations is controlled by the same kind of controllers as those existing, such as Programmable Logic Controllers (PLCs). On the other hand, we have first introduced Control System Studio (CSS) for operator interface. We plan to set up the CSS not only for new projects but also for the existing RIBF control system step by step.
+
+ 
+
+
+
+
+
+
+Poster MOPPC103 [2.446 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC104
+Design and Implementation of Sesame's Booster Ring Control System
+352
+
+
+ 
+
+Z. Qazi, A. Ismail, I. Saleh
+                       SESAME, Allan, Jordan
+P. Betinelli-Deck
+                       SOLEIL, Gif-sur-Yvette, France
+M.T. Heron
+                       Diamond, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+SESAME is a synchrotron light source under installation located in Allan, Jordan. It consists of 2.5 GeV storage-ring, a 800 MeV Booster-Synchrotron and a 22 MeV Microtron as Pre-Injector. SESAME succeeded to get the first beam from Microtron, the booster is expected to be commissioned by the end of 2013, the storage-ring by the end of 2015 and the first beam-lines in 2016. This paper presents building of control systems of SEAME booster. EPICS is the main control-software tool and EDM for building GUIs which is being replaced by CSS. PLCs are used mainly for the interlocks in the vacuum system and power-supplies of the magnets, and in diagnostics for florescent screens and camera- switches. Soft IOCs are used for different serial devices (e.g. vacuum gauge controllers) through Moxa terminal servers and Booster power supplies through Ethernet connection. Libera Electron modules with EPICS tools (IOCs and GUIs) from Diamond Light Source are used for beam position monitoring. The timing System consists of one EVG and three EVR cards from Micro Research Finland (MRF). A distributed version control repository using Git is used at SESAME to track development of the control subsystems.
+
+ 
+
+
+
+
+
+
+Poster MOPPC104 [1.776 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC106
+Status Report of RAON Control System
+356
+
+
+ 
+
+S. Ryu, S. Choi, D. Jeon, J.H. Lee
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+The RAON is a new heavy ion accelerator under construction in South Korea, which is to produce a variety of stable ion and rare isotope beams to support various researches for the basic science and applied research applications. To produce the isotopes to fulfill the requirements we have planed the several modes of operation scheme which require fine-tuned synchronous controls, asynchronous controls, or both among the accelerator complexes. The basic idea and development progress of the control system as well as the future plan are presented.
+
+ 
+
+
+
+
+
+
+Poster MOPPC106 [1.403 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC107
+RF-Generators Control Tools for Kurchatov Synchrotron Radiation Source
+359
+
+
+ 
+
+Y.V. Krylov
+                       RRC, Moscow, Russia
+Y.V. Efimov, Y.A. Fomin, E.V. Kaportsev, D. V. Konyakhin, K. Moseev, N.I. Moseiko, A. Vernov
+                       NRC, Moscow, Russia
+
+ 
+
+
+ 
+
+Now the technology equipment of the Kurchatov Synchrotron Radiation Source (KSRS) is upgraded. At the same time, new equipment and software solutions for the control system are implemented. The KSRS main ring is the electron synchrotron with two 181 MHz RF-generators, their control system provides measurement of parameters of generation, regulation of tuning elements in wave guides and resonators, output of alarm messages. At the execution level the VME standard equipment is used. Server level is supported by Citect SCADA and the SQL historian server. The operator level of control system is implemented, as a PC local network. It allowed to expand number of measuring channels, to increase speed of processing and data transfers, to have on demand historical data with the big frequency of inquiry, and also to improve the accuracy of measurements. In article the control system structure by KSRS RF-generators, including the description of all levels of control is provided. Examples of implementation of the operator interface are given.
+
+ 
+
+
+
+
+
+
+Poster MOPPC107 [1.671 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC108
+Status of the NSLS-II Booster Control System
+362
+
+
+ 
+
+S.E. Karnaev, P.B. Cheblakov, A.A. Derbenev, R.A. Kadyrov, S.S. Serednyakov, E.A. Simonov
+                       BINP SB RAS, Novosibirsk, Russia
+M.A. Davidsaver, J.H. De Long
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+The booster control system is an integral part of the NSLS-II control system and is developed under EPICS. The booster control system includes six IBM Systems x3250 M3 and four VME3100 controllers connected via Gigabit Ethernet. These computers provide running IOCs for power supplies control, timing, beam diagnostics and interlocks. Also cPCI ADCs located in cPCI crate are used for beam diagnostics. Front-end electronics for vacuum control and interlocks are Allen-Bradley programmable logic controllers and I/O devices. Timing system is based on use of Micro-Research Finland Oy products: EVR 230RF and PMC EVR. Power supplies control use BNL developed set of a Power Supply Interface (PSI) which is located close to power supplies and a Power Supply Controller (PSC) which is connected to a front-end computer via 100 Mbit Ethernet. Each PSI is connected to its PSC via fiber-optic link. High Level Applications developed in Control System Studio and python run in Operator Consoles located in the Control Room. This paper describes the final design and status of the booster control system. The functional block diagrams are presented.
+
+ 
+
+
+
+
+
+
+Poster MOPPC108 [0.458 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC109
+Status of the MAX IV Laboratory Control System
+366
+
+
+ 
+
+J. Lidón-Simon, V.H. Hardion, J.J. Jamroz, M. Lindberg, A.G. Persson, D.P. Spruce
+                       MAX-lab, Lund, Sweden
+
+ 
+
+
+ 
+
+The MAX IV Laboratory is a new synchrotron light source being built in Lund, south Sweden. The whole accelerator complex consists of a 3GeV 300m long full energy linac, two Storage Rings of 1.5GeV and 3GeV and a Short Pulse Facility for pump and probe experiments with bunches around 100fs long. First x-rays for the users are expected to be delivered in 2015 for the SPF and 2016 for the Storage Rings. This paper describes the progress in the design of the control system for the accelerator and the different solutions adopted for data acquisition, synchronisation, networking, safety and other aspects related to the control system
+
+ 
+
+
+
+
+
+
+Poster MOPPC109 [0.522 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC110
+The Control System for the CO2 Cooling Plants for Physics Experiments
+370
+
+
+ 
+
+L. Zwalinski, J. Daguin, J. Godlewski, J. Noite, M. Ostrega, S. Pavis, P. Petagna, P. Tropea, B. Verlaat
+                       CERN, Geneva, Switzerland
+B. Verlaat
+                       NIKHEF, Amsterdam, The Netherlands
+
+ 
+
+
+ 
+
+CO2 cooling has become interesting technology for current and future tracking particle detectors. A key advantage of using CO2 as refrigerant is the high heat transfer capabilities allowing a significant material budget saving, which is a critical element in state of the art detector technologies. Several CO2 cooling stations, with cooling power ranging from 100W to several kW, have been developed at CERN to support detector testing for future LHC detector upgrades. Currently, two CO2 cooling plants for the ATLAS Pixel Insertable B-Layer and the Phase I Upgrade CMS Pixel detector are under construction. This paper describes the control system design and implementation using the UNICOS framework for the PLCs and SCADA. The control philosophy, safety and interlocking standard, user interfaces and additional features are presented. CO2 cooling is characterized by high operation stability and accurate evaporation temperature control over large distances. Implemented split range PID controllers with dynamically calculated limiters, multi-level interlocking and new software tools like CO2 online p-H diagram, jointly enable the cooling to fulfill the key requirements of reliable system.
+
+ 
+
+
+
+
+
+
+Poster MOPPC110 [2.385 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC111
+Overview of LINAC4 Beam Instrumentation Software
+374
+
+
+ 
+
+L.K. Jensen, M. Andersen, A. Guerrero, B. Kolad, M. Ludwig, U. Raich, F. Roncarolo
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+This paper presents an overview of results from the recent LINAC4 commissioning with H− beam at CERN. It will cover beam instrumentation systems acquiring beam position, intensity, size and emittance starting from the project proposal to commissioning results.
+
+ 
+
+
+ 
+
+
+
+MOPPC112
+Current Status and Perspectives of the SwissFEL Injector Test Facility Control System
+378
+
+
+ 
+
+P. Chevtsov, D.A. Armstrong, M. Dach, E.J. Divall, M. Heiniger, C.E. Higgs, M. Janousch, G. Janser, G. Jud, B. Kalantari, R. Kapeller, T. Korhonen, R.A. Krempaska, M.P. Laznovsky, A.C. Mezger, V. Ovinnikov, W. Portmann, D. Vermeulen
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The Free Electron Laser (SwissFEL) Injector Test Facility at Paul Scherrer Institute has been in operations for more than three years. The Injector Test Facility machine is a valuable development and validation platform for all major SwissFEL subsystems including controls. Based on the experience gained from the Test Facility operations support, the paper presents current and some perspective controls solutions focusing on the future SwissFEL project.
+
+ 
+
+
+
+
+
+
+Poster MOPPC112 [1.224 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC116
+Evolution of Control System Standards on the Diamond Synchrotron Light Source
+381
+
+
+ 
+
+M.T. Heron, T.M. Cobb, R. Mercado, N.P. Rees, I.S. Uzun, K.G. Wilkinson
+                       Diamond, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Control system standards for the Diamond synchrotron light source were initially developed in 2003. They were largely based on Linux, EPICS and VME and were applied fairly consistently across the three accelerators and first twenty photon beamlines. With funding for further photon beamlines in 2011 the opportunity was taken to redefine the standards to be largely based on Linux, EPICS, PC’s and Ethernet. The developments associated with this will be presented, together with solutions being developed for requirements that fall outside the standards.
+
+ 
+
+
+
+
+
+
+Poster MOPPC116 [0.360 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC118
+Development of EPICS Accelerator Control System for the IAC 44 MeV Linac
+385
+
+
+ 
+
+A. Andrews, B.L. Berls, C.F. Eckman, K. Folkman, M. Khandaker, Y. Kim, C. O'Neill, J. Ralph
+                       IAC, Pocatello, IDAHO, USA
+P. Buaphad, Y. Kim
+                       ISU, Pocatello, Idaho, USA
+
+ 
+
+
+ 
+
+The Idaho Accelerator Center (IAC) of Idaho State University (ISU) has been operating nine low energy accelerators. Since the beginning of the fall semester of 2012, the ISU Advanced Accelerator and Ultrafast Beam Lab (AAUL) group has been working to develop a new EPICS system to control 47 magnet power supplies for an IAC 44 MeV L-band linear accelerator. Its original control system was fully analog, which had several limitations to get good reproducibility and stability during the accelerator operation. This paper describes our group’s team effort and accomplishment in developing a new EPICS system to control 15 Lambda EMS and 32 TDK-Lambda ZUP power supplies for the IAC L-band linear accelerator. In addition, we also describe several other useful tools such as the save and restore function.
+
+ 
+
+
+
+
+
+
+Poster MOPPC118 [1.175 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC120
+Commissioning Status of NSLS-II Vacuum Control System
+389
+
+
+ 
+
+H. Xu, H.-C. Hseuh, S. Leng, D. Zigrosser
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The National Synchrotron Light Source II (NSLS-II) is a state-of-the-art 3 GeV third generation light source currently under integrated testing and commissioning at Brookhaven National Laboratory. The vacuum systems are monitored by vacuum gauges and ion pump current. The gate valves are controlled by programmable logic controllers (PLC) using voting scheme. EPICS application codes provide the high level monitoring and control through the input-output controllers. This paper will discuss the commissioning status of the various aspects of vacuum control system.
+
+ 
+
+
+
+
+
+
+Poster MOPPC120 [0.648 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC122
+EPICS Interface and Control of NSLS-II Residual Gas Analyzer System
+392
+
+
+ 
+
+H. Xu, H.-C. Hseuh, K. Wilson, D. Zigrosser
+                       BNL, Upton, Long Island, New York, USA
+M.J. Ferreira
+                       SLAC, Menlo Park, USA
+
+ 
+
+
+ 
+
+Residual Gas Analyzers (RGAs) have been widely used in accelerator vacuum systems for monitoring and vacuum diagnostics. The National Synchrotron Light Source II (NSLS-II) vacuum system adopts Hiden RC-100 RGA which supports remote electronics, thus allowing real-time diagnostics with beam operation as well as data archiving and off-line analysis. This paper describes the interface and operation of these RGAs with the EPICS based control system.
+
+ 
+
+
+
+
+
+
+Poster MOPPC122 [1.004 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC123
+Extending WinCC OA for Use as Accelerator Control System Core
+395
+
+
+ 
+
+M. Marchhart, A.B. Brett, M. Hager, M. Janulis, J. Junuzovic, M. Junuzovic, R. Moser, H. Pavetits, C. Torcato de Matos
+                       EBG MedAustron, Wr. Neustadt, Austria
+A.B. Brett, J. Gutleber, M. Hager, M. Janulis, J. Junuzovic, M. Junuzovic, M. Marchhart, R. Moser, C. Torcato de Matos
+                       CERN, Geneva, Switzerland
+J. Dedič
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+The accelerator control system for the MedAustron light-ion medical particle accelerator has been designed under the guidance of CERN in the scope of an EBG MedAustron/CERN collaboration agreement. The core is based on the SIMATIC WinCC OA SCADA tool. Its open API and modular architecture permitted CERN to extend the product with features that go beyond traditional supervisory control and that are vital for directly operating a particle accelerator. Several extensions have been introduced to make WinCC OA fit for accelerator control: (1) Near real-time data visualization, (2) external application launch and monitoring, (3) accelerator settings snapshot and consistent restore, (4) generic panel navigation supporting role based permission handling, (5) native integration with interactive 3D engineering visualization, (6) integration with National Instruments based front-end controllers. The major drawback identified is the lack of support of callbacks from C++ extensions. This prevents asynchronous functions, multithreaded implementations and soft real-time behaviour. We are therefore striving to search for support in the user community to trigger the implementation of this function.
+
+ 
+
+
+
+
+
+
+Poster MOPPC123 [0.656 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC124
+Optimizing EPICS for Multi-Core Architectures
+399
+
+
+ 
+
+R. Lange, F. Di Maio
+                       ITER Organization, St. Paul lez Durance, France
+R. Lange
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by German Bundesministerium für Bildung und Forschung and Land Berlin.
+EPICS is a widely used software framework for real-time controls in large facilities, accelerators and telescopes. Its multithreaded IOC (Input Output Controller) Core software has been developed on traditional single-core CPUs. The ITER project will use modern multi-core CPUs, running the RHEL Linux operating system in its MRG-R real-time variant. An analysis of the thread handling in IOC Core shows different options for improving the performance and real-time behavior, which are discussed and evaluated. The implementation is split between improvements inside EPICS Base, which have been merged back into the main distribution, and a support module that makes full use of these new features. This paper describes design and implementation aspects, and presents results as well as lessons learned.
+
+ 
+
+
+
+
+
+
+Poster MOPPC124 [0.448 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC126
+!CHAOS: the "Control Server" Framework for Controls
+403
+
+
+ 
+
+L. Catani
+                       INFN-Roma II, Roma, Italy
+F. Antonucci, C. Bisegni, A. Capozzi, G. Di Pirro, L.G. Foggetta, F. Iesu, N. Licheri, G. Mazzitelli, A. Stecchi
+                       INFN/LNF, Frascati (Roma), Italy
+R. Gargana, A. Michelotti
+                       Consorzio Laboratorio Nicola Cabibbo, Frascati, Italy
+M. Mara
+                       Istituto Nazionale di Fisica Nucleare, Amministrazione Centrale, Frascati, Italy
+
+ 
+
+
+ 
+
+We report on the progress of !CHAOS*, a framework for the development of control and data acquisition services for particle accelerators and large experimental apparatuses. !CHAOS introduces to the world of controls a new approach for designing and implementing communications and data distribution among components and for providing the middle-layer services for a control system. Based on software technologies borrowed from high-performance Internet services !CHAOS offers by using a centralized, yet highly-scalable, cloud-like approach all the services needed for controlling and managing a large infrastructure. It includes a number of innovative features such as high abstraction of services, devices and data, easy and modular customization, extensive data caching for enhancing performances, integration of all services in a common framework. Since the !CHAOS conceptual design was presented two years ago the INFN group have been working on the implementations of services and components of the software framework. Most of them have been completed and tested for evaluating performance and reliability. Some services are already installed and operational in experimental facilities at LNF.
+* "Introducing a new paradigm for accelerators and large experimental apparatus control systems", L. Catani et.al., Phys. Rev. ST Accel. Beams, http://prst-ab.aps.org/abstract/PRSTAB/v15/i11/e112804
+
+ 
+
+
+
+
+
+
+Poster MOPPC126 [0.874 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC128
+Real-Time Process Control on Multi-Core Processors
+407
+
+
+ 
+
+M. Ishii, Y. Furukawa, T. Matsumoto
+                       JASRI/SPring-8, Hyogo-ken, Japan
+
+ 
+
+
+ 
+
+A real-time control is an essential for a low level RF and timing system to have beam stability in the accelerator operation. It is difficult to optimize priority control of multiple processes with real-time class and time-sharing class on a single-core processor. For example, we can’t log into the operating system if a real-time class process occupies the resource of a single-core processor. Recently multi-core processors have been utilized for equipment controls. We studied the process control of multiple processes running on multi-core processors. After several tunings, we confirmed that an operating system could run stably under heavy load on multi-core processors. It would be possible to achieve real-time control required milliseconds order response under the fast control system such as an event synchronized data acquisition system. Additionally we measured the response performance between client and server processes using MADOCA II framework that is the next-generation MADOCA. In this paper we present about the tunings for real-time process control on multi-core processors and performance results of MADOCA II.
+
+ 
+
+
+
+
+
+
+Poster MOPPC128 [0.450 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC129
+MADOCA II Interface for LabVIEW
+410
+
+
+ 
+
+Y. Furukawa, T. Fujita, M. Ishii, T. Matsumoto
+                       JASRI/SPring-8, Hyogo-ken, Japan
+
+ 
+
+
+ 
+
+LabVIEW is widely used for experimental station control in SPring-8. LabVIEW is also partially used for accelerator control, while most software of the SPring-8 accelerator and beamline control are built on MADOCA control framework. As synchrotron radiation experiments advances, there is requirement of complex data exchange between MADOCA and LabVIEW control systems which was not realized. We have developed next generation MADOCA called MADOCA II, as reported in this ICALEPCS (T.Matsumoto et.al.). We ported MADOCA II framework to Windows and we developed MADOCA II interface for LabVIEW. Using the interface, variable length data can be exchanged between MADOCA and LabVIEW based softwares. As a first application, we developed a readout system for an electron beam position monitor with NI's PCI-5922 digitizers. A client software sends a message to a remote LabVIEW based digitizer readout software via the MADOCA II midlleware and the readout system sends back waveform data to the client. We plan to apply the interface various accelerator and synchrotron radiation experiment controls.
+
+ 
+
+
+ 
+
+
+
+MOPPC130
+A New Message-Based Data Acquisition System for Accelerator Control
+413
+
+
+ 
+
+A. Yamashita, M. Kago
+                       JASRI/SPring-8, Hyogo-ken, Japan
+
+ 
+
+
+ 
+
+The data logging system for SPring-8 accelerator complex has been operating for 16 years as a part of MADOCA system. Collector processes periodically request distributed computers to collect sets of data by synchronous ONC-RPC protocol at fixed cycles. On the other hand, we also developed another MyDAQ system for casual or temporary data acquisition. A data acquisition process running on a local computer pushes one BSD socket stream into a server at random time. Its "one stream per one signal" strategy made data management simple while the system has no scalability. We developed a new data acquisition system which has super-MADOCA scale and MyDAQ's simplicity for new generation accelerator project. The new system based on ZeroMQ messaging library and MessagePack serialization library has high availability, asynchronous messaging, flexibility in data expression and scalability. The input/output plug-ins accept multi protocols and send data to various data systems. This paper describes design, implementation, performance, reliability and deployment of the system.
+
+ 
+
+
+
+
+
+
+Poster MOPPC130 [0.197 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC131
+Experience of Virtual Machines in J-PARC MR Control
+417
+
+
+ 
+
+N. Kamikubota, S. Yamada, N. Yamamoto
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+T. Iitsuka, S. Motohashi, S.Y. Yoshida
+                       Kanto Information Service (KIS), Accelerator Group, Ibaraki, Japan
+H. Nemoto
+                       ACMOS INC., Tokai-mura, Ibaraki, Japan
+K.C. Sato
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+D. Takahashi
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+
+ 
+
+
+ 
+
+At the J-PARC Main Ring (MR), we have used virtual-machine environment extensively in our accelerator control. In 2011, we developed a virtual-IOC, an EPICS In/Out Controller running on a virtual machine [1]. Now in 2013, about 20 virtual-IOCs are used in daily MR operation. In the summer of 2012, we updated our operating system from Scientific Linux 4 (SL4) to Scientific Linux 6 (SL6). In the SL6, KVM virtual-machine environment is supported as a default service. This fact encouraged us to port basic control services (ldap, dhcp, tftp, rdb, achiver, etc.) to multiple virtual machines. Each virtual machine has one service. Virtual machines are running on a few (not many) physical machines. This scheme enables easier maintenance of control services than before. In this paper, our experiences using virtual machines during J-PARC MR operation will be reported.
+[1] VIRTUAL IO CONTROLLERS AT J-PARC MR USING XEN, N.Kamikubota et. al.,  ICALEPCS 2011
+
+ 
+
+
+
+
+
+
+Poster MOPPC131 [0.213 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC132
+Evaluating Live Migration Performance of a KVM-Based EPICS
+420
+
+
+ 
+
+L. Hu, Y.P. Chu, L.B. Ding, D.P. Jin, X. Jun, J.J. Li, Y.L. Liu, J. Zhuang, J. Zhuang
+                       IHEP, Beijing, People's Republic of China
+Y.P. Chu, D.P. Jin, J. Zhuang
+                       State Key laboratory of Particle Detection and Electronics of China, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+In this paper we present some results about live migration performance evaluation of a KVM-Based EPICS on PC.About PC,we care about the performance of storage,network and CPU. EPICS is a control system. we make a demo control system for evaluation, and it is lightweight. For time measurement, we set a monitor PV, and the PV can automatics change its value at regular time intervals. Data Browser can display the values of 'live' PVs and can measure the time. In the end, we get the evaluation value of live migration time using Data Browser.
+
+ 
+
+
+ 
+
+
+
+MOPPC133
+Performance Improvement of KSTAR Networks for Long Distance Collaborations
+423
+
+
+ 
+
+J.S. Park, A.K. Bashir, D. Lee, S. Lee, T.G. Lee, S.W. Yun
+                       NFRI, Daejon, Republic of Korea
+B.S. Cho
+                       KISTI, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+KSTAR (Korea Superconducting Tokamak Advanced Research) has completed its 5th campaign. Every year, it produces enormous amount of data that need to be forwarded to international collaborators shot by shot for run-time analysis. Analysis of one shot helps in deciding parameters for next shot. Many shots are conducted in a day, therefore, this communication need to be very efficient. Moreover, amount of KSTAR data and number of international collaborators are increasing every year. In presence of big data and various collaborators exists in all over the world, communicating at run-time will be a challenge. To meet this challenge, we need efficient ways of communications to transfer data. Therefore, in this paper, we will optimize paths among internal and external networks of KSTAR for efficient communication. We will also discuss transmission solutions for environment construction and evaluate performance for long distance collaborations.
+
+ 
+
+
+
+
+
+
+Poster MOPPC133 [1.582 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC137
+IEC 61850 Industrial Communication Standards under Test
+427
+
+
+ 
+
+F.M. Tilaro, B. Copy, M. Gonzalez-Berges
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+IEC 61850, as part of the International Electro-technical Commission's Technical Committee 57, defines an international and standardized methodology to design electric power automation substations. It specifies a common way of communicating and integrating heterogeneous systems based on multivendor intelligent electronic devices (IEDs). They are connected to Ethernet network and according to IEC 61850 their abstract data models have been mapped to specific communication protocols: MMS, GOOSE, SV and possibly in the future Web Services. All of them can run over TCP/IP networks, so they can be easily integrated with Enterprise Resource Planning networks; while this integration provides economical and functional benefits for the companies, on the other hand it exposes the industrial infrastructure to the external existing cyber-attacks. Within the Openlab collaboration between CERN and Siemens, a test-bench has been developed specifically to evaluate the robustness of industrial equipment (TRoIE). This paper describes the design and the implementation of the testing framework focusing on the IEC 61850 previously mentioned protocols implementations.
+
+ 
+
+
+
+
+
+
+Poster MOPPC137 [1.673 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC138
+Continuous Integration for Automated Code Generation Tools
+431
+
+
+ 
+
+I. Prieto Barreiro, W. Booth, B. Copy
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The UNICOS* (UNified Industrial COntrol System) framework was created back in 1998 as a solution to build object-based industry-like control systems. The Continuous Process Control package (CPC**) is a UNICOS component that provides a methodology and a set of tools to design and implement industrial control applications. UAB** (UNICOS Application Builder) is the software factory used to develop UNICOS-CPC applications. The constant evolution of the CPC component brought the necessity of creating a new tool to validate the generated applications and to verify that the modifications introduced in the software tools do not create any undesirable effect on the existing control applications. The uab-maven-plugin is a plug-in for the Apache Maven build manager that can be used to trigger the generation of the CPC applications and verify the consistency of the generated code. This plug-in can be integrated in continuous integration tools - like Hudson or Jenkins – to create jobs for constant monitoring of changes in the software that will trigger a new generation of all the applications located in the source code management.
+* "UNICOS a framework to build industry like control systems: Principles & Methodology".  ** "UNICOS CPC6: Automated code generation for process control applications".  
+
+ 
+
+
+
+
+
+
+Poster MOPPC138 [4.420 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC139
+A Framework for Off-line Verification of Beam Instrumentation Systems at CERN
+435
+
+
+ 
+
+S. Jackson, C. Roderick, C. Zamantzas
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Many beam instrumentation systems require checks to confirm their beam readiness, detect any deterioration in performance and to identify physical problems or anomalies. Such tests have already been developed for several LHC instruments using the LHC sequencer, but the scope of this framework doesn't extend to all systems; notably absent in the pre-LHC injector chain. Furthermore, the operator-centric nature of the LHC sequencer means that sequencer tasks aren't accessible by hardware and software experts who are required to execute similar tests on a regular basis. As a consequence, ad-hoc solutions involving code sharing and in extreme cases code duplication have evolved to satisfy the various use-cases. In terms of long term maintenance, this is undesirable due to the often short-term nature of developers at CERN alongside the importance of the uninterrupted stability of CERN's accelerators. This paper will outline the first results of an investigation into the existing analysis software, and provide proposals for the future of such software.
+
+ 
+
+
+ 
+
+
+
+MOPPC140
+High-Availability Monitoring and Big Data: Using Java Clustering and Caching Technologies to Meet Complex Monitoring Scenarios
+439
+
+
+ 
+
+M. Bräger, M. Brightwell, E. Koufakis, R. Martini, A. Suwalska
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Monitoring and control applications face ever more demanding requirements: as both data sets and data rates continue to increase, non-functional requirements such as performance, availability and maintainability become more important. C2MON (CERN Control and Monitoring Platform) is a monitoring platform developed at CERN over the past few years. Making use of modern Java caching and clustering technologies, the platform supports multiple deployment architectures, from a simple 3-tier system to highly complex clustered solutions. In this paper we consider various monitoring scenarios and how the C2MON deployment strategy can be adapted to meet them.
+
+ 
+
+
+
+
+
+
+Poster MOPPC140 [1.382 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC142
+Groovy as Domain-specific Language (DSL) in Software Interlock System
+443
+
+
+ 
+
+J.P. Wozniak, G. Kruk, M. Polnik
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The SIS, in operation since over 7 years, is a mission-critical component of the CERN accelerator control system, covering areas from general machine protection to diagnostics. The growing number of instances and the size of the existing installations have increased both the complexity and maintenance cost of running the SIS infrastructure. Also the domain experts have considered the XML and Java mixture for configuration as difficult and suitable only for software engineers. To address these issues, new ways of configuring the system have been investigated aiming at simplifying the process by making it faster, more user-friendly and adapted for a wider audience. From all the existing DSL choices (fluent Java APIs, external/internal DSLs), the Groovy scripting language has been considered as being particularly well suited for writing a custom DSL due to its built-in language features: Java compatibility, native syntax constructs, command chain expressions, hierarchical structures with builders, closures or AST transformations. This paper explains best practices and lessons learned while building the accelerators domain-oriented DSL for the configuration of the interlock system.
+
+ 
+
+
+
+
+
+
+Poster MOPPC142 [0.510 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC143
+Plug-in Based Analysis Framework for LHC Post-Mortem Analysis
+446
+
+
+ 
+
+R. Gorbonosov, V. Baggiolini, G. Kruk, M. Zerlauth
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Plug-in based software architectures are extensible, enforce modularity and allow several teams to work in parallel. But they have certain technical and organizational challenges, which we discuss in this paper. We gained our experience when developing the Post-Mortem Analysis (PMA) system, which is a mission-critical system for the Large Hadron Collider (LHC). We used a plugin-based architecture with a general-purpose analysis engine, for which physicists and equipment experts code plug-ins containing the analysis algorithms. We have over 45 analysis plug-ins developed by a dozen of domain experts. This paper focuses on the design challenges we faced in order to mitigate the risks of executing third-party code: assurance that even a badly written plug-in doesn't perturb the work of the overall application; plug-in execution control which allows to detect plug-in misbehavior and react; robust communication mechanism between plug-ins, diagnostics facilitation in case of plug-in failure; testing of the plug-ins before integration into the application, etc.
+https://espace.cern.ch/be-dep/CO/DA/Services/Post-Mortem%20Analysis.aspx
+
+ 
+
+
+
+
+
+
+Poster MOPPC143 [3.128 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC145
+Mass-Accessible Controls Data for Web Consumers
+449
+
+
+ 
+
+B. Copy, M. Labrenz, R.P. Niesler, F.M. Tilaro
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The past few years in computing have seen the emergence of smart mobile devices, sporting multi-core embedded processors, powerful graphical processing units, and pervasive high-speed network connections (supported by WIFI or EDGE/UMTS). The relatively limited capacity of these devices requires relying on dedicated embedded operating systems (such as Android, or iOS), while their diverse form factors (from mobile phone screens to large tablet screens) require the adoption of programming techniques and technologies that are both resource-efficient and standards-based for better platform independence. We will consider what are the available options for hybrid desktop / mobile web development today, from native software development kits (Android, iOS) to platform-independent solutions (mobile Google Web toolkit [3], JQuery mobile, Apache Cordova[4], Opensocial). Through the authors' successive attempts at implementing a range of solutions for LHC-related data broadcasting, from data acquisition systems, LHC middleware such as DIP and CMW, on to the World Wide Web, we will investigate what are the valid choices to make and what pitfalls to avoid in today’s web development landscape.
+
+ 
+
+
+
+
+
+
+Poster MOPPC145 [1.318 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC146
+MATLAB Objects for EPICS Channel Access
+453
+
+
+ 
+
+J.T.M Chriń
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+With the substantial dependence on MATLAB for application development at the SwissFEL Injector Test Facility, the requirement for a robust and extensive EPICS Channel Access (CA) interface became increasingly imperative. To this effect, a new MATLAB Executable (Mex) file has been developed around an in-house C++ CA interface library (CAFE), which serves to expose comprehensive CA functionality to within the MATLAB framework. Immediate benefits include support for all MATLAB data types, a rich set of synchronous and asynchronous methods, a further physics oriented abstraction layer that uses CA synchronous groups, and compilation on 64-bit architectures. An account of the mocha (Matlab Objects for CHannel Access) interface is presented.
+
+ 
+
+
+ 
+
+
+
+MOPPC148
+Not Dead Yet: Recent Enhancements and Future Plans for EPICS Version 3
+457
+
+
+ 
+
+A.N. Johnson, J.B. Anderson
+                       ANL, Argonne, USA
+M.A. Davidsaver
+                       BNL, Upton, New York, USA
+R. Lange
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The EPICS Version 4 development effort* is not planning to replace the current Version 3 IOC Database or its use of the Channel Access network protocol in the near future. Interoperability is a key aim of the V4 development, which is building upon the older IOC implementation. EPICS V3 continues to gain new features and functionality on its Version 3.15 development branch, while the Version 3.14 stable branch has been accumulating minor tweaks, bug fixes, and support for new and updated operating systems. This paper describes the main enhancements provided by recent and upcoming releases of EPICS Version 3 for control system applications.
+* Korhonen et al, "EPICS Version 4 Progress Report", this conference.
+
+ 
+
+
+
+
+
+
+Poster MOPPC148 [5.067 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC149
+A Messaging-Based Data Access Layer for Client Applications
+460
+
+
+ 
+
+J.F. Patrick
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: US Department of Energy
+The Fermilab Accelerator Control system has recently integrated use of a publish/subscribe infrastructure as a means of communication between Java client applications and data acquisition middleware. This supercedes a previous implementation based on Java Remote Method Invocation (RMI). The RMI implementation had issues with network firewalls, misbehaving client applications affecting the middleware, lack of portability to other platforms, and cumbersome authentication. The new system uses the AMQP messaging protocol and RabbitMQ data brokers. This decouples the client and middleware, is more portable to other languages, and has proven to be much more reliable. A Java client library provides for single synchronous operations as well as periodic data subscriptions. This new system is now used by the general synoptic display manager application as well as a number of new custom applications. Also a web service has been written that provides easy access to control system data from many languages.
+
+ 
+
+
+
+
+
+
+Poster MOPPC149 [4.654 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC150
+Channel Access in Erlang
+462
+
+
+ 
+
+D.J. Nicklaus
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+We have developed an Erlang language implementation of the Channel Access protocol. Included are low-level functions for encoding and decoding Channel Access protocol network packets as well as higher level functions for monitoring or setting EPICS Process Variables. This provides access to EPICS process variables for the Fermilab Acnet control system via our Erlang-based front-end architecture without having to interface to C/C++ programs and libraries. Erlang is a functional programming language originally developed for real-time telecommunications applications. Its network programming features and list management functions make it particularly well-suited for the task of managing multiple Channel Access circuits and PV monitors.
+
+ 
+
+
+
+
+
+
+Poster MOPPC150 [0.268 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC152
+Accelerator Lattice and Model Services
+464
+
+
+ 
+
+C.P. Chu
+                       FRIB, East Lansing, Michigan, USA
+F.Q. Guo, H.H. Lv, C.H. Wang, Z. Zhao
+                       IHEP, Beijing, People's Republic of China
+G. Shen
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661, and the Chinese Spallation Neutron Source Project.
+Physics model based beam tuning applications are essential for complex accelerators. Traditionally, such applications acquire lattice data directly from a persistent data source and then carry out model computation within the applications. However, this approach often suffers from poor performance and modeling tool limitation. A better architecture is to offload heavy database query and model computation from the application instances. A database has been designed for hosting lattice and physics modeling data while a set of web based services then provide lattice and model data for the beam tuning applications to consume. Preliminary lattice and model services are based on standard J2EE Glassfish platform with MySQL database as backend data storage. Such lattice and model services can greatly improve the performance and reliability of physics applications.
+
+ 
+
+
+
+
+
+
+Poster MOPPC152 [0.312 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC155
+NSLS II Middlelayer Services
+467
+
+
+ 
+
+G. Shen, Y. Hu, M.R. Kraimer, K. Shroff
+                       BNL, Upton, Long Island, New York, USA
+D. Dezman
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+Funding: Work supported under auspices of the U.S. Department of Energy under Contract No. DE-AC02-98CH10886 with Brookhaven Science Associates, LLC, and in part by the DOE Contract DE-AC02-76SF00515
+A service oriented architecture has been designed for NSLS II project for its beam commissioning and daily operation. Middle layer services have been actively developing, and some of them have been deployed into NSLS II control network to support our beam commissioning. The services are majorly based on 2 technologies, which are web-service/RESTful and EPICS V4 respectively. The services provides functions to take machine status snapshot, convert magnet setting between different unit system, or serve lattice information and simulation results. This paper presents the latest status of services development at NSLS II project, and our future development plan.
+
+ 
+
+
+
+
+
+
+Poster MOPPC155 [2.079 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC156
+Virtual Accelerator at NSLS II Project
+471
+
+
+ 
+
+G. Shen
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported under auspices of the U.S. Department of Energy under Contract No. DE-AC02-98CH10886 with Brookhaven Science Associates, LLC, and in part by the DOE Contract DE-AC02-76SF00515
+A virtual accelerator has been developed at NSLS II to support tools development from physics study and beam commissioning to beam operation. The physics results are provided using Tracy simulation code thru EPICS process variables, which was implemented originally by Diamond Light Source. The latest virtual accelerator supports all major accelerator components including all magnets (Dipole, Quadrupole, Sextuple), RF cavity, insertion device, and other diagnostics devices (BPM for example), and works properly for both linear machine and synchrotron ring. Two error mechanisms are implemented, which are random error for each magnet setting, and systematic error to simulate misalignment. Meanwhile, it also provides sort of online model functions including serving beta function, and close orbit data. In NSLS II, there are 5 virtual accelerators deployed, and 3 of them are running simultaneously. Those virtual accelerators have been effectively supporting the tools development such as physics applications, and other services such as Channel Finder. This paper presents the latest status of virtual accelerator, and our plan for its future development and deployment.
+
+ 
+
+
+
+
+
+
+Poster MOPPC156 [1.393 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC157
+Application of Transparent Proxy Servers in Control Systems
+475
+
+
+ 
+
+B. Frak, T. D'Ottavio, M. Harvey, J.P. Jamilkowski, J. Morris
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Proxy servers (Proxies) have been a staple of the World Wide Web infrastructure since its humble beginning. They provide a number of valuable functional services like access control, caching or logging. Historically, controls system have had little need for full fledged proxied systems as direct, unimpeded resource access is almost always preferable. This still holds true today, however unbound direct asset access can lead to performance issues, especially on older, underpowered systems. This paper describes an implementation of a fully transparent proxy server used to moderate asynchronous data flow between selected front end computers (FECs) and their clients as well as infrastructure changes required to accommodate this new platform. Finally it ventures into the future by examining additional untapped benefits of proxied control systems like write-through caching and runtime read-write modifications.
+
+ 
+
+
+
+
+
+
+Poster MOPPC157 [1.873 MB]
+            
+ 
+
+
+ 
+
+
+
+MOPPC158
+Application of Modern Programming Techniques in Existing Control System Software
+479
+
+
+ 
+
+B. Frak, T. D'Ottavio, W. Fu, L.T. Hoff, S. Nemesure
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Accelerator Device Object (ADO) specification and its original implementation are almost 20 years old. In those last two decades ADO development methodology has changed very little, which is a testament to its robust design, however during this time frame we've seen introduction of many new technologies and ideas, many of which with applicable and tangible benefits to control system software. This paper describes how some of these concepts like convention over configuration, aspect oriented programming (AOP) paradigm, which coupled with powerful techniques like bytecode generation and manipulation tools can greatly simplify both server and client side development by allowing developers to concentrate on the core implementation details without polluting their code with: 1) synchronization blocks 2) supplementary validation 3) asynchronous communication calls or 4) redundant bootstrapping. In addition to streamlining existing fundamental development methods we introduce additional concepts, many of which are found outside of the majority of the controls systems. These include 1) ACID transactions 2) client and servers-side dependency injection and 3) declarative event handling.
+
+ 
+
+
+
+
+
+
+Poster MOPPC158 [2.483 MB]
+            
+ 
+
+
+ 
+
+
+
+

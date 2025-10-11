@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: TUCOBAB (Project Management and Collaboration)
+
+
+TUCOBAB —  Project Management and Collaboration   (08-Oct-13   10:45—12:00)
+Chair: P. Betinelli-Deck, SOLEIL, Gif-sur-Yvette, France
+
+
+Paper
+Title
+Page
+
+
+
+TUCOBAB01
+A Small but Efficient Collaboration for the Spiral2 Control System Development
+498
+
+
+ 
+
+E. Lécorché, C. Berthe, F. Bucaille, P. Gillette, C.H. Haquin, E. Lemaître, J.M. Loyant, G. Normand, C.H. Patard, L. Philippe, R.J.F. Roze, D.T. Touchard, A.H. Trudel
+                       GANIL, Caen, France
+J.F. Denis, F. Gougnaud, J.-F. Gournay, Y. Lussignol, A. Roger, R. Touzery
+                       CEA/DSM/IRFU, France
+P.G. Graehling, J.H. Hosselet, C. Maazouzi
+                       IPHC, Strasbourg Cedex 2, France
+
+ 
+
+
+ 
+
+The Spiral2 radioactive ion beam facility to be commissioned in 2014 at Ganil (Caen) is built within international collaborations. This also concerns the control system development shared by three laboratories: Ganil has to coordinate the control and automated systems work packages, CEA/IRFU is in charge of the “injector” (sources and low energy beam lines) and the LLRF, CNRS/IPHC provides the emittancemeters and a beam diagnostics platform. Besides the technology Epics based, this collaboration, although being handled with a few people, nevertheless requires an appropriate and tight organization to reach the objectives given by the project. This contribution describes how, started in 2006, the collaboration for controls has been managed both from the technological point of view and the organizational one, taking into account not only the previous experience, technical background or skill of each partner, but also their existing working practices and “cultural” approaches. A first feedback comes from successful beam tests carried out at Saclay and Grenoble; a next challenge is the migration to operation, Ganil having to run Spiral2 as the other members are moving to new projects
+
+ 
+
+
+
+
+
+
+Slides TUCOBAB01 [2.747 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOBAB02
+The Mantid Project: Notes from an International Software Collaboration
+502
+
+
+ 
+
+N.J. Draper
+                       Tessella, Abingdon, United Kingdom
+
+ 
+
+
+ 
+
+Funding: This project is a collaboration between SNS, ORNL and ISIS, RAL with expertise supplied by Tessella. These facilities are in turn funded by the US DoE and the UK STFC.
+The Mantid project was started by ISIS in 2007 to provide a framework to perform data reduction and analysis for neutron and muon data. The SNS and HFIR joined the Mantid project in 2009 adding event processing and other capabilities to the Mantid framework. The Mantid software is now supporting the data reduction needs of most of the instruments at ISIS, the SNS and some at HFIR, and is being evaluated by other facilities. The scope of data reduction and analysis challenges, together with the need to create a cross platform solution, fuels the need for Mantid to be developed in collaboration between facilities. Mantid has from inception been an open source project, built to be flexible enough to be instrument and technique independent, and initially planned to support collaboration with other development teams. Through the collaboration with the SNS development practices and tools have been further developed to support the distributed development team in this challenge. This talk will describe the building and structure of the collaboration, the stumbling blocks we have overcome, and the great steps we have made in building a solid collaboration between these facilities.
+Mantid project website: www.mantidproject.org  ISIS: http://www.isis.stfc.ac.uk/  SNS & HFIR: http://neutrons.ornl.gov/  
+
+ 
+
+
+
+
+
+
+Slides TUCOBAB02 [1.280 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOBAB03
+Utilizing Atlassian JIRA for Large-Scale Software Development Management
+505
+
+
+ 
+
+J.M. Fisher, D.J. Koning, A.P. Ludwigsen
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-632634
+Used actively by the National Ignition Facility since 2004, the JIRA issue tracking system from Atlassian is now used for 63 different projects. NIF software developers and customers have created over 80,000 requests (issues) for new features and bug fixes. The largest NIF software project in JIRA is the Integrated Computer Control system (ICCS), with nearly 40,000 issues. In this paper, we’ll discuss how JIRA has been customized to meet our software development process. ICCS developed a custom workflow in JIRA for tracking code reviews, recording test results by both developers and a dedicated Quality Control team, and managing the product release process. JIRA’s advanced customization capability have proven to be a great help in tracking key metrics about the ICCS development efforts (e.g. developer workload). ICCS developers store software in a configuration management tool called AccuRev, and document all software changes in each JIRA issue. Specialized tools developed by the NIF Configuration Management team analyze each software product release, insuring that each software product release contains only the exact expected changes.
+
+ 
+
+
+
+
+
+
+Slides TUCOBAB03 [2.010 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOBAB04
+Evaluation of Issue Tracking and Project Management Tools for Use Across All CSIRO Radio Telescope Facilities
+509
+
+
+ 
+
+J.C. Guzman
+                       CSIRO ATNF, Epping, Australia
+
+ 
+
+
+ 
+
+CSIRO's radio astronomy observatories are collectively known as the Australia Telescope National Facility (ATNF). The observatories include the 64-metre dish at Parkes, the Australia Telescope Compact Array (ATCA) in Narrabri, the Mopra 22-metre dish near Coonabarabran and the ASKAP telescope located in Western Australia and in early stages of commissioning. In January 2013 a new group named Software and Computing has been formed. This group, part of the ATNF Operations Program brings all the software development expertise under one umbrella and it is responsible for the development and maintenance of the software for all ATNF facilities, from monitoring and control to science data processing and archiving. One of the first task of the new group is to start homogenising the way software development is done across all observatories. This paper presents the results of the evaluation of several issue tracking and project management tools, including Redmine and JIRA to be used as a software development management tool across all ATNF facilities. It also describes how these tools can potentially be used for non-software type of applications such as fault reporting and tracking system.
+
+ 
+
+
+
+
+
+
+Slides TUCOBAB04 [2.158 MB]
+            
+ 
+
+
+ 
+
+
+
+TUCOBAB05
+A Rational Approach to Control System Development Projects That Incorporates Risk Management
+513
+
+
+ 
+
+E. D. Matias
+                       CLS, Saskatoon, Saskatchewan, Canada
+
+ 
+
+
+ 
+
+Over the past year CLS has migrated towards a project management approach based on the Project Management Institute (PMI) guidelines as well as adopting an Enterprise Risk Management (ERM) program. Though these are broader organisational initiatives they do impact how controls systems and data acquisition software activities and planned, executed and integrated into larger scale projects. Synchrotron beamline development and accelerator upgrade projects have their own special considerations that require adaptation of the more standard techniques that are used. Our ERM processes integrate in two ways: (1) in helping to identify and prioritising those projects that we should be undertaking and (2) in helping identify risks that are internal to the project. These broader programs are resulting in us revising and improving processes we have in place for control and data acquisition system development and maintenance. This paper examines the approach we have adopted, our preliminary experience and our plans going forward.
+
+ 
+
+
+
+
+
+
+Slides TUCOBAB05 [0.791 MB]
+            
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,96 @@
+{
+  "session_info": {
+    "id": "MOFO",
+    "name": "MOFO - Charge breeding",
+    "url": "https://proceedings.jacow.org/ecris2016/html/mofo.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOFO01",
+      "title": "",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ecris2016/talks/mofo01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ecris2016/papers/mofo01.pdf",
+      "poster_url": "https://proceedings.jacow.org/ecris2016/posters/mofo01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ECRIS2016-MOFO01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOFO02",
+      "title": "Comparison of Residual Background in an ECR and an EBIS",
+      "authors": [
+        "R.C. Vondrasek",
+        "C. Dickerson",
+        "P.N. Ostroumov",
+        "R.C. Pardo",
+        "R.H. Scott",
+        "G.P. Zinkann",
+        "ANL",
+        "Argonne",
+        "Illinois",
+        "USA",
+        "An ECR charge breeder was developed some years ago as part of the Californium Rare Ion Breeder Upgrade (CARIBU) program at Argonne National Laboratory. The charge breeding efficiency and high charge state production of the source were at the forefront of ECR charge breeders",
+        "but its overall performance as part of the accelerator system was limited by a pervasive stable ion background. Steps were taken to reduce the level of background contamination but met with limited success. As such",
+        "the ECR charge breeder was decommissioned in late 2015 and replaced with an EBIS charge breeder. The EBIS has demonstrated good breeding efficiency in an off-line installation",
+        "but the critical attribute of stable ion background has only begun to be characterized. We will present a comparison of the background levels from these two devices when coupled to the accelerator complex as well as possible solutions for background reduction in ECR charge breeders.",
+        "※ BibTeX",
+        "※ LaTeX",
+        "※ Text/Word",
+        "※ RIS"
+      ],
+      "institutions": [
+        "Funding: This work was supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC02-06CH11357 and used resources of ANL ATLAS facility, an Office of Science User Facility"
+      ],
+      "abstract": "reference for this paper using",
+      "presentation_url": "https://proceedings.jacow.org/ecris2016/talks/mofo02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ecris2016/papers/mofo02.pdf",
+      "poster_url": "https://proceedings.jacow.org/ecris2016/posters/mofo02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ECRIS2016-MOFO02",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOFO03",
+      "title": "Simulations of the ECR-based Charge Breeding Process at INFN: Status and Perspectives",
+      "authors": [
+        "INFN/LNL",
+        "Legnaro (PD)",
+        "Italy",
+        "D. Mascali",
+        "L. Neri",
+        "G. Torrisi",
+        "INFN/LNS",
+        "Catania",
+        "Italy",
+        "Since 2012",
+        "the INFN ion source group has been undertaking an intense activity on numerical modelling",
+        "in the European context of the EMILIE Project until 2014. The work concerns the study of the two main aspects influencing the performances of an ECR-based charge breeder: on one hand",
+        "the interaction of the injected 1+ beam with the ECR plasma; on the other hand",
+        "the energy coupling to plasma electrons by the microwave field set-up inside the plasma chamber. The first aspect has been addressed by developing a numerical code in a Matlab environment",
+        "able to reproduce the capture and thermalization of an ion beam by the ECR plasma. Equations describing the process have been implemented trough the Langevin formalism",
+        "including a plasma model of increasing complexity. The second aspect has been studied with the interplay between the 3D solver COMSOL Multiphysics and Matlab",
+        "describing the plasma through its fully 3D dielectric permittivity tensor. This paper describes the state-of-the-art of the work on both the fronts: it will show an overview of the beam-plasma interaction",
+        "offering some hints for the optimization of already existing devices or for the design of new ones."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ecris2016/talks/mofo03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ecris2016/papers/mofo03.pdf",
+      "poster_url": "https://proceedings.jacow.org/ecris2016/posters/mofo03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ECRIS2016-MOFO03",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 17:27:26"
+}

@@ -1,0 +1,187 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: THHA3 (Experiment control 2)
+
+
+THHA3 —  Experiment control 2   (22-Oct-15   09:30—10:15)
+Chair: M. Janousch, PSI, Villigen PSI, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+THHA3O01
+The Evolution of the ALICE Detector Control System
+1087
+
+
+ 
+
+P.Ch. Chochula, A. Augustinus, P.M. Bond, A.N. Kurepin, M. Lechman, O. Pinazza
+                       CERN, Geneva, Switzerland
+A.N. Kurepin
+                       RAS/INR, Moscow, Russia
+O. Pinazza
+                       INFN-Bologna, Bologna, Italy
+
+ 
+
+
+ 
+
+The ALICE Detector Control System has provided its service since 2007. Its operation in the past years proved that the initial design of the system fulfilled all expectations and allowed the evolution of the detectors and operational requirements to follow. In order to minimize the impact of the human factor, many procedures have been optimized and new tools have been introduced in order to allow the operator to supervise about 1 000 000 parameters from a single console. In parallel with the preparation for new runs after the LHC shutdown a prototyping for system extensions which shall be ready in 2018 has started. New detectors will require new approaches to their control and configuration. The conditions data, currently collected after each run, will be provided continuously to a farm containing 100 000 CPU cores and tens of PB of storage. In this paper the DCS design, deployed technologies, and experience gained during the 7 years of operation will be described and the initial assumptions with the current setup will be compared. The current status of the developments for the upgraded system, which will be put into operation in less than 3 years from now, will also be described.
+
+ 
+
+
+
+
+
+
+Slides THHA3O01 [4.556 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHA3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHA3O02
+Status of the Continuous Mode Scan for Undulator Beamlines at BESSY II
+1091
+
+
+ 
+
+A.F. Balzer, E. Schierle, E. Suljotipresenter, M. Witt
+                       HZB, Berlin, Germany
+R. Follath
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+At the synchrotron light source BESSY II monochromator (MONO) and insertion device (ID) scans can be done synchronized in two different modes. In step mode MONO and ID move independently to intermediate target positions of an energy scan. In continuous mode (CM) MONO and ID cover the whole range of the scan nonstop in a coupled motion. Data acquisition is done continuously at the speed provided by the CM scan and is available in regular user operation. Currently CM is in operation at 11 undulator beamlines at BESSY II. 3 new beamlines requesting CM are under construction. During CM the MONO EPICS IOC acts as a controller forcing the MONO optics to follow the movement of the ID. A non-linear predictive control scheme is used to implement this dynamic coupling. The controller task utilizes polynomial regression to extrapolate the ID motion. Calculation of the trajectories for MONO grating and mirror is based on bijective gap to energy lookup tables and the grating equation. In this paper the technical implementation, limitations, recently developed diagnostic methods, and future plans for improvements are presented.
+
+ 
+
+
+
+
+
+
+Slides THHA3O02 [0.903 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHA3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHA3O03
+Managing Neutron Beam Scans at the Canadian Neutron Beam Centre
+1096
+
+
+ 
+
+M.R. Vigder, M.L. Cusick, D. Dean
+                       CNL, Ontario, Canada
+
+ 
+
+
+ 
+
+The Canadian Neutron Beam Centre (CNBC) of the Canadian Nuclear Laboratories (CNL) operate six beam lines for material research. A single beam line experiment requires scientists to acquire data as a sequence of scans that involves data acquisition at many points, varying sample positions, samples, wavelength, sample environment, etc. The points at which measurements must be taken can number in the thousands with scans or their variations having to be run multiple times. At the CNBC an approach has been developed to allow scientists to specify and manage their scans using a set of processes and tools. Scans are specified using a set of constructors and a scan algebra that allows scans to be combined using a set of scan operators. Using the operators of the algebra, complex scan sequences can be constructed from simpler scans and run unattended for up to a few days. Based on the constructors and the algebra, tools are provided to scientists to build, organize and execute their scans. These tools can take the form of scripting languages, spreadsheets, or databases. This scanning technique is currently in use at CNL, and has been implemented in Python on an EPICS based control system.
+
+ 
+
+
+
+
+
+
+Slides THHA3O03 [0.745 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHA3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

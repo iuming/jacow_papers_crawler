@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: THCA (Status Report of Control System)
+
+
+THCA —  Status Report of Control System   (06-Dec-12   10:45—11:50)
+Chair: R. Bacher, DESY, Hamburg, Germany
+
+
+Paper
+Title
+Page
+
+
+
+THCA04
+An Update on ConSys Including a New LabVIEW FPGA Based LLRF System
+97
+
+
+ 
+
+T. Worm, J.S. Nielsen
+                       ISA, Aarhus, Denmark
+
+ 
+
+
+ 
+
+ConSys, the Windows based control system for ASTRID and ASTRID2, is now a mature system, having been in operation for more than 15 years. All the standard programs (Console, plots, data logging, control setting store/restore etc.) are fully general and are configured through a database or file. ConSys is a standard publisher/subscriber system, where all nodes can act both as client and server. One very strong feature is the easy ability to make virtual devices (devices which do not depend on hardware directly, but combine hardware parameters.) For ASTRID2 a new LabVIEW based Low-Level RF system has been made. This system use a National Instruments NI-PCIe7852R DAQ card, which includes an on-board FPGA and are hosted in a standard PC. The fast (50 kHz) amplitude loop has been implemented on the FPGA, whereas the slower tuning and phase loops are implemented in the real-time system. An operator interface including live plots from the regulation loops are implemented in a host program on Windows. All three levels have been implemented with LabVIEW. The LLRF system is interfaced to ConSys through LabVIEW shared variables.
+
+ 
+
+
+
+
+
+
+Slides THCA04 [2.654 MB]
+            
+ 
+
+
+ 
+
+
+
+THCA05
+PLC-based Control System for 10 MeV Linear Accelerator at EBC Kharghar, BARC
+100
+
+
+ 
+
+A.S. Chachondia, B.B. Biswas, D.P. Chakravarthy, G. Ganesh, L.M. Gantayet, K.C. Mittal, M.K. Mukesh Kumar, M.B. Patil, R.K. Patil
+                       BARC, Mumbai, India
+
+ 
+
+
+ 
+
+Currently the 10MeV Linac is being used for different research applications and industrial use. The control system in operation was developed using CAMAC based DAS, backed by Hard-wired Interlock System. It is proposed to replace the CAMAC system with a state-of-the-art indigenously developed PLC that is verified to the level of a Class IB computer-based system used in nuclear power plants. A PLC node comprises of two VME bus based CPU boards (PowerPC MPC7447, 600MHz) working in redundant mode. The Inputs and Outputs are common to both CPUs. The intelligent I/O boards are hot swappable. The PLC hardware and software has undergone rigorous verification and validation. A user-friendly development environment is provided to the process engineer for building the application using pre-defined function blocks. The LCS developed using PLC is to be used for operating the Linac irradiation facility, remotely as well as locally in a fail-safe mode, with sequential start-up and sequential shut-down. Apart from system status monitoring, data archiving, alarm generation and setpoint adjustments, it shall monitor the important parameters and trip the GM HV, KM HV and EG PS on fault conditions.
+
+ 
+
+
+
+
+
+
+Slides THCA05 [0.497 MB]
+            
+ 
+
+
+ 
+
+
+
+THCA06
+Status of the Ultra Fast Tomography Experiments Control at ANKA
+103
+
+
+ 
+
+D. Haas, A. Cecilia, A. Kopmann, W. Mexner, H. Pasic, T. Spangenberg, P. Vagovic, M. Vogelgesang
+                       KIT, Eggenstein-Leopoldshafen, Germany
+B.M. Balzer, S. Cilingaryan
+                       Karlsruhe Institute of Technology, Eggenstein-Leopoldshafen, Germany
+
+ 
+
+
+ 
+
+X-ray imaging permits spatially resolved visualization of the 2D and 3D structure in materials and organisms which is crucial for the understanding of their properties. Additional resolution in the time domain gives insight in the temporal structure evolution and thus access to dynamics of processes allowing to understand functionality of devices and organisms and to optimize technological processes. Such time resolved dynamic analyses ofμsize structures became now possible by the new ultrafast tomography at the TopoTomo beamline of the synchrotron light source ANKA. At TopoTomo the whole experimental workflow has been significant improved in order to decrease the total duration time of a tomography experiment in a range of minutes. To aim the goal of a Tango based control system for ultra fast tomography with a data throughput of several 100 MB/s, detectors and computing infrastructure have been optimized. Multi GPU based computing allows a high speed data processing by using a special reconstruction scheme. Furthermore data management infrastructure will allow a life cycle management of data sets accumulating to several TByte/day.
+
+ 
+
+
+
+
+
+
+Slides THCA06 [1.183 MB]
+            
+ 
+
+
+ 
+
+
+
+

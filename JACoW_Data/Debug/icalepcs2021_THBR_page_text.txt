@@ -1,0 +1,319 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: THBR (Timing Systems, Synchronization and Real-Time Applications)
+
+
+THBR —  Timing Systems, Synchronization and Real-Time Applications   (21-Oct-21   13:15—14:30)
+Chair: O. Matilla, ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+
+
+THBR
+   Video of full session  »Timing Systems, Synchronization and Real-Time Applications« (total time: 01:16:45 h:m:s)
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+   please see instructions how to view/control embeded videos
+ 
+
+
+
+Paper
+Title
+Page
+
+
+
+THBR01
+Renovation of the Trigger Distribution in CERN’s Open Analogue Signal Information System Using White Rabbit
+839
+
+
+ 
+
+D. Lampridis, T. Gingold, A. Poscia, M.H. Serans, M.R. Shukla, T.P. da Silva
+                       CERN, Geneva, Switzerland
+D. Michalik
+                       Aalborg University, Aalborg, Denmark
+
+ 
+
+
+ 
+
+The Open Analogue Signal Information System (OASIS) acts as a distributed oscilloscope system that acquires signals from devices across the CERN accelerator complex and displays them in a convenient, graphical way. Today, the OASIS installation counts over 500 multiplexed digitisers, capable of digitising more than 5000 analogue signals and offers a selection of more than 250 triggers for the acquisitions. These triggers are mostly generated at a single central place and are then distributed by means of a dedicated coaxial cable per digitiser, using a "star" topology. An upgrade is currently under way to renovate this trigger distribution system and migrate it to a White Rabbit (WR) based solution. In this new system, triggers are distributed in the form of Ethernet messages over a WR network, allowing for better scalability, higher time-stamping precision, trigger latency compensation and improved robustness. This paper discusses the new OASIS trigger distribution architecture, including hardware, drivers, front-end, server and application-tier software. It then provides results from preliminary tests in laboratory installations.
+
+ 
+
+
+
+
+
+
+Slides THBR01 [2.229 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-THBR01
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Accepted ※ 21 December 2021       
+Issue date ※ 06 February 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THBR02
+White Rabbit and MTCA.4 Use in the LLRF Upgrade for CERN’s SPS
+847
+
+
+ 
+
+T. Włostowski, K. Adrianek, M. Arruat, P. Baudrenghien, A.C. Butterworth, G. Daniluk, J. Egli, J.R. Gill, T. Gingold, J.D. González Cobas, G. Hagmann, P. Kuzmanović, D. Lampridis, M.M. Lipiński, S. Novel González, J.P. Palluel, M. Rizzi, A. Spierer, M. Sumiński, A. Wujek
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The Super Proton Synchrotron (SPS) Low-level RF (LLRF) system at CERN was completely revamped in 2020. In the old system, the digital signal processing was clocked by a submultiple of the RF. The new system uses a fixed-frequency clock derived from White Rabbit (WR). This triggered the development of an eRTM module for generating very precise clock signals to be fed to the optional RF backplane in MTCA.4 crates. The eRTM14/15 sandwich of modules implements a WR node delivering clock signals with a jitter below 100 fs. WR-clocked RF synthesis inside the FPGA makes it simple to reproduce the RF elsewhere by broadcasting the frequency-tuning words over the WR network itself. These words are received by the WR2RF-VME module and used to produce beam-synchronous signals such as the bunch clock and the revolution tick. This paper explains the general architecture of this new LLRF system, highlighting the role of WR-based synchronization. It then goes on to describe the hardware and gateware designs for both modules, along with their supporting software. A recount of our experience with the deployment of the MTCA.4 platform is also provided.
+
+ 
+
+
+
+
+
+
+Slides THBR02 [0.981 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-THBR02
+
+ 
+
+
+About •
+Received ※ 12 October 2021       Revised ※ 24 October 2021       
+Accepted ※ 03 January 2022        Issue date ※ 28 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THBR03
+Prototype of White Rabbit Based Beam-Synchronous Timing Systems for SHINE
+853
+
+
+ 
+
+P.X. Yu, Y.B. Yan
+                       SSRF, Shanghai, People’s Republic of China
+G.H. Gong
+                       Tsinghua University, Beijing, People’s Republic of China
+G. Gu, Z.Y. Jiang, L. Zhao
+                       USTC, Hefei, Anhui, People’s Republic of China
+Y.M. Ye
+                       TUB, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+Shanghai HIgh repetition rate XFEL aNd Extreme light facility (SHINE) is under construction. SHINE requires precise distribution and synchronization of the 1.003086MHz timing signals over a long distance of about 3.1 km. Two prototype systems were developed, both containing three functions: beam-synchronous trigger signal distribution, random-event trigger signal distribution and data exchange between nodes. The frequency of the beam-synchronous trigger signal can be divided according to the accelerator operation mode. Each output pulse can be configured for different fill modes. A prototype system was designed based on a customized clock frequency point (64.197530MHz). Another prototype system was designed based on the standard White Rabbit protocol. The DDS (Direct Digital Synthesis) and D flip-flops (DFFs) are adopted for RF signal transfer and pulse configuration. The details of the timing system design and test results will be reported in this paper.
+
+ 
+
+
+
+
+
+
+Slides THBR03 [3.344 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-THBR03
+
+ 
+
+
+About •
+Received ※ 11 October 2021       Revised ※ 19 October 2021       
+Accepted ※ 22 December 2021        Issue date ※ 10 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THBR04
+Nanosecond machine learning with BDT for high energy physics
+ 
+
+
+ 
+
+T.M. Hong, S.T. Rochepresenter
+                       University of Pittsburgh, Pittsburgh, Pennsylvania, USA
+
+ 
+
+
+ 
+
+Funding: TMH was supported by US DOE [DE-SC0007914]
+We present a novel implementation of classification using boosted decision trees (BDT) on FPGA. Our BDT approach offers an alternative to existing packages, including those that implement neural networks on FPGA, with less dependence of DSP utilization that is replaced by other resources. Our design philosophy is to remove clocked operations in favor of combinatoric logic through High Level Synthesis. The firmware implementation of binary classification requiring 100 training trees with a maximum depth of 4 using four input variables gives a latency value of about 10ns at various clock speeds. We optimize the parameters using a software package, which interfaces to Xilinx Vivado through High Level Synthesis. Such a tool may enable the FPGA-based trigger systems at the Large Hadron Collider to be more sensitive to new physics at high energy experiments. The work is described in https://arxiv.org/abs/2104.03408
+
+ 
+
+
+
+
+
+
+Slides THBR04 [1.380 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THBR05
+An integrated scheme for online correction of laser focal position
+ 
+
+
+ 
+
+N.M. Cook, S.J. Colemanpresenter, J.P. Edelen, R. Nagler
+                       RadiaSoft LLC, Boulder, Colorado, USA
+S.K. Barber, J. van Tilborg
+                       LBNL, Berkeley, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of High Energy Physics under Award Number DE-SC 00259037.
+High repetition-rate, ultrafast laser systems play a critical role in a host of modern scientific and industrial applications. We present a prototype diagnostic and correction scheme for controlling laser focal position for operation at 10s of Hz. Our strategy is to couple fast wavefront sensor measurements at multiple positions to generate a focal position prediction. We then train a neural network to predict the specific adjustments to adaptive actuators along the beamline to provide the desired correction to the focal position at 10s of ms timescales. Our initial proof-of-principle demonstrations leverage pre-compiled data and pre-trained networks operating ex-situ from the laser system. We then discuss the application of a high-level synthesis framework for generating a low-level hardware description of ML-based correction algorithms on FPGA hardware coupled directly to the beamline. Lastly, we consider the use of remote computing resources, such as the Sirepo scientific framework*, to actively update these correction schemes in the presence of new data
+*M.S. Rakitin et al., ’Sirepo: an open-source cloud-based software interface for X-ray source and optics simulations," Journal of Synchrotron Radiation25, 1877-1892 (Nov 2018).
+
+ 
+
+
+
+
+
+
+Slides THBR05 [1.342 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

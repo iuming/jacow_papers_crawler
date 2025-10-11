@@ -1,0 +1,43 @@
+{
+  "session_info": {
+    "id": "THKT",
+    "name": "THKT - Keynote Talk 2",
+    "url": "https://proceedings.jacow.org/pcapac2018/html/thkt.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THKT1",
+      "title": "Delivering Machine Learning Engineering in Scientific Research",
+      "authors": [
+        "LargitData",
+        "Taipei",
+        "Taiwan",
+        "As the use of machine learning to train a predictive model has become more and more popular",
+        "knowing how to build a model with a fixed dataset may not be news to most researchers nowadays. With a little programming training",
+        "any researcher can now easily create a model with just a few lines of coding with some state of the art programming languages and analysis tool. However",
+        "knowing how to build the model is not enough",
+        "if you wish your research can reach to a wider audience",
+        "it would be important to know the correct approach to deliver the learned model into a production environment. In this keynote speech",
+        "I will address how to bring machine learning model into the production environment from the perspective of a data scientist and engineer. I will cover the issues includes data preparation",
+        "model versioning",
+        "model deployment",
+        "continuous integration/delivery",
+        "model validation",
+        "how to choose evaluation metrics",
+        "some challenges when facing big data."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2018/talks/thkt1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2018/papers/thkt1.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2018/posters/thkt1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2018-THKT1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-11 02:01:56"
+}

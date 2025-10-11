@@ -1,0 +1,48 @@
+{
+  "session_info": {
+    "id": "THIC",
+    "name": "THIC - Software and Hardware Technology",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/thic.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THIC01",
+      "title": "Tango for Experiment Control",
+      "authors": [
+        "J.M. Meyer",
+        "L. Claustre",
+        "A. Götz",
+        "S. Petitdemange",
+        "O. Svensson",
+        "ESRF",
+        "Grenoble",
+        "France",
+        "A. Buteau",
+        "M. Ounsy",
+        "SOLEIL",
+        "Gif-sur-Yvette",
+        "France",
+        "CELLS-ALBA Synchrotron",
+        "Cerdanyola del Vallès",
+        "Spain",
+        "The Tango[1] control system framework contains the communication bus with the standard communication modes as well as the basic hardware access modules",
+        "GUI tools and development kits",
+        "services and bindings to commercial products to set up a control system. Tango was developed by several synchrotron light sources that have to support not only the accelerator complex but also a lot of experimental end stations. For synchrotron experiments we have to control the whole process from basic hardware access over data taking to data analysis. This paper describes in the first part the special features of Tango allowing flexible experiment control. The dynamic configuration",
+        "the rapid hardware interface development and the sequencing and scanning framework are some examples. The second part gives an overview of some packages developed in the Tango community for experiment control: A HKL library for diffraction computation and diffractometer control",
+        "a library to control 2D detectors and a data analysis workbench with workflow engine for on-line and off-line data analysis. These packages are not part of Tango and can be used with other control systems."
+      ],
+      "institutions": [],
+      "abstract": "[1] http://www.tango-controls.org/",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/thic01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/thic01.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/thic01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-THIC01",
+      "page_number": "118",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-11 02:09:38"
+}

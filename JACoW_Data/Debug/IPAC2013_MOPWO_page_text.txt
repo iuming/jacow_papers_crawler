@@ -1,0 +1,1850 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2013 - Table of Session: MOPWO (Poster Session)
+
+
+MOPWO —  Poster Session   (13-May-13   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPWO001
+Moment Method Beam Dynamics Code Development: Extended for Radio Frequency Quadrupole Simulations
+879
+
+
+ 
+
+T. Roggen, H. De Gersem, B. Masschaele
+                       KU Leuven, Kortrijk, Belgium
+W. Ackermann, S. Franke, T. Weiland
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: This research is funded by grant “KUL 3E100118” “Electromagnetic Field Simulation for Future Particle Accelerators”, project FP7-Euratom No. 269565 and the Belgian Nuclear Research Centre (SCK•CEN).
+A Radio Frequency Quadrupole (RFQ) enables acceleration of a continuous low-velocity hadron beam, combining velocity independent electric focusing and adiabatic bunching, resulting in high-current compact bunches with nearly 100% capture and transmission efficiency. With virtually no post-construction tuning capabilities, an RFQ design phase requires all transient parameters (machining tolerances, thermo-mechanical deformation factors). This allows the determination of acceptable tolerances on input and output beam characteristics, of major importance in beam availability and beam trip prevention, and makes fast beam dynamics simulation codes incorporating RFQs indispensable. This article presents the implementation and validation of an RFQ beam line element into V-Code, a moment method beam dynamics simulation code. V-Code time integrates the Vlasov equation for an initial particle distribution represented by a discrete set of characteristic moments, accounting for all exerting internal and external forces. V-Code delivers highly accurate beam dynamics results with precision and efficiency advantages in terms of average or rms beam dimensions, projected emittances or total energy.
+
+ 
+
+
+ 
+
+
+
+MOPWO002
+PTCC: New Beam Dynamics Design Code for Linear Accelerators
+882
+
+
+ 
+
+Y. N. Nour El-Din, T.M. Abuelfadl
+                       Cairo University, Giza, Egypt
+
+ 
+
+
+ 
+
+Funding: Work supported by the Egyptian Science and Technology Development Fund (STDF) No. 953.
+A fast and accurate beam dynamics design code, named PTCC (Particle Tracking Code in C) is developed to simulate particles dynamic in linear accelerators. PTCC solves the relativistic equations of motion for the macro-particles when subjected to electromagnetic fields excited in RF cavities. The self-fields of the particles are also part of the electromagnetic fields through which the particles are tracked. Self-fields are calculated using a modified 2D cylindrically symmetric mesh based method, making use of beam and field symmetry to provide fast simulation. The code has been benchmarked with the well known code ASTRA which is used mainly in simulations of next generation FEL linacs. PTCC provides a new tool for designing buncher section of linear accelerators that convert DC beam into bunches. New buncher design tool and benchmark results of PTCC with ASTRA are presented.
+
+ 
+
+
+ 
+
+
+
+MOPWO003
+Multibunch Tracking Code Development to Account for Passive Landau Cavities
+885
+
+
+ 
+
+M. Klein, R. Nagaoka
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+The MAX IV 3 GeV storage ring will achieve an ultra-low horizontal emittance of 0.24 nm rad by using a multibend achromat lattice. Passive harmonic cavities are introduced to relax the Touschek-lifetime and intrabeam scattering issues as well as fight collective beam instabilities via Landau damping. Since instabilities occur during injection, when the passive harmonic cavity potential is also time varying, it became important to simulate this transient process. The most promising approach was considered to be multibunch tracking which also allows for an arbitrary filling pattern. Since every bunch is represented by numerous macroparticles, internal motions as well as microstructures in the charge distribution can be followed.
+
+ 
+
+
+ 
+
+
+
+MOPWO004
+Simulations and Studies of Electron Beam Dynamics under Compton Back-scattering for the Compact X-ray Source ThomX
+888
+
+
+ 
+
+I.V. Drebot, C. Bruni, N. Delerue, T. Demma, A. Variola, Z.F. Zomer
+                       LAL, Orsay, France
+A. Loulergue
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+Funding: This work is supported by the French "Agence Nationale de la Recherche" under reference ANR-10-EQPX-51, and also by grants from Région Ile-de-France, Université Paris-Sud and IN2P3/CNRS.
+In this article are presented beam dynamics investiga- tions of a relativistic electron bunch in the compact storage ring ThomX (50 MeV), which is under construction at LAL to produce hard X-ray using Compton Back-Scattering (CBS). The effect of CBS has been implemented in a 6D tracking code. In addition to CBS, the influence of lattice non linearities and various collective effects on the flux of scattered Compton photons is investigated.
+
+ 
+
+
+ 
+
+
+
+MOPWO005
+Simulating Spin Dynamics and Depolarization using POLE
+891
+
+
+ 
+
+J.F. Schmidt, O. Boldt, F. Frommberger, W. Hillert
+                       ELSA, Bonn, Germany
+
+ 
+
+
+ 
+
+Funding: BMBF
+The spin dynamics in circular accelerators with fast energy ramps, or short storage times of up to some seconds, can be investigated with spin tracking appropriately. Additionally, the spin motion of lepton beams is affected significantly by synchrotron radiation. Hence, spin dynamics simulations require spin tracking with a large number of particles to compute the beam polarization and thus take considerably long computing times. Therefore, high efficiency is crucial to perform systematic polarization studies. The new simulation tool POLE provides the ability to balance accuracy against computing time. To that end, adjustable approximations of magnetic fields and synchrotron radiation are implemented. POLE is accessible for a wide range of lepton storage rings because it uses the common MAD-X lattice files and the corresponding particle tracking results.
+
+ 
+
+
+ 
+
+
+
+MOPWO006
+Eigenmode Computation for the GSI SIS18 Ferrite Cavity
+894
+
+
+ 
+
+K. Klopfer, W. Ackermann, T. Weiland
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by GSI
+At the GSI Helmholtzzentrum für Schwerionenforschung in Darmstadt the heavy-ion synchrotron SIS18 is operated to further accelerate stable nuclei of elements with different atomic numbers. Two ferrite-loaded cavity resonators are installed within this ring. During the acceleration phase their resonance frequency has to be adjusted to the revolution frequency of the heavy-ions to reflect their increasing speed. To this end, dedicated biased ferrite-ring cores are installed inside the cavities for a broad frequency tuning. By properly choosing a suited bias current, the differential permeability of the ferrite material is modified, which finally enables to adjust the eigenfrequency of the resonator system. Consequently, the actual resonance frequency strongly depends on the magnetic properties of the ferrites. The goal of the current study is to numerically determine the lowest eigensolutions of the GSI SIS18 ferrite-loaded cavity. For this purpose, a new solver based on the Finite Integration Technique has been developed.
+
+ 
+
+
+ 
+
+
+
+MOPWO007
+Numerical Calculation of Electromagnetic Fields in Acceleration Cavities Under Precise Consideration of Coupler Structures
+897
+
+
+ 
+
+C. Liu, W. Ackermann, W.F.O. Müller, T. Weiland
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by BMBF under contract 05H12RD5
+The acceleration with superconducting radio frequency cavities requires dedicated couplers to transfer energy from the radio frequency source to the beam. Simultaneously, higher order mode couplers are installed to effectively suppress parasitic modes. Therefore, the numerical eigenmode analysis based on real-valued variables is no longer suitable to describe the dissipative acceleration structure. At the Computational Electromagnetics Laboratory (TEMF) a robust parallel eigenmode solver to calculate the eigenmodes in the lossy acceleration structure is available. This eigenmode solver is based on complex-valued finite element analysis and utilizes basis functions up to the second order on curved tetrahedral elements to enable the high precision elliptical cavity simulations. The eigenmode solver has been applied to the TESLA 1.3 GHz accelerating cavity to determine the resonance frequency, the quality factor and the corresponding field distribution for all 192 eigenmodes up to the 5th dipole passband (3.12 GHz).
+
+ 
+
+
+ 
+
+
+
+MOPWO008
+Eigenmode Computation for Elliptical Cavities Subject to Geometric Variation using Perturbative Methods
+900
+
+
+ 
+
+K. Brackebusch, U. van Rienen
+                       Rostock University, Faculty of Computer Science and Electrical Engineering, Rostock, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by Federal Ministry for Research and Education BMBF under contracts 05H09HR5 and 05K10H.
+Parametric studies of geometric variations are an essential part of the performance optimization and error estimation in the design of accelerator cavities. Using common eigenmode solvers the analysis of intentional and undesired geometric perturbations tend to be very extensive since any geometric variation involves an entire eigenmode recomputation. Perturbative methods constitute an efficient alternative for the computation of a multitude of moderately varying geometries. They require a common eigenmode computation of solely one (so called unperturbed) geometry and allow for deriving the eigenmodes of similar but modified (so called perturbed) geometries from these unperturbed eigenmodes. In [*],[**] the practicability of perturbative methods was already proven by means of simple cavity geometries. In this paper we investigate the applicability and efficiency for practically relevant cavities. For this, basic geometric parameters of elliptical cavities are varied and the respective eigenmodes are computed by using perturbative as well as common methods. The accuracy of the results and the computational effort of the different methods are compared.
+*K. Brackebusch, H.-W. Glock, U. van Rienen, WEPPC096, IPAC 2011 **K. Brackebusch, U. van Rienen, MOPPC062, IPAC 2012
+
+ 
+
+
+ 
+
+
+
+MOPWO009
+Numerical Studies on the Impact of Ionized Residual Gas on an Electron Beam in an ERL
+903
+
+
+ 
+
+G. Pöplau, U. van Rienen
+                       Rostock University, Faculty of Computer Science and Electrical Engineering, Rostock, Germany
+A. Meseck
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by BMBF under contract number 05K10HRC
+Energy Recovery Linacs (ERLs) are the most promising candidates for next-generation light sources now under active development. An optimal performance of these machines requires the preservation of the high beam brightness generated in the injector. For this, the impact of the ionized residual gas on the beam has to be avoided as it causes instabilities and emittance growth. Typical measures to reduce the effect of ion clouds are clearing electrodes and clearing gaps in the bunch train. In this paper, we present numerical studies of the impact of ion clouds on the electron bunch train. The simulations are performed with the software package MOEVE PIC Tracking developed at Rostock University. ’The model for the bunch and the ion cloud takes into account a distribution of macro particles. The interaction of the bunch with the ion cloud is computed with a 3D space charge model. Hence, particle tracking allows for detailed studies of bunch characteristics such as the emittance. The presented numerical investigations take into account the parameters of the ERL BERLinPro with the objective to deduce appropriate measures for the design and operation of BERLinPro.
+
+ 
+
+
+ 
+
+
+
+MOPWO010
+Machine Protection Studies for a Crab Cavity in the LHC
+906
+
+
+ 
+
+B. Yee-Rendon, R. Lopez-Fernandez
+                       CINVESTAV, Mexico City, Mexico
+T. Baer, J. Barranco, R. Calaga, A. Marsili, R. Tomás, F. Zimmermann
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: US-LARP and CONACYT
+Crab cavities (CCs) apply a transverse kick that rotate the bunches so as to have a head-on collision at the interaction point (IP). Such cavities were successfully used to improve the luminosity of KEKB. They are also a key ingredient of the HL-LHC project to increase the luminosity of the LHC. As CCs can rapidly change the particle trajectories, machine protection studies are required to assess the beam losses due to fast CC failures. In this paper, we discuss the effect of rapid voltage or phase changes in a CC for the HL-LHC layout using measured beam distributions from the present LHC.
+
+ 
+
+
+ 
+
+
+
+MOPWO011
+Surface Field Optimization of Accelerating Structures for CLIC using ACE3P on Remote Computing Facility
+909
+
+
+ 
+
+K.N. Sjobak, E. Adli
+                       University of Oslo, Oslo, Norway
+A. Grudiev
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Research Council of Norway
+This paper presents a computer program for searching for the optimum shape of an accelerating structure cell by scanning a multidimensional geometry parameter space. For each geometry, RF parameters and peak surface fields are calculated using ACE3P on a remote high-performance computational system. Parameter point selection, mesh generation, result storage and post-analysis are handled by a GUI program running on the user’s workstation. This pa- per describes the program, AcdOptiGui. AcdOptiGui also includes some capability for automatically selecting scan points based on results from earlier simulations, which en- ables rapid optimization of a given parameterized geome- try. The software has previously been used as a part of the design process for accelerating structures for a 500 GeV CLIC.
+
+ 
+
+
+ 
+
+
+
+MOPWO013
+A New Scalable Software Package for  Large Scale Beam Dynamic Simulations
+912
+
+
+ 
+
+R. Zhao, J. Xu
+                       IS, Beijing, People's Republic of China
+Y. He, C. Li, X. Qi, L. Yang
+                       IMP, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+Large scale Beam Dynamics Simulations (BDS) are important in accelerator design and optimization. With the fast development of supercomputers, new software packages need to be developed in order to fully make use of hardware and software progresses. In this paper, we will introduce a new BDS software package, LOCUS3D, which is developed for efficient use of these new techniques. It is based on Particle-In-Cell (PIC) method, and includes space charge effect by solving the Poisson’s equation. Parallel Poisson solver has been developed with MPI. Standard accelerator devices can be simulated and new devices can be added. Benchmark results have been obtained on several different platforms, such as INSPUR cluster at RDCPS, BG/P at ANL. Large-scale simulation with 109 particles can be simulated now in the simulations. LOCUS3D will be used for more realistic accelerator simulations in the near future.
+
+ 
+
+
+ 
+
+
+
+MOPWO014
+Numerical Methods  to the Space Charge Compensation (SCC) Effect of the LEBT Beam
+915
+
+
+ 
+
+S.X. Peng, J. Chen, J.E. Chen, Z.Y. Guo, P.N. Lu, Y.T. Luo, H.T. Ren, Z.H. Wang, Y. Xu, T. Zhang, J. Zhao
+                       PKU, Beijing, People's Republic of China
+A.L. Zhang
+                       Graduate University, Chinese Academy of Sciences, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Numerical simulation as well as experimental researches on space charge compensation for high intensity, low energy ion beam has been done at Peking University (PKU). In this paper we will describe the simulation model proposed at PKU and use it on the PKU ECR single-charged ion source. It consists of a new concept of equivalent density and more consideration of physical process. A series of arithmetical equations is gained through theoretical derivation. Although no numerical solutions have been carried out from our computation, it is foreseeable that the final result will be achieved soon.
+
+ 
+
+
+ 
+
+
+
+MOPWO018
+Cellular Automaton Simulating the Motion of the Charged Particles Beam
+918
+
+
+ 
+
+S.N. Andrianov, N.V. Kulabukhova
+                       St. Petersburg State University, St. Petersburg, Russia
+V. Ryabusha
+                       Saint Petersburg State University, Saint Petersburg, Russia
+
+ 
+
+
+ 
+
+In this research we formulate and formalize the rules for the cellular automaton that emulates the motion of the charged particles beam under the effect of Coulomb force for one-, two- and three-dimensional cases. In this research we also describe the main principles of the realization of this approach in a paralleled cluster environment.
+
+ 
+
+
+ 
+
+
+
+MOPWO019
+An IDE for Spin-orbit Dynamics Simulation
+921
+
+
+ 
+
+A.N. Ivanov, N.V. Kulabukhova
+                       St. Petersburg State University, St. Petersburg, Russia
+
+ 
+
+
+ 
+
+In this paper a prototype of an IDE for simulation of spin-orbit motion is described. It is based on the component software development and provides a flexible graphic user interface. One of the main parts of it is numerical methods for ordinary differential equations integration. For numerical simulation it is possible use either the matrix map algorithm or traditional step-by-step methods. This workflow allows choosing one of numerical algorithms and to provide necessary computational experiments. It is also contains both a visual designer of an accelerator lattice and additional tools for control parameters of the model. There is also exists possibility for code generation in different programming languages and computation on high-performance systems.
+
+ 
+
+
+ 
+
+
+
+MOPWO020
+Space Charge Dominated Envelope Dynamics using GPUs
+924
+
+
+ 
+
+N.V. Kulabukhova
+                       St. Petersburg State University, St. Petersburg, Russia
+
+ 
+
+
+ 
+
+High power accelerator facilities lead to necessity to consider space charge forces. It is therefore important to study the space charge dynamics in the corresponding channels. To represent the space charge forces of the beam we have developed special software based on some analytical models for space charge distributions. Because calculations for space charge dynamics become extremely time consuming, we use a special algorithm for predictor-corrector method for evaluation scheme for beam map evaluation including the space charge forces. This method allows us to evaluate the map along the references trajectory and to create the beam envelope dynamics. The corresponding computer codes are realized using CUDA implementation of maps for particle dynamics. Some numerical results for different types of the beam channels are discussed. The survey of advantages and disadvantages of using different methods of parallelization and some parallel approaches will be done.
+
+ 
+
+
+ 
+
+
+
+MOPWO021
+Data Management and Analysis for Beam Dynamics Simulation
+927
+
+
+ 
+
+D. Zyuzin
+                       FZJ, Jülich, Germany
+S.N. Andrianov, N.V. Kulabukhova
+                       St. Petersburg State University, St. Petersburg, Russia
+
+ 
+
+
+ 
+
+Computer simulation of modern accelerator system is based on a number of specialized computer codes. Complexity of concerned processes and interpretation of simulation results requires comfortable and effective tools to design accelerator structure and beam characteristics, carry out computer experiments, process and visualize data. This paper proposes a prototype system with web-interface which allows the full research cycle: from lattice generation to data visualization. This approach represents a valuable tool for beam physicist providing methods to benchmark simulation engines as well as providing additional instruments for understanding physical processes in accelerator. The corresponding tools were used in application to the spin-orbit motion problems in electrostatic accelerators.
+
+ 
+
+
+ 
+
+
+
+MOPWO022
+Design and Manufacturing Description of the Prototype Striplines for the Extraction Kicker of the CLIC Damping Rings
+930
+
+
+ 
+
+C. Belver-Aguilar, A. Faus-Golfe
+                       IFIC, Valencia, Spain
+M.J. Barnes
+                       CERN, Geneva, Switzerland
+J. Gómez
+                       Trinos Vacuum Projects, Paterna, Spain
+D. Gutiérrez Arribas
+                       Trinos Vacuum Projects, S.L., Paterna - Valencia, Spain
+F. Toral
+                       CIEMAT, Madrid, Spain
+
+ 
+
+
+ 
+
+The Pre-Damping Rings (PDRs) and Damping Rings (DRs) of CLIC are needed to reduce the beam emittances to the small values required for the main linacs. The injection and extraction, from the PDRs and DRs, are carried out by kicker systems. In order to achieve both low beam coupling impedance and reasonable broadband impedance matching to the electrical circuit, striplines have been chosen for the kicker elements. The design of the stripline kicker was previously carried out by modelling the striplines with simulation codes such as HFSS, Quickfield and CST Particle Studio. In order to have a complete analysis of the striplines, the effect of electrodes supports and coaxial feedthroughs have been studied in detail. In this paper, electromagnetic analyses of the complete striplines, including fabrication tolerances, are reported. Furthermore, a new idea for impedance matching is presented.
+
+ 
+
+
+ 
+
+
+
+MOPWO023
+Upgrade and Systematic Measurement Campaign of the ATF2 Multi-OTR System
+933
+
+
+ 
+
+A. Faus-Golfe, J. Alabau-Gonzalvo, C. Blanch Gutierrez, J. Resta-López
+                       IFIC, Valencia, Spain
+J. Cruz, E. Marín, D.J. McCormick, G.R. White, M. Woodley
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+A multi-Optical Transition Radiation (mOTR) system made of four stations is being used routinely since September 2011 for transverse beam size measurement and emittance reconstruction in the extraction line of ATF2, providing diagnostic support during the ATF2 tuning operation. Furthermore it is also an excellent tool for fast transverse coupling correction. Due to the compactness of the current design the system has an influence in the increase of the transverse emittance due to wakefield effects when a simultaneous measurement is made. To avoid this effect a new target holder and a new optics has been designed and implemented. In this paper we describe the present status of the ATF2 mOTR system, showing recent performance results, and hardware design improvements.
+
+ 
+
+
+ 
+
+
+
+MOPWO024
+Design of the CLIC Pre-Main Linac Collimation System
+936
+
+
+ 
+
+R. Apsimon, A. Latina, D. Schulte, J.A. Uythoven
+                       CERN, Geneva, Switzerland
+J. Resta-López
+                       IFIC, Valencia, Spain
+
+ 
+
+
+ 
+
+A main beam collimation system, upstream of the main linac, is essential to protect the linac from particles in the beam halo. The proposed system consists of an energy collimation (EC) system just after the booster linac near the start of the Ring-to-Main Linac (RTML) transfer line and an EC and betatron collimation (BC) system at the end of the RTML, just before the main linac. The design requirements are presented and the cleaning efficiency of the proposed systems is analysed for different design choices.
+
+ 
+
+
+ 
+
+
+
+MOPWO025
+Optics and Protection of the Injection and Extraction Regions of the CLIC Damping Rings
+939
+
+
+ 
+
+R. Apsimon, B. Balhan, M.J. Barnes, J. Borburgh, B. Goddard, Y. Papaphilippou, J.A. Uythoven
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The optics design of the injection and extraction regions for the CLIC damping rings is presented. The design defines the parameters for the kicker magnets and septa in these regions and has been optimised to minimise the length of the insertions within the parameter space of the system. Failure modes of the injection and extraction elements are identified and their severity assessed. Protection elements for the injection and extraction regions are optimised based on the conclusions of the failure mode analysis.
+
+ 
+
+
+ 
+
+
+
+MOPWO026
+Investigation of Numerical Precision Issues of Long Term Single Particle Tracking
+942
+
+
+ 
+
+E. McIntosh, R. De Maria, M. Giovannozzi
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+Long term single particle simplectic tracking is one of the most reliable tool to study the dynamic aperture of the circular accelerators. The present computational performance allows to explore the long term behaviour for an extended number of turns. It is well known that for instance single precision floating point arithmetic introduces too much numerical noise even after a moderate number of turns. In this paper we explore the artefacts of the double precision arithmetic that may be visible when the number of turns is in the order of 106, 107.
+
+ 
+
+
+ 
+
+
+
+MOPWO027
+Improved TEAPOT Method and Tracking with Thick Quadrupoles for the LHC and its Upgrade
+945
+
+
+ 
+
+H. Burkhardt, R. De Maria, M. Giovannozzi, T. Risselada
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The comparison between tracking with thick and thin lens models for the LHC have been studied. A widely-used method to generate thin models is based on the TEAPOT slicing, which, in the original implementation is limited in the number of slices. In this paper an improved method is presented, which overcomes some of the limitations of the original TEAPOT. The performance is analysed and the impact on numerical simulation of the dynamic aperture is evaluated, both for the LHC and its upgrade, HL-LHC.
+
+ 
+
+
+ 
+
+
+
+MOPWO028
+Recent Developments and Future Plans for SixTrack
+948
+
+
+ 
+
+R. De Maria, R. Bruce, R. Calaga, L. Deniau, M. Fjellstrom, M. Giovannozzi, L. Lari, Y.I. Levinsen, E. McIntosh, A. Mereghetti, D. Pastor Sinuela, S. Redaelli, H. Renshall, A. Rossi, F. Schmidt, R. Tomás, V. Vlachoudis
+                       CERN, Geneva, Switzerland
+R. Appleby, D.R. Brett
+                       UMAN, Manchester, United Kingdom
+D. Banfi, J. Barranco
+                       EPFL, Lausanne, Switzerland
+B. Dalena
+                       CEA/IRFU, Gif-sur-Yvette, France
+L. Lari
+                       IFIC, Valencia, Spain
+V. Previtali
+                       Fermilab, Batavia, USA
+G. Robert-Demolaize
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+SixTrack is a symplectic 6D tracking code routinely used to simulate single particle trajectories in high energy circular machines like the LHC and RHIC. The paper presents the developments recently implemented and those foreseen for extending the physics models: exact Hamiltonian, different ions and charge states, RF multipoles, non-linear fringe fields, Taylor maps, e-lenses, ion scattering. Moreover new functionalities are also added like variable number of tracked particles, time dependent strengths, GPU computations with a refactoring of the core structure. The developments will benefit studies on the LHC and SPS, for collimation efficiency, ion operations, failure scenarios and HL-LHC design.
+
+ 
+
+
+ 
+
+
+
+MOPWO029
+Remote Estimate of Collimator Jaw Damages with Sound Measurements during Beam Impacts
+951
+
+
+ 
+
+D. Deboy, O. Aberle, R.W. Aßmann, F. Carra, M. Cauchi, J. Lendaro, A. Masi, S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Irregular hits of high-intensity LHC beams on collimators can lead to severe damage of the collimator jaws. The identification of damaged collimator jaws by observation of beam measurements is challenging: online loss measurements at the moment of the impacts can be tricky and degradation of the overall performance from single collimator damage can be difficult to measure. Visual inspections are excluded because collimator jaws are enclosed in vacuum tanks without windows. However, the sound generated during the beam impact can be used to give an estimate of the damage level. In 2012, high-intensity beam comparable to a full nominal LHC bunch at 7 TeV was shot on a tertiary type LHC collimator at the HiRadMat test facility at CERN. The paper presents results from sound recordings of this experiment.
+
+ 
+
+
+ 
+
+
+
+MOPWO031
+High Energy Beam Impact Tests on a LHC Tertiary Collimator at CERN HiRadMat Facility
+954
+
+
+ 
+
+M. Cauchi, O. Aberle, R.W. Aßmann, A. Bertarelli, F. Carra, A. Dallocchio, D. Deboy, L. Lari, S. Redaelli, A. Rossi
+                       CERN, Geneva, Switzerland
+M. Cauchi, P. Mollicone
+                       UoM, Msida, Malta
+L. Lari
+                       IFIC, Valencia, Spain
+N.J. Sammut
+                       University of Malta, Information and Communication Technology, Msida, Malta
+
+ 
+
+
+ 
+
+The correct functioning of the collimation system is crucial to safely operate the LHC. The requirements to handle high intensity beams can be demanding. In this respect, investigating the consequences of LHC particle beams hitting tertiary collimators (TCTs) in the experimental regions is a fundamental issue for machine protection. An experimental test was designed to investigate the robustness and effects of beam accidents on a fully assembled collimator, based on accident scenarios in the LHC. This experiment, carried out at the CERN HiRadMat (High Irradiation to Materials) facility, involved 440 GeV beam impacts of different intensities on the jaws of a horizontal TCT. This paper presents the experimental setup and the preliminary results obtained together with some first outcomes from visual inspection.
+
+ 
+
+
+ 
+
+
+
+MOPWO032
+SPS Scraping and LHC Transverse Tails
+957
+
+
+ 
+
+L.N. Drøsdal, K. Cornelis, B. Goddard, V. Kain, M. Meddahi, Ö. Mete, B. Salvachua, G. Valentino, E. Veyrunes
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+All high-intensity LHC beams have to be scraped before extraction from the SPS to remove the non-Gaussian transverse tails of the particle distributions. The tail particles would otherwise cause unacceptably high losses during injection or other phases of the LHC cycle. Studies have been carried out to quantify the scraping using injection losses and emittance measurements from wire scanners as diagnostics. Beams scraped in the SPS were scraped again in the LHC with collimators to investigate possible tail repopulation. The results of these studies will be presented in this paper.
+
+ 
+
+
+ 
+
+
+
+MOPWO033
+Analysis of LHC Transfer Line Trajectory Drifts
+960
+
+
+ 
+
+L.N. Drøsdal, W. Bartmann, H. Bartosik, C. Bracco, B. Goddard, V. Kain, Y. Papaphilippou, J.A. Uythoven, G. Vanbavinckhove, J. Wenninger
+                       CERN, Geneva, Switzerland
+E. Gianfelice-Wendt
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+The LHC is filled from the SPS via two 3km long transfer lines. In the first years of LHC operation large trajectory variations were discovered. The sources of bunch-by-bunch and shot-by-shot trajectory variations had been identified and improved by the 2012 LHC run. The origins of the longer term drifts were however still unclear and significant time was spent correcting the trajectories. In the last part of the 2012 run the optics in the SPS was changed to lower transition energy. Trajectory stability and correction frequency will be compared between before and after the optics change in the SPS. The sources of the variations have now been identified and will be discussed in this paper. Remedies for operation after the long shutdown will be proposed.
+
+ 
+
+
+ 
+
+
+
+MOPWO034
+Energy Deposition Studies for the Upgrade of the LHC Injection Lines
+963
+
+
+ 
+
+A. Mereghetti, O. Aberle, F. Cerutti, B. Goddard, V. Kain, F.L. Maciariello, M. Meddahi
+                       CERN, Geneva, Switzerland
+R. Appleby
+                       UMAN, Manchester, United Kingdom
+E. Gianfelice-Wendt
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+The LHC Injectors Upgrade (LIU) Project aims at upgrading the systems in the LHC injection chain, to reliably deliver the beams required by the High-Luminosity LHC (HL-LHC). Given the challenging beam intensities and emittances, a review of the existing beam-intercepting devices is on-going, in order to assess heat loads and consequent thermo-mechanical stresses. Moreover, the exposure of downstream elements to induced shower radiation is assessed. The study is intended to spot possible issues and contribute to the definition of viable design and layout solutions.
+
+ 
+
+
+ 
+
+
+
+MOPWO035
+Layouts for Crystal Collimation Tests at the LHC
+966
+
+
+ 
+
+D. Mirarchi, S. Redaelli, W. Scandale
+                       CERN, Geneva, Switzerland
+D. Mirarchi
+                       The Imperial College of Science, Technology and Medicine, London, United Kingdom
+V. Previtali
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Various studies have been carried out in the past years regarding crystal collimation for the LHC. A new extensive campaign of simulations was performed to determine optimum layouts for beam tests at the LHC. The layouts are determined based on semi-analytical models for the dynamics of channeled particles. Detailed SixTrack tracking with all collimators of the ring are then used to validate the different options. An overview of the ongoing studies is given. Comparative studies between the present collimation system, the crystal collimation system, and different crystal collimation layout are presented.
+
+ 
+
+
+ 
+
+
+
+MOPWO036
+Civil Engineering Feasibility Studies for Future Ring Colliders at CERN
+969
+
+
+ 
+
+J.A. Osborne, O.S. Brüning, M. Klein, S. Myers, S. Myers, L. Rossi, C.S. Waaijer, F. Zimmermann
+                       CERN, Geneva, Switzerland
+M. Klein
+                       DESY Zeuthen, Zeuthen, Germany
+
+ 
+
+
+ 
+
+CERN civil engineers are studying the feasibility of future ring colliders to complement the LHC. Infrastructure works typically represent one third of the cost of major physics projects, so it's critical that the construction costs are well understood from the conceptual stage. This poster presents the first results of the feasibility studies for two potential ring colliders at CERN: the racetrack shaped Linac-Ring LHeC and an 80km circular tunnel to house the High Energy LHC (SHE-LHC) and the TLEP. Some of the key civil engineering challenges faced in such large scale projects are presented with particular emphasis on geology, design and risk.
+
+ 
+
+
+ 
+
+
+
+MOPWO037
+SixTrack Simulation of Off-momentum Cleaning in LHC
+972
+
+
+ 
+
+E. Quaranta, R. Bruce, S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In the LHC, high-amplitude particles are cleaned by either betatron collimators or momentum collimators. Previously, betatron losses have been considered more important, but measurements during the first years of operation show high losses also in the off-momentum cleaning insertion. This causes a significant radiation dose to warm magnets downstream of the collimators. Our work in this paper aims at simulating with SixTrack the off-momentum particles, driven into the momentum collimators by radiation damping outside the RF system acceptance. The results are an important ingredient in assessing the effectiveness of new passive absorbers to protect the warm magnets.
+
+ 
+
+
+ 
+
+
+
+MOPWO038
+Cleaning Inefficiency of the LHC Collimation System during the Energy Ramp: Simulations and Measurements
+975
+
+
+ 
+
+E. Quaranta, R. Bruce, L. Lari, D. Mirarchi, S. Redaelli, A. Rossi, B. Salvachua, G. Valentino
+                       CERN, Geneva, Switzerland
+L. Lari
+                       IFIC, Valencia, Spain
+D. Mirarchi
+                       The Imperial College of Science, Technology and Medicine, London, United Kingdom
+G. Valentino
+                       University of Malta, Information and Communication Technology, Msida, Malta
+
+ 
+
+
+ 
+
+The cleaning inefficiency of the LHC collimation system has already been studied in detail at injection and top energy (450 GeV and 4 TeV respectively). In this paper the results are presented for the cleaning inefficiency at intermediate energies, simulated using the SixTrack code. The first comparisons with measured provoked losses are discussed. This study helps in benchmarking the energy dependence of the simulated inefficiency and is thus important for the extrapolation to future operation at higher energies.
+
+ 
+
+
+ 
+
+
+
+MOPWO039
+Experience with High-intensity Beam Scraping and Tail Populations at the Large Hadon Collider
+978
+
+
+ 
+
+S. Redaelli, R. Bruce, F. Burkart, D. Mirarchi, B. Salvachua, G. Valentino, D. Wollmann
+                       CERN, Geneva, Switzerland
+R.W. Aßmann
+                       DESY, Hamburg, Germany
+G. Valentino
+                       University of Malta, Information and Communication Technology, Msida, Malta
+
+ 
+
+
+ 
+
+The population of beam tails at the LHC is source of concern because even small fractions of the total beam intensity could represent a potential danger is case of slow or fast losses, e.g. caused by orbit transients or by collimator movements. Different studies have been performed using the technique of collimator scans to probe the beam tail population, for different beam energies and beam intensities. The experience accumulated during the operation at 3.5 TeV and 4 TeV is reviewed and extrapolations to higher energies are considered.
+
+ 
+
+
+ 
+
+
+
+MOPWO040
+Analysis of Failures of the LHC Collimators during the 2010-2013 Operation
+981
+
+
+ 
+
+S. Redaelli, A. Masi
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHC collimation system must be available in all phases of the machine operation in order to handle the high stored beam energies. The system availability is therefore crucial to achieve an efficient LHC operation. The collimation system has proved to work reliably in the first years of LHC operation, with total stored energies up to 140 MJ. The impact on the machine availability has been limited. The analysis of collimation system availability and the failure rate in the years 2012-2012 is reviewed with the aim to identify possible further improvements for the future.
+
+ 
+
+
+ 
+
+
+
+MOPWO041
+Simulations and Measurements of Physics Debris Losses at the 4 TeV LHC
+984
+
+
+ 
+
+A. Marsili, R. Bruce, F. Cerutti, S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+Simulations of energy deposition from the physics debris are normally done with shower simulation tools like FLUKA. Tracking tools like SixTrack allow faster simulations that open the possibility to study parametrically and optimize different layouts. In this paper, the results of FLUKA and SixTrack simulations are compared to beam measurements done for different collimator settings at 4 TeV, with p-p luminosities up to 7·1033 cm-2s−1.
+
+ 
+
+
+ 
+
+
+
+MOPWO042
+Simulations of Collimation Cleaning Performance with HL-LHC Optics
+987
+
+
+ 
+
+A. Marsili, R. Bruce, R. De Maria, S.D. Fartoukh, S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+The upgrade of the LHC from the current set-up to high luminosity performances will provide new challenges for the protection of the machine. The different optics considered might create new needs for collimation, and require new collimation locations. In order to evaluate the cleaning performances of the collimation system, different halo cleaning simulations were performed with the particle tracking code SixTrack. This paper presents the cleaning performance simulation results for the high luminosity Achromatic Telescopic Squeeze optics considered as baseline for the HL-LHC. The new limitations observed and possible solutions are discussed.
+
+ 
+
+
+ 
+
+
+
+MOPWO043
+Hollow Electron Lens Simulation for the SPS
+990
+
+
+ 
+
+V. Previtali, G. Stancari, A. Valishev
+                       Fermilab, Batavia, USA
+S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Fermilab is operated by Fermi Research Alliance, LLC, Contract No. DE-AC02-07CH11359 with the United States Dep. of Energy. This work was supported by the US LHC Accelerator Research Program (LARP).
+The hardware of the Tevatron hollow electron lens, which has been used in the past for collimation purposes, is presently available. Possible applications of similar devices in the LHC are under evaluation, but a realistic date for installation of electron lenses in the LHC would be not earlier than the machine shutdown scheduled for 2018. We investigated the possibility of beam tests with the available hardware in the meantime in the SPS. This article aims to answer this question by presenting the results of dedicated numerical simulations.
+
+ 
+
+
+ 
+
+
+
+MOPWO044
+Numerical Simulations of a Hollow Electron Lens as a Scraping Device for the LHC
+993
+
+
+ 
+
+V. Previtali, G. Stancari, A. Valishev
+                       Fermilab, Batavia, USA
+S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Fermilab is operated by Fermi Research Alliance, LLC, Contract No.DE-AC02-07CH11359 with the United States Dep. of Energy. This work was partially supported by US LHC Accelerator Research Program(LARP)
+The use of hollow electron beam lens for scraping high energy proton beams has been extensively tested at Fermilab's Tevatron collider. In order to evaluate a possible application of a similar a device in the LHC, a dedicated new routine has been implemented in the standard 6D tracking code used at CERN for the design of the LHC collimation system. The effects of a finite length cylinder of electrons encompassing the main proton beam and traveling in the opposite direction is described in the routine. Realistic electron distributions, including measured radial imperfections, have been included in the model. Various operating modes have been simulated for the 7 TeV machine operation with sextupoles and octupoles included. The loss rate caused by the electron lens has been studied through an extended simulation campaign; the obtained halo removal rates for the different electron lens operating modes are presented.
+
+ 
+
+
+ 
+
+
+
+MOPWO046
+Simulations and Measurements of Beam Losses on LHC Collimators during Beam Abort Failures
+996
+
+
+ 
+
+L. Lari, C. Bracco, R. Bruce, B. Goddard, S. Redaelli, B. Salvachua, G. Valentino
+                       CERN, Geneva, Switzerland
+A. Faus-Golfe, L. Lari
+                       IFIC, Valencia, Spain
+G. Valentino
+                       University of Malta, Information and Communication Technology, Msida, Malta
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+One of the main purposes of tracking simulations for collimation studies is to produce loss maps along the LHC ring, in order to identify the level of local beam losses during nominal and abnormal operation scenarios. The SixTrack program is the standard tracking tool used at CERN to perform these studies. Recently, it was expanded in order to evaluate the proton load on different collimators in case of fast beam failures. Simulations are compared with beam measurements at 4 TeV. Combined failures are assumed which provide worst-case scenarios of the load on tungsten tertiary collimators.
+
+ 
+
+
+ 
+
+
+
+MOPWO047
+Studies of Thermal Loads on Collimators for HL-LHC Optics in case of Fast Losses
+999
+
+
+ 
+
+L. Lari, R. Bruce, F. Cerutti
+                       CERN, Geneva, Switzerland
+L. Lari
+                       IFIC, Valencia, Spain
+
+ 
+
+
+ 
+
+Funding: The HiLumi LHC Design Study is included in the HL-LHC project and is partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+The new layouts for the HL-LHC pose new challenges in terms of proton loads on the collimators around the ring, in particular for the ones of in experimental regions that become critical with squeeze optics. New layouts are under consideration, which foresee updated collimation schemes. Simulations of halo loads for in case of fast failures have been setup with SixTrack in order to determine beam loss distributions for realistic error scenarios. The particle tracking studies might then be interfaced to tools like FLUKA to evaluate the thermal loads on collimators in case of failures. In this paper, the preliminary studies performed for the baseline HL-LHC optics layouts are presented.
+
+ 
+
+
+ 
+
+
+
+MOPWO048
+Cleaning Performance of the LHC Collimation System up to 4 TeV
+1002
+
+
+ 
+
+B. Salvachua, R.W. Aßmann, R. Bruce, M. Cauchi, D. Deboy, L. Lari, A. Marsili, D. Mirarchi, E. Quaranta, S. Redaelli, A. Rossi, G. Valentino
+                       CERN, Geneva, Switzerland
+M. Cauchi
+                       UoM, Msida, Malta
+L. Lari
+                       IFIC, Valencia, Spain
+D. Mirarchi
+                       The Imperial College of Science, Technology and Medicine, London, United Kingdom
+G. Valentino
+                       University of Malta, Information and Communication Technology, Msida, Malta
+
+ 
+
+
+ 
+
+Funding: Research supported by EU FP7 HiLumi LHC (Grant agreement 284404)
+In this paper we review the performance of the LHC collimation system during 2012 and compare it with previous years. During 2012, the so-called tight settings were deployed for a better cleaning and improved beta-star reach. As a result, a record cleaning efficiency below a few 0.0001 was achieved in the cold regions where the highest beam losses occur. The cleaning in other cold locations is typically a factor of 10 better. No quenches were observed during regular operation with up to 140 MJ stored beam energy. The system stability during the year, monitored regularly to ensure the system functionality for all machine configurations, and the performance of the alignment tools are also reviewed.
+
+ 
+
+
+ 
+
+
+
+MOPWO049
+Lifetime Analysis at High Intensity Colliders Applied to the LHC
+1005
+
+
+ 
+
+B. Salvachua, R.W. Aßmann, R. Bruce, F. Burkart, S. Redaelli, G. Valentino, D. Wollmann
+                       CERN, Geneva, Switzerland
+G. Valentino
+                       University of Malta, Information and Communication Technology, Msida, Malta
+
+ 
+
+
+ 
+
+The beam lifetime is one of the main parameters to define the performance of a collider. In a super-conducting machine like the LHC, the lifetime determines the intensity reach for a given collimation cleaning. The beam lifetime can be calculated from the direct measurement of beam current. However, due to the noise in the beam current signal only an average lifetime over several seconds can be calculated. We propose here an alternative method, which uses the signal of the beam loss monitors in the vicinity of the primary collimators to get the instantaneous beam lifetime at the collimators. In this paper we compare the lifetime from the two methods and investigate the minimum lifetime over the LHC cycle for all the physics fills in 2011 and 2012. These data provide a reference for estimates of performance reach from collimator cleaning.
+
+ 
+
+
+ 
+
+
+
+MOPWO050
+Comparison of LHC Beam Loss Maps using the Transverse Damper Blow up and Tune Resonance Crossing Methods
+1008
+
+
+ 
+
+V. Moens, R. Bruce, S. Redaelli, B. Salvachua, G. Valentino
+                       CERN, Geneva, Switzerland
+V. Moens
+                       EPFL, Lausanne, Switzerland
+G. Valentino
+                       University of Malta, Information and Communication Technology, Msida, Malta
+
+ 
+
+
+ 
+
+The LHC collimator settings are qualified regularly via beam loss maps. In this procedure, the beam is artificially excited to create abnormal loss rates. The transverse damper blow up and tune resonance crossing methods are used to increase the betatron amplitude of particles and verify the efficiency of the collimation cleaning and the collimator hierarchy. This paper presents a quantitative comparison of the methods, based on measurements done at different phases of the LHC machine cycle. The analysis is done using Beam Loss Monitor (BLM) with integration times of 1.3 s and 80 ms. The use of the faster BLM data to study the time evolution of the losses in IR3 and IR7 during off-momentum loss maps is also presented.
+
+ 
+
+
+ 
+
+
+
+MOPWO051
+Estimate of Warm Magnets Lifetime in the Betatron and Momentum Cleaning Insertions of the LHC
+1011
+
+
+ 
+
+B. Salvachua, R. Bruce, M. Brugger, F. Cerutti, S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN LHC collimation system is designed to perform momentum and betatron cleaning in different insertions, respectively IR3 and IR7. The insertions are not perfectly decoupled because the dispersion in IR7 is not null and the beta function in IR3 is not zero. The detailed sharing of losses between the two insertions depends on the relative collimator settings as observed by the change between 2011 and 2012 LHC operation. In this report, using the beam loss measurements at the primary collimators of IR3 and IR7, the total BLM losses in the two insertions are calculated and compared to each other. These studies are also used to quantify the total dose to warm magnets in those IRs with the aim to understand better their lifetime and the implications of the radiation to electronics. This will be of particular importance in view of LHC operating at nominal performance after several years of operation.
+
+ 
+
+
+ 
+
+
+
+MOPWO053
+Evolution of the Tracking Code PLACET
+1014
+
+
+ 
+
+A. Latina, Y.I. Levinsen, D. Schulte
+                       CERN, Geneva, Switzerland
+J. Snuverink
+                       JAI, Egham, Surrey, United Kingdom
+
+ 
+
+
+ 
+
+The tracking code PLACET simulates beam transport and orbit corrections in linear accelerators. It incorporates single- and multi-bunch effects, static and dynamic imperfections. A major restructuring of its core has resulted in an improvement in its modularity, with some immediate advantages: its tracking core, which is one of the fastest available for this kind of simulations, is now interfaced toward three different scripting languages to offer great simulation capabilities: Tcl/Tk, Octave and Python. These three languages provide access to a vast library of scientific tools, mechanisms for parallel computing, and access to Java interfaces for control systems (such as that of CTF3). Also, new functionalities have been added: parallel tracking to exploit modern multicore CPUs, the possibility to track through the interaction region in presence of external magnetic fields (detector solenoid) and higher order imperfections in magnets. PLACET is currently used to simulate the CLIC Drive Beam, the CLIC Main Beam, CTF3, FACET at SLAC, and ATF2 at KEK.
+
+ 
+
+
+ 
+
+
+
+MOPWO054
+The LHeC as a Higgs Boson Factory
+1017
+
+
+ 
+
+F. Zimmermann, O.S. Brüning
+                       CERN, Geneva, Switzerland
+M. Klein
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+The LHeC is designed to collide a new 60 GeV energy electron beam, from a 3-pass ERL, with the 7 TeV energy LHC proton beam. At the present target ep luminosity of 1033cm-2s-1, the LHeC would produce a few 1000 Higgs bosons per year, allowing for precision coupling measurements, especially of the H –> b bbar decay in charged current deep inelastic scattering (ep –> nu H X). With a significant increase of the luminosity, rarer channels become accessible, as the charm decay. Here such an increase, to the level of 1034cm-2s-1 or even beyond, is considered from a combination of improvements, namely with a smaller proton beam emittance, with a further reduction of the proton IP beta function, an increase of the proton bunch intensity and with doubling the lepton beam current, compared to the canonical values assumed in the CDR.
+
+ 
+
+
+ 
+
+
+
+MOPWO057
+A Precise Beam Dynamics Model of the PSI Injector 2
+1020
+
+
+ 
+
+A.M. Kolano, R.J. Barlow
+                       University of Huddersfield, Huddersfield, United Kingdom
+A. Adelmann, C. Baumgarten
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The Injector 2 at PSI (Paul Scherrer Institut), is a 72 MeV separate sector cyclotron producing a high intensity proton beam up to 3 mA CW, which is subsequently injected to the 590 MeV Ring Cyclotron. The injection energy of the pre-bunched beam is 870 keV at an intensity of 10 to 11 mA. In this paper we describe a full 3D model of the PSI injector 2, starting just before the two bunchers and including the multi stage collimation scheme in the cyclotron. The precise beam dynamics model is based on the OPAL (Object Oriented Parallel Accelerator Library) simulation code. OPAL is a tool for charged-particle optic calculations in large accelerator structures and beam lines including 3D space charge. The presented model will be validated with data from radial profile measurements and loss rates from the collimators and the electrostatic septum in the Injector 2. Based on this model we will estimate the intensity limit of this machine and comment of future operation modes.
+
+ 
+
+
+ 
+
+
+
+MOPWO058
+Injection Simulations for TPS Storage Ring
+1022
+
+
+ 
+
+C.C. Chiang, P.J. Chou
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+We present injection simulations for the TPS (Taiwan Photon Source) storage ring. The baseline lattice of TPS storage ring is a 6-fold structure with 24 double bend cells. For the Step I commissioning, only baseline lattice with dummy chambers are installed. The three double mini-beta-y lattice with insertion devices will be applied during Step II commissioning. The Tracy-2 program is used to simulate the particle motion in 6-D phase space. We adopt lattice models which include errors of alignments and magnet fields. The particle loss due to scraping by chamber limit is recorded in Tracy-2 simulation. We can estimate the radiation distribution of a ring and provide a reference for the shielding design accordingly.
+
+ 
+
+
+ 
+
+
+
+MOPWO059
+Development of MATLAB-based Application Programs for the Optics Matching, Beam Steering, and Injection Conditioning in TPS Commissioning
+1025
+
+
+ 
+
+M.-S. Chiu, H.-P. Chang, P.J. Chou, F.H. Tseng
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Taiwan Photon Source (TPS) is a third generation 3GeV synchrotron light source. Its first beam commissioning is scheduled in 2014. Intensive efforts are devoted to achieve efficient transportation of the first beam from the LINAC, passing through the LTB transfer line, and its injection into the booster ring. After the beam energy has been ramped up to 3GeV in booster, the beam is extracted to the BTS transfer line. At the end of BTS, the beam is injected into the storage ring and circulates around the storage ring. In order to achieve efficient beam transportation, we have developed various MATLAB-based commissioning tools for the optics matching of transfer lines, beam steering and injection conditioning of booster and storage ring.
+
+ 
+
+
+ 
+
+
+
+MOPWO061
+Numerical Approaches for Simulation of Stochastic Cooling in 2D Phase Space
+1028
+
+
+ 
+
+M. Dolinska
+                       NASU/INR, Kiev, Ukraine
+C. Dimopoulou, A. Dolinskyy, F. Nolden
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+A consolidated fluid-dynamics algorithm for the analysis of beam dynamics under the influence of the electromagnetic field is presented. Aiming at simulating stochastic cooling of particle beams in 2D space, two numerical algorithms solving the 2D Fokker-Planck Equation are described. As an alternative approach, a numerical method based on the macro-particle tracking turn in turn in the ring (i.e. in the time domain) is introduced. Some results of the simulation of the stochastic cooling in the Collector Ring by both methods are discussed.
+
+ 
+
+
+ 
+
+
+
+MOPWO062
+A Parallel Multi-objective Differential Evolution Algorithm for Photoinjector Beam Dynamics Optimization
+1031
+
+
+ 
+
+J. Qiang, C.E. Mitchell, S. Paret, R.D. Ryne
+                       LBNL, Berkeley, California, USA
+Y.X. Chao
+                       UCB, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the Director of the Office of Science of the US Department of Energy under Contract no. DEAC02-05CH11231
+In photoinjector design, there is growing interest in using multi-objective beam dynamics optimization to minimize the final transverse emittances and to maximize the final peak current of the beam. Most previous studies in this area were based on genetic algorithms. Recent progress in optimization suggests that the differential evolution algorithm could perform better in comparison to the genetic algorithm. In this paper, we propose a new parallel multi-objective optimizer based on the differential evolution algorithm for photoinjector beam dynamics optimization. We will discuss the numerical algorithm and some benchmark examples. This algorithm has the potential to significantly reduce the computation time required to reach the optimal Pareto solution.
+
+ 
+
+
+ 
+
+
+
+MOPWO063
+LHeC IR Optics Design Integrated into the HL-LHC Lattice
+1034
+
+
+ 
+
+M. Korostelev, D. Newton, A. Wolski
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+O.S. Brüning, R. Tomás
+                       CERN, Geneva, Switzerland
+E. Cruz Alaniz, D. Newton, A. Wolski
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+The two main drivers for the CDR LHeC IR design were chromaticy and synchrotron radiation. Recently it has been proposed that the LHeC IR proton optics could be integrated into the ATS scheme, which benefits from higher arc beta functions for the correction of chromaticity. In this scenario the distance between the IP and the protron triplet can be increased allowing for a reduction of the IR dipole field and the synchrotron radiation. First feasibility considerations and more in depth studies of the synchrotron radiation effects are presented in this paper.
+
+ 
+
+
+ 
+
+
+
+MOPWO066
+GPU-accelerated Spin Dynamics and Analysis for RHIC
+1037
+
+
+ 
+
+D.T. Abell, D. Meiser
+                       Tech-X, Boulder, Colorado, USA
+M. Bai, V.H. Ranjbar
+                       BNL, Upton, Long Island, New York, USA
+D.P. Barber
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: This work supported in part by the US DOE Office No. DE-SC0004432.
+Graphics processing units (GPUs) have now become powerful tools for scientific computation. Here we present our work on using GPUs (singly or in parallel) to speed the tracking of both orbital and spin degrees of freedom in particle accelerators. This work includes the development of new spin integrators that are both fast and accurate. We have also developed an integrated set of tools for analysing the results. To demonstrate the utility of these new tools, we use them to study the spin dynamics of protons in the Relativistic Heavy Ion Collider at Brookhaven National Lab.
+
+ 
+
+
+ 
+
+
+
+MOPWO067
+Beam Dynamics Simulations with a GPU-accelerated Version of Elegant
+1040
+
+
+ 
+
+I.V. Pogorelov, K.M. Amyx, J. Balasalle, J.R. King
+                       Tech-X, Boulder, Colorado, USA
+M. Borland, R. Soliday
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the US DOE Office of Science, Office of Basic Energy Sciences under grant number DE-SC0004585, and by Tech-X Corporation
+Large scale particle tracking and tracking-based lattice optimization simulations can derive significant benefit from efficient implementation of general-purpose particle tracking on GPUs. We present the latest results of our work on accelerating Argonne National Lab's accelerator simulation code ELEGANT*,** using CUDA-enabled GPUs. A sufficiently large number of Elegant beamline elements has been ported to GPUs to allow the GPU-accelerated simulation of realistic test lattices. We will identify some of performance-limiting factors, and briefly discuss optimization techniques for efficient utilization of the device memory space, with an emphasis on register usage. We also present a novel hardware-assisted technique for efficiently calculating a histogram from a large distribution of particle coordinates, and compare this to data-parallel implementations.
+* M. Borland, Elegant: A Flexible SDDS-compliant Code for Accelerator Simulation, APS LS-287, September 2000  ** Y. Wang, M. Borland, in Proc. of PAC07, THPAN095 (2007) 
+
+ 
+
+
+ 
+
+
+
+MOPWO068
+Simulating Electron Cloud Evolution using Modulated Dielectric Models
+1043
+
+
+ 
+
+S.A. Veitzer, P. Stoltz
+                       Tech-X, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: This work was performed under the auspices of the Department of Energy as part of the ComPASS SCiDAC-2 project (DE-FC02-07ER41499), and the SCiDAC-3 project (DE-SC0008920)
+Electron clouds can pose a serious threat to accelerator performance, and understanding cloud buildup and the effectiveness of different mitigation techniques can provide cost-saving improvements in accelerator design and fabrication. Microwave diagnostics of electron clouds are a non-destructive way to measure cloud buildup, but it is very difficult to measure the cloud density from spectral signals alone. Modeling travelling-wave rf diagnostics is very hard because of the large range of spatial and temporal scales that must be resolved to simulate spectra. New numerical models have been used to generate synthetic spectra for electron clouds when the cloud density is not changing, and results have been compared to theoretical results. Here we use dielectric models to generate spectra for clouds that evolve over many bunch crossings. We first perform detailed simulations of cloud buildup using kinetic particle models, and then use an equivalent plasma dielectric model corresponding to this density, at a finer time resolution, to compute spectra. The stability and accuracy of dielectric models that spectra can be accurately determined in these very long timescale simulations.
+
+ 
+
+
+ 
+
+
+
+MOPWO070
+Higher Order Symplectic Integration of Collective Effects
+1046
+
+
+ 
+
+S.D. Webb, D.T. Abell
+                       Tech-X, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Long time tracking simulations of intense beams requires a proper account for the collective effects. Many tracking codes allow the number of space charge kicks, for example, to be determined by the end user. This makes no guarantee that the integration is second order accurate in the step size. In this proceeding, we present results on the proper second- and fourth-order symplectic integration of the Hamiltonian dynamics of particles under collective interactions using a model Hamiltonian with collective space charge forces to illustrate the underlying principles.
+
+ 
+
+
+ 
+
+
+
+MOPWO071
+Coherent Electron Cooling: Status of Single-Pass Simulations
+1049
+
+
+ 
+
+B.T. Schwartz, G.I. Bell, I.V. Pogorelov, S.D. Webb
+                       Tech-X, Boulder, Colorado, USA
+D.L. Bruhwiler
+                       CIPS, Boulder, Colorado, USA
+Y. Hao, V. Litvinenko, G. Wang
+                       BNL, Upton, Long Island, New York, USA
+S. Reiche
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Funding: US DOE Office of Science. Contracts DE-FC02-07ER41499, DE-FG02-08ER85182, DE-AC02-05CH11231.
+Advances in nuclear physics depend on experiments that employ relativistic hadron accelerators with dramatically increased luminosity. Current methods of increasing hadron beam luminosity include stochastic cooling and electron cooling; however, these approaches face serious difficulties at the high intensities and high energies proposed for eRHIC *. Coherent electron cooling promises to cool hadron beams at a much faster rate**. A single pass of an ion through a coherent electron cooler involves the ion's modulating the charge density of a copropagating electron beam, amplification of the modulated electron beam in a free-electron laser, and energy correction of the ion in the kicker section. Numerical simulations of these three components are underway, using the parallel Vorpal framework and Genesis 1.3, with careful coupling between the two codes. Here we present validations of two components of the simulations: Adding bunching to an electron beam at the start of an FEL, and the time-dependent charge density modulation in the kicker.
+* http://www.bnl.gov/cad/eRHIC/ ** V.N. Litvinenko and Y.S. Derbenev, Phys. Rev. Lett. 102, 114801 (2009).
+
+ 
+
+
+ 
+
+
+
+MOPWO073
+Design and Simulation of an Extraction Section for the University of Maryland Electron Ring
+1052
+
+
+ 
+
+K.J. Ruisard, B.L. Beaudoin, S. Bernal, J.A. Butcher, I. Haber, R.A. Kishek, T.W. Koeth, D.F. Sutter
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the US Dept. of Energy, Office of High Energy Physics, and by the US Dept. of Defense, Office of Naval Research and the Joint Technology Office.
+The University of Maryland Electron Ring (UMER) is a low-energy scaled facility for the study of intense beam dynamics, relevant to higher energy, high intensity accelerators. Many parameters crucial to understanding space charge dominated beam evolution, such as transverse emittance and longitudinal temperature, require the use of turn-by-turn interceptive diagnostics. To meet this need, we plan to implement an extraction section with a fast-pulsed electric-field kicker. This paper presents a suite of simulations used to guide the design process and predict extraction performance, using the WARP Particle-in-cell (PIC) code. Simulations in a transverse slice geometry predict beam trajectory and monitor beam evolution through extraction. After isolating a design based on centroid tracking, extraction acceptance is probed and an analysis proposed to estimate the error tolerances of the new ring elements.
+
+ 
+
+
+ 
+
+
+
+MOPWO074
+A Novel Differential Algebraic Adaptive Fast Multipole Method
+1055
+
+
+ 
+
+S. Abeyratne, B. Erdelyi
+                       Northern Illinois University, DeKalb, Illinois, USA
+B. Erdelyi, S.L. Manikonda
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+The direct pairwise calculation of the potential/electric field created by a very large number of particles is computationally impracticable since it requires long run time and a large amount of memory. The Fast Multipole Method (FMM) is a fast algorithm which scales linearly with the number of particles and it enables highly accurate evaluation of the potentials and fields among the large number of particles using less memory compared to the direct evaluation. The FMM has two main forms, non-adaptive and adaptive. The former is suitable for uniform distributions while the latter is more efficient for non-uniform distributions typically encountered in beam physics. This paper presents an implementation of a novel 3D adaptive FMM algorithm and some results obtained from simulations performed with non-uniform particle distributions.
+
+ 
+
+
+ 
+
+
+
+MOPWO077
+Design of the Proposed Low Energy Ion Collider Ring at Jefferson Lab
+1058
+
+
+ 
+
+E.W. Nissen, F. Lin, V.S. Morozov, Y. Zhang
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC05-06OR23177 and DE-AC02-06CH11357.
+The polarized Medium energy Electron-Ion Collider (MEIC) envisioned at Jefferson Lab will cover a range of center-of-mass energies up to 65 GeV. The present MEIC design could also allow the accommodation of low energy electron-ion collisions (LEIC) for additional science reach. This paper presents the first design of the low energy ion collider ring which is converted from the large ion booster of MEIC. It can reach up to 25 GeV energy for protons and equivalent ion energies of the same magnetic rigidity. An interaction region and an electron cooler designed for MEIC are integrated into the low energy collider ring, in addition to other required new elements including crab cavities and ion spin rotators, for later reuse in MEIC itself. A pair of vertical chicanes which brings the low energy ion beams to the plane of the electron ring and back to the low energy ion ring are also part of the design.
+
+ 
+
+
+ 
+
+
+
+MOPWO078
+A Harmonic Kicker Scheme for the Circulator Cooler Ring in the Medium Energy Electron-ion Collider
+1061
+
+
+ 
+
+E.W. Nissen, A. Hutton, A.J. Kimber
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC05-06OR23177 and DE-AC02-06CH11357.
+The current electron cooler design for the proposed Medium Energy Electron-Ion collider (MEIC) at Jefferson Lab utilizes a circulator ring for reuse of the cooling electron bunch up to 100 times to cool the ion beams. This cooler requires a fast kicker system for injecting and extracting individual bunches in the circulator ring. Such a kicker must work at a high repetition rate, up to 7.5 to 75 MHz depending on the number of turns in the recirculator ring. It also must have a very short rise and fall time (of order of 1 ns) such that it will kick an individual bunch without disturbing the others in the ring. Both requirements are orders of magnitude beyond the present state-of-the-art as well as the goals of other on-going kicker R&D programs such as that for the ILC damping rings. In this paper we report a scheme of creating this fast, high repetition rate kicker by combining RF waveforms at multiple frequencies to create a kicker waveform that will, for example, kick every eleventh bunch while leaving the other ten unperturbed. We also present a possible implementation of this scheme as well as discuss its limitations.
+
+ 
+
+
+ 
+
+
+
+MOPWO080
+GPU-optimized Code for Long-term Simulations of Beam-beam Effects in Colliders
+1064
+
+
+ 
+
+Y. Roblin, V.S. Morozov, B. Terzić
+                       JLAB, Newport News, Virginia, USA
+M. Aturban, D. Ranjan, M. Zubair
+                       ODU CS, Norfolk, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+We report on the development of the new code for long-term simulation of beam-beam effects in particle colliders. The underlying physical model relies on a matrix-based arbitrary-order symplectic particle tracking for beam transport and the Bassetti-Erskine approximation for beam-beam interaction. The computations are accelerated through a parallel implementation on a hybrid GPU/CPU platform. With the new code, a previously computationally prohibitive long-term simulations become tractable. We use the new code to model the proposed medium-energy electron-ion collider (MEIC) at Jefferson Lab.
+
+ 
+
+
+ 
+
+
+
+MOPWO081
+The Scheme of Beam Synchronization in MEIC
+1067
+
+
+ 
+
+Y. Zhang, Y.S. Derbenev, A. Hutton
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC05-06OR23177 and DE-AC02-06CH11357.
+Synchronizing colliding beams at single or multiple collision points is a critical R&D issue in the design of a medium energy electron-ion collider (MEIC) at Jefferson Lab. The path-length variation due to changes in the ion energy, which varies over 20 to 100 GeV, could be more than several times the bunch spacing. The scheme adopted in the present MEIC baseline is centered on varying the number of bunches (i.e., harmonic number) stored in the collider ring. This could provide a set of discrete energies for proton or ions such that the beam synchronization condition is satisfied. To cover the ion energy between these synchronized values, we further propose to vary simultaneously the electron ring circumference and the frequency of the RF systems in both collider rings. We also present in this paper the requirement of frequency tunability of SRF cavities to support the scheme.
+
+ 
+
+
+ 
+
+
+
+MOPWO083
+LEIC - A Polarized Low Energy Electron-ion Collider at Jefferson Lab
+1070
+
+
+ 
+
+Y. Zhang, Y.S. Derbenev, A. Hutton, G.A. Krafft, R. Li, F. Lin, V.S. Morozov, E.W. Nissen, R.A. Rimmer, H. Wang, S. Wang, B.C. Yunn, H. Zhang
+                       JLAB, Newport News, Virginia, USA
+M.K. Sullivan
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC05-06OR23177 and DE-AC02-06CH11357.
+A polarized electron-ion collider is envisioned as the future nuclear science program at JLab beyond the 12 GeV CEBAF. Presently, a medium energy collider (MEIC) is set as an immediate goal with options for a future energy upgrade. A comprehensive design report for MEIC has been released recently. The MEIC facility could also accommodate electron and proton/ion collisions in a low CM energy range, covering proton energies from 10 to 25 GeV and ion energies with a similar magnetic rigidity, for additional science reach. In this paper, we present a conceptual design of this low energy collider, LEIC, showing its luminosity can reach above 1033 cm-2s−1. The design specifies that the large booster of the MEIC is converted to a low energy ion collider ring with an interaction region and an electron cooler integrated into it. The design provides options for either sharing the detector with the MEIC or a dedicated low energy detector in a third collision point, with advantages of either a minimum cost or extra detection parallel to the MEIC operation, respectively. The LEIC could be positioned as the first and low cost phase of a multi-stage approach to realize the full MEIC.
+
+ 
+
+
+ 
+
+
+
+MOPWO085
+A Hybrid Technique for Computing Courant-Snyder Parameters from Beam Profile Data
+1073
+
+
+ 
+
+C.K. Allen
+                       ORNL, Oak Ridge, Tennessee, USA
+E.N. Dai
+                       Washington University in St. Louis, St. Louis, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by ORNL/SNS, which is managed by UT-Battelle, LLC, for the U.S. Department of Energy under contract DE-AC05-00OR22725.
+We present a technique for computing the Courant-Snyder parameters of a charged-particle beam from profile measurement data. Such algorithms are not new, but this particular method has very robust convergence properties resulting from a novel approach that combines both deterministic and non-deterministic methods. The general idea is as follows: given a model of the beamline, in the zero-current case it is possible to compute the Courant-Snyder parameters directly from profile data using a deterministic, linear-algebraic approach. For the finite beam current case we can construct a smooth curve of these deterministic solutions starting from the zero-current solution and terminating at the finite-current case. We are guaranteed convergence, and convergence to the finite-current solution connected to the zero-current Courant-Snyder parameters. This approach avoids the convergence issues associated with a fully iterative, non-deterministic method. The details of the technique are outlined and examples are presented using profile data taken from the SNS accelerator.
+
+ 
+
+
+ 
+
+
+
+MOPWO086
+Open XAL Status Report 2013
+1076
+
+
+ 
+
+T.A. Pelaia
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL/SNS is managed by UT-Battelle, LLC, for the U.S. Department of Energy under contract DE-AC05-00OR22725
+XAL is the well established, accelerator physics high level application programming framework developed for and used at the Spallation Neutron Source in Oak Ridge National Lab. Due to interest from other accelerator labs, the Open XAL project was formed in 2010 to port XAL to be more suitable for collaboration. The Open XAL architecture along with the objectives, status and roadmap of this effort are presented in this paper.
+
+ 
+
+
+ 
+
+
+
+MOPWO087
+Parameter Estimation of the Exponentially Damped Sinusoid for Noisy Signals
+1079
+
+
+ 
+
+T.A. Pelaia
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL/SNS is managed by UT-Battelle, LLC, for the U.S. Department of Energy under contract DE-AC05-00OR22725
+The damped sinusoid equation is a common model for many scientific processes involving damped periodic signals. Here we present two methods for estimating the damped sinusoid parameters for noisy signals. Both methods are based upon an exact, closed form solution to fit the parameters for signals without noise, and they estimate the parameters for the noisy signals by the statistical maximum likelihood criterion. The first method relies on an optimizer to minimize the mean square signal error. The second method estimates the parameters by direct calculation and is suitable when the signal noise is small and the frequencies are sufficiently far from the integer and half integer values.
+
+ 
+
+
+ 
+
+
+
+MOPWO088
+Semi-analytical Description of the Modulator Section of the Coherent Electron Cooling
+1082
+
+
+ 
+
+A. Elizarov, V. Litvinenko
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+We discuss the theoretical description of the modulator section of the coherent electron cooling (CeC)*, the modern realization of the stochastic electron cooling, where the electron beam serves as a modulator and a kicker, i.e., it records the information about the hadron beam via electron density perturbations resulting from the shielding of the hadrons and then accelerates or decelerates hadrons by its electric field with respect to their velocities. To analyze the performance of the CeC shielding of a hadron in an electron beam should be computed with high precision. We propose a solution of this problem via Fourier and Laplace transforms for 1D, 2D and 3D plasmas. In some cases there are fully analytical solutions, which gave an opportunity to test semi-analytical ones involving numerical evaluations of the inverse integral transforms. Having its own practical value this solution will also serve as a testing ground for our general solution via numerical treatment of the integral equations applicable for the realistic case of the finite beam**.
+* V. N. Litvinenko, Y. S. Derbenev, Phys. Rev. Lett. 102, 114801 (2009). ** A. Elizarov, V. Litvinenko, G. Wang, IPAC'12 Proceedings, weppr099 (2012).
+
+ 
+
+
+ 
+
+
+
+

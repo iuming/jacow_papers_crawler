@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2014 - Table of Session: WECYB (Beam Position Monitor Electronics)
+
+
+WECYB —  Beam Position Monitor Electronics   (17-Sep-14   11:25—12:25)
+Chair: J.R. Zagel, Fermilab, Batavia, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+WECYB1
+Development of a Modified Six-Port Discriminator for Precise Beam Position Measurements
+495
+
+
+ 
+
+A. Penirschke, A. Angelovski, M. Hansli, R. Jakoby, T. Mahn
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+For the European XFEL, new energy beam position monitors based on planar transmission lines were designed for energy measurements in the dispersive section of bunch compressor chicanes. The EBPM consists of transversely mounted stripline pickups in a rectangular beam pipe section and a signal detection scheme which measures the phases of the pulses at the ends of the pickup*. It allows simultaneous measurements of the beam energy and arrival-time. This paper presents the development of a RF readout electronic based on a modified six-port discriminator as a low-cost alternative to the readout electronics based on the MTCA.4 platform for the EBPM. Based on the six-port, the beam position can be determined by means of the phase difference between the received signals from both ends of the transmission line pickup. The six-port discriminator is a linear passive component, first developed in the 70s for accurate measurements of complex reflection coefficients in microwave network analysis**. It typically consists of two hybrid couplers and two power dividers or one Wilkinson power divider and three -3dB hybrid couplers. For the measurement of the difference of two signals excited from a single source one of the hybrid coupler can be omitted. The advantage of the six port is the fact that accurate phase measurements can be performed at microwave and millimeter wave frequencies only by amplitude measurements. This paper shows the principle of operation, developed prototype, and first test results
+* A. Penirschke et al., Proceedings of IBIC2013, Oxford, United Kingdom (2013).  ** G.F. Engen, IEEE MTT, vol.25, no.12, pp.1077-1079, December 1977.  
+
+ 
+
+
+
+
+
+
+Slides WECYB1 [2.567 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECYB2
+NSLS-II RF Beam Position Monitor Comissioning Update
+500
+
+
+ 
+
+J. Mead, A. Caracappa, W.X. Cheng, C. Danneil, J.H. De Long, A.J. Della Penna, K. Ha, B.N. Kosciuk, M.A. Maggipinto, D. Padrazo, B. Podobedov, O. Singh, Y. Tian, K. Vetter
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The National Synchrotron Light Source II (NSLS-II) is a third generation light source currently in the commissioning stage at Brookhaven National Laboratory. The project includes a highly optimized, ultra-low emittance, 3GeV electron storage ring, linac pre-injector and full energy booster synchrotron. Successful commissioning of the booster began in November 2012, followed by the ongoing commissioning of the NSLS-II 3GeV electron storage ring which began in March 2014. With those particles first injected, came a value realization of the in-house developed RF Beam Position Monitor (RF BPM). This in-house design knowledge proved to be extremely valuable to match BPM configurations and requirements quickly when needed with various injected beam conditions. The RF BPM system was envisioned and undertaken to meet or exceed the demanding applications of a third generation light source. This internal R&D project has since matured to become a fully realized diagnostic system with over 250 modules currently operational. Initial BPM performance and applications will be discussed.
+
+ 
+
+
+
+
+
+
+Slides WECYB2 [3.041 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECYB3
+Status of the Sirius RF BPM Electronics
+505
+
+
+ 
+
+S.R. Marques, R.A. Baron, G.B.M. Bruno, F.H. Cardoso, L.A. Martins, J.L.B. Neto, L.M. Russo, D.O. Tavares
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+A modular and open-source RF BPM electronics based on the PICMG(R) MicroTCA.4 and ANSI/VITA 57.1 FMC standards has been developed to be used at Sirius, a 3 GeV low emittance synchrotron light source under construction in Brazil. This paper reports on the latest development advances focusing on bench tests of the second version of the RF front-end and evaluation of the electronics with beam at SPEAR3 (SSRL/SLAC). The interface of the BPM electronics with the orbit feedback system is also discussed.
+
+ 
+
+
+
+
+
+
+Slides WECYB3 [3.265 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

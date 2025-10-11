@@ -1,0 +1,223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2018 - Table of Session: MOPLG (Monday Plenary)
+
+
+MOPLG —  Monday Plenary   (22-Oct-18   09:00—10:30)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPLG01
+Challenges in Simulating Beam Dynamics of Dielectric Laser Acceleration
+120
+
+
+ 
+
+U. Niedermayer, O. Boine-Frankenheim, T. Egenolf, E. Skär
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+A. Adelmann, S. Bettoni, M. Calvi, M.M. Dehler, E. Ferrari, F. Frei, D. Hauenstein, B. Hermann, N. Hiller, R. Ischebeck, C. Lombosi, E. Prat, S. Reiche, L. Rivkin
+                       PSI, Villigen PSI, Switzerland
+R.W. Aßmann, U. Dorda, M. Fakhari, I. Hartl, W. Kuropka, F. Lemery, B. Marchetti, F. Mayet, H. Xuan, J. Zhu
+                       DESY, Hamburg, Germany
+D.S. Black, P. N. Broaddus, R.L. Byer, A.C. Ceballos, H. Deng, S. Fan, J.S. Harris, T. Hirano, Z. Huang, T.W. Hughes, Y. Jiang, T. Langenstein, K.J. Leedle, Y. Miao, A. Pigott, N. Sapra, O. Solgaard, L. Su, S. Tan, J. Vuckovic, K. Yang, Z. Zhao
+                       Stanford University, Stanford, California, USA
+H. Cankaya, A. Fallahi, F.X. Kärtner
+                       CFEL, Hamburg, Germany
+D.B. Cesar, P. Musumeci, B. Naranjo, J.B. Rosenzweig, X. Shen
+                       UCLA, Los Angeles, USA
+B.M. Cowan
+                       Tech-X, Boulder, Colorado, USA
+R.J. England
+                       SLAC, Menlo Park, California, USA
+E. Ferrari, L. Rivkin
+                       EPFL, Lausanne, Switzerland
+T. Feurer
+                       Universität Bern, Institute of Applied Physics, Bern, Switzerland
+P. Hommelhoff, A. Li, N. Schönenberger, R. Shiloh, A.D. Tafel, P. Yousefi
+                       University of Erlangen-Nuremberg, Erlangen, Germany
+Y.-C. Huang
+                       NTHU, Hsinchu, Taiwan
+J. Illmer, A.K. Mittelbach
+                       Friedrich-Alexander Universität Erlangen-Nuernberg, University Erlangen-Nuernberg LFTE, Erlangen, Germany
+F.X. Kärtner
+                       Deutsches Elektronen Synchrotron (DESY) and Center for Free Electron Science (CFEL), Hamburg, Germany
+W. Kuropka, F. Mayet
+                       University of Hamburg, Institut für Experimentalphysik, Hamburg, Germany
+Y.J. Lee, M. Qi
+                       Purdue University, West Lafayette, Indiana, USA
+E.I. Simakov
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: ACHIP is funded by the Gordon and Betty Moore Foundation (Grant No. GBMF4744). U.N. acknowledges German BMBF Grant No. FKZ:05K16RDB. B.C. acknowledges NERSC, Contract No. DE-AC02-05CH11231.
+Dielectric Laser Acceleration (DLA) achieves the high- est gradients among structure-based electron accelerators. The use of dielectrics increases the breakdown field limit, and thus the achievable gradient, by a factor of at least 10 in comparison to metals. Experimental demonstrations of DLA in 2013 led to the Accelerator on a Chip International Program (ACHIP), funded by the Gordon and Betty Moore Foundation. In ACHIP, our main goal is to build an acceler- ator on a silicon chip, which can accelerate electrons from below 100keV to above 1MeV with a gradient of at least 100MeV/m. For stable acceleration on the chip, magnet- only focusing techniques are insufficient to compensate the strong acceleration defocusing. Thus spatial harmonic and Alternating Phase Focusing (APF) laser-based focusing tech- niques have been developed. We have also developed the simplified symplectic tracking code DLAtrack6D, which makes use of the periodicity and applies only one kick per DLA cell, which is calculated by the Fourier coefficient of the synchronous spatial harmonic. Due to coupling, the Fourier coefficients of neighboring cells are not entirely independent and a field flatness optimization (similarly as in multi-cell cavities) needs to be performed. The simu- lation of the entire accelerator on a chip by a Particle In Cell (PIC) code is possible, but impractical for optimization purposes. Finally, we have also outlined the treatment of wake field effects in attosecond bunches in the grating within DLAtrack6D, where the wake function is computed by an external solver.
+
+ 
+
+
+
+
+
+
+Slides MOPLG01 [3.947 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-MOPLG01
+
+ 
+
+
+About •
+paper received ※ 20 October 2018       paper accepted ※ 24 October 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLG02
+Recent Developments in Wake Field and Beam Dynamics Computation
+ 
+
+
+ 
+
+E. Gjonaj
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Work partially funded by DESY, Hamburg.
+Wake potentials and beam coupling impedances can be calculated analytically only for simple structures and for special limiting cases. For the calculation of wake fields in ’real-world’ 3D accelerator structures, one has to rely on numerical electromagnetic field computation. Among the most successful numerical techniques for wake field calculations in the time domain are dispersion-free methods in the moving window. These techniques are particularly useful for short-range wake field calculations. Recently, this class of methods has been extended to include Surface Impedance Boundary Conditions (SIBC) based on the Auxiliary Differential Equation (ADE) technique. These boundary conditions allow the computation of resistive wall wake fields for 3D structures with arbitrary frequency dependent conductivity. An important application of this method is the calculation resistive wall wake fields in novel accelerator chambers with NEG and amorphous carbon coatings. Other developments to be discussed include the calculation of CSR-wakes in bunch compressors and undulator structures for x-ray sources. This task is computationally very difficult because of the curved bunch trajectory that leads to extremely high frequency and long-range wake fields. Time domain as well as frequency domain methods based on high order DG and FE discretization techniques for the electromagnetic fields computation in such structures will be presented.
+
+ 
+
+
+
+
+
+
+Slides MOPLG02 [2.762 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLG03
+Spin Dynamics in Modern Electron Storage Rings:  Computational and Theoretical Aspects
+127
+
+
+ 
+
+K.A. Heinemann, O. Beznosov, J.A. Ellison
+                       UNM, Albuquerque, New Mexico, USA
+D. Appelö
+                       University of Colorado at Boulder, Boulder, USA
+D.P. Barber
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy, Office of Science, Office of High Energy Physics, Award Number DE-SC0018008
+In this talk we present some numerical and analytical results from our work on the spin polarization in high energy electron storage rings. Our work is based on the initial value problem of what we call the full Bloch equations (FBEs). The solution of the FBEs is the polarization density which is proportional to the spin angular momentum density per particle in phase space and which determines the polarization vector of the bunch. The FBEs take into account spin diffusion effects and spin-flip effects due to synchrotron radiation including the Sokolov-Ternov effect and its Baier-Katkov generalization. The FBEs were introduced by Derbenev and Kondratenko in 1975 as a generalization of the Baier-Katkov-Strakhovenko equations from a single orbit to the whole phase space. The FBEs are a system of three uncoupled Fokker-Planck equations plus two coupling terms, i.e., the T-BMT term and the Baier-Katkov term. Neglecting the spin flip terms in the FBEs one gets what we call the reduced Bloch equations (RBEs). The RBEs are sufficient for computing the depolarization time. The conventional approach of estimating and optimizing the polarization is not based on the FBEs but on the so-called Derbenev-Kondratenko formulas. However, we believe that the FBEs offer a more complete starting point for very high energy rings like the FCC-ee and CEPC. The issues for very high energy are: (i) Can one get polarization, (ii) are the Derbenev-Kondratenko formulas satisfactory at very high energy? If not, what are the theoretical limits of the polarization? Item (ii) will be addressed both numerically and analytically. Our numerical approach has three parts. Firstly we approximate the FBEs analytically using the method of averaging, resulting in FBEs which allow us to use large time steps (without the averaging the time dependent coefficients of the FBEs would necessitate small time steps). The minimum length of the time interval of interest is of the order of the orbital damping time. Seco
+
+ 
+
+
+
+
+
+
+Slides MOPLG03 [0.465 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-MOPLG03
+
+ 
+
+
+About •
+paper received ※ 20 October 2018       paper accepted ※ 24 October 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

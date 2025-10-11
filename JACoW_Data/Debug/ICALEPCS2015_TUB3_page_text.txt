@@ -1,0 +1,238 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: TUB3 (Experiment control 1)
+
+
+TUB3 —  Experiment control 1   (20-Oct-15   11:00—12:00)
+Chair: K.S. White, ORNL, Oak Ridge, Tennessee, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUB3O01
+Advanced Workflow for Experimental Control
+521
+
+
+ 
+
+D. Mannicke, N. Hauser, N. Xiong
+                       ANSTO, Menai, New South Wales, Australia
+
+ 
+
+
+ 
+
+Gumtree is a software product developed at ANSTO and used for experimental control as well as data visualization and treatment. In order to simplify the interaction with instruments and optimize the available time for users, a user friendly multi sample workflow has been developed for Gumtree. Within this workflow users follow a step by step guide where they list available samples, setup instrument configurations and even specify sample environments. Users are then able to monitor the acquisition process in real-time and receive estimations about the completion time. In addition users can modify the previously entered information, even after the acquisitions have commenced. This paper will focus on how ANSTO integrated a multi sample workflow into Gumtree, what approaches were taken to allow realistic time estimations, what programming patterns were used to separate the user interface from the execution of the acquisition, and how standardization across multiple instruments was achieved. Furthermore, this paper will summarize the lessons learned during the development iterations, the feedback received from users and the future opportunities the approach enables.
+* Gumtree T. Lam, N. Hauser, A. Gotz, P. Hathaway, F. Franceschini, H. Rayner, GumTree. An integrated scientific experiment environment, Physica B 385-386, 1330-1332 (2006)
+
+ 
+
+
+
+
+
+
+Slides TUB3O01 [1.040 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUB3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUB3O02
+Iterative Development of the Generic Continuous Scans in Sardana
+524
+
+
+ 
+
+Z. Reszela, G. Cuní, C.M. Falcón Torres, D. Fernández-Carreiras, C. Pascual-Izarra, M. Rosanes Siscart
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+Sardana* is a software suite for Supervision, Control and Data Acquisition in scientific installations. It aims to reduce cost and time of design, development and support of the control and data acquisition systems. Sardana is used in several synchrotrons where continuous scans are the desired way of executing experiments**. Most experiments require an extensive and coordinated control of many aspects like positioning, data acquisition, synchronization and storage. Many successful ad-hoc solutions have already been developed, however they lack generalization and are hard to maintain or reuse. Sardana, thanks to the Taurus*** based applications, allows the users to configure and control the scan experiments. The MacroServer, a flexible python based sequencer, provides parametrizable turn-key scan procedures. Thanks to the Device Pool controllers interfaces, heterogeneous hardware can be easily plug into Sardana and their elements used during scans and data acquisitions. Development of the continuous scans is an ongoing iterative process and its current status is described in this paper.
+* http://sardana-controls.org** D. Fernandez-Carreiras, Synchronization of Motion and Detectors and Cont. Scans as the Standard Data Acquisition Technique, ICALEPCS2015*** http://taurus-scada.org
+
+ 
+
+
+
+
+
+
+Slides TUB3O02 [3.173 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUB3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUB3O03
+The Modular Control Concept of the Neutron Scattering Experiments at the European Spallation Source ESS
+529
+
+
+ 
+
+T. Gahl, R.J. Hall-Wilton, O. Kirstein, T. Korhonen, T.S. Richter, A. Sandström, I. Sutton, J.W. Taylor
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The European Spallation Source (ESS) in Lund, Sweden has just entered into neutron beam line construction starting detailed design in 2015. As a collaboration of 17 European countries the majority of hardware devices will be provided in-kind. This presents numerous technical and organizational challenges for the construction and the integration of the neutron instrumentation into the facility wide infrastructure; notably the EPICS control network and the facilities absolute timing system. In this contribution we present a strategy for the modularity of the instruments hardware with well-defined standardized functionality and a minimized number of control & data interfaces. Key point of the strategy is the time stamping of all readings from the instruments control electronics extending the event mode data acquisition from detected neutron events to all metadata. This gives the control software the flexibility necessary to adapt the functionality of the instruments to the demands of each single experimental run. Examples of the advantages of that approach in classical motion control as well as in complex robotics systems and matching hardware requirements necessary, is discussed.
+
+ 
+
+
+
+
+
+
+Slides TUB3O03 [2.115 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUB3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUB3O04
+The LMJ System Sequences Adaptability (French MegaJoule Laser)
+533
+
+
+ 
+
+Y. Tranquille-Marques, J. Fleury, H. Graillot, J. Nicoloso
+                       CEA, LE BARP cedex, France
+S. Bailleux, N. Chapron
+                       AREVA TA Site LMJ CEA /CESTA, LE BARP cedex, France
+J. Gende
+                       ALTEN CEA /CESTA, Merignac, France
+
+ 
+
+
+ 
+
+The French Atomic and Alternative Energies Commission (CEA : Commissariat à l'Energie Atomique et aux Energies Alternatives) is currently building the Laser MegaJoule facility. In 2014, the first 8 beams and the target area were commissioned and the first physics campaign (a set of several shots) was achieved. On the LMJ, each shot requires more or less the same operations except for the settings that change from shot to shot. The supervisory controls provide five semi-automated sequence programs to repeat and schedule actions on devices. Three of them are now regularly used to drive the LMJ. Sequence programs need to have different qualities such as flexibility, contextual adaptability, reliability and repeatability. Currently, the calibration shots sequence drives 328 actions towards local control systems. However, this sequence is already dimensioned to drive 22 bundles, which will lead to manage almost 5300 actions. This paper introduces the organization of the control system used by sequence programs, the sequence adjustments files, the grafcets of sequences, the GUIs, the software and different tools used to control the facility.
+
+ 
+
+
+
+
+
+
+Slides TUB3O04 [11.273 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUB3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

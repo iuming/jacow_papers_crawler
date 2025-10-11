@@ -1,0 +1,699 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2018 - Table of Session: SUPAF (Sunday Parallel Fiesta Key)
+
+
+SUPAF —  Sunday Parallel Fiesta Key   (21-Oct-18   09:00—17:30)
+
+
+
+Paper
+Title
+Page
+
+
+
+SUPAF01
+Design and Simulation of High Momentum Acceptance Gantries for Ion Beam Therapy
+ 
+
+
+ 
+
+A.M. Huggins
+                       HHU, Duesseldorf, Germany
+L.N. Brouwer
+                       LBNL, Berkeley, USA
+W. Wan
+                       ShanghaiTech University, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+One challenge of proton beam therapy is the shear size of its equipment. A proton gantry that rotates a beamline about a patient is typically about 10 meters in diameter, heavy and expensive. One approach to reduce size and cost of gantries is their miniaturization by the application of superconducting (SC) magnets in the beamline. SC magnets, however, have difficulties to quickly adapt their field when the beam energy is changed. Achromatic beamline designs with high momentum acceptance based on superconducting magnets can lead to compact gantries that still allow rapid beam application which is an important clinical requirement. In a collaborative effort LBNL, Varian Medical Systems and PSI have developed the Alternating Gradient Canted-Cosine-Theta (AG-CCT), a curved version of the CCT design that includes alternating quadrupole and sextupole components to build an achromat. The AG-CCT reaches a momentum acceptance of approx. 20 % dp/p while preserving beam profiles within clinical specification. Another design, conceived by LBNL and Varian, achieves momentum acceptance over the entire clinical beam energy range (70-225 MeV), called the fixed-field achromat. The beam optics principles of the two achromats and an optimized associated gantry beamline design is the main focus of the presented work, as well as putting these in context of clinical requirements and economic constraints.
+
+ 
+
+
+
+
+
+
+Slides SUPAF01 [2.886 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF02
+Beam Alignment Simulation on the Beamline of a Proton Therapy Facility
+ 
+
+
+ 
+
+X. Liu, Q.S. Chen, G. Feng, B. Qin
+                       HUST, Wuhan, People’s Republic of China
+
+ 
+
+
+ 
+
+Proton therapy is now recognized as one of the most effective radiation therapy methods for cancers. A proton therapy facility with multiple gantry treatment rooms is under development in HUST (Huazhong University of Science and Technology). Misalignments of magnets and beam diagnostics instruments induce the offset of the beam trajectory, which will influence the clinical therapeutic effect. This paper describes the beam alignment simulations based on response matrix and this technology is applied to the design of the HUST-PTF beamline. To perform this study, we use the simulation code ELEGANT, and utilize the global correction method. By optimizing the layout of correctors and beam position monitors, we completed the beam correction calculation. The results show that the accuracy of center beam trajectory in the iso-center is better than 0.5 mm, meeting physical and clinical requirements.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF03
+Optimization of Hadron Therapy Beamlines Using a Novel Fast Tracking Code for Beam Transport and Beam-Matter Interactions
+ 
+
+
+ 
+
+C. Hernalsteens, K. André
+                       CERN, Geneva, Switzerland
+V. Collignon, Q. Flandroy, B. Herregods
+                       IBA, Louvain-la-Neuve, Belgium
+R. Jungers, Z. Wang
+                       UCL, Louvain-la-Neuve, Belgium
+R. Tesse
+                       ULB - FSA - SMN, Bruxelles, Belgium
+
+ 
+
+
+ 
+
+The optimization of proton therapy beamlines challenges the traditional approach used in beam optics due to the very strict constraints on beam quality, especially for Pencil Beam Scanning, despite the large losses induced by the emittance increase coming from the energy degrader. In order to explore the performances of proton therapy beamlines, we proceed using a new fast beam tracking Python library coupled with a genetic algorithm. Global optimization algorithms such as the genetic algorithm or basin hopping schemes require numerous evaluations of the model and their practical implementations are limited by the computation time at each iteration. To overcome this limitation, while at the same time allowing an open-box user experience, a Python library has been developed, including transport models for the typical hadron therapy beamlines elements, as well as models for the computation of multiple Coulomb scattering. The Multi-Objective Genetic Algorithm (MOGA) allows to explore the parameter space in a global sense. This multi-objective algorithm enables the simultaneous optimization of complex constraints specific to proton therapy beamlines. Results for the IBA Proteus One system are presented and discussed in detail.
+
+ 
+
+
+
+
+
+
+Slides SUPAF03 [9.526 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF04
+Symplectic and Self-Consistent Algorithms for Particle Accelerator Simulation
+42
+
+
+ 
+
+T. Planche, P. M. Jung
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+This paper is a review of algorithms, applicable to particle accelerator simulation, which share the following two characteristics: (1) they preserve to machine precision the symplectic geometry of the particle dynamics, and (2) they track the evolution of the self-field consistently with the evolution of the charge distribution. This review includes, but is not limited to, algorithms using a Particle-in-Cell discretization scheme. At the end of this review we discuss to possibility to derived algorithms from an electrostatic Hamiltonian.
+
+ 
+
+
+
+
+
+
+Slides SUPAF04 [0.424 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SUPAF04
+
+ 
+
+
+About •
+paper received ※ 19 October 2018       paper accepted ※ 24 October 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF05
+Polarized Proton Beams From Laser-Induced Plasmas
+46
+
+
+ 
+
+M. Büscher, J. Böker, R. Engels, I. Engin, R. Gebel, A. Hützen, A. Lehrach
+                       FZJ, Jülich, Germany
+A.M. Pukhov, J. Thomas
+                       HHUD, Dusseldorf, Germany
+T. P. Rakitzis, D. Sofikitis
+                       University of Crete, Heraklion, Crete, Greece
+
+ 
+
+
+ 
+
+Laser-driven particle acceleration has undergone impressive progress in recent years. Nevertheless, one unexplored issue is how the particle spins are influenced by the huge magnetic fields inherently present in the plasmas. In the framework of the JuSPARC (Jülich Short-Pulse Particle and Radiation Center) facility and of the ATHENA consortium, the laser-driven generation of polarized particle beams in combination with the development of advanced target technologies is being pursued. In order to predict the degree of beam polarization from a laser-driven plasma accelerator, particle-in-cell simulations including spin effects have been carried out for the first time. For this purpose, the Thomas-BMT equation, describing the spin precession in electromagnetic fields, has been implemented into the VLPL (Virtual Laser Plasma Lab) code. A crucial result of our simulations is that a target containing pre-polarized hydrogen nuclei is needed for producing highly polarized relativistic proton beams. For the experimental realization, a polarized HCl gas-jet target is under construction the Forschungszentrum Jülich where the degree of hydrogen polarization is measured with a Lamb-shift polarimeter. The final experiments, aiming at the first observation of a polarized particle beam from laser-generated plasmas, will be carried out at the 10 PW laser system SULF at SIOM/Shanghai.
+
+ 
+
+
+
+
+
+
+Slides SUPAF05 [3.927 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SUPAF05
+
+ 
+
+
+About •
+paper received ※ 19 October 2018       paper accepted ※ 24 October 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF06
+Simulations of Coherent Electron Cooling With Free Electron Laser Amplifier and Plasma-Cascade Micro-Bunching Amplifier
+52
+
+
+ 
+
+J. Ma, V. Litvinenko, G. Wang
+                       BNL, Upton, Long Island, New York, USA
+V. Litvinenko
+                       Stony Brook University, Stony Brook, USA
+
+ 
+
+
+ 
+
+SPACE is a parallel, relativistic 3D electromagnetic Particle-in-Cell (PIC) code used for simulations of beam dynamics and interactions. An electrostatic module has been developed with the implementation of Adaptive Particle-in-Cloud method. Simulations performed by SPACE are capable of various beam distribution, different types of boundary conditions and flexible beam line, as well as sufficient data processing routines for data analysis and visualization. Code SPACE has been used in the simulation studies of coherent electron cooling experiment based on two types of amplifiers, the free electron laser (FEL) amplifier and the plasma-cascade micro-bunching amplifier.
+
+ 
+
+
+
+
+
+
+Slides SUPAF06 [1.260 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SUPAF06
+
+ 
+
+
+About •
+paper received ※ 15 October 2018       paper accepted ※ 24 October 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF07
+High-Fidelity Three-Dimensional Simulations of Thermionic Energy Converters
+59
+
+
+ 
+
+N.M. Cook, J.P. Edelen, C.C. Hall, M.V. Keilman, P. Moeller, R. Nagler
+                       RadiaSoft LLC, Boulder, Colorado, USA
+J.-L. Vay
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported the US DOE Office of Science, Office of High Energy Physics: DE-SC0017162.
+Thermionic energy converters (TEC) are a class of thermoelectric devices, which promise improvements to the efficiency and cost of both small- and large-scale electricity generation. A TEC is comprised of a narrowly-separated thermionic emitter and an anode. Simple structures are often space-charge limited as operating temperatures produce currents exceeding the Child-Langmuir limit. We present results from 3D simulations of these devices using the particle-in-cell code Warp, developed at Lawrence Berkeley National Lab. We demonstrate improvements to the Warp code permitting high fidelity simulations of complex device geometries. These improvements include modeling of non-conformal geometries using mesh refinement and cut-cells with a dielectric solver. We also consider self-consistent effects to model Schottky emission near the space-charge limit for arrays of shaped emitters. The efficiency of these devices is computed by modeling distinct loss channels, including kinetic losses, radiative losses, and dielectric charging. We demonstrate many of these features within an open-source, browser-based interface for running 3D electrostatic simulations with Warp, including design and analysis tools, as well as streamlined submission to HPC centers.
+
+ 
+
+
+
+
+
+
+Slides SUPAF07 [6.097 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SUPAF07
+
+ 
+
+
+About •
+paper received ※ 01 November 2018       paper accepted ※ 19 November 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF08
+Particle-in-Cell Simulation of a Bunched Electrons Beam Acceleration in a TE113 Cylindrical Cavity Affected by a Static Inhomogeneous Magnetic Field
+64
+
+
+ 
+
+E.A. Orozco
+                       UIS, Bucaramanga, Colombia
+J.R. Beltrán, J.D. González, V.E. Vergara
+                       UMAG, Santa Marta, Colombia
+
+ 
+
+
+ 
+
+Funding: Universidad Industrial de Santander vice-rectory of research and extension. Mobility program N° Application: 2349
+The results of the relativistic full electromagnetic Particle-in-cell (PIC) simulation of a bunched electrons beam accelerated in a TE113 cylindrical cavity in the presence of a static inhomogeneous magnetic field are presented. This type of acceleration is known as Spatial AutoResonance Acceleration (SARA)*. The magnetic field profile is such that it keeps the electrons beam in the acceleration regime along their trajectories. Numerical experiments of bunched electrons beam with the concentrations in the range 108 -109 cm-3 in a linear TE113 cylindrical microwave field of a frequency of 2.45GHz and an amplitude of 15kV /cm show that it is possible accelerate the bunched electrons up to energies of 250keV without serious defocalization effect. A comparison between the data obtained from the full electromagnetic PIC simulations and the results derived from the relativistic Newton-Lorentz equation in a single particle approximation is carried out. This acceleration scheme can be used to produce hard x-ray**.
+* Dugar-Zhabon, V. D., & Orozco, E. A. (2009).Physical Review Special Topics-Accelerators and Beams, 12(4), 041301.  ** Dugar-Zhabon, V. D., & Orozco, E. A. (2017). (USA Patent: 9,666, 403 ) 
+
+ 
+
+
+
+
+
+
+Slides SUPAF08 [1.358 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SUPAF08
+
+ 
+
+
+About •
+paper received ※ 21 October 2018       paper accepted ※ 27 January 2019        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF09
+Sparse Grid Particle-in-Cell Scheme for Noise Reduction in Beam Simulations
+71
+
+
+ 
+
+A.J. Cerfon
+                       Courant Institute of Mathematical Sciences, New York University, New York, USA
+L.F. Ricketson
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+The complexity of standard solvers grows exponentially with the number of dimensions of the underlying equations. This issue is particularly acute for continuum solvers, which need to discretize the six-dimensional phase-space distribution function, and whose run times are consequently large even for a moderate number of grid points for each dimension. Particle-in-Cell (PIC) schemes are a popular alternate approach to continuum methods, because they only discretize the three-dimensional physical space and are therefore less subject to the curse of dimensionality. Even if so, PIC solvers still have large run times, because of the statistical error which is inherent to particle methods and which decays slowly with the number of particles per cell. In this talk, we will present a new scheme to address the curse of dimensionality and at the same time reduce the numerical noise of PIC simulations. Our PIC scheme is inspired by the sparse grids combination technique, a method invented to reduce grid based error when solving high dimensional partial differential equations [1]. The technique, when applied to the PIC method, has two benefits: 1) it almost eliminates the dependence of the grid based error on dimensionality, just like in a standard sparse grids application; 2) it lowers the statistical error significantly, because the sparse grids have larger cells, and thus a larger number of particles per cell for a given total number of particles. We will analyze the performance of our scheme for standard test problems in beam physics. We will demonstrate remarkable speed up for a certain class of problems, and less impressive performance for others. The latter will allow us to identify the limitations of our scheme and explore ideas to address them.
+[1] Griebel M et al. 1990 A combination technique for the solution of sparse grid problems Iterative Methods in Linear Algebra ed R Bequwens and P de Groen (Amsterdam: Elsevier) pp 263-81
+
+ 
+
+
+
+
+
+
+Slides SUPAF09 [1.848 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SUPAF09
+
+ 
+
+
+About •
+paper received ※ 19 October 2018       paper accepted ※ 19 November 2018        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF10
+Reconstruction of Particle Distributions at RFQ Exit at SNS Beam Test Facility
+76
+
+
+ 
+
+Z.L. Zhang
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+A.V. Aleksandrov, S.M. Cousineau
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Fluctuations of beam parameters and uncertainties of quadrupole gradients during measurements have effects on the reconstruction of initial particle distributions. To evaluate these effects, the concept of a distribution discrepancy is proposed. Results suggest effects of fluctuations of beam parameters are small, while uncertainties of quadrupole gradients are the main factors that affect the reconstructed distributions. By comparing the measured distributions with distributions produced by tracking the reconstructed initial distributions, it is proved that the real or quasi-real (closest to real) initial distribution can be obtained as long as the minimum distribution discrepancy is found.
+
+ 
+
+
+
+
+
+
+Slides SUPAF10 [8.261 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICAP2018-SUPAF10
+
+ 
+
+
+About •
+paper received ※ 18 October 2018       paper accepted ※ 27 January 2019        issue date ※ 04 May 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF11
+Computer Architecture Independent Adaptive Geometric Multigrid Solver for AMR-PIC
+ 
+
+
+ 
+
+M. Frey, A. Adelmann
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Funding: SNSF project 200021159936
+The accurate and efficient simulation of neighboring bunch effects in high intensity cyclotrons requires to solve large-scale N-body problems of O(109…10zEhNZeHn) particles coupled with Maxwell’s equations. In order to capture the effects of halo creation and evolution of such simulations with standard particle-in-cell models an extremely fine mesh with O(108…109) grid points is necessary to meet the condition of high resolution. This requirement represents a waste of memory in regions of void, therefore, the usage of block-structured adaptive mesh refinement algorithms is more suitable. The N-body problem is then solved on a hierarchy of levels and grids using geometric multigrid algorithms. We show benchmarks of a new implementation of an adaptive geometric multigrid algorithm using 2nd generation Trilinos packages that ran on Piz Daint with O(104…105) cores.
+
+ 
+
+
+
+
+
+
+Slides SUPAF11 [6.094 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF12
+Surrogate Models for Beam Dynamics in Charged Particle Accelerators
+ 
+
+
+ 
+
+A.L. Edelen
+                       SLAC, Menlo Park, California, USA
+D. Acharya, A. Adelmann, M. Frey
+                       PSI, Villigen PSI, Switzerland
+N.R. Neveu
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+High-fidelity, PIC-based beam dynamics simulations are time and resource intensive. Consider a high dimensional search space, that is far too large to probe with such a high resolution simulation model. We demonstrate that a coarse sampling of the search space can produce surrogate models, which are accurate and fast to evaluate. In constructing the surrogate models, we use artificial neural networks [1] and multivariate polynomial chaos expansion [2]. The performance of both methods are demonstrated in a comparison with high-fidelity simulations, using OPAL, of the Argonne Wakefield Accelerator [3]. We claim that such surrogate models are good candidates for accurate on-line modeling of large, complex accelerator systems. We also address how to estimate the accuracy of the surrogate model and how to refine the surrogate model under changing machine conditions. [1] A. L. Edelen et al., arXiv:1610.06151[physics.acc- ph] [2] A. Adelmann, arXiv:1509.08130v6[physics.acc- ph] [3] N. Neveu et al., 2017 J. Phys.: Conf. Ser. 874 012062
+
+ 
+
+
+
+
+
+
+Slides SUPAF12 [11.505 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPAF13
+Urgent Need of Start-to-End Simulations for Shanghai CW Hard X-Ray FEL Project
+ 
+
+
+ 
+
+B. Liu, S. Chen, H.X. Deng, C. Feng, Q. Gu, D. Wang, Z. Wang, M. Zhang, Z.T. Zhao
+                       SINAP, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+Shanghai has started to construct the X-ray FEL facility SHINE (Shanghai high repetition rate XFEL and extreme light facility), which is based on a 8 GeV CW-SRF linac and will build three undulator lines in the first stage. Designs of the gun, the injector, the linac, the distribution section and the FEL lines have already been done and will be presented here. Prelimilary study shows that comprehensive study of the beam and FEL properties with start-to-end simulations is really necessary.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

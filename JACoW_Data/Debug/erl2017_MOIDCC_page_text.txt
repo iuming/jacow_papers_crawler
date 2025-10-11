@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ERL2017 - Table of Session: MOIDCC (WG3.1 Partially Commissioned Facilities)
+
+
+MOIDCC —  WG3.1 Partially Commissioned Facilities   (19-Jun-17   15:45—17:50)
+Chair: G.H. Hoffstaetter, Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+MOIDCC001
+Update on the KEK ERL Test Facility (cERL)
+ 
+
+
+ 
+
+H. Kawata
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The test facility of Compact ERL (cERL) was constructed to develop critical accelerator components for future light sources. The target of cERL is to realize the ERL operation under the conditions of low emittance (lower than 1 mm mrad) with high current (averaged current of 10 mA). Our group presented the construction and initial commissioning result at the previous ERL15 workshop. After that, we have made an effort to update the performance, so that we have succeeded the ERL operation under the conditions of beam current of 1mA with lower emittance of 1mm mrad. At the bunch charges of 0.5 pC and 7.7 pC, the beam emittance was demonstrated at the March of 2016 as 0.3 mm mrad and 1-1.8 mm mrad, respectively. We also achieved the stable beam operation at the conditions of 1mA with 162.5 MHz with a small beam loss, so that it is expected to be possible to operate 10 mA at cERL with a present radiation shielding geometry. Furthermore, recently, we have made an effort to realize the beam development under high bunch charge (40 pC/bunch) operation. I will present these updated developments from the previous ERL15 workshop.
+
+ 
+
+
+
+
+
+
+Slides MOIDCC001 [3.265 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOIDCC002
+Novosibirsk ERL Facility
+33
+
+
+ 
+
+N.A. Vinokurov, V.M. Borin, I.V. Davidyuk, O.I. Deichuli, E.N. Dementyev, B.A. Dovzhenko, Ya.V. Getmanov, Ya.I. Gorbachev, B.A. Knyazev, E.I. Kolobanov, A.A. Kondakov, V.R. Kozak, E.V. Kozyrev, S.A. Krutikhin, V.V. Kubarev, G.N. Kulipanovpresenter, E.A. Kuper, I.V. Kuptsov, G.Y. Kurkin, L.E. Medvedev, O.I. Meshkov, S.V. Motygin, A.A. Murasev, V.N. Osipov, V.K. Ovchar, V.M. Petrov, A.M. Pilan, V.M. Popik, V.V. Repkov, T.V. Salikova, M.A. Scheglov, I.K. Sedlyarov, S.S. Serednyakov, O.A. Shevchenko, A.N. Skrinsky, S.V. Tararyshkin, V.G. Tcheskidov, A.G. Tribendis, P. Vobly, V. Volkov
+                       BINP SB RAS, Novosibirsk, Russia
+I.V. Davidyuk, Ya.V. Getmanov, B.A. Knyazev, E.V. Kozyrev, S.S. Serednyakov, N.A. Vinokurov
+                       NSU, Novosibirsk, Russia
+V.L. Dorokhov
+                       BINP, Novosibirsk, Russia
+A.G. Tribendis
+                       NSTU, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+The first project of the four turn ERL for Novosibirsk FELs (NovoFEL) was proposed at FEL'90 Conference. Later the project was modified, but the base lines kept: a four turn normal conductance linac with energy recovery, low RF cavities (180 MHz), grid controlled DC gun (Q~1 nC, tau=1 nsec, f rep = 10 kHz-50 MHz). The ERL can operate in the three modes, providing an electron beam for the three different FELs (from 300 µm up to 5 µm). Construction and commissioning four track ERL was divided on three stage: the first stage NovoFEL working in spectral range (90-240) µm, based on one track energy recovery linac (ERL) with energy 12 MeV and current 30 mA, was commissioned in 2003. The second stage of NovoFEL working in spectral range (35-80) µm, based on two track energy recovery linac with energy 22 MeV and current 7 mA, was commissioned in 2009. The third stage of NovoFEL working in spectral range (8-15) µm, based on four track energy recovery linac with energy 42 MeV and current 5 mA was commissioned in 2015.
+
+ 
+
+
+
+
+
+
+Slides MOIDCC002 [13.708 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ERL2017-MOIDCC002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOIDCC004
+CBETA, a 4-Turn ERL With FFAG Arc
+ 
+
+
+ 
+
+G.H. Hoffstaetter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Cornell University has been pioneering Energy Recovery Linacs (ERLs) technology that is essential for any high brightness electron ERL. This includes a DC electron source and an SRF injector Linac with world-record current and normalized brightness in a bunch train, a high-current linac cryomodule, and a high-power beam stop, and several diagnostics tools for high-current and high-brightness beams. All these are now being used to construct a novel one-cryomodule ERL in Cornell's Wilson Lab. BNL has designed a multi-turn ERL for eRHIC, where beam is transported more than 20 times around the 4km long RHIC tunnel. The number of transport lines is minimized by using two arcs with strongly-focusing permanent magnets that can control many beams of different energies. A collaboration between BNL and Cornell has been formed to investigate this multi-turn eRHIC ERL design by building a 4-turn, one-cryomodule ERL at Cornell. It also has a return loop built with strongly focusing permanent magnets and is meant to accelerate 40 mA beam to 150 MeV. This high-brightness beam will have applications beyond accelerator research, in industry, in nuclear physics, and in X-ray science.
+
+ 
+
+
+
+
+
+
+Slides MOIDCC004 [35.997 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOIDCC005
+Lessons Learned From BNL ERL Test Facility
+ 
+
+
+ 
+
+D. Kayran
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+First photocurrent from ERL SRF gun at BNL has been delivered in November 2014. In June 2015 a high charge 0.5nC and 20 uA average current were demonstrated. In July 2015 the gun to dump beam test started. The beam was successfully transported from the SRF gun through the injection system, then through the linac to the beam dump. All ERL loop components have been installed. In October 2015, the SRF gun cavity has been found contaminated during severe cathode stalk RF conditioning. This cavity has been sent for repair and modification for later use in the low-energy RHIC electron cooler (LEReC). LEReC scheduled to start commissioning in early of 2018 [1]. We present our results of BNL ERL beam commissioning, the measured beam properties, the operational status, and future prospects.
+[1] D. Kayran et all.,. First Results of Commissioning DC Photogun for RHIC Low Energy Electron Cooler (LEReC). In this procedures.
+
+ 
+
+
+
+
+
+
+Slides MOIDCC005 [18.864 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOIDCC006
+ERL Mode of S-DALINAC: Design and Status
+40
+
+
+ 
+
+M. Arnold, C. Burandt, J. Pforr, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+C. Eschelbach, M. Lösler
+                       Frankfurt University of Applied Sciences, Frankfurt am Main, Germany
+T. Kürzeder
+                       HIM, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: *Work supported by DFG through RTG 2128, INST163/383-1/FUGG and INST163/384-1/FUGG
+Recently, the S-DALINAC was extended by an additional recirculation beam line to a thrice-recirculating linear accelerator. This upgrade enables an increase of the maximum achievable energy close to its design value of 130 MeV as well as an operation as an ERL. The new beam line features a path-length adjustment system which is capable of changing the phase of the beam by a full RF phase and, thus, allowing to shift the timing of the electron bunches to the decelerating phase. The project comprises different aspects concerning the design (magnets, beam dynamics, lattice, etc.) and the construction work including the alignment done at the accelerator. This contribution presents a rough overview on the design, installation and status.
+
+ 
+
+
+
+
+
+
+Slides MOIDCC006 [2.094 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ERL2017-MOIDCC006
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

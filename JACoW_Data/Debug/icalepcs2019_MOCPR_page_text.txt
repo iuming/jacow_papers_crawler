@@ -1,0 +1,325 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: MOCPR (Systems Engineering, Collaborations, and Project Management 1)
+
+
+MOCPR —  Systems Engineering, Collaborations, and Project Management 1   (07-Oct-19   14:30—16:00)
+Chair: M. Pieck, LANL, Los Alamos, New Mexico, USA
+
+
+Paper
+Title
+Page
+
+
+
+MOCPR01
+Graduate Software Engineer Development Program at Diamond Light Source
+97
+
+
+ 
+
+A.A. Wilson, T.M. Cobb, U.K. Pedersen
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Diamond Light Source is the UK’s synchrotron facility. The support and development of the beamlines and accelerators at Diamond requires a significant quantity of specific knowledge and skills; the opportunity to acquire these beforehand is not available to many early in their career. This limits the field of candidates who can begin working independently at the level of software systems engineer. The graduate software engineer development program was started in 2015 to provide a route for engineers who are recent graduates or new to the field to develop the required skills and experience. Over the course of two years it comprises a series of projects in different groups, mentored on-the-job training and organized training courses. The program has recently been expanded to cover all groups in the Scientific Software, Controls and Computation department at Diamond, with an intake of four new engineers per year. This paper presents the structure and development of the program and invites discussion with other organizations to share knowledge and experience.
+
+ 
+
+
+
+
+
+
+Slides MOCPR01 [1.681 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPR01
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 19 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCPR02
+The EPICS Collaboration Turns 30
+101
+
+
+ 
+
+L.R. Dalesio
+                       Osprey DCS LLC, Ocean City, USA
+A.N. Johnsonpresenter
+                       ANL, Lemont, Illinois, USA
+K.-U. Kasemir
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+At a time when virtually all accelerator control systems were custom developments for each individual laboratory, an idea emerged from a meeting between the Los Alamos National Laboratory developers of the Ground Test Accelerator Control System and those tasked to design the control system for the Advanced Photon Source at Argonne National Laboratory. In a joint effort, the GTACS toolkit concept morphed into the beginnings of a powerful toolkit for building control systems for scientific facilities. From this humble beginning the Experimental Physics and Industrial Control System (EPICS) Collaboration quickly grew. EPICS is now used as a framework for control systems for scientific facilities on seven continents. The EPICS Collaboration started from a dedicated group of developers with very different ideas. This software continues to meet the increasingly challenging requirements for new facilities. This paper is a retrospective look at the creation and evolution of a collaboration that has grown for thirty years, with a look ahead to the future.
+
+ 
+
+
+
+
+
+
+Slides MOCPR02 [30.792 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPR02
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCPR03
+Planning of Interventions With the Atlas Expert System
+106
+
+
+ 
+
+I. Asensi Tortajada, A. Rummler, C.A. Solans Sanchez
+                       CERN, Geneva, Switzerland
+J.G. Torres Pais
+                       Valencia University, Burjassot, Spain
+
+ 
+
+
+ 
+
+The ATLAS Technical Coordination Expert System is a tool for the simulation of the ATLAS experiment infrastructure that combines information from diverse areas such as detector control (DCS) and safety systems (DSS), gas, water, cooling, ventilation, cryogenics, and electricity distribution. It allows the planning of an intervention during technical stops and maintenance periods, and it is being used during the LS2 to provide an additional source of information for the planning of interventions. This contribution will describe the status of the Expert System and how it us used to provide information on the impact of an intervention based on the risk assessment models of fault tree analysis and principal component analysis.
+
+ 
+
+
+
+
+
+
+Slides MOCPR03 [9.062 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPR03
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 11 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCPR04
+Moving Beyond Bias
+110
+
+
+ 
+
+K.S. White
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under contract number DE-AC05-00OR22725.
+The benefits of diverse work groups have been well documented, and our leaders speak of the need for our laboratories to become more diverse and inclusive. Despite these motivators, the field of accelerator controls remains strikingly homogeneous. This trend continues despite many long standing programs to attract underrepresented groups to STEM careers and the explicit desire of leadership to create more inclusive organizations. Research consistently points to the strong role implicit bias plays in preventing organizations from truly providing equal opportunities. The desire to become more diverse must be coupled with a strong culture, cultivated to change deeply rooted practices which influence recruiting, hiring, development, and promotion decisions based on stereotypes rather than accomplishments and abilities. Real change in this arena requires intentional action across the board, not just from human resources and underrepresented groups. This paper discusses practical approaches to changing organizational culture to enable diverse work groups to grow and thrive.
+
+ 
+
+
+
+
+
+
+Slides MOCPR04 [5.110 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPR04
+
+ 
+
+
+About •
+paper received ※ 03 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCPR05
+CI-CD Practices with the TANGO-controls Framework in the Context of the Square Kilometre Array (SKA) Telescope Project
+115
+
+
+ 
+
+M. Di Carlo
+                       INAF - OAAB, Teramo, Italy
+D. Bartashevich, J.B. Morgado, D.F. Nunes
+                       GRIT, Aveiro, Portugal
+M. Bartolini
+                       SKA Organisation, Macclesfield, United Kingdom
+K. Madisa, A.J. Venter, M.J.A. de Beer
+                       SARAO, Cape Town, South Africa
+S. Williams
+                       ROE, UTAC, Edinburgh, United Kingdom
+
+ 
+
+
+ 
+
+Funding: INAF Osservatorio Astronomico d’Abruzzo
+The Square Kilometre Array (SKA) project is an international effort to build two radio interferometers in South Africa and Australia to form one observatory monitored and controlled from the global headquarters (GHQ) in the United Kingdom. The project is very close to the end of its design phase and many decisions have already been made like the adoption of the Tango-controls framework. The time from the end of the design phases and the beginning of the construction has been called bridging with the goal of promoting CI-CD practices. CI-CD is an acronym for Continuous integration (CI) and continuous delivery and/or continuous deployment. CI is the practice of merging all developers’ local (working) copies into the mainline very often (at least daily). Continuous delivery is the approach of developing software in short cycle ensuring that it can be released anytime, and continuous deployment is the approach of delivering the software frequently and automatically. The present paper analyzes the decision taken by the system team (a specialized agile team for continuous practices in the Safe framework) for promoting those practices within the Tango-controls framework.
+
+ 
+
+
+
+
+
+
+Slides MOCPR05 [1.878 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPR05
+
+ 
+
+
+About •
+paper received ※ 20 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,51 @@
+{
+  "session_info": {
+    "id": "FROA",
+    "name": "FROA - Feedback Systems and Beam Stability",
+    "url": "https://proceedings.jacow.org/ibic2021/html/froa.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FROA01",
+      "title": "Identification of the Inter-Bunch and Intra-Bunch Beam Dynamics Based on Dynamic Modal Decomposition (DMD)",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "Stanford University",
+        "Stanford",
+        "California",
+        "USA",
+        "CalPoly",
+        "San Luis Obispo",
+        "California",
+        "USA",
+        "The quantification of the Inter-bunch and Intra-bunch beam dynamics is important to define monitoring and operation tools in accelerators as well as to design model-based controllers to stabilize the transversal and longitudinal beam motion*. Presently",
+        "analysis tools and control designs are based on simplified models",
+        "where their parameters are estimated based on beam measurements. In this work",
+        "data-driven models are estimated without preliminary model assumptions of the beam dynamics. The technique uses Dynamic Modal Decomposition (DMD)",
+        "to estimate the model and reduce it to the dominant modes present in the beam dynamics that are important to capture to design monitoring tools and controllers. The DMD technique is developed as a method to decompose complex dynamics",
+        "such as the inter-bunch / intra-bunch dynamics",
+        "into simple representations based on spatiotemporal coherent structures. It is an equation-free",
+        "data-driven method capable of providing an accurate decomposition of the beam motion. This paper will present the decomposition-reduction technique and apply it for the case of the beam dynamics identification. It will illustrate with examples the models extracted from measurements of the longitudinal inter-bunch dynamics in accelerators and transverse intra-bunch dynamics in circular machines.",
+        "*O. Turgut",
+        "\"Identification of intra-bunch dynamics for model-based beam instability control for the CERN SPS\"",
+        "PhD Thesis. Stanford Univ.",
+        "2019."
+      ],
+      "institutions": [],
+      "abstract": "Your browser cannot play the video. Consider download from Link Address. Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!",
+      "presentation_url": "https://proceedings.jacow.org/ibic2021/talks/froa01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ibic2021/papers/froa01.pdf",
+      "poster_url": "https://proceedings.jacow.org/ibic2021/posters/froa01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2021-FROA01",
+      "page_number": "473",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 17:41:44"
+}

@@ -1,0 +1,628 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2016 - Table of Session: WEPOPR (Poster Session - Wednesday)
+
+
+WEPOPR —  Poster Session - Wednesday   (26-Oct-16   15:30—18:00)
+Chair: L.M. Russo, LNLS, Campinas, Brazil
+
+
+Paper
+Title
+Page
+
+
+
+WEPOPRPO03
+Recent Beamline Interlock System and STARS at the Photon Factory
+25
+
+
+ 
+
+T. Kosuge, H. Ishii, Y. Nagatani, H. Nitani, Y. Saito
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+More than 20 beamlines are installed at the Photon Factory for synchrotron radiation research. Each beamline is equipped with an interlock system to protect users from radiation hazards and avoid vacuum-related troubles. The system is controlled by a programmable logic controller (PLC). Currently, touch panels and their corresponding communication protocols comprise the user interface. They work satisfactorily but are expensive. We have developed a new type of beamline interlock system that has a PC user interface based on a simple transmission and retrieval system (STARS). We will de-scribe the details of this new system as well as STARS.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO04
+Upgrade of Immediately Beam Abort System in J-PARC MR MPS
+ 
+
+
+ 
+
+T. Kimura
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+J-PARC Main Ring Machine Protection System (MR-MPS) stops the beam operation and the delivery of the beam to Neutrino experimental Facility (NU) or Hadron experimental Facility (HD), when MPS events occurred. Then, the beam is extracted to the abort dump at scheduled timing. We need the immediately beam abort system for high safety of accelerator and facilities. Therefore, we designed an improvement of MR-MPS to accept two interlock levels. On one hand level is conventional scheduled timing beam abort, on the other hand level is additional immediately beam abort. This paper reports the upgrade of MR-MPS during the summer shutdown period in 2016
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO10
+Personal Safety System in Sesame
+28
+
+
+ 
+
+A.A. Abbadi, A. Hamad, I. Saleh
+                       SESAME, Allan, Jordan
+
+ 
+
+
+ 
+
+SESAME (Synchrotron-light for Experimental Science and Applications in the Middle East) is a third generation synchrotron light source under construction in Allan, Jordan. The personal safety system (PSS) aims to protect the personnel from radiation hazards coming from accelerator's operation by controlling the access to the radiation area and to interlock the operation of accelerator's sub-systems according to the area status. Phase 1 of SESAME PSS has been installed and commissioned successfully for Microtron and Booster tunnel. Rockwell L72s safety PLC (up to SIL 3 applications) has been used for Microtron, Booster and Storage Ring PSS. Phase 2 includes the Installation of the storage ring's PSS; two new PSS cabinets with remote safety IO modules have been installed for the storage ring PSS and connected to the main PSS PLC via Ethernet safety CIP. Phase 3 is the personal Safety System for SESAME day one beam-lines which is currently under construction. Many procedures and interlocks have been implemented in order to allow SESAME Booster, Storage Ring and Beam-lines personal safety to be managed in a systematic, risk based manner.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO10
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO11
+Recent Improvements to the RIKEN RI Beam Factory Control System
+31
+
+
+ 
+
+M. Komiyama, N. Fukunishi, A. Uchiyama
+                       RIKEN Nishina Center, Wako, Japan
+M. Hamanaka, T. Nakamura
+                       SHI Accelerator Service Ltd., Tokyo, Japan
+
+ 
+
+
+ 
+
+RIKEN Radioactive Isotope Beam Factory (RIBF) is a cyclotron-based heavy-ion accelerator facility for producing unstable nuclei and studying their properties. Many components of the RIBF accelerator complex are controlled by using the Experimental Physics and Industrial Control System (EPICS). We will here present recent progress of the EPICS-based RIBF control system. One is the improvement of the alarm system to support a stable beam delivery during a long-term experiment. We introduced the Control System Studio (CSS) to our control system and started to monitor the vacuum systems and magnet power supplies in order to avoid the interruption of the beam supply due to the accident. The other is renewal of the system for controlling up to 900 magnet power supply units with several different types of controllers at once by a simple program. Since the configuration of the magnet power supplies has become very complicated in accordance with the several kinds of extensions and updates of the RIBF accelerator complex, we have developed the new control programs in order to simplify the recording and the setting data of the magnet power supplies.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO11
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO12
+Integration of Standalone Control Systems into EPICS-Based System at RIKEN RIBF
+35
+
+
+ 
+
+A. Uchiyama, M. Fujimaki, N. Fukunishi, M. Komiyama
+                       RIKEN Nishina Center, Wako, Japan
+
+ 
+
+
+ 
+
+RIKEN RI Beam Factory (RIBF) is an upgraded project by extending RIKEN Accelerator Research Facility (RARF) in a previous project. Along with the expansion of the RARF, RIBF control system has also been extended. Therefore, some stand-alone control systems, for example RF, ECRIS, and etc., are not integrated, though almost all control systems have integrated by EPICS for RIBF operation. These non-integrated systems are grouped into two major categories. One is a group of hard-wired control system, and another is a group based on a two-layer remote control system without middle layer. On the other hand, whole control systems should be integrated by middleware from the view point of efficient accelerator operation. For this reason, we have replaced hard-wired devices with EPICS-available devices, which are N-DIM (originally designed by Nishina Center), and Yokogawa FA-M3. Additionally, to access the data in the two-layer systems from EPICS, we have introduced a MySQL-based system as middle layer, and developed a feature to connect the database through CA protocol. As a result, it is available to obtain all of the data via EPICS and we have succeeded the system integration.
+
+ 
+
+
+
+
+
+
+Poster WEPOPRPO12 [1.168 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO12
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO18
+Automated Availability Statistics
+38
+
+
+ 
+
+P. Duval, H. Ehrlichmann, M. Lomperski
+                       DESY, Hamburg, Germany
+J. Bobnar
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+The availability of any large machine with users is not only of paramount importance but is also an oft quoted number, taken to represent the overall health of the facility, reflecting on the maintenance, operation, and engineering of the machine. The officially quoted availability is typically generated by hand after perusing the operation statistics over the time period in question. When humans are involved in such calculations there might be a subtle tendency to avoid the stigma of low availability or otherwise inflate performance. This could lead to skepticism at 'impossibly high' availability, as well as render the comparison of availability from one machine with another moot. We present here a method for calculating the machine availability automatically, based on the known machine states and the known alarm states of the machine. Although sufficient, in order to be accurate and useful, the method requires a perfect representation of all possible machine states and of all possible fatal alarms. As achieving perfection is an ongoing affair, the ability for a human to 'post-correct' the automated statistics is also described.
+
+ 
+
+
+
+
+
+
+Poster WEPOPRPO18 [1.229 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO18
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO20
+Multipurpose Vacuum Chamber - Automation, Interlock-System and Self-Operating Vacuum Routines
+41
+
+
+ 
+
+R.M. Caliari, G.L.M.P. Rodrigues, C.H. Tho, H.G.P. de Oliveira
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+The LNLS' Beamlines Engineering Group is developing new technologies for SIRIUS Beamlines. To validate and test those technologies, the group has previously worked in a Multipurpose Vacuum Chamber (MPVC). This chamber has a powerful pumping system, several viewports, feedthroughs, RGA and a cryocooler system installed. This configuration delivery a very flexible test environment and relative short pump time to achieve UHV conditions, essential to reduce the test and validation time. This paper will detail the MPVC automation structure, presenting the state machines, interlock logic and other diagrams that exemplify the automatic routines concepts. Operations like pumping from atmospheric pressure to HV, ionic pump flash and ventilation routines are automatic. The automated system was developed in LabVIEW, using a cRIO and Touch Panel interface. Based in Ethernet connection and published shared variables, the system has a friendly user interface and archiving for the main variables. The system was developed in a multi user collaborative ambient. The paper will show the advantages and disadvantages we faced working with LabVIEW as multiuser development tool.
+Vacuum system, LabVIEW, automated vacuum routines
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO20
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO21
+Development of a Virtual Accelerator for Sirius
+45
+
+
+ 
+
+X.R. Resende, A.H.C. Mukai, I. Stevani, L.N.P. Vilelapresenter
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+A virtual accelerator is being developed for Sirius, the new 4th generation synchrotron light source being built in Campinas, Brazil. The virtual accelerator is an on-line beam simulator which is integrated into EPICS control system. It consists of a command line interface server with a channel access (CA) layer and with an in-house developed tracking code library written in C++ for efficiency gain. The purpose of such server is to facilitate early development and testing of high level applications for the control system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO21
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO22
+High Level Applications for Sirius
+47
+
+
+ 
+
+I. Stevani, N. Milas, X.R. Resende, L.N.P. Vilela
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Has been decided that Sirius will use EPICS as its distributed control system and this year the development of its High Level Applications (HLAs) started. Three development frameworks were chosen for building these applications: CS-Studio, PyQt and Matlab Middle Layer (MML). Graphical user interfaces (GUI) and machine applications have already been designed and implemented for a few systems using CS-Studio and PyQt: slow orbit feedback, lifetime calculation and top-up injection. Specific Sirius data structures were added to the MML scripts in order to allow for EPICS communication through LabCA.
+
+ 
+
+
+
+
+
+
+Poster WEPOPRPO22 [0.465 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO22
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO23
+Beamline Supervisory System Using a Low-Cost Single-Board Computer
+50
+
+
+ 
+
+G.T. Semissatto, H.F. Canova, F.H. Cardoso, J. Souza
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Sirius is the new accelerator facility, under construction at the LNLS (Brazilian National Synchrotron Light La-boratory) site, in Campinas, São Paulo. The new machine is a 3 GeV, low emittance storage ring designed to ac-commodate up to 40 experimental stations. During beam-line operation, supervisory systems are an important tool to provide information about machine status and beam-line operation modes for the beamline's users. A modern TV based broadcast system was developed to meet this application, using low-cost single board computers with an interface to EPS/PPS system. The details about hard-ware, software configuration, user's requirements as well suggestions on further improvements, will be presented.
+
+ 
+
+
+
+
+
+
+Poster WEPOPRPO23 [1.261 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO23
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO24
+VDE - Virtual Documentation Environment
+53
+
+
+ 
+
+H.F. Canova, D.H.C. Araujo, M.P. Donadio, R.R. Geraldes
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+At LNLS hundreds of motors are used at the beamlines to move parts, equipment or full systems, according to different profile, synchronization and accuracy requirements. Historically, the documentation of motion axes of the LNLS beamlines was either done only at the moment of their installation and commissioning, or not properly done at all. Thus, after some time, keeping track of changes and performing maintenance could turn out to be very challenging, and there was the clear need of some solution to ensure that every change in motors would be reflected in their documentation. In 2012 the migration of the beamlines control system to the EPICS platform pushed the development of a new documentation system. In a first version, it consisted of a smart spreadsheet that generated the EPICS configuration files automatically. Later evolved to a web-based system the VDE, which allows the staff to change the motion axis parameters without the need of a deep knowledge about EPICS and ensures the complete motion axis documentation intuitively. Also, changes in motors will not work in EPICS if the documentation is not updated, guaranteeing the link between documentation and the real system.
+
+ 
+
+
+
+
+
+
+Poster WEPOPRPO24 [1.677 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO24
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO25
+Using Tkinter of Python to Create Graphical User Interface (GUI) for Scripts in LNLS
+56
+
+
+ 
+
+D.B. Beniz, A.M. Espindola
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Python is being widely used to create scripts which cover different necessities in computational scenario. At LNLS we successfully developed Python scripts to control beamlines operations, including a case of Graphical User Interface (GUI) creation using Tkinter, which is the standard GUI programming toolkit of Python, for one of our beamlines, DXAS (Dispersive X-ray Absorption Spectroscopy). Tkinter offers the basic components necessary to build a GUI that help users to quickly inform a set of parameters defining which device to use, its configuration to set, among others, and to easily start or stop operations. Such components include widgets like (text) entry, radio button, check button, and (action) button. Using text entries we developed a custom table widget for input of parameters. Tkinter also allows us to inform and to guide users by label and message boxes, and to organize the window components by frames, paned windows and geometry managers, pack or grid. It is also available notebook and menu widgets to organize tabs and call other windows. Finally, all the interface construction was done using ordinary text editors and no extra library was needed to install for python.
+
+ 
+
+
+
+
+
+
+Poster WEPOPRPO25 [0.406 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO25
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOPRPO26
+Developments of the 'Cerberus' Laser Interlock and Hazard Display System and Associated Design Tool
+59
+
+
+ 
+
+D.A. Pepler, R.C. Bickerton, A.J. Tylee
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Central Laser Facility, STFC Rutherford Appleton Laboratory, Harwell Campus, Didcot, OXON. OX11 0QX. UK
+Following on from the successful implementation of 'Cerberus' a comprehensive laser interlock / control and hazard display system*,**, on the Vulcan High-Power Laser at the Central Laser Facility (CLF)***, the last few years have seen the safety system become a CLF standard and its use extended to many different laser systems and laboratories within the department. This paper will provide an overview of the system, its enhancements and in particular the most recent developments of a design tool and the potential for this system to be used in other fields.
+* CLF Annual Report 2004-05: ‘A new interlock system for the Vulcan laser'  ** CLF Annual Report 2006-07: ‘The Argus/Cerberus interlock system used throughout the CLF' *** www.clf.stfc.ac.uk
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-WEPOPRPO26
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

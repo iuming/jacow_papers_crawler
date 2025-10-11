@@ -1,0 +1,597 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: WEPMA (Poster Session)
+
+
+WEPMA —  Poster Session   (02-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPMA01
+Optimization of the SLED Phase Modulation Parameters of the FERMI Linac
+981
+
+
+ 
+
+C. Serpico, M. Dal Forno, A. Fabris
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Funding: Work supported in part by the Italian Ministry of University and Research under grants FIRB-RBAP045JF2 and FIRB-RBAP06AWK3.
+FERMI is a single-pass linac-based FEL user-facility covering the wavelength range from 80 nm to 4 nm and is located next to the third generation synchrotron radiation facility Elettra in Trieste, Italy. The first FEL line in operation (FEL-1) has been opened to users at the end of 2012, while the second FEL line (FEL-2) covering the shorter wavelength range down to 4 nm is in commissioning. The linac is composed of 16 S-band accelerating structures. Seven of them are backward structures equipped with SLED system. Following the preliminary tests on one plant, in order to increase the operational accelerating gradient, phase modulation of the SLED drive power has been implemented in all these structures. The shape of the phase modulation is applied via the LLRF system firmware and can be modified if needed. This paper discusses the optimization of the phase modulation parameters and provides a summary of the experimental results.
+
+ 
+
+
+ 
+
+
+
+WEPMA02
+Energy and Repetition Rate Upgrade of the S-Band RF System of the FERMI Linac
+984
+
+
+ 
+
+A. Fabris, P. Delgiusto, F. Gelmetti, M.M. Milloch, A. Milocco, F. Pribaz, C. Serpico, N. Sodomaco, R. Umer, L. Veljak
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Funding: Work supported in part by the Italian Ministry of University and Research under grants FIRB-RBAP045JF2 and FIRB-RBAP06AWK3.
+FERMI is a single-pass linac-based FEL user-facility covering the wavelength range from 80 nm to 4 nm and is located next to the third generation synchrotron radiation facility Elettra in Trieste, Italy. The first FEL line in operation (FEL-1) has been opened to users at the end of 2012, while the second FEL line (FEL-2) covering the shorter wavelength range down to 4 nm is in commissioning. In 2013 the linac energy will be increased following the full RF conditioning of the backward traveling wave accelerating structures and of the SLED cavities. The repetition rate has been also increased to 50 Hz following the installation of the new RF gun and the completion of the upgrade program of the klystron modulators. This paper discusses the strategies adopted for the energy and repetition rate upgrade of the S-band linac and provides a description of the status and of the first results.
+
+ 
+
+
+ 
+
+
+
+WEPMA03
+Tuner System Assembly and Tests for the 201-MHz MICE Cavity
+987
+
+
+ 
+
+L. Somaschini
+                       INFN-Pisa, Pisa, Italy
+A.J. DeMello, D. Li, S.P. Virostek
+                       LBNL, Berkeley, California, USA
+P.M. Hanlet
+                       IIT, Chicago, Illinois, USA
+A. Moretti, R.J. Pasquinelli, D.W. Peterson, Y. Torun
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the US Department of Energy.
+The MICE cavities include a mechanical tuning system consisting of stainless steel flexure forks attached to the cavity body and driven by pneumatic actuators. The first of these systems was assembled and tested at Fermilab for use at the MuCool Test Area. The actuators were calibrated on a test hoop. The cavity body was measured and the fork contact pads machined to fit. Actuators were mounted on the vacuum vessel housing the cavity. The transfer function of the tuning system was measured and frequency control software implemented.
+
+ 
+
+
+ 
+
+
+
+WEPMA05
+RF Design Optimization of a 176 MHz CW RFQ
+990
+
+
+ 
+
+B. Mustapha, S.V. Kutsaev, P.N. Ostroumov
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract DE-AC02-06CH11357 and ANL WFO No. 85Y47.
+We have recently designed a 176 MHz CW RFQ for the SARAF upgrade project. A full 3D model of the structure including vane modulation was developed. The design was heavily optimized using large scale electromagnetic simulations. Following the choice of the vane type and geometry, the shape and dimensions of the undercuts were optimized to produce a flat field along the structure. Simulations of the same structure with different lengths were performed to verify that the design length produced the best separation of the operating mode from neighbouring modes. If built as designed the RFQ should not need dipole rods for mode separation, but their effect were studied in the case of manufacturing errors. Finally, the tuners were designed and optimized to tune the main mode without affecting the field flatness. The design optimization was mainly performed using CST Micro-Wave Studio and the results were verified using both HFSS and ANSYS. The results of these studies will be presented and discussed.
+
+ 
+
+
+ 
+
+
+
+WEPMA07
+Modeling Vacuum Arcs in Linac Structures
+993
+
+
+ 
+
+J. Norem
+                       ANL, Argonne, USA
+Z. Insepov, S. Nurkenov
+                       Nano Synergy, Inc., Downers Grove, USA
+A. Moretti
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+We describe our vacuum arc model and use it to explain the effects of magnetic field, frequency, stored energy, and other factors on the behavior of linac cavities. The model divides the breakdown process into four stages: trigger, plasma formation, plasma evolution and surface damage. The model should apply to arcs in a variety of environments, including laser ablation, tokamak edge plasma, micrometeorites and perhaps electron beam welding. We use PIC, Molecular Dynamics (MD), and finite element mesoscale thermodynamics codes to model all stages of the arc and find that the properties of surface cracks and unipolar arcs can explain most of the experimental data, and we are trying to extend the range of predictions to estimates of beam deflections, surface damage, cavity dimensions and other experimental phenomina
+
+ 
+
+
+ 
+
+
+
+WEPMA08
+Tuning, Conditioning, and Dark Current Measurements of the 1300 MHz NCRF Cavities at Argonne Wakefield Accelerator (AWA) Facility
+996
+
+
+ 
+
+J.G. Power, M.E. Conde, D.S. Doran, W. Gai, C.-J. Jing
+                       ANL, Argonne, USA
+C.-J. Jing
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+E.E. Wisniewski
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Six normal-conducting, L-band rf cavities have recently been commissioned as part of the upgrade to the AWA facility *. The cavity design is a seven-cell, standing-wave, 1300 MHz cavity made with OFE copper and was reported on earlier **. In this paper, we present data on: (i) tuning and balancing; (ii) high-power rf conditioning; and (iii) dark current measurements; of the cavities. All six cavities were tuned to 1300 MHz and were balanced to >96% in all cells. They are designed to operate with 10 MW of rf input power but were conditioned beyond this operating point to insure low dark current during operation. During rf conditioning, we recorded the arcing history to better understand the overall conditioning time and the final breakdown rate. Finally, dark current measurements were used to measure the cavity’s surface field enhancement factor, “beta” throughout rf conditioning to record how the condition of the surface evolved during rf conditioning.
+* M.E. Conde et al., see these proceedings.  ** J.G. Power et al., in proceedings of IPAC 2010 
+
+ 
+
+
+ 
+
+
+
+WEPMA09
+PPM Klystrons for Accelerator Systems
+999
+
+
+ 
+
+P. Ferguson, L.R. Ives, D. Marsden, M.E. Read
+                       CCR, San Mateo, California, USA
+J.E. Clayton
+                       Varian Medical Systems, Oncology Systems, Palo Alto, USA
+
+ 
+
+
+ 
+
+Funding: Department of Energy Office of Science SBIR Grant No. DE-SC0007591
+Calabazas Creek Research, Inc. is developing a pulsed 5 MW S-band Periodic Permanent Magnet (PPM) klystron capable of replacing the solenoid focused 5 MW Klystron currently in production for medical accelerators. The most important improvement is the large reduction in space required for the current solenoid - solenoid power supply -klystron. The PPM klystron will require a substantially reduced volume while maintaining the current operating parameters. The initial development effort will be focused on determining the maximum electron beam perveance allowable with PPM focusing. The determination of this parameter will dictate the electron beam-interaction circuit and the required electron gun - collector design. Detailed parameters, simulation and fabrication results will be presented.
+
+ 
+
+
+ 
+
+
+
+WEPMA10
+Passively  Driven X-band RF Linac Structure
+1001
+
+
+ 
+
+T. Sipahi, S. Biedron, S.V. Milton, N. Sipahi
+                       CSU, Fort Collins, Colorado, USA
+C. Adolphsen
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Accelerating structures operated at X-band frequencies have been shown to regularly achieve gradients of around 100 MV/m or better. Obviously, use of such technology can lead to more compact particle accelerators. At the Colorado State University Accelerator Laboratory we would like to adapt this technology to our L-band (1.3 GHz) accelerator system via a 2-beam configuration that capitalizes on the high gradients achievable in X-band accelerating structures in order to increase our overall beam energy in a manner that does not require investment in an expensive, custom, high-power X-band klystron system. A novel configuration has been proposed. Here we provide the design details of the X-band accelerator system that will allow us to achieve our goal of reaching the maximum practical net potential across the X-band accelerating structure.
+
+ 
+
+
+ 
+
+
+
+WEPMA11
+Progress Toward the Development of a Rapidly Tunable RF Cavity
+1004
+
+
+ 
+
+D.J. Newsham, X. Chang, J.R. Thompson
+                       Far-Tech, Inc., San Diego, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by DOE Office of High Energy Physics, DOE-SBIR #DE-SC0006225.
+A major bottleneck in the development of compact, rapid-cycling particle accelerators is the ability to maintain phase coherence between the short orbit time of the particle bunch and the phase of the accelerating RF field. A ferroelectric loaded RF cavity can achieve the needed phase shift in a significantly shorter time than alternative technologies. The current status of the development of such a cavity including the cold test of a preliminary cartridge and the testing of the bias voltage subsystem will be presented.
+
+ 
+
+
+ 
+
+
+
+WEPMA12
+Investigation of Breakdown Induced Surface Damage on 805 MHz Pill Box Cavity Interior Surfaces
+1007
+
+
+ 
+
+M.R. Jana, M. Chung, M.A. Leonova, A. Moretti, A.V. Tollestrup, K. Yonehara
+                       Fermilab, Batavia, USA
+D.L. Bowring
+                       LBNL, Berkeley, California, USA
+G. Flanagan
+                       Muons, Inc, Illinois, USA
+B.T. Freemire, Y. Torun
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+The MuCool Test Area (MTA) at Fermilab is a facility to develop the technology required for ionization cooling for a future Muon Collider and/or Neutrino Factory. As part of this research program, we have tested an 805 MHz Pill Box RF cavity in multi-Tesla magnetic field to study the effects of the static magnetic field on the cavity operation. This study gives useful information on field emitters in the cavity, dark current, surface conditioning, breakdown mechanism and material properties of the cavity. All these factors determine the maximum accelerating gradient in the cavity. This paper discusses the image processing technique for the quantitative estimation of spark damage spot distribution on the Pill Box RF cavity interior surfaces. The distribution is compared with the electric field distribution predicted by computer code calculation. The local spark density is proportional to probability of surface breakdown and shows a power law dependence on the maximum electric field (E). This E dependence is consistent with dark current calculated from Fowler-Nordheim equation.
+
+ 
+
+
+ 
+
+
+
+WEPMA13
+Design and High Power Testing of 52.809 MHz RF Cavities for Slip Stacking in the Fermilab Recycler
+1010
+
+
+ 
+
+R.L. Madrak, D. Wildman
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE- AC02-07CH11359 with the United States Department of Energy.
+For NOvA and future experiments requiring high intensity proton beams, Fermilab is in the process of upgrading the existing accelerator complex for increased proton production. One such improvement is to reduce the Main Injector cycle time, by performing slip stacking, previously done in the Main Injector, in the now repurposed Recycler Ring. Recycler slip stacking requires two new RF cavities operating at slightly different frequencies (df = 1260Hz). These are copper, coaxial, quarter wave cavities with R/Q =13 ohms. They operate at a peak gap voltage of 150 kV with 150 kW peak drive power (60% duty factor), and are resonant at 52.809 MHz with a 10 kHz tuning range. Two have been completed and installed. The design, high power test results, and status of the cavities are presented.
+
+ 
+
+
+ 
+
+
+
+WEPMA14
+Perpendicularly Biased YIG Tuners for the Fermilab Recycler 52.809 MHz RF Cavities
+1013
+
+
+ 
+
+R.L. Madrak, V.S. Kashikhin, A.V. Makarov, D. Wildman
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE- AC02-07CH11359 with the United States Department of Energy.
+For NOvA and future experiments requiring high intensity proton beams, Fermilab is in the process of upgrading the existing accelerator complex for increased proton production. One such improvement is to reduce the Main Injector cycle time, by performing slip stacking, previously done in the Main Injector, in the now repurposed Recycler Ring. Recycler slip stacking requires new tunable RF cavities, discussed separately in these proceedings. These are quarter wave cavities resonant at 52.809 MHz with a 10 kHz tuning range. The 10 kHz range is achieved by use of a tuner which has an electrical length of approximately one half wavelength at 52.809 MHz. The tuner is constructed from 3-1/8 in. diameter coaxial line, with 5 inches of its length containing perpendicularly biased, Al doped Yttrium Iron Garnet (YIG). The tuner design, measurements, and high power test results are presented.
+
+ 
+
+
+ 
+
+
+
+WEPMA16
+Assembly and Testing of the First 201-MHz MICE Cavity at Fermilab
+1016
+
+
+ 
+
+Y. Torun
+                       Illinois Institute of Technology, Chicago, IL, USA
+D.L. Bowring, A.J. DeMello, D. Li, T.H. Luo, S.P. Virostek
+                       LBNL, Berkeley, California, USA
+P.M. Hanlet
+                       IIT, Chicago, Illinois, USA
+M.A. Leonova, A. Moretti, R.J. Pasquinelli, D.W. Peterson, R.P. Schultz, J.T. Volk
+                       Fermilab, Batavia, USA
+T.H. Luo
+                       UMiss, University, Mississippi, USA
+L. Somaschini
+                       INFN-Pisa, Pisa, Italy
+
+ 
+
+
+ 
+
+Funding: Supported by the US Department of Energy.
+The International Muon Ionization Cooling Experiment (MICE) includes two linear accelerator sections with four RF cavities each within a shared vacuum vessel. Ten cavity bodies have been fabricated for MICE including two spares and one was electropolished. A special vacuum vessel was built to house this cavity and form the 201-MHz Single-Cavity Module. The module was assembled, instrumented and tested at Fermilab for installation and operation in the MuCool Test Area.
+
+ 
+
+
+ 
+
+
+
+WEPMA19
+Progress on the Fabrication of a CW Radio-frequency Quadrupole (RFQ) for the Project X Injector Experiment (PXIE)
+1019
+
+
+ 
+
+M.D. Hoff, A.J. DeMello, A.R. Lambert, D. Li, J.W. Staples, S.P. Virostek
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: * This work is supported by the Office of Science, United States Department of Energy under DOE contract DE-AC02-05CH11231.
+The Project X Injector Experiment (PXIE), a prototype front end of the Project X accelerator [1] proposed by Fermilab, is currently under construction. The complete PXIE beamline [2] is made up of an H− ion source, a low-energy beam transport (LEBT), a 2.1 MeV, 162.5 MHz radio-frequency quadrupole (RFQ) accelerator, a medium-energy beam transport (MEBT) and a 30 MeV section of superconducting cryomodules. The 4.45 m long CW RFQ consists of four separate modules that are joined by means of specially designed bolted joints. Each module consists of four solid copper vanes that are brazed together to form a 4-quadrant accelerating cavity. The ~80 kW of total wall power heat is removed by means of gun drilled water cooling passages. Mode stabilization is provided by a series of brazed, water cooled pi-mode rods. Tuning is achieved using a total of 80 fixed slug tuners. Fabrication of the PXIE RFQ is now under way at LBNL. Details of the RFQ mechanical design and an update of the fabrication progress are presented in this paper.
+
+ 
+
+
+ 
+
+
+
+WEPMA20
+RF, Thermal, and Structural Finite Element Analysis of the Project X Injector Experiment (PXIE) CW Radio-frequency Quadrupole (RFQ)
+1022
+
+
+ 
+
+A.R. Lambert, M.D. Hoff, D. Li, J.W. Staples, S.P. Virostek
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Office of Science, United States Department of Energy under DOE contract DE-AC02-05CH11231.
+PXIE (Project X Injector Experiment) is a prototype front end system for the proposed Project X accelerator complex at Fermilab. An integral component of the front end is a 162.5 MHz normal conducting CW (continuous wave) radio-frequency quadrupole (RFQ) accelerator that has been designed and will be fabricated by LBNL. The RFQ will accelerate H− ions from 30 keV to 2.1 MeV [2]. The four-vane RFQ will consist of four modules with a total length of 4.45 meters. Through rigorous application of finite element analysis (FEA), the electromagnetic fields and their resultant effect on the RFQ body temperature and the subsequent deformations due to thermal expansion have been simulated. The analysis methodology developed at LBNL allows for quick evaluation of RFQ temperature, stress, deformation and the resulting effect on frequency without requiring the construction of a prototype. The technique has been applied to the following: RFQ body, RFQ cutbacks, fixed slug tuners, and pi-mode rods. The analysis indicates that the total heat load on the RFQ walls will be approximately 80 kW, which is removed via water-cooled passages.
+
+ 
+
+
+ 
+
+
+
+WEPMA21
+Final Design of a CW Radio-frequency Quadrupole (RFQ) for the Project X Injector Experiment (PXIE)
+1025
+
+
+ 
+
+S.P. Virostek, A.J. DeMello, M.D. Hoff, A.R. Lambert, D. Li, J.W. Staples
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Office of Science, United States Department of Energy under DOE contract DE-AC02-05CH11231.
+The Project X Injector Experiment (PXIE) now under construction at Fermilab is a prototype front end of the proposed Project X accelerator [1]. PXIE will consist of the following: an H− ion source, a low-energy beam transport (LEBT), a radio-frequency quadrupole (RFQ) accelerator, a medium-energy beam transport (MEBT) and a section of superconducting cryomodules [2]. The PXIE system will accelerate the beam from 30 keV to 30 MeV. The four-vane, brazed, solid copper design is a 4.45 m long CW RF accelerator with a resonant frequency of 162.5 MHz. The RFQ will provide bunching and acceleration of a nominal 5 mA H− beam to an energy of 2.1 MeV. The average power density on the RFQ cavity walls is <0.7 W/sq. cm such that the total wall power losses are ~80 kW. LBNL has completed the final design of the PXIE RFQ, and fabrication is now under way. The completed PXIE RFQ will be assembled at LBNL and tested with low-level RF prior to shipping to Fermilab. Several aspects of the final RFQ mechanical design along with associated fabrication techniques are presented in this paper.
+
+ 
+
+
+ 
+
+
+
+WEPMA22
+Investigation on Double Dipole Four-Vane RFQ Structure
+1028
+
+
+ 
+
+K.R. Shin
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+M.S. Champion, Y.W. Kang
+                       ORNL, Oak Ridge, Tennessee, USA
+A.E. Fathy
+                       University of Tennessee, Knoxville, Tennessee, USA
+
+ 
+
+
+ 
+
+Four-vane RFQ is a general choice for the low energy injector of light ion accelerators. In this commonly used four-vane RFQ structure, each vane has undercuts at both ends to create open magnetic field path that realizes uniform electromagnetic fields along longitudinal direction. Meanwhile, there exists another undercut method called as double dipole (DD) that requires undercuts only on 2 vanes interleaved with vanes with no undercut. The RFQ with DD cutback can provide a design option besides the traditional 4 vane cutback (4C) method. In this paper, we investigate and discuss some important DD RFQ features in detail: 1) Finite on-axis field at DD RFQ end section which is similar to split coaxial structure, 2) Open and short circuit ends dipoles, those lead to the unique mode spectrum and enhanced cavity coupling, and 3) Perturbation and tuning sensitivity. 3D simulation is utilized for DD RFQ analysis.
+
+ 
+
+
+ 
+
+
+
+WEPMA23
+Design and Measurement of Double Gap Buncher Cavity Proposed for Reduction of X- ray Radiation
+1031
+
+
+ 
+
+K.R. Shin
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+M.S. Champion, Y.W. Kang
+                       ORNL, Oak Ridge, Tennessee, USA
+A.E. Fathy
+                       University of Tennessee, Knoxville, Tennessee, USA
+
+ 
+
+
+ 
+
+X-ray radiation from accelerating cavities can be serious problem not only in high energy section but also in low energy part including beam matching section with buncher cavity. Two approaches can be considered to be useful for the radiation reduction. First, lower gap voltage may decrease a radiation dose and hard X-ray generation. Second, lower electric peak field with smooth gap geometry may help to minimize field emission current. Regarding these considerations, in this paper we propose a double gap buncher cavity for low energy part of H− ion accelerators such as medium energy beam transport (MEBT) section in Spallation Neutron Source. For MEBT application, the cavity may use Transverse Magnetic (TM) mode at about 400MHz as the operating mode. A drift tube supported by a stem in the cavity can form two gaps that can divide the required gap voltage to a half per each gap. Lower peak field can be realized since this double gap cavity can enhance the particle transit time factor. 3D simulation is utilized to address the analysis of non-axisymmetric structure. An Aluminum scaled model is built and tested at low power. The measured results are in good agreement with simulations.
+
+ 
+
+
+ 
+
+
+
+WEPMA25
+Harmonic Ratcheting for Fast  Acceleration
+1034
+
+
+ 
+
+N.M. Cook
+                       Stony Brook University, Stony Brook, USA
+J.M. Brennan, S. Peggs
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+One of the most persistent difficulties in the design of RF cavities for acceleration of charged particles is rapid and efficient acceleration over a large range of frequencies. From medical synchrotrons to accelerator driven systems, there is a need for fast acceleration of protons and light ions to hundreds of MeV. Conventionally, this is a costly undertaking, requiring specially designed ferrite loaded cavities to be tuned over a wide range of frequencies. Ferromagnetic materials allow for the precise adjustment of cavity resonant frequency, but rapid changes in the frequency and operation outside material specific frequency ranges result in significant Q-loss to the cavity. This leads to a considerable increase in power requirements. We introduce an acceleration scheme known as harmonic ratcheting which can be used to reduce the cavity frequency range when accelerating an ion beam in a synchrotron. This scheme addresses the needs of high rep. rate machines for applications such as radiation therapy in which low beam intensity is needed. We demonstrate with simulations the type of ramps achievable using this technique and consider its advantages over h=1 acceleration schemes.
+
+ 
+
+
+ 
+
+
+
+WEPMA26
+Multipacting Study for the RF Test of the MICE 201 MHz RF Cavity at Fermilab MTA
+1037
+
+
+ 
+
+T.H. Luo, D.J. Summers
+                       UMiss, University, Mississippi, USA
+A.J. DeMello, D. Li, P. Pan, S.P. Virostek, M.S. Zisman
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+One 201 MHz RF cavity for the Muon Ionization Cooling Experiment (MICE) will be tested at Muon Test Area (MTA) in Fermilab. Before the Coupling Coil is ready, we will use the fringe field of the Lab G magnet to study the cavity performance in external B field, which can significantly change the multipacting situation in cavities. In this report, we present the multipacting study of the MICE 201 MHz cavity with the fringe field of Lab G magnet. We will survey the co-axial waveguide, the cavity body and the loop coupler region at different power levels and different fringe field magnitudes.
+
+ 
+
+
+ 
+
+
+
+WEPMA28
+Multi-Harmonic Accelerating Cavities for RF Breakdown Studies
+1040
+
+
+ 
+
+Y. Jiang
+                       Yale University, Beam Physics Laboratory, New Haven, Connecticut, USA
+J.L. Hirshfield
+                       Yale University, Physics Department, New Haven, CT, USA
+J.L. Hirshfield
+                       Omega-P, Inc., New Haven, USA
+
+ 
+
+
+ 
+
+Funding: This research is supported by U.S. DoE.
+Multi-harmonic accelerating cavities that are explicitly designed for RF breakdown experiments are described. The fundamental TM010 and its higher harmonic TM011 or TM012 modes of the cavities are to be excited coherently by an external RF source in the expectation of lowering surface pulsed heating and/or surface electric field, so as to reduce breakdown probability and possibly achieve an increase in acceleration gradient.
+
+ 
+
+
+ 
+
+
+
+

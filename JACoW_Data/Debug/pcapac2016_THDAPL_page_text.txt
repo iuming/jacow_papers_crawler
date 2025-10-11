@@ -1,0 +1,216 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2016 - Table of Session: THDAPL (Data Acquisition & Analysis)
+
+
+THDAPL —  Data Acquisition & Analysis   (27-Oct-16   11:35—12:35)
+Chair: T. Straumann, SLAC, Menlo Park, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+THDAPLCO01
+Embedded Control System for Programmable Multi-Purpose Instruments
+80
+
+
+ 
+
+M. Broseta, J.A. Avila-Abellan, S. Blanch-Torné, G. Cuní, D. Fernández-Carreiras, O. Matilla, J. Moldes, M. Rodriguez, S. Rubio-Manrique, J. Salabert, X. Serra-Gallifa
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+At ALBA's Computing Division, we have started the development of a high-performant electrometer (Em# project) as a versatile and customizable equipment. It is based on a SPEC board (simple PCIe FMC carrier) with customizable FMC cards and an Single Board Computer, altogether built in a single cost-optimized instrument. The whole device is designed to provide a wide range of functionalities to fulfill unique and complex experiments by means of configuration changes instead of having specific instruments. Within the controls software development group, we started the development of a full embedded control software, based on a Linux OS that communicates with the SPEC's FPGA using the PCIe bus. This approach allows the integration of complex operations and functions in real time to higher software layers, as well as the local control, setup and diagnostics via integrated touch-screen display controlled by I2C. The system provides also SCPI (Standard Commands for Programmable Instruments) allowing an easy integration to any control system. This paper describes the design process, main aspects of the data acquisition and the expected benefits during the integration in the Control System.
+
+ 
+
+
+
+
+
+
+Slides THDAPLCO01 [2.721 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THDAPLCO01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THDAPLCO03
+Gateware and Software Frameworks for Sirius BPM Electronics
+84
+
+
+ 
+
+L.M. Russo, J.V. Ferreira Filho
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+The Brazilian Synchrotron Light Laboratory (LNLS) is developing a BPM system based on the MicroTCA.4 standard comprised of AMC FPGA boards carrying FMC digitizers and an AMC CPU module. In order to integrate all of the boards into a solution and to support future applications, two frameworks were developed. The first one, gateware framework, is composed of a set of Wishbone B4 compatible modules and tools that build up the system foundation, including: PCIe Wishbone master; FMC digitizer interfaces; data acquisition engines and trigger modules. The gateware also supports the Self-Describing Bus (SDB), developed by CERN/GSI. The second one, software framework, is based on the ZeroMQ messaging library and aims to provide an extensible way of supporting new functionalities to different boards. To achieve this, this framework has a multilayered architecture, decoupling its four main components: (i) hardware communication protocol; (ii) reactor-based dispatch engine; (iii) business logic, comprising of the specific board functionalities; (iv) standard RPC-like interface to clients. In this paper, motivations, challenges and limitations of both frameworks will be discussed.
+
+ 
+
+
+
+
+
+
+Slides THDAPLCO03 [6.356 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THDAPLCO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THDAPLCO05
+Development of PXI Based DAC System for ECRH Systems in SST1
+ 
+
+
+ 
+
+J. Patel, N. N., H.P. Patel, P.J. Patel, D. Purohit, B.K. Shukla
+                       Institute for Plasma Research, Bhat, Gandhinagar, India
+
+ 
+
+
+ 
+
+Electron Cyclotron Resonance Heating (ECRH) is one of the RF heating sub-systems used for plasma heating experiments in Steady State Superconducting(SST-1) tokamak. It is used for pre-ionization and current drive experiments in nuclear fusion related experiments in tokamaks worldwide. The 42-GHz gyrotron based ECRH system is in operation with SST1 plasma experiments and delivers 500kW of microwave power for 500ms. Gyrotron based ECRH system consists of different power supplies like Regulated High Voltage Power Supply(CathodePS -80kV, 15A), Anode (+30kV, 100mA), Filament(~35V, 25A), Cryomagnet (+5V,100A) and operates systematically through DAC to generate microwave power output. The dedicated PXIe based Data acquisition and control (DAC) system is designed with the enhanced features for different conditional operation of gyrotron. Both the Host and RT-target application softwares are developed with LabView-2014 platform and Labview RT (real time) on HostPC. Hardwire interlock circuitary is implemented with FPGA board. Ignitron based 70kV crowbar system with triggering circuit is installed for the safety of the gyrotron. The Details of DAC system would be presented in the talk.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THDAPLCO06
+A Framework for Development and Test of xTCA Modules With FPGA Based Systems for Particle Detectors
+88
+
+
+ 
+
+M. Vaz, A.M. Cascadan, V.F. Ferreira, T. Paiva, L.A. Ramalho, A.A. Shinoda
+                       NCC UNESP, São Paulo, Brazil
+
+ 
+
+
+ 
+
+This work describes a framework to develop firmware for ATCA carrier boards with FPGA. It is composed of an ATCA IPMI protocol implementation for environmental monitoring and control, and a companion XVC protocol implementation for remote FPGA configuration and system debugging. A study case is also presented of the development of a setup to validate a Level 1 Tracker Trigger System proposed for CMS at HL-LHC.
+
+ 
+
+
+
+
+
+
+Slides THDAPLCO06 [4.734 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THDAPLCO06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

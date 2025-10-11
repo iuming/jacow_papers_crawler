@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2015 - Table of Session: TUCB (Beam Dynamics)
+
+
+TUCB —  Beam Dynamics   (13-Oct-15   14:00—15:30)
+Chair: W. An, UCLA, Los Angeles, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUCBC1
+MERLIN for LHC Collimation
+37
+
+
+ 
+
+H. Rafique, R.J. Barlow
+                       University of Huddersfield, Huddersfield, United Kingdom
+R.B. Appleby, S.C. Tygier
+                       UMAN, Manchester, United Kingdom
+R. Bruce, S. Redaelli
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Research supported by FP7 HiLumi LHC (Grant agreement 284404)
+MERLIN version 5 delivers a new and efficient simulation tool for large hadron collider (LHC) collimation. Significant upgrades and optimisation have been performed to bring forth a new release of the C++ accelerator physics library. Version 5 offers modularity, including scattering routines with many physics models, which may be user supplemented trivially. The extensibility of MERLIN offers the ad hoc addition of; physics processes such as collimation, lattice elements such as the hollow electron lens (HEL), and tracking integrators. Accurate beam physics, including; synchrotron motion, symplectic tracking, and proton collimation are demonstrated. Using the LHC collimation system to produce loss maps at a beam energy of 7 TeV we validate the capabilities of MERLIN 5.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-TUCBC1
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCBC2
+Strong-strong Beam-beam Simulations for LHC Upgrade
+ 
+
+
+ 
+
+J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The Large Hadron Collider (LHC) as the highest energy circular collider has made important scientific discovery since its operation. The high luminosity LHC upgrade project will increase the luminosity of colliding beams inside the LHC by an order of magnitude. The electromagnetic beam-beam effects between the colliding beams will have significant impact on the colliding beam quality and luminosity. In this paper, we will report on progress in the study of these effects using a self-consistent (strong-strong) model.
+
+ 
+
+
+
+
+
+
+Slides TUCBC2 [3.488 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUCBC3
+High-Fidelity Simulations of Long-Term Beam-Beam Dynamics on GPUs
+40
+
+
+ 
+
+B. Terzić
+                       ODU, Norfolk, Virginia, USA
+A. Arumugam, D. Ranjan, M. Zubair
+                       ODU CS, Norfolk, Virginia, USA
+F. Lin, V.S. Morozov, Y. Roblin, H. Zhang
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Future machines such as the Electron Ion Collider (MEIC), linac-ring machines (eRHIC) or LHeC are particularly sensitive to beam-beam effects. This is the limiting factor for long-term stability and high luminosity reach. The complexity of the non-linear dynamics makes it challenging to perform such simulations typically requiring millions of turns. Until recently, most of the methods have involved using linear approximations and/or tracking for a limited number of turns. We have developed a framework which exploits a massively parallel Graphical Processing Units (GPU) architecture to allow for tracking millions of turns in a sympletic way up to an arbitrary order. The code is called GHOST for GPU-accelerated High-Order Symplectic Tracking. As of now, there is no other code in existence that can accurately model the single-particle non-linear dynamics and the beam-beam effect at the same time for a large enough number of turns necessary to verify the long-term stability of a collider. Our approach relies on a matrix-based arbitrary-order symplectic particle tracking for beam transport and the Bassetti-Erskine approximation for the beam-beam interaction.
+
+ 
+
+
+
+
+
+
+Slides TUCBC3 [2.001 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-TUCBC3
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

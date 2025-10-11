@@ -1,0 +1,474 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: THCPR (Functional Safety Systems for Machine Protection, and Personnel Safety)
+
+
+THCPR —  Functional Safety Systems for Machine Protection, and Personnel Safety   (10-Oct-19   14:00—16:00)
+Chair: A. Warner, Fermilab, Batavia, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+THCPR01
+Novel FPGA-Based Instrumentation for Personnel Safety Systems in Particle Accelerator Facility
+1617
+
+
+ 
+
+S. Pioli, M. Belli, M.M. Beretta, B. Buonomo, P. Ciambrone, D.G.C. Di Giulio, L.G. Foggetta, O. Frasciello, A. Variola
+                       INFN/LNF, Frascati, Italy
+P. Valente
+                       INFN-Roma, Roma, Italy
+
+ 
+
+
+ 
+
+Personnel safety system for particle accelerator facility involves different devices to monitor gates, shielding doors, dosimetry stations, search and emergency buttons. In order to achieve the proper reliability, these systems are developed compliant with functional safety standards involving stable technologies like relays and, recently, PLC. This work will report benchmark of a new FPGA-based system, developed at INFN-LNF, from the design to the validation phase of the prototype currently operating inside the linac bunker of Dafne. In order to achieve the compliance with functional safety standard (IEC-61508), NCRP report 88 on "Radiation Alarms and Access Control Systems" and ANSI report 43 on "Radiation Safety for the Design and Operation of Particle Accelerator", this novel instrument has been designed capable of: devices monitoring in real-time, dual modular redundancy, fail-safe, fool-proof and multi-node architecture on optical link. The aim of this project is to illustrate the feasibility of FPGA technology in the field of personnel safety and develop a standard solution for other fields like the machine protection.
+
+ 
+
+
+
+
+
+
+Slides THCPR01 [2.928 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPR01
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPR02
+Target Control and Protection Systems Lessons from SNS Operations
+1623
+
+
+ 
+
+D.L. Humphreys
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under contract number DE-AC05-00OR22725.
+The Spallation Neutron Source (SNS) at Oak Ridge National Laboratory has been in operations since 2006 and proposes a project to build a Second Target Station (STS) to effectively double potential scientific output. The SNS target controls operate in a harsh environment which includes high radiation, exposure to gaseous radionuclides, and activated liquid mercury and mercury vapor. These conditions necessitate protective interlocks and credited controls for protection functions to ensure proper response to off-normal conditions. In order to inform the design of target controls for the STS, we have examined lessons learned during SNS operations regarding the design and implementation of the control and protection systems for the first target station (FTS). This paper will examine various aspects of the performance of the target control and protection systems including reliability, maintainability and sustainability given the challenging environment created by 1.4 MW operations. Specific topics include distributed control of various target subsystems, response to loss of power, selection of nuclear grade instrumentation, and applying these lessons to the design for the STS project.
+
+ 
+
+
+
+
+
+
+Slides THCPR02 [7.233 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPR02
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPR03
+A Safety Rated FPGA Framework for Fast Safety Systems
+1626
+
+
+ 
+
+F. Tao, B.M. Bennett, D.G. Brown, J. Jones, M.W. Stettler
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+In this paper, we will introduce a generic safety-rated FPGA design template. FMEDA analysis, hardware reliability modeling, firmware development, verification and validation will be described in details to demonstrate the IEC 61508 compliant development process. In this dual redundant design, each chain consists a FPGA chip from different manufacturers to minimize the potential common cause failures. Cross checks between FPGAs and end-to-end self-checks are performed to increase the diagnostic coverage and improve the reliability. Based on this safety FPGA template, an Average Current Monitor (ACM) system is developed at SLAC with the addition of a safety PLC for diagnostics and a HMI for user interface. The overall system is deployed as part of Beam Containment System (BCS) to limit the beam current with the target Safety Integrity Level (SIL) 2.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPR03
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 08 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPR04
+The European XFEL Beam Loss Monitor System
+1630
+
+
+ 
+
+T. Wamsat, T. Lensch
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL MTCA based Beam Loss Monitor (BLM) System is composed of about 470 BLMs, which are part of the Machine Protection System (MPS). The BLMs detect losses of the electron beam, in order to protect accelerator components from damage and excessive activation, in particular the undulators, since they are made of permanent magnets. Also each cold accelerating module is equipped with a BLM to measure the sudden onset of field emission (dark current) in cavities. In addition some BLMs are used as detectors for wire- scanners. Further firmware and server developments related to alarm generation and handling are ongoing. The BLM systems structure, the current status and the different possibilities to trigger alarms which stop the electron beam will be presented.
+
+ 
+
+
+
+
+
+
+Slides THCPR04 [7.156 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPR04
+
+ 
+
+
+About •
+paper received ※ 02 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPR05
+Fast Machine Interlock System and Its Applications
+ 
+
+
+ 
+
+M. Liu, C.X. Yin
+                       SSRF, Shanghai, People’s Republic of China
+E. Erjavec, U. Legat
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Youth Innovation Promotion Association CAS [No. 2016238].
+With various requirements of machine protection system for accelerator facilities gathered from different labs, we jointly developed the Machine Interlock System (MIS). MIS has different hardware modules, including monitor modules, interlock logic calculating modules and I/O modules with various interfaces. In a global MIS network, different MIS crates could be interlinked over fiber network. The hardware of MIS utilizes FPGA rather than PLC for instantiation of interlock control logic. Therefore, the response time of <5 µs is achieved over a global MIS network. Another advantage of using FPGA is that multiple interlock modes could be realized and switched without hardware or software modification. Due to the two advantages above, MIS could satisfy different requirements of large-scale accelerator facilities. This paper presents the introduction of MIS and implementations in Shanghai Advanced Proton Therapy Facility and China initiative Accelerator Driven System.
+
+ 
+
+
+
+
+
+
+Slides THCPR05 [3.801 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPR06
+The ITk Common Monitoring and Interlock System
+1634
+
+
+ 
+
+S. Kersten, P. Kind, M. Wensing
+                       Bergische Universität Wuppertal, Wuppertal, Germany
+C.W. Chen, J.-P. Martin, N.A. Starinski
+                       GPP, Montreal, Canada
+S.H. Connell
+                       University of Johannesburg, Johannesburg, South Africa
+D. Florez, C. Sandoval
+                       UAN, Bogotá D.C., Colombia
+I. Mandić
+                       JSI, Ljubljana, Slovenia
+P.W. Phillips
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+E. Stanecka
+                       IFJ-PAN, Kraków, Poland
+
+ 
+
+
+ 
+
+For the upgrade of the LHC to the High Luminosity LHC the ATLAS detector will install a new all-silicon Inner Tracker (ITk). The innermost part is composed by pixel detectors, the outer part by strip detectors. All together ca. 28000 detector modules will be installed in the ITk volume. Although different technologies were chosen for the inner and outer part, both detectors share a lot of commonalities concerning their requirements. These are operation in the harsh radiation environment, the restricted space for services, and the high power density, which requires a high efficient cooling system. While the sub detectors have chosen different strategies to reduce their powering services, they share the same cooling system, CO2. The main risks for operation are heat ups and condensation, therefore a common detector control system is under development. It provides a detailed monitoring of the temperature, the radiation and the humidity in the tracker volume. Additionally an interlock system, a hardware based safety system, is designed to protect the sensitive detector elements against upcoming risks. The components of the ITk common monitoring and interlock system are presented.
+
+ 
+
+
+
+
+
+
+Slides THCPR06 [3.847 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPR06
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPR07
+Electronics for LCLS-II Beam Containment System Loss Monitors
+1641
+
+
+ 
+
+R.A. Kadyrov, C.I. Clarke, A.S. Fisher, M. Petree, C. Yee
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+LCLS-II is a new FEL which is under construction at SLAC National Accelerator Laboratory. Its superconducting electron linac is able to produce up to 1.2 MW of beam power. In event of electron beam loss, radiation levels can exceed allowed levels outside thin shielding originally built for a lower energy LCLS linac. Beam Containment System (BCS) loss monitors are employed to detect the radiation and shut-off the beam within 200 µs, limit the radiation dose in occupied areas and minimize damage to the equipment. sCVD single-crystal diamond particle detectors are used as Point Beam Loss Monitors (PBLM) to detect losses locally. Fiber optics is selected as Long Beam Loss Monitor (LBLM). PMT at downstream end of the LBLM detects light produced by Cherenkov radiation. LBLM provides continuous coverage along electron beam path from the gun to the dump. Unified set of electronics is designed to integrate the charge from PMT or sCVD, compare the loss with predefined threshold and generate the fault if the limit is breached. Continuous self-checking is implemented for both types of sensors. Challenges in electronics design, cable selection and self-checking implementation are discussed.
+
+ 
+
+
+
+
+
+
+Slides THCPR07 [1.204 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPR07
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPR08
+SPIRAL2 Machine Protection System Status Report
+1645
+
+
+ 
+
+C.H. Patard, C. Berthe, F. Bucaille, G. Duteil, P. Gillette, E. Lécorché, G. Normand, J.-F. Rozé, Q. Turapresenter
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The phase 1 of the SPIRAL2 facility, the extension project of the GANIL laboratory in Caen, France, is to be commissioned. The accelerator, composed of a normal conducting RFQ and a superconducting linac, is designed to accelerate high power deuteron and heavy ion beams up to 200 kW. A Machine Protection System (MPS) has been implemented to protect the accelerator from thermal damages for this very large range of beam intensities. This paper presents the solutions chosen for this system, composed of three subsystems: one dedicated to thermal protection which requires a PLC and a fast electronic system, a second one dedicated to enlarged safety protection, and a third safety subsystem dedicated to fast vacuum valve protection. Both of those subsystems work associated with a global EPICS-based control and HMI system, which gives the operation team global supervision of the accelerator and allows controlling sensor trigger thresholds, interlock system, beam initialization and power increase through the beam time structure. The MPS has been developed and is currently tested to be ready for the incoming SPIRAL2 commissioning.
+
+ 
+
+
+
+
+
+
+Slides THCPR08 [3.758 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPR08
+
+ 
+
+
+About •
+paper received ※ 24 September 2019       paper accepted ※ 11 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

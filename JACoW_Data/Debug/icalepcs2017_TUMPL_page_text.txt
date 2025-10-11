@@ -1,0 +1,432 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: TUMPL (Mini-Oral)
+
+
+TUMPL —  Mini-Oral   (10-Oct-17   16:45—17:15)
+Chair: R.I. Farnsworth, ANL, Argonne, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUMPL02
+Streamlining Support and Development Activities Across the Distinct Support Groups of the ALBA Synchrotron with the Implementation of a New Service Management System
+298
+
+
+ 
+
+M. Martin, A. Burgos, C. Colldelram, G. Cuní, D. Fernández-Carreiras, E. Fraga, G. García López, O. Matilla, A. Pérez Font, D. Salvat
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+The MIS section in the Computing division at ALBA Synchrotron designs and supports management information systems. This paper describes the streamlining of the work of 12 support groups into a single customer portal and issue management system. Prior to the change, ALBA was using five different ticket systems. To improve coordination, we searched tools able to support ITIL Service Management, as well as PRINCE2 and Agile Project Management. Within market solutions, JIRA, with its agile boards, calendars, SLAs and service desks, was the only solution with a seamless integration of both. Support teams took the opportunity to redesign their service portfolio and management processes. Through the UX design, JIRA has proved to be a flexible solution to customize forms, workflows, permissions and notifications on the fly, creating a virtuous cycle of rapid improvements, a rewarding co-design experience which results in highly fitting solutions and fast adoption. Team, project and service managers now use a single system to track requests in a timely manner, view trends, and get a consolidated view of efforts invested in the different beamlines and accelerators.
+
+ 
+
+
+
+
+
+
+Slides TUMPL02 [0.850 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPL02 [0.787 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPL03
+New EPICS/RTEMS IOC Based on Altera SOC at Jefferson Lab
+304
+
+
+ 
+
+J. Yan, T.L. Allison, B. Bevins, A. Cuffe, C. Seaton
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+A new EPICS/RTEMS IOC based on the Altera System-on-Chip (SoC) FPGA was designed at Jefferson Lab. The Altera SoC FPGA integrates a dual ARM Cortex-A9 hard processor system (HPS) consisting of processor, peripherals and memory interfaces tied seamlessly with the FPGA fabric using a high-bandwidth interconnect backbone. The embedded Altera SoC IOC has features of remote network boot via u-boot from SD card or QSPI Flash, 1Gig Ethernet, 1GB DDRs SDRAM on HPS, UART serial ports, and ISA bus interface. RTEMS for the ARM processor BSP were built with CEXP shell, which will dynamically load the EPICS applications at runtime. U-boot is the primary bootloader to remotely load the kernel image into local memory from a DHCP/TFTP server over Ethernet, and automatically run the RTEMS and EPICS. The standard SoC IOC board would be mounted in a chassis and connected to a daughter card via a standard HSMC connector. The first design of the SoC IOC will be compatible with our current PC104 IOCs, which have been running on our accelerator control system for 10 years. Eventually, the standard SOC IOCS would be the next generation of low-level IOC for the Accelerator control at Jefferson Lab.
+Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+
+ 
+
+
+
+
+
+
+Slides TUMPL03 [1.094 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPL03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPL04
+LCLS-II Timing Pattern Generator Configuration GUIs
+307
+
+
+ 
+
+C. Bianchini, J. Browne, K.H. Kim, P. Krejcik, M. Weaver, S. Zelazny
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The LINAC Coherent Light Source II (LCLS-II) is an upgrade of the SLAC National Accelerator Laboratory LCLS facility to a superconducting LINAC with multiple destinations at different power levels. The challenge in delivering timing to a superconducting LINAC is dictated by the stability requirements for the beam power and the 1MHz rate. A timing generator will produce patterns instead of events because of the large number of event codes required. The poster explains how the stability requirements are addressed by the design of two Graphical User Interfaces (GUI). The Allow Table GUI filters the timing pattern requests respecting the Machine Protection System (MPS) defined Power Class and the electron beam dump capacities. The Timing Pattern Generator (TPG) programs Sequence Engines to deliver the beam rate configuration requested by the user. The low level program, The TPG generates the patterns, which contains the timing information propagated to the Timing Pattern Receiver (TPR). Both are implemented with an FPGA solution and configured by EPICS. The poster shows an overall design of the high-level software solutions that meet the physics requirements for LCLS-II timing.
+
+ 
+
+
+
+
+
+
+Slides TUMPL04 [1.030 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPL04 [0.883 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPL04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPL05
+Strategies for Migrating to a New Experiment Setup Tool  at the National Ignition Facility
+311
+
+
+ 
+
+A.D. Casey, R.G. Beeler, C.D. Fry, J. Mauvais, E.R. Pernice, M. Shor, J.L. Spears, D.E. Speck, S.L. West
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+For the last 10 years, the National Ignition Facility (NIF) has provided scientists with an application, the Campaign Management Tool (CMT), to define the parameters needed to achieve their experimental goals. Conceived to support the commissioning of the NIF, CMT allows users to define over 18,000 settings. As NIF has transitioned to an operational facility, the low-level focus of CMT is no longer required by most users and makes setting up experiments unnecessarily complicated. At the same time, requirements have evolved as operations has identified new functionality required to achieve higher shot execution rates. Technology has also changed since CMT was developed, with the availability of the internet and web-based tools being two of the biggest changes. To address these requirements while adding new laser and diagnostic capabilities, NIF has begun to replace CMT with the Shot Setup Tool (SST). This poses challenges in terms of software development and deployment as the introduction of the new tool must be done with minimal interruption to ongoing operations. The development process, transition strategies and technologies chosen to migrate from CMT to SST will be presented.
+LLNL-ABS-728212
+
+ 
+
+
+
+
+
+
+Slides TUMPL05 [1.871 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPL05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPL06
+Conceptual Design of Developing a Mobile App  for Distributed Information Services for Control Systems (DISCS)
+315
+
+
+ 
+
+A. Khaleghi, Mhosseinzadeh. Hossein zadeh sahafi, K. Mahmoudi, M. Oghbaie
+                       IKIU, Qazvin, Iran
+M. Akbari, A. Khaleghi, J. Rahighi
+                       ILSF, Tehran, Iran
+
+ 
+
+
+ 
+
+In physical systems for having best performance in processes like maintenance, troubleshooting, design, construction, update and etc., we need to store data that describe systems state and its components characteristics. Thus we need a framework for developing an application which can store, integrate and manage data and also execute permitted operations. DISCS (Distributed Information Services for Control Systems) as a framework with mentioned capabilities can help us achieve our goals. In this paper, we first assessed DISCS and its basic architecture and then we implement this framework for maintenance domain of a system. With implementation of maintenance module, we'll be able to store preventive maintenance data and information which help us to trace the problems and analyze situation caused failure and destruction.
+
+ 
+
+
+
+
+
+
+Slides TUMPL06 [2.386 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPL06 [2.184 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPL06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPL08
+MAX IV BioMAX Beamline Control System: From Commissioning Into User Operation
+318
+
+
+ 
+
+M. Eguiraun, R. Appio, V.H. Hardion, J. Lidón-Simon, A. Milan-Otero, U. Müller, J. Nan, D.P. Spruce, T. Ursby
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+The BioMAX beamline at MAX IV is devoted to macromolecular crystallography and will achieve a high level of experimental automation when its full potential is reached due to the usage of high end instrumentation and comprehensive software environment. The control system is based on Tango and Sardana for managing the main elements of the beamline. Data acquisition and experiment control is done through MXCuBE v3, which interfaces with the control layer. Currently, the most critical elements such as the detector and diffractometer are already integrated into the control system, whereas the integration of the sample changer has already started. BioMAX has received its first users, who successfully collected diffraction data and provided feedback on the general performance of the control system and its usability. The present work describes the main features of the control system and its operation, as well as the next instrument integration plans
+
+ 
+
+
+
+
+
+
+Slides TUMPL08 [1.209 MB]
+        
+ 
+
+
+
+
+
+
+Poster TUMPL08 [6.023 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPL08
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUMPL09
+Challenges of the ALICE Detector Control System for the LHC RUN3
+323
+
+
+ 
+
+P.Ch. Chochula, A. Augustinus, P.M. Bond, A.N. Kurepin, M. Lechman, J.L. LÃ¥ng, O. Pinazza
+                       CERN, Geneva, Switzerland
+A.N. Kurepin
+                       RAS/INR, Moscow, Russia
+M. Lechman
+                       IP SAS, Bratislava, Slovak Republic
+O. Pinazza
+                       INFN-Bologna, Bologna, Italy
+
+ 
+
+
+ 
+
+The ALICE Detector Control System (DCS) provides its services to the experiment for 10 years. It ensures uninterrupted operation of the experiment and guarantees stable conditions for the data taking. The decision to extend the lifetime of the experiment requires the redesign of the DCS data flow. The interaction rates of the LHC in ALICE during the RUN3 period will increase by a factor of 100. The detector readout will be upgraded and it will provide 3.4TBytes/s of data, carried by 10 000 optical links to a first level processing farm consisting of 1 500 computer nodes and ~100 000 CPU cores. A compressed volume of 20GByte/s will be transferred to the computing GRID facilities. The detector conditions, consisting of about 100 000 parameters, acquired by the DCS need to be merged with the primary data stream and transmitted to the first level farm every 50ms. This requirement results in an increase of the DCS data publishing rate by a factor of 5000. The new system does not allow for any DCS downtime during the data taking, nor for data retrofitting. Redundancy, proactive monitoring, and improved quality checking must therefore complement the data flow redesign.
+
+ 
+
+
+
+
+
+
+Slides TUMPL09 [1.773 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-TUMPL09
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

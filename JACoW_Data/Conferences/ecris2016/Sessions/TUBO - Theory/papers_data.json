@@ -1,0 +1,69 @@
+{
+  "session_info": {
+    "id": "TUBO",
+    "name": "TUBO - Theory",
+    "url": "https://proceedings.jacow.org/ecris2016/html/tubo.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUBO02",
+      "title": "Numerical Studies of the Gas-Mixing Effect in ECRIS",
+      "authors": [
+        "V. Mironov",
+        "S.L. Bogomolov",
+        "A.E. Bondarchenko",
+        "A.A. Efremov",
+        "V.N. Loginov",
+        "JINR",
+        "Dubna",
+        "Moscow Region",
+        "Russia",
+        "The particle-in-cell MCC code NAM-ECRIS is used to simulate the ECRIS plasma sustained in a mixture of Kr with O2",
+        "N2",
+        "Ne and He. The model assumes that ions are electrostatically confined in ECR zone by a dip in the plasma potential. Gain in the extracted krypton ion currents is seen for the highest charge states; the gain is maximized when oxygen is used as the mixing gas. A special feature of oxygen is that most of singly charged oxygen ions are produced after dissociative ionization of oxygen molecules with the large kinetic energy release of around 5 eV per ion. Increased loss rate of energetic lowly charged ions of the mixing element requires building up of the retarding potential barrier close to ECR surface to equilibrate electron and ion losses out of the plasma. In the mixed plasmas",
+        "the barrier value is large (~1 V) compared to the pure Kr plasma (~0.01 V)",
+        "with the longer confinement times of krypton ions and with the much higher ion temperatures."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ecris2016/talks/tubo02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ecris2016/papers/tubo02.pdf",
+      "poster_url": "https://proceedings.jacow.org/ecris2016/posters/tubo02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ECRIS2016-TUBO02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUBO03",
+      "title": "Simulations of High Intensity Low Mass Ion Sources",
+      "authors": [
+        "R. de Guiran",
+        "A. Chancé",
+        "R. Gobin",
+        "O. Tuske",
+        "CEA/IRFU",
+        "Gif-sur-Yvette",
+        "France",
+        "At CEA/Saclay",
+        "in the framework of the HPPA devel-opment",
+        "the Department of Accelerators",
+        "Cryogenics and Magnetism (SACM) has designed and built low mass",
+        "high intensity ECRIS for more than 15 years. Such skills are illustrated by the construction of injectors (sources and low energy beam transport lines) for several national and international projects such as"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ecris2016/talks/tubo03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ecris2016/papers/tubo03.pdf",
+      "poster_url": "https://proceedings.jacow.org/ecris2016/posters/tubo03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ECRIS2016-TUBO03",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 17:27:34"
+}

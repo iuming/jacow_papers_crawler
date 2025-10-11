@@ -1,0 +1,272 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2014 - Table of Session: WCO2 (Data Acquistion)
+
+
+WCO2 —  Data Acquistion   (15-Oct-14   11:00—12:45)
+Chair: P. Chevtsov, PSI, Villigen PSI, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+WCO201
+Computing Infrastructure for Online Monitoring and Control of High-throughput DAQ Electronics
+10
+
+
+ 
+
+S.A. Chilingaryan, C.M. Caselle, T. Dritschler, T. Faragó, A. Kopmann, U. Stevanovic, M. Vogelgesang
+                       KIT, Eggenstein-Leopoldshafen, Germany
+
+ 
+
+
+ 
+
+New imaging stations with high-resolution pixel detectors and other synchrotron instrumentation have ever increasing sampling rates and put strong demands on the complete signal processing chain. Key to successful systems is high-throughput computing platform consisting of DAQ electronics, PC hardware components, communication layer and system and data processing software components. Based on our experience building a high-throughput platform for real-time control of X-ray imaging experiments, we have designed a generalized architecture enabling rapid deployment of data acquisition system. We have evaluated various technologies and come up with solution which can be easily scaled up to several gigabytes-per-second of aggregated bandwidth while utilizing reasonably priced mass-market products. The core components of our system are an FPGA platform for ultra-fast data acquisition, Infiniband interconnects and GPU computing units. The presentation will give an overview on the hardware, interconnects, and the system level software serving as foundation for this high-throughput DAQ platform. This infrastructure is already successfully used at KIT's synchrotron ANKA.
+
+ 
+
+
+
+
+
+
+Slides WCO201 [2.948 MB]
+        
+ 
+
+
+ 
+
+
+
+WCO202
+Data Management at the Synchrotron Radiation Facility ANKA
+13
+
+
+ 
+
+D. Ressmann, A. Kopmann, V. Mauch, W. Mexner, A. Vondrous
+                       KIT, Eggenstein-Leopoldshafen, Germany
+
+ 
+
+
+ 
+
+The complete chain from submitting a proposal, collecting meta data, performing an experiment, towards analysis of these data and finally long term archive will be described. During this process a few obstacles have to be tackled. The workflow should be transparent to the user as well as to the beamline scientists. The final data will be stored in NeXus compatible HDF5 container format. Because the transfer of one large file is more efficient than transferring many small files, container formats enable a faster transfer of experiment data. At the same time HDF5 supports to store meta data together with the experiment data. For large data sets another implication is the performance to download the files. Furthermore the analysis software might not be available at each home institution; as a result it should be an option to access the experiment data on site. The meta data allows to find, analyse, preserve and curate the data in a long term archive, which will become a requirement fairly soon.
+
+ 
+
+
+
+
+
+
+Slides WCO202 [2.380 MB]
+        
+ 
+
+
+ 
+
+
+
+WCO203
+Profibus in Process Controls
+16
+
+
+ 
+
+M.R. Clausen, T. Boeckmann, J. Hatje, O. Korth, J. Penning, H.R. Rickens, B. Schoeneburg
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The cryogenic installations on the DESY campus are widely distributed. The liquid Helium (LHE) is produced in a central building. Three cryogenic plants are installed. One is in operation for FLASH the other two are currently in the commissioning phase and will be used for the European XFEL. Thousands of I/O channels are spread over the campus this way. The majority of the I/O devices are standard devices used in process control. The de facto standard for distributed I/O in process controls in Germany is Profibus. So it is obvious to use this bus also for cryogenic controls. Subsequently we developed also special electronics to attach temperature and level readouts to this field bus. Special diagnostic tools are available and permanently attached to the bus. Condition monitoring tools provide diagnostics which enable preventative maintenance planning. Specific tools were developed in Control System Studio (CSS) which is -the- standard tool for configuration, diagnostic and controls for all cryogenic plants. We will describe our experience over the last years with this infrastructure.
+
+ 
+
+
+
+
+
+
+Slides WCO203 [1.116 MB]
+        
+ 
+
+
+ 
+
+
+
+WCO204
+A Prototype Data Acquisition System of Abnormal RF Waveform at SACLA
+19
+
+
+ 
+
+M. Ishii, M. Kago
+                       JASRI/SPring-8, Hyogo-ken, Japan
+T. Fukui
+                       RIKEN SPring-8 Center, Innovative Light Sources Division, Hyogo, Japan
+T. Maruyama
+                       RIKEN/SPring-8, Hyogo, Japan
+T. Ohshima
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+M. Yoshioka
+                       SES, Hyogo-pref., Japan
+
+ 
+
+
+ 
+
+At SACLA, an event-synchronized data acquisition system had been installed. The system collects shot-by-shot data, such as representative point data of the phase and amplitude of the rf cavity pickup signals, in synchronization with the beam operation cycle. In addition, rf waveform data is collected every 10 minutes. However a collection with several minutes cycle couldn’t catch an abnormal rf waveform that suddenly occurs. To overcome this problem, we have developed a system to capture waveform when some abnormal event occurs. The system consists of the VMEbus systems, a DAQ server, and a NoSQL database system, Cassandra. The VMEbus system detects an abnormal rf waveform, collects all related waveforms with same shot and sends to a DAQ server. All waveforms are stored Cassandra via the DAQ server. The DAQ server keeps data for 2 seconds from current time on memory to complement Cassandra’s eventual consistency model. We constructed a prototype DAQ system with a minimum configuration and checked its performance. We report the requirements and structure of the DAQ system and the test results in this paper.
+
+ 
+
+
+
+
+
+
+Slides WCO204 [1.426 MB]
+        
+ 
+
+
+ 
+
+
+
+WCO205
+Upgrade of SACLA DAQ System Adapts to Multi-Beamline Operation
+22
+
+
+ 
+
+K. Okada, T. Abe, Y. Furukawa, T. Hatsui, Y. Joti, T.K. Kameshima, T. Matsumoto, T. Sugimoto, R. Tanaka, M. Yamaga
+                       JASRI/SPring-8, Hyogo-ken, Japan
+M. Yabashi
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+
+ 
+
+
+ 
+
+We report the data acquisition system (DAQ) for user experiments at SACLA (the SPring-8 Angstrom Compact Free Electron Laser). The system provides standardized experimental framework to various XFEL users since March 2012. It is required to store shot-by-shot information synchronized with the XFEL beam of 60Hz at the maximum repetition rate. The data throughput goes up to 6 Gbps with TOF waveforms and/or images (e.g. X-ray diffraction images) from experiments. The data are stored to the hierarchical storage system capable of more than 6 PByte at the last stage. The DAQ system incorporates with prompt data processing performed by a 14 TFlops PC cluster as well as on-line monitoring. In 2014, SACLA will introduce the third beamline to increase the capacity of experiments. On the DAQ side, it is a challenge to operate multiple experiments simultaneously. The control and data stream will be duplicated and separated for beamlines. A new central server to manage each beamline condition in one place will help increase the efficiency of setup procedure and reduce risks of mishandling between beamlines.
+
+ 
+
+
+
+
+
+
+Slides WCO205 [1.472 MB]
+        
+ 
+
+
+ 
+
+
+
+WCO206
+Sardana – A Python Based Software Package for Building Scientific Scada Applications
+25
+
+
+ 
+
+Z. Reszela, G. Cuní, C.M. Falcón Torres, D. Fernandez-Carreiras, G. Jover-Mañas, J. Klora, C. Pascual-Izarra, M. Rosanes Siscart
+                       CELLS-ALBA Synchrotron, Cerdanyola del Vallès, Spain
+T.M. Coutinho
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+Sardana is a software suite for Supervision, Control and Data Acquisition in scientific installations. It aims to reduce cost and time of design, development and support of the control and data acquisition systems [1]. Sardana, thanks to the Taurus library [2], allows the user to build modern and generic interfaces to the laboratory instruments. It also delivers a flexible python based macro environment, via its MacroServer, which allows custom procedures to be plug in and provides a turnkey set of standard macros e.g. generic scans. Thanks to the Device Pool the heterogeneous hardware could be easily plug in based on common and dynamic interfaces. The Sardana development started at Alba, where it is extensively used to operate all beamlines, the accelerators and auxiliary laboratories. In the meantime, Sardana attracted interest of other laboratories where it is used with success in various configurations. An international community of users and developers [3] was formed and it now maintains the package. Modern data acquisition approaches guides and stimulates current developments in Sardana. This article describes how the Sardana community approaches some of its challenging projects.
+[1] "Sardana: The Software for Building SCADAS in Scientific Environments" T.M. Coutinho et al: ICALEPCS 2011  [2] www.taurus-scada.org [3] www.sourceforge.net/projects/sardana
+
+ 
+
+
+
+
+
+
+Slides WCO206 [11.925 MB]
+        
+ 
+
+
+ 
+
+
+
+WCO207
+A New Data Acquisition Software and Analysis for Accurate Magnetic Field Integral Measurement at BNL Insertion Devices Laboratory
+28
+
+
+ 
+
+M. Musardo, D.A. Harder, P. He, C.A. Kitegi, T. Tanabe
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+A new data acquisition software has been developed in LabVIEW to measure the first and second magnetic field integral distributions of Insertion Devices (IDs). The main characteristics of the control system and the control interface program are presented. The new system has the advantage to make automatic and synchronized measurements as a function of gap and/or phase of an ID. The automatic gap and phase control is a real-time communication based on EPICS system and the eight servomotors of the measurement system are controlled using a Delta Tau GeoBrick PMAC-2. The methods and the measurement techniques are described and the performance of the system together with the recent results will be discussed.
+
+ 
+
+
+
+
+
+
+Slides WCO207 [8.786 MB]
+        
+ 
+
+
+ 
+
+
+
+

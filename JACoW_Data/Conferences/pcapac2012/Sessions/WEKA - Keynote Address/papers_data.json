@@ -1,0 +1,76 @@
+{
+  "session_info": {
+    "id": "WEKA",
+    "name": "WEKA - Keynote Address",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/weka.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEKA01",
+      "title": "The CSS Story",
+      "authors": [
+        "M.R. Clausen",
+        "J. Hatje",
+        "J. Penning",
+        "DESY",
+        "Hamburg",
+        "Germany",
+        "Control System Studio (CSS) is designed to serve as an integration platform for engineering and operation of todays process controls as well as machine controls systems. Therefore CSS is not yet another replacement of existing operator interfaces (OPI) but a complete environment for the control room covering alarm management",
+        "archived data displays diagnostic tools and last not least operator interfaces. In addition we decided to use CSS as the platform for the whole engineering chain configuring EPICS based process control databases",
+        "configuring and managing the I/O",
+        "editing state notation programs",
+        "configuring role based access rights and many more. Due to the ease of use of CSS as an Eclipse based product",
+        "we decided to use the CSS core also for all our stand alone processes. This helped us to reduce the diversity of running products/ processes and simplified the management. In this presentation we will describe our experience with CSS over the last two years. How we managed the transition from old displays to new ones",
+        "how we changed our alarm/ message philosophy and last not least which lessons we learned."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/weka01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/weka01.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/weka01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-WEKA01",
+      "page_number": "1",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEKA02",
+      "title": "Evolution of Control Systems for Large Telescopes and Accelerators : A retrospective",
+      "authors": [
+        "BARC",
+        "Mumbai",
+        "India",
+        "Particle accelerators and telescopes are big instruments of experimental physics. Even though markedly different in design & construction",
+        "particle accelerators and telescopes complement each other in answering man's most profound questions on the nature and origin of universe. Today's particle accelerators are mammoth microscopes peering in to the structure and properties of building blocks of matter with ever larger energies or particle intensities. On the other hand",
+        "telescopes look outside in to the cosmos to ever greater distances and time. As they become bigger and more powerful",
+        "both accelerators and telescopes have been continuously pushing the frontiers of technology in all spheres- detectors & front-end electronics",
+        "control",
+        "communication and computing. This has resulted in electronics which is smaller",
+        "consume less power",
+        "faster",
+        "more accurate",
+        "more reliable and support higher capacities. In this keynote address",
+        "the speaker traces over two decades of association in building control and information systems for world's big telescopes such as GMRT (Giant Metre-wave Radio Telescope",
+        "90's) and MACE (Multiple Atmospheric Cerenkov Emission",
+        "today) in India and large particle accelerators such as LHC (90's) and FAIR (today). While tracking the evolution of related technology over the years",
+        "the talk analyses the choices made",
+        "lessons learnt",
+        "failures and successes",
+        "performance and life cycle management issues."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/weka02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/weka02.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/weka02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-WEKA02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 02:07:19"
+}

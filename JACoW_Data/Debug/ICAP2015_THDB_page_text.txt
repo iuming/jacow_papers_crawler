@@ -1,0 +1,182 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2015 - Table of Session: THDB (Spin Dynamics)
+
+
+THDB —  Spin Dynamics   (15-Oct-15   15:45—17:15)
+Chair: A. Lehrach, FZJ, Jülich, Germany
+
+
+Paper
+Title
+Page
+
+
+
+THDBC1
+Computation of Nonlinear Fields and Orbit and Spin Transfer Maps of Electrostatic Elements using Differential Algebras
+168
+
+
+ 
+
+K. Makino, M. Berz, E. Valetov
+                       MSU, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: The U.S. Department of Energy
+Traditionally most large storage rings for nuclear and high energy physics use magnetic elements for focusing and bending. However, recent interest in the study of the possible existence of an electric dipole moment (EDM) of protons, deuterons and others requires the use of electrostatic elements in rings, and would even greatly benefit from the use of purely electrostatic lattices without any magnetic elements. Indeed the classical Thomas-BMT equation describing the motion of the spin due to a magnetic dipole moment coupling to magnetic fields can be augmented to analogously also describe the effects of a possibly present electric dipole moment coupling to electric fields, and the additional term would lead to detectable effects. We discuss how to address and resolve various problems appearing in the simulation of such lattices. We begin with methods that allow the computation of nonlinear fields of elements, and in particular their fringe fields, using DA-based PDE solvers, and proceed to the computation of high-order transfer maps, typically up to order 7 or 9. We also discuss a problem arising in these rings, especially the possible non-conservation of the particle energies.
+
+ 
+
+
+
+
+
+
+Slides THDBC1 [3.113 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-THDBC1
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THDBC2
+Search for the Optimal Spin Decoherence Effect in a QFS Lattice
+172
+
+
+ 
+
+E. Valetov, M. Berz
+                       MSU, East Lansing, Michigan, USA
+V. Senichev
+                       FZJ, Jülich, Germany
+
+ 
+
+
+ 
+
+Measurement of electric dipole moment (EDM) in a storage ring requires the spin decoherence in a particle bunch to be less than 1 rad in 1000 s, which corresponds to about 1 billion turns. The quasi-frozen spin (QFS) method* has been proposed for deuteron EDM search. In a QFS lattice, spin direction turn in magnetic bend sections is compensated by spin direction turn in electrostatic bend sections, and thus the spin direction at a point in the lattice is approximately constant. We consider a QFS lattice with an RF cavity and seven families of sextupoles. In COSY Infinity, calculations were done using transfer maps of the 7th order, with symplectic tracking using the Extended Poincaré (EXPO) generating function and the most accurate COSY Infinity fringe field mode. We have optimized the sextupole strengths to minimize the spin decoherence. Using these sextupole strengths, we have done spin tracking of the lattice and analyzed the growth of spin decoherence as a function of the number of turns. Within their scope, our results indicate the feasibility of the QFS method.
+* Yu. Senichev et al., Quasi-frozen Spin Method for EDM Deuteron Search, in Proc. 6th International Particle Accelerator Conference, Richmond, VA, USA, pp. 213215, 2015.
+
+ 
+
+
+
+
+
+
+Slides THDBC2 [1.442 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-THDBC2
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THDBC3
+Design of Ultrafast Spin Polarized Electron Gun
+ 
+
+
+ 
+
+L. Yu, J. Feng, J.Z. Liu, J.G. Sun, W.X. Tangpresenter, W. Wan, Z. Wei, S.J. Wu, X.D. Yang, L. Zhu
+                       CQU, Shapingba, Chongqing, People's Republic of China
+J. Feng, W. Wan
+                       LBNL, Berkeley, California, USA
+A. Kaiser, O.S. Schaff
+                       SPECS GmbH, Berlin, Germany
+J.Z. Liu
+                       Monash University, Clayton, Victoria, Australia
+W.X. Tangpresenter, C.X. Zheng
+                       Monash University, Faculty of Science, Clayton, Victoria, Australia
+R.M. Tromp
+                       IBM T. J. Watson Center, Yorktown Heights, New York, USA
+Z. Wei
+                       University of Kaiserslautern, Kaiserslautern, Germany
+
+ 
+
+
+ 
+
+Funding: The NSFC as National Key Instrumental Development Scheme (No.A04-11227802) and 985 Key National University Funding at Chongqing University (No.0211001104414, No.0211001104423, No.0211002322010).
+We describe a design for ultrafast spin polarized electron gun, which will be incorporated into the high resolution aberration-corrected LEEM/PEEM and HT-STM system at Chongqing University. The addition of spin-polarized ultrafast electron source complements the standard cold field emission electron source and expands the analytical capabilities of the system, permitting research in spin dynamics and low dimensional magnetism. With the necessary ancillary electron optical components, the spin gun can realize time resolved aberration-corrected spin-polarized LEEM (TR-AC-SPLEEM) at high spatial (2 nm) and temporal (10 ps) resolution. This design takes advantage of the high electron-optical symmetry of the AC- LEEM design to minimize deleterious effects of space-charge force and time broadening, while maintaining full control of the electron spin. Meanwhile, we also consider the coherence length of electron beam in our system. We find that our system can operate with the transverse coherence length of 4nm and longitudinal coherence length of 13 nm at the sample, respectively.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

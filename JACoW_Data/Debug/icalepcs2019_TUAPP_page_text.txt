@@ -1,0 +1,317 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: TUAPP (Hardware Technology)
+
+
+TUAPP —  Hardware Technology   (08-Oct-19   09:30—10:45)
+Chair: S. Cogan, FRIB, East Lansing, Michigan, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUAPP01
+Hardware-in-the-Loop Testing of Accelerator Firmware
+659
+
+
+ 
+
+C. Serrano, M. Betz, L.R. Doolittle, S. Paiagua, V.K. Vytla
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Continuous Integration (CI) is widely used in industry, especially in the software world. Here we propose a combination of CI processes to run firmware and software tests both in simulation and on real hardware that can be well adapted to FPGA-based accelerator electronics designs. We have built a test rack with a variety of hardware platforms. Relying on source code version control tools, when a developer submits a change to the code base, a multi-stage test pipeline is triggered. Unit tests are run automatically, bitstreams are generated for the various supported FPGA platforms and loaded onto the FPGAs in the rack, and tests are run on hardware. Reports are generated upon test completion and notifications are sent to the developers in case of failure.
+
+ 
+
+
+
+
+
+
+Slides TUAPP01 [9.740 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUAPP01
+
+ 
+
+
+About •
+paper received ※ 07 October 2019       paper accepted ※ 20 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAPP02
+Development of the MTCA.4 I/O Cards for SPring-8 Upgrade and New 3 GeV Light Source
+665
+
+
+ 
+
+T. Fukui, N. Hosoda
+                       RIKEN SPring-8 Center, Innovative Light Sources Division, Hyogo, Japan
+M. Ishii
+                       JASRI/SPring-8, Hyogo-ken, Japan
+E. Iwai, H. Maesaka, T. Ohshima
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+
+ 
+
+
+ 
+
+We will start a full energy injection from the SACLA to the SPring-8 from next year as a part of the SPring-8 upgrade. For this, we developed several I/O cards with the MTCA.4 form factor. One of the key issues is a timing synchronization between SACLA and SPring-8. We implemented required functions on the FPGA logic of a commercially available I/O card. We develop a module to distribute a trigger and clocks. We also developed cards used for the beam position monitor (BPM) and low-level RF system (LLRF). Those are included two types of cards. One is a 16-bit digitizer used for LLRF for the SPring-8 since 2018 march. We will use the card for the BPM with modified FPGA logic. Second is an implementation of functions with the pulsed RF signals processed on the FPGA logic of a commercially available card. These functions are used for the BPM of the beam transport line from the SACLA to SPring-8. The existing system is used 1 Hz beam repetition but we need more than 10 Hz to achieve an injection time less than 20 minutes to maximize user time. We will report the performance of the MTCA.4 cards, the upgrade plan of the SPring-8, and the construction of the 3 GeV Light Source.
+
+ 
+
+
+
+
+
+
+Slides TUAPP02 [7.123 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUAPP02
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 20 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAPP03
+Low-Cost Modular Platform for Custom Electronics in Radiation-Exposed and Radiation-Free Areas at CERN
+671
+
+
+ 
+
+G. Daniluk, C. Gentsos, E. Gousiou, L. Patnaik, M. Rizzi
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN control system is comprised of multiple layers of hardware and software. These tiers extend from the hardware deployed close to the machine, up to the software running on computers that operators use for control and monitoring. We are currently developing a new centrally supported service in the layers closest to the accelerator - Distributed I/O and Fieldbus. A key aspect of this project is the selection of industrial standards for the layers, which are currently dominated by custom, in-house designed solutions. Regarding the Distributed I/O layer, this paper describes how we are adapting CompactPCI Serial (CPCI-S) to be suitable as the low-cost modular hardware platform for remote analog and digital I/O applications in radiation-exposed as well as radiation-free areas. We are designing a low cost 3U chassis with a CPCI-S backplane accompanied by a radiation tolerant, switched-mode power supply and an FPGA-based System Board. Regarding the Fieldbus layer, the paper focuses on the radiation-tolerant implementation of the Industrial Ethernet protocol, Powerlink.
+
+ 
+
+
+
+
+
+
+Slides TUAPP03 [7.663 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUAPP03
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAPP04
+Extending the Life of the VME Infrastructure at BNL
+678
+
+
+ 
+
+W.E. Pekrul, C. Theisen
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+A large installation of VME controllers have been used to control and monitor the RHIC Accelerator complex at BNL. As this equipment ages a number of upgrade options are being pursued. This paper describes an FPGA based VME controller board development being undertaken to provide a upgrade path for control applications that reuses existing racks and power supplies and a catalogue of custom application boards. This board is based on a Xilinx Zynq that includes an ARM-9 and a large FPGA fabric. The board includes DRAM, SPI-Flash, Ethernet, SD card, USB, SFP, FMC and an Artix FPGA to support the VME bus protocol. The first application of a magnet quench detector will also be described.
+
+ 
+
+
+
+
+
+
+Slides TUAPP04 [2.138 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUAPP04
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 20 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAPP05
+PandABlocks - a Flexible Framework for Zynq7000-Based SoC Configuration
+682
+
+
+ 
+
+G.B. Christian, M.G. Abbott, T.M. Cobb, C.A. Colborne, A.M. Cousins, P. Garrick, T.E. Trafford, I.S. Uzun
+                       DLS, Oxfordshire, United Kingdom
+Y.-M. Abiven, J. Bisou, F. Langlois, G. Renaud, G. Thibaux, S. Zhang
+                       SOLEIL, Gif-sur-Yvette, France
+S.M. Minolli
+                       NEXEYA Systems, La Couronne, France
+
+ 
+
+
+ 
+
+The PandABlocks framework comprises the FPGA logic, TCP server, webserver, boot sources and root filesystem, developed for the PandABox platform by Diamond Light Source and Synchrotron Soleil, for advanced beamline scanning applications. The PandABox platform uses a PicoZed System-on-Module, comprising a Zynq-7030 SoC, coupled to a carrier board containing removable position encoder modules, as well as various input and outputs. An FMC connector provides access to ADC/DACs or additional I/O, and gigabit transceivers on the Zynq allow communication with other systems via SFP modules. Specific functions and hardware resources are represented by functional blocks, which are run-time configurable and re-wireable courtesy of multiplexed data and control buses shared between all blocks. Recent changes to the PandABlocks framework are discussed which allow the auto-generation of the FPGA code and tcl automation scripts, using Python and the jinja2 templating engine, for any combination of functional blocks and SFP/FMC modules. The framework can target hardware platforms other than PandABox and could be deployed for other Zynq-based applications requiring on-the-fly reconfigurable logic.
+
+ 
+
+
+
+
+
+
+Slides TUAPP05 [5.484 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-TUAPP05
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

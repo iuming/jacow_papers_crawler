@@ -1,0 +1,120 @@
+{
+  "session_info": {
+    "id": "SAPAG",
+    "name": "SAPAG - Saturday Parallel Grand Ballroom",
+    "url": "https://proceedings.jacow.org/icap2018/html/sapag.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "SAPAG01",
+      "title": "Normal Form Approach to and Nonlinear Optics Analysis of the IOTA Ring",
+      "authors": [
+        "Northern Illinois University",
+        "DeKalb",
+        "Illinois",
+        "USA",
+        "The IOTA ring is the realization as an accelerator system of a nonlinear",
+        "completely integrable Hamiltonian. Normal form methods allow analysis of one-turn maps of rings",
+        "exposing global information about the dynamics",
+        "including amplitude dependent tune shifts and resonance strengths. Since mapping the phase space of particle dynamics in IOTA is important to gain insight and offer practical ways to optimize for intensity frontier beam physics",
+        "this talk will summarize our group’s results",
+        "the advantages",
+        "difficulties",
+        "and limitations of normal form analysis of the IOTA nonlinear optics."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icap2018/talks/sapag01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icap2018/papers/sapag01.pdf",
+      "poster_url": "https://proceedings.jacow.org/icap2018/posters/sapag01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICAP2018-SAPAG01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "SAPAG02",
+      "title": "Beam Dynamics Simulations and Challenges for the FAIR SIS100 Synchrotron",
+      "authors": [
+        "O. Boine-Frankenheim",
+        "V. Chetvertkova",
+        "V. Kornilov",
+        "S. Sorge",
+        "GSI",
+        "Darmstadt",
+        "Germany",
+        "The SIS100 synchrotron is the central accelerator of the upcoming FAIR project at GSI",
+        "Darmstadt",
+        "Germany. The major challenges for the design studies and the later operation are related to high-intensity",
+        "low beam loss operation for a wide range of ion species and charge states",
+        "for different operational cycles and extraction schemes. We focus our simulation studies on the long (up to 1 s) accumulation plateau and on the final bunch compression before extraction. During accumulation emittance growth and beam loss due to transverse space charge in combination with the magnet field errors has to be well controlled. We use different simulation approaches with frozen and self-consistent \"symplectic\" space charge solvers to identify optimum working point areas",
+        "including realistic field error models for the superconducting",
+        "superferric SIS100 dipole and quadrupole magnets."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icap2018/talks/sapag02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icap2018/papers/sapag02.pdf",
+      "poster_url": "https://proceedings.jacow.org/icap2018/posters/sapag02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICAP2018-SAPAG02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "SAPAG03",
+      "title": "Mode-Analysis Methods for the Study of Collective Instabilities in Electron-Storage Rings",
+      "authors": [
+        "LBNL",
+        "Berkeley",
+        "California",
+        "USA",
+        "We report on recent progress on the application of mode analysis to the study of collective instabilities in electron storage rings including Higher Harmonic RF Cavities (HHCs). The focus is on transverse instabilities in the presence of a dominant resistive-wall impedance",
+        "a problem of particular relevance to the new generation of diffraction-limited light sources. The secular equation for the system eigenvalues is solved after applying a regularizing transformation",
+        "a key step to obtaining numerically accurate solutions. We provide a demonstration that for vanishing chromaticity and in the absence of radiation damping the beam motion is always unstable. This is in contrast to the more conventional Transverse-Mode-Coupling Instability (TMCI) without HHCs",
+        "which is known to exhibit a well defined instability threshold."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icap2018/talks/sapag03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icap2018/papers/sapag03.pdf",
+      "poster_url": "https://proceedings.jacow.org/icap2018/posters/sapag03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICAP2018-SAPAG03",
+      "page_number": "30",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "SAPAG04",
+      "title": "HOM-Mitigation for Future SPS 33-Cell 200 MHz Accelerating Structures",
+      "authors": [
+        "P. Kramer",
+        "C. Vollinger",
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "The CERN SPS 200 MHz travelling wave (TW) accelerating structures pose an intensity limitation for the planned High Luminosity (HL-) LHC upgrade. Higher-order modes (HOMs) around 630 MHz have been identified as one of the main sources of longitudinal multi-bunch instabilities. Improved mitigation of these HOMs with respect to today’s HOM-damping scheme is therefore an essential part of the LHC injectors upgrade (LIU) project. The basic principles of HOM-couplers in cavities and today’s damping scheme are reviewed",
+        "before illustrating the numerous requirements an improved damping scheme for the future 33-cell structures must fulfil. These are",
+        "amongst others",
+        "the mitigation of HOMs situated in the lower part of the structure where there are no access ports for extraction",
+        "a sufficient overall damping performance and an acceptable influence on the fundamental accelerating passband (FPB). Different approaches tackling these challenges are investigated and their performance",
+        "advantages and pitfalls are evaluated by ACE3P and CST electromagnetic (EM) field solver suites."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icap2018/talks/sapag04_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icap2018/papers/sapag04.pdf",
+      "poster_url": "https://proceedings.jacow.org/icap2018/posters/sapag04_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICAP2018-SAPAG04",
+      "page_number": "35",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 4,
+  "scrape_time": "2025-10-10 18:30:22"
+}

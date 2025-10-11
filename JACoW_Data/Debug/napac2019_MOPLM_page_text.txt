@@ -1,0 +1,1195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2019 - Table of Session: MOPLM (Monday Poster Session-Lake Michigan)
+
+
+MOPLM —  Monday Poster Session-Lake Michigan   (02-Sep-19   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPLM01
+Alternative Injection Schemes to the NSLS-II Using Nonlinear Injection Magnets
+91
+
+
+ 
+
+R.P. Fliller, III, G. Bassi, A. Blednykh, C. Hetzel, V.V. Smaluk, C.J. Spataro, P. Zuhoski
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy
+The NSLS-II storage ring uses the standard four bump injection scheme to inject beam off axis. BESSY and MAX IV are now using a pulsed multipole magnet as an injection kicker. The injected beam sees a field off axis for injection while the stored beam experiences no field on the magnet axis. The principle advantage of using a pulsed multipole for injection is that the stored beam motion is greatly reduced since the field on axis is negligible. The number of pulsed magnets is reduced from five in the nominal scheme (septum and four bumps) to two or three thereby reducing the possible failure modes. This also eliminates the need to precisely match the pulse shapes of four dipole magnets to achieve minimal stored beam motion outside of the bump. In this paper we discuss two schemes of injecting into the NSLS-II using a pulsed multipole magnet. The first scheme uses a single pulsed multipole located in one cell downstream of the injection septum as the injection kicker. The second scheme uses two pulsed multipoles in the injection straight to perform the injection. We discuss both methods of injection and compare each method.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM01
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM03
+Correlations Between Beta Beating and APS-U Single Particle Dynamics Performance
+95
+
+
+ 
+
+Y.P. Sun
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+In the optimizations and evaluations process of the Advanced Photon Source upgrade (APS-U) lattice, it was observed that there are negative correlations between beta beating and APS-U single particle dynamics performance (such as dynamic acceptance and local momentum acceptance). These correlations are not always present due to different reasons. In this paper, a systematic simulation study is performed to understand the correlations between beta beating and APS-U single particle dynamics performance. Relatively high beta beatings are generated to reveal these effects.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM03
+
+ 
+
+
+About •
+paper received ※ 31 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM04
+First Attempts at Applying Machine Learning to ALS Storage Ring Stabilization
+98
+
+
+ 
+
+S.C. Leemann, Ph. Amstutz, W.E. Byrnepresenter, M.P. Ehrlichman, T. Hellert, A. Hexemer, S. Liu, M. Marcus, C.N. Melton, H. Nishimura, G. Penn, F. Sannibale, D.A. Shapiro, C. Sun, D. Ushizima, M. Venturini
+                       LBNL, Berkeley, USA
+
+ 
+
+
+ 
+
+Funding: This research is funded by the US Department of Energy (BES & ASCR Programs), and supported by the Director of the Office of Science of the US Department of Energy under Contract No. DEAC02-05CH11231.
+The ALS storage ring operates multiple feedbacks and feed-forwards during user operations to ensure that various source properties such as beam position, beam angle, and beam size are maintained constant. Without these active corrections, strong perturbations of the electron beam would result from constantly varying ID gaps and phases. An important part of the ID gap/phase compensation requires recording feed-forward tables. While recording such tables takes a lot of time during dedicated machine shifts, the resulting compensation data is imperfect due to machine drift both during and after recording of the table. Since it is impractical to repeat recording feed-forward tables on a more frequent basis, we have decided to employ Machine Learning techniques to improve ID compensation in order to stabilize electron beam properties at the source points.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM04
+
+ 
+
+
+About •
+paper received ※ 26 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM06
+High Voltage Design of a 350 kV DC Photogun at BNL
+102
+
+
+ 
+
+W. Liu, O.H. Rahman, E. Wang
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Brookhaven National Laboratory is constructing a 350 kV DC high voltage photogun to provide spin-polarized electron beam for the proposed eRHIC facility. The photogun employs a compact inverted-tapered-geometry ceramic insulator that extends into the vacuum chamber and mechanically holds the cathode electrode. By operating at high voltage, the photogun will provide lower beam emittance, thereby improving the beam transmission through the injector apertures, and prolong the operating lifetime of the photogun. However, high voltage increases the field emission, which can result in high voltage breakdown and even lead to irreparable damage of the ceramic insulator. This work describes the methods to minimize the electric field near the metal-vacuum-insulator interface, and to avoid high voltage breakdown and ceramic insulator damage. The triple point junction shields are designed. The simulated electric field, field emission and beam transportation will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM06
+
+ 
+
+
+About •
+paper received ※ 19 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM07
+Simulation of Beam Aborts for the Advanced Photon Source to Probe Material-Damage Limits for Future Storage Rings
+106
+
+
+ 
+
+M. Borland, J.C. Dooling, R.R. Lindberg, V. Sajaev, Y.P. Sun
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+Damage to tungsten beam dumps has been observed in the Advanced Photon Source (APS), a 7-GeV, third-generation storage ring light source. This issue is expected to be much more severe in the APS Upgrade, owing to doubling of the stored charge and much lower emittance. An experiment was conducted in the existing APS ring to test several possible dump materials and also assess the accuracy of predictions of beam-induced damage. Prior to the experiments, extensive beam abort simulations were performed with ELEGANT to predict thresholds for material damage, dependence on vertical beam size, and even the size of the trenches expected to be created by the beam. This paper presents the simulation methods, simple models for estimating damage, and results. A companion paper in this conference presents experimental results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM07
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM08
+Controlling Transient Collective Instabilities During Swap-Out Injection
+110
+
+
+ 
+
+R.R. Lindberg
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Supported by U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357
+Previous work has shown that collective instabilities at injection may reduce injection efficiency even for on-axis injection as planned for the APS-Upgrade*. Stability at injection is governed by a number of factors, including phase-space mismatch between injected and stored bunch, strength of the impedance, degree of nonlinearities, and feedback. We find that the large tune-shift with amplitude of the most recent APS-U lattice largely tames the transient instability via Landau damping, and show that using octupoles to increase the nonlinear tune shift can stabilize the transient instability at injection that plagued a previously unstable lattice.
+* R.R. Lindberg, M. Borland, and A. Blednykh, Proc. of NA-PAC 2016, pp. 901
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM08
+
+ 
+
+
+About •
+paper received ※ 24 August 2019       paper accepted ※ 01 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM09
+High-Power Design of a Cavity Combiner for a 352-MHz Solid State Amplifier System at the Advanced Photon Source
+113
+
+
+ 
+
+G.J. Waldschmidt, D.J. Bromberek, A. Goel, D. Horan, A. Nassiri
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+A cavity combiner has been designed as part of a solid state amplifier system at the Advanced Photon Source with a power requirement of up to 200 kW for the full system. Peak field levels and thermal loading have been optimized to enhance the rf and mechanical perfor-mance of the cavity and to augment its reliability. The combiner consists of 16 rotatable input couplers, a re-duced-field output coupler, and static tuning. The power handling capability of the cavity will be evaluated during a back-feed test where an external klystron source will be used to transmit power through the cavity into loads on each of the input couplers.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM09
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 04 December 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM10
+Simulation Study With Septum Field Map for the APS Upgrade
+116
+
+
+ 
+
+A. Xiao, M. Abliz, M. Borland
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+One of the biggest challenges faced by the Advanced Photon Source Upgrade injection system design is the septum magnet. Not only does the required leakage field inside the stored beam chamber need to be smaller than for the present ring, the magnet has to be slightly tilted about the z-axis to provide a gentle vertical bend that brings the injected beam trajectory close to y=0 when it passes through the storage ring quadrupole magnets upstream of the straight section. This paper describes the coordinate system transformation necessary to properly model the magnet from field maps. The main field is checked by tracking the injected beam backwards, while leakage fields are included in dynamic aperture simulation and beam lifetime calculation. Simulation results show that the magnet design satisfies the physics requirement.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM10
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM12
+Progress on the Injection Transport Line Design for the APS Upgrade
+120
+
+
+ 
+
+A. Xiao, M. Borland
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+An on-axis vertical injection scheme was adopted for the Advanced Photon Source upgrade multi-bend achromat lattice. As the design of the injection scheme has become more detailed, the booster to storage ring transport line (BTS) has advanced, including effects such as the septum field map and stray fields of storage ring magnets. Various error effects are simulated for setting specifications and predicting expected performance. The beam diagnostic scheme, including emittance measurement, is incorporated into the beamline design.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM12
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM13
+Investigations of the Electron Beam Energy Jitter Generated in the Photocathode RF Gun at the Advanced Photon Source Linac
+124
+
+
+ 
+
+J.C. Dooling, D. Hui, A.H. Lumpkin, T.L. Smith, Y. Sun, K.P. Wootton, A. Zholents
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02- 06CH11357.
+Characterizations continue of the electron beam properties of a recently installed S-band photocathode (PC) rf gun at the Advanced Photon Source Linac facility. In this case, we have utilized a low-energy spectrometer beam line located 1.3 m downstream of the gun cavity to measure the electron beam energy, energy spread, and energy jitter. The nominal energy was 6.5 MeV using a gun gradient of 110 MV/m, and the energy spread was ~17 keV when driven by a 2.5-ps rms duration UV laser pulse at the selected rf gun phase. An energy jitter of 25 keV was initially observed in the spectrometer focal plane images. This jitter was partly attributed to the presence of both the 2nd and 3rd harmonics of the 119 MHz synchronization signal provided to the phase locked loop of the drive laser oscillator. The addition of a 150-MHz low-pass filter in the 119-MHz line strongly attenuated the two harmonics and resulted in a reduced energy jitter of ~15 keV. Comparisons of the gun performance to ASTRA simulations will also be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM13
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM14
+Studies of Beam Dumps in Candidate Horizontal Collimator Materials for the Advanced Photon Source Upgrade Storage Ring
+128
+
+
+ 
+
+J.C. Dooling, W. Berg, M. Borland, G. Decker, L. Emery, K.C. Harkay, R.R. Lindberg, A.H. Lumpkin, G. Navrotski, V. Sajaev, Y.P. Sun, K.P. Wootton, A. Xiao
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357
+We present the results of experiments intended to show the effects of beam dumps on candidate collimator materials for the Advanced Photon Source Upgrade (APS-U) storage ring (SR). Due to small transverse electron beam sizes, whole beam loss events are expected to yield dose levels in excess of 10 MGy in beam-facing components, pushing irradiated regions into a hydrodynamic regime. Whole beam aborts have characteristic time scales ranging from 100s of ps to 10s of microseconds which are either much shorter than or roughly equal to thermal diffusion times. Aluminum and titanium alloy test pieces are each exposed to a series of beam aborts of varying fill pattern and charge. Simulations suggest the high energy/power densities are likely to lead to phase transitions and damage in any material initially encountered by the beam. We describe measurements used to characterize the beam aborts and compare the results with those from the static particle-matter interaction code, MARS; we also plan to explore wakefield effects. Beam dynamics modeling, done with elegant is discussed in a companion paper at this conference. The goal of this work is to guide the design of APS-U SR collimators.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM14
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 04 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM15
+Design of the ASU Photocathode Lab
+132
+
+
+SUPLH06
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C.J. Knill, S.S. Karkare
+                       Arizona State University, Tempe, USA
+J.V. Conway, B.M. Dunham, K.W. Smolenski
+                       Xelera Research LLC, Ithaca, New York, USA
+H.A. Padmore
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. National Science Foundation under Award PHY-1549132, the Center for Bright Beams.
+Recent investigations have shown that it is possible to obtain an order of magnitude smaller intrinsic emittance from photocathodes by precise atomic scale control of the surface, using an appropriate electronic band structure of single crystal cathodes and cryogenically cooling the cathode. Investigating the performance of such cathodes requires atomic scale surface diagnostic techniques connected in ultra-high vacuum (UHV) to the epitaxial thin film growth and surface preparation systems and photo-emission and photocathode diagnostic techniques. Here we report the capabilities and design of the laboratory being built at the Arizona State University for this purpose. The lab houses a 200 kV DC gun with a cryogenically cooled cathode along with a beam diagnostics and ultra fast electron diffraction beamline. The cathode of the gun can be transported in UHV to a suite of UHV growth chambers and surface and photoemission diagnostic techniques.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM15
+
+ 
+
+
+About •
+paper received ※ 26 August 2019       paper accepted ※ 04 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM16
+Design of a 200 kV DC Cryocooled Photoemission Gun for Photocathode Investigations
+136
+
+
+SUPLH01
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+G.S. Gevorkyan, S.S. Karkare
+                       Arizona State University, Tempe, USA
+I.V. Bazarov, A. Galdi, J.M. Maxson
+                       Cornell University, Ithaca, New York, USA
+L. Cultrera, W.H. Li
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. National Science Foundation under Award No. PHY-1549132, the Center for Bright Beams.
+Intrinsic emittance of photocathodes limits the brightness of electrons beams produced from photoemission guns. Recent advancements have shown that an order of magnitude improvement in intrinsic emittance over the commonly used polycrystalline metal and semiconductor cathodes is possible via use of single crystalline ordered surfaces of metals, semiconductors and other exotic materials at cryogenic temperatures as cathodes. However, due to practical design considerations, it is not trivial to test such cathodes in existing electron guns. Here we present the design of a 200kV DC electron gun being developed at the Arizona State University for this purpose.
+
+ 
+
+
+
+
+
+
+Poster MOPLM16 [1.549 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM16
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 12 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM17
+Longitudinal Impedance Modeling of APS Particle Accumulator Ring with CST
+140
+
+
+ 
+
+C. Yao, J. Carvelli, K.C. Harkaypresenter, L.H. Morrison
+                       ANL, Lemont, Illinois, USA
+D. Hui
+                       University of Arizona, Tucson, Arizona, USA
+J.S. Wang
+                       Dassault Systems Simulia, Waltham, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The APS-U (APS upgrade) ring plans implement a "swap out" injection scheme, which requires a injected beam of 15.6 nC single-bunch beam. The Particle Accumulator Ring (PAR), originally designed for up to 6 nC charge, must be upgraded to provide 20 nC single bunch beam. Our studies have shown that bunch length of the PAR beam, typically 300 ps at lower charge, increases to 800 ps at high charge due to longitudinal instabilities, which causes low injection efficiency of the downstream Booster ring. We completed beam impedance of all the PAR vacuum components recently with CST wakefield solver. 3D CAD models are directly imported into CST and various techniques were explored to improve and verify the results. The results are also cross-checked with that from GdfidL and Echo simulation. We identified 23 bellow- and 24 non-bellow flanges that contribute to as much as 50% of the total loss factor. We are considering upgrade options to reduce over all beam loading and longitudinal impedance. Beam tracking simulation is in progress that including the longitudinal impedance results from the simulations. We report the results and methods of the CST impedance simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM17
+
+ 
+
+
+About •
+paper received ※ 22 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM18
+Design of the 2-Stage Laser Transport for the Low Energy RHIC Electron Cooling (LEReC) DC Photogun
+144
+
+
+ 
+
+P. Inacker, S. Bellavia, A.J. Curcio, A.V. Fedotov, W. Fischer, D.M. Gassner, J.P. Jamilkowski, P.K. Kankiya, D. Kayran, D. Lehn, R. Meier, T.A. Miller, M.G. Minty, S.K. Nayak, L.K. Nguyenpresenter, L. Smart, C.J. Spataro, A. Sukhanov, J.E. Tuozzolo, Z. Zhao
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The electron beam for the recently constructed Low Energy RHIC electron Cooler (LEReC) at Brookhaven National Laboratory is generated by a high-power fiber laser illuminating a photocathode. The pointing stability of the low-energy electron beam, which is crucial to maintain within acceptable limits given the long beam transport, is highly dependent on the center-of-mass (CoM) stability of the laser spot on the photocathode. For reasons of accessibility during operations, the laser itself is located outside the accelerator tunnel, leading to the need to propagate the laser beam 34 m via three laser tables to the photocathode. The challenges to achieving the required CoM stability of 10 microns on the photocathode thus requires mitigation of vibrations along the transport and of weather- and season-related environmental effects, while preserving accessibility and diagnostic capabilities with proactive design. After successful commissioning of the full transport in 2018/19, we report on our solutions to these design challenges.
+LEReC Photocathode DC Gun Beam Test Results - D. Kayran Conference: C18-04-29, p.TUPMF025 Commissioning of Electron Accelerator LEReC for Bunch Beam Cooling - D.Kayran, NAPAC19
+
+ 
+
+
+
+
+
+
+Poster MOPLM18 [1.970 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM18
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM20
+Impedance Considerations for the APS Upgrade
+147
+
+
+ 
+
+R.R. Lindberg
+                       ANL, Lemont, Illinois, USA
+A. Blednykh
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Supported by U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357
+The APS-Upgrade is targeting a 42 pm lattice that requires strong magnets and small vacuum chambers. Hence, impedance is of significant concern. We overview recent progress on identifying and modelling vacuum components that are important sources of impedance in the ring, including photon absorbers, BPMs, and flange joints. We also show how these impact collective dynamics in the APS-U lattice.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM20
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 01 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM21
+Circuit Model Analysis for High Charge in the APS Particle Accumulator Ring
+151
+
+
+ 
+
+K.C. Harkay, J.R. Calvey, J.C. Dooling, L. Emery, R.R. Lindberg, K.P. Wootton, C. Yao
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The Advanced Photon Source (APS) particle accumulator ring (PAR) was designed to accumulate linac pulses into a single bunch with a fundamental rf system, and longitudinally compress the beam with a harmonic rf system prior to injection into the booster. For APS Upgrade, the injectors will need to supply full-current bunch replacement with high single-bunch charge for swap-out in the new storage ring. Significant bunch lengthening, energy spread, and synchrotron sidebands are observed in PAR at high charge. Lower-charge dynamics are dominated by potential well distortion, while higher-charge dynamics appear to be dominated by microwave instability. Before a numerical impedance model was available, a simple circuit model was developed by fitting the measured bunch distributions to the Haissinski equation. Energy scaling was then used to predict the beam energy sufficient to raise the instability threshold to 18-20 nC. With the beam in a linear or nearly linear regime, higher harmonic radio frequency (rf) gap voltage can be used to reduce the bunch length at high charge and better match the booster acceptance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM21
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM22
+Active Pointing Stabilization Techniques Applied to the Low Energy RHIC Electron Cooling Laser Transport at BNL
+ 
+
+
+SUPLH07
+  use link to access more material from this paper's primary paper code
+ 
+
+
+THYBA6
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+L.K. Nguyen, A.J. Curcio, W.J. Eisele, A.V. Fedotov, A. Fernando, W. Fischer, P. Inacker, J.P. Jamilkowski, D. Kayran, K. Kulmatycski, D. Lehn, T.A. Miller, M.G. Minty, A. Sukhanov
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The electron beam for the Low Energy RHIC electron Cooler (LEReC) at Brookhaven National Laboratory (BNL) is generated by a high-power fiber laser illuminating a photocathode. The pointing stability of the electron beam, which is crucial given its long transport, is highly dependent on the center-of-mass (CoM) stability of the laser spot on the photocathode. For reasons of accessibility during operations, the laser is located outside the accelerator tunnel, and the laser beam is propagated over a total distance of 34 m via three laser tables to the photocathode. The challenges to achieving the required CoM stability of 10 microns RMS on the photocathode include mitigation of the effects of vibrations along the transport and of weather- and season-related environmental effects, while preserving accessibility and diagnostic capabilities. Due to the insufficiency of infrastructure alone in overcoming these challenges, two active laser transport stabilization systems aimed at addressing specific types of position instability were installed during the 2018 Shutdown. After successful commissioning of the full transport in 2018/19, we report on our solutions to these design challenges.
+
+ 
+
+
+
+
+
+
+Slides THYBA6 [3.426 MB]
+        
+ 
+
+
+
+
+
+
+Poster THYBA6 [1.299 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-THYBA6
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM23
+Senis Hall Probe Speed Dependence Issues
+155
+
+
+ 
+
+I. Vasserman
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+An extensive test of a Senis 2-axis Hall probe was done at the Advanced Photon Source. Strong dependence of the measurement data on the speed of the sensor is observed. Discussion of the possible reason of such dependence is provided.
+Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM23
+
+ 
+
+
+About •
+paper received ※ 21 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM24
+LCLS-II Injector Commissioning Beam Based Measurements
+157
+
+
+ 
+
+C.M. Zimmer, T.J. Maxwell, F. Zhou
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Department of Energy
+Injector commissioning is underway for the LCLS-II MHz repetition rate FEL, currently under construction at SLAC. Methodology of injector beam-based measurements and early results with low beam charge will be presented, along with the software tools written to automate these various measurements.
+
+ 
+
+
+
+
+
+
+Poster MOPLM24 [10.104 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOPLM24
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 31 August 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM25
+Generation and Characterization of  Attosecond Pulses From X-Ray Free-Electron Laser
+ 
+
+
+SUPLH04
+  use link to access more material from this paper's primary paper code
+ 
+
+
+TUYBA1
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Li
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+In this talk I will discuss the production and application of sub-femtosecond x-ray pulses recently generated at LCLS. I will focus on angular streaking as the measurement technique to resolve the extremely short x-ray pulses. This method exploits phase dependent energy modulation of a photoelectron ionized in the presence of a strong laser field with circular polarization. I will present experimental results of single shot images and preliminary analysis results. Specifically I will discuss two applications of this technique: streaking of the Auger electrons and measuring the shape resonance directly in the time domain.
+
+ 
+
+
+
+
+
+
+Slides TUYBA1 [9.757 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPLM26
+The Broad-Band Impedance Budget of the Accumulator Ring in the ALS-U Project
+ 
+
+
+MOZBA6
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+D. Wang, S. De Santis, D. Li, T.H. Luo, M. Venturini
+                       LBNL, Berkeley, California, USA
+K.L.F. Bane
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Design work is underway for the upgrade of the Advanced Light Source (ALS-U) to a diffraction-limited soft x-rays radiation source. It consists of an accumulator and a storage ring. In both rings, coupling-impedance driven instabilities need careful evaluation to ensure meeting the machine high-performance goals. This paper presents the impedance budget of the accumulator ring both longitudinally and transversely. The budget includes the resistive wall impedance as well as the geometric impedance from the main vacuum components. Our calculations primarily rely on electromagnetic simulations with the CST code; when possible validation has been sought against analytical modeling, typically in the low-frequency limit, and good agreement generally found. Collective-instability current thresholds are also discussed.
+
+ 
+
+
+
+
+
+
+Slides MOZBA6 [8.926 MB]
+        
+ 
+
+
+
+
+
+
+Poster MOZBA6 [3.542 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-MOZBA6
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 06 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

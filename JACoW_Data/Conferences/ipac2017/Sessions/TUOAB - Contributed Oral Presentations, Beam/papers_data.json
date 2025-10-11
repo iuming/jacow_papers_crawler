@@ -1,0 +1,83 @@
+{
+  "session_info": {
+    "id": "TUOAB",
+    "name": "TUOAB - Contributed Oral Presentations, Beam Instrumentation, Controls, Feedback & Oper.",
+    "url": "https://proceedings.jacow.org/ipac2017/html/tuoab.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUOAB1",
+      "title": "First LHC Transverse Beam Size Measurements With the Beam Gas Vertex Detector",
+      "authors": [],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2017/talks/tuoab1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2017/papers/tuoab1.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2017/posters/tuoab1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2017-TUOAB1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOAB2",
+      "title": "First Observation of the LHC Beam Halo Using a Synchrotron Radiation Coronagraph",
+      "authors": [
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "E. Bravin",
+        "F. Roncarolo",
+        "G. Trad",
+        "CERN",
+        "Geneva",
+        "Switzerland"
+      ],
+      "institutions": [
+        "A test coronagraph for the observation of beam halo has been installed in the Synchrotron radiation monitor line"
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2017/talks/tuoab2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2017/papers/tuoab2.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2017/posters/tuoab2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2017-TUOAB2",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOAB3",
+      "title": "Development of Wide Dynamic Range Beam Loss Monitor System for the J-PARC Main Ring",
+      "authors": [
+        "K. Satou",
+        "N. Kamikubota",
+        "T. Toyama",
+        "S. Yamada",
+        "J-PARC",
+        "KEK & JAEA",
+        "Ibaraki-ken",
+        "Japan",
+        "Kanto Information Service (KIS)",
+        "Accelerator Group",
+        "Ibaraki",
+        "Japan",
+        "The new beam loss monitor (BLM) system now in operation at the main ring of J-PARC consists of an isolated front-end current to voltage converter",
+        "a VME-based 24 bit ADC system. A dual detector system employs a proportional-type gas chamber (PBLM) and an air-filled ionization chamber (AIC). The system shows a wide dynamic range of 160 dB. It can detect the low level signal that would arise in the case of the detection of residual dose in the ring itself after the beam has been turned off as well as an event such as high level beam loss at the collimators. The signal rise time of the waveform obtained is 17 us which fast enough to meet the speed requirement of the Machine Protection System (MPS); which is that the MPS should dump the beam within 100 us when the beam loss signal exceeds the reference levels set in the ADC system."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2017/talks/tuoab3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2017/papers/tuoab3.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2017/posters/tuoab3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2017-TUOAB3",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 19:47:01"
+}

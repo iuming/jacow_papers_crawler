@@ -1,0 +1,515 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: THPHO (Poster Session)
+
+
+THPHO —  Poster Session   (03-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPHO01
+Parameter Optimization for Multi-Dimensional Laser Cooling for an Ion Beam in the Storage Ring S-LSR
+1298
+
+
+ 
+
+Z.Q. He
+                       TUB, Beijing, People's Republic of China
+K. Jimbo
+                       Kyoto University, Kyoto, Japan
+M. Nakao, A. Noda
+                       NIRS, Chiba-shi, Japan
+H. Okamoto, K. Osaki
+                       HU/AdSM, Higashi-Hiroshima, Japan
+H. Souda
+                       Gunma University, Heavy-Ion Medical Research Center, Maebashi-Gunma, Japan
+J. Wei
+                       FRIB, East Lansing, USA
+Y. Yuri
+                       JAEA/TARRI, Gunma-ken, Japan
+
+ 
+
+
+ 
+
+Funding: Advanced Compact Accelerator Development project, MEXT, Japan. GCOE project, Kyoto University, Japan.
+Abstract: S-LSR is a compact ion cooler ring built in ICR, Kyoto University, aiming at creating ultra-low temperature ion beam by laser cooling. In order to approach lowest possible temperature at S-LSR in an experiment, parameters of laser cooling should be carefully chosen by simulation. This paper mainly concerns on optimization of laser cooling parameters and prediction of possible low limit of beam temperature at S-LSR. Firstly, the adiabatic capture process of ion beam is introduced and studied. Then, different laser profile parameters are compared and an optimized value is chosen. After that, optimized solenoid field strength for 3-D coupling is proposed. At last, by choosing the parameters proposed, the lowest beam temperature achievable for S-LSR is predicted to be 10K in horizontal direction and 0.05K in longitudinal direction.
+
+ 
+
+
+ 
+
+
+
+THPHO03
+APS Fast Orbit Feedback System Upgrade
+1301
+
+
+ 
+
+R. Lipa, N.D. Arnold, H. Bui, G. Decker, T. Fors, R. Laird, F. Lenkszus, A.J. Scaminaci, N. Sereno, S.E. Shoaf
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: * Work supported by U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+A real-time feedback double sector controller (RTFB DSC) for the APS Upgrade has been under design for the past year. Using the Xilinx Zynq-7000 All Programmable System on a Chip FPGA residing on the ZC706 board as the base platform, the upgrade path interfaces to the existing accelerator system and modernizes the beam position monitoring and feedback systems. The modernized system increases the RTFB system sample rate from 1.5 kHz to 22.6 kHz. We report the plan for sector-by-sector upgrades that will occur during system shutdowns and allow the upgraded sectors to operate with the existing sectors. The mapping of the RTFB DSC architecture is shown utilizing the targeted FPGA features. These features include the dual ARM CortexTM-A9 processors, multi-port DDR3 memory controllers, gigabit transceivers, and the programming logic interconnect for implementing advanced orbit feedback controller algorithms using floating-point DSP operations. The RTFB DSC FPGA architecture is revealed as well as subsequent progress on the chassis implementation.
+
+ 
+
+
+ 
+
+
+
+THPHO04
+Linear Analysis for Several 6-D Ionization Cooling Lattices
+1304
+
+
+ 
+
+J.S. Berg, R.B. Palmer, D. Stratakis
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+In muon accelerators, ionization cooling is the only viable option for reducing the muon beam emittance to values necessary for a muon collider. An ionization cooling lattice requires a large momentum acceptance, small beta functions, an extremely large dynamic aperture, and a modeset amount of dispersion to have good performance. The latter values are a function of beam momentum. One step in understanding the lattice performance is to determine these quantities for a lattice cell being studied. This is modestly more complex than usual since the lattice is generally highly coupled. We first review the general method for computing these quantities for a general lattice. Then we look at several lattices of interest, compute these quantities, and relate their values and momentum dependencies to the performance of the lattices.
+
+ 
+
+
+ 
+
+
+
+THPHO05
+A Planar Snake Muon Ionization Cooling Lattice
+1307
+
+
+ 
+
+R.B. Palmer, J.S. Berg, D. Stratakis
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Muon Colliders require cooling in six dimensions (x, x', y, y', t, E). Several ionization 6D cooling lattices, using vacuum acceleration, are reviewed: RFOFO lattices, both curved* and rectilinear** cool one sign to low emittances; A Helical FOFO snake*** cools both signs, but not to low emittances. A Planar Snake**** lattice is proposed that cools both muon signs, and appears suitable for low emittances. The parameters and performance for an example suitable for the early stages of cooling is given.
+*P. Snopok et al., IJMPA 24, p. 987 (2009).  **V. Balbekov, Proc. of PAC 2003, Portland, OR, p. 2017 (2003).  ***Y. Alexahin, AIP Conf. Proc. 1222, p. 313 (2010). ****R.B. Palmer, “6D Cooling in Periodic Lattices”, June 6, 2013, http://www.cap.bnl.gov/AAG/GroupMeetings/
+
+ 
+
+
+ 
+
+
+
+THPHO06
+SRF and RF Systems for CeC PoP Experiment
+1310
+
+
+ 
+
+S.A. Belomestnykh, I. Ben-Zvi, J.C. Brutus, D. Kayran, V. Litvinenko, P. Orfin, I. Pinayev, T. Rao, B. Sheehy, J. Skaritka, K.S. Smith, R. Than, J.E. Tuozzolo, E. Wang, Q. Wu, W. Xu, A. Zaltsman
+                       BNL, Upton, Long Island, New York, USA
+S.A. Belomestnykh, I. Ben-Zvi, V. Litvinenko, M. Ruiz-Osés, T. Xin
+                       Stony Brook University, Stony Brook, USA
+C.H. Boulware, T.L. Grimm
+                       Niowave, Inc., Lansing, Michigan, USA
+Y. Huang
+                       Fermilab, Batavia, USA
+X. Liang
+                       SBU, Stony Brook, New York, USA
+P.A. McIntosh, A.J. Moss, A.E. Wheelhouse
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Work is supported by Brookhaven Science Associates, LLC under contract No. DE-AC02-98CH10886 with the US DOE.
+Efforts to experimentally prove a concept of the coherent electron cooling are underway at BNL. A short 22-MeV linac will provide high charge, low repetition rate beam to cool a single ion bunch in RHIC. The linac will consist of a 112 MHz SRF gun, two 500 MHz normal conducting bunching cavities and a 704 MHz five-cell accelerating SRF cavity. The paper describes the SRF and RF systems, the linac layout, and discusses the project status, first test results and schedule.
+
+ 
+
+
+ 
+
+
+
+THPHO07
+Novel Mechanical Design for RHIC Transverse Stochastic Cooling Kicker
+1313
+
+
+ 
+
+C.J. Liaw, S. Bellavia, J.M. Brennan, K. Mernick, M. Myers, J.E. Tuozzolo
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Based on the beam emittance measurement from the pickup, the RHIC Stochastic Cooling kicker uses sixteen narrowband high Q cavities (from 5 to 8 GHz) to kick (or to cool) the bunched beam on each of the two transverse planes in the two rings. The cavities are integrated to two pairs of cavity plates and installed in two UHV chambers. The new kicker features scissor like driving mechanism, frictionless flexure joints, water cooled cavity plates, small frequency shift (less than 0.05%) during the operation and maintenance free. Novel mechanical designs, including cavity plate, vacuum, cooling, driving mechanism, and support structure design, are presented. Structural and thermal analyses, using ANSYS, were performed to confirm chamber structural stability and to calculate the cavity plate deformation due to thermal and mechanical load. Good agreement between the calculated cavity plate deflection and the expected plate deformation from the cavity frequency shift measurements has been achieved. Three assemblies utilizing this design (1 for the vertical and 2 for the horizontal plane) were completed for the FY2012 run. Successful performance has been reported.
+
+ 
+
+
+ 
+
+
+
+THPHO08
+Robust Mechanical Design for RHIC Transverse Stochastic Cooling Pickup
+1316
+
+
+ 
+
+C.J. Liaw, J.M. Brennan, V. De Monte, K. Mernick, M. Myers, J.E. Tuozzolo
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The RHIC transverse Stochastic Cooling Pickup uses a pair of high resolution 4-8 GHz frequency band planar loop arrays to measure the Schottky signals from the bunched beams in the two transverse planes of the two rings. Precision alignment between the two 381 mm long array boards was achieved by surveying two specially designed target fixtures outside the vacuum chamber and using a pair of high resolution, motor controlled, and force balanced actuators. Robust mechanical design was achieved by excluding wearable mechanical joints and fragile electronics inside the vacuum chamber. Both mechanical designs and structural analysis results, for the vacuum chamber and for the array board supports, are presented. Two horizontal and two vertical plane pickups have been fabricated and installed in RHIC for the FY2012 run. Successful performance has been reported.
+
+ 
+
+
+ 
+
+
+
+THPHO09
+High Intensity RHIC Limitations Due to Signal Heating of the Cryogenic BPM Cables
+1319
+
+
+ 
+
+P. Thieberger, J.A. D'Ambra, A.K. Ghosh, K. Hamdi, K. Mernick, T.A. Miller, M.G. Minty, C. Pai
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The signal cables from the beam position monitors (BPMs) in the cryogenic sections of RHIC need to satisfy somewhat conflicting requirements. On the one hand, the cryogenic load due to heat conduction along the cable needs to be small, which led to the use of stainless steel jacketed cables with Tefzel insulation. On the other hand, radio frequency losses need to be reasonably small to reduce heating due to dissipated signal power. As the beam intensity in RHIC increased over the years, and the bunches become shorter, a point is being rapidly approached where these cables will soon become a performance limiting factor. Here we describe an extensive study of this problem including cable loss measurements as a function of temperature and frequency, characterization of the copper center conductor, and Particle Studio and ANSYS simulations.
+
+ 
+
+
+ 
+
+
+
+THPHO10
+Upgrading the RHIC Beam Dump for Higher Intensity
+1322
+
+
+ 
+
+C. Montag, L. Ahrens, W. Fischer, H. Hahn, C.J. Liaw, J.-L. Mi, S.K. Nayak, T. Roser, P. Thieberger, J.E. Tuozzolo, K. Yip, W. Zhang
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Mechanical analysis of the RHIC beam dump window has shown that present heavy ion beam intensities are close to the tolerable limit, and will likely exceed that limit in future runs. Different approaches to upgrade the abort system for those projected higher intensities have been studied, namely replacing the existing window, and adding a vertical kicker that distributes the individual bunches more evenly across the window, thus reducing the heat load. We present the results of these studies and the present status of the upgrade project.
+
+ 
+
+
+ 
+
+
+
+THPHO11
+Optimization of the Capture Section of a Staged Neutrino Factory
+1325
+
+
+ 
+
+H. K. Sayed, H.G. Kirk
+                       BNL, Upton, Long Island, New York, USA
+K.T. McDonald
+                       PU, Princeton, New Jersey, USA
+
+ 
+
+
+ 
+
+A proposed staged Neutrino Factory, producing lower muon intensity of 1020 muons per year and 10-14 GeV muon beam energy, initially requires target station for 1~MW proton beam power with a proton beam energy of 3~GeV, which could be upgraded to the full power of 4~MW at 8-GeV beam energy. The optimization of the initial Target Station and the following Decay Channel and Buncher/Phase Rotator are discussed.
+
+ 
+
+
+ 
+
+
+
+THPHO12
+A High-Performance Rectilinear FOFO Channel for Muon Cooling
+1328
+
+
+ 
+
+D. Stratakis, J.S. Berg, R.B. Palmer
+                       BNL, Upton, Long Island, New York, USA
+V. Balbekov
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: This work is funded by US Dept. of Energy grant numbers DE AC02-98CH10886
+An ionization cooling channel is a tightly spaced lattice containing absorbers for reducing the momentum of the muon beam, rf cavities for restoring the longitudinal momentum and solenoids for focusing the beam. Such a lattice is an essential step for a Muon Collider. Here, we explore two different schemes for designing ionization cooling channels for muon related applications. The first is an upward helical lattice commonly known as the Guggenheim channel. The second is a novel linear channel with either wedge or block absorbers for cooling and tilted solenoids for emittance exchange. The latter scheme addresses several of the engineering challenges of a conventional Guggenheim channel. We incorporate both schemes into a new lattice design for a muon collider, and examine their performance numerically. We optimize the designs and compare the conductor current densities requirements for all of the simulated scenarios.
+
+ 
+
+
+ 
+
+
+
+THPHO13
+Space-Charge Limitations on the Final Stages of a Muon Collider Cooling Channel
+1331
+
+
+ 
+
+D. Stratakis, J.S. Berg, R.B. Palmer
+                       BNL, Upton, Long Island, New York, USA
+D.P. Grote
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is funded by US Dept. of Energy grant numbers DE AC02-98CH10886.
+Muon Colliders use ionization cooling to reduce the emittance of the muon beam prior to acceleration. A Muon Collider requires the normalized longitudinal emittance to be less than 2 mm while the normalized transverse emittance is a few hundred μm. At the last stages of the cooling channel, the bunch has 4×1012 muons, an average momentum of 200 MeV/c, and an rms bunch of 2 cm. With this beam intensity and relatively low momentum, we expect space charge effects to have a significant impact on beam dynamics. Currently, codes that could study both space-charge and particle-matter-interaction are limited. Here, with the aid of the particle-in-cell code Warp, a model is developed to examine space-charge for muon cooling lattices and some recent results are presented. Space-charge compensation solutions are discussed and the minimum cooling emittance as a function of the beam charge is identified.
+
+ 
+
+
+ 
+
+
+
+THPHO14
+RF Cavity Phase Calibration using Electromagnetic Pickups
+1334
+
+
+ 
+
+B. Durickovic, J.L. Crisp, G. Kiupel, D. Leitner, J.A. Rodriguez, R.C. Webber
+                       FRIB, East Lansing, USA
+D. Constan-Wahl, S.W. Krause, S. Nash, R. Rencsok, W. Wittmer
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Michigan State University FRIB funds: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661
+The Facility for Rare Isotope Beams (FRIB) is a heavy ion fragmentation facility to produce rare isotopes far from stability for low energy nuclear science. The facility will utilize a high-intensity, superconducting heavy-ion driver linac to provide stable ion beams from protons to uranium at energies greater than 200 MeV/u and at a beam power of up to 400 kW. The baseline design for the linac comprises over 300 accelerating superconducting cavities. A precondition for tuning the linac is calibrating the RF phase of each of these cavities, which requires a phase scan combined with energy measurements. In this work, we explore the use of electromagnetic pickups for this task. (We used capacitive style pickups.) Pickups provide fast readings, and measurements of the phase difference between a pair of pickups allows us to infer energy values (provided initial energy is known) and to reconstruct the phase-energy curve. We present an overview of the algorithm and measurement results of an implementation on the ReA3 re-accelerator.
+
+ 
+
+
+ 
+
+
+
+THPHO15
+MICE Spectrometer Solenoid Magnetic Field Measurements
+1337
+
+
+ 
+
+M.A. Leonova
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+The Muon Ionisation Cooling Experiment (MICE) is designed to demonstrate ionization cooling in a muon beam. Its goal is to measure a 10% change in transverse emittance of a muon beam going through a prototype Neutrino Factory cooling channel section with a 1% accuracy, corresponding to an absolute measurement accuracy of 0.1%. To measure the emittance, MICE uses two solenoidal spectrometers. The Spectrometer Solenoids are designed to have 4 T solenoidal fields, uniform at 3 per mil level in the tracking volumes. Analysis of magnetic field measurements of the Spectrometer Solenoids will be discussed, and results of extracting precise coil positions, angles, and coil radius measurements for input into magnet models will be presented.
+
+ 
+
+
+ 
+
+
+
+THPHO18
+Status of the Muon Ionization Cooling Experiment (MICE)
+1340
+
+
+ 
+
+Y. Torun
+                       IIT, Chicago, Illinois, USA
+M.S. Zisman
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Office of Science, U.S. Department of Energy under DOE contract number DE-AC02-05CH11231.
+A muon collider and a muon-based neutrino factory are attractive options for particle physics. Their optimal realization requires demonstration of muon ionization cooling, a technique to rapidly reduce the emittance of the tertiary muon beam. MICE, performed by a team from the U.S., Europe, and Asia and sited at Rutherford Appleton Laboratory, will provide this demonstration. The experiment comprises one cell of a representative cooling channel, bracketed upstream and downstream by spectrometer solenoid magnets containing scintillating fiber tracking detectors. Characterization of the ISIS muon beam line is complete. Fabrication of the superconducting spectrometer solenoids is nearly complete, with one having passed its acceptance tests, and the second nearly ready for testing. The first focus coil is presently being tested, with a second unit ready shortly. A prototype coil for the 1.5-m-diameter coupling coil is also being tested, and its cryostat is ready for fabrication. Other required hardware, including RF cavities and liquid-H absorbers, is also fabricated. The status of the major hardware items and plans for carrying out the experiment are described.
+
+ 
+
+
+ 
+
+
+
+THPHO19
+A Charge Separation Study to Enable the Design of a Complete Muon Cooling Channel
+1343
+
+
+ 
+
+C.Y. Yoshikawa, C.M. Ankenbrandt, R.P. Johnson
+                       Muons, Inc, Illinois, USA
+Y.S. Derbenev, V.S. Morozov
+                       JLAB, Newport News, Virginia, USA
+D.V. Neuffer, K. Yonehara
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: Work supported in part by DOE STTR grant DE-SC0007634
+The most promising designs for 6D muon cooling channels operate on a specific sign of electric charge. In particular, the Helical Cooling Channel (HCC) and Rectilinear RFOFO designs are the leading candidates to become the baseline 6D cooling channel in the Muon Accelerator Program (MAP). Time constraints prevented the design of a realistic charge separator, so a simplified study was performed to emulate the effects of charge separation on muons exiting the front end of a muon collider. The output of the study provides particle distributions that the competing designs will use as input into their cooling channels. We report here on the study of the charge separator that created the simulated particles.
+
+ 
+
+
+ 
+
+
+
+THPHO21
+Magnetic Bunch Compression for a Compact Compton Source
+1346
+
+
+ 
+
+T. Satogata
+                       JLAB, Newport News, Virginia, USA
+B.R.P. Gamage, T. Satogata
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+A compact electron accelerator suitable for Compton source applications is in design at the Center for Accelerator Science at Old Dominion University and Jefferson Lab. Here we discuss two options for transverse magnetic bunch compression and final focus, each involving a 4-dipole chicane with M56 tunable over a range of 1.5-2.0m with independent tuning of final focus to interaction point \beta*=5mm. One design has no net bending, while the other has net bending of 90 degrees and is suitable for compact corner placement.
+
+ 
+
+
+ 
+
+
+
+THPHO23
+Improvement of Digital Filter for the FNAL Booster Transverse Dampers
+1349
+
+
+ 
+
+T.V. Zolkin
+                       University of Chicago, Chicago, Illinois, USA
+N. Eddy, V.A. Lebedev
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Fermilab Booster has a transverse damping system which independently suppresses beam instabilities in the horizontal and vertical planes. A suppression of the common mode signal is achieved by digital notch filter which is based on subtracting beam positions for two consecutive turns. Such system operates well if the orbit position changes sufficiently slow. Unfortunately it is not the case for Fermilab Booster where the entire accelerating cycle consists of about 20,000 turns and successful transition crossing requires the orbit drifts up to about 10 um/turn resulting in excessive power, power amplifier saturation and loss of stability. To suppress this effect we suggest an improvement to the digital filter which can take into account fast orbit changes by using bunch positions of a few previous turns. To take into account the orbit change up to N-th order polynomial in time the system requires (N + 3) turns of "prehistory". In the case of sufficiently small gain the damping rate and the optimal digital filter coefficients are obtained analytically. Numerical simulations verify analytical theory for the small gain and predict a system performance with gain increase.
+
+ 
+
+
+ 
+
+
+
+

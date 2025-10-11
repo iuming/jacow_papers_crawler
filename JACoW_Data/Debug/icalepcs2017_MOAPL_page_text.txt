@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: MOAPL (Project Status Report 1)
+
+
+MOAPL —  Project Status Report 1   (09-Oct-17   10:00—11:00)
+Chair: Y.B. Yan, SSRF, Shanghai, People's Republic of China
+
+
+Paper
+Title
+Page
+
+
+
+MOAPL01
+The Control System for the Linear Accelerator at the European XFEL: Status and First Experiences
+1
+
+
+ 
+
+T. Wilksen, A. Aghababyan, R. Bacher, P.K. Bartkiewicz, C. Behrens, T. Delfs, P. Duval, L. Fröhlich, W. Gerhardt, C. Gindler, O. Hensler, K. Hinsch, J.M. Jäger, R. Kammering, S. Karstensen, H. Kay, H. Kay, V. Kocharyan, A. Labudda, T. Limberg, S.M. Meykopff, A. Petrosyan, G. Petrosyan, L.P. Petrosyan, V. Petrosyan, P. Pototzki, K.R. Rehlich, G. Schlesselmann, E. Sombrowski, M. Staack, J. Szczesny, M. Walla, J. Wilgen, H. Wu
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL (E-XFEL) is a 3.4 km long X-ray Free-Electron Laser facility and consists of a superconducting, linear accelerator with initially three undulator beam lines. The construction and installation of the E-XFEL is being completed this year and commissioning is well underway. First photon beams are expected to be available for early users in the second half of 2017. This paper will focus on the control system parts for the linear accelerator with its more than 7 million parameters and highlight briefly its design and implementation. Namely the hardware framework based on the MicroTCA.4 standard, testing software concepts and components at real and virtual accelerator facilities and a well-established method for integrating high-level controls into the middle layer through a shot-synchronized data acquisition allowed for a rapid deployment and commissioning of the accelerator. Status and experiences from a technical and an operational point-of-view will be presented.
+
+ 
+
+
+
+
+
+
+Slides MOAPL01 [6.198 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-MOAPL01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOAPL02
+The First Operation of the MAX IV Laboratory Synchrotron Facilities
+6
+
+
+ 
+
+V.H. Hardion, A. Barsek, P.J. Bell, F. Bolmsten, Y. Cerenius, F. H. Hennies, J.J. Jamróz, K. Larsson, J. Lidón-Simon, M. Lindberg, Z. Matej, P. Sjöblom, M. Sjöström, D.P. Spruce
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+On 21st of June 2016 the MAX IV Laboratory was inaugurated in the presence of the officials and has welcome the first external researchers to the new experimental stations. The MAX IV facility is the largest and most ambitious Swedish investment in research infrastructure and designed to be one of the brightest source of X-rays worldwide. The current achievements, progress, collaborations and vision of the facility will be described from the perspective of the control and IT systems.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/8wGn2pcDuVM
+        
+ 
+
+
+
+
+
+
+Slides MOAPL02 [91.373 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-MOAPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOAPL03
+Status of the National Ignition Facility (NIF) Integrated Computer Control and Information Systems
+14
+
+
+ 
+
+G.K. Brunton, Y.W. Abed, M.A. Fedorov, B.T. Fishler, D.W. Larson, A.P. Ludwigsen, D.G. Mathisen, V.J. Miller Kamm, M. Paul, R.K. Reed, D.E. Speck, E.A. Stout, S.L. Townsend, B.M. Van Wonterghem, S. Weaver, E.F. Wilson
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344
+The National Ignition Facility (NIF) is the world's largest and most energetic laser experimental facility with 192 beams capable of delivering 1.8 megajoules of 500-terawatt ultraviolet laser energy to a target. The energy, temperatures and pressures capable of being generated on the NIF allow scientists the ability to generate conditions similar to the center of the sun and explore the physics of planetary interiors, supernovae, black holes and thermonuclear burn. This year concludes a very successful multi-year plan of optimizations to the control & information systems and operational processes to increase the quantity of experimental target shots conducted in the facility. In addition, many new system control and diagnostic capabilities have been commissioned for operational use to maximize the scientific value produced. With NIF expecting to be operational for greater than 20 years focus has also been placed on optimizing the software processes to improve the sustainability of the control system. This talk will report on the current status of each of these areas in support of the wide variety of experiments being conducted in the facility.
+Release No.: LLNL-ABS-727237-DRAFT
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/u6HehUp9-Ms
+        
+ 
+
+
+
+
+
+
+Slides MOAPL03 [1.354 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-MOAPL03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOAPL04
+SwissFEL Control System - Overview, Status, and Lessons Learned
+19
+
+
+ 
+
+E. Zimoch, A.D. Alarcon, D. Anicic, A.G. Bertrand, R. Biffiger, K. Bitterli, M. Boccioli, H. Brands, P. Bucher, T. Celcer, P. Chevtsov, E.J. Divall, S.G. Ebner, M. Gasche, F. Haemmerli, C.E. Higgs, T. Humar, M. Janousch, G. Janser, G. Jud, B. Kalantari, R. Kapeller, R.A. Krempaská, D.J. Lauk, M.P. Laznovsky, H. Lutz, D. Maier-Manojlovic, F. Märki, V. Ovinnikov, T. Pal, W. Portmann, S.G. Rees, T. Zamofing, C. Zellweger, D. Zimoch
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The SwissFEL is a new free electron laser facility at the Paul Scherrer Institute (PSI) in Switzerland. Commissioning started in 2016 and resulted in first lasing in December 2016 (albeit not on the design energy). In 2017, the commissioning continued and will result in the first pilot experiments at the end of the year. The close interaction of experiment and accelerator components as well as the pulsed electron beam required a well thought out integration of the control system including some new concepts and layouts. This paper presents the current status of the control system together with some lessons learned.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/oaGDyYYzKJ4
+        
+ 
+
+
+
+
+
+
+Slides MOAPL04 [2.258 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-MOAPL04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

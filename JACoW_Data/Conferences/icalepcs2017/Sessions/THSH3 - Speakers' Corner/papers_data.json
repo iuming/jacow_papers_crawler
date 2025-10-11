@@ -1,0 +1,40 @@
+{
+  "session_info": {
+    "id": "THSH3",
+    "name": "THSH3 - Speakers' Corner",
+    "url": "https://proceedings.jacow.org/icalepcs2017/html/thsh3.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THSH303",
+      "title": "CS-Studio Display Builder",
+      "authors": [
+        "ORNL",
+        "Oak Ridge",
+        "Tennessee",
+        "USA",
+        "ORNL RAD",
+        "Oak Ridge",
+        "Tennessee",
+        "USA",
+        "The Display Builder started as a comprehensive update to the CS-Studio BOY panel editor and runtime. The design was changed to a modular approach",
+        "separating the model of widgets and their properties from the graphical representation and the runtime. The model is fully multithreaded. The representation has been demonstrated in both SWT and JavaFX",
+        "for now intending to concentrate on the latter. The runtime",
+        "based on the thread-safe model",
+        "avoids user thread delays and improves overall performance for complex widgets like images as well as scripts and rules. We present the current state of the development and initial deployments at beam lines of the Oak Ridge National Laboratory Spallation Neutron Source."
+      ],
+      "institutions": [],
+      "abstract": "reference for this paper ※ https://doi.org/10.18429/JACoW-",
+      "presentation_url": "https://proceedings.jacow.org/icalepcs2017/talks/thsh303_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icalepcs2017/papers/thsh303.pdf",
+      "poster_url": "https://proceedings.jacow.org/icalepcs2017/posters/thsh303_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICALEPCS2017-THSH303",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 18:20:12"
+}

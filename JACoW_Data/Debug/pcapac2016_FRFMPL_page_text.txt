@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2016 - Table of Session: FRFMPL (Feedback & System Modelling)
+
+
+FRFMPL —  Feedback & System Modelling   (28-Oct-16   10:00—12:05)
+Chair: D.O. Tavares, LNLS, Campinas, Brazil
+
+
+Paper
+Title
+Page
+
+
+
+FRFMPLCO01
+Status of the NSLS-II LLRF System
+129
+
+
+ 
+
+C. Marques, F. Gao, B. Holub, J. Rose, N.A. Towne, G.M. Wang
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: NSLS-II, a U.S. Department of Energy Office of Science User Facility operated for the DOE Office of Science by Brookhaven National Laboratory under Contract No. DE-SC0012704.
+The NSLS-II RF system uses an in-house FPGA based low level RF (LLRF) solution called the Cavity Field Controller (CFC). The CFC directs the amplitude and phase for the high power RF and directly influences beam acceleration and stability. In this paper we discuss a logically embedded Network Analyzer (NA) in situ with the digital feedback loop controlled via a MATLAB or EPICS interface. The embedded NA was used to evaluate the RF feedback stability and influence of the feedback parameters on the beam. We will also discuss diagnostics tools to investigate longitudinal beam dynamics and other functionality embedded into the FPGA fabric. Future development of the CFC implementation and hardware upgrades will also be discussed.
+
+ 
+
+
+
+
+
+
+Slides FRFMPLCO01 [2.270 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-FRFMPLCO01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRFMPLCO02
+Design Criteria for LLRF Feedback Systems Stabilizing Superconducting RF Stations
+ 
+
+
+ 
+
+C.H. Rivetta, J.C. Frisch, S.R. Smith
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the DOE contract # DE-AC02-76SF00515
+The LCLS-II RF system is composed by multi-cell superconducting cavities operating in continuous-wave (CW) mode. Multiple external perturbations affecting the RF system are rejected by low-level RF (LLRF) feedback system in order to achieve the specified stability in the accelerating voltage. In this paper, based on the specification of the accelerating voltage performance and the analysis of the external perturbations, the parameters for the LLRF are estimated and optimal designs are proposed in order to stabilize and achieve the performance of the system. Trade offs between different design parameters of the LLRF are analyzed and the robustness of the design in steady-state and during transients are evaluated.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRFMPLIO03
+Overview of Some Feedback & Control Systems at Synchrotron Soleil
+132
+
+
+ 
+
+C. Engblom, Y.-M. Abiven, F. Blache, D.C. Corruble, A. Dawiec, M. Diop, N. Hubert, N. Jobert, S.K. Kubsky, F. Langlois, P. Marchand, G. Renaud
+                       SOLEIL, Gif-sur-Yvette, France
+T. Stankevic
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+This paper gives an overview of some feedback & control systems in Synchrotron SOLEIL that are in use or in development today. Electron Beam stability is something that is being addressed in several SOLEIL applications; Fast Orbit Feedback is a multi-input multi-output control system made to stabilize beam position perturbations with slow and fast corrections. In addition, active RF cavities are used to maintain stable beam energy & spread as well as keeping electron density even throughout the storage ring. Beam stability also comes from feedforward non-linear control in particle trajectory compensation on both sides of electromagnetic undulators. On beamlines, multi-actuator piezos or pneumatics are used to regulate photon flux to keep within detector operating range; a method to maximize the photon flux while keeping detector below damage thresholds. Currently in development at the sample stage level, the Nanoprobe Project (collaboration MAXIV & Soleil) focuses on sample stabilization during step- & fly- scans which is realized through multi-axis nano-positioning with high- & low- frequency closed-loop control implementing interferometer feedback &/or compensation tables.
+
+ 
+
+
+
+
+
+
+Slides FRFMPLIO03 [6.248 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-FRFMPLIO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRFMPLCO04
+Model Predictive Control for Slow Orbit Feedback System of Indus-2
+ 
+
+
+ 
+
+R. Rana, P. Fatnani, R.P. Yadav
+                       RRCAT, Indore (M.P.), India
+
+ 
+
+
+ 
+
+Indus-2 is India's 3rd generation synchrotron radiation source. To provide stable photon beam for user experiments, two types of orbit feedback correction schemes viz. Slow Orbit Feed Back (SOFB) and Fast Orbit Feed Back (FOFB) are provided in the machine. These schemes restrict the perturbations occurring in the electron beam due to various noise sources to the acceptable levels. Earlier the SOFB system was using PID based feedback controller with corrections applied every 20 seconds. To provide advanced features like: predictive and interactive orbit manipulation, predictive orbit movement - simulation, reference tracking, move reverting and constraint model predictive control (MPC) for disturbance rejection, a new controller is implemented and the SOFB system architecture is enhanced to improve the correction rate to 1/3 Hz. This newly developed system not only improves the system operability but also guarantees a stable controller operation. The paper discusses the implementation of MPC in the orbit feedback systems of the synchrotron radiation sources and brings out its advantages towards the constrained orbit corrections.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRFMPLCO05
+A Fast, Custom FPGA-Based Signal Processor and Its Applications to Intra-Train Beam Stabilisation
+137
+
+
+ 
+
+G.B. Christian, N. Blaskovic Kraljevic, R.M. Bodenstein, T. Bromwich, P. Burrows, C. Perry, R.L. Ramjiawan, J. Roberts
+                       JAI, Oxford, United Kingdom
+P. Burrows, C. Perry
+                       Oxford University, Physics Department, Oxford, Oxon, United Kingdom
+J. Roberts
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+A custom 9-channel feedback controller has been developed for low-latency applications in beam-based stabilisation. Fast 14-bit ADCs and DACs are used for high-resolution signal conversion and a Xilinx Virtex-5 FPGA is used for core high-bandwidth digital computation. The sampling, and fast digital logic, can be clocked in the range 200 to 400 MHz, derived from an external or internal source. A custom data acquisition system, based around LabVIEW, has been developed for real-time control and monitoring at up to 460 kbps transfer rates, and is capable of writing and reading from EPICS data records. Details of the hardware, signal processing, and data acquisition will be presented. Two examples of applications will also be presented: a position and angle bunch-by-bunch feedback system using strip-line beam position monitors to stabilise intra-train positional jitter to below the micron level with a latency less than 154 ns; and a phase feedforward system using RF cavity-based phase monitors to stabilise the downstream rms phase jitter to below 50 fs with a total latency less than the 380 ns beam time-of-flight.
+
+ 
+
+
+
+
+
+
+Slides FRFMPLCO05 [2.925 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-FRFMPLCO05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRFMPLCO06
+Harmony: A Generic FPGA Based Solution for Flexible Feedback Systems
+141
+
+
+ 
+
+X. Serra-Gallifa, J.A. Avila-Abellan, M. Broseta, G. Cuní, D. Fernández-Carreiras, O. Matilla, A. Ruz
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+Feedback and complex acquisition systems usually need real-time interaction among instruments with micro-second's time response. These implementations are hard to achieve with processors but feasible using FPGAs. There are some cases, such as synchrotron beamlines, where high flexibility and continuous tuning are also required, but the implementation of multiple full-custom FPGA designs are extremely time-consuming. Harmony is a solution based in FPGA that offers, via high level programming, a unique framework with common time base, data acquisition, storage, real-time processing, data sharing and diagnostic services designed to implement flexible feedback systems. It is based in two interconnect-ed buses: Self-Describing Bus, developed at CERN/GSI under OHWR license, that communicates with Control System; and Harmony Bus which creates a bus frame-work where different modules can share timestamped data capable of pre-programed events generation. The first version of Harmony is already successfully being used in Em# project which objective is the development of a performant four-channel electrometer.
+
+ 
+
+
+
+
+
+
+Slides FRFMPLCO06 [0.861 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-FRFMPLCO06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

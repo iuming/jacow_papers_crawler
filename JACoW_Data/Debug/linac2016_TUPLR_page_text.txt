@@ -1,0 +1,2492 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINAC2016 - Table of Session: TUPLR (Poster Session)
+
+
+TUPLR —  Poster Session   (27-Sep-16   16:00—17:00)
+Chair: L. Popielarski, FRIB, East Lansing, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUPLR001
+Applying Transverse Gradient Undulators to Suppression of Microbunching Instability
+ 
+
+
+TUOP01
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+D. Huang, H.X. Deng, C. Feng, D. Gu, Q. Gu, Z.T. Zhao
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Major State Basic Research Development Program of China (2011CB808300). National Natural Science Foundation of China (NSFC), grant No. 11275253.
+The microbunching instability developed during the beam compression process in the linear accelerator (LIN-AC) of a free-electron laser (FEL) facility has always been a problem that degrades the lasing performance, and even no FEL is able to be produced if the beam quality is destroyed too much by the instability. A common way to suppress the microbunching instability is to introduce extra uncorrelated energy spread by the laser heater that heats the beam through the interaction between the electron and laser beam, as what has been successfully implemented in the Linac Coherent Light Source and Fermi@Elettra. In this paper, a simple and effective scheme is proposed to suppress the microbunching instability by adding two transverse gradient undulators (TGU) before and after the magnetic bunch compressor. The additional uncorrelated energy spread and the density mixing from the transverse spread brought up by the first TGU results in significant suppression of the instability. Meanwhile, the extra slice energy spread and the transverse emittance can also be effectively recovered by the second TGU. The magnitude of the suppression can be easily controlled by varying the strength of the magnetic fields of the TGUs. Theoretical analysis and numerical simulations demonstrate the capability of the proposed technique in the LINAC of an x-ray free-electron laser facility.
+
+ 
+
+
+
+
+
+
+Slides TUPLR001 [1.148 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR002
+CBETA: The Cornell/BNL 4-Turn ERL with FFAG Return Arcs for eRHIC Prototyping
+ 
+
+
+TUOP02
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+G.H. Hoffstaetter, J. Barley, A.C. Bartnik, I.V. Bazarov, J. Dobbins, B.M. Dunham, R.G. Eichhorn, R.E. Gallagher, C.M. Gulliford, Y. Li, M. Liepe, W. Lou, C.E. Mayes, J.R. Patterson, D.M. Sabol, E.N. Smith, K.W. Smolenski
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+I. Ben-Zvi, J.S. Berg, S.J. Brooks, G.J. Mahler, F. Méot, M.G. Minty, S. Peggs, V. Ptitsyn, T. Roser, D. Trbojevic, N. Tsoupas, J.E. Tuozzolo, H. Witte
+                       BNL, Upton, Long Island, New York, USA
+D. Douglas
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Cornell University has prototyped technology essential for any high brightness electron ERL. This includes a DC gun and an SRF injector Linac with world-record current and normalized brightness in a bunch train, a high-current CW cryomodule, a high-power beam stop, and several diagnostics tools for high-current and high-brightness beams, e.g. slid measurements for 6-D phase-space densities, a fast wire scanner for beam profiles, and beam loos diagnostics. All these are now available to equip a one-cryomodule ERL, and laboratory space has been cleared out and is radiation shielded to install this ERL at Cornell. BNL has designed a multi-turn ERL for eRHIC, where beam is transported more than 20 times around the RHIC tunnel. The number of transport lines is minimized by using two non-scaling (NS) FFAG arcs. A collaboration between BNL and Cornell has been formed to investigate the new NS-FFAG optics and the multi-turn eRHIC ERL design by building a 4-turn, one-cryomodule ERL at Cornell. It has a NS-FFAG return loop built with permanent magnets and is meant to accelerate 40mA beam to 200MeV.
+
+ 
+
+
+
+
+
+
+Slides TUPLR002 [7.848 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR005
+Development of 6 MeV European S-band Side-Coupled Industrial Electron Linear Accelerator at RTX & KAERI
+478
+
+
+SPWR002
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+P. Buaphad, S.C. Cha
+                       KAERI, Jeongeup-si, Republic of Korea
+P. Buaphad
+                       University of Science and Technology of Korea (UST), Daejeon, Republic of Korea
+P. Buaphad
+                       RTX, Daejeon, Republic of Korea
+Y. Kim
+                       ISU, Pocatello, Idaho, USA
+
+ 
+
+
+ 
+
+There are growing demands on low energy electron linear accelerator (linac) for industrial applications. Most of industrial electron linacs require a compact structure and limited undesirable neutron production to avoid huge lead shielding. Radiation Technology eXcellence (RTX) and Korea Atomic Energy Research Institute (KAERI) have developed a 6 MeV compact side-coupled linac by using 2998 MHz European S-band RF technology to meet those requirements. To design the linac structure, the 3D CST MICROWAVE STUDIO (CST-MWS) was used for various electromagnetic simulations, and ASTRA code was used for particle beam dynamics simulations. After various optimizations, the shunt impedance of 61 MΩ/m is obtained at 2998.38 MHz. With a peak RF power of 2.2 MW and a 47 cm-long structure, electron beam with a peak current of 150 mA can be accelerated from 25 keV to 6 MeV. For the industrial linac, the electron beam spotsize at an X-ray target, located 5 cm downstream of the linac structure exit should be smaller than 2 mm (FW). In addition, it can supply an X-ray dose rate of 8 Gy/min at 1 m after the X-ray target. In this paper, we describe the design concepts and optimization of the 2998 MHz side-coupled industrial linac structure.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR005
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR006
+State of the Art Advanced Magnetron for Accelerator RF Power Source
+ 
+
+
+TUOP09
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+H. Obata, K. Furumoto, H. Miyamoto
+                       New Japan Radio Co., Ltd., Fujimino Saitama, Japan
+
+ 
+
+
+ 
+
+X ray sources for linear accelerators continue to be a necessary requirement for industries such as medical, inspection, and nondestructive test equipment. Future requirements for such sources are; low cost, compact packaging and high performance of the RF source for electron acceleration. The magnetron has proven to be a perfect source over other RF sources for linear accelerator use. Because of its simple design, low cost per output, small size and proven performance it meets all required characteristics. New Japan Radio Co., Ltd. has improved and modified its linac magnetrons' performance and characteristics enabling easy matching to the linac modulator, long life and maximum output power. This paper will provide a detailed explanation on the improved magnetron design methodology and its effects on the performance of these magnetrons installed in linac systems. These technologies have been utilized successfully on a commercial level worldwide over the last few years. The technology has been deployed into linac systems operating in S and X band and soon C band, at various output power levels.
+
+ 
+
+
+
+
+
+
+Slides TUPLR006 [1.127 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP09
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR007
+LCLS-II Cryomodules Production at Fermilab
+481
+
+
+ 
+
+T.T. Arkan, C.J. Grimm, J.A. Kaluzny, Y.O. Orlov, T.J. Peterson, K. Premo
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: US DOE
+LCLS-II is an upgrade project for the linear coherent light source (LCLS) at SLAC. The LCLS-II linac will consist of thirty-five 1.3 GHz and two 3.9 GHz superconducting RF continuous wave (CW) cryomodules that Fermilab and Jefferson Lab (JLab) will assemble in collaboration with SLAC. The LCLS-II 1.3 GHz cryomodule design is based on the European XFEL pulsed-mode cryomodule design with modifications needed for CW operation. Fermilab and JLab will each assemble and test a prototype 1.3 GHz cryomodule to assess the results of the CW modifications, in advance of 16 and 17 production 1.3 GHz cryomodules, respectively. Fermilab is solely responsible for the 3.9 GHz cryomodules. After the prototype cryomodule tests are complete and lessons learned incorporated, both laboratories will increase their cryomodule production rates to meet the challenging LCLS-II project requirement of approximately one cryomodule per month per laboratory. This paper presents the Fermilab Cryomodule Assembly Facility (CAF) infrastructure for LCLS-II cryomodule production, the Fermilab prototype 1.3 GHz CW cryomodule (pCM) assembly and readiness for production assembly.
+
+ 
+
+
+
+
+
+
+Poster TUPLR007 [2.474 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR007
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR009
+An Iterative Learning Feedforward Controller for the TRIUMF e-linac
+485
+
+
+ 
+
+M.P. Laverty, K. Fong
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+In the TRIUMF e-linac design, beam stability to within 0.1% within 10 μs in pulse mode is a design requirement. Traditional feedback control systems cannot respond within this time frame, so some form of feedforward control is needed. Even conventional feedforward may not be sufficient due to differences between the required feedforward signal and the actual beam-loading current. For this reason, an adaptive feedforward system using an iterative learning controller was developed for the e-linac LLRF. It can anticipate repetitive beam disturbance patterns by learning from previous iterations. The design and implementation of such a control algorithm is outlined, some simulation results are presented, and some preliminary test results with an actual cavity are illustrated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR009
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR010
+Measurements and Analysis of Cavity Microphonics and Frequency Control in the Cornell ERL Main Linac Prototype Cryomodule
+488
+
+
+ 
+
+M. Ge, N. Banerjee, J. Dobbins, R.G. Eichhorn, F. Furutapresenter, G.H. Hoffstaetter, M. Liepe, P. Quigley, J. Sears, V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+The Cornell Main Linac cryomodule (MLC) is a key component in the CBETA project. The SRF cavities with high loaded-Q in the MLC are very sensitive to microphonics from mechanical vibrations. Poor frequency stability of the cavities would dramatically increase the input RF power required to maintain stable accelerating fields in the SRF cavities. In this paper, we present detailed results from microphonics measurement for the cavities in the MLC, discuss dominant vibration sources, and show vibration damping results. The current microphonics level meets the CBETA requirement of a 36MeV energy gain without applying fast tuner compensation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR011
+Performance of the Novel Cornell ERL Main Linac Prototype Cryomodule
+492
+
+
+ 
+
+F. Furuta, J. Dobbins, R.G. Eichhorn, M. Ge, D. Gonnella, G.H. Hoffstaetter, M. Liepe, T.I. O'Connell, P. Quigley, D.M. Sabol, J. Sears, E.N. Smith, V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+The main linac cryomodule (MLC) for the future energy-recovery linac (ERL) based X-ray light source at Cornell has been designed, fabricated, and tested. It houses six 7-cell SRF cavities with individual higher order-modes (HOMs) absorbers, cavity frequency tuners, and one magnet/BPM section. Cavities have achieved the specification values of 16.2MV/m with high-Q of 2.0·1010 in 1.8K in continuous wave (CW) mode. During initial MLC cavity testing, we encountered some field emission, reducing Q and lowering quench field. To overcome field emission and find optimal cool-down parameters, RF processing and thermal cycles with different cool-down conditions has been done. Here we report on these studies and present final results from the MLC cavity performance.
+
+ 
+
+
+
+
+
+
+Poster TUPLR011 [2.389 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR012
+HOM Measurements for Cornell's ERL Main Linac Cryomodule
+496
+
+
+ 
+
+F. Furuta, R.G. Eichhorn, M. Ge, D. Gonnella, G.H. Hoffstaetter, M. Liepe, P. Quigley, V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+The main linac cryomodule (MLC) for a future energy-recovery linac (ERL) based X-ray source at Cornell has been designed, fabricated, and tested. It houses six 7-cell SRF cavities with individual higher order-modes (HOMs) absorbers, cavity frequency tuners, and one magnet/BPM section. All HOMs in MLC have been scanned in 1.8K. The results show effective damping of HOMs, and also agree well with simulation results and the previous HOM scan results on one 7-cell cavity prototype test cryomodule. Here we present detailed results from these HOM studies.
+
+ 
+
+
+
+
+
+
+Poster TUPLR012 [2.773 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR012
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR013
+Lifetime Study of CKk2Sb Robust Photo-Cathode for a High Brightness Electron Source
+500
+
+
+ 
+
+M. Kuriki, Y. Seimiya
+                       KEK, Ibaraki, Japan
+L. Guo, K. Moriya, M. Urano, A. Yokota
+                       HU/AdSM, Higashi-Hiroshima, Japan
+K. Negishi
+                       Iwate University, Morioka, Iwate, Japan
+
+ 
+
+
+ 
+
+CsK2Sb photo-cathode is one of the ideal cathode for accelerators requiring the high brightness electron beam. It can be driven with a green laser which can be generated as SHG from solid state laser. The QE (Quantum Efficiency) of photo-electron emission is as high as more than 10% with 532nm light. In this article, the robustness of the cathode is studied. Two indexes of lifetime regarding to time and extracted charge density were evaluated experimentally. The result shows that the cathode is robust enough for a high brightness accelerator.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR013
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR015
+Design of a Gamma-Ray Source Based on Inverse Compton Scattering at the Fast Superconducting Linac
+503
+
+
+ 
+
+D. Mihalcea
+                       Northern Illinois University, DeKalb, Illinois, USA
+B.T. Jacobson, A.Y. Murokh
+                       RadiaBeam, Santa Monica, California, USA
+P. Piot, J. Ruan
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work is sponsored by the DNDO via contract with NIU.
+A Watt-level average-power gamma-ray source is currently under development at the FermiLab Accelerator Science & Technology (FAST) facility. The source is based on the inverse Compton scattering of a high-brightness 300-MeV beam against a high-power laser beam circulating in an optical cavity. The back scattered gamma rays are expected to have photon energies up to 1.5 MeV. This paper discusses the optimization of the source, its performance and the main challenges ahead.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR017
+Summary of the Test and Installation of 10 MW MBKs for the XFEL Project
+506
+
+
+ 
+
+V. Vogel (Fogel), Ł. Butkowski, A. Cherepenko, S. Chorobapresenter, J. Hartung, V.V. Kachaev, R. Wagner, S. Wiesenberg
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+For the European XFEL project, horizontal multi-beam klystrons (MBK) which produce RF power up to 10 MW, at an RF frequency of 1.3 GHz, 1.5 ms pulse length and 10 Hz repetition rate, were chosen as RF power sources. All MBKs have been manufactured by two companies, 22 tubes from Thales Electron Devices and 7 tubes from Toshiba Electron Tubes & Devices. In this article we will give a summary of the tube testing, conditioning and installation in the underground linear accelerator tunnel.
+
+ 
+
+
+
+
+
+
+Poster TUPLR017 [1.975 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR017
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR020
+Commissioning of the Compact 14MeV LINAC for an FEL-Based THz Source
+509
+
+
+ 
+
+Y.J. Pei, G. Feng, X.Y. He, Y. Hong, G. Huang, D. Jia, K. Jin, J. Liu, P. Lu, L. Shang, B.G. Sun, Zh. X. Tang, W. Wei, Z. Zhao
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+L. Cao, Q.S. Chen, S. Hu, T. Hupresenter, J. Li, Y.J. Liang, B. Qin, B. Tang, T. Tang, Y.Q. Xiong, Q. Zhang
+                       HUST, Wuhan, People's Republic of China
+W. Chen, Y.B. Wang, J. Zha
+                       Huazhong University of Science and Technology, State Key Laboratory of Advanced Electromagnetic Engineering and Technology,, Hubei, People's Republic of China
+G. Feng
+                       DESY, Hamburg, Germany
+Zh. X. Tang
+                       DICP, Dalian, People's Republic of China
+
+ 
+
+
+ 
+
+Commissioning the compact LINAC of 14Mev for a THz source based on FEL Y.J.Pei National Synchrotron Radiation laboratory, University of Science & Technology of China Abstract The compact LINAC of 14MeV is designed for a FEL which will produce a THz radiation through 30μm to 300μm. The LINAC was composed of a novel EC-ITC-RF gun, constant gradient travelling wave accelerator with a collinear absorbing load, focusing system, RF power system, beam diagnostic system, vacuum system, control system and so on. The LINAC was installed on November of 2014. Last year, we finished the install of the undulator and the optical resonance cavities. Now the LINAC has been testing and commissioning for THz radiation test. So far, the running beam parameters of the LINAC are as the following: Energy is of 13.58MeV macro pulse current is of 655mA macro pulse length of 1.2μsμpulse beam current is of 59A beam length of theμpulse is of 4ps energy spread of 0.33% normal beam emmitance is of 24.1mm.mrad.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR020
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR022
+Particulate Study on Materials for Cleanroom Assembly of SRF Cavities
+512
+
+
+ 
+
+L. Zhao, A.V. Reilly
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Reducing particulates is an important aspect for clean-room operation. Knowing that it is impossible to completely eliminate all particulates in a clean room, efforts have been made to prevent particulates from entering SRF cavities during high pressure rinsing (HPR) and assembly. At Jefferson Lab, one practice to achieve this goal has been clamping covers to cavity open flanges during assembly. Several cover materials that have been used are examined and alternative candidate materials are under development. Clamps as a known particulate generator are carefully examined and cleaning efficiency of different methods is studied. Cover tests were done on different cavity flanges, including an LCLS-II beam pipe flange, which helps the selection of cover materials for prototype and production of the project.
+Authored by Jefferson Science Associates, LLC under U.S. DOE Contracts DE-AC05-06OR23177 and DE-AC02-76SF00515 for the LCLS-II Project.
+
+ 
+
+
+
+
+
+
+Poster TUPLR022 [1.282 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR022
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR023
+Impurity Content Optimization to  Maximize Q-Factors of Superconducting Resonators
+515
+
+
+SPWR016
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Martinello, M. Checchin, A. Grassellino, O.S. Melnychuk, S. Posen, A. Romanenko, D.A. Sergatskov
+                       Fermilab, Batavia, Illinois, USA
+M. Checchin
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+J. Zasadzinski
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Quality factor of superconducting radio-frequency (SRF) cavities is degraded whenever magnetic flux is trapped in the cavity walls during the cooldown. In this contribution we study how the trapped flux sensitivity, defined as the trapped flux surface resistance normalized for the amount of trapped flux, depends on the mean free path. A systematic study of a variety of 1.3 GHz cavities with different surface treatments (EP, 120 C bake and different N-doping) is carried out. A bell shaped trend appears for the range of mean free path studied. Over-doped cavities fall at the maximum of this curve defining the largest values of sensitivity. In addition, we have studied the trend of the BCS surface resistance contribution as a function of mean free path, showing that N-doped cavities follow close to the theoretical minimum. Adding these results together we show that the 2/6 N-doping treatment gives the highest Q-factor values at 2 K and 16 MV/m, as long as the magnetic field fully trapped during the cavity cooldown is lower than 10 mG.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR024
+Enhancement of the Accelerating Gradient in Superconducting Microwave Resonators
+519
+
+
+SPWR017
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Checchin, A. Grassellino, M. Martinello, S. Posen, A. Romanenko
+                       Fermilab, Batavia, Illinois, USA
+M. Martinello
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+J. Zasadzinski
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Fermilab is operated by Fermi Research Alliance, LLC under Contract No. DEAC02-07CH11359 with the United States Department of Energy.
+The accelerating gradient of superconducting resonators can be enhanced by engineering the thickness of a dirty layer grown at the cavity's rf surface. In this paper the description of the physics behind the accelerating gradient enhancement by meaning of the dirty layer is carried out by solving numerically the the Ginzburg-Landau (GL) equations for the layered system. The calculation shows that the presence of the dirty layer stabilizes the Meissner state up to the lower critical field of the bulk, increasing the maximum accelerating gradient.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR025
+Optimal Nitrogen Doping Level to Reach High Q0
+523
+
+
+ 
+
+D. Gonnella, T. Gruber, J.J. Kaufman, P.N. Koufalis, M. Liepe, J.T. Maniscalco
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: NSF and US DOE
+New continuous wave (CW) accelerators such as LCLS-II at SLAC require many SRF cavities operating in the medium field region at unprecedented high Q. In order to achieve this demanding goal, nitrogen-doping of the SRF cavities will be used. Nitrogen-doping has been shown to affect the BCS resistance both by a lowering of Rbcs at low fields and by the introduction of an anti-Q slope which enables the Q to continue increasing as the RF field is increased. The exact strength of this anti-Q slope is heavily dependent on the doping recipe and specifically the mean free path of the RF penetration layer of the doped cavities. In addition to its effect on Rbcs, the mean free path affects the amount of residual resistance obtained due to trapped magnetic flux. We have analyzed nine cavities prepared with different levels of nitrogen-doping to understand how BCS and residual resistance are affected by changes in the mean free path. Here we present a model based on these experimental results to predict the optimal doping level to reach the maximum Q at 16 MV/m based on the ambient magnetic field conditions. We find that if the cavities can be cooled with small amounts of trapped flux, moderate nitrogen-doping is better, while if they will have large amounts of trapped flux, lighter dopings should be used.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR027
+Magnetic Field Management in LCLS-II 1.3 GHz Cryomodules
+527
+
+
+ 
+
+S.K. Chandrasekaran, A. Grassellino, C.J. Grimm, G. Wu
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. De-AC02-07CH11359 with the United States Department of Energy.
+The ambient magnetic field at the SRF cavity surface of the LCLS-II 1.3 GHz cryomodules is specified to be less than 0.5 μT (5 mG). Multiple methods were designed to lower the magnetic fields inside the prototype cryomodule. The resulting ambient magnetic field in this cryomodule just prior to its first cool down was <0.15 μT (1.5 mG), as measured using fluxgates inside and outside the cavity helium vessels.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR027
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR028
+Alternative Design for the RISP Pre-Stripper Linac
+531
+
+
+ 
+
+B. Mustapha, Z.A. Conway, M.P. Kelly, P.N. Ostroumov, A.S. Plastun
+                       ANL, Argonne, USA
+J.-H. Jang, H. Jin, H.J. Kim, J.-W. Kim
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: This work was supported by the work-for-other grant WFO8550H titled "Pre-conceptual design, cost and schedule estimate of the 18.5 MeV/u Pre-stripper linac for the RISP/IBS"
+In a collaborative effort between Argonne's Linac Development Group and the RISP project team at the Korean Institute for Basic Science, we have developed an alternative design for the pre-stripper section of the RISP driver linac. The proposed linac design takes advantage of the recent accelerator developments at Argonne, namely the ATLAS upgrades and the Fermilab PIP-II HWR Cryomodule. In particular, the state-of-the-art performance of QWRs and HWRs, the integrated steering correctors and clean BPMs for a compact cryomodule design. To simplify the design and avoid frequency transitions, we used two types of QWRs at 81.25 MHz. The QWRs were optimized for β ~ 0.05 and ~ 0.11 respectively. Nine cryomodules are required to reach the stripping energy of 18.5 MeV/u. Following the lattice design optimization, end-to-end beam dynamics simulations including all sources of machine errors were performed. The results showed that the design is tolerant to errors with no beam losses observed for nominal errors. However, the robustness of the design could be further improved by a modified RFQ design, better optimized with the multi-harmonic buncher located upstream. This could lead to a significant reduction in the longitudinal beam emittance, offering much easier beam tuning and more tolerance to errors. The proposed design and the simulation results will be presented and discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR028
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR029
+FRIB HWR Tuner Development
+535
+
+
+ 
+
+S. Stark, A. Facco, S.J. Miller, P.N. Ostroumov, J.T. Popielarski, K. Saito, B.P. Tousignant, T. Xu
+                       FRIB, East Lansing, USA
+A. Facco
+                       INFN/LNL, Legnaro (PD), Italy
+S.M. Gerbick, M.P. Kelly
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: * This material is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661, the State of Michigan and Michigan State University
+During the last two years the HWR pneumatic tuner development at FRIB evolved from the first prototypes to the final production design. A lot of warm testing and several cryogenic integrated tests with cavity were performed to optimize the tuner features. The main challenges included the bellow bushings binding and very tight space limitations for the assembly on the rail. The final design, based on the acquired experience, was prepared in collaboration with ANL and entered the preproduction phase.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR029
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR030
+First FRIB β=0.53 Prototype Coldmasss Build
+538
+
+
+ 
+
+D.R. Victory, K. Elliott, B. Oja, J.T. Popielarski, M.S. Wilbur
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE SC0000661, the State of Michigan and Michigan State University.
+The β=0.53 coldmass consists of eight Superconducting Radio Frequency (SRF) β=0.53 cavities, eight Fundamental mode Power Couplers (FPC), and one 8 T solenoid. This is the first coldmass with this version of cavity and it has brought new challenges to overcome. The Facility for Rare Isotope Beams (FRIB) contains 18 cryomodules with β=0.53 cavity coldmasses, and this type of coldmass is the highest power and most produced ones in FRIB. During the final cleaning stage and the cavity assembly, particle detection equipment is used to verify the cavity cleanliness levels for cavity certification test and for coldmass assembly. This method allows for cleanliness detection of specific areas inside the cavity at any time a vacuum flange is off. The fixtures, techniques and procedures used to build the β=0.53 coldmasses will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR033
+First FRIB β=0.041 Production Coldmass Build
+541
+
+
+ 
+
+K. Elliott, S.J. Miller, B. Oja, J.T. Popielarski, L. Popielarski, D.R. Victory, M.S. Wilbur, T. Xu
+                       FRIB, East Lansing, USA
+M. Wiseman
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE SC0000661, the State of Michigan and Michigan State University.
+Three β=0.041 cryomodules are required for the Facility for Rare Isotope Beams (FRIB) accelerator. Cleanroom assembly of all three coldmasses for these cryomodules has been completed. The cleanroom assembly includes; the superconducting radio frequency (SRF) cavities, the superconducting solenoids, fundamental power couplers (FPC), beam position monitors, alignment rail, and transport cart. This paper will provide an overview of the techniques and procedures used to assemble this cavity string such that it can be used in the FRIB accelerator.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR035
+RF Analysis of Electropolishing for EXFEL Cavities Production at Ettore Zanon Spa
+544
+
+
+ 
+
+A.A. Sulimov
+                       DESY, Hamburg, Germany
+M. Giaretta, A. Gresele, A. Visentin
+                       Ettore Zanon S.p.A., Nuclear Division, Schio, Italy
+
+ 
+
+
+ 
+
+After successful finishing of superconducting cavities mass production at Ettore Zanon S.p.A. (EZ) for the European XFEL (EXFEL), the authors had the possibility to provide a detailed analysis of the electropolishing (EP) process. The analysis of EP material removal is based on specified RF measurements and was used for the determination of both, the ratio between cavity's iris and equator and uniformity in different cells. A comparison of the RF measurements results with mechanical measurements is presented.
+
+ 
+
+
+
+
+
+
+Poster TUPLR035 [0.195 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR035
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR038
+The DTL Post Coupler - An Ingenious Invention Turns 50
+547
+
+
+ 
+
+S. Ramberger
+                       CERN, Geneva, Switzerland
+M.R. Khalvati
+                       IPM, Tehran, Iran
+
+ 
+
+
+ 
+
+In September 1967, the patent for "A method and device for stabilization of the field distribution in drift tube linac" has been filed by Edward A. Knapp, Donald A. Swenson, and James M. Potter of Los Alamos National Laboratory. It is this invention which to a good part led to the success of highly efficient Alvarez drift tube linacs (DTLs) in that it considerably reduces field errors. The explanation for why the post coupler when tuned correctly has such a strong stabilizing effect has been given at the time in an accompanying paper by describing the modal confluence of the accelerating mode band with the post-coupler mode band, turning a comparatively sensitive 0-mode structure into a stable pi/2-mode like structure. As ingenious as the invention of the post-coupler appears, as poor has been the way of finding its optimum length by relying mainly on trial and error. With the design of the Linac4 DTL at CERN, a new technique has been derived by a DTL equivalent circuit model. Understanding stabilization on an almost cell by cell level provides a new way of optimizing post-couplers of an entire structure with few measurements and even without the extraction of the circuit model itself. Previous approaches to post-coupler stabilization are reviewed and the new, straightforward and accurate technique is described and demonstrated in the stabilization of the Linac4 DTL structures.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR038
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR040
+The RF System of Thomx
+551
+
+
+ 
+
+M. El Khaldi, R. Marie, H. Monard, F. Wicek
+                       LAL, Orsay, France
+M. Diop, L.R. Lopes, A. Loulergue, M. Louvet, P. Marchand, F. Ribeiro, R. Sreedharan
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+The RF system of the ThomX electron storage ring consists in a 500 MHz single cell copper cavity of the ELETTRA type, powered with a 50 kW CW solid state power amplifier (SSPA), and the associated Low Level RF feedback and control loops. The low operating energy of 50/70 MeV makes the impedances of the cavity higher order modes (HOMs) particularly critical for the beam stability. Their parasitic effects on the beam can be cured by HOM frequency shifting techniques, based on a fine temperature tuning and a dedicated plunger. A typical cavity temperature stability of ± 0.05°C within a range from 30 up to 70 °C can be achieved by a precise control of its water cooling temperature. On the other hand, the tuning of the cavity fundamental mode is achieved by changing its axial length by means of a motor-driven mechanism. A general description of the system and the state of its progress are reported together with some considerations of the effects of beam cavity interactions.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR040
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR041
+Manufacturing, Assembly and Tests of the LIPAc Medium Energy Beam Transport Line (MEBT)
+554
+
+
+ 
+
+I. Podadera, P. Abramian, B. Brañas, J. Calero, J. Castellanos, J.M. García, D. Gavela, A. Guirao, J.L. Gutiérrez, D. Jiménez-Rey, M. Lafoz, D. López, L.M. Martínez, E. Molina Marinas, J. Mollá, C. Oliverpresenter, A. Soleto, F. Toral, R. Varela, V. Villamayor
+                       CIEMAT, Madrid, Spain
+J. Castellanos
+                       UNED, Madrid, Spain
+O. Nomen
+                       IREC, Sant Adria del Besos, Spain
+
+ 
+
+
+ 
+
+Funding: This work has been funded by the Spanish Ministry of Economy and Competitiveness under the Agreement as published in BOE, 16/01/2013, page 1988 and the project FIS2013-40860-R.
+LIPAc* will be a 9 MeV, 125 mA CW deuteron accelerator which aims to validate the technology that will be used in the future IFMIF-DONES accelerator**. The acceleration of the beam will be carried out in two stages. An RFQ will increase the energy up to 5 MeV before a Superconducting RF (SRF) linac made of a chain of eight Half Wave Resonators bring the particles to the final energy. Between both stages, a Medium Energy Beam Transport line (MEBT)*** is in charge of transporting and matching the beam between the RFQ and the SRF. The transverse focusing of the beam is controlled by five quadrupole magnets with integrated steerers, grouped in one triplet and one doublet. Two buncher cavities surrounding the doublet handle the longitudinal dynamics. Two movable collimators are also included to purify the beam optics coming out the RFQ and avoid losses in the SRF. In this contribution, the final integrated design of the beamline will be shown, together with the auxiliaries. The manufacturing of all the components and the integration in the beamline will be depicted. The final tests carried out to the beamline prior to the installation in the accelerator will be also reported.
+* P. Cara et al., IPAC16, to be published, Busan, Korea (2016).  ** A. Ibarra et al., Fus. Sci. Tech., 66, 1, p. 252-259 (2014). *** I. Podadera et al., IPAC11, San Sebastian, Spain (2011).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR041
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR044
+Design and Operation of Pulsed Power Systems Built to ESS Specifications
+558
+
+
+ 
+
+M.K. Kempkes, M.P.J. Gaudreau, M.G. Munderville, I. Roth
+                       Diversified Technologies, Inc., Bedford, Massachusetts, USA
+J. Domenge
+                       Sigma Phi Electronics, Wissembourg, France
+J.L. Lancelot
+                       Sigmaphi, Vannes, France
+
+ 
+
+
+ 
+
+Diversified Technologies, Inc. (DTI), in partnership with SigmaPhi Electronics (SPE) has built three long pulse solid-state klystron transmitters to meet spallation source requirements. Two of the three units are installed at CEA Saclay and the National Institute of Nuclear and Particle Physics (IN2P3), where they will be used as test stands for the European Spallation Source (ESS). The systems delivered to CEA and IN2P3 demonstrate that the ESS klystron modulator specifications (115 kV, 25 A per klystron, 3.5 ms, 14 Hz) have been achieved in a reliable, manufacturable, and cost-effective design. There are only minor modifications required to support transition of this design to the full ESS Accelerator, with up to 100 klystrons. The systems will accommodate the recently-determined increase in average power (~660 kW), can offer flicker-free operation, are equally-capable of driving Klystrons or MBIOTs, and are designed for an expected MTBCF of over ten years, based on operational experience with similar systems.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR044
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR045
+Thyratron Replacement
+561
+
+
+ 
+
+I. Roth, M.P.J. Gaudreau, M.K. Kempkespresenter, M.G. Munderville
+                       Diversified Technologies, Inc., Bedford, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: *Work supported by DOE under contract DE-SC0011292
+Semiconductor thyristors have long been used as a replacement for thyratrons in low power or long pulse RF systems. To date, however, such thyristor assemblies have not demonstrated the reliability needed for installation in short pulse, high peak power RF stations used with many pulsed electron accelerators. The fast rising current in a thyristor tends to be carried in a small region, rather than across the whole device, and this localized current concentration can cause a short circuit failure. An alternate solid-state device, the insulated-gate bipolar transistor (IGBT), can readily operate at the speed needed for the accelerator, but commercial IGBTs cannot handle the voltage and current required. It is, however, possible to assemble these devices in arrays to reach the required performance levels without sacrificing their inherent speed. Diversified Technologies, Inc. (DTI) has patented and refined the technology required to build these arrays of series-parallel connected switches. DTI is currently developing an affordable, reliable, form-fit-function replacement for the klystron modulator thyratrons at SLAC capable of pulsing at 360 kV, 420 A, 6μs, and 120 Hz.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR045
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR046
+Design, Fabrication, Installation and Operation of New 201 MHz RF Systems at LANSCE
+564
+
+
+ 
+
+J.T.M. Lyles, W.C. Barkley, R.E. Bratton, M.S. Prokop, D. Rees
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the United States Department of Energy, National Nuclear Security Agency, under contract DE-AC52-06NA25396.
+The LANSCE RM project has restored the proton linac to high power capability after the RF power tube manufacturer could no longer provide devices that consistently met the high average power requirement. Diacrodes® now supply RF power to three of the four DTL tanks. These tetrodes reuse the existing infrastructure including water-cooling systems, coaxial transmission lines, high voltage power supplies and capacitor banks. Each final power amplifier system uses a combined pair of LANL-designed cavity amplifiers using the TH628L Diacrode® to produce up to 3.5 MW peak and 420 kW of mean power. A new intermediate power amplifier was developed using a TH781 tetrode. These amplifiers are the first production of new high power 200 MHz RF sources at accelerators in three decades. Design and prototype testing of the high power stages was completed in 2012, with commercialization following in 2013. Each installation was accomplished during a 4 to 5 month beam outage each year staring in 2014. Simultaneously, a new digital low-level RF control system was designed and tested, and placed into operation this year, meeting the stringent field control requirements for the linac. The rapid-paced installation project changed over from old to new RF systems while minimizing beam downtime to the user facility schedule.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR046
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR047
+Commissioning of XBox-3: A Very High Capacity X-band Test Stand
+568
+
+
+ 
+
+N. Catalán Lasheras, C.F. Eymin, J. Giner Navarro, G. McMonagle, S.F. Rey, A. Solodko, I. Syratchev, B.J. Woolley, W. Wuensch
+                       CERN, Geneva, Switzerland
+T. Argyropoulos, D. Esperante Pereira
+                       IFIC, Valencia, Spain
+M. Volpi
+                       The University of Melbourne, Melbourne, Victoria, Australia
+
+ 
+
+
+ 
+
+The Compact Linear Collider (CLIC) beam-based acceleration baseline uses high-gradient travelling wave accelerating structures at a frequency of 12 GHz. In order to prove the performance of these structures at high peak power and short pulse width RF, two klystron-based test facilities have been put in operation in the last years. The third X-band testing facility at CERN (Xbox3) has recently been commissioned and has tripled the number of testing slots available. Xbox3 uses a novel way of combining relatively low peak power (6 MW) but high average power klystron units whose power is steered to feed four testing slots with RF to the required power with a repetition rate of up to 400 Hz. Besides the repetition rate, peak power, pulse length and pulse shape can be customized to fit the test requirements. This novel way of combining pulsed RF high power can eventually be used for many other applications where multiple test slots are required.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR047
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR048
+Status and Lesson Learned from Manufacturing of FPC Couplers for the XFEL Program
+572
+
+
+ 
+
+S. Sierra, G. Garcin, Ch.L. Lievin, G. Vignette
+                       TED, Velizy-Villacoublay, France
+A. Gallas, W. Kaabi
+                       LAL, Orsay, France
+M. Knaak, M. Pekeler, L. Zweibaeumer
+                       RI Research Instruments GmbH, Bergisch Gladbach, Germany
+
+ 
+
+
+ 
+
+For the XFEL accelerator, Thales, RI research Instrument and LAL are working on the manufacturing, assembly and conditioning of Fundamental power couplers. 670 couplers has been manufactured. The main characteristics of these couplers are remained at 1.3 GHz. The paper describes the full production activity from the starting of the program We describe the lesson learned from a mass production of FPC coupler and different steps necessaries for obtaining a rate up to 10 couplers a week. we propose also some other way to be optimized for a future possible mass production of such components. With comparison of processes and adaptation which could benefit to an increase rate, if needed, including some of them which could be studies from the coupler definition to the manufacturing process in order to obtain a stable and possible increased rate or lower cost of production by decreasing the risks on programs. The status of the production curve during the program is also given
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR048
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR049
+Latest Cryogenic Testing of the 2.1 GHz Five-Cell Superconducting RF Cavity with a Photonic Band Gap Coupler Cell
+ 
+
+
+TUOP12
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Arsenyev, R.J. Temkin
+                       MIT/PSFC, Cambridge, Massachusetts, USA
+C.H. Boulware, T.L. Grimm, A. Rogacki
+                       Niowave, Inc., Lansing, Michigan, USA
+W.B. Haynes, D.Y. Shchegolkov, E.I. Simakovpresenter, T. Tajima
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+We present results from the latest of the two cryogenic tests with the first multi-cell superconducting radio frequency (SRF) cavity with a photonic band gap (PBG) coupler cell. Achieving higher average beam currents is particularly desirable for future light sources and particle colliders based on SRF energy-recovery-linacs (ERLs). Beam current in ERLs is limited by the beam break-up instability, caused by parasitic HOMs interacting with the beam in accelerating cavities. A PBG cell incorporated in an accelerating cavity can reduce the negative effect of HOMs by providing a frequency selective damping mechanism, thus allowing significantly higher beam currents. The multi-cell cavity was designed and fabricated of niobium. After an unsuccessful first cryogenic test, modifications were wade to waveguide coupler joints. In the second test, the high cavity Q-factor was demonstrated at the temperature of 4.2 K at accelerating gradients up to 3 MV/m. The measured value of the cavity Q-factor was 1.55*108, in agreement with prediction.
+
+ 
+
+
+
+
+
+
+Slides TUPLR049 [1.046 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR050
+Design of 4-vane RFQ with Magnetic Coupling Windows for Nuclotron Injector Lu-20
+575
+
+
+ 
+
+V.A. Koshelev, G. Kropachev, T. Kulevoy, D.A. Liakin, A.S. Plastunpresenter
+                       ITEP, Moscow, Russia
+A.V. Butenko
+                       JINR, Dubna, Moscow Region, Russia
+T. Kulevoy, S.M. Polozov
+                       MEPhI, Moscow, Russia
+S.V. Vinogradov
+                       MIPT, Dolgoprudniy, Moscow Region, Russia
+
+ 
+
+
+ 
+
+Alvarez-type linac LU-20 is used as Nuclotron injector. In the framework of NICA project the high voltage electrostatic pre-injector for LU-20 has been replaced by RFQ linac. The RFQ was designed by the team of ITEP and MEPhI (Moscow, Russia) and was manufactured in VNIITF (Sneginsk, Russia). The engineering design of the 4-vane RFQ linac with magnetic coupling windows and details of its manufacturing are presented and discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR050
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR053
+Development and Measurements of a 325 MHz RFQ
+578
+
+
+SPWR026
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Schütt, M.A. Obermayer, U. Ratzinger
+                       IAP, Frankfurt am Main, Germany
+A. Schnase
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+In order to have an inexpensive alternative to 4-Vane RFQs above 200 MHz, we study the possibilities of a Ladder-RFQ. The 325 MHz RFQ is designed to accelerate protons from 95 keV to 3.0 MeV according to the design parameters of the research program with cooled antiprotons at FAIR. This particular high frequency for an RFQ creates difficulties, which are challenging in developing a cavity, especially for 4-ROD RFQs, which dimensions become critically small with increasing the frequency. In order to define a satisfying geometrical configuration for this resonator, both from the RF and the mechanical point of view, different designs have been examined and compared. Very promising results were reached with a ladder type RFQ, which has been investigated since 2013. Due to its geometry, the manufacturing in terms of complexity, time and costs is more beneficial compared to welded accelerators. Furthermore, maintenance is easy to handle. The manufacturing, coppering and assembling of a 0.8 m prototype RFQ is finished. We present recent measurements of the RF-field including power measurements, frequency-tuning, field flatness as well as power measurements.
+
+ 
+
+
+
+
+
+
+Poster TUPLR053 [47.463 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR053
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR054
+RFQ Vane Shapes for Efficient Acceleration
+581
+
+
+ 
+
+Y. Iwashita, Y. Fuwa
+                       Kyoto ICR, Uji, Kyoto, Japan
+R.A. Jameson
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+RFQ vane shapes for efficient acceleration are under investigation by introducing more terms in addition to the two term potential. They can incorporate with the feature of the trapezoidal shape modulation with less multipole components, while higher acceleration efficiency is expected. The simulation study will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR054
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR056
+Results of Operation of 162.5 MHz RFQ Couplers
+584
+
+
+ 
+
+S. Kazakov, J.P. Edelen, T.N. Khabiboulline, O.V. Pronitchev, J. Steimel
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Two couplers for RFQ of PXEI facility were designed and manufactured. Each coupler designed to deliver 50 KW, CW to RFQ at 162.5 MHz. Results of couplers operation are reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR056
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR057
+Advanced Design Optimizations of a Prototype for a Newly Revised 4-Rod CW RFQ for the HLI at GSI
+586
+
+
+SPWR011
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D. Koser, H. Podlech
+                       IAP, Frankfurt am Main, Germany
+P. Gerhard, L. Groening
+                       GSI, Darmstadt, Germany
+O.K. Kester
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+Within the scope of the FAIR project (Facility for Antiproton and Ion Research) at GSI Helmholtz Centre for Heavy Ion Research in Darmstadt, Germany, the front end of the existing High Charge State Injector (HLI) is upgraded for cw operation. The dedicated new 4-Rod RFQ structure is currently being designed at the Institute for Applied Physics (IAP) of the Goethe University of Frankfurt. The overall design is based on the RFQ structures that were originally developed for FRANZ* and MYRRHA**. Regarding the HLI-RFQ the comparatively low operating frequency of 108 MHz causes a general susceptibility towards mechanical vibrations especially concerning the electrodes because of the necessarily larger distance between the stems. Besides RF simulations and basic thermal simulations with CST Studio Suite, the key issues like mechanical electrode oscillations as well as temperature distribution from heat loss in cw operation are investigated with simulations using ANSYS Workbench. At first instance a dedicated 6-stem prototype is currently being manufactured in order to validate the simulated RF performance, thermal behavior and structural mechanical characteristics.
+*M. Heilmann et al., A Coupled RFQ-IH Cavity for the Neutron Source FRANZ, IPAC13  **C. Zhang, H. Podlech, New Reference Design of the European ADS RFQ Accelerator For MYRRHA, IPAC14 
+
+ 
+
+
+
+
+
+
+Poster TUPLR057 [1.484 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR057
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR058
+Progress of a 162.5 MHz High-Current RFQ With Coupling Windows
+589
+
+
+SPWR005
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Q. Fu, P.P. Gan, S.L. Gao, F.J. Jia, H.P. Li, Y.R. Lu, Z. Wang, K. Zhu
+                       PKU, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by National Basic Research Program of China(2014CB845503)
+A 162.5 MHz, four-vane RFQ with magnetic coupling windows has been designed by the RFQ group of Peking University. Clear frequency separation of the resonant modes and smaller transverse dimension are the advantages of the window-type RFQ. The electromagnetic simulations have shown that the average power loss of this 1.809 m long RFQ is about 50 kW in continuous wave mode. Consequently, a water cooling system was designed via the multi-physics analysis. The mechanical design and assembling technology were also presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR058
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR059
+Asymmetric Four-Vane RFQ
+592
+
+
+ 
+
+A.S. Plastun
+                       ANL, Argonne, Illinois, USA
+A. Kolomiets, D.A. Liakin
+                       ITEP, Moscow, Russia
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy, Office of Nuclear Physics, under Contract No. DE-AC02-06CH11357.
+A four-vane resonator is widely used in Radio Frequency Quadrupole (RFQ) accelerators. The field distribution in a long four-vane resonator can be easily perturbed by nearest dipole modes which are excited due to the local geometry errors. This paper describes the electromagnetic properties of a four-vane resonator with an introduced asymmetry between neighboring chambers. The asymmetry provides necessary separation of dipole modes keeping losses and field uniformity of quadrupole mode similar to those in a conventional four-vane resonator. This feature of an asymmetric resonator is confirmed by analytical results from transmission line model as well as by CST Studio simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR059
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR060
+RF Design of the Nuclotron-NICA 145.2 MHz RFQ
+595
+
+
+ 
+
+A.S. Plastun, V. Andreev, V.A. Koshelev, T. Kulevoy, V.G. Kuzmichev, D.A. Liakin, A. Sitnikov
+                       ITEP, Moscow, Russia
+A.V. Butenko
+                       JINR, Dubna, Moscow Region, Russia
+
+ 
+
+
+ 
+
+ITEP has designed the Radio-Frequency Quadrupole (RFQ) linac for the JINR NICA Complex (Dubna, Russia) to provide ion beams (q/A ≥ 0.3) with energy of 156 keV/u for further acceleration by existing Alvarez-type linac. The RFQ is based on a 4-vane structure with magnetic coupling windows in order to avoid a risk of excitation of dipole field components inherent in a conventional 4-vane resonator. The paper presents results of the radio-frequency (RF) design and capabilities used for coarse and fine tuning of the field distribution and resonant frequency during manufacturing and finalizing of the RFQ.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR060
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR061
+Cryomodule and Power Coupler for RIKEN Superconducting QWR
+598
+
+
+ 
+
+K. Ozeki, O. Kamigaito, H. Okuno, N. Sakamoto, K. Suda, Y. Watanabe, K. Yamada
+                       RIKEN Nishina Center, Wako, Japan
+E. Kako, H. Nakai, K. Umemori
+                       KEK, Ibaraki, Japan
+K. Okihira
+                       MHI, Hiroshima, Japan
+K. Sennyu, T. Yanagisawa
+                       MHI-MS, Kobe, Japan
+
+ 
+
+
+ 
+
+In RIKEN Nishina Center, we are constructing a prototype of low-beta superconducting QWR for ions. Presently, the designs of cryomodule, which contains two QWRs, and power coupler are being carried out. In this contribution, the progress situation for the construction of cryomodule and power coupler will be reported. This work was funded by ImPACT Program of Council for Science, Technology and innovation (Cabinet Office, Government of Japan).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR061
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR063
+IMPACT Model for ReA and its Benchmark with DYNAC
+601
+
+
+ 
+
+T. Yoshimoto, M. Ikegami
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: * Work supported by the U.S. National Science Foundation under Grant No. PHY-11-02511 ** Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661
+Abstract New online model for ReAccelerator 3 (ReA3) has been developed for actual beam tunings using IMPACT, which is one of famous particle tracking codes in accelerator field. DYNAC model was used for ReA3 optics calculation. However it basically can calculate symmetric cavity, not axisymmetric ones such as super-conductive Quarter-Wave Resonators (QWRs), which are installed in ReA3. This means that it is difficult to effectively tune beams at present situation. In order to handle beams at ReA3, a new alternative and more precise model of IMPACT is under development, which would be acceptable to actual beam operation. This paper reports benchmarked results of IMPACT and DYNAC model for ReA3 acceleration line just after RFQ exit to a transport line with symmetric cavity as a first step before more precise simulation including non-axisymmetric cavity and RFQ calculation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR063
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR066
+High Current Beam Injector for Cancer Therapy
+604
+
+
+ 
+
+L. Lu, Y. He, C.X. Li, W. Ma, L.B. Shi, L.P. Sun, X.B. Xu, L. Yang, H.W. Zhao
+                       IMP/CAS, Lanzhou, People's Republic of China
+T.L. He
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+A hybrid single cavity (HSC) linac, which is formed by combining a radio frequency quadrupole (RFQ) and a drift tube (DT) structure into one interdigital-H (IH) cavity, is fabricated and assembled as a proof of principle injector for cancer therapy synchrotron, based on the culmination of several years of research. The HSC linac adopts a direct plasma injection scheme (DPIS), which can inject a high intensity heavy ion beam produced by a laser ion source (LIS). The input beam current of the HSC is designed to be 20 mA C6+ ions. According to numerical simulations, the HSC linac can accelerate a 6-mA C6+ beam, which meets the requirement of the needed particle number for cancer therapy (108~9 ions/pulse). The HSC injector with the DPIS method makes the existing multi-turn injection system and stripping system unnecessary, and can also bring down the size of the beam pipe in existing synchrotron magnets, which could reduce the whole cost of synchrotron. The radio frequency (RF) measurements show excellent RF properties for the resonator, with a measured Q equal to 91% of the simulated value. A C6+ ion beam extracted from the LIS was used for the HSC commissioning. In beam testing, we found the measured beam parameters agreed with simulations. More details of the measurements and the results of the high power test are reported in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR066
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR067
+Solenoid/Magnetic Shielding Test Results in FRIB-1&2 Cryomodules
+607
+
+
+SPWR006
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D. Luo, H. Ao, E.E. Burkhardt, J. Casteel, A. Ganshyn, W. Hartung, M.J. Holcomb, J.T. Popielarski, K. Saito, S. Shanab, E. Supangco, M. Thrush
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661, the State of Michigan and Michigan State University.
+Recently we did bunker tests for FRIB first cryomodule (CM-1) and second one (CM-2) which houses 0.085 QWRs and solenoid packages. Their performances were successfully validated in the full configuration. This paper reports the solenoid package tests results.
+
+ 
+
+
+
+
+
+
+Poster TUPLR067 [4.899 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR067
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR068
+Progress and Design Studies for the ATLAS Multi-User Upgrade
+610
+
+
+ 
+
+B. Mustapha, P.N. Ostroumov
+                       ANL, Argonne, USA
+A. Perry
+                       Soreq NRC, Yavne, Israel
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. DOE Office of Nuclear Physics, under Contract No. DE-AC02-06CH11357. This research used resources of ANL's ATLAS facility, a DOE Office of Science User Facility.
+The motivations and the concept for the multi-user upgrade of the ATLAS facility at Argonne were presented at recent conferences. With the near completion of the integration of the CARIBU-EBIS for more pure and efficient charge breeding of radioactive beams, more effort is being devoted to study the design options for a potential ATLAS mutli-user upgrade. The proposed upgrade will take advantage of the pulsed nature of the EBIS beams and the cw nature of ATLAS, in order to simultaneously accelerate beams with very close charge-to-mass ratios. In addition to enhancing the nuclear physics program, beam extraction at different points along the linac will open up the opportunity for other possible applications. Different beam injection and extraction schemes are being studied and will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR068
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR069
+Simulation Study on the Beam Loss Mitigation in the 1st Arc Section of FRIB Driver Linac
+613
+
+
+ 
+
+T. Maruta
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+M. Ikegami, F. Marti
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661.
+The Facility of Rare Isotope Beams (FRIB) at Michigan State University is now under construction toward user operation in year 2020. Charge-state transition of accelerating ions occurs in the beam line due to interaction with the residual gas. Since this exchange changes charge to mass ratio of the ions, the ion orbit is distorted especially in an arc section with the ion potentially hitting the vacuum pipe. This will generate outgassing from the beamline pipe. Moreover, they become a seed of further charge-state exchanges. Therefore, a collimation of charge exchanged ions is necessary to prevent this feedback cycle. In this presentation, the results of a simulation study on charge exchange reaction in the 1st arc section of FRIB and optimization of collimator position are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR069
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR070
+Efficient Heavy Ion Acceleration with IH-Type Cavities for High Current Machines in the Energy Range up to 11.4 MeV/u
+616
+
+
+ 
+
+H. Hähnel, U. Ratzinger, R. Tiede
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+Funding: BMBF 05P15RFRBA
+We propose an efficient design for heavy ion acceleration from 1.4 to 11.4 MeV/u with a design current of 15 emA for a Uranium 28+ beam. The proposed linac is based on IH-DTL cavities and quadrupole triplet focusing. The KONUS beam dynamics concept is used to achieve high acceleration efficiency. By optimization of the transversal focusing scheme and the longitudinal bunch center motion, low emittance growth for the entire linac is achieved. Beam dynamics simulations were performed along with 3D rf-simulations of all cavities. The cavities are designed for 108.408 MHz, reaching an effective shunt impedance of 100-200 MOhm/m. The overall length of the linac is below 25 m. A mechanical realization concept employing a modular tank design is presented. The proposed design is a viable option for the GSI UNILAC poststripper linac replacement, leaving free space in the UNILAC tunnel for future energy upgrades.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR070
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR072
+Fabrication and Low Temperature Test Plan for Rare Isotope Science Project
+619
+
+
+ 
+
+W.K. Kim, M.J. Joung, Y. Jung, H. Kim, J.-W. Kim, Y. Kim, I. Shin
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+Quarter-wave resonator (QWR), half-wave resonator (HWR) and single-spoke resonator (SSR) cryomodules are used for RAON accelerator. The layout of RAON accelerator and three types of cryomodules such as QWR, HWR and SSR are shown in the linac. SRF test facility which consists of cryoplant, cleanroom, vertical test facility and horizontal test facility is constructed. Cleanroom has high pressure rinsing (HPR), ultrasonic cleaning (USC), buffered chemical polishing (BCP), high vacuum furnace and cavity assemble place. The test plan for cavity and cryomodules is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR072
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR073
+Development of RAON QWR Cryomodule for Linac Demonstration
+622
+
+
+ 
+
+H. Kim, J.W. Choi, Y.W. Jo, Y. Jung, W.K. Kim, Y. Kim, M. Lee
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+Quarter-wave resonator (QWR) cryomodule is developed for linac demonstraction. The plan and layout of the linac demonstration are shown. 3D drawing and P&ID are shown for the quarter-wave resonator (QWR) cryomodule. The QWR cryomodule consists of cavity, coupler, tuner, liquid helium reservoir, thermal shield and magnetic shield. PLC rack is fabricated to control the QWR cryomodules. The PLC controls and monitors pumps, heaters, cryogenic valves, solenoid valves, gate valves and temperature sensors.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR073
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR075
+First Experiments at the CW-Operated RFQ for Intense Proton Beams
+ 
+
+
+SPWR014
+  use link to access more material from this paper's primary paper code
+ 
+
+
+TUOP05
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+P.P. Schneider, D. Born, M. Droba, C. Lorey, O. Meusel, D. Noll, H. Podlech, A. Schempp, B. Thomas, C. Wagner
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+This contribution describes the first experiments with the cw-operated RFQ*, which is designed to accelerate protons from 120keV to 700keV for the FRANZ-Project**. The commissioning is done using the RF and ion beam scrubbing technique. In the first phase, the acceptance of the RFQ is scanned and the performance of the RFQ without space-charge effects is evaluated with a 2mA proton beam. The second phase will increase the beam current up to 50mA and a third phase with a machine upgrade for a beam current of up to 200mA is planned. The configuration of a high-current RFQ***, transporting beam current increasing from 2mA with no space-charge forces to a beam with high space-charge effects gives an unique insight in the beam optics of the space-charge effects. The measurements are done with a slit-grid emittance scanner for the transversal phase-space, a faraday cup for the transmitted current and a momentum spectrometer to measure the energy spread. The results set the basis for later experiments on variations of the beam current and the future coupling of the RFQ with an IH-structure****.
+* Bechtold, A., et al., MOP001, LINAC08  ** Meusel, O., et al., MO3A03, LINAC12  *** Vossberg, M., et al., WEPFI009, IPAC13 **** Heilmann, M., et al., THPWO017, IPAC13
+
+ 
+
+
+
+
+
+
+Slides TUPLR075 [2.435 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPLR076
+On the Acceleration of Rare Isotope Beams in the Reaccelerator (ReA3) at the National Superconducting Cyclotron Laboratory at MSU
+ 
+
+
+TUOP04
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A.C.C. Villari, G. Bollen, M. Ikegami, S.M. Lidia, S. Nash, R. Shane, Q. Zhao
+                       FRIB, East Lansing, USA
+D.B. Crisp, A. Lapierre, D.J. Morrissey, R. Rencsok, R.J. Ringle, S. Schwarz, C. Sumithrarachchi, T. Summers
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+The ReAccelerator ReA3 is a worldwide unique, state-of-the-art linear accelerator for rare isotope beams. Beams of rare isotopes are produced and separated in-flight at the NSCL Coupled Cyclotron Facility and subsequently stopped in a linear gas cell. The rare isotopes are then continuously extracted as 1+ ions and transported into a beam cooler and buncher. Ion pulses provided by this device are then transported to a charge breeder based on an Electron Beam Ion Trap (EBIT) where they are captured in flight. The 1+ ions are ionized to a charge state suitable for acceleration in the superconducting radiofrequency (SRF) ReA3 linac, extracted in a pulsed mode and mass analyzed. The extracted beam is pre-bunched before injection into the RFQ and SRF linac, both operating at frequency of 80.5 MHz, and then accelerated to energies from 300 keV/u up to 6 MeV/u, depending on the charge-to-mass ratio of the ion. Stable isotopes can alternatively also be injected into the linac from the EBIT in off-line mode (by ionization of residual gas) or from external off-line ion sources. This contribution will focus on the methodology, properties and techniques used to accelerate and control low intensity rare isotope beams. Results obtained during the preparation of various experiments using the ReA facility, including those with the rare ions 46Ar and 37,46,47K will also be presented.
+
+ 
+
+
+
+
+
+
+Slides TUPLR076 [1.979 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,76 @@
+{
+  "session_info": {
+    "id": "THIO",
+    "name": "THIO - Thursday Keynote and Invited Oral",
+    "url": "https://proceedings.jacow.org/medsi2020/html/thio.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THIO01",
+      "title": "Design of Next Generation Beam Line Equipment by Applying Advanced Mechatronic Principles",
+      "authors": [
+        "MI-Partners",
+        "Eindhoven",
+        "The Netherlands",
+        "Next generation experiments clearly require beamline equipment with fast and accurate positioning of samples and ultra-stable positioning of optics. Going from the classical quasi-static positioning (point to point) to scanning applications requires a different kind of equipment. The approach to design quasi-static equipment versus scanning equipment with high dynamic performance is very different as well. The shift required in such design approach takes a significant amount of time as it involves new technologies and design experience",
+        "to fulfill the high-end requirements finally with sufficient reliability. A market segment",
+        "where ultra-precision manufacturing equipment is already required for several decades",
+        "is the semiconductor manufacturing industry. Starting with high-end mechatronic equipment in the 90’s",
+        "involvement of mechatronics in this area increased very rapidly over the last years. Extremely high precision",
+        "with ultra-fast and reliable equipment to fulfill the throughput demands pushes mechatronic developments. Nowadays this equipment requires stages moving at velocities of several m/s",
+        "with several tens of m/s2 of accelerations while reaching nm positioning accuracy. Besides extreme reliability to achieve the targets of 100% uptime during 24/7 production",
+        "throughput is a driving parameter. Over the years",
+        "design principles have been developed to reach these extreme performances. These strategies and principles can also be used for the design next generation beam line equipment. This paper will address some of the principles and how they are applied in a double crystal monochromator at Brazilian light source (LNLS)."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/medsi2020/talks/thio01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/medsi2020/papers/thio01.pdf",
+      "poster_url": "https://proceedings.jacow.org/medsi2020/posters/thio01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-MEDSI2020-THIO01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THIO02",
+      "title": "Determination of Maximum Repetition Rate of a Corrugated-Waveguide-Based Wakefield Accelerator",
+      "authors": [
+        "K.J. Suthar",
+        "S.H. Lee",
+        "S. Sorsher",
+        "E. Trakhtenberg",
+        "G.J. Waldschmidt",
+        "A. Zholents",
+        "ANL",
+        "Lemont",
+        "Illinois",
+        "USA",
+        "UW-Madison/PD",
+        "Madison",
+        "Wisconsin",
+        "USA",
+        "Thermal stresses generated due to the electromagnetic (EM) heating is a defining phenomenon in the mechanical design of the miniature copper-based corrugated wakefield accelerator (CWA). We investigate the effect of the EM heating due to the high repetition rate electron bunches traveling through a corrugated tube with 1-mm-inner-radius. The steady-state thermal analysis is coupled with computational fluid dynamics",
+        "and structural mechanics to determine the thermal effect on the operating conditions of CWA. It could carry a 10 nC drive bunch through the center of corrugated structure that generates a field gradient 100 Mv/m at 180 GHz",
+        "accelerating a trailing 0.3 nC witness bunch to 5 GeV. The wakefield produced by the traveling bunches can deposit about 600 W to 3000 W of energy on the inner wall of the device. Also",
+        "the instabilities in e-beam trajectories caused by thermal expansion",
+        "and the resulting stresses associated high-frequency repetition rate of 10 kHz to 50 kHz are the main concern for the waveguide. Tensile-yield failure due to moderate heating on the surface of the <200 micrometer wide trough regions of the corrugated tube may lead to arcing and loss of the wakefield."
+      ],
+      "institutions": [
+        "Funding: This work supported by Laboratory Directed Research and Development (LDRD) funding from Argonne, provided by the Director, Office of Science, of the U.S. DOE under contract DE-AC02-06CH11357."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/medsi2020/talks/thio02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/medsi2020/papers/thio02.pdf",
+      "poster_url": "https://proceedings.jacow.org/medsi2020/posters/thio02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-MEDSI2020-THIO02",
+      "page_number": "336",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 23:30:34"
+}

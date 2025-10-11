@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: MOB3 (Project status reports 1)
+
+
+MOB3 —  Project status reports 1   (19-Oct-15   11:00—12:00)
+Chair: R. Tanaka, JASRI/SPring-8, Hyogo-ken, Japan
+
+
+Paper
+Title
+Page
+
+
+
+MOB3O01
+Extreme Light Infrastructure Beamlines - High Repetition Rate Advanced Petawatt Laser Control System
+ 
+
+
+ 
+
+C.D. Marshall, A.J. Bayramian, K. Charron, R.N. Fallejo, E.S. Fulkerson, C. Haefner, G.W. Johnson, D. Kim, E.S. Koh, R.K. Lanning, J.D. Nissen, D.E. Petersen, T.M. Spinka, S.J. Telford
+                       LLNL, Livermore, California, USA
+M.A. Drouin, K. Kasl, T. Mazanec, J. Naylon
+                       ELI-BEAMS, Prague, Czech Republic
+B. Rus
+                       Czech Republic Academy of Sciences, Institute of Physics, Prague, Czech Republic
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+ELI-Beamlines, under construction in Prague, is the high-energy and repetition-rate site of the Extreme Light Infrastructure (ELI) project scheduled for 2018 user capability. The main objective is delivery of ultra-short high-energy laser pulses for the generation of secondary electromagnetic radiation and accelerated particles for both fundamental and applied research. One of the four planned beamlines is the High Repetition Rate Advanced Petawatt Laser System (HAPLS) being designed and constructed by LLNL in partnership with FZU IoP. The high average power short pulse laser will be capable to deliver Petawatt laser pulses at repetition rate 10 Hz. The system requires a high level of automation to safely and robustly operate. The integrated control system provides automatic operation of the high-energy machine and safety controls ensure fail-safe automated operation. The HAPLS control system requirements, design and architecture will be described, which consists of ~2,000 control points, 50 realtime computational nodes, and interfaces to supervisory systems, all based on a flexible and scalable LabVIEW framework to manage this complex system.
+
+ 
+
+
+
+
+
+
+Slides MOB3O01 [6.265 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOB3O02
+NSLS II Project, Development, and Commissioning Results
+ 
+
+
+ 
+
+L.R. Dalesio, G. Carcassi, M.A. Davidsaver, J.H. De Long, K.M. Ha, W.K. Lewispresenter, N. Malitsky, K. Shroff, Y. Tian, L. Yang
+                       BNL, Upton, Long Island, New York, USA
+G. Shen
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+The NSLS II project started control system development in 2007 and completed commissioning in 2015. New hardware, tools, and applications were developed throughout the project to meet the project goals. Significant developments included the fast orbit feedback system, service based physics applications, relational database tools, and an integrated operator environment Control System Studio (CSS). This paper will discuss the results of the developments that were undertaken and their use for the accelerator and beam lines, commissioning results, and lessons learned along the way.
+
+ 
+
+
+
+
+
+
+Slides MOB3O02 [2.265 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOB3O03
+MAX IV Laboratory, Milestones and Lessons Learned
+9
+
+
+ 
+
+V.H. Hardion, Y. Cerenius, F. H. Hennies, K. Larsson, J. Lidón-Simon, M. Sjöström, D.P. Spruce
+                       MAX-lab, Lund, Sweden
+
+ 
+
+
+ 
+
+The MAX IV Laboratory is a new scientific research facility based on synchrotron light being built at Lund University, southern Sweden. The accelerator consists of one full energy linear accelerator providing two storage rings at 1.5 GeV & 3 GeV and a Short Pulse Facility. Additionally more than 13 beamlines are planned to be built among which should be operational for the first users in 2016. The current status and approach of the control system is presented from its technical and organisational point of view, including the stakeholders, as well as the lessons learned from the commissioning as part of our continuous improvement for the future.
+
+ 
+
+
+
+
+
+
+Slides MOB3O03 [19.082 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOB3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOB3O04
+The Construction Status of the SuperKEKB Control System
+14
+
+
+ 
+
+M. Iwasaki, A. Akiyama, K. Furukawa, H. Kaji, T. Naito, T.T. Nakamurapresenter, J.-I. Odagiri, S. Sasaki
+                       KEK, Ibaraki, Japan
+T. Aoyama, M. Fujita, T. Nakamura, K. Yoshii
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+K. Asano, M. Hirose
+                       KIS, Ibaraki, Japan
+Y. Iitsuka, N. Yoshifuji
+                       EJIT, Hitachi, Ibaraki, Japan
+
+ 
+
+
+ 
+
+SuperKEKB is the upgrade of KEKB, the asymmetric energy electron-positron collider for the B-factory experiment in Japan. It aims at the 40-times higher luminosity than the world record by KEKB. The KEKB control system has been built based on EPICS at the equipment layer and scripting languages at the operation layer. The SuperKEKB control system continues to employ these frameworks while we implement new features for the successful operation at such a high luminosity. As the commissioning of the SuperKEKB main storage rings is scheduled to start in 2016, the construction of the control system is now in the final phase. We have upgraded and reinforced the network system, server computers and operator consoles. Most of the VME-based IOCs (I/O Controllers), which has been widely used in KEKB, are upgraded while the PLC-based IOCs are also widely introduced. The new timing system has been developed in order to handle the complicated injection scheme of the SuperKEKB accelerator complex efficiently. The new beam abort trigger system and the new beam gate control system have been developed, and so on. The construction status of the SuperKEKB accelerator control system will be presented.
+
+ 
+
+
+
+
+
+
+Slides MOB3O04 [11.620 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-MOB3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

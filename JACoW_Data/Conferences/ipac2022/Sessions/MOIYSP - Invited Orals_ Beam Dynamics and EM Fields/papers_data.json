@@ -1,0 +1,64 @@
+{
+  "session_info": {
+    "id": "MOIYSP",
+    "name": "MOIYSP - Invited Orals: Beam Dynamics and EM Fields",
+    "url": "https://proceedings.jacow.org/ipac2022/html/moiysp.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOIYSP1",
+      "title": "Machine Learning as a Tool for Online, Surrogate Modelling of Beam Dynamics",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "The detailed design and optimization of accelerators has historically relied on high-fidelity simulations whose computational requirements limit their use as online tools. Recently",
+        "a growing community has begun reducing this computational burden by applying techniques from machine learning. For example",
+        "by learning from a sparse sampling of physics simulations one can develop fast-executing \"surrogate models\" that approximately predict accelerator performance for entirely new design parameters. Using these models can reduce compute times for multi-objective optimization studies by several orders of magnitude. In addition",
+        "surrogate models are now being applied in operational settings to enable non-invasive diagnostics and real-time optimization. This talk will cover developments in this field",
+        "applications to medium-energy electron photoinjectors",
+        "and how such surrogate models may improve our physics understanding of present and future accelerators."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2022/talks/moiysp1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2022/papers/moiysp1.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2022/posters/moiysp1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2022-MOIYSP1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOIYSP2",
+      "title": "Touschek and Intrabeam Scattering in Ultralow Emittance Storage Rings",
+      "authors": [
+        "DESY",
+        "Hamburg",
+        "Germany",
+        "In next-generation synchrotron radiation sources targeting extremely low emittance around the so-called diffraction limit",
+        "the Touschek and intrabeam scattering (IBS) effects are important factors determining the performance of the facility. As the emittance decreases",
+        "the bunch volume decreases and the Touschek beam lifetime also decreases. However",
+        "this downward trend in beam lifetime is expected to turn to increase in the emittance region below a certain threshold. Since this threshold is determined by the emittance at equilibrium including the IBS effect",
+        "a self-consistent treatment is necessary for a correct and unified understanding of the beam characteristics. In currently operating facilities",
+        "such as MAX-IV",
+        "or in next-generation light sources under construction or in the planning stages",
+        "it is expected that such effects may be observed depending on the operating conditions. This talk will be reviewing Touschek and IBS Effects in terms of how these effects limit the ring performance."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2022/talks/moiysp2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2022/papers/moiysp2.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2022/posters/moiysp2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2022-MOIYSP2",
+      "page_number": "25",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 18:33:52"
+}

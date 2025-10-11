@@ -1,0 +1,100 @@
+{
+  "session_info": {
+    "id": "MOICCC",
+    "name": "MOICCC - WG4.3 SRF: HOM and Power Couplers",
+    "url": "https://proceedings.jacow.org/erl2017/html/moiccc.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOICCC001",
+      "title": "Power Couplers & HOM Dampers at CERN",
+      "authors": [
+        "CERN",
+        "Geneva",
+        "Switzerland"
+      ],
+      "institutions": [],
+      "abstract": "Abstract not submitted at print time.",
+      "presentation_url": "https://proceedings.jacow.org/erl2017/talks/moiccc001_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2017/papers/moiccc001.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2017/posters/moiccc001_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2017-MOICCC001",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOICCC002",
+      "title": "Coaxial Couplers",
+      "authors": [
+        "BNL",
+        "Upton",
+        "Long Island",
+        "New York",
+        "USA",
+        "The method of couple power into and out of an RF resonator tends to be based on either waveguide or coaxial couplers. Coaxial couplers are widely used due to multiple merits",
+        "such as compactness",
+        "easy fabrication",
+        "less heat leak",
+        "easy to compress multipacting",
+        "etc.. However",
+        "the coaxial couplers also encounter cooling and power handling problems at high power transmission scenarios. We will discuss the characteristics of the coaxial coupler designs and their application in various projects."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/erl2017/talks/moiccc002_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2017/papers/moiccc002.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2017/posters/moiccc002_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2017-MOICCC002",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOICCC003",
+      "title": "Resonance Control at the Compact ERL in KEK",
+      "authors": [
+        "T. Miura",
+        "D.A. Arakawa",
+        "M. Egi",
+        "K. Enami",
+        "T. Furuya",
+        "E. Kako",
+        "H. Katagiri",
+        "T. Konomi",
+        "T. Matsumoto",
+        "S. Michizono",
+        "F. Qiu",
+        "H. Sakai",
+        "K. Umemori",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "Sokendai",
+        "Ibaraki",
+        "Japan",
+        "QST",
+        "Tokai",
+        "Japan",
+        "The compact energy recovery linac (cERL) in KEK is a test facility for the future 3-GeV ERL light source. The 1.3 GHz superconducting cavities are used in the injector linac cryomodule and the main linac cryomodule. The slide-jack tuner with stepper motor is used for coarse tuning of the resonant frequency",
+        "and piezo tuner is used for fine tuning. The digital tuner feedback system based on micro-TCA standard has been employed. The frequency band of the tuner feedback has been set lower than the mechanical resonance frequency. The rf field fluctuation caused by the Michrophonics is compensated by the rf feedback. In the injector linac",
+        "one rf source drives two cavities with vector-sum control. The vector-sum calibration error affected the beam energy jitter",
+        "but that has been improved after adopting the high gain parameter in resonant frequency feedback in order to keep the field balance of the cavities."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/erl2017/talks/moiccc003_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2017/papers/moiccc003.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2017/posters/moiccc003_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2017-MOICCC003",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 17:04:58"
+}

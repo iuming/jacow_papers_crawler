@@ -1,0 +1,182 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: THHC2 (Control system upgrades)
+
+
+THHC2 —  Control system upgrades   (22-Oct-15   13:00—14:00)
+Chair: T. Korhonen, ESS, Lund, Sweden
+
+
+Paper
+Title
+Page
+
+
+
+THHC2O01
+Beam Property Management at KEK Electron/Positron 7-GeV Injector Linac
+1123
+
+
+ 
+
+K. Furukawa, N. Iida, T. Kamitani, S. Kazama, T. Miura, F. Miyahara, Y. Ohnishi, M. Satoh, T. Suwada, K. Yokoyama
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The electron/positron injector linac at KEK has injected a variety of beams into the electron accelerator complex of SuperKEKB collider and light sources for particle physics and photon science experiments for more than 30 years. The beam property of electrons and positrons varies in energy from 2.5 GeV to 7 GeV and in bunch charge from 0.2 nC to 10 nC, and their stability requirements are different depending on the injected storage ring. They have to be switched by pulse-to-pulse modulation at 50 Hz. The emittance control is especially crucial to achieve the goal at SuperKEKB and is under development. The beam energy management becomes more important as it affects all of the beam properties. Beam acceleration provided by 60 RF power station should be properly distributed considering redundancy and stability. Thus, the equipment controls are also restructured in order to enable the precise control of the beam properties, based on the synchronized event control system and EPICS control system. The strategy and status of the upgrade is described in this paper from the practical aspects of device controls, online simulation and operation.
+
+ 
+
+
+
+
+
+
+Slides THHC2O01 [2.187 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHC2O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHC2O02
+Component Database for APS Upgrade
+1127
+
+
+ 
+
+S. Veseli, N.D. Arnold, J. Carwardine, G. Decker, D.P. Jarosz, N. Schwarz
+                       ANL, Argonne, Ilinois, USA
+
+ 
+
+
+ 
+
+The Advanced Photon Source Upgrade (APS-U) project will replace the existing APS storage ring with a multi-bend achromat (MBA) lattice to provide extreme transverse coherence and extreme brightness x-rays to its users. As the time to replace the existing storage ring accelerator is of critical concern, an aggressive one-year removal/installation/testing period is being planned. To aid in the management of the thousands of components to be installed in such a short time, the Component Database (CDB) application is being developed with the purpose to identify, document, track, locate, and organize components in a central database. Three major domains are being addressed: Component definitions (which together make up an exhaustive "Component Catalog"), Designs (groupings of components to create subsystems), and Component Instances ('Inventory'). Relationships between the major domains offer additional "system knowledge" to be captured that will be leveraged with future tools and applications. It is imperative to provide sub-system engineers with a functional application early in the machine design cycle. Topics discussed in this paper include the initial design and deployment of CDB, as well as future development plans.
+
+ 
+
+
+
+
+
+
+Slides THHC2O02 [1.957 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHC2O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHC2O03
+Replacing the Engine in Your Car While You Are Still Driving It
+1131
+
+
+ 
+
+E. Björklund
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: US Department of Energy under contract DC-AC52-06NA25396.
+Replacing your accelerator's timing system with a completely different architecture is not something that happens very often. Perhaps even rarer is the requirement that the replacement not interfere with the accelerator's normal operational cycle. In 2014, The Los Alamos Neutron Science Center (LANSCE) began the first phase of a multi-year rolling upgrade project which will eventually result in the complete replacement of the low-level RF system, the timing system, the industrial I/O system, the beam-synchronized data acquisition system, the fast-protect reporting system, and much of the diagnostic equipment. These projects are mostly independent of each other, with their own installation schedules, priorities, and time-lines. All of them, however, must interface with the timing system. This paper will focus on the timing system replacement project, its conversion from a centralized discrete signal distribution system to a more distributed event-driven system, and the challenges faced by having to interface with both the old and new equipment until the upgrade is completed.
+
+ 
+
+
+
+
+
+
+Slides THHC2O03 [2.345 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHC2O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

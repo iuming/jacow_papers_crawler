@@ -1,0 +1,330 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEDSI2018 - Table of Session: THOAMA (Simulation)
+
+
+THOAMA —  Simulation   (28-Jun-18   10:50—14:10)
+Chair: N. Jobert, SOLEIL, Gif-sur-Yvette, France
+
+
+Paper
+Title
+Page
+
+
+
+THOAMA01
+Optimizing the PETRA IV Girder by Using Bio-Inspired Structures
+297
+
+
+ 
+
+S. Andresen
+                       Alfred-Wegener-Institut, Bremerhaven, Germany
+
+ 
+
+
+ 
+
+The PETRA IV project at DESY (Deutsches Elektronen Synchrotron) aims at building a unique synchrotron light source to provide beams of hard X-rays with unprecedented coherence properties that can be focused to dimensions in the nanometer-regime. An optimization of the girder structure is necessary to reduce the impact of ambient vibrations on the particle beam. For this purpose, several numerical approaches have been made to simultaneously reach natural frequencies above 50 Hz, a high stiffness and a low mass. In order to define an optimal girder support, a parametric study was conducted varying both the number and location of support points. Based on the resulting arrangement of support points, topology optimizations were performed to achieve a high stiffness and a high first natural frequency. The following transformation of the results into parametric constructions allowed further parametric studies to find optimal geometry parameters leading to the aimed girder properties. In addition to that, bio-inspired structures based on marine organisms were applied to the girder which likewise resulted in improved girder properties.
+
+ 
+
+
+
+
+
+
+Slides THOAMA01 [10.895 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THOAMA01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOAMA02
+LCLS NEH Floor Thermal Deformation and Mitigation Plan
+ 
+
+
+ 
+
+L. Zhang, J.C. Castagna, M. R. Holmes
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The key features of LCLS-II upgrade are the high repetition rate up to 1 MHz, and two variable-gap undulators (SXR and HXR). To take the advantages of this major upgrade, LCLS, SLAC is designing and building new soft and tender X-ray beamlines (TMO, TXI, RIXS, XPP). The laser pump FEL probe, or SXR FEL pump HXR probe experiments need sub-micron stability in a time range from 5 ms to a few hours. Dynamically bendable KB mirror can focus X-ray beam down to 300 nm. The overlap of the pump laser (or FEL), probe FEL beam and sample is challenging. Some measurements on vibration and long term stability have been carried out on the floor in the Near Experimental Hall (NEH) to host the new beamlines. The vibration displacement in the frequency range of 1 to 200 Hz is at the level of 25 nm. The floor deformation over hours and days measured by HLS and interferometer, however, show tens micro-meters displacement variation. This huge floor deformation is incompatible with the stability requirement. In this paper, we will present the simulation of the whole NEH building, comparison with measurement results, describe mitigation plan and predict the performance.
+
+ 
+
+
+
+
+
+
+Slides THOAMA02 [15.109 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOAMA03
+Mechanical Engineering Design and Simulation for SPIRAL2 Accelerator @GANIL
+302
+
+
+ 
+
+C. Barthe-Dejean, M. Di Giacomo, P. Gangnant, P. Lecomte, J.F. Leyge, F. Lutton, C. Michel, M. Michel, E. Petit, R.V. Revenko, J.L. Vignet
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The SPIRAL2 project at GANIL is based on a superconducting ion continuous wave LINAC with two associated experimental areas named S3 (Super Separator Spectrometer) and NFS (Neutron For Science). This paper will report the main contributions of Mechanical Design Group at GANIL to the project. Mechanical engineers have been highly involved since 2005 from the pre-design of the accelerator and its development until present to finalize the installation. During the development phase, design and numerical simulation were used throughout the complete process: from the ion sources, to the LINAC accelerator, then through beam transport lines to experimental halls equipped with detectors. The entire installation (process, buildings and systems) is integrated in 3D CAD models. The paper focuses on three equipments designed in collaboration with electronics engineers and physicists : the Rebuncher in Mean Energy Beam Transport line; the Instrumentation Profiler SEM and the Target Chamber in S3. SPIRAL2 also has to meet safety requirements, such as seismic hazard, therefore the dynamic simulations performed to demonstrate the mechanical strength in case of earthquake will also be detailed.
+
+ 
+
+
+
+
+
+
+Slides THOAMA03 [5.836 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THOAMA03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOAMA04
+Design and FEA of an Innovative Rotating Sic Filter for High-Energy X-Ray Beam
+306
+
+
+ 
+
+W. Tizzano, T. Connolley, S. Davies, M. Drakopoulos, G.E. Howell
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+I12 is a high-energy imaging, diffraction and scattering beamline at Diamond. Its source is a superconducting wiggler with a power of approximately 9kW at 500 mA after the fixed front-end aperture; two permanent filters aim at reducing the power in photons below the operating range of the beamline of 50-150 keV, which accounts for about two-thirds of the total*. This paper focuses on the design and simulation process of the secondary permanent filter, a 4mm thick SiC disk. The first version of the filter was vulnerable to cracking due to thermally induced stress, so a new filter based on an innovative concept was proposed: a water-cooled shaft rotates, via a ceramic interface, the SiC disk; the disk operates up to 900 degrees C, and a copper absorber surrounding the filter dissipates the heat through radiation. We utilised analysis data following failure of an initial prototype to successfully model the heat flow using FEA. This model informed different iterations of the re-design of the assembly, addressing the issues identified. The operational temperature of the final product matches within a few degrees C the one predicted by the simulation.
+*M. Drakopoulos et al., "I12: the Joint Engineering, Environment and Processing (JEEP) beamline at Diamond Light Source".
+
+ 
+
+
+
+
+
+
+Slides THOAMA04 [6.381 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THOAMA04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOAMA05
+3D Numerical Ray Tracing for the APS-Upgrade Storage Ring Vacuum System Design
+312
+
+
+ 
+
+J.A. Carter
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Argonne National Laboratory's work is supported by the U.S. Department of Energy, Office of Science under contract DE-AC02-06CH11357
+The APS-Upgrade project will build a diffraction lim-ited storage ring requiring a vacuum system design with small aperture vacuum chambers passing through narrow magnet poles. The small apertures dictate that the walls of the vacuum chambers act as distributed photon ab-sorbers. The vacuum chambers must be designed robustly so a thorough understanding of the synchrotron ray trac-ing with beam missteering is required. A MatLab program has been developed to investigate 3D ray tracing with beam missteering. The program dis-cretizes local phase spaces of deviation possibilities along the beam path in both the horizontal and vertical planes of motion and then projects rays within a 3D mod-el of the vacuum system. The 3D model contains ele-ments in sequence along the beam path which represent both chamber segments and photon absorbers. Ray strikes are evaluated for multiple worst-case criteria such as local power intensity or strike offset from cooling channels. The worst case results are plotted and used as boundary conditions for vacuum chamber ther-mal/structural analyses. The results have also helped inform decisions about practical beam position limits.
+
+ 
+
+
+
+
+
+
+Slides THOAMA05 [6.832 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THOAMA05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THOAMA06
+A New X-Ray Beam for the ESRF Beamlines, Opto-Mechanical Global Survey
+316
+
+
+ 
+
+Y. Dabin, R. Barrett, SJ. Jarjayes, M. Sanchez del Rio
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+The new ESRF photon source EBS, introduces important changes for the beamlines. Half of them are concerned with the concept of low beta (small source size/ high divergence). This survey is an opto-mechanical review with all of the thermal/high heat-load issues on optics. This plan uses new package, OASYS aimed at making X-ray beam simulations for most optical parameters. White beam aspects are introduced, using ANSYS and COMSOL modules, leading to beam propagation FEA analysis with deformed optics. This presentation describes the optical aspects of the ESRF beamlines (high/low beta optics), and their transition towards this new source. Some key issues like IDs beam illumination; power filtering and optimization of the best part of the spectrum are detailed. Mirrors and monochromator crystals deformation will be presented, first for the day-one best conditions. As a second issue, OASYS enables to simulate the full beamline, from the IDs to the experiment, allowing simulating virtual experiments, with samples. This work is developed through many ESRF contributors; first the OASYS designers, Optics group, and then opto-mechanical experts, in association with mechanical engineering.
+OASYS (OrAnge SYnchrotron Suite) is a simulation tool suite (2013)- This open source platform supports SHADOW, XOP, SRW (source)-Maintained and distributed by the ESRF-M. Sanchez Del Rio-L. Rebuffi
+
+ 
+
+
+
+
+
+
+Slides THOAMA06 [7.552 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THOAMA06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

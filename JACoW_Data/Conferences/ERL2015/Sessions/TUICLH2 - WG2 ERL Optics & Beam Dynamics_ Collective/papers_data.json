@@ -1,0 +1,129 @@
+{
+  "session_info": {
+    "id": "TUICLH2",
+    "name": "TUICLH2 - WG2 ERL Optics & Beam Dynamics: Collective Effects/Multi-passes/Halo Simulations",
+    "url": "https://proceedings.jacow.org/ERL2015/html/tuiclh2.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUICLH2032",
+      "title": "Investigations on Transverse Beam Break Up Using a Recirculated Electron Beam*",
+      "authors": [
+        "T. Kürzeder",
+        "M. Arnold",
+        "M. Gros",
+        "F. Hug",
+        "L.E. Jürgensen",
+        "J. Pforr",
+        "N. Pietralla",
+        "TU Darmstadt",
+        "Darmstadt",
+        "Germany"
+      ],
+      "institutions": [
+        "The recirculating superconducting accelerator S-DALINAC provides electron beams of up to 130 MeV for nuclear physics experiments at the University of Darmstadt since 1991. It consists of a 10 MeV injector and a 40 MeV main linac and reaches its final design energy using up to two recirculation paths. The superconducting main linac houses eight 20-cell SRF cavities operated at 3 GHz and 2 K. The very low threshold current of only a few μA for the occurrence of beam break up in addition with the recirculating linac design gives a unique opportunity to the ERL community for testing different strategies of avoiding beam break up experimentally at this accelerator and to benchmark beam dynamics simulations concerning this topic. To minimize the impact of HOMs on the recirculating electron bunches we will place skew quadrupole and sextupole magnets in our accelerator and test their effect on the threshold current. We will report on the status of beam dynamics simulations concerning their use in the accelerator and present actual calculations for the positioning of the skew quadrupoles. An outlook on the future activities at the S-DALINAC will be given."
+      ],
+      "abstract": "reference for this paper ※ DOI:10.18429/JACoW-ERL2015-",
+      "presentation_url": "https://proceedings.jacow.org/ERL2015/talks/tuiclh2032_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ERL2015/papers/tuiclh2032.pdf",
+      "poster_url": "https://proceedings.jacow.org/ERL2015/posters/tuiclh2032_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2015-TUICLH2032",
+      "page_number": "30",
+      "presentation_available": false,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUICLH2033",
+      "title": "HOM-BBU Simulation for KEK ERL Light Source",
+      "authors": [
+        "S. Chen",
+        "N. Nakamura",
+        "M. Shimada",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "In KEK",
+        "an multi-GeV ERL based light source with 100mA maximum average beam current",
+        "is under designing. A special designed KEK ERL mode-2 superconducting cavity will be used. In this paper",
+        "the multi-pass BBU of KEK ERL light source is simulated. The dependency of BBU threshold current of various conditions are presented."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ERL2015/talks/tuiclh2033_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ERL2015/papers/tuiclh2033.pdf",
+      "poster_url": "https://proceedings.jacow.org/ERL2015/posters/tuiclh2033_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2015-TUICLH2033",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUICLH2034",
+      "title": "Linear Microbunching Gain Estimation Including CSR and LSC Impedances in Recirculation Machines",
+      "authors": [
+        "Virginia Polytechnic Institute and State University",
+        "Blacksburg",
+        "Virginia",
+        "USA",
+        "D. Douglas",
+        "R. Li",
+        "C. Tennant",
+        "JLab",
+        "Newport News",
+        "Virginia",
+        "USA",
+        "It is known that microbunching instability (MBI) has been one of the most challenging issues with the design of magnetic compressor chicanes for FEL or linear colliders",
+        "as well as the transport lines for recirculating or energy recovery linacs. To more accurately quantify MBI in a single-pass or few-passes system and for more complete analyses",
+        "we extend our previously developed linear Vlasov solver* to incorporate more relevant impedance models",
+        "including transient and steady-state CSR and LSC impedances. Then the linearized Vlasov equation is numerically solved for the microbunching gain amplification factor. With application of this code to two specially designed transport arcs** and a circulator cooling ring design of MEIC at Jefferson Lab***",
+        "the resultant gain functions and spectra are presented and some results are compared with particle tracking simulation. We also discuss some underlying physics with inclusion of these collective effects. It is anticipated this more complete analysis can further improve the understanding of the MBI mechanisms and shed light on how to suppress or compensate MBI effects in such lattice designs.",
+        "* C. -Y. Tsai et al.",
+        "FEL'14",
+        "or http://arxiv.org/abs/1408.5542  ** D. Douglas et al.",
+        "JLAB-ACP-14-1751",
+        "or http://arxiv.org/abs/1403.2318 *** MEIC Design Summary",
+        "at http://arxiv.org/abs/1504.07961"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ERL2015/talks/tuiclh2034_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ERL2015/papers/tuiclh2034.pdf",
+      "poster_url": "https://proceedings.jacow.org/ERL2015/posters/tuiclh2034_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2015-TUICLH2034",
+      "page_number": "34",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUICLH2035",
+      "title": "Study of CSR in the JLab ERL FEL Driver",
+      "authors": [
+        "CSU",
+        "Fort Collins",
+        "Colorado",
+        "USA",
+        "The study of collective beam effects is essential for the operation of high average power energy recovery linacs (ERL). For very short bunches",
+        "often necessary for FELs",
+        "coherent synchrotron radiation (CSR) can greatly reduce beam quality. In this work we show experimental studies of the impact of CSR on beam quality in the JLab ERL FEL driver linac. Measurements taken of energy loss due to CSR as a function of compression are compared against simulations with a 1-D CSR model",
+        "showing good agreement. In addition we also investigate observed fragmentation in the energy spectrum. This fragmentation",
+        "which varies with compression",
+        "is believed to be caused by CSR and longitudinal space charge (LSC) forces acting downstream of the compression chicane."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ERL2015/talks/tuiclh2035_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ERL2015/papers/tuiclh2035.pdf",
+      "poster_url": "https://proceedings.jacow.org/ERL2015/posters/tuiclh2035_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2015-TUICLH2035",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 4,
+  "scrape_time": "2025-10-10 17:06:46"
+}

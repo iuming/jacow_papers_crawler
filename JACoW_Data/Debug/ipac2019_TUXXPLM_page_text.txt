@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2019 - Table of Session: TUXXPLM (Contributed Orals: Accelerator Technology)
+
+
+TUXXPLM —  Contributed Orals: Accelerator Technology   (21-May-19   09:30—10:30)
+Chair: J.R. Delayen, JLab, Newport News, Virginia, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUXXPLM1
+Flux Expulsion in SRF Cavities: Discovery of Influencing Parameters and Implementation in LCLS-II Cryomodule Production
+ 
+
+
+ 
+
+S. Posen, A. Grassellino, E.R. Harms, O.S. Melnychuk, T.J. Peterson, D.A. Sergatskov, N. Solyak, G. Wu
+                       Fermilab, Batavia, Illinois, USA
+D. Gonnella
+                       SLAC, Menlo Park, California, USA
+A.D. Palczewski
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+For decades, magnetic flux trapping in superconducting RF cavities has been poorly understood, with various reports of all ambient flux being trapped in the superconductor during cooldown or unreproducible behavior. This recently changed, when an R&D study at Fermilab showed that thermal gradients over the surface of the cavity can expel flux from the superconducting material. Further R&D studies showed that the expulsion behavior also depended strongly on the high temperature heat treatment of the cavity. These studies were timely for LCLS-II cryomodule production, in which stringent requirements on the quality factor make trapped flux a significant problem. To minimize degradation due to trapped flux, the recommendations from the R&D program were applied to cryomodule production. This is the first implementation of several new paradigms to minimize trapped flux: fast cooldown, high temperature heat treatment to minimize flux pinning centers, and magnetic hygiene controls. In this contribution, we review the R&D studies and the implementation of the lessons learned in cryomodules for LCLS-II. We present performance statistics from cryomodules as a function of heat treatment temperature and helium mass flow during cooldown. We show that with these modifications, LCLS-II production cryomodules are now achieving an unprecedented Q0 of ~3x1010 or higher, approximately 3x higher than the state-of-the-art 5 years ago.
+
+ 
+
+
+
+
+
+
+Slides TUXXPLM1 [20.003 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUXXPLM2
+SRF Cavity Fault Classification Using Machine Learning at CEBAF
+1167
+
+
+ 
+
+A.D. Solopova, A. Carpenter, T. Powers, Y. Roblin, C. Tennant
+                       JLab, Newport News, Virginia, USA
+K.M. Iftekharuddin, L. Vidyaratne
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+The Continuous Electron Beam Accelerator Facility (CEBAF) at Jefferson Lab is the first large high power CW recirculating electron accelerator which makes use of SRF accelerating structures configured in two antiparallel linacs. Each linac consists of twenty C20/C50 cryomodules each containing eight 5-cell cavities and five C100 upgrade cryomodules each containing eight 7-cell cavities. Accurately classifying the source of cavity faults is critical for improving accelerator performance. In addition to archived signals sampled at 10 Hz, a cavity fault triggers a waveform acquisition process where 16 waveform records sampled at 5 kHz are recorded for each of the 8 cavities in the effected cryomodule. The waveform record length is sufficiently long for transient microphonic effects to be observable. Significant time is required by a subject matter expert to analyze and identify the intra-cavity signatures of imminent faults. This paper describes a path forward that utilizes machine learning for automatic fault classification. Post-training identification of the physical origins of faults are discussed, as are potential machine-trained model-free implementations of trip avoidance procedures. These methods should provide new insights into cavity fault mechanisms and facilitate intelligent optimization of cryomodule performance
+
+ 
+
+
+
+
+
+
+Slides TUXXPLM2 [4.404 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-TUXXPLM2
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUXXPLM3
+First Operation of a Hybrid e-Gun at the Schlesinger Center for Compact Accelerators in Ariel University
+1171
+
+
+ 
+
+A.N. Nause, A. Fukasawa, J.B. Rosenzweig, R.J. Roussel
+                       UCLA, Los Angeles, USA
+A. Friedman
+                       Ariel University, Ariel, Israel
+B. Spataro
+                       INFN/LNF, Frascati, Italy
+
+ 
+
+
+ 
+
+Funding: Israel Ministry of Defence Israel Ministry of Science
+A novel hybrid photo injector was designed and partially tested at the UCLA Particle Beam Physics Laboratory. It was later commissioned at Ariel University in Israel as an on-going collaboration between the two universities. This unique, new generation design provides a radically simpler approach to RF feeding of a gun/buncher system, leading to a much shorter beam via velocity bunching owed to an attached traveling wave section of the photo-injector. This design results in better performance in beam parameters, providing a high quality electron beam, with energy of 6 MeV, emittance of app 3 μm, and a 150 fs pulse duration at up to 1 nC per pulse. The Hybrid gun is driven by a SLAC XK5 Klystron as the high power RF source, and third harmonic of a fs level IR Laser amplifier (266 nm) to drive the Cathode. The unique e-gun will produce an electron pulse for a THz FEL, which will operate at the super-radiance regime, and therefore requires extraordinary beam properties. This paper briefly describes the gun and presents initial operational results from the gun and its sub-systems.
+
+ 
+
+
+
+
+
+
+Slides TUXXPLM3 [9.526 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-TUXXPLM3
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

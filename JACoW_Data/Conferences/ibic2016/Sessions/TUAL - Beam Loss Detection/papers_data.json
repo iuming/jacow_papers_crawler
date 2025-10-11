@@ -1,0 +1,99 @@
+{
+  "session_info": {
+    "id": "TUAL",
+    "name": "TUAL - Beam Loss Detection",
+    "url": "https://proceedings.jacow.org/ibic2016/html/tual.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUAL01",
+      "title": "Microbunching Measurement Techniques in Storage Rings",
+      "authors": [
+        "FZK",
+        "Karlsruhe",
+        "Germany",
+        "KIT",
+        "Karlsruhe",
+        "Germany",
+        "Micro-Bunch-Instabilities are one of the limits of single bunch charge in storage rings",
+        "particularly in low-alpha operation. This talk will give an overview over recent advances in the development of methods and technologies for the observation and characterization of these instabilities. Examples will illustrate the performance and possibilities of the different techniques."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ibic2016/talks/tual01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ibic2016/papers/tual01.pdf",
+      "poster_url": "https://proceedings.jacow.org/ibic2016/posters/tual01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2016-TUAL01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUAL02",
+      "title": "A New Beam Loss Monitor Concept Based on Fast Neutron Detection and Very Low Photon Sensitivity",
+      "authors": [
+        "J. Marroncle",
+        "A. Delbart",
+        "D. Desforge",
+        "C.L.H. Lahonde-Hamdoun",
+        "Ph. Legou",
+        "T. Papaevangelou",
+        "L. Segui",
+        "G. Tsiledakis",
+        "CEA/IRFU",
+        "Gif-sur-Yvette",
+        "France",
+        "Superconductive accelerators may emit X-rays and Gammas mainly due to high electric fields applied on the superconductive cavity surfaces. Indeed",
+        "electron emissions will generate photons when electrons impinge on some material. Their energies depend on electron energies",
+        "which can be strongly increased by the cavity radio frequency power when it is phase-correlated with the electrons. Such photons present a real problem for Beam Loss Monitor (BLM) systems since no discrimination can be made between cavity contributions and beam loss contributions. Therefore",
+        "a new BLM is proposed which is based on gaseous Micromegas detectors",
+        "highly sensitive to fast neutrons",
+        "not to thermal ones and mostly insensitive to X-rays and Gammas. This detector uses Polyethylene for neutron moderation and the detection is achieved using a 10B or 10B4C converter film with a Micromegas gaseous amplification. Simulations show that detection efficiencies > 8 % are achievable for neutrons with energies between 1 eV and 10 MeV."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ibic2016/talks/tual02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ibic2016/papers/tual02.pdf",
+      "poster_url": "https://proceedings.jacow.org/ibic2016/posters/tual02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2016-TUAL02",
+      "page_number": "277",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUAL03",
+      "title": "Beam Loss and Abort Diagnostics during SuperKEKB Phase-I Operation",
+      "authors": [
+        "H. Ikeda",
+        "J.W. Flanagan",
+        "H. Fukuma",
+        "T. Furuya",
+        "M. Tobiyama",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "Beam commissioning of SuperKEKB Phase-I started in Feb.",
+        "2016. In order to protect the hardware components of the accelerator against unstable Ampere class beams",
+        "the controlled beam abort system was upgraded. Because of the higher beam intensity and shorter beam lifetime than at the original KEKB",
+        "a beam abort monitor system is important for machine tuning and the safety of the components. The system collected the data of all aborts of more than 1000 in this operation period",
+        "and we diagnosed not only the hardware performance but the tuning software by analyzing the relations between beam current",
+        "loss monitor signals and RF cavity voltages. This paper will give the outline of the monitoring system",
+        "and will present typical examples of signal and diagnoses."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ibic2016/talks/tual03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ibic2016/papers/tual03.pdf",
+      "poster_url": "https://proceedings.jacow.org/ibic2016/posters/tual03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2016-TUAL03",
+      "page_number": "282",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 17:51:20"
+}

@@ -1,0 +1,234 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2022 - Table of Session: THO1 (Oral presentation)
+
+
+THO1 —  Oral presentation   (06-Oct-22   11:00—12:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THO11
+Building Control System Remotely
+15
+
+
+ 
+
+M. Lukaszewski, K. Klys
+                       E9, London, United Kingdom
+
+ 
+
+
+ 
+
+Funding: European Regional Development Fund and the state budget of the Czech Republic project HiLASE CoE (CZ.02.1.01/0.0/0.0/15006/0000674); Horizon 2020 Framework Programme (H2020) (739573).
+Building a control system for a scientific facility is a complex process that requires a lot of time coordination and the cooperation of hundreds of people. The latest of our control system for 10 J 100 Hz laser system happened to be built when access to the lab was much more difficult, due to the pandemic that made travel much more complex, and local restrictions at one point prevented large number of people from being in the lab at the same time. This paper shows how, despite the demanding working conditions, we built the control system for the 10 J 100 Hz laser. The control system was designed in collaboration with CLF (STFC, UK) and HiLASE (Institute of Physics, ASCR). The whole process of building the laser control system was divided into stages and we had to rely on remote working. This article discusses how we adapted each stage to work remotely, what tools we used, how we minimised the risks, and what we would have done differently if we had started from scratch.
+
+ 
+
+
+
+
+
+
+Slides THO11 [0.270 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-PCaPAC2022-THO11
+
+ 
+
+
+About •
+Received ※ 04 October 2022 — Accepted ※ 07 October 2022 — Issue date ※ 13 November 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THO12
+Grafana and the "archiver cache" - from Machine Status to Facility-Wide Live Data Access
+ 
+
+
+ 
+
+B. Plötzeneder, T. Mazanec
+                       ELI-BEAMS, Prague, Czech Republic
+
+ 
+
+
+ 
+
+Funding: Supported by the project Advanced research using high intensity laser produced photons and particles (ADONIS) CZ.02.1.01/0.0./0.0/16019/0000789 from European Regional Develepment Fund (ERDF).
+The Control & DAQ systems of ELI Beamlines store data inside a Cassandra cluster, and traditionally provide access and visualization via standard CS GUIs and archiver tools. In 2020, motivated by the increasing operational demands of a maturing facility, we started to develop a concept which was initially only intended as a machine-status website to expose some of this data live. Responding to wildly diverging stakeholder feedback, this evolved into a new layer for rapid data access (’archiver cache’), based on InfluxDB, with Grafana as a frontend. Fully operational since 2021, this stack has become a powerful and heavily used tool for operations, and is continuously extended to include auxiliary data sources beyond CS (building management, IT monitoring, cleanroom…). In 2022, over 25000 metrics are available live and updated every 3-5 seconds, with a latency of less than 5 seconds. This contribution describes the background, architectural drivers, system design and implementation, lessons learned, and considerations for the future.
+
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THO13
+Upgrading the IRRAD Control System GUIs Using Open-License and Cross-Platform Technologies
+20
+
+
+ 
+
+B. Gkotse, A. Abdulhalim, A.S. Mølholm, F. Ravotti
+                       CERN, Meyrin, Switzerland
+P. Jouvelot
+                       MINES ParisTech, PSL Research University, Paris, France
+
+ 
+
+
+ 
+
+The CERN Proton Irradiation Facility (IRRAD) is a reference facility in high-energy physics for the qualification of detectors, material, and electronic components against radiation. A proton beam with a momentum of 24 GeV/c is delivered from the CERN PS accelerator to IRRAD and impinges on the components being tested, placed on remotely controlled moveable stages. This equipment, operated by dedicated control systems, allows for the precise positioning of components in or out of the beam and facilitates the handling of irradiated components, while minimising the radiation received by the IRRAD operators. Originally, the implementation of the Graphical User Interfaces (GUIs) of the IRRAD control system was based on proprietary software, thus limiting it to specific operating system. To address the issues linked to such dependencies in terms of openness, ease of development and access to state-of-the-art technologies new GUIs have been designed and developed with open-license cross-platform software. In this paper, the IRRAD control system software architecture is detailed, and the lessons learned while implementing these new feature-rich GUIs are presented.
+
+ 
+
+
+
+
+
+
+Slides THO13 [1.674 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-PCaPAC2022-THO13
+
+ 
+
+
+About •
+Received ※ 27 September 2022 — Revised ※ 04 October 2022 — Accepted ※ 07 October 2022 — Issue date ※ 03 January 2023
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THO14
+How GANIL Plan to Use Web Technologies to Update the Control System User Interfaces
+25
+
+
+ 
+
+C.H. Haquin, O. Delahaye, C.H. Patard, F. Pillon, J. Pivard, G. Sénécal
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The GANIL Control System was developed in the first half of the nineties with ADA language. The user interfaces use MOTIF and XRT widgets. User interfaces have become more and more difficult to modify and there is a risk of obsolescence. GANIL plan to replace these old technologies and web technologies are anticipated. This paper will present the strategy defined to make the switch.
+
+ 
+
+
+
+
+
+
+Slides THO14 [1.477 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-PCaPAC2022-THO14
+
+ 
+
+
+About •
+Received ※ 28 September 2022 — Revised ※ 05 October 2022 — Accepted ※ 15 February 2023 — Issue date ※ 20 February 2023
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

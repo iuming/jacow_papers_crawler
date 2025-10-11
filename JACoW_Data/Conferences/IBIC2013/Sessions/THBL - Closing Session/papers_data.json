@@ -1,0 +1,65 @@
+{
+  "session_info": {
+    "id": "THBL",
+    "name": "THBL - Closing Session",
+    "url": "https://proceedings.jacow.org/IBIC2013/html/thbl.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THBL1",
+      "title": "RF Heating from Wake Losses in Diagnostics Structures",
+      "authors": [
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "Heating of diagnostics structures (striplines",
+        "buttons",
+        "screen vessels",
+        "wire scanners etc) has been observed at many facilities with higher stored currents*. Simulations of wake losses using 3D EM codes are regularly used to estimate the amount of power lost from the bunched beam but on its own this does not tell how much is radiated back into the beam pipe or transmitted into external ports and how much is actually being dissipated in the structure and where. This talk should introduce into the matter",
+        "summarise some of the observations at various facilities and illustrate what approaches of detailed simulations have been taken."
+      ],
+      "institutions": [],
+      "abstract": "* summarizing a workshop at DLS (see http://tinyurl.com/wakeloss )",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/thbl1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/thbl1.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/thbl1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-THBL1",
+      "page_number": "929",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THBL2",
+      "title": "The White Rabbit Project",
+      "authors": [
+        "J. Serrano",
+        "M. Cattin",
+        "G. Daniluk",
+        "E. Gousiou",
+        "M. Lipiński",
+        "E. Van der Bij",
+        "T. Włostowski",
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "White Rabbit (WR) is a multi-laboratory",
+        "multi-company collaboration for the development of a new Ethernet-based technology which ensures sub-nanosecond synchronisation and deterministic data transfer. The project uses an open source paradigm for the development of its hardware",
+        "gateware and software components. This article provides an introduction to the technical choices and an explanation of the basic principles underlying WR. It then describes some possible applications and the current status of the project. Finally",
+        "it provides insight on current developments and future plans."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/thbl2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/thbl2.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/thbl2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-THBL2",
+      "page_number": "936",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 18:01:26"
+}

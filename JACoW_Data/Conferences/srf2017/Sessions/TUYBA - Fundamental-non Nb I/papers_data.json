@@ -1,0 +1,97 @@
+{
+  "session_info": {
+    "id": "TUYBA",
+    "name": "TUYBA - Fundamental-non Nb I",
+    "url": "https://proceedings.jacow.org/srf2017/html/tuyba.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUYBA01",
+      "title": "Progress on Characterization and Optimization of Multilayers",
+      "authors": [
+        "CEA/DSM/IRFU",
+        "France",
+        "M. Aburas",
+        "A. Four",
+        "CEA/DRF/IRFU",
+        "Gif-sur-Yvette",
+        "France",
+        "H. Hayano",
+        "S. Kato",
+        "T. Kubo",
+        "T. Saeki",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "Kyoto ICR",
+        "Uji",
+        "Kyoto",
+        "Japan",
+        "Multilayers MgO/NbN/MgO/Nb with several thicknesses are being tested by local magnetometry",
+        "Scanning tunneling and various standard structural techniques experiment providing usefull information to compare experiments and recent theoretical advances proposed by A. Gurevich or T. Kubo."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/srf2017/talks/tuyba01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/srf2017/papers/tuyba01.pdf",
+      "poster_url": "https://proceedings.jacow.org/srf2017/posters/tuyba01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2017-TUYBA01",
+      "page_number": "368",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUYBA02",
+      "title": "Thermal Boundary Resistance Model and Defect Statistical Distribution in Nb/Cu Cavities",
+      "authors": [
+        "UniNa",
+        "Napoli",
+        "Italy",
+        "INFN/LNL",
+        "Legnaro (PD)",
+        "Italy",
+        "The ‘Q-slope' problem strongly limits the application of niobium thin film sputtered cavities in high field accelerators. Here we consider the hypothesis that the Q-slope is related to local enhanced of the thermal boundary resistance at the Nb/Cu interface",
+        "due to poor thermal contact between film and substrate. We introduce a simple model that directly connects the Q versus Eacc curves to the distribution function f(RNb/Cu) of RNb/Cu thermal contact at the Nb/Cu interface over the cavity surface. Starting from the experimental curves",
+        "using inverse problem methods",
+        "we deduce the distribution functions generating those curves. The technique has been applied to cavities by different groups",
+        "including LNL/INFN and ISOLDE/CERN. In all cases to explain the data it is sufficient to assume that only a small fraction of the film over the cavity surface is in poor thermal contact with the substrate. The distribution functions typically follow a simple power-law statistical distribution and are temperature independent. The full analysis supports the hypothesis that the main origin of the Q-slope in thin film cavities is indeed related to bad adhesion at the Nb/Cu interface."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/srf2017/talks/tuyba02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/srf2017/papers/tuyba02.pdf",
+      "poster_url": "https://proceedings.jacow.org/srf2017/posters/tuyba02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2017-TUYBA02",
+      "page_number": "374",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUYBA03",
+      "title": "The Way of Thick Films toward a Flat Q-curve in Sputtered Cavities",
+      "authors": [
+        "INFN/LNL",
+        "Legnaro (PD)",
+        "Italy",
+        "Thick films have bulk like properties. In this paper it is explored the possibility to sputter 70 micron thick films in order to get rid of the Q-slope in Niobium sputtered Cop-per Cavities. An innovative method based on the multi-layer deposition of zero-stress single layers is reported. The deposition of zero-stress thick films into 6 GHz Cop-per seamless cavities",
+        "has shown the possibility to obtain straight curves for the Q-factor versus accelerating fields"
+      ],
+      "institutions": [
+        "Work supported by the INFN V group experiment ISIDE and performed under the CERN-INFN-FTSC Agreement N. KE2722/BE/FCC"
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/srf2017/talks/tuyba03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/srf2017/papers/tuyba03.pdf",
+      "poster_url": "https://proceedings.jacow.org/srf2017/posters/tuyba03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-SRF2017-TUYBA03",
+      "page_number": "378",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-11 03:38:26"
+}

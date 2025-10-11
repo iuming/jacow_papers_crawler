@@ -1,0 +1,2296 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2015 - Table of Session: MOPHA (Monday Posters (Harrison))
+
+
+MOPHA —  Monday Posters (Harrison)   (04-May-15   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPHA001
+Transverse Bunch by Bunch Feedback Operations at the Australian Synchrotron Light Source
+769
+
+
+ 
+
+R.T. Dowd, M.P. Atkinson, M.J. Boland, G. LeBlancpresenter, Y.E. Tan, K. Zingre
+                       SLSA, Clayton, Australia
+
+ 
+
+
+ 
+
+The Australian Synchrotron light source has recently put in operation its transverse bunch-by-bunch feedback system during user beam mode. Getting to the stage of stable operation has been a long road and this paper will outline the many difficulties that were encountered. Chief among these are the apparent strong, high frequency, vertical resonances that appear when the storage ring's three in-vacuum undulators are closed to specific gaps. The behaviour of these resonances and their effects on achieving stable feedback operation will be explored in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA001
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA002
+Operational Applications - a Software Framework Used for the Commissioning of the MedAustron Accelerator
+773
+
+
+ 
+
+A. Wastl, M. Hager, M. Regodic
+                       EBG MedAustron, Wr. Neustadt, Austria
+
+ 
+
+
+ 
+
+MedAustron is a synchrotron-based cancer therapy and non-clinical research center located in Austria. Its accelerator is currently being commissioned prior to first medical treatment. During the tuning of the machine, many iterations of measurements involving several parameter changes are performed in order to optimize the accelerator’s performance. An operation and measurement software framework called 'Operational Application Framework' (OpApp) has been developed for this purpose. It follows a modular approach and provides basic methods like ‘write to file’ or ‘measure beam position monitor‘. By appropriately combining modules, OpApps performing automatized measurements and complex procedures can be created. A detailed description of the setup as well as examples of use are provided here.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA003
+Status of ATF2 IP-BPM Project
+777
+
+
+ 
+
+O.R. Blanco-García, P. Bambade, F. Bogard, P. Cornebise, S. Wallon
+                       LAL, Orsay, France
+D.R. Bett, N. Blaskovic Kraljevic, T. Bromwich
+                       JAI, Oxford, United Kingdom
+P. Burrows, G.B. Christian, C. Perry
+                       Oxford University, Physics Department, Oxford, Oxon, United Kingdom
+Y. Honda, K. Kubo, S. Kuroda, T. Naito, T. Okugi, T.T. Tauchi, N. Terunumapresenter
+                       KEK, Ibaraki, Japan
+S.W. Jang, E.-S. Kim
+                       KNU, Deagu, Republic of Korea
+
+ 
+
+
+ 
+
+The efforts during the second half of 2014 towards nano-metric beam position measurement and stabilization at the Interaction Point (IP) section of the Accelerator Test Facility (ATF) at KEK are presented. Recent improvements to the beam position monitor (BPM) data analysis and processing electronics, as well as the installation of a new set of C-Band BPMs, are reviewed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA003
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA004
+Oide Limit Mitigation Studies
+781
+
+
+ 
+
+O.R. Blanco-García, P. Bambade
+                       LAL, Orsay, France
+R. Tomás
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Particle radiation when traversing a focusing quadrupole limits the minimum achievable beam size, known as the Oide limit. This effect may be compensated by a pair of multipoles which reduce the impact of the energy loss in the vertical beam size. Simulations in PLACET using the CLIC 3 TeV QD0 and L⃰ show a reduction of (4.3 ± 0.2)% in the vertical beam size.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA004
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA006
+A Slow RF-Laser Feedback for PHIL Photoinjector
+784
+
+
+ 
+
+N. ElKamchi, V. Chaumat, V. Soskov
+                       LAL, Orsay, France
+
+ 
+
+
+ 
+
+PHIL is an electron beam accelerator at LAL. It produces low energy (E<5 MeV) and high current (1 nC/bunch) electrons bunch at a repetition frequency of 5Hz. The stability of the beam charge at PHIL is a key issue for the succeful operation of the physic experiences that use the machine. At PHIL, the beam charge is quite stable, but we often note a slow charge drift on long duration experiences. Two ICTs, and a back-end electronics are used to monitor the stability of the beam charge, with an accuracy of about 1pC. Several types of jitter can impact the stability of the beam charge. The fluctuations of the RF power or the RF-laser relative phase drift could have significant influence, due to temperature variations that produce cables dilataion, and electronic components overheating. To correct the phase drift, we describe a method based on a slow analog-digital feedback loop between the RF wave in the gun (3 GHz) and the synchronisation signal of the laser (75MHz). It allows to maintain the jitter between the laser pulse and the RF wave stable at a very low value. As a result, the electron beam charge is maintained at a stable level, to meet the requirements of the users.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA006
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA007
+Modeling/Measurement Comparison of Signal Collection in Diamond Sensors in Extreme Conditions
+787
+
+
+ 
+
+V. Kubytskyi, P. Bambade, S. Liu
+                       LAL, Orsay, France
+
+ 
+
+
+ 
+
+Here we present a study of charge collection dynamics in a Diamond Sensor (DS) subjected to intensities from 1 to 108 Minimum Ionizing Particles (MIP). We developed a model based on the numerical solution of the 1D drift-diffusion equations, using the Scharfetter-Gummel discretization scheme. Inhomogeneity of the space-charge distribution together with the externally applied electric field are taken into account by analytically solving the Poisson equation at each time step. We identified two regimes of charge collection. The first corresponds to 1-105 MIPs, in this case the externally applied electric field is negligibly perturbed by space-charge effects during the separation of the electron/hole clouds. The second corresponds to intensities larger than 107 MIPs, where the space-charge effects significantly slow down the charge collection due to large concentrations of electron/hole pairs in the DS volume. The results of our modeling are in qualitative agreement with the experimental data acquired at the PHoto-Injector electron beam facility at LAL. Our model allows optimizing DS parameters to achieve desired charge collection times for different beam intensities.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA007
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA008
+Investigation of Beam Halo Using In Vacuum Diamond Sensor at ATF2
+791
+
+
+ 
+
+S. Liu, P. Bambade, F. Bogard, P. Cornebise, V. Kubytskyipresenter, C. Sylvia
+                       LAL, Orsay, France
+A. Faus-Golfe, N. Fuster-Martínez
+                       IFIC, Valencia, Spain
+T. Tauchi, N. Terunuma
+                       KEK, Ibaraki, Japan
+T. Tauchi, N. Terunuma
+                       Sokendai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: Chinese Scholarship Council, CNRS and P2IO LABEX
+Beam halo transverse distribution measurements are of great importance for the understanding of background sources of the nano-meter beam size monitor at the interaction point (IPBSM) of ATF2. One of the most critical issues for the beam halo measurement is to reach high dynamic range. Two in vacuum diamond sensor beam halo scanners (DSv) with four strips each have been developed for the investigation of beam halo transverse distributions at ATF2. The first DSv was installed for horizontal beam halo scanning after the interaction point (IP) of ATF2, in Nov. 2014. It aims to measure the beam halo distribution with large dynamic range (~106), and investigate the possibility of probing the Compton recoil electrons produced in the interaction with the IPBSM laser beams. Studies to characterize the DS performance and measurements of horizontal beam halo performed in Nov.-Dec. 2014 are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA008
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA009
+Single-Shot Electro-Optic Sampling Combined With Photonic Time-Stretch: Detailed Results at SOLEIL
+795
+
+
+ 
+
+C. Szwaj, C. Evain, E. Roussel
+                       PhLAM/CERLA, Villeneuve d'Ascq, France
+S. Bielawski
+                       PhLAM/CERCLA, Villeneuve d'Ascq Cedex, France
+J.B. Brubach, L. Cassinari, M.-E. Couprie, M. Labat, L. Manceron, J.P. Ricaud, P. Roy, M.-A. Tordeux
+                       SOLEIL, Gif-sur-Yvette, France
+M. Le Parquier
+                       CERLA, Villeneuve d'Ascq, France
+
+ 
+
+
+ 
+
+Funding: ANR (DYNACO project), FEDER, CEMPI LABEX.
+Single-shot recording of pulses is possible with high repetition rates (more than 80 MHz), as was demonstrated in the framework of a PhLAM-SOLEIL collaboration * **. This can be achieved by a relatively simple upgrade of existing setups based on spectral encoding. The strategy consists to encode the sub-picosecond information into the time domain, but at a slower scale (nanoseconds), using dispersion in a long optical fiber. Then the information is recorded by a photodiode connected to an oscilloscope. In this poster, we present guidelines for the practical realization of the electro-optical setup, as well as a performance analysis. In particular, we analyze the temporal resolution and compare it to the classical electro-optical sampling setup.
+* E. Roussel et al., Proceedings of IPAC2014, THOBA01. ** E. Roussel et al., arXiv:1410.7048
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA009
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA010
+RF Feedback and Detuning Studies for the BESSY Variable Pulse Length Storage Ring Higher Harmonic SC Cavities
+798
+
+
+ 
+
+A. Neumann, P. Echevarria, P. Goslawski, M. Ries, M. Ruprecht, A.V. Vélez, G. Wüstefeld
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+For the feasibility of the BESSY VSR upgrade project of BESSY II two higher harmonic systems at a factor of 3 and 3.5 of the ring's RF fundamental of 500 MHz will be installed in the ring. Operating in continuous wave at high average accelerating field of 20 MV/m and phased at zero-crossing, the superconducting cavities have to be detuned within tight margins to ensure stable operation and low power consumption at a loaded Q of 5·107. The field variation of the cavities is mainly driven by the repetitive transient beam-loading of the envisaged complex bunch fill pattern in the ring. Within this work combined LLRF-cavity and longitudinal beam dynamics simulation will demonstrate the limits for stable operation, especially the coupling between synchrotron oscillation and RF feedback settings. Further impact by beam current decay and top-up injection shots are being simulated.
+* G. Wüstefeld et al., IPAC 11, San Sebastiàn, Spain, p. 2936.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA012
+A New FPGA Based Timing System at ELSA
+802
+
+
+ 
+
+D. Proft, W. Hillert
+                       ELSA, Bonn, Germany
+
+ 
+
+
+ 
+
+At the electron stretcher facility ELSA a beam intensity upgrade from 20 mA to 200 mA is in progress. Investigations showed, that the maximum beam current is currently limited by excitation of beam instabilities. For separated characterization of single bunch instabilities from multi-bunch ones, a high beam current stored in a single revolving bunch is required. These high beam currents can only be achieved by accumulation of many shots from the injector. The existing timing system is not capable of single bunch injection and accumulation in the main stretcher ring. Therefore a new FPGA based timing system, synchronized to the RF system of the accelerator, has been developed which will completely supersede the existing one. Simultaneously the ‘‘slow'' timing system, providing trigger signals for the typically 6 s long accelerator cycle, is also modernized using a similar FPGA based solution to achieve a much better duty cycle during standard operation. In this contribution the FPGA designs laying the focus on the single bunch accumulation will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA012
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA013
+Superconducting Radio Frequency Cavity Degradation Due to Errant Beam
+805
+
+
+ 
+
+C.C. Peters, D. Curry, G.D. Johns
+                       ORNL RAD, Oak Ridge, Tennessee, USA
+A.V. Aleksandrov, W. Blokland, M.T. Crofford, C. Deibele, G.W. Dodson, J. Galambos, T.A. Justice, S.-H. Kim, T.A. Pelaia II, M.A. Plum, A.P. Shishlo
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL is managed by UT-Battelle, LLC, under contract DE-AC05- 00OR22725 for the U.S. Department of Energy.
+In 2009, the Superconducting Radio Frequency (SRF) cavities at the Spallation Neutron Source (SNS) began to experience significant operational degradation [1]. The source of the degradation was found to be repeated striking of cavity surfaces with errant beam pulses. The Machine Protection System (MPS) was designed to turn the beam off during a fault condition in less than 20 μseconds [2] as these errant beam pulses were not unexpected. Unfortunately an improperly operating MPS was not turning off the beam within the designed 20 μseconds, and the SRF cavities were being damaged. The MPS issues were corrected, and the SRF performance was restored with cavity thermal cycling and RF processing. However, the SRF cavity performance has continued to degrade, though at a reduced rate compared to 2009. This paper will detail further study of errant beam frequency, amount lost per event, causes, and the corrective actions imposed since the initial event.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA013
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA014
+Magnetic Field Parametrization for Efficient Spin Tracking with POLE
+808
+
+
+ 
+
+J.F. Schmidt, W. Hillert
+                       ELSA, Bonn, Germany
+
+ 
+
+
+ 
+
+Funding: BMBF
+The new spin dynamics simulation suite pole is designed to perform systematic studies of beam depolarization in circular accelerators with short storage times or fast energy ramps. It is based on spin tracking using a Runge-Kutta algorithm with adaptive step width. pole can approximate the magnetic fields of the accelerator with a Fourier series to reduce computing time. Therefore, the magnetic field distribution is simplified with frequency filters by a C++ library before the spin tracking. The versatile library deals with import and export of lattices and particle trajectories from MAD-X and Elegant. The derived magnetic field distributions can be interpolated, Fourier transformed and accessed easily by applications. This contribution discusses advantages and disadvantages of the frquency filtering concept.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA014
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA015
+Measurement of Momentum Compaction Factor via Depolarizing Resonances at ELSA
+811
+
+
+ 
+
+J.F. Schmidt, W. Hillert, M. Schedler, J.-P. Thiry
+                       ELSA, Bonn, Germany
+
+ 
+
+
+ 
+
+Funding: DFG
+Measuring beam depolarization at energies in close proximity to a depolarizing integer resonance is an established method to determine the beam energy of a circular accelerator. This technique offers high accuracy due to the small resonance widths. Thus, also other accelerator parameters related to beam energy can be measured based on this method. This contribution presents a measurement of the momentum compaction factor with a high precision of 10-4. It was performed at the 164 m stretcher ring of the Electron Stretcher Facility ELSA at Bonn University, which provides a polarized electron beam of up to 3.2 GeV.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA019
+Implementation of a High Level Phase Controller for the Superconducting Injector of the S-DALINAC
+814
+
+
+ 
+
+T. Bahlo, C. Burandt, F. Hug, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: This work has been supported by the DFG through CRC 634
+The Superconducting DArmstadt LINear Accelerator S‑DALINAC is a recirculating electron accelerator with a design energy of 130 MeV. It operates in cw-mode at a radio frequency of 3 GHz and provides either unpolarized or polarized electron beams. Before entering the main accelerator the electron beam passes both, a normal-conducting injector beamline for beam preparation and a superconducting 10 MeV injector beamline for preacceleration. The phase of the beam which is injected into the 40 MeV main accelerator is crucial for the efficiency of the acceleration process and the minimization of the energy spread. Due to thermal drifts of the normal-conducting injector cavities this injection phase varies by about 0.2 degree over a timescale of an hour. In order to compensate these drifts, a high level phase controller has been implemented. It adjusts the phase measured at an rf-monitor at the exit of the superconducting injector by changing the phase of a prebuncher in the normal-conducting injector beamline. We will present the used hardware, the control algorithm as well as measurements showing the phase stabilization achieved by this controller.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA020
+Automated Transverse Beam Emittance Measurement using a Slow Wire Scanner at the S-DALINAC
+817
+
+
+ 
+
+P. Dijkstal, M. Arnold, C. Burandt, F. Hug, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: This work has been supported by the DFG through CRC 63 and by the EPS-AG through the EPS-AG student grant program.
+The superconducting linear accelerator S-DALINAC of the TU Darmstadt provides electron beams of up to 130 MeV in cw mode. It consists of a 10 MeV injector and a 40 MeV main linac, both equipped with elliptical cavities operating in liquid helium at 2 K at a frequency of 3 GHz. The final energy is reached by using up to two recirculation paths. In order to improve beam simulations, it is planned to monitor the transverse beam emittance at different locations along the beam line. A system of slow wire scanners in combination with quadrupole variation is foreseen to accomplish this task. For a first test a wire scanner was installed in the 250 keV section behind the thermionic electron gun of the S-DALINAC. A procedure to automatize measurements was developed and integrated in the EPICS-based control system. We will show the status of the work on the automatized control and the results of first emittance measurements. A report on the future plans will be given.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA020
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA021
+Bunch-by-Bunch Longitudinal RF Feedback for Beam Stabilization at FAIR
+820
+
+
+ 
+
+K. Groß, H. Klingbeil
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+U. Hartel, H. Klingbeil, U. Laier, D.E.M. Lens, K.-P. Ningel, S. Schäfer, B. Zipfel
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by the German Federal Ministry of Education and Research (BMBF) under the project 05P12RDRBF.
+To damp undesired longitudinal oscillations of bunched beams, the main synchrotron SIS100 of FAIR (Facility for Antiproton and Ion Research) will be equipped with a bunch-by-bunch feedback system. This helps to stabilize the beam, to keep longitudinal emittance blow-up low and to minimize beam losses. The proposed LLRF (low level radio frequency) topology of the closed loop feedback system is described. In some aspects, it is similar to the beam phase control system* developed at GSI Helmholtzzentrum für Schwerionenforschung GmbH. The differences and challenges are pointed out, which are mainly the bunch-by-bunch signal processing followed by the generation of a correction voltage in dedicated feedback cavities. The adapted topology was verified at SIS18 during beam time in 2014 using LLRF prototype subsystems and the two existing ferrite-loaded acceleration cavities. The experimental setup to damp coherent longitudinal dipole oscillations is presented and evaluated with focus on the realized modifications, including ongoing and pending investigations. Finally, the current status of the longitudinal feedback system for FAIR is summarized.
+* Klingbeil et al., IEEE Trans. Nuc. Sci., Vol. 54, No. 6, 2007.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA021
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA023
+Observation of Coherent Pulses in the Sub-THz Range at DELTA
+823
+
+
+ 
+
+C. Mai, F.H. Bahnsen, M. Bolsinger, S. Hilbrich, M. Huck, M. Höner, S. Khan, A. Meyer auf der Heide, R. Molo, H. Rast, G. Shayeganrad, P. Ungelenk
+                       DELTA, Dortmund, Germany
+M. Brosi, B. Kehrer, A.-S. Müller, M.J. Nasse, P. Schönfeldt, P. Schütze, S. Walther
+                       KIT, Karlsruhe, Germany
+H. Huck
+                       DESY Zeuthen, Zeuthen, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by the BMBF (05K13PEC).
+Coherent ultrashort THz pulses induced by a laser-electron interaction are routinely produced and observed at DELTA, a 1.5-GeV synchrotron light source operated by the TU Dortmund University. The turn-by-turn evolution of the radiation spectrum is known to shift to the sub-THz regime after the initial laser-electron interaction. Recently, an ultrafast YBCO-based THz detector has been permanently installed and a Schottky diode has been tested at the THz beamline. Measurements with these detectors showing the temporal evolution of the coherent signals after several revolutions are presented. Furthermore, the concept of a recently designed Fourier-transform spectrometer optimized for the sub-THz region is shown.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA024
+A Novel Transverse Deflecting Cavity for Slice Diagnostics at BERLinPro
+827
+
+
+ 
+
+A. Ferrarotto, B. Riemann, T. Weispresenter
+                       DELTA, Dortmund, Germany
+H.-W. Glock, T. Kamps, J. Völker
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by BMBF under contract no. 05K10PEA
+BERLinPro is an energy-recovery linac project to be realized at the Helmholtz-Zentrum Berlin (HZB) for an electron beam with 1mm mrad normalized emittance and 100 mA average current. The initial beam parameters are determined by the performance of the electron source, an SRF photo-electron injector. The development auf this SRF photon-electron injector is a main task of BERLinPro. Especially the beam emittance is basically defined by the SRF photogun. For beam diagnostics time dependent effects from the RF curvature and space charge must be taken into account and a sophisticated slice diagnostics is required. To perform this type of diagnostics a transverse deflecting cavity has been designed, characterized and is presently under construction.. This single cell cavity operates in a TM110-like mode at 1.3 GHz optimized for high transverse shuntimpedance of appr. 3.2 MOhm by a concentration of fields near the beam axis. The cavity has a novel geometry that allows for an operation with both polarizations of the TM110-Mode. The layout of the deflecting cavity will be presented together with the results of the low RF characterization.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA025
+Control System for FRANZ Facility
+830
+
+
+ 
+
+S.M. Alzubaidi, O. Meusel, U. Ratzinger, C. Wagner
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+The Frankfurt Neutron Source at the Stern- Gerlach Zentrum (FRANZ) will use the reaction of 7Li(p, n)7Be to produce an intense neutron beam. The neutron energy will be between 10 and 500 keV depending on the primary proton beam, which is variable between 1.8 and 2.2 MeV. A volume type ion source will be used to deliver a 120 keV proton beam with currents up to 200 mA. Like any other facility, FRANZ will need a powerful and reliable control system that also allows monitoring the whole accelerator target areas and experiments. Also interlock and safety systems have to be included to protect personnel from radiation hazards associated with accelerator operations and accompanying experiments. The FRANZ control system is still under development. The ion source will be the first element to be controlled, and to gain experience. A test ion source will be used for testing and examining the performance of this control system. In this paper, the plasma properties, filament ageing and an internal control loop for stable beam production with respect to controlling issues will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA026
+Present and Future Optical-to-Microwave Synchronization Systems at REGAE Facility for Electron Diffraction and Plasma Acceleration Experiments
+833
+
+
+ 
+
+M. Titberidze, F.J. Grüner, A.R. Maier, B. Zeitler
+                       CFEL, Hamburg, Germany
+S.W. Epp
+                       MPSD, Hamburg, Germany
+M. Felber, K. Flöttmann, T. Lamb, U. Mavrič, J.M. Muellerpresenter, H. Schlarb, C. Sydlo
+                       DESY, Hamburg, Germany
+F.J. Grüner, A.R. Maier, M. Titberidze
+                       Uni HH, Hamburg, Germany
+E. Janas
+                       Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+
+ 
+
+
+ 
+
+Relativistic Electron Gun for Atomic Explorations (REGAE) is a Radio Frequency (RF) driven linear accelerator. It uses frequency tripled short photon pulses (~ 35 fs) from the Titanium Sapphire (Ti:Sa.) Laser system in order to generate electron bunches from the photo-cathode. The electron bunches are accelerated up to ~ 5 MeV kinetic energy and compressed down to sub-10 fs using the so called ballistic bunching technique. REGAE currently is used for electron diffraction experiments (by Prof. R.J.D. Miller's Group). In near future within the collaboration of Laboratory for Laser- and beam-driven plasma Acceleration (LAOLA), REGAE will also be employed to externally inject electron bunches into laser driven linear plasma waves. Both experiments require very precise synchronization (sub-50 fs) of the photo-injector laser and RF reference. In this paper we present experimental results of the current and new optical to microwave synchronization systems in comparison. We also address some of the issues related to the current system and give an upper limit in terms of its long-term performance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA026
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA027
+Transverse Emittance Measurement at REGAE
+837
+
+
+ 
+
+M. Hachmann, K. Flöttmann
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The linear accelerator REGAE at DESY produces short and low charged electron bunches, on the one hand to resolve the excitation transitions of atoms temporally by pump probe electron diffraction experiments and on the other hand to investigate principal mechanisms of laser plasma acceleration. For both cases a high quality electron beam is required which can be identified with a small beam emittance. A standard magnet scan is used for the emittance measurement which is in case of a low charged bunch most sensitive to the beam size determination (2nd central moment of a distribution). Therefore the diagnostic and a routine to calculate proper central moments of an arbitrary distribution will be introduced and discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA027
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA028
+Operation of Normal Conducting RF Guns with MicroTCA.4
+841
+
+
+ 
+
+M. Hoffmann, V. Ayvazyan, J. Branlard, Ł. Butkowski, M.K. Grecki, U. Mavrič, M. Omet, S. Pfeiffer, H. Schlarb, Ch. Schmidt
+                       DESY, Hamburg, Germany
+W. Fornal, R. Rybaniec
+                       Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+A. Piotrowski
+                       FastLogic Sp. z o.o., Łódź, Poland
+
+ 
+
+
+ 
+
+During the last half year, the MicroTCA.4 based single cavity LLRF control system was installed and commissioned at several normal conducting facilities at DESY (FLASH RF gun, REGAE, PITZ RF gun, and XFEL RF gun). First tests during the last year show promising results in optimizing the system for high speed digital LLRF feedbacks, i.e. reducing system latency, increasing the internal controller processing speed, testing new control schemes, and optimizing controller parameters. In this contribution we will present results and gained experience from the commissioning phase and the first time period of real operation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA028
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA029
+Operation Experiences with the MICROTCA.4-based LLRF Control System at FLASH
+844
+
+
+ 
+
+M. Omet, V. Ayvazyan, J. Branlard, Ł. Butkowski, M.K. Grecki, M. Hoffmannpresenter, F. Ludwig, U. Mavrič, S. Pfeiffer, K.P. Przygoda, H. Schlarb, Ch. Schmidt, H.C. Weddig, B.Y. Yang
+                       DESY, Hamburg, Germany
+W. Cichalewski, D.R. Makowski
+                       TUL-DMCS, Łódź, Poland
+K. Czuba, K. Oliwa, I. Rutkowski, R. Rybaniec, D. Sikora, W. Wierba, M. Żukociński
+                       Warsaw University of Technology, Institute of Electronic Systems, Warsaw, Poland
+A. Piotrowski
+                       FastLogic Sp. z o.o., Łódź, Poland
+
+ 
+
+
+ 
+
+The Free-Electron Laser in Hamburg (FLASH) at Deutsches Elektronen-Synchrotron (DESY), Hamburg Germany is a user facility providing ultra-short, femtosecond laser pulses up to the soft X-ray wavelength range. For the precise regulation of the radio frequency (RF) fields within the 60 superconducting cavities, which are organized in 5 RF stations, digital low level RF (LLRF) control systems based on the MTCA.4 standard were implemented in 2013. Until now experiences with failures potentially due to radiation, overheating, and ageing as well as with the general operation of the control systems have been gained. These have a direct impact on the operation and on the performance of FLASH and will allow future improvements. The lessons learned are not only important for FLASH but also in the scope of European X-ray Free-Electron Laser (X-FEL), which will be operated with the same LLRF control system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA029
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA030
+Commissioning of the Low-Noise MTCA.4-based Local Oscillator and Clock Generation Module
+847
+
+
+ 
+
+U. Mavrič, J. Branlard, M. Hoffmannpresenter, F. Ludwig, H. Schlarb
+                       DESY, Hamburg, Germany
+D.R. Makowski, A. Mielczarek, P. Perek
+                       TUL-DMCS, Łódź, Poland
+A. Rohlev
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Funding: Helmholtz Validation Fund Project "MicroTCA.4 for Industry"
+Within the Helmholtz Validation Fund Project "MicroTCA.4 for Industry", DESY together with collaboration partners from industry and research developed a compact fully MicroTCA chassis-integrated local RF oscillator module. The local oscillator and clock generation module generates a low noise local oscillator out of the global reference that is distributed over the accelerator. The module includes a splitting section which provides 9 local oscillator signals which are distributed over the RF-Backplane to the rear-transition modules. Similarly, the clock signal is also generated out of a single reference input by means of low-noise dividers. The clock is then fan-out to 22 differential lines that are routed over the RF backplane to the rear-transition modules. The functional block is implemented such that it fits in the rear slots 15 and 14 of a standard MTCA.4 crate. In the paper the commissioning results measured on the L3 low-level RF stations of the European XFEL will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA031
+Implementation of a Diagnostic Pulse for Beam Optics Stability Measurements at FLASH
+850
+
+
+ 
+
+F. Mayet, R.W. Aßmann, S. Schreiber, M. Vogt
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+In order to monitor long-term stability of beam optics, simple and at the same time minimally invasive procedures are desirable. Using selectively kicked bunches, betatron phase advance, as well as potential growth of the betatron oscillation amplitude and the Twiss parameters alpha and beta can be extracted from BPM data. If done periodically, this data can be compiled into a long-term history that is accessible via the control system. This way it is possible to identify potential sources of beam optics errors. At FLASH the procedure could be implemented as a server/client tool. Since the whole procedure takes less than five seconds, operation is not disturbed significantly. In this work the possible implementation of the procedure is presented. It is also shown how the history data can be evaluated in order to infer possible beam optics error sources.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA031
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA032
+All-Optical Synchronization of Pulsed Laser Systems at FLASH and XFEL
+854
+
+
+ 
+
+J.M. Müller, M.K. Czwalinna, M. Felber, M. Schäfer, H. Schlarb, B. Schmidt, S. Schulz, C. Sydlo, F. Zummack
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The all-optical laser synchronization at FLASH and XFEL provides femtosecond-stable timing of the FEL X-ray photon pulses and associated optical laser pulses (photo-injector laser, seed laser, pump-probe laser, etc.). Based on a two-color balanced optical cross-correlation scheme a high-precision measure of the laser pulse arrival time is delivered, which is used for diagnostic purposes as well as for the active stabilization of the laser systems. In this paper, we present the latest installations of our all-optical synchronization systems at FLASH and the recent developments for the upcoming European XFEL that will ensure a reliable femtosecond-stable timing of FEL and related pulsed laser systems.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA032
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA033
+Physical Parameter Identification of Cross-Coupled Gun and Buncher Cavity at REGAE
+857
+
+
+ 
+
+A.S. Nawaz, H. Werner
+                       TUHH, Hamburg, Germany
+M. Hoffmannpresenter, S. Pfeiffer, H. Schlarb
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+A reasonable description of the system dynamics is one of the key elements to achieve high performance control for accelerating modules. This paper depicts the system identification of a cross-coupled pair of cavities for the Relativistic Electron Gun for Atomic Exploration - REGAE. Two normal conducting copper cavities driven by a single RF source accelerate and compress a low charge electron bunch with sub 10 fs length at a repetition rate up to 50 Hz. It is shown how the model parameters of the cavities and the attached radio frequency subsystem are identified from data generated at the REGAE facility.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA034
+High Voltage RTM Piezo Driver for XFEL Special Diagnostics
+860
+
+
+ 
+
+K.P. Przygoda, M. Felber, C. Gerth, M. Heuer, E. Janas, U. Mavrič, P. Peier, H. Schlarb, B. Steffen, C. Sydlo
+                       DESY, Hamburg, Germany
+T. Kozak, P. Prędki
+                       TUL-DMCS, Łódź, Poland
+
+ 
+
+
+ 
+
+High voltage RTM Piezo Driver has been developed to support special diagnostic applications foreseen for XFEL facility. The RTM is capable of driving 4 piezo actuators with voltages up to ±80 V. The solid-state power amplifiers are driven using 18-bit DACs and sampling rates of 1 MSPS. The bandwidth of the driver is remotely tunable using programmable low pass filters. The 4-channel Piezo Driver unit provides the information of piezo output voltage and current. Three independent test setups have been built to test 4-channel Piezo Driver performance. In the paper we are presenting EOD laser lock to 1.3 GHz FLASH master oscillator using bipolar piezo stretcher (fine tuning). The piezo motor based course tuning has been applied for the long term laser stability measurements. The unipolar piezo actuator operation has been demonstrated for the Origami Onefive laser locked to 1.3 GHz LAB MO. The preliminary results of active stabilization of 3 km fiber link laboratory setup are shown.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA034
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA035
+Beam Optics Measurements at FLASH2
+863
+
+
+ 
+
+M. Scholz, M. Vogtpresenter, J. Zemella
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+FLASH2 is a newly build second beamline at FLASH, a soft X-ray FEL at DESY, Hamburg. Unlike the existing beamline FLASH1, it is equipped with variable gap undulators. This beamline is currently being commissioned. Both undulator beamlines of FLASH are driven by a common linear accelerator. Fast kickers and a septum are installed at the end of the linac to distribute the electron bunches of every train between FLASH1 and FLASH2. A specific beam optics in the extraction arc with horizontal beam waists in the bending magnets is mandatory in order to mitigate effects from coherent synchrotron radiation (CSR). We performed various beam optics measurements to ensure that the conditions for FEL operation at FLASH2 are fulfilled. Here we will show results of measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA035
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA037
+Visible Light Diagnostics at the ANKA Storage Ring
+866
+
+
+ 
+
+B. Kehrer, A. Borysenkopresenter, E. Hertle, N. Hiller, M. Holz, A.-S. Müller, P. Schönfeldt, P. Schütze
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+Synchrotron radiation in the visible light range is a versatile diagnostics tool for accelerator studies. At the ANKA storage ring of the Karlsruhe Institute of Technology (KIT), we have a dedicated visible light diagnostics beamline and two additional beam ports close to the radiation's source point. The visible light diagnostics beamline hosts a time-correlated single-photon-counting unit to measure the bunch filling pattern and a streak camera for longitudinal diagnostics. Recently, the beamline has been extended with a fast-gated intensified camera to study transverse instabilities. The synchrotron light monitor ports were previously used for direct source imaging. Due to the diffraction limit the vertical beam size could not be resolved. One of the two ports has recently been equipped with a double-slit to allow for interferometric measurements of the vertical beam size. In this paper we give an overview of the different setup modifications and present first results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA037
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA038
+Studies for a Wakefield-Optimized Near-Field EO Setup at the ANKA Storage Ring
+869
+
+
+ 
+
+P. Schönfeldt, A. Borysenkopresenter, N. Hiller, B. Kehrer, A.-S. Müller
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+Funding: This work is funded by the BMBF contract numbers 05K10VKC, and 05K13VKA.
+ANKA, the synchrotron light source of the Karlsruhe Institute of Technology (KIT), is the first storage ring with a near-field single-shot electro-optical (EO) bunch profile monitor inside its vacuum chamber. Using the method of electro-optical spectral decoding (EOSD), the current setup made it possible to study longitudinal beam dynamics (e.g. microbunching) occurring during ANKA's low-alpha-operation with sub-ps resolution (granularity). However, the setup induces strong wake-fields spanning the distance between consecutive bunches which cause heat load to the in-vacuum setup for high beam currents. This heat load in turn leads to a laser misalignment thus preventing measurements during multi-bunch operation. Fortunately, the EOSD setup also allows us to directly study these wake-fields so simulation results can be compared to measurement data. This paper reviews possible changes of the setup's geometry with respect to a reduction of the wakefield effects.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA038
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA039
+A Fast Gated Intensified Camera Setup for Transversal Beam Diagnostics at the ANKA Storage Ring
+872
+
+
+ 
+
+P. Schütze, A. Borysenkopresenter, E. Hertle, N. Hiller, B. Kehrer, A.-S. Müller, P. Schönfeldt
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+ANKA, the synchrotron light source at Karlsruhe Institute of Technology (KIT), can be operated in different modes including the short bunch operation with bunch lengths compressed to a few picoseconds. In this mode, coherent synchrotron radiation (CSR) is emitted leading to beam instabilities. For gaining further insight into those processes, a setup based on a fast gated intensified camera was installed recently at the visible light diagnostics beamline of the ANKA storage ring. The experimental layout consists of an optical setup, which magnifies the image of the beam in the horizontal and demagnifies it in the vertical plane to obtain a projection of the horizontal beam shape, the camera itself and a fast scanning galvanometric mirror that sweeps this image across the sensor. This allows the tracking of the horizontal bunch size and position over many turns. In this paper we present the setup and show first measurement results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA039
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA040
+First Results of Energy Measurements with a Compact Compton Backscattering Setup at ANKA
+876
+
+
+ 
+
+C. Chang, E. Bründermann, E. Hertle, N. Hiller, E. Huttel, A.-S. Müller, M.J. Nasse, M. Schuh, J.L. Steinmann
+                       KIT, Karlsruhe, Germany
+H.-W. Hübers, H. Richter
+                       DLR, Berlin, Germany
+
+ 
+
+
+ 
+
+Funding: This work is funded by the European Union under contract PITN-GA-2011-289191
+An electron energy measurement setup based on the detection of Compton backscattered photons, generated by laser light scattered off the relativistic electron beam, has been proposed and developed for operation at the ANKA storage ring of the Karlsruhe Institute of Technology (KIT). In contrast to conventional methods based on head-on collisions, the setup at ANKA is, for the first time, realized in a transverse configuration where the laser beam hits the electron beam at an angle of ~90°. This makes it possible to achieve a relatively low-cost and very compact setup since it only requires a small side-port instead of a straight section. This development could benefit storage rings with restricted space or where no straight sections are available, for example due to interferences with existing beamlines. The setup and the first measurement results are presented in the paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA040
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA041
+Laser Wire Based Transverse Emittance Measurement of H− Beam at Spallation Neutron Source
+879
+
+
+ 
+
+Y. Liu, A.V. Aleksandrov, C.D. Long, A.A. Menshov, A.P. Zhukov
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: ORNL/SNS is managed by UT-Battelle, LLC, for the U.S. Department of Energy under contract DE-AC05-00OR22725.
+A laser wire based transverse emittance measurement system has been developed at the Spallation Neutron Source (SNS). The system enables a nonintrusive measurement of the transverse emittance in both directions on a 925 MeV/1 MW hydrogen ion (H−) beam at the high energy beam transport (HEBT) beam line.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA041
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA042
+Online Studies of THz-radiation in the Bursting Regime at ANKA
+882
+
+
+ 
+
+M. Brosi, C.M. Caselle, E. Hertle, N. Hiller, A. Kopmann, A.-S. Müller, M. Schwarzpresenter, P. Schönfeldt, J.L. Steinmann, M. Weber
+                       KIT, Eggenstein-Leopoldshafen, Germany
+
+ 
+
+
+ 
+
+Funding: This work has been supported by the Initiative and Networking Fund of the Helmholtz Association under contract number VH-NG-320
+The ANKA storage ring of the Karlsruhe Institute of Technology (KIT) operates in the energy range from 0.5 to 2.5 GeV and generates brilliant coherent synchrotron radiation in the THz range with a dedicated bunch length reducing optic. The producing of radiation in the so-called THz-gap is challenging, but this intense THz radiation is very attractive for certain user experiments. The high degree of compression in this so-called low-alpha optics leads to a complex longitudinal dynamics of the electron bunches. The resulting micro-bunching instability leads to time dependent fluctuations and strong bursts in the radiated THz power. The study of these fluctuations in the emitted THz radiation provides insight into the longitudinal beam dynamics. Fast THz detectors combined with KAPTURE, the dedicated KArlsruhe Pulstaking and Ultrafast Readout Electronics system developed at KIT, allow the simultaneous measurement of the radiated THz intensity for each bunch individually in a multi-bunch environment. This contribution gives an overview of the first experience gained using this setup as an online diagnostics tool.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA042
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA043
+Properties of Transition- and Synchrotron Radiation at FLUTE
+885
+
+
+ 
+
+M. Schwarz, A.-S. Müller
+                       KIT, Karlsruhe, Germany
+M.T. Schmelling
+                       MPI-K, Heidelberg, Germany
+
+ 
+
+
+ 
+
+FLUTE (Ferninfrarot Linac Und Test Experiment) is a 41 MeV linear accelerator currently under construction at KIT. It is aimed at accelerator physics and THz radiation research. For this reason the machine will cover a wide range of bunch charges (1 pC up to 3 nC) and lengths (1 fs to 300 fs). One aim of FLUTE is the study of different mechanisms for the generation of intense THz pulses, such as transition- (TR) or synchrotron radiation (SR). In this contribution, we calculate and compare various pulse properties, such as spectra, and electric fields, for both TR and SR.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA043
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA044
+Testing a Digital Beam Position Stabilization for the P2-experiment at MESA
+888
+
+
+ 
+
+M. Dehn, K. Aulenbacher, J. Diefenbach, F. Fichtner, R. Herbertz, W. Klag
+                       IKP, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by the German Federal Ministry of Education and Research (BMBF) and German Research Foundation (DFG) under the Collaborative Research Center 1044 and the Cluster of Excellence "PRISMA"
+The Mainz Energy recovering Superconducting Accelerator (MESA) will be built at the institute for nuclear physics at Mainz University. Besides the multi-turn energy recovery mode an external beam mode is foreseen to provide 155 MeV electrons of 85% polarization at 150 μA for parity violating experiments. To achieve the required stability of the main beam parameters a dedicated digital position stabilization is currently developed and tested at the Mainz Microtron (MAMI).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA044
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA045
+Developments and Performance of the LLRF System of the S-Band FERMI Linac
+891
+
+
+ 
+
+A. Fabris, F. Gelmetti, M. Milloch, M. Predonzani
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+The requirements on beam quality on the FERMI Free Electron Laser (FEL) linac impose challenging specifications on the stability of the RF fields that can only be met by using high reliable and high performance state of the art LLRF systems. The system installed in FERMI has met these requirements and is routinely operational for the machine on a 24/7 basis. The completion of the deployment of the LLRF units in 2015 increases the capabilities of the system, adding further measurement channels and monitoring, and allowing new functionalities. This paper provides an overview of the results achieved with the LLRF system of FERMI and an outlook of the further developments that are being implemented or planned.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA045
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA046
+!CHAOS Status and Evolution
+894
+
+
+ 
+
+G. Mazzitelli, C. Bisegni, S. Caschera, G. Di Pirro, L.G. Foggetta, R. Gargana, E. Gioscio, D. Maselli, A. Michelotti, R. Orrù, S. Pioli, F. Spagnoli, A. Stecchi, M. Tota
+                       INFN/LNF, Frascati (Roma), Italy
+D.G.C. Di Giulio
+                       INFN-Roma II, Roma, Italy
+
+ 
+
+
+ 
+
+A synthesis of the “!CHAOS: a cloud of controls” project and its application to accelerators and large experiments will be presented. We will describe here how the !CHAOS project has evolved from a candidate for the SuperB accelerator control system to a facility for IT distributed infrastructures. !CHAOS is currently, not only suitable for accelerators and large High Energy Physics (HEP) experiments, but is also applicable to other contexts, such as social and industrial applications. Preliminary results achieved on an accelerator use case are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA046
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA047
+RF System Design for the TOP-IMPLART Accelerator
+897
+
+
+ 
+
+V. Surrenti, G. Bazzano, P. Nenzi, L. Picardi, C. Ronsivalle
+                       ENEA C.R. Frascati, Frascati (Roma), Italy
+F. Ambrosini
+                       Università di Roma "La Sapienza", SAPIENZA-DIET, Roma, Italy
+
+ 
+
+
+ 
+
+In the ENEA-Frascati research center a linear accelerator for proton therapy is under development in the framework of TOP-IMPLART Project carried out by ENEA in collaboration with ISS and IRE-IFO. The machine is based on a 7 MeV injector operating at a frequency of 425 MHz followed by a sequence of 2997.92 MHz accelerating modules. Five 10 MW klystrons will be used to power all high frequency structures up to a beam energy of 150 MeV. The maximum repetition frequency is 100 Hz and the pulse duration is 4 μs. The RF amplitude and phase stability requirements of the accelerating field are within ±2% and ±2 degrees respectively. For therapeutic use the beam energy will be varied between 85 and 150 MeV by switching off the last modules and varying the electric field amplitude in the last module switched on. Fast control of the RF power supplied to the individual structures allows an energy variation on a pulse by pulse basis; furthermore the system must be able to control the RF phase between accelerating structures. This work describes the RF power distribution scheme and the RF phase and amplitude monitoring system implemented into an embedded control system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA047
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA048
+Beam Optimization of the DAΦNE Beam Test Facility
+901
+
+
+ 
+
+L.G. Foggetta, B. Buonomo
+                       INFN/LNF, Frascati (Roma), Italy
+P. Valente
+                       INFN-Roma, Roma, Italy
+
+ 
+
+
+ 
+
+The DAΦNE Beam Test Facility delivers electron and positron beam with a wide spread of parameters in charge, energy, transverse dimensions and time width. Thanks to the recent improvements of the diagnostics, all the beam parameters have been measured and optimized. In particular we report here some results on beam transverse size, divergence, and position stability for different energy and intensity configurations. After the upgrade of the electronic gun of the DAΦNE LINAC, the pulse time width and charge distribution have been also characterized.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA048
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA049
+Evolution of Diagnostics and Services of the DAΦNE Beam Test Facility
+904
+
+
+ 
+
+L.G. Foggetta, B. Buonomo
+                       INFN/LNF, Frascati (Roma), Italy
+P. Valente
+                       INFN-Roma, Roma, Italy
+
+ 
+
+
+ 
+
+The DAΦNE Beam Test Facility (BTF) is operational in Frascati since 2003. In the last years the beam diagnostics tools have been completely renewed and the services for users have been largely improved. We describe here the new transverse beam diagnostics based on new GEM TPC detectors and Timepix/FitPix, the new BTF network layout, the renewed DAQ system including the BCM detectors, the data caching system based on MEMCached and the integration of the new sub-systems in the new data-logging. All other services, such as the environmental monitoring system, vacuum system, payload remote handling, and gas distribution have been also improved.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA049
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA050
+Online Spill Intensity Monitoring for Improving Extraction Quality at CNAO
+907
+
+
+ 
+
+M. Caldara
+                       University of Bergamo, Bergamo, Italy
+J. Bosser, G.M.A. Calvi, L. Lanzavecchia, A. Parravicini, C. Viviani
+                       CNAO Foundation, Milan, Italy
+E. Rojatti
+                       UniPV, Pavia, Italy
+
+ 
+
+
+ 
+
+The CNAO Foundation is the first Italian center for deep hadrontherapy with Protons and Carbon Ions, performing treatments since September 2011. The extracted beam energy and intensity can vary over a wide range (60-250 MeV for Protons and 120-400 MeV/u for Carbon Ions, 4e6/1010 pps); the beam intensity uniformity during the slow extraction process is a fundamental requirement for achieving accurate and fast treatments. CNAO developed an online Fast Intensity Monitor (FIM), not perturbing the extracted beam, capable of measuring beam intensity with a bandwidth of 50kHz and a resolution of 1%. It consists of a thin (0.8 μm) metallic foil that emits secondary electrons when traversed by the beam. The electrons are multiplied by a Channeltron device, polarized at high voltage versus ground. The Channeltron output current is amplified and converted in a Pulse Width Modulated (PWM) signal, which is then decoupled and transmitted to the equipment room, where an FPGA implements a servo-spill. The work presents the detector, the floating electronics, the preliminary measurements with beam and the integration in a closed loop on the synchrotron air-core quadrupole obtaining promising results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA050
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA051
+Scintillating Fibers used as Profile Monitors for the CNAO HEBT Lines
+910
+
+
+ 
+
+E. Rojatti
+                       UniPV, Pavia, Italy
+J. Bosser, M. Haguenauer, P. Poilleux
+                       CERN, Geneva, Switzerland
+J. Bosser, G.M.A. Calvi, L. Lanzavecchia, A. Parravicini, M. Pullia, C. Viviani
+                       CNAO Foundation, Milan, Italy
+M. Caldarapresenter
+                       University of Bergamo, Bergamo, Italy
+
+ 
+
+
+ 
+
+The CNAO (Centro Nazionale di Adroterapia Oncologica) Foundation is the first Italian center for deep hadrontherapy with Protons and Carbon Ions. Several beam monitors exploiting the scintillation process have been designed to check the beam quality in the extraction lines, in order to guarantee patients safety. The SFH (Scintillating Fibers Harp), the QPM (Qualification Profile Monitor), and the SFP (Scintillating Fibers plus Photodiodes) are made up by two orthogonal scintillating fibers harps with not dead area for the horizontal and the vertical beam profiles measurement. The QPM and the SFH are both installed on the beam line and they use a CCD camera for the signal acquisition. The SFP is a SFH upgrade project aimed to replace the camera with two Photodiodes arrays coupled to the fibers in vacuum. The WD (Watch Dog) detector, not already installed, has been designed to check the beam position through the intensity of the beam tails. It uses two couples of scintillating fibers displaced transversally to the beam direction, coupled to four APDs (Avalanche Photodiodes). This work describes the beam detectors, their achieved performances and the most recent beam measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA051
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA052
+Optimization of ILC Cryomodule Design Using Explosion Welding Technology
+913
+
+
+ 
+
+A. Basti
+                       University of Pisa and INFN, Pisa, Italy
+F. Bedeschi
+                       INFN-Pisa, Pisa, Italy
+Ju. Boudagov, B.M. Sabirov, G. Shirkov, Yu.V. Taran
+                       JINR, Dubna, Moscow Region, Russia
+A. Bryzgalin, L. Dobrushin, S. Illarionov, E. Pekar
+                       PWI, Kiev, Ukraine
+P. Fabbricatore
+                       INFN Genova, Genova, Italy
+
+ 
+
+
+ 
+
+Optimization of ILC cryomodule design using explosion welding technology. B.Sabirov, J.Budagov, G.Shirkov - JINR, Dubna, Russia A.Basti, F.Bedeschi, P.Fabbricatore - INFN, Pisa/Genova, Italy A.Bryzgalin, L.Dobrushin, S.Illarionov, E.Pekar - EWI, Kiev, Ukraine JINR activity in the ILC Project is the development, in association with INFN, of techniques to simplify and make cheaper the construction of the ILC cryomodules. In the current ILC TDR design both the helium vessel shell and the connected pipes are made of expensive titanium, one of the few metals that can be welded to niobium by the electron beam technique. We describe the construction and performance of transition elements, obtained by explosion welding, that can couple the niobium cavity with a stainless steel helium vessel. Several designs for these transitions have been produced and studied showing varying levels of reliability. Based on this experience a new design, including a minimal titanium intermediate layer, has been built. Preliminary tests yield impressive results, indicating a very strong resistance of the bon
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA052
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA053
+Radiation Measurements of a Medical Particle Accelerator Through a Passive Resonant Cavity
+917
+
+
+ 
+
+A. Leggieri, F. Di Paolo, D. Passi
+                       Università degli Studi di Roma "Tor Vergata", Roma, Italy
+A. Ciccotelli, S. De Stefano, G. Felici, F. Marangoni
+                       S.I.T., Aprilia, Italy
+
+ 
+
+
+ 
+
+Beam monitoring system are required by technical standards for the real time measurement of the dose delivered to the target while the beam is crossing them * **. Traditional beam current monitoring systems are based on ionization chambers and requires high voltage biases *** ****. This study investigates on the measurements of the electron beam current emitted by a medical electron linear accelerator using the power exchange of the beam current with a passive resonant cavity ***** placed at the output interface of the accelerator. The cavity is magnetically coupled with a coaxial transmission line loaded on a microwave envelope detector and its output signal has been documented while receiving several electron currents. This paper shows the complete equivalency, in terms of global performance, of the current revelation performed by exploiting the cavity-beam interaction principle with the classical technology, based on ionization chambers, however without need of high voltage. The most important point is that the resonant cavity system, by measuring the beam current, gives a direct measurement of a physical observable quantity directly related with the dose deposed by the beam.
+* EN 60601-2-1, 2009.  ** A.P. Turner, 1979.  *** V.L. Uvarov, 1997.  **** M. Ruf∗, 2014. ***** J.B. Rosenzweig, 2003
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA053
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA054
+Interaction Point Orbit Feedback System at SuperKEKB
+921
+
+
+ 
+
+Y. Funakoshi, H. Fukuma, T. Kawamoto, M. Masuzawa, T. Oki, S. Uehara, H. Yamaoka
+                       KEK, Ibaraki, Japan
+S.D. Anderson, S.M. Gierman, M. Kosovsky, J.T. Seeman, C.M. Spencer, M.K. Sullivan, O. Turgut, U. Wienands
+                       SLAC, Menlo Park, California, USA
+P. Bambade, D. El Khechen, D. Jehanno, V. Kubytskyi, C. Rimbault
+                       LAL, Orsay, France
+
+ 
+
+
+ 
+
+In order to maintain an optimum beam collision condition in a double ring collider such as SuperKEKB it is essential to have an orbit feedback system at the interaction point (IP). We have designed such a system based on experiences at KEKB and PEP-II. For the vertical offset and crossing angle, we will rely on the system based on the beam orbit measurement similar to that used at KEKB. For the horizontal offset, however, we will utilize the dithering system which was successfully used at PEP-II, because the horizontal beam-beam kick is very weak with the "nano-beam scheme". Some hardware devices have been already fabricated and others are in preparation. The present status of the development is reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA054
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA056
+Status of LLRF Control System for SuperKEKB Commissioning
+924
+
+
+ 
+
+T. Kobayashi, K. Akai, K. Ebihara, A. Kabe, K. Nakanishi, M. Nishiwaki, J.-I. Odagiri
+                       KEK, Ibaraki, Japan
+H. Deguchi, K. Hayashi, T. Iwaki, M. Ryoshi
+                       Mitsubishi Electric TOKKI Systems, Amagasaki, Hyogo, Japan
+
+ 
+
+
+ 
+
+Beam commissioning of the SuperKEKB will be started in JFY2015. A new LLRF control system, which is an FPGA-based digital RF feedback control system on the MicroTCA platform, has been developed for high current beam operation of the SuperKEKB. The mass production and installation of the new systems has been completed as scheduled. The new LLRF control systems are applied to nine RF stations (klystron driving units) among existing thirty stations. As a new function, klystron phase lock loop was digitally implemented within the cavity FB control loop in the FPGA, and in the high power test it worked successfully to compensate for the klystron phase change. Beam loading was also simulated in the high power test by using an ARES cavity simulator, and then good performance in the cavity-voltage feedback control and the cavity tuning control was demonstrated to compensate the large beam loading for the SuperKEKB parameters. Fabrication of another new LLRF control system for damping ring which is required for low-emittance positron injection is scheduled in JFY2015.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA056
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA058
+Beam Based Gain Calibration for Beam Position Monitor at J-PARC Main Ring
+927
+
+
+ 
+
+H. Kuboki, J. Takano, M. Tejima, T. Toyama
+                       KEK, Ibaraki, Japan
+S. Hatakeyama
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+Funding: MEXT KAKENHI Grant Number 25105002, Grant-in-Aid for Scientific Research on Innovative Areas titled "Unification and Development of the Neutrino Science Frontier"
+Beam Position Monitor (BPM) is one of the essential elements in a synchrotron facility. It provides the accurate beam positions, which are used to correct the closed orbit distortion. Each BPM is installed with the electronics which enable to acquire the data of the turn-by-turn beam positions. Here, we define the "gain" as the proportionality coefficient between the signal detected at the ADC and the ideal signal without any errors. The signal strength from a BPM electrode varies depending on 1) transmission characteristics of a long cable, 2) processing circuit, and 3) contact resistance at the connected parts. These are the origin of the gain deviations. In order to correct the deviations, a Beam Based Gain Calibration (BBGC) method has been proposed *. Development of a new method for adequate gain calibration is required because any calibration method for routine operation has not been established for BPMs with diagonal-cut electrodes used at J-PARC Main Ring. The results of analysis will be presented using the Total Least Square fitting as an adequate method for the BBGC with sufficient accuracy within 0.6% in one standard deviation.
+* M. Tejima et al., DIPAC2011 (2011).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA058
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA059
+Control System Upgrade for SuperKEKB Injector Linac
+930
+
+
+ 
+
+M. Satoh, K. Furukawa, K. Mikawa, F. Miyahara, Y. Seimiya, T. Suwada
+                       KEK, Ibaraki, Japan
+T. Kudou, S. Kusano
+                       Mitsubishi Electric System & Service Co., Ltd, Tsukuba, Japan
+H.S. Saotome, M. Takagi
+                       Kanto Information Service (KIS), Accelerator Group, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Toward SuperKEKB project, the electron/positron injector linac upgrade is ongoing at KEK in order to deliver the low emittance electron/positron beams with high bunched charge intensity and small emittance. A large number of accelerator components and control devices will be newly installed before the autumn of 2014. Finally, we are aiming at the simultaneous top-up operation for the four independent storage rings including two light sources. The high availability and reliability of control system is strongly required for the long-term stable beam operation under such complex operation schemes. In this presentation, we will describe the control system upgrade plan and status.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA059
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPHA060
+Feasibility Study on Measurement and Control of Relative Positioning for Nano-beam Collision
+933
+
+
+ 
+
+H. Matsunaga, H. Yoshioka
+                       Takenaka Corporation, Institute of Technology, Chiba, Japan
+M. Masuzawa, Y. Ohsawa, R. Sugahara, H. Yamaoka
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+In the SuperKEKB and future International Linear Collider project, it is required to measure and control an offset of very small beams with a precision of several nanometers at the interaction point. This paper is a feasibility study on measuring and controlling nano-order relative position by using a laser interferometer and a piezoelectric stage. The first part shows that the precision of measurement position about a direction of laser radiation is less than or equal to 1 nanometer in frequency region less than 100Hz. The second part is discussed a measurement of relative displacement between two points which are 10 meter away on substructures located at the interaction point in the SuperKEKB. To compare with difference of accelerometers for reference, a relative displacement measurement with a precision of several nanometers by a laser interferometer became clear. The final part is discussed a relative positioning control by using a Piezo-Stage between two points on active vibration isolation tables. We achieved to control a relative displacement below 2 nanometers in frequency region less than 10Hz.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-MOPHA060
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

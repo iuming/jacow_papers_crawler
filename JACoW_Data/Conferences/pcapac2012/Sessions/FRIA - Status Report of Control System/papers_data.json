@@ -1,0 +1,55 @@
+{
+  "session_info": {
+    "id": "FRIA",
+    "name": "FRIA - Status Report of Control System",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/fria.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FRIA01",
+      "title": "The New White Rabbit Based Timing System for the FAIR Facility",
+      "authors": [
+        "D.H. Beck",
+        "R. Bär",
+        "M. Kreider",
+        "C. Prados",
+        "S. Rauch",
+        "W.W. Terpstra",
+        "M. Zweig",
+        "GSI",
+        "Darmstadt",
+        "Germany",
+        "A new timestamp and event distribution system for the upcoming FAIR facility is being developed at GSI. This timing system is based on White Rabbit[1]",
+        "which is a fully deterministic Ethernet-based network for general data transfer and synchronization. White Rabbit is developed by CERN",
+        "GSI and other institutes as well as partners from industry based on Synchronous Ethernet and PTP. The main tasks of the FAIR timing system are time synchronization of more than 2000 nodes with nanosecond accuracy",
+        "distribution of timing messages and subsequent generation of real-time actions (interrupts",
+        "digital signals …) by the nodes of the timing system. This allows precise real-time control of the accelerator equipment according to the beam production schedule. Furthermore the timing system must support other accelerator systems like post-mortem and interlock. It also provides interfaces between the accelerator control system and experiments at FAIR. This contribution focuses on the design principles of the timing system",
+        "its integration with other components of the control system",
+        "the present status and the planned implementation.",
+        "[1] J. Serrano",
+        "P. Alvarez",
+        "M. Cattin",
+        "E. G. Cota",
+        "P. M. J. H. Lewis",
+        "T. Włostowski et al.",
+        "The White Rabbit Project",
+        "in Proceedings of ICALEPCS TUC004",
+        "Kobe",
+        "Japan",
+        "2009."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/fria01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/fria01.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/fria01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-FRIA01",
+      "page_number": "242",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-11 02:11:42"
+}

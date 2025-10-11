@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2022 - Table of Session: THZD (Hadron Accelerators)
+
+
+THZD —  Hadron Accelerators   (11-Aug-22   14:00—16:00)
+Chair: W. Fischer, BNL, Upton, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+THZD1
+Instant Phase Setting in a Large Superconducting Linac
+885
+
+
+ 
+
+A.S. Plastun, P.N. Ostroumov
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy Office of Science under Cooperative Agreement No. DE-SC0000661, the State of Michigan, and Michigan State University.
+The instant phase setting reduces the time needed to setup 328 radiofrequency cavities of the Facility for Rare Isotope Beams (FRIB) linac from 20 hours to 10 minutes. This technique uses a 1-D computer model of the linac to predict the cavities’ phases. The model has been accurately calibrated using the data of the 360-degree phase scans - a common procedure for phasing of linear accelerators. The model was validated by comparison with a conventional phase scan results. The predictions applied to the linac are then verified by multiple time-of-flight energy measurements and the response of the beam position/phase monitors (BPMs) to an intentional energy and phase mismatch. The presented approach not just reduces the time and the effort required to tune the FRIB accelerator for new experiments every couple of weeks, but it also provides an easy recovery from cavity failures. It is beneficial for user facilities requiring high beam availability, as well as for radioactive ion beam accelerators, where quick time-of-flight energy measurement via the BPMs is not possible due to the low intensities of these beams.
+
+ 
+
+
+
+
+
+
+Slides THZD1 [2.610 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THZD1
+
+ 
+
+
+About •
+Received ※ 07 August 2022 — Revised ※ 09 August 2022 — Accepted ※ 10 August 2022 — Issue date ※ 21 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THZD2
+Advances in the ATLAS Accelerator
+ 
+
+
+ 
+
+M.P. Kelly, C. Dickerson, B.M. Guilfoyle, M.R. Hendricks, M. Kedzie, T.B. Petersen, T. Reid
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: DOE-NP
+The ATLAS Superconducting Linac at Argonne National Laboratory is a leading facility for nuclear reaction and structure studies, providing ion beams over the full mass range to a community of users from the US and abroad. The technology of ATLAS has been continuously upgraded since commissioning in 1978 and has remained at the forefront of superconducting linac development, especially for low-beta Linacs, for more than four decades. We present an overview of the present state ATLAS superconducting technology, the latest approaches for superconducting cavity cryomodules commissioned within the last 10 years and the outlook and potential impact of transformative new technologies to low-beta ion accelerators.
+
+ 
+
+
+
+
+
+
+Slides THZD2 [14.708 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THZD3
+Design of 3-GeV High-Gradient Booster for Upgraded Proton Radiography at LANSCE
+891
+
+
+ 
+
+Y.K. Batygin, S.S. Kurennoy
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by US DOE under contract 89233218CNA000001
+Increasing the proton beam energy from the present 800 MeV to 3 GeV will improve the resolution of the Proton Radiography Facility at the Los Alamos Neutron Science Center (LANSCE) by a factor of 10. It will bridge the gap between the existing facilities, which covers large length scales for thick objects, and future high-brightness light sources, which can provide the finest resolution. Proton radiography requires a sequence of short beam pulses (~20 x 80 ns) separated by intervals of variable duration, from about 300 ns to 1 to 2 μs. To achieve the required parameters, the high gradient 3-GeV booster is proposed. The booster consists of 1.4 GHz buncher, two accelerators based on 2.8 GHz and 5.6 GHz high-gradient accelerating structures and 1.4 GHz debuncher. Utilization of buncher-accelerator-debuncher scheme allows us to combine high-gradient acceleration with significant reduction of beam momentum spread. Paper discusses details of linac design and expected beam parameters.
+
+ 
+
+
+
+
+
+
+Slides THZD3 [2.348 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THZD3
+
+ 
+
+
+About •
+Received ※ 28 July 2022 — Revised ※ 06 August 2022 — Accepted ※ 08 August 2022 — Issue date ※ 04 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THZD4
+Accelerating Structures for High-Gradient Proton Radiography Booster at LANSCE
+894
+
+
+ 
+
+S.S. Kurennoy, Y.K. Batygin, E.R. Olivas
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Increasing energy of proton beam at LANSCE from 800 MeV to 3 GeV improves radiography resolution ~10 times. We proposed accomplishing such an energy boost with a compact cost-effective linac based on normal conducting high-gradient (HG) RF accelerating structures. Such an unusual proton linac is feasible for proton radiography (pRad), which operates with short RF pulses. For a compact pRad booster at LANSCE, we have developed a multi-stage design: a short L-band section to capture and compress the 800-MeV proton beam followed by the main HG linac based on S- and C-band cavities, and finally, by an L-band de-buncher [1]. Here we present details of development, including EM and thermal-stress analysis, of proton HG structures with distributed RF coupling for the pRad booster. A simple two-cell structure with distributed coupling is being fabricated and will be tested at the LANL C-band RF Test Stand.
+[1] S.S. Kurennoy, Y.K. Batygin. IPAC21, MOPAB210.
+
+ 
+
+
+
+
+
+
+Slides THZD4 [1.591 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THZD4
+
+ 
+
+
+About •
+Received ※ 01 August 2022 — Revised ※ 10 August 2022 — Accepted ※ 11 August 2022 — Issue date ※ 26 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THZD5
+Modelling H⁻ Injection and Painting in Vertical and Horizontal FFAs Using OPAL
+ 
+
+
+ 
+
+C.T. Rogers
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+A. Adelmannpresenter
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+H− phase space painting using charge-exchange has been used in synchrotrons to inject and accumulate high intensity bunches of protons, but has never been used in Fixed Field Accelerators (FFAs). In H− charge-exchange injection, H− ions pass through a thin foil where the electrons are stripped from the ion leaving a proton. In combination with an appropriate dipole, well-separated H− ion and proton beams converge at the foil in this non-Liouvillean process. This can be combined with painting of the phase space, where the position of the injected beam is manipulated with respect to the circulating protons in order to inject beams having a specific profile in phase-space. In this paper the simulation of such injection is studied, performed using the latest improvements in the OPAL code. Injection into a small test ring that is under development as part of the ISIS upgrade program is considered.
+
+ 
+
+
+
+
+
+
+Slides THZD5 [1.093 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THZD6
+An 8 GeV  Linac as the Booster Replacement in the Fermilab Power Upgrade
+897
+
+
+ 
+
+D.V. Neuffer, S.A. Belomestnykh, M. Checchin, D.E. Johnson, S. Posen, E. Pozdeyev, V.S. Pronskikh, A. Saini, N. Solyak, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the Fermi National Accelerator Laboratory, managed and operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy.
+Increasing the Main Injector (MI) beam power above ~1.2 MW requires replacement of the 8-GeV Booster by a higher intensity alternative. In the Project X era, rapid-cycling synchrotron (RCS) and linac solutions were considered for this purpose. In this paper, we consider the linac version that produces 8 GeV H− beam for injection into the Recycler Ring (RR) or Main Injector (MI). The linac takes ~1-GeV beam from the PIP-II Linac and accelerates it to ~2 GeV in a 650-MHz SRF linac, followed by a 8-GeV pulsed linac using 1300 MHz cryomodules. The linac components incorporate recent improvements in SRF technology. Research needed to implement the high power SRF Linac is described.
+
+ 
+
+
+
+
+
+
+Slides THZD6 [4.078 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ doi:10.18429/JACoW-NAPAC2022-THZD6
+
+ 
+
+
+About •
+Received ※ 03 August 2022 — Revised ※ 11 August 2022 — Accepted ※ 12 August 2022 — Issue date ※ 04 October 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

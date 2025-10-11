@@ -1,0 +1,450 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: WEAPL (Feedback Control and Process Tuning)
+
+
+WEAPL —  Feedback Control and Process Tuning   (11-Oct-17   08:30—10:15)
+Chair: M. Lonza, Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+
+Paper
+Title
+Page
+
+
+
+WEAPL01
+Present and Future of Harmony Bus, a Real-Time High Speed Bus for Data Transfer Between FPGA Cores
+1012
+
+
+ 
+
+M. Broseta, J.A. Avila-Abellan, S. Blanch-Torné, G. Cuní, D. Fernández-Carreiras, O. Matilla, M. Rodriguez, J. Salabert, X. Serra-Gallifa
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+When feedback loops latencies shall be lower than milliseconds range the performance of FPGA-based solutions are unrivaled. One of the main difficulties in these solutions is how to make compatible a full custom digital design with a generic interface and the high-level control software. ALBA simplified the development process of electronic instrumentation with the use of Harmony Bus (HB)*. Based on the Self-Describing Bus, developed at CERN/GSI, it creates a bus framework where different modules share timestamped data and generate events. This solution enables the high-level control software in a Single Board Computer or PC, to easily configure the expected functionally in the FPGA and manage the real-time data acquired. This framework has been already used in the new Em# electrometer**, produced within a collaboration between ALBA and MAXIV, that is currently working in both synchrotrons. Future plans include extending the FPGA cores library, high-level functions and the development of a new auto-generation tool able to dynamically create the FPGA configuration file simplifying the development process of new functionalities.
+* 'A Generic Fpga Based Solution for Flexible Feedback Systems', PCaPAC16, paper FRFMPLCO06 ** 'Em# Electrometer Comes To Light', ICALEPS 2017 Abstract Submitted
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/B3gt4Imn2Qs
+        
+ 
+
+
+
+
+
+
+Slides WEAPL01 [3.792 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-WEAPL01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAPL02
+Automatic PID Performance Monitoring Applied to LHC Cryogenics
+1017
+
+
+ 
+
+B. Bradu, E. Blanco Viñuela, R. Marti, F.M. Tilaro
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+At CERN, the LHC (Large Hadron Collider) cryogenic system employs about 4900 PID (Proportional Integral Derivative) regulation loops distributed over the 27 km of the accelerator. Tuning all these regulation loops is a complex task and the systematic monitoring of them should be done in an automated way to be sure that the overall plant performance is improved by identifying the poorest performing PID controllers. It is nearly impossible to check the performance of a regulation loop with a classical threshold technique as the controlled variables could evolve in large operation ranges and the amount of data cannot be manually checked daily. This paper presents the adaptation and the application of an existing regulation indicator performance algorithm on the LHC cryogenic system and the different results obtained in the past year of operation. This technique is generic for any PID feedback control loop, it does not use any process model and needs only a few tuning parameters. The publication also describes the data analytics architecture and the different tools deployed on the CERN control infrastructure to implement the indicator performance algorithm.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/7dCglp2Pn_c
+        
+ 
+
+
+
+
+
+
+Slides WEAPL02 [1.651 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-WEAPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAPL03
+Simulation of Cryogenic Process and Control of EAST Based on EPICS
+1024
+
+
+ 
+
+L.B. Hu, X.F. Lu, Q. Yu, Q.Y. Zhang, Z.W. Zhou, M. Zhuang
+                       ASIPP, Hefei, People's Republic of China
+M.R. Clausen
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: SUPPORTED BY CHINESE ACADEMY OF SCIENCES VISITING PROFESSORSHIP FOR SENIOR INTERNATIONAL SCIENTISTS. GRANT No. 2017VEB0006
+The cryogenic system of Experiment Advance Superconductor Tokomak (EAST) is a large capacity system at both 4.5 and 80K levels at huge superconducting magnet system together with 80k thermal shields, complex of cryogenic pumps and small cryogenic users. The cryogenic system and their control are highly complex due to the large number of correlated variables on wide operation ranges. Due to the complexity of the system, dynamic simulations represent the only way to provide adequate data during transients and to validate complete cooldown scenarios in such complex interconnected systems. This paper presents the design of EAST cryogenic process and control simulator. The cryogenic process model is developed by the EcosimPro and CRYOLIB. The control system model is developed based on EPICS. The real-time communication between cryogenic process and control system is realized by OPC protocol. This simulator can be used for different purpose such as operator training, test of the new control strategies and the optimization of cryogenic system.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/gyqj_Zvls08
+        
+ 
+
+
+
+
+
+
+Slides WEAPL03 [2.911 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-WEAPL03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAPL04
+Nanoprobe Results: Metrology & Control in Stacked Closed-Loop Systems
+1028
+
+
+ 
+
+C. Engblom, Y.-M. Abiven, F. Alves, N. Jobert, S.K. Kubsky, F. Langlois, A. Lestrade
+                       SOLEIL, Gif-sur-Yvette, France
+T. Stankevic
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+Over the course of four years, the Nanoprobe project worked to deliver prototypes capable of nm-precision and accuracy with long-range millimetric sample positioning in 3D- scanning tomography for long beamline endstations of Synchrotron Soleil and MAXIV. The ambition of the project necessitated a joint progress between several fields of expertise combining mechanics, metrology, motion control, and software programming. Interferometry in stage characterization has been a crucial point; not only to qualify motion errors but to actively integrate it into control systems with feedback and/or feedforward schemes in order to reduce XYZ position errors down to the nm- level. As such, a new way of characterizing rotation stages was developed and ultimately used in control schemes utilising the Delta Tau PowerPMAC platform. This paper details the obtained results as well as the methodology and approach of the project to achieve this.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/GfYevZlVioo
+        
+ 
+
+
+
+
+
+
+Slides WEAPL04 [7.533 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-WEAPL04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAPL05
+PARC: A Computational System in Support of Laser Megajoule Facility Operations
+1034
+
+
+ 
+
+J-P. Airiau, V. Beau, E. Bordenave, T.C. Chies, H. CoÃ¯c, V. Denis, P. Fourtillan, X. Julien, L. Lacamapgne, C. Lacombe, L. Le Deroff, S. Mainguy, M. Sozet, S. Vermersch
+                       CEA, LE BARP cedex, France
+
+ 
+
+
+ 
+
+The Laser MegaJoule (LMJ) is a 176-beam laser facility, located at the CEA CESTA Laboratory near Bordeaux (France). It is designed to deliver about 1.4 MJ of energy to targets, for high energy density physics experiments, including fusion experiments. The first 8-beams bundle was operated in October 2014 and a new bundle was commissioned in October 2016. The next two bundles are on the way. PARC * is the computational system used to automate the laser setup and the generation of shot report with all the results acquired during the shot sequence process (including alignment and synchronization). It has been designed to run sequence in order to perform a setup computation or a full facility shot report in less than 15 minutes for 1 or 176 beams. This contribution describes how this system solves this challenge and enhances the overall process.
+* PARC: French acronym for automatic bundle settings prediction.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/mLWJffxeMdo
+        
+ 
+
+
+
+
+
+
+Slides WEAPL05 [2.032 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-WEAPL05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAPL06
+Skywalker: Python Suite for Automated Photon Alignment at LCLS
+ 
+
+
+ 
+
+T.F. Rendahl, A.P. Rashed Ahmed, T.A. Wallace
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+For the first seven years of its existence, the Linear Coherent Light Source (LCLS) at SLAC has been aligned manually by a combination of accelerator and beamline operators. In an effort to improve both the accuracy and speed of the initial delivery of X-ray light, a Python based automation suite Skywalker has been created to handle beam pointing to five unique experimental end stations. The module uses a configurable system identification algorithm to probe the parameter space of the mirror set, quickly building an accurate model without interrupting operation. The result is a robust model capable of precise movements without predefined assumptions. We will present the basic concepts and modules underlying Skywalker, analysis of the performance of the system at LCLS, and plans to extend the feature set to accommodate more intricate optical configurations.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/Z8uDNsmPkio
+        
+ 
+
+
+
+
+
+
+Slides WEAPL06 [2.153 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAPL07
+On-line Optimization of European XFEL with OCELOT
+1038
+
+
+ 
+
+S.I. Tomin, G. Geloni
+                       XFEL. EU, Hamburg, Germany
+I.V. Agapovpresenter, W. Decking, M. Scholz, I. Zagorodnov
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+FEL tuning and optimization within the OCELOT framework has been implemented in 2015 and has been since used for SASE pulse energy optimization at FLASH and later at LCLS, as well as injection efficiency maximization in the Siberia-1 storage ring. For the European XFEL commissioning purposes the code was considerably improved and additional set of tools has been introduced. Here these tools and experi-ence of their use during the European XFEL commissioning and initial operation will be presented. Future devel-opment directions will be outlined.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/b97wcbuve4A
+        
+ 
+
+
+
+
+
+
+Slides WEAPL07 [6.338 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-WEAPL07
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

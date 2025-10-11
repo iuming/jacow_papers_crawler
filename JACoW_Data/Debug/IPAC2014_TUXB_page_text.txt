@@ -1,0 +1,79 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2014 - Table of Session: TUXB (Invited Oral Presentation, Beam Dynamics and Electromagnetic Fields)
+
+
+TUXB —  Invited Oral Presentation, Beam Dynamics and Electromagnetic Fields   (17-Jun-14   09:00—09:30)
+Chair: O. Napoly, CEA/DSM/IRFU, France
+
+
+Paper
+Title
+Page
+
+
+
+TUXB01
+Recent Progress in 3D Numerical Wakefield Calculations
+944
+
+
+ 
+
+W. Bruns
+                       WBFB, Berlin, Germany
+
+ 
+
+
+ 
+
+The 3D electromagnetic Field Simulator GdfidL computes Wakepotentials on standard CPUs with a Speed comparable to GPU-Based Implementations. This is achieved via Computing only in interesting Cells, having the FD-Coefficients in compressed Form, traversing the Grid in a Cache-friendly Order and applying a blocked Update Scheme which is NuMA-aware. A Dispersion optimised Scheme is described. Fields in dispersive Materials are computed via solving the Equations of the Electron Hulls of the Material. Moving Mesh Computations have the Grid-generation on the Fly.
+
+ 
+
+
+
+
+
+
+Slides TUXB01 [16.169 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2014-TUXB01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

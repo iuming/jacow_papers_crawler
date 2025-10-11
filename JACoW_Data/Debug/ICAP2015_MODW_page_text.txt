@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2015 - Table of Session: MODW (Parallel Computing and Emerging Technologies)
+
+
+MODW —  Parallel Computing and Emerging Technologies   (12-Oct-15   15:00—17:15)
+Chair: D.L. Bruhwiler, RadiaSoft LLC, Boulder, Colorado, USA
+
+
+Paper
+Title
+Page
+
+
+
+MODWC2
+OPAL a Versatile Parallel Tool for Precise 3D Beam Dynamics Studies
+ 
+
+
+ 
+
+A. Adelmann, C. Baumgarten, A. Gsell, Y. Ineichen, U. Locans, C.J. Metzger-Kraus, V. Rizzoglio
+                       PSI, Villigen PSI, Switzerland
+U. Locans
+                       University of Latvia, Riga, Latvia
+X. Pang, S.J. Russell
+                       LANL, Los Alamos, New Mexico, USA
+C.T. Rogers, S.L. Sheehy
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+C. Wang, J.J. Yang
+                       CIAE, Beijing, People's Republic of China
+D. Winklehner
+                       MIT, Cambridge, Massachusetts, USA
+
+ 
+
+
+ 
+
+OPAL (Object Oriented Parallel Accelerator Library) is a open source tool for charged-particle optics calculations in accelerator structures and beam lines including 3D space charge, short range wake-fields, 1D coherent synchrotron radiation and particle matter interaction. OPAL admits simulations of any scale, from the laptop to the largest HPC clusters. OPAL has a fast FFT based direct solver and an iterative solver with AMR, able to handle efficiently exact boundary conditions on complex geometries. New capabilities such as GPU and MIC support turns your workstation into a super computer. A simple library interface enables users to start OPAL simulations from their own applications. Our external multi objective optimisation tool for optimising largest scale particle accelerators relies on this feature to probe the design space. We will present the architecture and the main features of OPAL. Examples ranging from rf-photo gun simulations, ERL-designs to FFAG and cyclotron simulations. Code benchmarks and comparisons to measurements will prove the majority of OPAL. A short glimpse into the future will demonstrate that OPAL is a lively open source project.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MODWC3
+Dynamic Kernel Scheduler (DKS) - Accelerating the Object Oriented Particle Accelerator Library (OPAL)
+20
+
+
+ 
+
+U. Locans
+                       University of Latvia, Riga, Latvia
+A. Adelmann, U. Locans, A. Suter
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Hardware accelerators, such as graphical processing units (GPU) and Intel Many Integrated Core (MIC) processors, provide a huge performance potential for HPC applications. However, due to different hardware architectures and development frameworks, developing fast and manageable code for these devices is a challenging task. This development is especially challenging when integrating the usage of co-processors in large applications, such as OPAL, where changing the code to support every device is not feasible. DKS is being developed to provide a software layer between the host application and different co-processors. DKS separates device specific code from the host application and provides a simple interface to communicate and schedule task execution on the device. Algorithms in DKS are implemented using CUDA, OpenCL, and OpenMP to target different devices. The first version of DKS was integrated in OPAL to speed up the FFT based Poisson solver and Monte Carlo simulations for particle matter interaction. The concepts of DKS and its integration with OPAL will be presented, as well as results showing speedups in the range of 4x to 50x for OPAL simulations using GPU or Intel MIC.
+
+ 
+
+
+
+
+
+
+Slides MODWC3 [1.050 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-MODWC3
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MODWC4
+Python-Based High-Level Applications Development for Shanghai Soft X-Ray Free-Electron Laser
+23
+
+
+ 
+
+T. Zhang, J.H. Chen, B. Liu, D. Wang
+                       SINAP, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Shanghai soft x-ray free-electron laser (SXFEL) is currently being built at SSRF campus of SINAP. At the same time, the development of the high-level applications are on-going, with the intention of building a fully open source and robust software ecosystem, Python has been chosen as the essential developing programming language. Up to now, the software framework has been readily established, multiple physics-related high-level applications are under development. Additionally, EPICS soft-IOC applications has been built for the software debugging. The development are taken in a distributed manner, i.e. git is used to organize the source code and for the ease of team collaboration, specific applications are built into Python modules and finally integrated into an Python package named 'felapps' for deployment. In this presentation, details about the Python-based software development at SXFEL and the future ideas will be addressed.
+
+ 
+
+
+
+
+
+
+Slides MODWC4 [5.658 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-MODWC4
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

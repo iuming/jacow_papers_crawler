@@ -1,0 +1,214 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ERL2015 - Table of Session: TUICLH2 (WG2 ERL Optics & Beam Dynamics: Collective Effects/Multi-passes/Halo Simulations)
+
+
+TUICLH2 —  WG2 ERL Optics & Beam Dynamics: Collective Effects/Multi-passes/Halo Simulations   (09-Jun-15   14:00—15:45)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUICLH2032
+Investigations on Transverse Beam Break Up Using a Recirculated Electron Beam*
+30
+
+
+ 
+
+T. Kürzeder, M. Arnold, M. Gros, F. Hug, L.E. Jürgensen, J. Pforr, N. Pietralla
+                       TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: *Work supported by the BMBF through grant No. 05K13RDA
+The recirculating superconducting accelerator S-DALINAC provides electron beams of up to 130 MeV for nuclear physics experiments at the University of Darmstadt since 1991. It consists of a 10 MeV injector and a 40 MeV main linac and reaches its final design energy using up to two recirculation paths. The superconducting main linac houses eight 20-cell SRF cavities operated at 3 GHz and 2 K. The very low threshold current of only a few μA for the occurrence of beam break up in addition with the recirculating linac design gives a unique opportunity to the ERL community for testing different strategies of avoiding beam break up experimentally at this accelerator and to benchmark beam dynamics simulations concerning this topic. To minimize the impact of HOMs on the recirculating electron bunches we will place skew quadrupole and sextupole magnets in our accelerator and test their effect on the threshold current. We will report on the status of beam dynamics simulations concerning their use in the accelerator and present actual calculations for the positioning of the skew quadrupoles. An outlook on the future activities at the S-DALINAC will be given.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ERL2015-TUICLH2032
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUICLH2033
+HOM-BBU Simulation for KEK ERL Light Source
+ 
+
+
+ 
+
+S. Chen, N. Nakamura, M. Shimada
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+In KEK, an multi-GeV ERL based light source with 100mA maximum average beam current, is under designing. A special designed KEK ERL mode-2 superconducting cavity will be used. In this paper, the multi-pass BBU of KEK ERL light source is simulated. The dependency of BBU threshold current of various conditions are presented.
+
+ 
+
+
+
+
+
+
+Slides TUICLH2033 [2.958 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUICLH2034
+Linear Microbunching Gain Estimation Including CSR and LSC Impedances in Recirculation Machines
+34
+
+
+ 
+
+C.-Y. Tsai
+                       Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA
+D. Douglas, R. Li, C. Tennant
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177.
+It is known that microbunching instability (MBI) has been one of the most challenging issues with the design of magnetic compressor chicanes for FEL or linear colliders, as well as the transport lines for recirculating or energy recovery linacs. To more accurately quantify MBI in a single-pass or few-passes system and for more complete analyses, we extend our previously developed linear Vlasov solver* to incorporate more relevant impedance models, including transient and steady-state CSR and LSC impedances. Then the linearized Vlasov equation is numerically solved for the microbunching gain amplification factor. With application of this code to two specially designed transport arcs** and a circulator cooling ring design of MEIC at Jefferson Lab***, the resultant gain functions and spectra are presented and some results are compared with particle tracking simulation. We also discuss some underlying physics with inclusion of these collective effects. It is anticipated this more complete analysis can further improve the understanding of the MBI mechanisms and shed light on how to suppress or compensate MBI effects in such lattice designs.
+* C. -Y. Tsai et al., FEL'14, or http://arxiv.org/abs/1408.5542  ** D. Douglas et al., JLAB-ACP-14-1751, or http://arxiv.org/abs/1403.2318 *** MEIC Design Summary, at http://arxiv.org/abs/1504.07961
+
+ 
+
+
+
+
+
+
+Slides TUICLH2034 [6.752 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ERL2015-TUICLH2034
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUICLH2035
+Study of CSR in the JLab ERL FEL Driver
+ 
+
+
+ 
+
+C.C. Hall
+                       CSU, Fort Collins, Colorado, USA
+
+ 
+
+
+ 
+
+The study of collective beam effects is essential for the operation of high average power energy recovery linacs (ERL). For very short bunches, often necessary for FELs, coherent synchrotron radiation (CSR) can greatly reduce beam quality. In this work we show experimental studies of the impact of CSR on beam quality in the JLab ERL FEL driver linac. Measurements taken of energy loss due to CSR as a function of compression are compared against simulations with a 1-D CSR model, showing good agreement. In addition we also investigate observed fragmentation in the energy spectrum. This fragmentation, which varies with compression, is believed to be caused by CSR and longitudinal space charge (LSC) forces acting downstream of the compression chicane.
+
+ 
+
+
+
+
+
+
+Slides TUICLH2035 [3.471 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

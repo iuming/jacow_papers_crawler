@@ -1,0 +1,2489 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2021 - Table of Session: TUPV (Posters)
+
+
+TUPV —  Posters   (19-Oct-21   14:30—15:30)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPV001
+The Mirror Systems Benches Kinematics Development for Sirius/LNLS
+358
+
+
+ 
+
+G.N. Kontogiorgos, A.Y. Horita, L. Martins dos Santos, M.A.L. Moraes, L.F. Segalla
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology and Innovation (MCTI)
+At Sirius, many of the optical elements such as mirror systems, monochromators, sample holders and detectors are attached to the ground with high stiffnesses to reduce disturbances at the beam during experiments. Granite benches were developed to couple the optical device to the floor and allow automatic movements, via com-manded setpoints on EPICS that runs an embedded kinematics, during base installation, alignment, commis-sioning and operation of the beamline. They are com-posed by stages and each application has its own geome-try, a set number of Degrees-of-Freedom (DoF) and mo-tors, all controlled by Omron Delta Tau Power Brick LV. In particular, the mirror system was the precursor motion control system for other benches. Since the me-chanical design aims on stiffness, the axes of mirror are not controlled directly, the actuators are along the granite bench. A geometric model was created to simplify the mirror operation, which turn the actuators motion trans-parent to the user and allow him to directly control the mirror axes.
+
+ 
+
+
+
+
+
+
+Poster TUPV001 [1.229 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV001
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 22 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV002
+Motion Control Improvements for the Kirkpatrick-Baez Mirror System for Sirius/LNLS EMA Beamline
+362
+
+
+ 
+
+G.N. Kontogiorgos, M.A.L. Moraes, C.S.B.N. Roque
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology and Innovation (MCTI)
+The Kirkpatrick-Baez (KB) mirror system is composed of a vertical focusing mirror (VFM) and a horizontal fo-cusing mirror. Both concave mirrors focus the X-ray beam by reflecting it at small grazing angles. The relocation of this system from UVX XDS beamline to Sirius EMA beamline facilitated a full revision of the motion control system, whose controller was migrated to Omron Delta Tau Power Brick LV. The beam focus is controlled by bending the mirrors through camshaft mechanisms cou-pled to low current Faulhaber motors. Although the am-plifier is designed for higher currents, controller settings allowed the use of lower currents. Another improvement made is the ability to drive both bender motors in gantry mode and still control the lag between them. Each bender has a capacitive sensor to monitor the position of the center of the mirror, which is read by the analog input of the controller and made available by EPICS [1]. The VFM is supported by a tripod and a new kinematics was devel-oped to reference the center of the mirror as the point of control. This paper presents the implementation of the new motion control KB system and its results at Sirius EMA beamline.
+
+ 
+
+
+
+
+
+
+Poster TUPV002 [1.167 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV002
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 30 November 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV003
+The Control System of the Four-Bounce Crystal Monochromators for SIRIUS/LNLS Beamlines
+365
+
+
+ 
+
+L. Martins dos Santos, P.D. Aranha, L.M. Kofukuda, G.N. Kontogiorgos, M.A.L. Moraes, J.H. Řežende, M. Saveri Silva, H.C.N. Tolentino
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology, and Innovation (MCTI)
+CARNAÚBA (Coherent X-ray Nanoprobe) and CATERETÊ (Coherent and Time Resolved Scattering) are the longest beamlines in Sirius - the 4th generation light source at the Brazilian Synchrotron Light Laboratory (LNLS). They comprise Four-Bounce Crystal Monochromators (4CM) for energy selection with strict stability and performance requirements. The motion control architecture implemented for this class of instruments was based on Omron Delta Tau Power Brick LV, controller with PWM amplifier. The 4CM was in-house designed and consists of two channel-cut silicon crystals whose angular position is given by two direct-drive actuators. A linear actuator mounted between the crystals moves a diagnostic device and a mask used to obstruct spurious diffractions and reflections. The system is assembled in an ultra-high vacuum (UHV) chamber onto a motorized granite bench that permits the alignment and the operation with pink-beam. This work details the motion control approach for axes coordination and depicts how the implemented methods led to the achievement of the desired stability, considering the impact of current control, in addition to benchmarking with manufacturer solution.
+
+ 
+
+
+
+
+
+
+Poster TUPV003 [1.477 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV003
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 20 October 2021       
+Accepted ※ 21 December 2021        Issue date ※ 30 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV004
+The FPGA-Based Control Architecture, EPICS Interface and Advanced Operational Modes of the High-Dynamic Double-Crystal Monochromator for Sirius/LNLS
+370
+
+
+ 
+
+R.R. Geraldes, J.L. Brito Neto, E.P. Coelho, L.P. Do Carmo, A.Y. Horita, S.A.L. Luiz, M.A.L. Moraes
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology and Innovation (MCTI)
+The High-Dynamic Double-Crystal Monochromator (HD-DCM) has been developed since 2015 at Sirius/LNLS with an innovative high-bandwidth mechatronic architecture to reach the unprecedented target of 10 nrad RMS (1 Hz - 2.5 kHz) in crystals parallelism also during energy fly-scans. After the initial work in Speedgoat’s xPC rapid prototyping platform, for beamline operation the instrument controller was deployed to NI’s CompactRIO (cRIO), as a rugged platform combining FPGA and real-time capabilities. Customized libraries needed to be developed in LabVIEW and a heavily FPGA-based control architecture was required to finally reach a 20 kHz control loop rate. This work summarizes the final control architecture of the HD-DCM, highlighting the main hardware and software challenges; describes its integration with the EPICS control system and user interfaces; and discusses its integration with an undulator source.
+*Geraldes, R. R., et al. "The status of the new High-Dynamic DCM for Sirius." Proc. MEDSI 2018 (2018).
+
+ 
+
+
+
+
+
+
+Poster TUPV004 [2.549 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV004
+
+ 
+
+
+About •
+Received ※ 13 October 2021       Accepted ※ 20 November 2021       
+Issue date ※ 27 November 2021
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV005
+OPC-UA Data Acquisition for the C2MON Framework
+376
+
+
+ 
+
+E. Stockinger
+                       Aalto University, School of Science and Technology, Aalto, Finland
+M. Bräger, B. Copy, B. Farnham, M. Ludwig, B. Schofield
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN Control and Monitoring Framework(C2MON) is a monitoring platform developed at CERN and since 2016 made available under an LGPL3 open source license. It stands at the heart of the CERN Technical Infrastructure Monitoring (TIM) that supervises the correct functioning of CERN’s technical and safety infrastructure. This diverse technological infrastructure requires a variety of industrial communication protocols. OPC UA [2], an open and platform-independent architecture, can be leveraged as an integration protocol for a large number of existing data sources, and represents a welcome alternative to proprietary protocols. With the increasing relevance of the open communication standard OPC UA in the world of industrial control, adding OPC UA data acquisition capabilities to C2MON provides an opportunity to accommodate modern and industry-standard compatible use cases. This paper describes the design and development process of the C2MON OPC UA data acquisition module, the requirements it fulfills, as well as the opportunities for innovation it yields in the context of industrial controls at CERN.
+
+ 
+
+
+
+
+
+
+Poster TUPV005 [0.548 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV005
+
+ 
+
+
+About •
+Received ※ 07 October 2021       Revised ※ 23 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 13 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV006
+Control System of the SPIRAL2 Superconducting Linac Cryogenic System
+382
+
+
+ 
+
+A.H. Trudel, G. Duteil, A. Ghribi, Q. Turapresenter
+                       GANIL, Caen, France
+P. Bonnay
+                       CEA/INAC, Grenoble Cedex 9, France
+
+ 
+
+
+ 
+
+The SPIRAL2 cryogenic system has been designed to cool down and maintain stable operation conditions of the 26 LINAC superconducting resonating cavities at a temperature of 4.5 K or lower. The control system of the cryogenic system of the LINAC is based on an architecture of 20 PLCs. Through an independent network, it drives the instrumentation, the cryogenic equipment, the 26 brushless motors of the frequency tuning system, interfaces the Epics Control System, and communicates process information to the Low Level Radio Frequency, vacuum, and magnet systems. Its functions are to ensure the safety of the cryogenic system, to efficiently control the cooldown of the 19 cryomodules, to enslave the frequency tuning system for the RF operation, and to monitor and analyze the data from the process. A model based Linear Quadratic regulation controls simultaneously both phase separators the liquid helium level and pressure. This control system also makes it possible to perform a number of virtual verification tests via a simulator and a dedicated PLC used to develop advanced model based control, such as a real time heat load estimator based on a Luenberger Filter
+
+ 
+
+
+
+
+
+
+Poster TUPV006 [2.393 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV006
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Accepted ※ 23 February 2022       
+Issue date ※ 14 March 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV007
+Motorized Regulation Systems for the SARAF Project
+387
+
+
+ 
+
+T.J. Joannem, F. Gohier, F. Gougnaud, P. Lotrus
+                       CEA-IRFU, Gif-sur-Yvette, France
+D. Darde
+                       CEA, DES-ISAS-DM2S, Université Paris-Saclay, Gif-sur-Yvette, France
+P. Guiho, A. Roger, N. Solenne
+                       CEA-DRF-IRFU, France
+
+ 
+
+
+ 
+
+CEA is in charge of the tuning regulation systems for the SARAF-Linac project. These tuning systems will be used with LLRF to regulate the 3 Rebuncher cavities and the HWR cavities of the 4 cryomodules. These systems were already tested on the Rebuncher and Equipped Cavity Test stands to test respectively the warm and cold tunings. This paper describes the hardware and software architectures. Both tuning systems are based on Siemens PLC and EPICS-PLC communication. Ambiant temperature technology is based on SIEMENS motor controller solution whereas the cold one combines Phytron and PhyMOTION solutions.
+
+ 
+
+
+
+
+
+
+Poster TUPV007 [0.892 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV007
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Revised ※ 22 October 2021       
+Accepted ※ 05 February 2022        Issue date ※ 10 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV008
+Status of BlueSky Deployment at BESSY II for Machine Commissioning
+ 
+
+
+ 
+
+P. Schnizer, J. Bengtsson, T. Birke, J. Li, T. Mertens, M. Ries
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+HZB is hosting two light sources: BESSY II and MLS. As for any light source regular commissioning task are required for monitoring machines performance next to developing and establishing new operation modes. The current modernization of the commissioning software itself is based on the BlueSky software stack. A digital twin is used as backend for testing the software itself next to providing a tuneable online machine model. We describe our users experience, exemplify commissioning tools simplifications due to the Bluesky software framework and describe the design choices made for the used digital twin.
+
+ 
+
+
+
+
+
+
+Poster TUPV008 [0.292 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV009
+OpenCMW - A Modular Open Common Middle-Ware Library for Equipment- and Beam-Based Control Systems at FAIR
+392
+
+
+ 
+
+R.J. Steinhagen, H. Bräuning, D.S. Day, A. Krimm, T. Milosic, D. Ondreka, A. Schwinn
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+OpenCMW is an open-source modular event-driven micro- and middle-ware library for equipment- and beam-based monitoring as well as feedback control systems for the FAIR Accelerator Facility. Based on modern C++20 and Java concepts, it provides common communication protocols, interfaces to data visualisation and processing tools that aid engineers and physicists at FAIR in writing functional high-level monitoring and (semi-)automated feedback applications. The focus is put on minimising the required boiler-plate code, programming expertise, common error sources, and significantly lowering the entry-threshold that is required with the framework. OpenCMW takes care of most of the communication, data-serialisation, data-aggregation, settings management, Role-Based-Access-Control (RBAC), and other tedious but necessary control system integrations while still being open to expert-level modifications, extensions or improvements.
+
+ 
+
+
+
+
+
+
+Poster TUPV009 [1.376 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV009
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Accepted ※ 22 December 2021       
+Issue date ※ 21 February 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV010
+Integration of OPC UA at ELBE
+400
+
+
+ 
+
+K. Zenker, M. Kuntzsch, R. Steinbrück
+                       HZDR, Dresden, Germany
+
+ 
+
+
+ 
+
+The Electron Linac for beams with high Brilliance and low Emittance (ELBE) at Helmholtz-Zentrum Dresden-Rossendorf (HZDR) is in operation since 2001. It is operated using the SCADA system WinCC by Siemens. The majority of ELBE systems is connected to WinCC via industrial Ethernet and proprietary S7 communication. However, in recent years new subsystems had to be integrated into the existing infrastructure, which do not provide S7 communication interfaces. Instead, OPC UA has been chosen for system integration. We will show how we use OPC UA as a common communication layer between industrial and scientific instruments as well as proprietary and open source control system software. For example, OPC UA support has been implemented for the ChimeraTK framework developed at DESY. ChimeraTK is used at ELBE e.g. for integrating MicroTCA.4 based subsystems like the digital LLRF system. Furthermore, we are developing a machine data interface for ELBE users. In combination with a certification authority, which hands out user certificates for data access, external users can gain read and write access to different ELBE subsystem data provided by a single OPC UA server.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV010
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Accepted ※ 20 November 2021       
+Issue date ※ 15 December 2021
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV011
+Interfacing EPICS and LabVIEW Using OPC UA for Slow Control Systems
+405
+
+
+ 
+
+J. Mostafa, A. Beglarian, S.A. Chilingaryan, A. Kopmann
+                       KIT, Eggenstein-Leopoldshafen, Germany
+
+ 
+
+
+ 
+
+The ability of EPICS-based control systems to adapt to heterogeneous architectures made EPICS the defacto control system for scientific experiments. Several approaches have been made to adapt EPICS to LabVIEW-based cRIO hardware but these approaches including NI EPICS ServerI/O Server: (1) require a lot of effort to maintain and run especially if the controllers and the process variables are numerous; (2) only provide a limited set of metadata; or (3) provide a limited set of EPICS features and capabilities. In this paper, we survey different solutions to interface EPICS with LabVIEW-based hardware then propose EPICS OPCUA device support as an out-of-the-box interface between LabVIEW-based hardware and EPICS to preserve most of EPICS features and provide reasonable performance for slow control systems.
+
+ 
+
+
+
+
+
+
+Poster TUPV011 [0.424 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV011
+
+ 
+
+
+About •
+Received ※ 20 September 2021       Revised ※ 21 October 2021       
+Accepted ※ 16 November 2021        Issue date ※ 21 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV012
+Automated Device Error Handling in Control Applications
+408
+
+
+ 
+
+M. Killenberg, J. Georg, M. Hierholzer, C.K. Kampmeyer, T. Kozak, D. Rothe, N. Shehzad, J.H.K. Timm, G. Varghese, C. Willner
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+When integrating devices into a control system, the device applications usually contain a large fraction of error handling code. Many of these errors are run time errors which occur when communicating with the hardware, and usually have similar handling strategies. Therefore we extended ChimeraTK, a software toolkit for the development of control applications in various control system frameworks, such that the repetition of error handling code in each application can be avoided. ChimeraTK now also features automatic error reporting, recovery from device errors, and proper device initialisation after malfunctioning and at application start.
+
+ 
+
+
+
+
+
+
+Poster TUPV012 [2.255 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV012
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 22 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 18 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV013
+Back End Event Builder Software Design for INO Mini-ICAL System
+413
+
+
+ 
+
+M. Punna, N. Ayyagiri, J.A. Deshpande, P.M. Nair, P. Sridharan, S. Srivastava
+                       BARC, Trombay, Mumbai, India
+S. Bheesette, Y. Elangovan, G. Majumder, N. Panyam
+                       TIFR, Colaba, Mumbai, India
+
+ 
+
+
+ 
+
+The Indian-based Neutrino Observatory collaboration has proposed to build a 50 KT magnetized Iron Calorimeter (ICAL) detector to study atmospheric neutrinos. The paper describes the design of back-end event builder for Mini-ICAL, which is a first prototype version of ICAL and consists of 20 Resistive Plate Chamber (RPC) detectors. The RPCs push the event and monitoring data using a multi-tier network technology to the event builder which carries out event building, event track display, data quality monitoring and data archival functions. The software has been designed for high performance and scalability using asynchronous data acquisition and lockless concurrent data structures. Data storage mechanisms like ROOT, Berkeley DB, Binary and Protocol Buffers were studied for performance and suitability. Server data push module designed using publish-subscribe pattern allowed transport & remote client implementation technology agnostic. Event Builder has been deployed at mini-ICAL with a throughput of 3MBps. Since the software modules have been designed for scalability, they can be easily adapted for the next prototype E-ICAL with 320 RPCs to have sustained data rate of 200MBps
+
+ 
+
+
+
+
+
+
+Poster TUPV013 [0.760 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV013
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Revised ※ 19 October 2021       
+Accepted ※ 24 February 2022        Issue date ※ 15 March 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV014
+Control System of a Portable Pumping Station for Ultra-High Vacuum
+418
+
+
+ 
+
+M. Trevi, E. Mazzucco, L. Rumiz, D. Vittor
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+Particle accelerators operate in Ultra High Vacuum conditions, which have to be restored after a maintenance activity requiring venting the vacuum chamber. A compact, independent and portable pumping station has been developed at Elettra Sincrotrone Trieste to pump the vacuum chamber and to restore the correct local pressure.. The system automatically achieves a good vacuum level and can detect and manage vacuum leaks . It has been designed and manufactured in-house, including the mechanical, electrical and control parts. By means of a touch screen an operator can start all the manual and automatic operations, and monitor the relevant variables and alarms. The system archives the operating data and displays trends, alarms and logged events; these data are downloadable to a removable USB stick. Controlled devices include two turbomolecular pumps, one primary pump, vacuum gauges and one residual gas analyser. The control system has been implemented with a Beckhoff PLC with RS-485 and Profibus interfaces. This paper focuses in particular on the events management and object-oriented approach adopted to achieve a good modularity and scalability of the system.
+
+ 
+
+
+
+
+
+
+Poster TUPV014 [0.876 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV014
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 19 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 30 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV015
+EPICS Based High-Level Control System for ESS-ERIC Emittance Measurement Unit Device
+423
+
+
+ 
+
+M.G. Giacchini, M. Montis
+                       INFN/LNL, Legnaro (PD), Italy
+C.S. Derrez, J.P.S. Martins, R. Tarkeshian
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+For low energy linear accelerators, a typical method for measuring the transverse emittance consists in a slit and grid system. In ESS-ERIC* dedicated Emittance Measurement Units (EMUs) are used to calculate the transverse phase space (horizontal and vertical) and they are composed by a slit and grid system. This system let users reconstruct the distribution of particles in x and x’ (or y and y’), position and angle between particle trajectory and z axis, respectively. The EMU aims to measure the transverse emittance by sampling the transverse phase space. Considering control system aspect, a single EMU device is composed by different sub-systems (acquisition, motion, etc.). In this paper the software layer developed in EPICS** and realized to orchestrate the entire apparatus and control the different sub-systems will be described.
+* https://europeanspallationsource.se/ ** https://epics-controls.org/
+
+ 
+
+
+
+
+
+
+Poster TUPV015 [1.379 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV015
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Revised ※ 19 October 2021       
+Accepted ※ 21 December 2021        Issue date ※ 26 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV016
+Design and Development of the New Diagnostics Control System for the SPES Project at INFN-LNL
+428
+
+
+ 
+
+G. Savarese, G. Arena, D. Bortolato, F. Gelain, D. Marcato, V. Martinelli, E. Munaron, M. Roetta
+                       INFN/LNL, Legnaro (PD), Italy
+
+ 
+
+
+ 
+
+The need to get finer data to describe the beam is a relevant topic for all laboratories. For the SPES project at Laboratori Nazionali di Legnaro (LNL) a new diagnostic control system with more performing hardware, with respect to the one used in legacy accelerators based on Versabus Module Eurocard (VME) ADCs, has been developed. The new system uses a custom hardware to acquire signals in real time. These data and ancillary operations are managed by a control system based on the Experimental Physics and Industrial Control System (EPICS) standard and shown to users on a Control System Studio (CSS) graphical user interface. The new system improves the basic functionalities, current read-back over Beam Profilers (BP) and Faraday Cups (FC) and handlings control, with new features such as: multiple hardware gain levels selection, broken wires correction through polynomial interpolation and roto-translations taking into account alignment parameters. Another important feature, integrated with the usage of a python Finite State Machine (FSM), is the capability to control an emittance meter to quickly acquire data and calculate beam longitudinal phase space through the scubeex method.
+
+ 
+
+
+
+
+
+
+Poster TUPV016 [2.235 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV016
+
+ 
+
+
+About •
+Received ※ 28 September 2021       Revised ※ 02 November 2021       
+Accepted ※ 20 November 2021        Issue date ※ 08 March 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV017
+The GEM Gas Monitoring System: Using a Gaseous Detector as a Gas Detector for CMS Triple-GEM Safe Operation
+ 
+
+
+ 
+
+D. Fiorina
+                       Pavia University, Pavia, Italy
+
+ 
+
+
+ 
+
+The CMS experiment will exploit the Gas Electron Multiplier (GEM) technology for the first time during the next LHC run. Maintain the gas mixture quality and concentration is fundamental for the safe and correct operation of such gaseous detectors. An Ar concentration 1% higher or lower will respectively increase or decrease the detector gain of almost 15%. The CMS GEM Group decided to develop a monitoring system of the gas concentration by exploiting a small Triple-GEM detector. The gain measurement of this test chamber, fed by the gas mixture derived from the CMS GEM gas system, allows retrieving information about the Ar/CO2 ratio. Detection of wrong gas concentrations in the test chamber will allow to trigger warnings or alarms before sending the gas to the GEM detectors and eventually to real-time tune the working point. This contribution will describe the GEM Gas Monitoring system from the design to the commissioning foreseen for end 2021. It will report about the calibration procedure, illustrating all the necessary steps to detect gain changes of around 5% corresponding to a systematic variation of Argon (or CO2) concentration of 0.33%.
+
+ 
+
+
+
+
+
+
+Poster TUPV017 [1.511 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV018
+KEK LUCX facility Laser-to-RF&RF-to-RF stability study and optimization
+ 
+
+
+ 
+
+K. Popov
+                       Sokendai, Ibaraki, Japan
+A. Aryshev, N. Terunuma, J. Urakawa
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+KEK LUCX facility* is a linear accelerator devoted to the beam instrumentation R&Ds for present and future accelerator systems and colliders including ILC. According to the ILC TDR**, it is necessary to achieve RF-gun Laser-to-RF&RF-to-RF phase stability of 0.35°(RMS) and amplitude stability of 0.07%(RMS) with implementation of the Digital LLRF feedback based on commercially available FPGA board and digital trigger system. As the first step to achieve ILC stability level at KEK-LUCX facility, present Laser-to-RF&RF-to-RF phase and amplitude jitters were measured using time- and frequency-domain techniques. After that, jitter influence on beam parameters after RF-gun and main solenoid magnet was simulated with ASTRA tracking code*** and results were cross-checked during LUCX facility beam operation. Finally, stable digital trigger system and digital LLRF feedback based on HighLand Technology T564 and RedPitaya SIGNALlab-250 modules were implemented. This report demonstrates the results of Laser-to-RF&RF-to-RF phase and amplitude jitter measurements cross-checked with ASTRA simulation and real beam parameters measurements before and after LUCX facility stabilization.
+*A. Aryshev et al., Appl. Phys. Lett. 111, 033508 (2017).  **International Linear Collider Reference Design Report, ILC-REPORT-2007-001, 2007. ***https://www.desy.de/~mpyflo/
+
+ 
+
+
+
+
+
+
+Poster TUPV018 [2.071 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV019
+Control System for 30 keV Electron Gun Test Facility
+433
+
+
+ 
+
+D.A. Nawaz, M. Ajmal, A. Majid, N.U. Saqibpresenter, F. Sher
+                       PINSTECH, Islamabad, Pakistan
+
+ 
+
+
+ 
+
+At LINAC Project PINSTECH, an electron gun test facility for indigenously developed 30 keV electron guns is developed to control and monitor various beam parameters by performing electron beam tests and diagnostics. After successful testing, electron gun is then integrated into 6 MeV standing wave linear accelerator. This paper presents the control system design and development for the facility.
+
+ 
+
+
+
+
+
+
+Poster TUPV019 [1.468 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV019
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Accepted ※ 20 November 2021       
+Issue date ※ 09 December 2021
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV020
+Automatic RF and Electron Gun Filament Conditioning Systems for 6 MeV LINAC
+437
+
+
+ 
+
+A. Majid, D.A. Nawaz, N.U. Saqibpresenter, F. Sher
+                       PINSTECH, Islamabad, Pakistan
+
+ 
+
+
+ 
+
+RF conditioning of vacuum windows and RF cavities is a necessary task for eliminating poor vacuum caused by outgassing and contamination. Also, startup and shutdown process of linear accelerator requires gradual increase and decrease of electron gun filament voltage to avoid damage to the filament. This paper presents an EPICS based multi-loop automatic RF conditioning system and Electron Gun filament conditioning system for Klystron based 6 MeV Linear Accelerator.
+
+ 
+
+
+
+
+
+
+Poster TUPV020 [1.822 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV020
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 17 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 26 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV021
+Application Research of Inovance Plc in Accelerator Control System
+ 
+
+
+ 
+
+Y.C. He
+                       Institute of High Energy Physics, CAS, Guangdong, People’s Republic of China
+X. Wu
+                       IHEP CSNS, Guangdong Province, People’s Republic of China
+Y.L. Zhang
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+In order to make the system stable and reliable, Programmable Logic Controllers (PLCs) are widely used to realize the slow control and interlock control of the accelerator control system. EPICS is a set of software tools used to build control systems for large scientific instruments such as particle accelerators. A prototype of communication between Inovance PLC and EPICS IOC was built by using a Inovance AC812 PLC controller. In order to simplify the system structure and reduce the development cost, the EPICS IOC was run in the AC812 PLC controller while running standard PLC program. The PLC program running in the AC812 PLC controller communicates with the EPICS IOC through the Modbus protocol, so as to integrate the data from the AC812 PLC controller into the EPICS IOC. Based on the brief introduction of EPICS, AC812 PLC controller and EPICS Modbus driver, the communication between the AC812 PLC controller and the EPICS IOC using EPICS Modbus drivers was tested. The test results show that the communication between the AC812 PLC controller and the EPICS IOC using the EPICS Modbus driver is smooth.
+
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV023
+Ximea XiApi Camera Plugin for Lima
+ 
+
+
+ 
+
+G.W. Kowalski, Ł. Żytniak
+                       S2Innovation, Kraków, Poland
+
+ 
+
+
+ 
+
+The XiApi pluign for Lima provides support for Ximea cameras using the XiApi interface. In addition to standard Lima interface, the plugin supports many of additional and camera specific features. This allows using Ximea cameras in experiments developed for other Lima cameras as well as enables detailed camera configuration. The plugin was tested at ESRF with a MX377MR PCIe camera and will soon be available via the esrf-bcu conda channel.
+
+ 
+
+
+
+
+
+
+Poster TUPV023 [0.224 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV024
+Preliminary Design of LLRF System for Polfel Accelerator
+ 
+
+
+ 
+
+J. Szewiński, P.R. Bartoszek, K. Chmielewski, K. Kostrzewa, T. Kowalski, P. Markowski, D. Rybka, M. Sitek, Z. Wojciechowski
+                       NCBJ, Świerk/Otwock, Poland
+
+ 
+
+
+ 
+
+PolFEL stands for Polish Free Electron Laser, and it is new facility which will be located in the National Centre for Nuclear Research in Świerk in Poland. PolFEL will be Free Electron Laser based on the 200 MeV linear superconducting electron accelerator made of the TESLA type cavities, targeting VUV, IR and THZ wavelengths. Described accelerator will be able to operate in the pulsed wave (PW) mode, but the main operational mode will be continuous wave (CW). PolFEL will operate in the single cavity regulation mode using solid state amplifiers - one per RF structure. Custom and flexible LLRF system will be needed to achieve goals described above. This contribution will present concept of the LLRF system for PolFEL, proposed technologies and techniques, and results of the first successful closed loop operation, performed in the laboratory with the prototype system and copper cavity.
+
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV025
+Control System of Upgraded High Voltage for Atlas Tile Calorimeter
+443
+
+
+ 
+
+F. Martins, F.M.O. Cuim, G.G. Evans, R.P. Fernandez, A. Gomes, L. Gurriana
+                       LIP, Lisboa, Portugal
+J.A. Soares Augusto
+                       FCUL, Lisboa, Portugal
+
+ 
+
+
+ 
+
+The preparation of the upgrade of the ATLAS electronics for the High Luminosity LHC is in full swing. The Tile Calorimeter is preparing the upgrade of its readout electronics and power distribution systems. One of such systems is the High Voltage (HV) regulation and distribution system. The new system is based on HVRemote boards mounted in crates located at the counting room. The HV will be delivered to the on-detector electronics using 100 m long cables. The crates will be equipped with a system-on-chip that will be responsible for the control and monitoring of the HV boards. The control of the HVRemote and its dedicated HVSupply boards is done by means of a serial peripheral interface bus. A SCADA component is under development to communicate with and supervise the crates and boards, and to integrate the HV system in the control system of the detector. The control system will be able to send notifications to the operators when the monitored values are out of range, archive the monitored data and if required, perform automated actions.
+
+ 
+
+
+
+
+
+
+Poster TUPV025 [1.590 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV025
+
+ 
+
+
+About •
+Received ※ 15 October 2021       Revised ※ 17 November 2021       
+Accepted ※ 20 November 2021        Issue date ※ 11 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV027
+EPICS DAQ System for Beam Position Monitor at the KOMAC Linac and Beamlines
+447
+
+
+ 
+
+Y.G. Song, S.Y. Cho, J.H. Kim
+                       KOMAC, KAERI, Gyeongju, Republic of Korea
+
+ 
+
+
+ 
+
+The KOMAC facility consists of low-energy component, including a 50-keV ion source, a low energy beam transport (LEBT), a 3-MeV radio-frequency quadrupole (RFQ), and a 20-MeV drift tube linac (DTL), as well as high-energy components, including seven DTL tanks for the 100-MeV proton beam. The KOMAC has been operating 20-MeV and 100-MeV proton beam lines to provide proton beams for various applications. Approximately 20 stripline beam position monitors (BPMs) have been installed in KOMAC linac and beamlines. A data-acquisition (DAQ) system has been developed with various platforms in order to monitor beam position signals from linac and beamlines. This paper describes the hardware and software system and test results.
+
+ 
+
+
+
+
+
+
+Poster TUPV027 [1.590 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV027
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Revised ※ 22 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 03 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV028
+The Control and Archiving System for the Gamma Beam Profile Station at ELI-NP
+450
+
+
+ 
+
+G. Chen, V. Iancu, C. Matei, F. Ramirez, G. Turturica
+                       IFIN-HH, Bucharest - Magurele, Romania
+
+ 
+
+
+ 
+
+The Variable Energy Gamma (VEGA) System of Extreme Light Infrastructure - Nuclear Physics (ELI-NP) is based on the Inverse Compton Scattering of laser light on relativistic electron bunches provided by a warm radio-frequency accelerator. The system will deliver quasi-monochromatic gamma-ray beams with a high spectral density and a high degree of linear polarization. The Beam Profile Station, which will be used for ’ner target alignment and spatial characterization of the gamma-ray beam, is one of the diagnostics stations under implementation at ELI-NP. An EPICS Control and Archiving System (CAS) has been developed for the Beam Profile Station at ELI-NP. This paper describes the design and the implementation of the EPICS CAS for the Beam Profile Station, including the device modular integration of the low-level IOCs for the CCD camera Trius-SX674 and Mclennan PM600 Stepper Motor Controller, the design of the high-level GUI for real-time image acquisition and motion control, as well as the configuration of the archiving system for browsing the historic images and parameters.
+* The work is supported by ELI-NP Project (http://www.eli-np.ro/)
+
+ 
+
+
+
+
+
+
+Poster TUPV028 [0.782 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV028
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Revised ※ 13 January 2022       
+Accepted ※ 25 January 2022        Issue date ※ 06 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV029
+Controls.kt - a multiplatform API for device servers
+ 
+
+
+ 
+
+A.A. Nozik
+                       MIPT, Dolgoprudniy, Moscow Region, Russia
+
+ 
+
+
+ 
+
+Funding: JetBrains Research
+Large-scale control frameworks have a number of features, but they share several problems which make them hard to use for small-scale setups: * In order to control a single device, one needs to perform a complicated setup of industrial-scale applications and network tools. * Different systems have incompatible data protocols in their core, so a device, designed for one system, could not be plugged into another one. * Designing the device server requires a deep understanding of the system it is used in. * Most device server use synchronous calls, which impacts system scaleability. Controls.kt (https://github.com/mipt-npm/controls.kt) is an experimental lightweight device server API based on the Kotlin-Multiplatform technology, which allows it to be used in conjunction with most other systems. It is designed with asynchronous communication in mind and does not rely on any specific transport protocol. Instead one can create lightweight connectors to external frameworks to make it easily portable from one control system to another.
+
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV030
+Redesign of the VELO Thermal Control System Forfuture Detector Development
+454
+
+
+ 
+
+S.A. Lunt
+                       UCT Physics, Cape Town, South Africa
+B. Verlaat, L. Zwalinski
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The Detector Technologies group at CERN has developed a Two-Phase Accumulator Controlled Loop (2PACL) test system for future detector development, using reused hardware from the LHCb Vertex Locator (VELO) Thermal Control System. The fluid, electrical and control systems have been redesigned and simplified by removing redundant components because it is no longer a critical system. The fluid cycle was updated to allow both 2PACL and integrated 2PACL cycles to be run and the chiller was replaced with an air-cooled unit using hot gas bypass to achieve a high turndown ratio. The electrical systems were upgraded with new hardware to improve usability and practicality. The control system logic is being developed with the CERN’s Unified Industrial Control System (UNICOS) framework. This paper presents thedetails of the design and implementation.
+
+ 
+
+
+
+
+
+
+Poster TUPV030 [1.057 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV030
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Revised ※ 22 November 2021       
+Accepted ※ 22 December 2021        Issue date ※ 29 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV031
+LHC Vacuum Supervisory Application for Run 3
+459
+
+
+ 
+
+S. Blanchard, I.A. Amador, N. Chatzigeorgiou, R. Ferreira, J.D. Francisco Rebelo, P. Gomes, C.V. Lima, G. Pigny, A.P. Rocha, L. Zygaropoulos
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHC Vacuum Supervisory Control and Data Acquisition application has been upgraded to fulfil the new requirements of Long Shutdown 2 and Run 3. The number of datapoint elements has been increased from 700k to 1.5M, which constitutes a challenge in terms of scalability. The new configuration of pumping station control hardware has led to an increase in the number of permanently connected PLCs from 150 to almost 300. A new concept has been developed and deployed, in which the PLC configuration is updated online. The goals were to automate, and to speed up periodic updates of the control system. Integrating of the wireless mobile equipment had led to the acquisition of expertise in dealing with temporary connections and dynamic insertion of device representation in the synoptic. Other new features include: the introduction of an innovative remote control and representation in synoptic panel of hardware interlocks, the development of a pre-configured notification system, and the integration of asset management into the user interface.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV031
+
+ 
+
+
+About •
+Received ※ 05 October 2021       Revised ※ 17 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 11 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV032
+Challenges of Automating the Photocathode Fabrication Process at CERN
+464
+
+
+ 
+
+C. Charrondière, E. Chevallay, T. Zilliox
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN Photoemission Laboratory was founded in 1989 with the goal of studying laser-driven electron sources, for producing high-brightness electron beams within the framework of the Compact Linear Collider (CLIC) study. To produce these photocathodes, two processes run in parallel. The first process, which is slow and asynchronous, controls and monitors the evaporation of photoemissive material. For this first step several power supplies are controlled to evaporate different metals through the Joule effect, with the power maintained constant in time and the thickness deposited monitored. The second process is synchronized with a laser trigger ranging from 0.1 to 50Hz, where the photocurrent and laser energy are measured to calculate the Quantum Efficiency. The control system for these processes has recently been renovated to benefit from the modularity of a PXI-based real-time environment using the standard CERN MiddleWare communication layer (CMW). This paper describes the challenges of the fabrication process as well as the flexibility introduced by using a PXI system.
+
+ 
+
+
+
+
+
+
+Poster TUPV032 [0.958 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV032
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 01 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV033
+Distributed Transactions in CERN’s Accelerator Control System
+468
+
+
+ 
+
+F. Hoguin, S. Deghaye, R. Gorbonosov, J. Lauener, P. Mantion
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Devices in CERN’s accelerator complex are controlled through individual requests, which change settings atomically on single Devices. Individual Devices are therefore controlled transactionally. Operators often need to apply a set of changes which affect multiple devices. This is achieved by sending requests in parallel, in a minimum amount of time. However, if a request fails, the Control system ends up in an undefined state, and recovering is a time-consuming task. Furthermore, the lack of synchronisation in the application of new settings may lead to the degradation of the beam characteristics, because of settings being partially applied. To address these issues, a protocol was developed to support distributed transactions and commit synchronisation in the CERN Control system, which was then implemented in CERN’s real-time frameworks. We describe what this protocol intends to solve and its limitations. We also delve into the real-time framework implementation and how developers can benefit from the 2-phase commit to leverage hardware features such as double buffering, and from the commit synchronisation allowing settings to be changed safely while the accelerator is operational.
+
+ 
+
+
+
+
+
+
+Poster TUPV033 [0.869 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV033
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 22 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV034
+Development of an Automated High Temperature Superconductor Coil Winding Machine at CERN
+473
+
+
+ 
+
+H. Reymond, M. Dam, A. Haziot, P.D. Jankowski, P.J. Koziol, T.H. Nes, F.O. Pincot, S.C. Richter
+                       CERN, Geneva, Switzerland
+H. Felice
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Within the framework of technology studies on future accelerators, CERN has initiated a five-years R&D project aimed at the evaluation of the REBCO (Rare Earth Barium Copper Oxide) High Temperature Superconductors (HTS). The study covers a number of areas from material science to electromechanical properties. The REBCO high-field tape will be tested on different HTS magnet prototypes, such as HDMS (HTS Demonstrator Magnet for Space), GaToroid (hadron therapy Gantry based on a toroidal magnetic field) and other smaller coils that will be fabricated to study the tape’s potential. To assemble the HTS coils, a new automatic winding station has been designed and constructed at CERN. A touch panel combined with an embedded controller running software developed in-house provides a sophisticated, yet intuitive and user-friendly system aimed at maintaining perfect coil winding conditions. In this paper, we describe the mechanical choices and techniques used to control the seven HTS spool tapes and the winding machine. We also present the analysis of several coils already produced.
+
+ 
+
+
+
+
+
+
+Poster TUPV034 [8.048 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV034
+
+ 
+
+
+About •
+Received ※ 07 October 2021       Accepted ※ 15 December 2021       
+Issue date ※ 21 December 2021
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV035
+Continuous Integration for PLC-based Control System Development
+478
+
+
+ 
+
+B. Schofield, E. Blanco Viñuela, J.H.P.D.C. Borrego
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Continuous Integration and Continuous Deployment (CI/CD) is a software engineering methodology which emphasises frequent, small changes committed to a version control system, which are verified by a suite of automatic tests, and which may be deployed to different environments. While CI/CD is well established in software engineering, it is not yet widely used in the development of industrial controls systems. However, the advantages of using CI/CD for such systems are clear. In this paper we describe a complete CI/CD pipeline able to automatically build Siemens PLC projects from sources, download the program to a PLC, and run a sequence of tests which interact with the PLC via both a Simulation Unit Profibus simulator and an OPC UA interface provided by Simatic NET. To achieve this, a gRPC service wrapping the Simatic API was used to provide an interface to the PLC project from the pipeline. In addition, a Python wrapper was created for the Simulation Unit API, as well as for the OPC UA interface, which allowed the test suite to be implemented in Python. A particle accelerator interlock system based on Siemens S7-300 PLCs has been taken as a use case to demonstrate the concept.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV035
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Accepted ※ 20 November 2021       
+Issue date ※ 25 December 2021
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV036
+An Evaluation of Schneider M580 HSBY PLC Redundancy in the R744 System A Cooling Unit
+484
+
+
+ 
+
+D.I. Teixeira
+                       University of Cape Town, Cape Town, South Africa
+L. Davoine, W.K. Hulek, L. Zwalinski
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The Detector Technologies group at CERN has developed a 2-stage transcritical R744 cooling system as a service for future detector cooling. This is the first system in operation at CERN where Schneider HSBY (Hot Standby) redundant PLCs are used. This cooling system provides a good opportunity to test the Schneider redundant PLC system and understand the operation, limitations and probability of failure in a con-trolled environment. The PLC redundancy is achieved by connecting Schneider M580 HSBY redundant PLCs to the system where one is the primary which operates the system and the other is in standby mode. A series of tests have been developed to understand the operation and failure modes of the PLCs by simulating different primary PLC failures and observing whether the standby PLC can seamlessly take over the system operation.
+
+ 
+
+
+
+
+
+
+Poster TUPV036 [1.154 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV036
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Revised ※ 29 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 31 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV037
+Modular Software Architecture for the New CERN Injector Wire-Scanners
+487
+
+
+ 
+
+A. Guerrero, D. Belohrad, J. Emery, S. Jackson, F. Roncarolo
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+In the scope of the LHC injector upgrade, new wire-scanner devices have been installed in the LHC injector circular accelerators. This paper outlines the software architecture and choices taken in order to provide the scanner experts with comprehensive diagnostics as well as operators with straightforward size measurements. The underlying electronics acquire large amounts of data that need to be accessible for expert and machine develop-ment use and need to be processed before being present-ed for daily operational use, in the shape of a beam pro-file and its derived size. Data delivery and measurement computation are accomplished by means of a modular structure, using functionally distributed real-time process-es that handle the different data views, with minimal interference in the processing, and minimal exchange of data among modules.
+
+ 
+
+
+
+
+
+
+Poster TUPV037 [1.214 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV037
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 08 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV038
+OPC UA Controls for ATCA Back-End Electronics
+ 
+
+
+ 
+
+P. Moschovakos, P.P. Nikiel, S. Schlenker
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The AdvancedTCA standard is employed as a back-end platform by system upgrades of ATLAS replacing the VME standard for new electronics systems. To extend the ATLAS controls functionality, a solution based on the OPC UA middleware was developed, managing ATCA shelves via their shelf manager SNMP interface and providing control and monitoring of the device. While focusing on ATCA, the solution is compatible with the broader range of xTCA device family. The ATCA OPC UA server, a modularized software application, models selected parts of the ATCA standard functionality in an object-oriented design. Code generation techniques are used to implement the selected device functions. The SNMP based back-end is a C++ wrapper of the Net-SNMP library and provides a generic interface to any SNMP device. In addition, the solution provides features such as hardware discovery to automatically create a device map, making their functionality available to OPC UA clients. Finally, a set of associated tools, allowing for easy client deployment in the SCADA applications, are part of the ATCA software solution making the integration into the ATLAS controls an easy and efficient task.
+
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV039
+A Reliable Monitoring and Control System for Vacuum Surface Treatments
+492
+
+
+ 
+
+J. Tagg, E. Bez, M. Himmerlich, A.K. Reascos Portilla
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Secondary electron yield (SEY) of beam-screens in the LHC puts limits on the performance of the accelerator. To ramp up the luminosity for the HiLumi LHC project, the vacuum surface coatings team are coming up with ways to treat the surfaces to control the electron cloud and bring the SEY down to acceptable levels. These treatments can take days to weeks and need to work reliably to be sure the surfaces are not damaged. An embedded control and monitoring system based on a CompactRIO is being developed to run these processes in a reliable way. This paper describes the techniques used to create a LabVIEW-based real-time embedded system that is reliable as well as easy to read and modify. We will show how simpler approaches can in some situations yield better solutions.
+
+ 
+
+
+
+
+
+
+Poster TUPV039 [0.504 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV039
+
+ 
+
+
+About •
+Received ※ 08 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 11 March 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV040
+A Python Package For Generating Motor Homing Routines
+497
+
+
+ 
+
+A.S. Palaha, T.M. Cobb, G. Knap
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Diamond Light Source uses hundreds of Delta Tau Turbo PMAC2 based motion controllers that control motors with precision and repeatability. Homing is critical to these requirements; it safely moves axes to a well-known position using a high-precision device for detection, leaving the overall system in a well-known state and ready for use. A python package called ’pmacmotorhome’ has been developed to generate homing routines for multiple motors across multiple motion controllers, allowing the user to write a script that is terse for standard/typical routines but allows for customisation and flexibility where required. The project uses jinja templates as ‘snippets’ to generate the homing routine code written in Delta Tau PLC notation. The snippets can be re-ordered and grouped together, supporting the design of homing routines for multi-axis systems with mechanical limitations that require an orchestrated approach to safely home the axes. The python script using the package is kept terse using a context manager and can group axes together to the same homing group easily.
+
+ 
+
+
+
+
+
+
+Poster TUPV040 [1.256 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV040
+
+ 
+
+
+About •
+Received ※ 14 October 2021       Revised ※ 21 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 15 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV042
+Collision Avoidance Systems in Synchrotron SOLEIL
+501
+
+
+ 
+
+C. Engblom, S. Akinotcho, L. Amelineau, D.C. Corruble, P. Monteiro, L.E. Munoz, B. Pilliaud, G. Thibaux, S. Zhang
+                       SOLEIL, Gif-sur-Yvette, France
+S. Bouvel
+                       EFOR, Levallois Perret, France
+
+ 
+
+
+ 
+
+Beamlines at Synchrotron SOLEIL are finding that their experimental setups (in respect to their respective sample environments, mechanical systems, and detectors) are getting more constrained when it comes to motorized manoeuvrability - an increasing number of mechanical instruments are being actuated within the same workspace hence increasing the risk of collision. We will in this paper outline setups with two types of Collision Avoidance Systems (CAS): (1) Static-CAS applications, currently being employed at the PUMA and NANOSCOPIUM beamlines, that use physical or contactless sensors coupled with PLC- and motion control- systems; (2) Dynamic-CAS applications, that use dynamic anti-collision algorithms combining encoder feedback and 3D-models of the system environment, implemented at the ANTARES and MARS beamlines but applied using two different strategies.
+
+ 
+
+
+
+
+
+
+Poster TUPV042 [1.670 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV042
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 20 October 2021       
+Accepted ※ 21 December 2021        Issue date ※ 17 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV043
+BLISS at the heart of ESRF Data Acquisition
+ 
+
+
+ 
+
+M. Guijarro
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+Since the restart of the User Program after the Extremly Brilliant Source ugrade, BLISS is the new beamline control system at ESRF. 16 ESRF beamlines are controlling their experiments with BLISS. Full deployment is aimed on all beamlines by the end of 2023. BLISS is an all-in-one solution for beamline experiments, ranging from experiment control sequences and data acquisition to live visualization. BLISS is entirely written in Python and integrates seamlessly into Python tool chains. ESRF beamline staff and users alike can benefit from thousands of Python packages at their fingertips to improve data acquisition sequences. The BLISS team, which is part of the Beamline Control Unit within the Software Group, is in charge of the BLISS development. All primary objectives have been reached and nowadays the BLISS team is working on improving parts of the system ; most notably, focus is put on the interaction with other ESRF software like Daiquiri, our web framework for graphical applications, or online data analysis. This paper describes the actual state of BLISS and presents newest, most innovative features, that put BLISS at the heart of the ESRF data acquisition ecosystem.
+
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV044
+Remote User Operation with Karabo at the European XFEL
+ 
+
+
+ 
+
+A. Silenzi, V. Bondar, C. Carinan, R. Costa, W. Ehsan, S.G. Esenov, R. Fabbri, G. Flucke, G. Giovanetti, D. Goeries, S. Hauf, D.G. Hickin, A. Klimovskaia, A. Lein, J. Malka, D. Mamchyk, A. Parenti, J. Szuba, K. Wrona, C. Youngman
+                       EuXFEL, Hamburg, Germany
+D.P. Spruce
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+At the European XFEL, scientific instruments are operated using the Karabo control system which has been developed in-house to serve the need of a tight integration of experiment control, data acquisition and data processing for fast experimental feedback. Karabo uses broker-based communication between its pluggable components, so-called devices. The generic, PyQt-based graphical user interface (GUI) interacts with the system via a TCP connection to a GUI server device. The travel and contact restrictions enacted in response to the COVID-19 pandemic have prevented many facility users from coming on site. In order to enable an easier remote user participation in experiments, a read-only version of the GUI server has been developed ad-hoc, and made available during Summer 2020. Obviously, easy and safe remote access has advantages beyond the current travel restrictions. Therefore, activities to provide a web-technology based front-end to Karabo have been accelerated. Perspectively, this interface aims to ensure remote accessibility, while conforming to scientific data and general privacy policies relevant for the European XFEL.
+
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV045
+Mamba: The experimental control and data acquisition software system for next generation beamlines in HEPS
+ 
+
+
+ 
+
+Y. Zhang, J.S. Cao
+                       IHEP, Beijing, People’s Republic of China
+C.P. Chu
+                       Nanjing University, College of Engineering and Applied Sciences, Nanjing, People’s Republic of China
+
+ 
+
+
+ 
+
+The launch of Mamba data acquisition software project is aiming to offer a unified science-oriented software solution for experimental control and data acquisation in the High Energy Photon Source (HEPS) of China, a diffraction limited storage ring synchrotron light source with an estimated completion in 2025. The main features for Mamba is the separation of control and data management functionalities, with the highly layered control part designed on top of the Bluesky (NSLS II) and data management part tailored for HEPS needs using original codes and innovative in-house designed frameworks. Mamba also has a server-client design to make it more user-friendly with sophisticated GUI application developments and automated metadata acquisition schemes. Within the Mamba framework, two specialized software projects will be launched, with the Mamba data worker serves as a data multiplexing and management tool to address challenges of implementing high throughput area detectors and data processing of multimodal experiments in HEPS, and the Mamba GUI studio as an dedicated OPI for GUI application of HEPS beamlines and other python based data acquisition and analysis software systems.
+
+ 
+
+
+
+
+
+
+Poster TUPV045 [1.033 MB]
+        
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV046
+Modification of Data Acquisition System in HLS-II Experimental Station
+506
+
+
+ 
+
+Z. Zhang, G. Liu
+                       USTC/NSRL, Hefei, Anhui, People’s Republic of China
+
+ 
+
+
+ 
+
+With the proposal of the concept of super-facility in recent years, users of experimental stations only need to pay attention to data with scientific significance, and the management of massive experimental data are assisted by the super-facility technical support platform to effectively improve user efficiency. Based on this theory, we modified the data acquisition system of the XMCD experimental station in HLS-II. We continue to use LabVIEW software to reduce development workload. Meanwhile, we have added the interaction program with the high-level application in the original data acquisition process under the principle of keeping the user habits of XMCD experimental station. We have modularized the XMCD experimental software and redesigned the experimental architecture into 4 modules: Swiping Card Module, Experimental Equipment Control Module, Storage System Interaction Module and Data Management System Interaction Module. In this way, we have completed the collection of rawdata and metadata, the docking of the data persistent storage system, and the docking of data centralized management.
+
+ 
+
+
+
+
+
+
+Poster TUPV046 [1.640 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV046
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Revised ※ 06 November 2021       
+Accepted ※ 15 January 2022        Issue date ※ 15 March 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV047
+Controlling the CERN Experimental Area Beams
+509
+
+
+ 
+
+B. Rae, V. Baggiolini, D. Banerjee, J. Bernhard, M. Brugger, N. Charitonidis, M. Gabriel, A. Gerbershagen, R. Gorbonosov, M. Hrabia, M. Peryt, C. Roderick, G. Romagnoli
+                       CERN, Geneva, Switzerland
+L. Gatignon
+                       Lancaster University, Lancaster, United Kingdom
+
+ 
+
+
+ 
+
+The CERN fixed target experimental areas are comprised of more than 8km of beam line with around 800 devices used to control and measure the beam. Each year more than 140 groups of users come to perform experiments in these areas, with a need to access the data from these devices. The software to allow this therefore has to be simple, robust, and be able to control and read out all types of beam devices. This contribution describes the functionality of the beamline control system, CESAR, and its evolution. This includes all the features that can be used by the beamline physicists, operators, and device experts that work in the experimental areas. It also underlines the flexibility that the software provides to the experimental users for control of their beam line during data taking, allowing them to manage this in a very easy and independent way. This contribution also covers the on-going work of providing MAD-X support to CESAR to achieve an easier way of developing and integrating beam optics. An overview of the on-going software migration of the Experimental Areas is also given.
+
+ 
+
+
+
+
+
+
+Poster TUPV047 [1.262 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV047
+
+ 
+
+
+About •
+Received ※ 11 October 2021       Revised ※ 21 October 2021       
+Accepted ※ 21 December 2021        Issue date ※ 18 January 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV048
+Updates and Remote Challenges for IBEX, Beamline Control at ISIS Pulsed Neutron and Muon Source
+514
+
+
+ 
+
+F.A. Akeroyd, K.V.L. Baker, L. Cole, J.R. Harper, D.P. Keymer, J.C. King, A.J. Long, T. Löhnert, C. Moreton-Smith, D.E. Oram, B. Rai
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+IBEX is the EPICS based experiment control system now running on most of the beamlines at the ISIS Neutron and Muon Source, with plans to deploy to all remaining beamlines by the end of the upcoming long shutdown. Over the last couple of years we have added support for reflectometry and muon instruments, developed a script generator, moved from Python 2 to Python 3, and continued to build on our suite of device emulators and tests. The reflectometry inclusions required the development of a framework to maintain the complex motion control requirements for that science technique. Whilst it is desirable that IBEX is easily configurable, not all operations should be available to all users, so we have implemented functionality to manage such access. The COVID-19 pandemic has meant we have also had to adapt to greater amounts of remote experiment access, for which we developed systems covering both IBEX and the old SECI control system. This presentation will aim to provide a brief update on the recent changes to IBEX, as well as outlining the remote operation solutions employed
+
+ 
+
+
+
+
+
+
+Poster TUPV048 [1.332 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV048
+
+ 
+
+
+About •
+Received ※ 10 October 2021       Revised ※ 18 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 14 March 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV049
+The IBEX Script Generator
+519
+
+
+ 
+
+J.C. King, J.R. Harper, A.J. Long, T. Löhnert, D.E. Oram
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+Experiment scripting is a key element of maximising utilisation of beam time at the ISIS Neutron and Muon Source, but can be prone to typing and logic errors. The IBEX Script Generator enables collaboration between instrument users and scientists to remove the need to write a script for many experiments, so improving reliability and control. For maximum applicability, the script generator needs to be easily configurable. Instrument scientists define action parameters, and functions for action execution, time estimation and validation, to produce a "script definition". A user then generates a Python script by organising a table of actions and their values, which are validated in real time, and can then be submitted to a script server for execution. Py4J is used to bridge a Java front end with Python script definitions. An iterative user-focused approach has been employed with Squish UI testing to achieve a behaviour-driven development workflow, along with Jenkins for continuous integration. Further planned development includes dynamic scripting ’ controlling the execution of actions during the experiment ’ action iteration and user experience improvement.
+
+ 
+
+
+
+
+
+
+Poster TUPV049 [1.051 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV049
+
+ 
+
+
+About •
+Received ※ 09 October 2021       Revised ※ 19 October 2021       
+Accepted ※ 20 November 2021        Issue date ※ 23 November 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPV050
+Control System Upgrade of the High-Pressure Cell for Pressure-Jump X-Ray Diffraction
+524
+
+
+ 
+
+R. Mercado, N.L. Griffin, P. Holloway, S.C. Lay, P.J. Roberts
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+This paper reports on the upgrade of the control system of a sample environment used to pressurise samples to 500 MPa at temperatures between -20 °C and 120 °C. The equipment can achieve millisecond pressure jumps for use in X-ray scattering experiments. It has been routinely available in beamline I22 at Diamond. The millisecond pressure-jump capability is unique. Example applications were the demonstration of pressure-induced formation of super crystals from PEGylated gold nanoparticles and the study of controlled assembly and disassembly of nanoscale protein cages. The project goal was to migrate the control system for the improved integration to EPICS and the GDA data acquisition software. The original control system uses National Instruments hardware controlled from LabView. The project looked at mapping the old control system hardware to alternatives in use at Diamond and migrating the control software. The paper discusses the choice of equipment used for ADC acquisition and equipment protection, using Omron PLCs and Beckhoff EtherCAT modules, a custom jump-trigger circuit, the calibration of the system and the next steps for testing the system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2021-TUPV050
+
+ 
+
+
+About •
+Received ※ 13 October 2021       Revised ※ 29 October 2021       
+Accepted ※ 21 December 2021        Issue date ※ 22 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

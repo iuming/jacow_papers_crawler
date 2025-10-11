@@ -1,0 +1,200 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2022 - Table of Session: TUOXGD (Contributed Orals: Beam Instrumentation, Controls, Feedback and Op. Aspects)
+
+
+TUOXGD —  Contributed Orals: Beam Instrumentation, Controls, Feedback and Op. Aspects   (14-Jun-22   09:30—10:30)
+Chair: H. Maesaka, RIKEN SPring-8 Center, Hyogo, Japan
+
+
+Paper
+Title
+Page
+
+
+
+TUOXGD1
+Design and Construction of Optical System of the Coronagraph for Beam Halo Observation in the SuperKEKB
+769
+
+
+ 
+
+G. Mitsuka, H. Ikeda, T.M. Mitsuhashi
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+For the observation of beam halo, the coronagraph is designed and constructed in the SuperKEKB. The coronagraph has three stages of optical systems, objective system, re-diffraction system and relay system. Since the SR monitor of SuperKEKB has a long optical path (60 m), we need an objective system with long focal length. The Aperture limit is determined by the diamond mirror which is set in 23.6 m from the source point. Therefore, we must assign this aperture for the entrance pupil of the objective system. For satisfying these conditions, we design a reflective telephoto system based on the Gregorian telescope for the objective system. The focal length is designed to 7028 mm. and front principal point position is designed to the position of diamond mirror. The result of construction, the performance of the objective system has a diffraction limited quality. The re-diffraction system and relay system are also designed based on Kepler type telescope. The result of optical testing using the beam in the HER, we achieved a contrast of 6 order magnitude. Some early result for the observation of beam halo in the HER will also present in this presentation.
+
+ 
+
+
+
+
+
+
+Slides TUOXGD1 [4.345 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-TUOXGD1
+
+ 
+
+
+About •
+Received ※ 09 June 2022 — Revised ※ 10 June 2022 — Accepted ※ 15 June 2022 — Issue date ※ 16 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUOXGD2
+Wireless IoT in Particle Accelerators: A Proof of Concept with the IoT Radiation Monitor at CERN
+772
+
+
+ 
+
+S. Danzeca, A.J. Cass, A. Masi, R. Sierra, A. Zimmaro
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The Internet of Things (IoT) is an ecosystem of web-enabled "smart devices" that integrates sensors and communication hardware to collect, send and act on data acquired from the surrounding environment. Use of the IoT in particle accelerators is not new, with accelerator systems long having been connected to the network to retrieve, send and analyse data. What has been missing is the IoT concept of "smart devices" and above all wireless connectivity. We report here on the advantages of using a particular IoT technology, LoRa, for the deployment of wireless radiation monitors within the CERN particle accelerator complex. IoT Radiation Monitors have been developed as a result of growing demand for radiation measurements where standard infrastructure is not available. As a radiation-tolerant device, the IoT Radiation Monitor is a powerful "eye" for observing the real-time radiation levels in the CERN accelerators. We describe here the technologies used for the project and the various advantages their deployment offers in a particle accelerator environment. This opens up the possibility for the deployment of heterogeneous implementations that would otherwise have been impractical.
+
+ 
+
+
+
+
+
+
+Slides TUOXGD2 [5.797 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-TUOXGD2
+
+ 
+
+
+About •
+Received ※ 07 June 2022 — Revised ※ 11 June 2022 — Accepted ※ 16 June 2022 — Issue date ※ 17 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUOXGD3
+6D Phase Space Diagnostics Based on Adaptively Tuned Physics-Informed Generative Convolutional Neural Networks
+776
+
+
+ 
+
+A. Scheinker
+                       LANL, Los Alamos, New Mexico, USA
+F.W. Cropp Vpresenter
+                       UCLA, Los Angeles, USA
+D. Filippetto
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: US Department of Energy, DOE Office of Science Graduate Student Research (SCGSR) contract numbers 89233218CNA000001 and DE-AC02-05CH11231 and by the NSF under Grant No. PHY-1549132.
+A physics-informed generative convolutional neural network (CNN)-based 6D phase space diagnostic is presented which generates all 15 unique 2D projections (x,y), (x,y’),…, (z,E) of a charged particle beam’s 6D phase space (x,y,z,x’,y’,E)*. The CNN is trained by supervised learning over a wide range of input beam distributions, accelerator parameters, and the associated 6D beam phase spaces at multiple accelerator locations. The CNN is applied in an un-supervised adaptive manner without knowledge of the input beam distribution or accelerator parameters and is robust to their unknown time variation. Adaptive feedback automatically tunes the low-dimensional latent space of the encoder-decoder CNN to predict the 6D phase space based only on 2D (z,E) longitudinal phase space measurements from a device such as a transverse deflecting RF cavity (TCAV). This method has the potential to provide diagnostics beyond the existing state of the art at many accelerator facilities. Studies are presented for two very different accelerators: the 5-meter-long ultra-fast electron diffraction (UED) HiRES compact accelerator at LBNL and the kilometer long plasma wakefield accelerator FACET-II at SLAC.
+*A. Scheinker. "Adaptive machine learning for time-varying systems: low dimensional latent space tuning." Journal of Instrumentation 16.10, 2021: P10008. https://doi.org/10.1088/1748-0221/16/10/P10008
+
+ 
+
+
+
+
+
+
+Slides TUOXGD3 [3.112 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-TUOXGD3
+
+ 
+
+
+About •
+Received ※ 21 May 2022 — Revised ※ 13 June 2022 — Accepted ※ 15 June 2022 — Issue date ※ 16 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

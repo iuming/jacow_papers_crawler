@@ -1,0 +1,177 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: FRB3 (Project status reports 2)
+
+
+FRB3 —  Project status reports 2   (23-Oct-15   10:45—11:30)
+Chair: R. Tanaka, JASRI/SPring-8, Hyogo-ken, Japan
+
+
+Paper
+Title
+Page
+
+
+
+FRB3O01
+Commissioning of the TPS Control System
+1173
+
+
+ 
+
+C.Y. Liao, Y.-T. Chang, J. Chen, Y.-S. Cheng, P.C. Chiu, K.T. Hsu, S.Y. Hsu, K.H. Hu, C. H. Huang, C.H. Kuo, D. Lee, C.-J. Wang, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Control system for the Taiwan Photon Source (TPS) has been completed in 2014. Commissioning of the accelerator system is in proceeding. Electron beam were stored at the storage ring and emit first light in December 31, 2014. TPS control system adopts EPICS toolkits as its frameworks. The subsystems control interfaces include event based timing system, Ethernet based power supply control, corrector power supply control, PLC-based pulse magnet power supply control and machine protection system, insertion devices motion control system, various diagnostics related control environment, and etc. The standard hardware components had been installed and integrated, and the various IOCs (Input Output Controller) had been implemented as various subsystems control platforms. Low level and high level hardware and software are tested intensively in 2014 and final revise to prepare for routine operation is under way. Efforts will be summarized at this paper.
+
+ 
+
+
+
+
+
+
+Slides FRB3O01 [41.594 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-FRB3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRB3O02
+Status of the European Spallation Source Control System
+1177
+
+
+ 
+
+T. Korhonen, R. Andersson, F. Bellorini, S.L. Birch, D.P. Brodrick, H. Carling, J. Cereijo García, R.N. Fernandes, L. Fernandez, B. Gallese, S.R. Gysin, E. Laface, N. Levchenko, M. Mansouri Sharifabad, A. Monera Martinez, R. Mudingay, A. Nordt, D. Paulic, D.P. Piso, K. Rathsman, M. Reščič, G. Trahern, M. Zaera-Sanz
+                       ESS, Lund, Sweden
+N. Claesson, U. Rojec, K. Strniša, A.A. Söderqvist
+                       Cosylab, Ljubljana, Slovenia
+
+ 
+
+
+ 
+
+The European Spallation Source (ESS) is a collaboration of 17 European countries to build the world's most powerful neutron source for research. ESS has entered the construction phase and the plan is to produce first neutrons by 2019 and to complete the construction by 2025. The Integrated Control System Division (ICS) is responsible to provide control systems for the whole facility. The unprecented beam power of 5 MW and the construction of the facility with many components contributed in-kind presents a number of challenges to the control system. Systems have to be specified so that the work can be effectively shared between the contributors and on-site staff. Control system components need to provide a level of performance that can support the operation of the facility, be standardized so that integration to the facility can be done during a short installation period and be maintainable by the in-house staff after the construction has finished. This paper will outline the plans and principles that will be used to construct the control systems. The selected technologies and standards will be presented, as well as the plans for integration.
+
+ 
+
+
+
+
+
+
+Slides FRB3O02 [1.184 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-FRB3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRB3O03
+LCLS-II Controls and Safety Systems Status
+ 
+
+
+ 
+
+D. Rogind, M. Boyes, H. Shoaeepresenter
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. Department of Energy contract DE-AC02-76SF00515.
+The LCLS-II FEL at the SLAC National Accelerator Laboratory, a significant addition to LCLS-I, is designed to dramatically decrease data acquisition time by providing high repetition rate over a broad energy range. The design consisting of a CW superconducting Linac with bunch repetition rates of up to one MHz and beam power of several hundred kilowatts requires major enhancements to the LCLS-I controls system. LCLS-II will retain the successful architecture based on EPICS while implementing additional technologies to meet the new requirements. These include a new LLRF system for the superconducting Linac, a new timing system to allow MHz operation, and new data acquisition electronics for the beam position monitors and other beam diagnostic systems. The high beam rate and power also necessitate faster beam abort mechanisms, requiring enhanced machine and personnel protection systems. In order to address the high speed processing and high throughput requirements of a number of systems, an ADC/FPGA/DAC-based system as a common platform for several applications is being developed. This paper presents an overview of the LCLS-II controls and discuss the status of the critical systems.
+
+ 
+
+
+
+
+
+
+Slides FRB3O03 [5.605 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

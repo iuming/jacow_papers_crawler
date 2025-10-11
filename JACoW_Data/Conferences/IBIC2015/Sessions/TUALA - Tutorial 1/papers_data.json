@@ -1,0 +1,54 @@
+{
+  "session_info": {
+    "id": "TUALA",
+    "name": "TUALA - Tutorial 1",
+    "url": "https://proceedings.jacow.org/IBIC2015/html/tuala.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUALA01",
+      "title": "Beam Arrival Time Monitors",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA"
+      ],
+      "institutions": [],
+      "abstract": "This is an overview of beam arrival time measurement techniques for FELs and other accelerators requiring femtosecond timing. This talk will present the trade-offs between the various techniques used at different facilities.",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2015/talks/tuala01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2015/papers/tuala01.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2015/posters/tuala01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2015-TUALA01",
+      "page_number": "256",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUALA02",
+      "title": "Transverse Profiling of an Intense FEL X-Ray Beam Using a Probe Electron Beam",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "Monitoring the pulse by pulse output intensity and profile of an FEL is a critical measurement both for users and for optimising the accelerator drive beam. The diagnostic challenge is to find a technique that is not susceptible to damage at high output power",
+        "is noninvasive and can be performed at high repetition rates. Fluorescent screens are invasive",
+        "susceptible to damage and limited in repetition rate by the camera readout. Gas cell monitors are noninvasive but only yield intensity information and suffer from residual ionisation at high repetition rates. The technique described here uses the scattering of a beam of low-energy electrons as they are scanned across the photon beam to measure the transverse intensity profile of the photon beam. Two different geometries are compared. One is where a finely focused electron beam is scanned transversely across the photon beam to measure the transverse profile. The second is where the electrons are bent onto the axis of the photon beam and are scattered by the counter propagating beam of photons. Here the electron beam is kept larger in diameter than the photon beam so that the photon pulse intensity can be measured by the scattering."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2015/talks/tuala02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2015/papers/tuala02.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2015/posters/tuala02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2015-TUALA02",
+      "page_number": "263",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 17:54:18"
+}

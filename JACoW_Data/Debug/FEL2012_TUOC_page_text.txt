@@ -1,0 +1,160 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FEL2012 - Table of Session: TUOC (Oscillator FELs and Storage Ring FELs)
+
+
+TUOC —  Oscillator FELs and Storage Ring FELs   (28-Aug-12   14:00—15:30)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUOC02
+Start to End Simulations of Optics-free X-ray FEL Oscillator
+ 
+
+
+ 
+
+V. Litvinenko, Y. Hao, Y.C. Jing, D. Kayran, D. Trbojevic
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+There is obvious need for an optics-free X-ray FEL oscillator. While self-seeded SASE FELs demonstrated the capability of providing very high gain and short pulses of radiation, the spectra of SASE FELs is still rather wide and can be significantly improved in an FEL-oscillators. Idea of optics-free X-ray FEL oscillator using is know for a decade [1]. In this talk, we present start-to-end simulation of this scheme including both incoherent and coherent SR effects. We discussed the projected performance of this scheme and its potentials limitations.
+[1] Optics-Free FEL oscillators, V.N.Litvinenko, ICFA Advanced Accelerator and Beam Dynamics Workshop Chia Laguna, Sardinia, July 1-6, 2002
+
+ 
+
+
+
+
+
+
+Slides TUOC02 [2.589 MB]
+            
+ 
+
+
+ 
+
+
+
+TUOC03
+Use of the Projected Torus Knot Lattice for a Compact Storage Ring FEL
+221
+
+
+ 
+
+S. Sasaki, A. Miyamoto
+                       HSRC, Higashi-Hiroshima, Japan
+
+ 
+
+
+ 
+
+Funding: This work is partially supported by the KEK-Universities Collaborative Support Program for Accelerator Science.
+We proposed a new scheme of lattice design for a compact storage ring in which a design orbit of electron beam closes after completing multiple turns.* This new lattice can be made by placing necessary accelerator components at certain positions on a projected torus knot in the horizontal orbit plane. In a storage ring having this type of lattice, the beam trajectory crosses in bending magnets, i.e. each bending magnet accepts two beam orbits. For example, in the ring having the (11, 3) torus knot lattice with 11 bending magnets, a bunch goes through bending magnets 22-times to complete its 3-turn closed orbit. Since the maximum output laser power is proportional to the synchrotron radiation loss in the complete turn round a closed orbit starting from the optical resonator section,** the maximum laser power from the projected torus knot storage ring FEL can be doubled for 2-turn lattice and tripled for 3-turn lattice compared with that from a conventional storage ring FEL. The new lattice scheme may contribute to more stable operation of a compact storage ring FEL. Some realistic parameters and achievable performance for UV-FEL are discussed in the presentation.
+*S. Sasaki and A. Miyamoto, Proceedings of IPAC'11, San Sebastian, September 2011, TUPO010, p.1467 (2011). **R. Bartolini, et al, Phys. Rev. E 69, 036501 (2004).
+
+ 
+
+
+
+
+
+
+Slides TUOC03 [2.749 MB]
+            
+ 
+
+
+ 
+
+
+
+TUOC04
+Compact ERL FELs as High Rep Rate, High Intensity Driver Sources for High-Field Applications
+ 
+
+
+ 
+
+M. Tecimer
+                       University of Hawaii at Manoa, Honolulu, USA
+
+ 
+
+
+ 
+
+100-200 MeV range ERL-FELs generating few cycle short, high intensity mid-IR pulses with tens of MHz repetition rates might become attractive tools in various strong field applications such as the recently considered up-frequency conversion processes in the x-ray region [1]. The presented coupled FEL oscillator employs a shorter undulator in the amplifier section than the one used in its master oscillator. The scheme achieves an exceptionally high overall extraction efficiency to tap on the high power deposited in the electron beam [1]. We elaborate on modified versions of this scheme and direct the attention towards a (seemingly far-fetched) major High-Field application*, the laser driven plasma-based electron accelerator and its parameter scalings[2].
+[1]M. Tecimer, PRST-AB 15,020703 (2012).  [2]C.B. Schroeder et al., PRST-AB 13, 101301 (2010).  *M. Tecimer, HZB-BESSY, Nov 2010. 
+
+ 
+
+
+ 
+
+
+
+TUOC05
+A New Approach to Improving the Efficiency of FEL Oscillator Simulations
+225
+
+
+ 
+
+M.D. Shinn, S.V. Benson, A.M. Watson
+                       JLAB, Newport News, Virginia, USA
+H.P. Freund, D.C. Nguyen
+                       LANL, Los Alamos, New Mexico, USA
+P.J.M. van der Slot
+                       Mesa+, Enschede, The Netherlands
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Commonwealth of Virginia and U.S. DOE Contract No. DE-AC05-84-ER40150.
+During the last year we have been benchmarking FEL oscillator simulation codes against the measured performance of the three Jefferson Lab oscillator FELs. While one might think that a full 4D simulation is de facto the best predictor of performance, the simulations are computationally intensive, even when analytical approximations to the electron bunch longitudinal distribution are used. In this presentation we compare the predictions of the 4D FEL interaction codes Genesis and Medusa, in combination with the optical code OPC, with those using a combination of the 2D & 3D versions of these codes, which can be run quickly on a single CPU core desktop computer.
+
+ 
+
+
+
+
+
+
+Slides TUOC05 [0.351 MB]
+            
+ 
+
+
+ 
+
+
+
+

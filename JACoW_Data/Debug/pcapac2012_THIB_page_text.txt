@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2012 - Table of Session: THIB (Control System Interoperability)
+
+
+THIB —  Control System Interoperability   (06-Dec-12   12:35—13:00)
+Chair: T. Kosuge, KEK, Ibaraki, Japan
+
+
+Paper
+Title
+Page
+
+
+
+THIB04
+Control System Interoperability, an Extreme Case: Merging DOOCS and TINE
+115
+
+
+ 
+
+P. Duval, A. Aghababyan, O. Hensler, K. Rehlich
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+In controlling large facilities one is rarely able to manage all controllable elements via a common control system framework. When the standard framework must deal with numerous 'foreign' elements it is often worthwhile to adopt a new framework, rather than 'disguising' such components with a wrapper. The DOOCS[1] and TINE[2] control system frameworks fall into this scenario. Both systems have a device server oriented view, which made early mapping attempts (~2001) immediately successful. Transparent communication, however, is but a small (albeit important) part of the control system merger currently taking place. Both systems have well-established central services (e.g. archiving and alarms), and possess a general 'culture' which might dictate to a large extent how something is actually 'done'. The long term goal of the DOOCS/TINE merger is to be able to make use of any tool, from either the DOOCS or TINE toolbox, on any control system element. We report here on our progress to date, concentrating on the REGAE accelerator, and plans for the XFEL accelerator (to begin commissioning in 2015).
+[1] http://doocs.desy.de  [2] http://tine.desy.de 
+
+ 
+
+
+
+
+
+
+Slides THIB04 [3.167 MB]
+            
+ 
+
+
+ 
+
+
+
+

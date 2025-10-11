@@ -1,0 +1,1262 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINAC2016 - Table of Session: TUPRC (Poster Session)
+
+
+TUPRC —  Poster Session   (27-Sep-16   16:00—17:00)
+Chair: L. Popielarski, FRIB, East Lansing, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUPRC001
+Developments on the 1.4 MeV/u Pulsed Gas Stripper Cell
+ 
+
+
+SPWR028
+  use link to access more material from this paper's primary paper code
+ 
+
+
+TUOP03
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+P. Scharrer, W.A. Barth, Ch.E. Düllmann, J. Khuyagbaatar, A. Yakushev
+                       HIM, Mainz, Germany
+W.A. Barth, M. Bevcic, Ch.E. Düllmann, L. Groening, K.P. Horn, E. Jäger, J. Khuyagbaatar, J. Krier, P. Scharrer, A. Yakushev
+                       GSI, Darmstadt, Germany
+Ch.E. Düllmann, P. Scharrer
+                       Mainz University, Mainz, Germany
+
+ 
+
+
+ 
+
+The GSI UNILAC in combination with SIS18 will serve as a high-current, heavy-ion injector for the FAIR facility. It must meet high demands in terms of beam brilliance at a low duty factor. As part of an UNILAC upgrade program dedicated to FAIR, a new pulsed gas stripper cell was developed, aiming for increased beam intensities inside the post-stripper. The pulsed gas injection is synchronized with the beam pulse timing, enabling a highly-demanded, increased gas density. First tests using uranium beams on a hydrogen target showed a 60%-increased stripping efficiency into the desired 28+ charge state. In 2015, the setup was improved to be able to deliver increased target thicknesses and enhanced flexibility of the gas injection. In recent beam times, the pulsed gas cell was used with various ion-beam types, to test the capabilities for operation at the GSI UNILAC. The stripping of two ion beams in different gases at different gas densities was successfully tested in mixed-beam operation. Charge fractions, beam emittance, and energy-loss were systematically measured using uranium, bismuth, titanium, and argon beams on hydrogen, helium, and nitrogen targets. Selected results will be presented at the conference.
+
+ 
+
+
+
+
+
+
+Slides TUPRC001 [1.131 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC002
+ESS DTL Beam Dynamics Comparison Between S-Code and T-Code
+411
+
+
+ 
+
+M. Comunian, L. Bellan, F. Grespan, A. Pisent
+                       INFN/LNL, Legnaro (PD), Italy
+L. Bellan
+                       Univ. degli Studi di Padova, Padova, Italy
+
+ 
+
+
+ 
+
+The Drift Tube Linac (DTL) of the European Spallation Source (ESS) is designed to operate at 352.2 MHz with a duty cycle of 4% (3 ms pulse length, 14 Hz repetition period) and will accelerate a proton beam of 62.5 mA pulse peak current from 3.62 to 90 MeV. In this paper the DTL beam dynamics comparison between the s-code TraceWin and the t-code Parmela is presented. Full field map of the permanent magnet quadrupoles (with COMSOL) and RF fields of each of the 5 tanks (with MDTFish) were used for the two programs.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC003
+Effect of Number of Macro Particles on Time Evolution of Phase Space Distribution
+414
+
+
+ 
+
+T. Miyajima
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: This work was supported by JSPS KAKENHI Grant Number 26600147.
+In particle tracking simulation with space charge effect, the macro-particle model, which has same mass-to-charge ratio, is widely used, since it does not require any symmetry of beam shape. However, selection of proper number of macro-particles is important, because the accuracy depends on it. Emittance, which is calculated by phase-space distribution, is especially affected by the number of macro-particles. In order to study the relation between the number of macro-particles and the resolution in the phase space, we defined a transformation, which describes reduction process of macro-particle number, and analyzed static phase space distribution. As a next step, we studied the effect of the macro-particle number on the dynamics of the phase space distribution for 1D charged particle distribution in the rest frame. The numerical result shows that the number of macro-particles affected the phase space distribution around the head and the tail of the bunch.
+* T. Miyajima, "Effect of number of macro particles in phase space distribution", in Proc. of IPAC2015, Richmond, VA, USA, pp.242-244 (2015).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC003
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC004
+Frequency Spectra From Solenoid Lattice Orbits
+417
+
+
+SPWR044
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C.J. Richard
+                       NSCL, East Lansing, Michigan, USA
+S.M. Lidia
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Multi-charge state heavy ion beams have been proposed to increase average beam intensity in rare isotope drive linacs. However, the dynamics of multi-charge state beams make it challenging to optimize the beam quality in low energy linacs. One of the primary complications is that the multiple charge states introduce different focusing effects in the beam dynamics. This leads to a large frequency spectrum in the transverse motion of the beam centroid. Matlab simulations are used to describe how the frequency spectrum of the centroid transforms when the reference charge state is changed in accelerating, space charge free solenoid lattices. These frequency shifts can then be used to predict the behavior of beam of known composition using the frequency spectrum of BPM signals.
+
+ 
+
+
+
+
+
+
+Poster TUPRC004 [1.192 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC004
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC005
+Source and LEBT Beam Preparation for IFMIF-EVEDA RFQ
+420
+
+
+ 
+
+L. Bellan, M. Comunian, E. Fagotti, F. Grespan, A. Pisent
+                       INFN/LNL, Legnaro (PD), Italy
+P.-Y. Beauvais, B. Bolzon, N. Chauvin
+                       CEA/DSM/IRFU, France
+L. Bellan
+                       Univ. degli Studi di Padova, Padova, Italy
+P. Cara
+                       Fusion for Energy, Garching, Germany
+H. Dzitko
+                       F4E, Germany
+R. Gobin, F. Senée
+                       CEA/DRF/IRFU, Gif-sur-Yvette, France
+R. Ichimiya, A. Kasugai, M. Sugimoto
+                       JAEA, Aomori, Japan
+A. Marqueta, F. Scantamburlo
+                       IFMIF/EVEDA, Rokkasho, Japan
+
+ 
+
+
+ 
+
+The commissioning phase of the IFMIF-EVEDA RFQ requires a complete beam characterization with simula-tions and measurements of the beam input from the IFMIF-EVEDA ion source and LEBT, in order to reach the RFQ input beam parameters. In this article, the simula-tions results of the complex source-LEBT with the corre-sponding set of measurements and their impact on the commissioning plan will be reported.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC005
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC006
+Phase-Space Transformation for a Uniform Target Irradiation at DONES
+424
+
+
+ 
+
+C. Oliver, A. Ibarra
+                       CIEMAT, Madrid, Spain
+P. Cara
+                       Fusion for Energy, Garching, Germany
+N. Chauvin
+                       CEA/DSM/IRFU, France
+A. Gallego
+                       Universidad Complutense Madrid, Madrid, Spain
+
+ 
+
+
+ 
+
+Funding: "This work has been carried out within the framework of the EUROfusion Consortium and has received funding from the Euratom research and training programme 2014-2018 under grant agreement No 633053."
+In the framework of the EU Roadmap, a DEMO Oriented Neutron Source (DONES) [*] has been proposed to provide a high neutron intense neutron source with a suitable neutron spectrum to understand the degradation of advanced materials under DEMO and future fusion plants irradiation conditions. DONES will be based on the International Fusion Materials Irradiation Facility IFMIF [**], being only one accelerator considered. The HEBT will be devoted to the transport, bending and shaping of the 40 MeV, 125 mA CW deuteron beam to the free surface of the rapidly flowing lithium target. To produce a forward peaked source of fusion-like neutrons, which stream through the target into the test cell, a rectangular uniform distribution across the flat top of the beam profile is required, being the footprint tailored in both the vertical and horizontal directions according to the target design. Different methods for beam uniformization in IFMIF accelerator has been proposed in the past [***]. Two main concerns in DONES will be the minimization of particle losses over the whole HEBT and the effect of the different shaping techniques on such strong space charge regime, specially on the beam halo modulation. A review of the different methods for the beam shaping of the high power, high space charge DONES HEBT beam will be depicted. A final solution will be proposed.
+[*] DONES Conceptual Design Report, April 2014  [**] IFMIF Comprehensive Design Report, CDR, IFMIF International Team, January 2004  [***] IFMIF Intermediate Engineering Design Report 
+
+ 
+
+
+
+
+
+
+Poster TUPRC006 [2.546 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC006
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC007
+An RFQ Based Neutron Source for BNCT
+427
+
+
+SPWR018
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+X.W. Zhu, Z.Y. Guo, Y.R. Lu, H. Wang, Z. Wang, K. Zhu, B.Y. Zou
+                       PKU, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Boron Neutron Capture Therapy (BNCT), promises a bright prospect for future cancer treatment, in terms of effectiveness, safety and less expanse. The PKU RFQ group proposes an RFQ based neutron source for BNCT. A unique beam dynamics design of 162.5 MHz BNCT-RFQ, which accelerates 20 mA of H+ from 30 keV to 2.5 MeV in CW operation, has been performed in this study. The Proton current will be about 20 mA. The source will deliver a neutron yield of 1.76×1013 n/sec/cm2 in the Li(p, n)Be reaction. Detailed 3D electromagnetic (EM) simulations of all components, including cross-section, tuners, pi-rods, and undercuts, of the resonant structure are performed. The design of a coaxial type coupler is developed. Two identical RF couplers will deliver approximately 153 kW CW RF power to the RFQ cavity. RF property optimizations of the RF structures are performed with the utilization of the CST MICROWAVE STUDIO.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC007
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC008
+Electron Driven ILC Positron Source with a Low Gradient Capture Linac
+430
+
+
+ 
+
+M. Kuriki
+                       HU/AdSM, Higashi-Hiroshima, Japan
+T. Kakita
+                       Hiroshima University, Graduate School of Advanced Sciences of Matter, Higashi-Hiroshima, Japan
+S. Kashiwagi
+                       Tohoku University, School of Science, Sendai, Japan
+K. Negishi
+                       Iwate University, Morioka, Iwate, Japan
+T. Okugi, T. Omori, M. Satoh, Y. Seimiya, J. Urakawa, K. Yokoya
+                       KEK, Ibaraki, Japan
+T. Takahashi
+                       Hiroshima University, Graduate School of Science, Higashi-Hiroshima, Japan
+
+ 
+
+
+ 
+
+ILC (International Linear Collider) is e+ e− linear collider in the next high energy program promoted by ICFA. In ILC, an intense positron pulse in a multi-bunch format is generated with gamma ray from Undulator radiation. As a technical backup, the electron driven positron source has been studied. By employing a standing wave L-band accelerator for the capture linac, an enough amount of positron can be captured due to the large aperture, even with a limited accelerator gradient. However, the heavy beam loading up to 2 A perturbs the field gradient and profile along the longitudinal position. We present the capture performance of the ILC positron source including the heavy beam loading effect.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC008
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC010
+Multispecies Simulation of the FRIB Frontend Near the ECR Sources with the Warp Code
+434
+
+
+ 
+
+K. Fukushima, S.M. Lund
+                       FRIB, East Lansing, USA
+C.Y. Wong
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661 and the National Science Foundation under Grant No. PHY-1102511.
+The linear accelerator in the Facility for Rare Isotope Beams (FRIB) will use Electron Cyclotron Resonance (ECR) sources. ECR sources can generate a high-brightness DC beam with high charge states. However, the ECR sources produce numerous species that must be collimated to one or two target species with minimal degradation to beam quality. The first stage of this collimation is accomplished in a tight 90 degree dipole bend with a wide aperture and slanted pole faces to provide additional focusing. We report on simulations for the high-rigidity U ion operation using linked 2D xy-slice runs in the straight section upstream of the bend and steady-state 3D simulations in the dipole bend comparing simulations with both ideal (sector) and full 3D field maps of the dipole magnet. Issues associated with placing a 3D dipole field with fringe on a bent simulation coordinate system are addressed. Placement of the dipole bend is optimized consistent with the 3D field and is found to closely correspond to the ideal field center. Minimal problems are found (small centroid shift and distribution distortions) due to 3D space-charge effects in the species separation within the bend when using simple fractional neutralization factors.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC011
+Ongoing Studies of the SuSI ECR Ion Source and Low Energy Beam Transport Line at the MSU NSCL
+438
+
+
+ 
+
+A.N. Pham, J. Fogleman, D. Leitner, G. Machicoane, D.E. Neben, S. Renteria, J.W. Stetson, L. Tobos
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Research supported by Michigan State University and National Science Foundation Award PHY-1415462.
+Heavy ion accelerator laboratories for nuclear science and rare isotope research require a wide array of high intensity heavy ion beams. Due to their versatility and robustness, Electron Cyclotron Resonance (ECR) ion sources are the choice injectors for the majority of these facilities worldwide. Steady improvements in the performance of ECR ion sources have been successful in providing intense primary beams for facilities such as the National Superconducting Cyclotron Laboratory (NSCL). However, next generation heavy ion beam laboratories, such as the Facility for Rare Isotope Beam (FRIB), require intensities that approaching the limits of current possibility with state of the art ion source technology. In this proceedings, we present the ongoing low energy beam transport characterization efforts of a superconducting ECR ion source injector system at the MSU NSCL.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC014
+Self-Consistent PIC Modeling of Near Source Transport of FRIB
+441
+
+
+SPWR003
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+C.Y. Wong
+                       NSCL, East Lansing, Michigan, USA
+K. Fukushima, S.M. Lund
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661 and the National Science Foundation under Grant No. PHY-1102511.
+Self-consistent simulation studies of the FRIB low energy beam transport (LEBT) system are conducted with the PIC code Warp. Transport of the many-species DC ion beam emerging from an Electron Cyclotron Resonance (ECR) ion source is examined in a realistic lattice through the Charge Selection System (CSS) which employs two 90-degree bends, two quadrupole triplets, and slits to collimate non-target species. Simulation tools developed will support commissioning activities on the FRIB front end which begins early operations in 2017. Efficient transverse (xy) slice simulation models using 3D lattice fields are employed within a scripted framework that is readily adaptable to analyze many ion cases and levels of model detail. Effects from large canonical angular momentum (magnetized beam emerging from ECR), thermal spread, nonlinear focusing, and electron neutralization are examined for impact on collimated beam quality.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC014
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC015
+Final Acceptance Test of SRF Photo-Injector Cold String for the BERLinPro Energy Recovery Linac
+445
+
+
+ 
+
+A. Neumann, D. Böhlick, P. Echevarria, A. Frahm, F. Göbel, T. Kamps, J. Knobloch, O. Kugeler, M. Schuster, J. Ullrich, A. Ushakov
+                       HZB, Berlin, Germany
+A. Burrill
+                       SLAC, Menlo Park, California, USA
+G. Ciovati, P. Kneisel
+                       JLab, Newport News, Virginia, USA
+A. Matheisen, M. Schalwat, M. Schmökel
+                       DESY, Hamburg, Germany
+E.N. Zaplatin
+                       FZJ, Jülich, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by German Bundesministerium für Bildung und Forschung, Land Berlin and grants of Helmholtz Association.
+Helmholtz-Zentrum Berlin (HZB) is currently designing and building an high average current all superconducting CW driven ERL as a prototype to demonstrate low normalized beam emittance of 1 mm·mrad at 100mA and short pulses of about 2 ps. In order to achieve these demanding goals HZB started a staged program for developing this class of required high current, high brightness SRF electron sources. In this contribution we will present the current status of the module assembly and testing of the prototype SRF photo-injector cavity cold string. The steps taken to install the cathode insert system with the cavity in the cleanroom and the following horizontal test of the cold string as final acceptance test prior installation into its cryostat are shown. First beam in a dedicated diagnostics teststand called Gunlab are planned for this winter.
+
+ 
+
+
+
+
+
+
+Poster TUPRC015 [2.077 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC016
+S-Band Booster Design and Emittance Preservation for the Awake e-Injector
+449
+
+
+ 
+
+O. Mete Apsimon, R. Apsimon, G. Burtpresenter
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+S. Döbert
+                       CERN, Geneva, Switzerland
+G.X. Xia
+                       UMAN, Manchester, United Kingdom
+
+ 
+
+
+ 
+
+AWAKE is a proton driven plasma wakefield acceleration experiment at CERN which uses the protons from the SPS. It aims to study the self modulation instability of a proton bunch and the acceleration of an externally injected electron beam in the plasma wakefields, during the so called Phase II until the technical stop of LHC and its injector chain (LS2) in 2019. The external electron beam of 0.1 to 1nC charge per bunch will be generated using an S-band photo injector with a high QE semiconducting cathode. A booster linac was designed to allow variable electron energy for the plasma experiments from 16 to 20 MeV. For an RF gun and booster system, emittance control can be highlighted as a challenging transmission task. Once the beam emittance is compensated at the gun exit and the beam is delivered to the booster with an optimum beam envelope, fringing fields and imperfections in the linac become critical for preserving the injection emittance. This paper summarises the rf design studies in order to preserve the initial beam emittance at the entrance of the linac and alternative mitigation schemes in case of emittance growth.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC016
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC017
+Field Flatness and Frequency Tuning of the CLARA High Repetition Rate Photoinjector
+452
+
+
+ 
+
+L.S. Cowie, P. Goudket, B.L. Militsynpresenter
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+G. Burt
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+T.J. Jones
+                       STFC/DL, Daresbury, Warrington, Cheshire, United Kingdom
+B. Keune
+                       RI Research Instruments GmbH, Bergisch Gladbach, Germany
+
+ 
+
+
+ 
+
+The High Repetition Rate Photoinjector, designed for the CLARA FEL at Daresbury Laboratory, was tuned at the manufacturers for both field flatness and frequency. Due to the high average power in the cavity of 6.8 kW the cavity requires significant cooling, achieved by water channels in the cavity body. These channels prohibit the use of tuning studs to tune the cavity. The cavity was tuned by taking pre-braze clamped low power RF measurements and using the data to trim the cavity cells to the optimum length for both field flatness and frequency. The optimum field flatness is 100% and the design frequency is 2998.5 MHz. Both cells were trimmed in 3 stages, resulting in a post-braze frequency of 2998.51 MHz and field flatness of 98%.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC017
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC019
+Beam Instabilities in Electron Cyclotron Resonance Ion Sources
+455
+
+
+SPWR041
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+B.C. Isherwood
+                       MSU, East Lansing, Michigan, USA
+G. Machicoane, G. Pozdeyev
+                       NSCL, East Lansing, Michigan, USA
+G. Machicoane, G. Pozdeyev, Y. Yamazaki
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This research is funded by joint assistance from the NSF and D.O.E.
+Accelerator facilities for radioactive beams and low energy nuclear physics such as FRIB require intense, stable ion beam currents in order to achieve required reaction rates for rare and undiscovered isotopes. Presently, the only way to produce intense Continuous Wave beams of highly-charged, medium to heavy-mass ions is with Electron Cyclotron Resonance Ion Sources (ECRIS). The complex nature of these devices causes temporal instabilities to occur, most notably: Slow and fast instabilities. Slow instabilities and drifts, occurring over hours, decay the beam current intensity due to variations in ambient and hardware conditions. These drifts require beam operators to constantly monitor and tune ECRIS plasma parameters in order to maintain experimental beam requirements. Fast instabilities, in the form of ms oscillations, occur at operational parameters needed for high-intensity, high-charge state beams. These oscillations cause sudden drops in beam current of the order of 30%. We present here initial results of recent measurements to investigate these instabilities. Results for slow instabilities indicate a linear decay of beam intensity following a sharp current drop due to a brief source conditioning period. Results for fast instabilities show a relationship between the frequency and amplitude of beam oscillations and the electric potential of the plasma chamber bias disk.
+
+ 
+
+
+
+
+
+
+Poster TUPRC019 [0.817 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC020
+The TRIUMF ARIEL RF Modulated Thermionic Electron Source
+458
+
+
+ 
+
+F. Ames, Y.-C. Chao, K. Fong, N. Khan, S.R. Koscielniak, A. Laxdal, L. Merminga, T. Planche, S. Saminathan, D.W. Storey
+                       TRIUMF, Vancouver, Canada
+Y.-C. Chao, L. Merminga
+                       SLAC, Menlo Park, California, USA
+C.K. Sinclair
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: ARIEL is funded by the Canada Foundation for Innovation, the Provinces AB, BC, MA, ON, QC, and TRIUMF. TRIUMF receives funding via a contribution agreement with the National Research Council of Canada
+Within the ARIEL (Advanced Rare IsotopE Laboratory) at TRIUMF, a high power electron beam is used to produce radioactive ion beams via photo-fission. The electron beam is accelerated in a superconducting linac up to 50 MeV. The electron source provides electron bunches with charge up to 16 pC at a repetition frequency of 650 MHz leading to an average current of 10 mA . The kinetic energy of the electrons has been chosen to be 300 keV to allow direct injection into an accelerator cavity. The main components of the source are a gridded dispenser cathode (CPI 'Y845) in an SF6 filled vessel and an in-air HV power supply. The beam is bunched by applying DC and RF fields to the grid. Unique features of the gun are its cathode/anode geometry to reduce field emission, and transmission of RF modulation via a dielectric (ceramic) waveguide through the SF6. The latter obviates the need for an HV platform inside the vessel to carry the RF generator and results in a significantly smaller/simpler vessel. The source has been installed and first tests with accelerated beams have been performed. Measurements of the beam properties and results from the commissioning of the source will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC020
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC021
+Low-Temperature Properties of 2.6-Cell Cryogenic C-Band RF-Gun Cold Model Cavity
+462
+
+
+ 
+
+T. Sakai, M. Inagaki, K. Nakao, K. Nogami, K. Takatsuka, T. Tanaka
+                       LEBRA, Funabashi, Japan
+M.K. Fukuda, D. Satoh, T. Takatomi, N. Terunuma, J. Urakawa, M. Yoshida
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: Work supported by the Photon and Quantum Basic Research Coordinated Development Program of the Japanese Ministry of Education, Culture, Sports, Science, and Technology (MEXT).
+Development of a cryogenic C-band photocathode RF gun cavity has been conducted at Nihon University in collaboration with KEK. Improved dimensions of the RF input coupler and the 2.6-cell accelerating structure from the first cold model were determined using the 3D simulation code CST Studio. The high-purity copper cavity was fabricated at KEK with ultraprecision machining and diffusion bonding technique. The low level RF properties of the cavity measured at room temperature have been in good agreement with the predictions based on the CST Studio calculation. Preparations for the 20-K cooling tests of the cavity are underway in KEK and Nihon University. The design of the improved cavity and the results of the cold test at low temperature will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC021
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC022
+UPS Study for CsK2Sb Photocathode
+465
+
+
+ 
+
+M. Kuriki, T. Konomi, Y. Seimiya
+                       KEK, Ibaraki, Japan
+L. Guo, M. Urano, A. Yokota
+                       HU/AdSM, Higashi-Hiroshima, Japan
+K. Negishi
+                       Iwate University, Morioka, Iwate, Japan
+
+ 
+
+
+ 
+
+CsK2Sb photo-cathode is one of the ideal cathode for accelerators requiring the high brightness electron beam. It can be driven with a green laser which can be generated as SHG from solid state laser. The QE (Quantum Efficiency) of photo-electron emission is as high as more than 10% with 532nm light. The material is robust and the typical operational lifetime is more than several months. It is also vital against the high intensity beam extraction. The photo-cathode is generated as a thin film in-situ and the material property and optimized condition for the cathode formation is not understood well. In this article, we present UPS analysis of CsK2Sb cathode for deeper understanding.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC022
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC024
+Design and Implementation of an Automated High-Pressure Water Rinse System for FRIB SRF Cavity Processing
+468
+
+
+ 
+
+I.M. Malloch, E.S. Metzgar, L. Popielarski, S. Stanley
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE SC0000661, the State of Michigan and Michigan State University.
+Traditionally, high-pressure water rinse (HPR) systems have consisted of relatively simple pump and rinse wand actuator systems intended to clean superconducting radio frequency (SRF) cavities during processing prior to test assembly. While these types of systems have proven effective at achieving satisfactory levels of cleanliness, large amounts of operator touch-labor are involved, especially in SRF cavities with complex geometries, where several fixture changes and cavity manipulations may be required. With this labor comes the risk of cavity damage or contamination, and the expense of the operator's time. To reduce this operator intervention and maximize cavity cleanliness and process throughput, a new, fully-automated, robotic HPR system has been commissioned in the Facility for Rare Isotope Beams (FRIB) cavity processing facility. This paper summarizes the design and commissioning process of the HPR system, and demonstrates improvements to the FRIB processing facility through the minimization of cavity contamination risk and reduction of technician labor through system automation. Comparative cavity RF test results are presented to further demonstrate system effectiveness.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC025
+Low Temperature Nitrogen Baking of a Q0 SRF Cavities
+472
+
+
+ 
+
+P.N. Koufalis, F. Furuta, M. Ge, D. Gonnella, J.J. Kaufman, M. Liepepresenter, J.T. Maniscalco, R.D. Porter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Nitrogen-doping has led to an unprecedented increase in the intrinsic quality factor of bulk-niobium superconducting RF cavities. So far, high temperature baking in a nitrogen atmosphere is used almost exclusively to dope cavities. Recently, we have set focus on low temperature baking to produce similar performance increases and we present those results here.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC027
+Methods for Bunch Shape Monitor Phase Resolution Improvement
+ 
+
+
+TUOP11
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A. Feschenko, S.A. Gavrilovpresenter
+                       RAS/INR, Moscow, Russia
+
+ 
+
+
+ 
+
+Bunch shape monitors, based on secondary electrons emission, are widely used for measurements of longitudinal bunch profiles during a linac commissioning and initial optimization of beam dynamics. A typical phase resolution of these devices is about 1°. However it becomes insufficient for new modern linacs, which require a better resolution. Some developed methods for a phase resolution improvement are discussed.
+
+ 
+
+
+
+
+
+
+Slides TUPRC027 [21.248 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP11
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC030
+On Magnetic Flux Trapping in Superconductors
+ 
+
+
+TUOP08
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+R.G. Eichhorn, J. Hoke, Z. Mayle
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Magnetic flux trapped on the cool-down has become an important factor in the performance in superconducting cavities. We have conducted flux trapping experiments on samples that reveal a very interesting feature of the mechanism on flux trapping which might impact magnetic shielding concepts of future cryomodules.
+
+ 
+
+
+
+
+
+
+Slides TUPRC030 [1.787 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP08
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC031
+High Performance Next-Generation Nb3Sn Cavities for Future High Efficiency SRF Linacs
+ 
+
+
+TUOP07
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+D.L. Hall, J.J. Kaufman, M. Liepe, J.T. Maniscalco, R.D. Porterpresenter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: DOE
+A 1.3 GHz ILC-shape single-cell Nb3Sn cavity fabricated at Cornell has shown record performance, exceeding the cryogenic efficiency of niobium cavities at the gradients and quality factors demanded by some contemporary accelerator designs. An optimisation of the coating process has resulted in more cavities of the same design that achieve similar performance, proving the reproducibility of the method. In this paper, we discuss the current limitations on the peak accelerating gradients achieved by these cavities. In particular, high-pulsed-power RF testing, and thermometry mapping of the cavity during CW operation, are used to draw conclusions regarding the nature of the quench limitation. In light of these promising results, the feasibility and utility of applying the current state of the technology to a real-life application is discussed.
+
+ 
+
+
+
+
+
+
+Slides TUPRC031 [1.506 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP07
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPRC032
+An Analysis of Fast Sputtering Studies for Ion Confinement Time
+475
+
+
+SPWR043
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D.E. Neben, G. Machicoane, A.N. Pham, J.W. Stetson
+                       NSCL, East Lansing, Michigan, USA
+G. Machicoane
+                       FRIB, East Lansing, USA
+G. Parsey
+                       MSU, East Lansing, Michigan, USA
+J.P. Verboncoeur
+                       Michigan State University, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by Michigan State University and the National Science Foundation: NSF Award Number PHY-1415462
+Existing heavy ion facilities such as the National Superconducting Cyclotron Laboratory at Michigan State University rely on Electron Cyclotron Resonance (ECR) ion sources as injectors of highly charged ion beams. Long ion confinement times are necessary to produce dense populations of highly charged ions because of steadily decreasing ionization cross sections with increasing charge state. To further understand ion extraction and confinement we are using a fast sputtering technique first developed at Argonne National Laboratory (ANL) [1] to introduce a small amount of uranium metal into the plasma at a well-defined time. We present an analytical solution to the coupled ion density rate equations for using a piecewise constant neutral density to interpret the fast sputtering method.
+*R. Vondrasek et al., Rev. Sci. Instrum. 73, 548-551 (2002).
+
+ 
+
+
+
+
+
+
+Poster TUPRC032 [0.699 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC032
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

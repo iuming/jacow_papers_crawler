@@ -1,0 +1,501 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAPAC2019 - Table of Session: WEPLS (Wednesday Poster Session-Lake Superior)
+
+
+WEPLS —  Wednesday Poster Session-Lake Superior   (04-Sep-19   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPLS02
+Simulation of a Klystron Input Cavity using a Steady-State Full-Wave Solver
+768
+
+
+SUPLM12
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+A.R. Gold, S.G. Tantawi
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The simulation of vacuum electronic radio-frequency (RF) power sources is generally done through semi-analytical modeling approaches. These techniques are computationally efficient as they make assumptions on the source topology, such as the requirement that the electron beam travel longitudinally and interact with cylindrical modes. To simulate more general interactions, transient particle-in-cell (PIC) codes are currently required. We present here simulation results of a 5045 klystron using a newly developed steady state code which does not make assumptions on the beam configuration or geometry of the structure and resonant modes. As we solve directly for the steady-state system dynamics, this approach is computationally efficient yet, as demonstrated through comparison with experimental results, provides similar accuracy.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLS02
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLS03
+Analytical Expression for a N-Turn Trajectory in the Presence of Quadrupole Magnetic Errors
+772
+
+
+SUPLM20
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Y. Rodriguez Garcia, J.F. Cardona
+                       UNAL, Bogota D.C, Colombia
+Y. Rodriguez Garcia
+                       UAN, Bogotá D.C., Colombia
+
+ 
+
+
+ 
+
+The action and phase jump method is a technique, based on the use of turn-by-turn experimental data in a circular accelerator, to find and measure local sources of magnetic errors through abrupt changes in the values of action and phase. At this moment, this method uses at least one pair of adjacent BPMs (Beam Position Monitors) to estimate the action and phase at one particular position in the accelerator. In this work, we propose a theoretical expression to describe the trajectory of a charged particle for an arbitrary number of turns when a magnetic error is present in the accelerator. This expression might help to estimate action and phase at one particular position of the accelerator using only one BPM in contrast to the current method that needs at least two BPMs.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLS03
+
+ 
+
+
+About •
+paper received ※ 26 August 2019       paper accepted ※ 03 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLS04
+Simulations of Low Energy Au⁷⁸⁺ Losses in RHIC
+775
+
+
+ 
+
+G. Robert-Demolaize, K.A. Drees, Y. Luo
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+The RHIC Run19 BES-II program features the commissioning of the Low Energy RHIC electron Cooling (LEReC) Project, which uses electron cooling techniques to compensate for intra-beam scattering and thus to improve the luminosity lifetime. During RHIC operations at 3.85 GeV (beam energy) with LEReC, one needs to ensure that the electron beam energy is properly matched for cooling purposes: if so, some of the circulating Au-79 ions can recombine with an electron, turning into Au-78 and circulating with a large momentum offset. Part of the LEReC commissioning steps is therefore to drive a maximized number of Au-78 ions towards a chosen location of the RHIC mechanical aperture to generate particle showers that can be detected by a Recombination Monitor outside the cryostat. This article introduces the baseline lattice design, then discusses the few scenarios considered for optimizing Au-78 losses at a given location. Each scenario is then simulated using new tracking tools for generating beam loss maps.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLS04
+
+ 
+
+
+About •
+paper received ※ 27 August 2019       paper accepted ※ 03 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLS05
+Simulation Analysis of the LCLS-II Injector using ACE3P and IMPACT
+779
+
+
+ 
+
+D.A. Bizzozero, J. Qiang
+                       LBNL, Berkeley, California, USA
+L. Ge, Z. Li, C.-K. Ng, L. Xiao
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Director of the Office of Science of the US Department of Energy under contracts DEAC02-05CH11231 and DE-AC02-76-SF00515.
+The LCLS-II beam injector system consists of a 186 MHz normal-conducting RF gun, a two-cell 1.3 GHz normal-conducting buncher cavity, two transverse focusing solenoids, and eight 1.3 GHz 9-cell Tesla-like super-conducting booster cavities. With a coordinated effort between LBNL and SLAC, we have developed a simulation workflow combining the electromagnetic field solvers from ACE3P with the beam dynamics modeling code IMPACT. This workflow will be used to improve performance and minimize beam emittance for given accelerator structures through iterative optimization. In our current study, we use this workflow to compare beam quality parameters between using 2D axisymmetric field profiles and fully 3D non-axisymmetric fields caused by geometrical asymmetries (e.g. RF coupler ports).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLS05
+
+ 
+
+
+About •
+paper received ※ 20 August 2019       paper accepted ※ 04 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLS09
+Fast Two-Dimensional Calculation of Coherent Synchrotron Radiation in Relativistic Beams
+783
+
+
+SUPLM08
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+J. Tang, G. Stupakov
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Coherent Synchrotron Radiation(CSR) in a relavistic beam during compression can lead to longitudinal modulation of the bunch with wavelength smaller than bunch length and is regarded as one of the main sources of emittance growth in the bunch compressor. Current simulations containing CSR wake fields often utilize one-dimensional model assuming a line beam. Despite its good computation efficiency, 1D CSR model can be inaccurate in many cases because it ignores the so-called ’compression effect’. On the other hand, the existing 3D codes are often slow and have high demands on computational resources. In this paper we propose a new method for calculation of the three-dimensional CSR wakefields in relativistic beams with integrals of retarded potentials. It generalizes the 1D model and includes the transient effects at the entrance and the exit from the magnet. Within given magnetic lattice and initial beam distributions, the formalism reduces to 2D or 3D integration along the trajectory and therefore allows fast numerical calculations using 2D or 3D matrices.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLS09
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 04 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLS10
+Modeling of Space-Charge Effects in the ORISS MRTOF Device for Applications to FRIB
+786
+
+
+SUPLM16
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+R. Hipple
+                       MSU, East Lansing, Michigan, USA
+S.M. Lund
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+The Oak Ridge Isotope/Isomer Spectrometer and Separator (ORISS) is an electrostatic multiply reflecting time-of-flight (MRTOF) mass separator constructed by the University Radioactive Ion Beam Consortium (UNIRIB) and Louisiana State University. The device was never fully commissioned, and was eventually shipped to Michigan State University for use at the Facility for Rare Isotopes and Beams (FRIB). The separation process is sensitive to space-charge effects due to the reflection of ions at both ends of the trap, as well as nonlinearities in the optics. In this study we apply the time-based particle-in-cell code Warp to model the effects of intense space-charge during the separation process. We find that the optics can be tuned for isochronous operation and focusing in the presence of intense space-charge to enable separation of bunches with high particle counts. This suggests the device may be effectively utilized at FRIB as a separator, spectrograph and spectrometer.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLS10
+
+ 
+
+
+About •
+paper received ※ 28 August 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLS11
+Simulation of Transparent Spin Experiment in RHIC
+789
+
+
+ 
+
+H. Huang, Y.S. Derbenev, F. Lin, V.S. Morozov, Y. Zhang
+                       JLab, Newport News, Virgina, USA
+P. Adams, H. Huang, F. Méot, V. Ptitsyn, W.B. Schmidke
+                       BNL, Upton, New York, USA
+Y. Filatov
+                       MIPT, Dolgoprudniy, Moscow Region, Russia
+A.M. Kondratenko, M.A. Kondratenko
+                       Science and Technique Laboratory Zaryad, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. DOE under Contracts No. DE-AC05-06OR23177 and DE-AC02-98CH10886.
+The transparent spin mode has been proposed as a new technique for preservation and control of the spin polari-zation of ion beams in a synchrotron. The ion rings of the proposed Jefferson Lab Electron-Ion Collider (JLEIC) adopted this technique in their figure-8 design. The transparent spin mode can also be setup in a racetrack with two identical Siberian snakes. There is a proposal to test the predicted features of the spin transparent mode in Relativistic Heavy Ion Collider (RHIC), which already has all of the necessary hardware capabilities. We have earlier analytically estimated the setup parameters and developed a preliminary experimental plan. In this paper we describe simulation setup and benchmarking for the proposed experiment using a Zgoubi model of RHIC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLS11
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 05 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLS12
+A Semi-Analytical Approach to Six-Dimensional Path-Dependent Transport Matrices With Application to High-Brightness Charged-Particle Beam Transport
+792
+
+
+ 
+
+C.-Y. Tsai
+                       HUST, Wuhan, People’s Republic of China
+K. Fan
+                       Huazhong University of Science and Technology, State Key Laboratory of Advanced Electromagnetic Engineering and Technology,, Hubei, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Fundamental Research Funds for the Central Universities under Project No. 5003131049.
+Efficient and accurate estimate of high-brightness electron beam dynamics is an important step to the overall performance evaluation in modern particle accelerators. Utilizing the moment description to study multi-particle beam dynamics, it is necessary to develop a path-dependent transport matrix, together with application of the drift-kick algorithm*. In this paper we will construct semi-analytical models for three typical beam transport elements, solenoid with fringe fields, transverse deflecting cavity, and a beam slit. To construct the semi-analytical models for these elements, we begin by formulating the simplified single-particle equations of motion, and apply typical numerical techniques to solve the corresponding six-by-six transport matrix as a function of the path coordinate. The developed semi-analytical models are demonstrated with three practical examples, where our numerical results are discussed, compared with and validated by particle tracking simulations. These path-dependent transport matrix models can be incorporated to the analysis based on beam matrix method for the application to high-brightness charged-particle beam transport.
+* C.-Y. Tsai et al., Nuclear Inst. And Methods in Physics Research, A 937 (2019) 1-20
+
+ 
+
+
+
+
+
+
+Poster WEPLS12 [3.099 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLS12
+
+ 
+
+
+About •
+paper received ※ 20 August 2019       paper accepted ※ 03 September 2019        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPLS14
+A C++ TPSA/DA Library With Python Wrapper
+796
+
+
+ 
+
+H. Zhang, Y. Zhangpresenter
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Nuclear Physics under contract DE-AC05-06OR23177.
+Truncated power series algebra (TPSA) or differential algebra (DA) is often used by accelerator physicists to generate a transfer map of a dynamic system. The map then can be used in dynamic analysis of the system or in particle tracking study. TPSA/DA can also be used in some fast algorithms, eg. the fast multipole method, for collective effect simulation. This paper reports a new TPSA/DA library written in C++. This library is developed based on Dr. Lingyun Yang’s TPSA code, which has been used in MAD-X and PTC. Compared with the original code, the updated version has the following changes: (1) The memory management has been revised to improve the efficiency; (2) A new data type of DA vector is defined and supported by most frequently used operators; (3) Support of inverse trigonometric functions and hyperbolic functions for the DA vector has been added; (4) function composition is revised for better efficiency; (5) a python wrapper is provided. The code is hosted at github and available to the public.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-NAPAC2019-WEPLS14
+
+ 
+
+
+About •
+paper received ※ 20 September 2019       paper accepted ※ 16 November 2020        issue date ※ 08 October 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,78 @@
+{
+  "session_info": {
+    "id": "MOOBB",
+    "name": "MOOBB - Contributed Oral Presentations, Alternative Acceleration Schemes",
+    "url": "https://proceedings.jacow.org/PAC2013/html/moobb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOOBB1",
+      "title": "The AWAKE Proton-Driven Plasma Wakefield Acceleration Experiment at CERN",
+      "authors": [
+        "MPI",
+        "Muenchen",
+        "Germany",
+        "Proton (p+) bunches are interesting as wakefield drivers because they carry large amounts of energy (many kJ) and because the p+ rigidity is also large. Simulations show that a short p+ bunch (~100 microns) can drive and sustain GV/m accelerating fields over very long plasma distance",
+        "corresponding to a large average acceleration gradient. These wakefields can potentially accelerate a witness electron bunch to the TeV level in a few hundred meters. Self-modulation instability (SMI) of long p+ bunches (~10 cm) available today can lead to the formation of a train ofμbunches that can resonantly drive wakefields to the GV/m level. Based on this scheme the AWAKE collaboration proposes to use the CERN SPS bunch to study the SMI of p+ bunches in ~10m plasma with density in the 1-10x1015/cc range. The wakefields is sampled by externally “side-injected” electrons. Acceleration from a few MeV to a few GeV is expected. Operating at lower plasma density eases external injection requirements. The experimental set up and program will be presented. Expectations based on numerical simulations of the SMI and acceleration processes will be described. Long-term goals will also be outlined."
+      ],
+      "institutions": [],
+      "abstract": "* For the AWAKE collaboration",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/moobb1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/moobb1.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/moobb1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-MOOBB1",
+      "page_number": "72",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOOBB2",
+      "title": "High Gradient Acceleration of Electrons in a Laser-Driven Dielectric Micro-Structure",
+      "authors": [
+        "E.A. Peralta",
+        "R.L. Byer",
+        "C. McGuinness",
+        "Stanford University",
+        "Stanford",
+        "California",
+        "USA",
+        "OHEP/DOE",
+        "Germantown",
+        "MD",
+        "USA",
+        "R.J. England",
+        "B. Montazeri",
+        "K. Soong",
+        "Z. Wu",
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "UCLA",
+        "Los Angeles",
+        "USA",
+        "We report the first observation of high-gradient acceleration of electrons in a lithographically fabricated micron-scale dielectric optical accelerator driven by a mode-locked Ti:sapphire laser. We have observed acceleration gradients far exceeding those of conventional microwave accelerator structures. Additionally",
+        "we have verified the dependence of the observed acceleration gradient on: the laser pulse energy",
+        "the laser-electron temporal overlap",
+        "the polarization of the laser",
+        "and the incidence angle of the laser. In all cases",
+        "we have found good agreement between the observed results",
+        "the analytical predictions",
+        "and the particle simulations."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/PAC2013/talks/moobb2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/PAC2013/papers/moobb2.pdf",
+      "poster_url": "https://proceedings.jacow.org/PAC2013/posters/moobb2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PAC2013-MOOBB2",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 01:29:58"
+}

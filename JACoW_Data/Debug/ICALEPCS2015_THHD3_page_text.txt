@@ -1,0 +1,280 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: THHD3 (Control system infrastructure)
+
+
+THHD3 —  Control system infrastructure   (22-Oct-15   14:45—16:45)
+Chair: D.J. Nicklaus, Fermilab, Batavia, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+THHD3O01
+Control Systems for Spallation Target in China Initiative Accelerator Driven System
+1147
+
+
+ 
+
+Z. He, W. Cui, Y. Luo, X. Ting, H.S. Xu, L. Yang, X. Zhang, Q. Zhao
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+In this paper, we report the design of the control system for the spallation target in China initiative accelerator driven sub-critical (ADS) system, where a heavy-metal target located vertically at the centre of a sub-critical reactor core is bombarded vertically by the high-energy protons from an accelerator. The main functions of the control system for the target are to monitor and control thermal hydraulic, neutron flux, and accelerator-target interface. The first function is to control the components in the primary and secondary loops, such as pumps, heat exchangers, valves, sensors, etc. For the commissioning measurements of the accelerator, the second function is to monitor the neutrons from the spallation target. The three-layer architecture has been used in the control system. In the middle network layer, in order to increase the network reliability, the redundant Ethernet based on Ethernet ring protection protocol has been considered. In the bottom equipment layer, the equipment controls for the above-mentioned functions have been designed. Finally, because the main objective of the target is to integrate the accelerator and the reactor into one system, the integration of accelerator's control system and the reactor's instrumentation and controls into the target's control system has been mentioned.
+
+ 
+
+
+
+
+
+
+Slides THHD3O01 [0.628 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHD3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHD3O03
+A Dual-mode Measurement and Control System for High Intensity D-T Fusion Neutron Generator
+ 
+
+
+ 
+
+W.T. Wang
+                       USTC, Hefei, Anhui, People's Republic of China
+Y. Song, J.Y. Wang, L.W. Wang
+                       INEST, Hefei, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: 1. Strategic Priority Science & Technology Program of the Chinese Academy of Sciences(No.XDA03040000), 2. ITER 973 Program(No.2014GB112001).
+High Intensity D-T Fusion Neutron Generator (HINEG) is an accelerator-based D-T fusion neutron facility, which parameters of neutron yield is designed to be the best in neutron generators in China and could be operated in continuous and pulsed modes. A dual-mode control system has been designed to achieve remote monitoring and control for HINEG. Distributed control technology is adopted in this control system due to all the devices dispersed along the beam line in different locations. A dual-mode friendly operation interface is developed for operators to manage the devices expediently through the intranet. Additionally, a multi-objective multi-parameter safety interlock system configured with a Safety PLC is constructed to protect the devices, controllers and operators. The safety interlock system could be triggered by intelligent fault diagnosis system to terminate HINEG operation and alarm within tens of milliseconds if the interlocking constraints are broken. For the controllers and devices are operated under high voltages about 400kV, strong electromagnetic fields and nuclear radiation conditions, many anti-interference measures are taken in this control system.
+
+ 
+
+
+
+
+
+
+Slides THHD3O03 [36.679 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHD3O05
+Standards-Based Open-Source PLC Diagnostics Monitoring
+1151
+
+
+ 
+
+B. Copy, H. Milcent, M.Z. Zimny
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+PLCs are widely used to control and monitor industrial processes at CERN. Since these PLCs fulfill critical functions, they must be placed under permanent monitoring. However, due to their proprietary architecture, it is difficult to both monitor the status of these PLCs using vendor-provided software packages and integrate the resulting data with the CERN accelerator infrastructure, which itself relies on CERN-specific protocols. This paper describes the architecture of a stand-alone "PLC diagnostics monitoring" Linux daemon which provides live diagnostics information through standard means and protocols (file logging, CERN protocols, Java Monitoring Extensions). This information is currently consumed by the supervision software which is used by the standby service to monitor the status of critical industrial applications in the LHC and by the monitoring console used by the LHC operators. Both applications are intensively used to monitor and diagnose critical PLC hardware running all over CERN.
+
+ 
+
+
+
+
+
+
+Slides THHD3O05 [1.057 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHD3O05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHD3O06
+Overview of the Monitoring Data Archive used on MeerKAT
+1155
+
+
+ 
+
+M.J. Slabber
+                       SKA South Africa, National Research Foundation of South Africa, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: SKA South Africa National Research Foundation of South Africa Department of Science and Technology.
+MeerKAT, the 64-receptor radio telescope being built in the Karoo, South Africa, by Square Kilometre Array South Africa (SKA SA), comprises a large number of components. All components are interfaced to the Control and Monitoring (CAM) system via the Karoo Array Telescope Communication Protocol (KATCP). KATCP is used extensively for internal communications between CAM components and other subsystems. A KATCP interface exposes requests and sensors. Sampling strategies are set on sensors, ranging from several updates per second to infrequent updates. The sensor samples are of multiple types, from small integers to text fields. As the various components react to user input and sensor samples, the samples with timestamps need to be permanently stored and made available for scientists, engineers and operators to query and analyse. This paper present how the storage infrastructure (dubbed Katstore) manages the volume, velocity and variety of this data. Katstore is comprised of several stages of data collection and transportation. The stages move the data from monitoring nodes to storage node to permanent storage to offsite storage. Additional information (e.g. type, description, units) about each sensor is stored with the samples.
+
+ 
+
+
+
+
+
+
+Slides THHD3O06 [29.051 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHD3O06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THHD3O08
+Upgrades to the Infrastructure and Management of the Operator Workstations and Servers for Run 2 of the CERN Accelerator Complex
+1158
+
+
+ 
+
+A. Bland, S.T. Page
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The Controls Group of the CERN Beams Department provides more than 400 operator workstations in the CERN Control Centre (CCC) and technical buildings of the accelerators, plus 300 servers in the server room (CCR) of the CCC. During the long shutdown of the accelerators that started in February 2013, many upgrades were done to improve this infrastructure in view of the higher-energy LHC run. The Engineering Department improved the electrical supply with fully redundant UPS, on-site diesel generators and for the CCR, water and air cooling systems. The Information Technology Department increased network bandwidth for the servers by a factor of 10 and introduced a pilot multicast service for the video streaming of the accelerator status displays and beam cameras. The Controls Group removed dependencies on network file systems for the operator accounts they manage for the Linacs, Booster, PS, ISOLDE, AD, CTF3, SPS, LHC and cryogenics. It also moved away from system administration based on shell scripts to using modern tools like version-controlled Ansible playbooks, which are now used for installation, day-to-day re-configuration and staged updates during technical stops.
+
+ 
+
+
+
+
+
+
+Slides THHD3O08 [21.308 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-THHD3O08
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

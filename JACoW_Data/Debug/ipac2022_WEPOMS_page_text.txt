@@ -1,0 +1,2189 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2022 - Table of Session: WEPOMS (Poster Session - Matsaman)
+
+
+WEPOMS —  Poster Session - Matsaman   (15-Jun-22   16:20—18:20)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPOMS001
+Effect of Betatron Coupling on Transverse Mode-Coupling and Head-Tail Instabilities
+2225
+
+
+SUSPMF069
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+W. Foosang, A. Gamelin, R. Nagaoka
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+In the context of SOLEIL Upgrade, the 4th generation storage ring project of SOLEIL, several methods are pursued to extend the beam lifetime and limit the emittance growth by reducing the Touschek effect and intra-beam scattering. Betatron coupling is one of the potential techniques to achieve this objective as it can increase the beam volume by transforming a flat beam into a round beam. However, the effect of the coupling on the collective effects is not fully comprehended, but some studies have shown an improvement in transverse instability thresholds. It was, therefore, crucial to investigate the impact of coupling on beam instability for SOLEIL Upgrade. This work presents numerical studies on the impact of coupling on the transverse mode-coupling and the head-tail instabilities. The results showed that coupling could be not only beneficial, but also detrimental.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS001
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Accepted ※ 22 June 2022 — Issue date ※ 04 July 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS003
+Beam Dynamics with a Superconducting Harmonic Cavity for the SOLEIL Upgrade
+2229
+
+
+ 
+
+A. Gamelin, W. Foosang, P. Marchand, R. Nagaoka
+                       SOLEIL, Gif-sur-Yvette, France
+N. Yamamoto
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+In 4th generation low emittance synchrotron light sources, harmonic cavities are critical components needed to reach the required performance. However, RF systems with harmonic cavities can be limited by their own set of instabilities. An instability dominated by the coupled-bunch mode l=1 can prevent the RF system from reaching the flat potential condition, hence limiting the maximum bunch lengthening. Here we report how this instability impacts the performance of 3rd and 4th harmonic superconducting cavities for the SOLEIL Upgrade.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS003
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Accepted ※ 22 June 2022 — Issue date ※ 26 June 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS004
+Investigation of RF Heating for the Multipole Injection Kicker Installed at SOLEIL
+2233
+
+
+ 
+
+A. Gamelin, P. Alexandre, R. Ben El Fekih, J. Da Silva Castro, M. El Ajjouri, A. Letresor, L.S. Nadolski, R. Ollier, T.S. Thoraud
+                       SOLEIL, Gif-sur-Yvette, France
+M. Sacko, S. Taurines
+                       Avantis Concept, SAINT-CERE, France
+
+ 
+
+
+ 
+
+During the commissioning of the new Multipole Injection Kicker (MIK) pulsed magnet at SOLEIL synchrotron, an anomalously high heating of the MIK chamber and flanges was found. To better manage the heat load, fans directed toward the MIK were added to improve the air-cooling flow. This allowed the nominal current to be reached in all operation modes while keeping reasonable temperatures on the MIK. Post-installation investigations subsequently showed that the initial estimate of the maximal heat load was in agreement with the measured temperature in several operation modes both with and without the additional fans. In this article, we present the complete study, starting from the impedance calculation to thermal simulations, and comparison with the measured data with beam.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS004
+
+ 
+
+
+About •
+Received ※ 18 May 2022 — Accepted ※ 16 June 2022 — Issue date ※ 24 June 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS005
+Simulations of the Micro-Bunching Instability for SOLEIL and KARA Using Two Different VFP Solver Codes
+2237
+
+
+ 
+
+M. Brosi, A.-S. Müller, P. Schreiber
+                       KIT, Karlsruhe, Germany
+S. Bielawski, C. Evain, E. Roussel, C. Szwaj
+                       PhLAM/CERCLA, Villeneuve d’Ascq Cedex, France
+
+ 
+
+
+ 
+
+Funding: M.B. acknowledges the funding by the Helmholtz Association in the frame of the Helmholtz doctoral prize. The project has been supported by the ANR-DFG ULTRASYNC project. PhLAM acknowledges support from the CPER Photonics for Society, and the CEMPI LABEX.
+The longitudinal dynamics of a bunched electron beam is an important aspect in the study of existing and the development of new electron storage rings. The dynamics depend on different beam parameters as well as on the interaction of the beam with its surroundings. A well established method for calculating the resulting dynamics is to numerically solve the Vlasov-Fokker-Planck equation. Depending on the chosen parameters and the considered wakefields and impedances, different effects can be studied. One common application is the investigation of the longitudinal micro-wave and micro-bunching instabilities. The latter occurs for short electron bunches due to self-interaction with their own emitted coherent synchrotron radiation (CSR). In this contribution, two different VFP solvers are used to simulate the longitudinal dynamics with a focus on the micro-bunching instability at the Soleil synchrotron and the KIT storage ring KARA (Karlsruhe Research Accelerator).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS005
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 12 June 2022 — Accepted ※ 16 June 2022 — Issue date ※ 23 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS006
+Simulation of the Effect of Corrugated Structures on the Longitudinal Beam Dynamics at KARA
+2241
+
+
+ 
+
+S. Maier, M. Brosipresenter, A. Mochihashi, A.-S. Müller, M.J. Nasse, P. Schreiber, M. Schwarz
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by the DFG project 431704792 in the ANR-DFG collaboration project ULTRASYNC. S. M. acknowledge the support by the Doctoral School "Karlsruhe School of Elementary and Astroparticle Physics: Science and Technology" (KSETA).
+Two parallel corrugated plates will be installed at the KIT storage ring KARA (KArlsruhe Research Accelerator). This impedance manipulation structure will be used to study and eventually control the beam dynamics and the emitted coherent synchrotron radiation (CSR). In this contribution, we present the results obtained with the Vlasov-Fokker-Planck solver Inovesa showing the impedance impact of different corrugated structures on the bunch and its emitted CSR power.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS006
+
+ 
+
+
+About •
+Received ※ 20 May 2022 — Revised ※ 13 June 2022 — Accepted ※ 23 June 2022 — Issue date ※ 02 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS008
+Impact of Broadband Impedance on Longitudinal Coupled-Bunch Instability Threshold
+2245
+
+
+ 
+
+I. Karpov, E.N. Shaposhnikova
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Coupled-bunch instabilities (CBI) and the loss of Landau damping (LLD) in the longitudinal plane can affect the performance of high-current synchrotrons. The former is driven by the narrowband impedance of resonant structures, while the latter is mainly determined by the broadband impedance of the entire accelerator and is a single-bunch effect. Therefore, the CBI and LLD thresholds are usually evaluated separately in order to define the corresponding critical impedance budget for given beam parameters. In this paper, we show that the CBI threshold in the presence of broadband impedance can be significantly lower than the one defined by only the narrowband impedance, especially if the LLD threshold is below the CBI threshold. In some cases, the beam becomes unstable even below the LLD threshold. This explains the low CBI threshold observed for the LHC-type beams in the CERN SPS. For HL-LHC, the broadband impedance may also significantly reduce the CBI threshold driven by higher-order modes of the crab cavities.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS008
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Accepted ※ 04 July 2022 — Issue date ※ 06 July 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS009
+Simulation Studies of Longitudinal Stability for High-Intensity LHC-Type Beams in the CERN SPS
+2249
+
+
+ 
+
+D. Quartullo, L. Intelisano, I. Karpov, G. Papotti
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Beams in the SPS for the High Luminosity LHC (HL-LHC) must be stabilized in the longitudinal plane up to an intensity of 2.4·1011 protons per bunch. The fourth harmonic RF system increases Landau damping, and controlled longitudinal emittance blow-up is applied to cope with coupled-bunch instabilities along the ramp and at flat-top. Longitudinal multi-bunch beam dynamics simulations of the SPS cycle were performed starting from realistic bunch distributions, as injected from the PS. The full SPS impedance model was included, as well as the effect of low-level RF (LLRF) feedback for beam-loading compensation. A realistic model of the beam-based LLRF loops was used for the particle tracking studies. Controlled longitudinal emittance blow-up was included by generating bandwidth-limited RF phase noise and by injecting it into the beam phase-loop input, exactly as in hardware. Due to the stringent constraints on particle losses and extracted bunch lengths, particular attention was paid to monitoring these parameters in the simulations, and to determining the best configuration for a stable acceleration of the beam.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS009
+
+ 
+
+
+About •
+Received ※ 30 May 2022 — Revised ※ 13 June 2022 — Accepted ※ 21 June 2022 — Issue date ※ 02 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS010
+Studies of Transverse Coupled-Bunch Instabilities from Resistive-Wall and Cavity Higher Order Modes for Diamond-II
+2253
+
+
+ 
+
+S.W. Wang, H.C. Chaopresenter, R.T. Fielder, I.P.S. Martin, T. Olsson
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+The transverse coupled-bunch instabilities from resistive-wall impedance and main cavity higher order modes (HOMs) are studied for the Diamond-II storage ring. The growth rates of all the coupled-bunch modes are calculated using both the results from tracking simulations and analytic formula, which show a good consistency. The instability threshold from the resistive-wall impedance is estimated and verified by simulation. The impact of the main cavity HOMs is studied in a similar way, and the results show instabilities from HOMs are much smaller than that from resistive-wall impedance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS010
+
+ 
+
+
+About •
+Received ※ 06 June 2022 — Accepted ※ 13 June 2022 — Issue date ※ 05 July 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS011
+Single Bunch Instability Studies with a New Impedance Database for Diamond-II
+2257
+
+
+ 
+
+R.T. Fielder, H.C. Chaopresenter, S.W. Wang
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+We present an updated impedance database for the Diamond-II storage ring, along with an analysis of single bunch instabilities and thresholds based on particle tracking simulations using Elegant. Various cases with different chromaticity, insertion device parameters and harmonic cavity settings are studied, and the effects on the microwave instability, bunch lengthening and phase shifts are simulated and compared with analytic formulae. Preliminary results show that the single-bunch instability thresholds are above requirements for a uniform fill, and with inclusion of a harmonic cavity the longitudinal and transverse instability thresholds can also satisfy requirements for a hybrid fill.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS011
+
+ 
+
+
+About •
+Received ※ 07 June 2022 — Revised ※ 13 June 2022 — Accepted ※ 15 June 2022 — Issue date ※ 22 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS013
+Neural Network Solver for Coherent Synchrotron Radiation Wakefield Calculations in Accelerator-Based Charged Particle Beams
+2261
+
+
+ 
+
+A.L. Edelen, C. Emmapresenter, C.E. Mayes, R.J. Roussel
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Particle accelerators support a wide array of scientific, industrial, and medical applications. To meet the needs of these applications, accelerator physicists rely heavily on detailed simulations of the complicated particle beam dynamics through the accelerator. One of the most computationally expensive and difficult-to-model effects is the impact of Coherent Synchrotron Radiation (CSR). CSR is one of the major drivers of growth in the beam emittance, which is a key metric of beam quality that is critical in many applications. The CSR wakefield is very computationally intensive to compute with traditional electromagnetic solvers, and this is a major limitation in accurately simulating accelerators. Here, we demonstrate a new approach for the CSR wakefield computation using a neural network solver structured in a way that is readily generalizable to new setups. We validate its performance by adding it to a standard beam tracking test problem and show a ten-fold speedup along with high accuracy.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS013
+
+ 
+
+
+About •
+Received ※ 10 June 2022 — Revised ※ 16 June 2022 — Accepted ※ 17 June 2022 — Issue date ※ 03 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS015
+Basic Relations of Laser-Plasma Interaction in the 3D Relativistic, Non-Linear Regime
+2265
+
+
+ 
+
+D.F.G. Minenna, E. Bargel, L. Batista, P.A.P. Nghiem
+                       CEA-IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+In the approximation where the plasma is considered as a fluid, basic relations are derived to describe the plasma wave driven by an ultra-intense laser pulse. A set of partial differential equations is obtained. It is then numerically solved to calculate the resulting 3D electric field structure that can be used as accelerating cavities for electrons. The laser strength parameter is varied to investigate regimes from weakly nonlinear up to total cavitation where all the initial electrons of the plasma are expelled.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS015
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 13 June 2022 — Accepted ※ 16 June 2022 — Issue date ※ 10 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS016
+On the (Apparent) Paradox between Space-Charge Forces and Space-Charge Effects
+2268
+
+
+ 
+
+P.A.P. Nghiem
+                       CEA-IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+With the advent of high-intensity linacs, space charge forces are now well known as a major issue causing undesirable effects on particle beam qualities like emittance growth or sudden losses. They should be stronger when there are more particles or when the latter are contained in a smaller volume. But a detailed examination of the beam along an accelerator show that space charge effects are weaker where the beam size is smaller. This article clarifies this paradox and revisits the recommendations on beam sizes in view of mitigating space charge effects.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS016
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 12 June 2022 — Accepted ※ 13 June 2022 — Issue date ※ 16 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS017
+Space Charge Analysis for Low Energy Photoinjector
+2272
+
+
+SUSPMF075
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M. Carillo, F. Bosco, E. Chiadroni, L. Giuliano, M. Migliorati, A. Mostacci, L. Palumbo
+                       Sapienza University of Rome, Rome, Italy
+M. Behtouei, B. Spataro
+                       LNF-INFN, Frascati, Italy
+O. Camacho, A. Fukasawa, J.B. Rosenzweig
+                       UCLA, Los Angeles, USA
+L. Faillace
+                       INFN/LNF, Frascati, Italy
+L. Ficcadenti
+                       INFN-Roma, Roma, Italy
+
+ 
+
+
+ 
+
+Funding: This work is supported by DARPA under Contract HR001120C0072, by DOE Contract DE-SC0009914 & DE-SC0020409, by the National Science Foundation Grant N.PHY-1549132 and by INFN through the project ARYA.
+Beam dynamics studies are performed in the context of a C-Band hybrid photo-injector project developed by a collab- oration between UCLA/Sapienza/INFN-LNF/RadiaBeam. These studies aim to explain beam behaviour through the beam-slice evolution, using analytical and numerical approaches. An understanding of the emittance oscillations is obtained starting from the slice analysis, which allows correlation of the position of the emittance minima with the slope of the slices in the transverse phase space (TPS). At the end, a significant reduction in the normalized emittance is obtained by varying the transverse shape of the beam while assuming a longitudinal Gaussian distribution. Indeed, the emittance growth due to nonlinear space-charge fields has been found to occur immediately after moment of the beam emission from the cathode, giving insight into the optimum laser profile needed for minimizing the emittance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS017
+
+ 
+
+
+About •
+Received ※ 16 May 2022 — Revised ※ 12 June 2022 — Accepted ※ 16 June 2022 — Issue date ※ 01 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS018
+Minimum Emittance Growth during RF-Phase Slip
+2276
+
+
+ 
+
+S.R. Koscielniak
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+This paper is concerned with finding operations consistent with the absolute minimum emittance growth. The system is an RF bucket containing a bunch of hadrons in a synchrotron; and the operation performed is to sweep the RF phase. As a result, the bunch centroid moves from one value of position and momentum to another. For given start and end points, we shall find the ideal RF phase-slip time-variation that minimizes emittance growth of the bunch
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS018
+
+ 
+
+
+About •
+Received ※ 27 May 2022 — Revised ※ 11 June 2022 — Accepted ※ 12 June 2022 — Issue date ※ 25 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS019
+Beam-Beam Resonance Widths in the HL-LHC, and Reduction by Phasing of Interaction Points
+2280
+
+
+ 
+
+Y.L. Gao, S.R. Koscielniakpresenter
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+Beam-beam interactions are a limiting factor in the planned high luminosity (HL) upgrade to the Large Hadron Collider (HL-LHC). Over the two main interaction regions of the LHC, a particle experiences two head-on and over a hundred long-range beam-beam interactions which drive betatron resonances in the system. Each resonance line in the space of horizontal and vertical tunes has a finite (non-zero) lock-on width. If the particles tunes fall within this width, they will eventually lock on to the resonance and be driven to large amplitude. We show that it is possible to reduce the resonances widths of a given order by using specific values of the phase advance between interaction points. This paper presents the derivation of resonance width for the weak-strong beam-beam effect, as an extension of A.Chaos width formulae for magnetic sextupoles. (A Lie-algebraic approach is used to combine the effect of the individual beam-beam impulses.) The paper then studies the lock-on width arising from two interaction regions containing 140 beam-beam impulses, and shows the cancellation of specific resonances by relative phasing of interaction points in the HL-LHC lattice.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS019
+
+ 
+
+
+About •
+Received ※ 27 May 2022 — Revised ※ 14 June 2022 — Accepted ※ 16 June 2022 — Issue date ※ 22 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS020
+FAIR SIS100 Laser Cooling Pilot Facility
+2284
+
+
+ 
+
+S. Klammes, T. Kühl, P.J. Spiller, T. Stöhlker, D.F.A. Winters
+                       GSI, Darmstadt, Germany
+M.H. Bussmann, U. Schramm, M. Siebold
+                       HZDR, Dresden, Germany
+M.H. Bussmann
+                       CASUS, Görlitz, Germany
+J. Gumm, B. Langfeld, T. Walther
+                       TU Darmstadt, Darmstadt, Germany
+V. Hannen, K. Ueberholz
+                       Westfälische Wilhelms-Universität Münster, Institut für Kernphysik, Münster, Germany
+X. Ma, W.Q. Wen
+                       IMP/CAS, Lanzhou, People’s Republic of China
+U. Schramm
+                       TU Dresden, Dresden, Germany
+T. Stöhlker
+                       HIJ, Jena, Germany
+T. Stöhlker
+                       IOQ, Jena, Germany
+T. Walther
+                       HFHF, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+We present new (preliminary) results from a recent (May 2021) beam experiment for laser cooling of bunched relativistic carbon ion beams at the ESR of the GSI Helmholtz Centre in Darmstadt, Germany. We were able to use the new pulsed UV laser system from the TU Darmstadt, which has a very high repetition rate, a variable pulse duration and high UV power (up to 250 mW @ 257 nm). Using this laser, we have - for the first time - demonstrated laser cooling of bunched relativistic ion beams for different laser pulse durations (166-740 ps) at a ~10 MHz repetition rate. In addition, we could use the moveable in-vacuo (X)UV detection system from Münster University to study the fluorescence from the laser-excited ions. Finally, we have observed clear effects in the amount of detected fluorescence from the ions using our new ion bunch - laser pulse timing scheme. These studies are also highly relevant for the SIS100 laser cooling pilot facility, which is currently being realized at FAIR.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS020
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 11 June 2022 — Accepted ※ 15 June 2022 — Issue date ※ 13 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS021
+Entropy Production and Emittance Growth Due to the Imperfection in Long Periodical Acceleration Chains
+2286
+
+
+ 
+
+M. Droba, O. Meusel, H. Podlech, S. Reimann
+                       IAP, Frankfurt am Main, Germany
+H. Podlech
+                       HFHF, Frankfurt am Main, Germany
+S. Reimann
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Contemporary design of efficient linear accelerator is based on ideal periodical structures with an optimi-sation for perfect periodicity. However, practical reali-sation involves random errors in the structure (e.g. position of elements, off-sets, non-linearity of the fields etc.) which make prediction of emittance growth difficult. Error studies helps to understand critical points, but they are normally used at the end of the design process. The concept of beam entropy in very simple approximation (assumption of Ornstein-Uhlenbeck model) is used to evaluate emittance growth in perfect periodical chains. The analysis will be performed and differences in modern designs on some examples discussed. Focus will be laid on linac designs with short acceleration structures (RF-phase settings versus position error) and external transversal focusing magnets.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS021
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 12 June 2022 — Accepted ※ 13 June 2022 — Issue date ※ 23 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS022
+Detailed Analysis of Transverse Emittance of the FLUTE Electron Bunch
+2289
+
+
+ 
+
+T. Schmelzer, E. Bründermann, A.-S. Müller, M.J. Nasse, R. Ruprecht, J. Schaeferpresenter, M. Schuh, N.J. Smale, P. Wesolowski
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+The compact and versatile linear accelerator-based test facility FLUTE (Ferninfrarot Linac- Und Test-Experiment) is operated at KIT. Its primary goal is to serve as a platform for a variety of accelerator R\&D studies like the generation of strong ultra-short terahertz pulses. The amplitude of the generated coherent THz pulses is proportional to the square number of particles in the bunch. With the transverse emittance a measure for the transverse particle density can be determined. It is therefore a vital parameter in the optimization for operation. In a systematic study, the transverse emittance of the electron beam was measured in the FLUTE injector. A detailed analysis considers different influences such as the bunch charge and compares this with particle tracking simulations carried out with ASTRA. In this contribution, the key findings of this analysis are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS022
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 23 June 2022 — Accepted ※ 23 June 2022 — Issue date ※ 28 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS023
+Optimization Studies of Simulated THz Radiation at FLUTE
+2292
+
+
+ 
+
+C. Xu, E. Bründermann, A.-S. Müller, A. Santamaria Garcia, J. Schaeferpresenter, M. Schwarz
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by the Helmholtz Association (Autonomous Accelerator, ZT-I-PF-5-6) and the DFG-funded Doctoral School "Karlsruhe School of Elementary and Astroparticle Physics: Science and Technology".
+The linac-based test facility FLUTE (Ferninfrarot Linac Und Test Experiment) at KIT will be used to study novel accelerator technology and provide intense THz pulses. In this paper, we present start-to-end simulation studies of FLUTE with different bunch charges. We employ a parallel Bayesian optimization algorithm for different bunch charges of FLUTE to find optimized accelerator settings for the generation of intense THz radiation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS023
+
+ 
+
+
+About •
+Received ※ 20 May 2022 — Accepted ※ 21 June 2022 — Issue date ※ 10 July 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS024
+Present Status of the Injector at the Compact ERL at KEK
+2296
+
+
+ 
+
+O.A. Tanaka, T. Miyajima, T. Tanikawa
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The Compact ERL at KEK is a test accelerator to develop ERL technologies and their possible applications. The first target of injector operation to demonstrate IR-FEL was to generate high bunch charge electron beams with low longitudinal emittance and short bunch length. In 2020, the injector was operated with the bunch charge of 60 pC, the DC gun voltage of 480 kV, the injector energy of 5 MeV and the bunch length of 2 ps rms, and the required beam quality for the IR-FEL has been achieved for a single-pass operation mode. The next target is to demonstrate IR-FEL generation for recirculation mode. The injector energy is decreased to 3.5 MeV due to a limitation of the energy ratio between injection and recirculation beams. Moreover, the DC gun voltage decreases to 390 kV due to the troubles of the DC gun. Therefore, control of the space charge effect is more important to design and optimize the beam transport condition of the injector. In this report, a strategy of the injector optimization together with its realization results and future prospects are summarized.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS024
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 11 June 2022 — Accepted ※ 19 June 2022 — Issue date ※ 21 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS025
+Injector Design Towards ERL-Based EUV-FEL for Lithography
+2299
+
+
+ 
+
+O.A. Tanaka, T. Miyajima, N. Nakamura, T. Tanikawa
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+A high-power EUV light source using ERL-based FEL can supply multiple semiconductor exposure de-vices. There are some requirements in the whole and its injector, in particular, and their examination and necessary development are being carried out. The requirement for the injector was to generate high bunch charge beams at a high-repetition rate. In this regard, a space charge effect should be treated carefully in the design of the injector. For FEL operation, not only short bunch length and small transverse emittance but also small longitudinal emittance are required. By using a multi-objective genetic algorithm, we are minimizing them at the exit of the injector to investigate the injector performance and its effect on the FEL generation. In this study, we describe the injector optimization strategies and possible options suited for the ERL-based EUV-FEL.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS025
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 10 June 2022 — Accepted ※ 17 June 2022 — Issue date ※ 17 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS028
+Electron Beam Shaping Techniques Using Optical Stochastic Cooling
+2303
+
+
+ 
+
+A.J. Dick, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+P. Piot
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Optical Stochastic Cooling (OSC) has demonstrated its ability to reduce the three-dimensional phase-space emittance of an electron beam by applying a small corrective kick to the beam each turn. By modifying the shape and timing of these kicks we can produce specific longitudinal beam distributions. Two methods are introduced; single-pulse modulation, where the longitudinal profile of the OSC pulse is amplified by some function, as well as multiple-turn modulation, where the overall strength or phase is varied depending on the synchrotron oscillation phase. The shaping techniques are demonstrated using a model of OSC developed in the ELEGANT particle-tracking code program.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS028
+
+ 
+
+
+About •
+Received ※ 13 June 2022 — Revised ※ 14 June 2022 — Accepted ※ 21 June 2022 — Issue date ※ 04 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS029
+Modeling of the Optical Stochastic Cooling at the IOTA Storage Ring Using ELEGANT
+2307
+
+
+ 
+
+A.J. Dick, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+J.D. Jarvis
+                       Fermilab, Batavia, Illinois, USA
+P. Piot
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+In support of the Optical Stochastic Cooling (OSC) experiment at IOTA, we implemented a high-fidelity model of OSC in ELEGANT. The element is generalizable to any OSC experiment and captures three main behaviors; (i) the longitudinal time of flight OSC, (ii) the effects between the transverse motion of particles in the beam and the transverse distribution of undulator radiation, and (iii) the incoherent contributions of neighboring particles. Together these produce a highly accurate model of OSC and were benchmarked using the results from the IOTA OSC experiment.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS029
+
+ 
+
+
+About •
+Received ※ 14 June 2022 — Revised ※ 17 June 2022 — Accepted ※ 05 July 2022 — Issue date ※ 06 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS030
+A Path-Length Stability Experiment for Optical Stochastic Cooling at the Cornell Electron Storage Ring
+2311
+
+
+SUSPMF077
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S.J. Levenson, M.B. Andorf, I.V. Bazarov, V. Khachatryan, J.M. Maxson, D.L. Rubin, S. Wang
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. National Science Foundation under Award PHY-1549132, the Center for Bright Beams and NYSTAR award C150153.
+To achieve sufficient particle delay with respect to the optical path in order to enable high gain amplification, the design of the Optical Stochastic Cooling (OSC) experiment in the Cornell Electron Storage Ring (CESR) places the pickup (PU) and kicker (KU) undulators approximately 80 m apart. The arrival times at the KU of particles and the light they produce in the PU must be synchronized to an accuracy of less than an optical wavelength, which for this experiment is 780 nm. To test this synchronization, a planned demonstration of the stability of the bypass in CESR is presented where, in lieu of undulators, an interference pattern formed with radiation from two dipoles flanking the bypass is used. In addition to demonstrating stability, the fringe visibility of the pattern is related to the cooling ranges, a critical parameter needed for OSC. We present progress on this stabilization experiment including the design of a second-order isochronous bypass, as well as optimizations of the Dynamic Aperture (DA) and injection efficiency.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS030
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 17 June 2022 — Accepted ※ 23 June 2022 — Issue date ※ 26 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS031
+Light Path Construction for an Optical Stochastic Cooling Stability Test at the Cornell Electron Storage Ring
+2315
+
+
+ 
+
+S.J. Levenson, M.B. Andorf, I.V. Bazarov, D.C. Burke, J.M. Maxson, D.L. Rubin, S. Wang
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. National Science Foundation under Award PHY-1549132, the Center for Bright Beams and NYSTAR award C150153.
+An experiment at the Cornell Electron Storage Ring (CESR) to test the optical path-length stability of a bypass suitable for Optical Stochastic Cooling (OSC) is being pursued. The approximately 80 m light path for this experiment has been assembled, and synchrotron light has been successfully propagated from both sources. A feedback system based on an Electro-Optic Modulator (EOM) to correct the path-error accumulated in both the light and particle path has been table-top tested. We present on the design and construction of the light optics for the OSC stability experiment at CESR.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS031
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 15 June 2022 — Accepted ※ 21 June 2022 — Issue date ※ 03 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS032
+Simulations of Coherent Electron Cooling with Orbit Deviation
+2319
+
+
+ 
+
+J. Ma, V. Litvinenko, G. Wangpresenter
+                       BNL, Upton, New York, USA
+V. Litvinenko
+                       Stony Brook University, Stony Brook, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+Coherent electron cooling (CeC) is a novel technique for rapidly cooling high-energy, high-intensity hadron beam. Plasma cascade amplifier (PCA) has been proposed for the CeC experiment in the Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory (BNL). Cooling performance of PCA based CeC has been predicted in 3D start-to-end CeC simulations using code SPACE. The dependence of the PCA gain and the cooling rate on the electron beam’s orbit deviation has been explored in the simulation studies.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS032
+
+ 
+
+
+About •
+Received ※ 16 May 2022 — Revised ※ 11 June 2022 — Accepted ※ 13 June 2022 — Issue date ※ 29 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS033
+CETA-A Code Package Being Developed for Collective Effect Analysis and Simulation in Electron Storage Rings
+2323
+
+
+ 
+
+C. Li, Y.-C. Chae
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The code Collective Effect Tool Analysis (CETA) is under development to study the collective effects in the electron storage ring. With the impedance either generated by itself or imported from an external file, CETA can calculate the loss and kick factors, the longitudinal equilibrium bunch length from a Haissinski solver, and the head-tail mode frequency shift from a Vlasov solver. Meanwhile, the code CETASim, which can track particles to study coupled-bunch instabilities caused by long-range wakefield, ion effects, transient beam loading effect, bunch-by-bunch feedback, etc., is also under development. In this paper, we describe the code status and give several simulation results from CETA and CETASim to show how these codes work.
+This project has received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement No. 871072
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS033
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 15 June 2022 — Accepted ※ 16 June 2022 — Issue date ※ 05 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS035
+Harpy: A Fast, Simple and Accurate Harmonic Analysis with Error Propagation
+2326
+
+
+ 
+
+L. Malina
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Traditionally, in the accelerator physics field, accurate harmonic analysis has been performed by iteratively interpolating the result of Fast Fourier Transform (FFT) in the frequency domain. Such an approach becomes computationally demanding when relatively small effects are being studied, which is especially evident in the typical example of harmonic analysis of turn-by-turn beam position monitor data, i.e. many correlated but noisy signals. A new harmonic analysis algorithm, called Harpy, is about an order of magnitude faster than other methods, while often being also more accurate. Harpy combines standard techniques such as zero-padded FFT and noise-cleaning based on singular value decomposition. This combination also allows estimating errors of phases and amplitudes of beam-related harmonics calculated from cleaned data.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS035
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 13 June 2022 — Accepted ※ 17 June 2022 — Issue date ※ 20 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS036
+Accelerating Linear Beam Dynamics Simulations for Machine Learning Applications
+2330
+
+
+ 
+
+O. Stein, I.V. Agapovpresenter, A. Eichler, J. Kaiser
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Machine learning has proven to be a powerful tool with many applications in the field of accelerator physics. Training machine learning models is a highly iterative process that requires large numbers of samples. However, beam time is often limited and many of the available simulation frameworks are not optimized for fast computation. As a result, training complex models can be infeasible. In this contribution, we introduce Cheetah, a linear beam dynamics framework optimized for fast computations. We show that Cheetah outperforms existing simulation codes in terms of speed and furthermore demonstrate the application of Cheetah to a reinforcement-learning problem as well as the successful transfer of the Cheetah-trained model to the real world. We anticipate that Cheetah will allow for faster development of more capable machine learning solutions in the field, one day enabling the development of autonomous accelerators.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS036
+
+ 
+
+
+About •
+Received ※ 07 June 2022 — Revised ※ 14 June 2022 — Accepted ※ 01 July 2022 — Issue date ※ 01 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS037
+Microbunching Studies for the FLASH2020+ Upgrade Using a Semi-Lagrangian Vlasov Solver
+2334
+
+
+SUSPMF070
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+Ph. Amstutz, M. Vogt
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Precise understanding of the microbunching instability is mandatory for the successful implementation of a compression strategy for advanced FEL operation modes such as the EEHG seeding scheme, which a key ingredient of the FLASH2020+ upgrade project. Simulating these effects using particle-tracking codes can be quite computationally intensive as an increasingly large number of particles is needed to adequately capture the dynamics occurring at small length scales and reduce artifacts from numerical shot-noise. For design studies as well as dedicated analysis of the microbunching instability semi-Lagrangian codes can have desirable advantages over particle-tracking codes, in particular due to their inherently reduced noise levels. However, rectangular high-resolution grids easily become computationally expensive. To this end we developed SelaV1D, a one dimensional semi-Lagrangian Vlasov solver, which employs tree-based domain decomposition to allow for the simulation of entire exotic phase-space densities as they occur at FELs. In this contribution we present results of microbunching studies conducted for the FLASH2020+ upgrade using SelaV1D.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS037
+
+ 
+
+
+About •
+Received ※ 06 June 2022 — Revised ※ 29 June 2022 — Accepted ※ 01 July 2022 — Issue date ※ 09 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS039
+Analysis of Xcos Simulation Model for Intensity at Third and Fifth Harmonics Undulator Radiation
+2338
+
+
+ 
+
+H. Jeevakhan
+                       NITTTR, Bhopal, India
+K. Kushwaha, M. Syed
+                       RGPV, Bhopal, India
+G. Mishra
+                       Devi Ahilya University, Indore, India
+
+ 
+
+
+ 
+
+Xcos simulation model is analysed for the intensity of planar undulator radiation at the third and fifth harmonics. The Xcos model is designed by using the numerical approach. The results obtained from the simulation model are compared with the analytical method. The model can also be utilized for observing the effect of energy spread on radiation by numerical approach. An algorithm for analysing the effect of energy spread is also presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS039
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 10 June 2022 — Accepted ※ 17 June 2022 — Issue date ※ 19 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS042
+The HOMEN Model: An Estimator of High Order Modes Evolution in an Energy Recovery Linac
+2342
+
+
+ 
+
+S. Samsam, A. Bacci, V. Petrillo, M. Rossetti Contipresenter, A.R. Rossi, M. Ruijter, L. Serafini
+                       INFN-Milano, Milano, Italy
+A. Bosotti, R. Paparella, D. Sertore
+                       INFN/LASA, Segrate (MI), Italy
+M.R. Masullo, A. Passarelli
+                       INFN-Napoli, Napoli, Italy
+M. Opromolla
+                       Università degli Studi di Milano, Milano, Italy
+
+ 
+
+
+ 
+
+Energy recovery linacs represent the new frontier of energy sustainability in the field of particle accelerators while providing remarkable performance in terms of high average current and average brightness. Operating superconducting radio-frequency cavities in continuous wave makes high repetition rates (GHz-class) affordable and allows the construction of light sources such as FEL or Compton based characterized by high flux. \ This study originates in the context of the design study of BriXSinO, an ERL based on the two-pass two-way scheme à la Maury Tigner in which the cavities are traveled by the beam in both directions, the first time in the accelerating phase and the second time in the decelerating phase. HOMEN was conceived as a model to simulate the evolution of high order modes on long time scales in high Q cavities of machines of this kind and monitor their effects on the beam.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS042
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 13 June 2022 — Accepted ※ 16 June 2022 — Issue date ※ 21 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS043
+UFO, a GPU Code Tailored Toward MBA Lattice Optimization
+2346
+
+
+ 
+
+M. Carlà, M. Canals
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+The complexity of multi-bend achromatic optics is such that computational tools performance has become a dominant factor in the design process a last generation synchrotron light source. To relieve the problem a new code (UFO) tailored toward performance was developed to assist the design of the ALBA-II optics. Two main strategies contribute to the performance of UFO: the execution flow follows a data parallel paradigm, well suited for GPU execution; the use of a just-in-time compiler allows to simplify the computation whenever the lattice allows for it. At the core of UFO lies a parallel tracking routine structured for parallel simulation of optics which differs in some parameters, such as magnet strength or alignment, but retains the same element order, reflecting the scenario found in optimization processes, or when dealing with magnetic or alignment errors. Such an approach allows to take advantage of GPUs which yield the best performance when running thousands of parallel threads. Moreover UFO is not limited to tracking. A few modules that rely on the same tracking routine allow for the fast computation of dynamic and momentum aperture, closed orbit and linear optics.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS043
+
+ 
+
+
+About •
+Received ※ 07 June 2022 — Revised ※ 16 June 2022 — Accepted ※ 19 June 2022 — Issue date ※ 21 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS045
+Modeling and Mitigation of Long-Range Wakefields for Advanced Linear Colliders
+2350
+
+
+SUSPMF071
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+F. Bosco, M. Carillo, L. Giuliano, M. Migliorati, A. Mostacci, L. Palumbo
+                       Sapienza University of Rome, Rome, Italy
+O. Camacho, A. Fukasawa, N. Majernik, J.B. Rosenzweig
+                       UCLA, Los Angeles, USA
+E. Chiadroni, B. Spataro, C. Vaccarezza
+                       LNF-INFN, Frascati, Italy
+L. Faillace, A. Giribono
+                       INFN/LNF, Frascati, Italy
+
+ 
+
+
+ 
+
+Funding: This work is supported by DARPA under Contract N.HR001120C0072, by DOE Contract DE-SC0009914 and DE-SC0020409, by the National Science Foundation Grant N.PHY-1549132 and by INFN.
+The luminosity requirements of TeV-class linear colliders demand use of intense charged beams at high repetition rates. Such features imply multi-bunch operation with long current trains accelerated over the km length scale. Consequently, particle beams are exposed to the mutual parasitic interaction due to the long-range wakefields excited by the leading bunches in the accelerating structures. Such perturbations to the motion induce transverse oscillations of the bunches, potentially leading to instabilities such as transverse beam break-up. Here we present a dedicated tracking code that studies the effects of long-range transverse wakefield interaction among different bunches in linear accelerators. Being described by means of an efficient matrix formalism, such effects can be included while preserving short computational times. As a reference case, we use our code to investigate the performance of a state-of-the-art linear collider currently under design and, in addition, we discuss possible mitigation techniques based on frequency detuning and damping.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS045
+
+ 
+
+
+About •
+Received ※ 20 May 2022 — Revised ※ 14 June 2022 — Accepted ※ 15 June 2022 — Issue date ※ 10 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS046
+Machine Learning-Based Modeling of Muon Beam Ionization Cooling
+2354
+
+
+ 
+
+E. Fol, D. Schulte
+                       CERN, Meyrin, Switzerland
+C.T. Rogers
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+Surrogate modeling can lead to significant improvements of beam dynamics simulations in terms of computational time and resources. Application of supervised machine learning, using collected simulation data allows to build surrogate models which can estimate beam parameters evolution based on the provided cooling channel design. The created models help to understand the correlations between different lattice components and the importance of specific beam properties for the cooling performance. We present the application of surrogate modeling to enhance final muon cooling design studies, demonstrating the potential of such approach to be integrated into the design and optimization of other components of future colliders. 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS046
+
+ 
+
+
+About •
+Received ※ 07 June 2022 — Revised ※ 28 June 2022 — Accepted ※ 04 July 2022 — Issue date ※ 05 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS047
+Automated Design and Optimization of the Final Cooling for a Muon Collider
+2358
+
+
+ 
+
+E. Fol, D. Schulte, B. Stechauner
+                       CERN, Meyrin, Switzerland
+C.T. Rogers
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+J. Schieck
+                       HEPHY, Wien, Austria
+
+ 
+
+
+ 
+
+The desired beam emittance for a Muon collider is several orders of magnitude less than the one of the muon beams produced at the front-end target. Ionization cooling has been demonstrated as a suitable technique for the reduction of the muon beam emittance. Final cooling, as one of the most critical stages of the muon collider complex, necessitates careful design and optimization in order to control the beam dynamics and ensure efficient emittance reduction. We present an optimization framework based on ICool simulation code and application of different optimization algorithms, to automatize the choice of optimal initial muon beam parameters and simultaneous tuning of numerous final cooling components.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS047
+
+ 
+
+
+About •
+Received ※ 07 June 2022 — Revised ※ 14 June 2022 — Accepted ※ 23 June 2022 — Issue date ※ 03 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS048
+A Flexible Online Optimizer for SPS
+2362
+
+
+ 
+
+T. Pulampong, N. Suradet
+                       SLRI, Nakhon Ratchasima, Thailand
+
+ 
+
+
+ 
+
+Siam Photon Source (SPS) machine in Thailand has been operating for more than two decades with limited diagnostic systems. It is very challenging to efficiently tune and operate the machine. With online optimization, only variables and objectives are required to tune for better solutions. It this work, a flexible optimizer was developed. Objectives and variables can be freely defined based on available hardware in the form of Process Variables (PVs). Several multi-objective and Robust Conjugated Direction Search (RCDS) algorithms are provided. The online optimizer was tested on the SPS machine to improved the injection efficiency. Due to its flexibility, the optimizer can also be used for other systems.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS048
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 13 June 2022 — Accepted ※ 16 June 2022 — Issue date ※ 19 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS049
+ESS RFQ Electromagnetic Simulations Using CST Studio Suite
+2365
+
+
+ 
+
+E. Trachanas, A. Bignami, N. Gazis, B. Jones, R. Zeng
+                       ESS, Lund, Sweden
+G. Fikioris, E.N. Gazis, A. Kladas
+                       National Technical University of Athens, Zografou, Greece
+P. Hamel, O. Piquet
+                       CEA-IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+The Radio Frequency Quadrupole (RFQ) of the European Spallation Source (ESS), operates at 352.21 MHz with an RF pulse length of 3.2 ms and repetition rate of 14 Hz. The RFQ focuses, bunches and accelerates the 62.5 mA proton beam from 75 keV up to 3.6 MeV. In an effort to study and compare the results from 3D electromagnetic codes, different models of the RFQ were simulated with CST Studio suite. This paper presents the selection of optimal parameters for simulation of the RFQ cavity voltage and comparison of the results with the RFQ design code Toutatis.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS049
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 09 June 2022 — Accepted ※ 15 June 2022 — Issue date ※ 17 June 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS051
+Spin Matching for the EIC’s Electrons
+2369
+
+
+ 
+
+M.G. Signorelli
+                       Cornell University, Ithaca, New York, USA
+J.A. Crittendenpresenter, G.H. Hoffstaetter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+J. Kewisch
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+The Electron-Ion Collider (EIC) at Brookhaven National Laboratory will provide spin-polarized collisions of electron and protons or light ion beams. In order to maximize the electron polarization and require less frequent beam re-injections to restore the polarization level, the stochastic depolarizing effects of synchrotron radiation must be minimized via spin matching. In this study, Bmad was used to perform first order spin matching in the Electron Storage Ring (ESR) of the EIC. Spin matches were obtained for the rotator systems and for a vertical chicane, inserted as a vertical emittance creator. Monte Carlo spin tracking with radiation was then performed to analyze the effects of the spin matching on the polarization.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS051
+
+ 
+
+
+About •
+Received ※ 31 May 2022 — Revised ※ 13 June 2022 — Accepted ※ 13 June 2022 — Issue date ※ 05 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS052
+Impacts of an ATS Lattice on EIC Dynamic Aperture
+2373
+
+
+ 
+
+J.E. Unger, J.A. Crittendenpresenter, G.H. Hoffstaetter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+D. Marx
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+The Electron-Ion Collider (EIC) project at Brookhaven National Laboratory has explored strategies for increasing the energy aperture of the Electron Storage Ring (ESR) to meet the goal of 1\% for the 90 degree lattice at 18 GeV. Current strategies use a four sextupole family per arc correction scheme to increase the energy aperture and to keep the transverse aperture sufficiently large as well. A scheme called Achromatic Telescopic Squeezing (ATS), first introduced for the Large Hadron Collider, introduces a beta-beat into select arcs, allowing dynamic aperture optimizations with different sextupole strengths. The ATS scheme’s mix of some higher beta-function and some lower sextupole strengths in the arcs has the potential to increase the energy aperture. Basic chromatic corrections and numeric optimizations were used to compare the ATS optics to a non-ATS scheme. In all cases, the ATS scheme performed similarly or better than the more common schemes. However, this increase in energy aperture from the ATS optics also has negative effects, such as an increase in emittance which poses complications for the current ESR design.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS052
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 13 June 2022 — Accepted ※ 15 June 2022 — Issue date ※ 05 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS053
+Using Taylor Maps with Synchrotron Radiation Effects Included
+2376
+
+
+ 
+
+D. Sagan, G.H. Hoffstaetter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+P. Nishikawapresenter
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: DOE
+Routinely, particle tracking in accelerators is done either by tracking element-by-element which is slow, or by using a transfer map that does not take into account radiation effects. However, there is a fairly straight forward way for constructing Taylor maps that do have radiation effects included. This paper shows how, by partial map inversion, non-symplectic effects due to the finite truncation of the Taylor series can be eliminated. This enables tracking simulations to use maps of lower order than what would otherwise be necessary leading to a speedup of the simulation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS053
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 21 June 2022 — Accepted ※ 23 June 2022 — Issue date ※ 08 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS055
+Cathode Space Charge in Bmad
+2380
+
+
+ 
+
+N. Wang
+                       Cornell University, Ithaca, New York, USA
+J.A. Crittendenpresenter, C.M. Gulliford, G.H. Hoffstaetter, D. Sagan
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+C.E. Mayes
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This project was supported by Brookhaven Science Associates, LLC under Contract No. DE-SC0012704 with the U.S. Department of Energy.
+We present an implementation of charged particle tracking with the cathode space charge effect included which is now openly available in the Bmad toolkit for charged particle simulations. Adaptive step size control is incorporated to improve the computational efficiency. We demonstrate its capability with a simulation of a DC gun and compare it with the well-established space charge code Impact-T.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS055
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 13 June 2022 — Accepted ※ 16 June 2022 — Issue date ※ 05 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS056
+Spin Matching and Monte-Carlo Simulation of Radiative Spin Depolarization in e⁺e⁻ Storage Rings with Bmad
+2383
+
+
+ 
+
+O. Beznosov, J.A. Ellison, K.A. Heinemann
+                       UNM-MATH, Albuquerque, New Mexico, USA
+D.P. Barber
+                       DESY, Hamburg, Germany
+J.A. Crittendenpresenter, G.H. Hoffstaetter, D. Sagan
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of High Energy Physics, under Award Numbers DE-SC0018008 and DE-SC0018370.
+The Bmad/Tao software toolkit has been extended to estimate the rate of radiative spin depolarization in e+/e− storage rings. First estimates are made using the SLIM algorithm of linearized spin-orbit motion. The extension implements the effects on s-o motion of stochastic photon emission using a Monte-Carlo tracking algorithm. Spins are tracked in 3-D along particle trajectories with the aid of Taylor expansions of quaternions provided by PTC*. The efficiency of long-term tracking is guarantied by the use of a sectioning technique that was exploited in previous-generation software**. Sectioning is the construction of the deterministic s-o maps for sections between the dipoles during the initialization phase. Maps can be reused during the tracking. In a simulation for a realistic storage ring, the computational cost of initial map construction is amortized by the multi-turn tracking computational cost. The use of 1st-order terms in the quaternion expansions to construct the s-o coupling matrices in the matrices of the SLIM algorithm. These matrices are then available for an extension of the optimization facilities in Bmad to minimize depolarizing effects by spin matching.
+*SLICKTRACK and SITROS ** Polymorphic Tracking Code by Etienne Forest
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS056
+
+ 
+
+
+About •
+Received ※ 08 June 2022 — Revised ※ 16 June 2022 — Accepted ※ 17 June 2022 — Issue date ※ 08 July 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPOMS057
+Simulation Studies and Machine Learning Applications at the Coherent electron Cooling experiment at RHIC
+2387
+
+
+ 
+
+W. Lin, J.A. Crittendenpresenter, G.H. Hoffstaetter, M.A. Sampson
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+Y.C. Jing
+                       BNL, Upton, New York, USA
+K. Shih
+                       SBU, Stony Brook, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. National Science Foundation under Award PHY-1549132, and by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Coherent electron cooling is a novel cooling technique which cools high-energy hadron beams rapidly by amplifying the modulation induced by hadrons in electron bunches. The Coherent electron cooling (CeC) experiment at Brookhaven National Laboratory (BNL) is a proof-of-principle test facility to demonstrate this technique. To achieve efficient cooling performance, electron beams generated in the CeC need to meet strict quality standards. In this work, we first present sensitivity studies of the low energy beam transport (LEBT) section, in preparation for building a surrogate model of the LEBT line in the future. We also present preliminary test results of a machine learning (ML) algorithm developed to improve the efficiency of slice-emittance measurements in the CeC diagnostic line.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2022-WEPOMS057
+
+ 
+
+
+About •
+Received ※ 06 June 2022 — Accepted ※ 15 June 2022 — Issue date ※ 15 June 2022
+ 
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

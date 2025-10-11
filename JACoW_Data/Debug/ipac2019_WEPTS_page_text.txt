@@ -1,0 +1,4001 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2019 - Table of Session: WEPTS (Poster Session - Tiger Snake)
+
+
+WEPTS —  Poster Session - Tiger Snake   (22-May-19   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPTS002
+Study of a Proton Therapy Beamline for Eye Treatment with Beam Delivery Simulation (BDSIM) and an In-House Tracking Code
+3088
+
+
+ 
+
+E. Gnacadja, C. Hernalsteens, N. Pauly, R. Tessepresenter
+                       ULB - FSA - SMN, Bruxelles, Belgium
+S.T. Boogert, L.J. Nevay, W. Shields
+                       JAI, Egham, Surrey, United Kingdom
+
+ 
+
+
+ 
+
+The complete modelling of passive scattering proton therapy systems is challenging and requires simulation tools that have capabilities in both beam transport and in the detailed description of particle-matter interactions. Beam Delivery Simulation (BDSIM) allows the seamless simulation of the transport of particles in a beamline and its surrounding environment. A complete 3D model can be built from Geant4, CLHEP and ROOT to provide a complete analysis of the primary beam tracking. This capability is applied to the eye treatment proton therapy machine part of the IBA Proteus Plus product line. Those simulations are compared with a fast in-house particle tracking code with a semi-analytical model of Multiple Coulomb Scattering. The preliminary results leading to the detailed knowledge of the beamline performance are discussed in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS002
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS005
+Long Range Beam-Beam Tune Shifts & Wire Compensation
+3092
+
+
+ 
+
+S.R. Koscielniak
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+The weak-strong model subjects the test particle in the weak beam to transverse impulses from the strong beam, resulting in betatron tune shifts. We give analytic formulae for small amplitude and asymptotic shifts for three cases: short-range, long-range, and wire compensation; and optimize the latter to minimize the non-linear tune spreads.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS005
+
+ 
+
+
+About •
+paper received ※ 19 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS006
+Modelization of an Injector With Machine Learning
+3096
+
+
+ 
+
+M. Debongnie, M.A. Baylacpresenter, F. Bouly
+                       LPSC, Grenoble Cedex, France
+N. Chauvin, D. Uriot
+                       CEA-IRFU, Gif-sur-Yvette, France
+A. Gatera
+                       SCK•CEN, Mol, Belgium
+T. Junquera
+                       Accelerators and Cryogenic Systems, Orsay, France
+
+ 
+
+
+ 
+
+Modern particle accelerator projects, such as MYRRHA, have very high stability and/or reliability requirements. To meet those, it is necessary to optimize or develop new methods for the control systems. One of the difficulties lies in the relatively long computation time of current beam dynamics codes. In this context, the very low computation time of neural network is of great attraction. However, a neural network has to be trained in order to be of any use. The training of a beam dynamic predictor uses a large dataset (experimental or simulated) that represents the dynamics over the parameter space of interest. Therefore, choosing the right training dataset is crucial for the quality of the neural network predictions. In this work, a study on the sampling choice for the training data is performed to train a neural network to predict the transmission of a beam through a low energy beam transport line and a Radiofrequency Quadrupole. We show and discuss the results obtained on training data set to model the IPHI and MYRRHA injectors.
+https://myrrha.be/
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS006
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS007
+Short Bunch Experiment at EXALT Facility
+3100
+
+
+ 
+
+C. Bruni, J-N. Cayla, S. Chancé, V. Chaumat, N. Delerue, N. ElKamchi, P. Lepercq, H. Purwar
+                       LAL, Orsay, France
+E. Baynard, M. Pittman
+                       CLUPS, Orsay, France
+B. Lucas, O. Neveu
+                       CNRS LPGP Univ Paris Sud, Orsay, France
+T. Vinatier
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Nowdays, different applications required short bunches, with low energy spread and low emittances. On EXALT facility, we perform an experiment with a short (few100 femtosecond) laser pulse on a photocathode in a 3 GHz RF gun. We perform the measurement of the single photon emission process with a copper cathode. We show that the longitudinal photoinjector model via transfer matrix is suitable for the reconstruction of the bunch duration even in short pulse mode with an increased accurracy charge below 20 pC. We clearly measure the parabolic profile in the energy spectrum resulting from blow out phenomena at the cathode due to strong space charge forces. Measurements are also compared with the Astra simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS007
+
+ 
+
+
+About •
+paper received ※ 21 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS010
+Beam Dynamics Errors Studies for the IFMIF-DONES SRF-LINAC
+3103
+
+
+ 
+
+N. Chauvin, N. Bazin, J. Plouin
+                       CEA-DRF-IRFU, France
+S. Chel, L. Du
+                       CEA-IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+The goal of the IFMIF-DONES (International Fusion Materials Irradiation Facility-DEMO Oriented Neutron Source) project is to build an irradiation facility that will provide a sufficient neutron flux to study and characterize structure materials foreseen for future fusion power plant. In order to accelerate the required 125mA/40 MeV continuous deuteron beam from 5 MeV to 40 MeV, a superconducting radio-frequency (SRF) linac, housed in five cryomodules, is proposed. The design is based on two beta families (β=0.11 and β=0.17) of half-wave resonators (HWR) at 175MHz. The transverse focusing is achieved using one solenoid coil per focusing period. This paper presents the extensive multiparticle beam dynamics simulations that have been performed to adapt the beam along the SRF-linac in such a high space charge regime. As one of the constraints of the IFMIF linac is a low level of beam losses, specific optimizations have been done to minimize the beam occupancy in the line (halo). A Monte Carlo error analysis has also been carried out to study the effects of misalignments or field imperfections (static errors) and also vibrations or power supplies ripple (dynamic errors). The results of these errors studies are presented and discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS010
+
+ 
+
+
+About •
+paper received ※ 21 May 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS011
+Intra-Beam Scattering Effect in the SOLEIL Storage Ring Upgrade
+3106
+
+
+ 
+
+A. Vivoli, A. Bence, P. Brunelle, A. Gamelin, L. Hoummipresenter, A. Loulergue, L.S. Nadolski, R. Nagaoka, M.-A. Tordeux
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+As the work on the design of the upgrade of SOLEIL storage ring advances, the study of the impact of Intra-Beam Scattering (IBS) on the equilibrium emittance is also progressing, showing a significant contribution of this effect. Different measures can be taken to mitigate the emittance dilution, like operating the machine with full transverse coupling and using harmonic cavities to increase bunch length. The calculation of the IBS effect needs then to take into account the different beam dynamics and its effect on the particle distribution. In this paper the current state of the ongoing study is presented, reporting on the results obtained for the different options considered, and comparing the results of different codes and their implicit assumptions.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS011
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 18 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS012
+RF Design Studies of a 1.3 GHz Normal Conducting CW Buncher for European X-FEL
+3109
+
+
+ 
+
+S. Lal, Y. Chenpresenter, H.J. Qian, H. Shaker, G. Shu, F. Stephan
+                       DESY Zeuthen, Zeuthen, Germany
+V.V. Paramonov
+                       RAS/INR, Moscow, Russia
+
+ 
+
+
+ 
+
+A CW upgrade of European XFEL is under consideration, and CW electron injector is under R&D at DESY. One of the injector solutions is the LCLS-II like injector based on a normal conducting CW gun and buncher. RF design of a 1.3 GHz normal conducting buncher structure with accelerating voltage of ~ 400 kV, for such a CW injector is carried out at DESY Zeuthen site. The buncher structures with different geometrical shapes and numbers of cells are studied. The designs are optimized to have higher shunt impedance, higher mode separation and lower thermal power density for CW operation. Multipacting analysis and beam dynamics simulations are also presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS012
+
+ 
+
+
+About •
+paper received ※ 12 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS013
+The Cooling Effect of Beam Self-Fields on the Photocathode Surface in High Gradient RF Injectors
+3112
+
+
+ 
+
+Y. Chen, M. Krasilnikov, F. Stephan
+                       DESY Zeuthen, Zeuthen, Germany
+
+ 
+
+
+ 
+
+The intrinsic slice emittance of the emitted electrons on the photocathode surface at each moment during the transient photoemission process depends on the transverse size of the slice and the mean kinetic energy of the electrons within the slice. The latter relies on the surface barrier potentials of the cathode material at a fixed wavelength of the incident light, and is thus significantly influenced by the presence of strong rf and beam self-fields at / close to the cathode surface. This is, in particular, the case in high brightness injectors for modern free electron lasers. In this article, the beam self-fields are determined in a self-consistent approach, based on which improved transverse and temporal emission distributions are obtained. The nonlinear correlations of the intrinsic surface slice emittance within the bunch are shown for multiple bunch charges. A peak to peak variation of the intrinsic surface emittance is estimated as 30\% for the highest charge-density case considered in this paper. An overall reduction of the average intrinsic emittance is computed as 10\% accordingly. The cooling effect on the cathode surface is enhanced as the local space-charge density rises. Furthermore, the impacts of the cooling effect on downstream beam qualities are demonstrated through particle tracking simulations based on the injector setup at the Photo Injector Test Facility at DESY in Zeuthen (PITZ).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS013
+
+ 
+
+
+About •
+paper received ※ 27 April 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS014
+Coherent vs Incoherent Effects and Debye Length
+3116
+
+
+ 
+
+G. Franchetti
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+In this proceeding it is discussed the effect of coherent vs. incoherent effect and discussing the validity of frozen models of space charge according to the Debye length and beam radius. This in view of discussing the relation of IBS and space charge
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS014
+
+ 
+
+
+About •
+paper received ※ 15 April 2019       paper accepted ※ 28 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS015
+Synchronous Measurements of Electron Bunches Under the Influence of the Microbunching Instability
+3119
+
+
+ 
+
+M. Brosi, T. Boltzpresenter, E. Bründermann, S. Funkner, B. Kehrer, A.-S. Müller, M.J. Nasse, G. Niehues, M.M. Patil, P. Schreiber, P. Schönfeldt, J.L. Steinmann
+                       KIT, Karlsruhe, Germany
+
+ 
+
+
+ 
+
+Funding: This work has been supported by the German Federal Ministry of Education and Research (Grant No. 05K16VKA). We acknowledge the support by the Helmholtz International Research School for Teratronics.
+The microbunching instability is a longitudinal collective instability which occurs for short electron bunches in a storage ring above a certain threshold current. The instability leads to a charge modulation in the longitudinal phase space. The resulting substructures on the longitudinal bunch profile vary over time and lead to fluctuations in the emitted power of coherent synchrotron radiation (CSR). To study the underlying longitudinal dynamics on a turn-by-turn basis, the KIT storage ring KARA (Karlsruhe Research Accelerator) provides a wide variety of diagnostic systems. By synchronizing the single-shot electro-optical spectral decoding setup (longitudinal profile), the bunch-by-bunch THz detection systems (THz power) and the horizontal bunch size measurement setup (energy spread), three important properties of the bunch during this instability can be measured at every turn for long time scales. This allows a deep insight into the dynamics of the bunch under the influence of the microbunching instability. This contribution will discuss effects like the connection between the emitted CSR power and the deformations in the longitudinal bunch profile on the time scale of the instability.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS015
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 20 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS016
+Longitudinal Beam Manipulation by RF Phase Modulation at the Karlsruhe Research Accelerator
+3123
+
+
+ 
+
+A. Mochihashi, E. Blomley, T. Boltzpresenter, E. Huttel, B. Kehrer, A.-S. Müller, M. Schuh
+                       KIT, Karlsruhe, Germany
+D. Teytelman
+                       Dimtel, San Jose, USA
+
+ 
+
+
+ 
+
+At the storage ring KARA (Karlsruhe Research Accelerator) of the Karlsruhe Institute of Technology (KIT) we have installed a function for the RF phase modulation to the low-level RF system. By choosing proper conditions of the modulation, the electron distribution on the longitudinal phase space can be changed in a large range. There are several applications of this longitudinal manipulation to the accelerator operation: an improvement of the beam lifetime and suppression of collective instabilities. We have performed tracking simulations for the longitudinal beam manipulation by the RF phase modulation. The results have implied that the longitudinal phase space distribution strongly depends on the modulation frequency. We have also performed experiments, which aimed at improving the beam lifetime in 2.5 GeV KARA multi-bunch operations. In this contribution, the low-level RF system at KARA, the simulation and experimental results under the RF phase modulation will be presented. As one of the options of the modulation, we consider manipulation of the internal fine structure in the longitudinal phase space by the modulation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS016
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS017
+Synchrotron Radiation Module in OCELOT Toolkit
+3127
+
+
+ 
+
+S. Tomin, G. Geloni
+                       EuXFEL, Hamburg, Germany
+
+ 
+
+
+ 
+
+Synchrotron radiation (SR) sources based on single-pass accelerators (e.g. linacs, plasma accelerators) have to cope with electron beams with a rather complicated phase space distribution. In this case, the convolution method usually employed to calculate radiation properties can give poor accuracy or be not applicable at all. Moreover, dynamical effects can also play a role in the emission mechanism. This happens when the beam parameters (e.g. beam current) significantly change during the passage through the undulator. In this work, we present a dedicated SR module of the OCELOT toolkit, which is well suited to deal with these situations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS017
+
+ 
+
+
+About •
+paper received ※ 13 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS018
+Experimental Observation of Low-Order Collective Oscillation Modes in a Strong-Focusing Lattice
+3130
+
+
+ 
+
+K. Ito, H. Higaki, H. Okamoto
+                       HU/AdSM, Higashi-Hiroshima, Japan
+T. Kurauchi
+                       Hiroshima University, Faculty of Science, Higashi-Hirosima, Japan
+
+ 
+
+
+ 
+
+In a conventional linear Paul trap (LPT), four electrode rods are placed symmetrically around the trap axis to generate a radio-frequency quadrupole field for transverse ion confinement. The periodic nature of the external focusing potential can give rise to serious ion losses under a specific condition. The loss mechanism is essentially the same as the coherent betatron resonance well-known in intense beam dynamics[*,**]. In fact, the collective motion of an ion plasma in the LPT is shown equivalent to that of a charged-particle beam traveling through an alternating-gradient focusing lattice. In the present study, we perform the direct measurement of low-order coherent oscillation modes in the LPT by detecting image currents induced on the electrodes’ surfaces. The four-rod structure of the LPT allows us to pick up feeble signals of the dipole and quadrupole oscillations of a plasma bunch. These signals are Fourier analyzed to evaluate the coherent oscillation tune at different initial ion densities. The time evolution of the coherent motion is also discussed in this paper.
+* K. Moriya et al., Phys. Rev. Accel. Beams Vol.19, 114201 (2016). ** K. Ito et al., Phys. Rev. Accel. Beams Vol. 20, 064201 (2017).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS018
+
+ 
+
+
+About •
+paper received ※ 26 April 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS019
+Accumulating Laser-Coolable Ions in a Linear Paul Trap for Ultrahigh-Density Beam Dynamics Experiment
+3134
+
+
+ 
+
+K. Ito, H. Higaki, T. Masuda, H. Okamoto
+                       HU/AdSM, Higashi-Hiroshima, Japan
+
+ 
+
+
+ 
+
+An ion plasma confined in a linear Paul trap (LPT) exhibits the dynamic behavior physically equivalent to that of a charged-particle beam in an alternating-gradient transport channel. The Simulator of Particle Orbit Dynamics (S-POD) is a compact apparatus designed on the basis of this fact for diverse beam-physics experiments. We have so far employed Ar+ ions that can readily be produced from neutral Ar gas atoms through the electron bombardment process. A space-charge-induced tune shift of up to about 20% of the bare tune can be achieved in Ar+ plasmas [*]. We are now preparing for future S-POD experiment to explore even higher beam-density regions. For this purpose, a large number of Ca+ ions need to be stored in the LPT. Since S-POD is equipped with a powerful laser cooler for Ca+, the use of this ion species vastly expands the density range we can survey. The production of an intense bunch of Ca+ ions is, however, not so easy because of some technical reasons. By optimizing the operating condition of a multi-sectioned LPT, we succeeded in increasing the number of accumulated Ca+ ions to the level comparable to Ar+ ion plasmas. This paper reports on updated results of the experiment.
+* K. Ito et al., Phys. Rev. Accel. Beams Vol. 20, 064201 (2017). 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS019
+
+ 
+
+
+About •
+paper received ※ 26 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS020
+Development of 6D Particle Tracking Code for Particle Therapy System
+3138
+
+
+ 
+
+Y. Nakashima, K. Miyata
+                       Hitachi Ltd., Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+For achieving required specifications of a particle therapy system such as beam profile and beam current, it is important to tune system operation parameters to appropriate values before commissioning. We are developing 6d particle tracking code to analyze whole the through beam motion in a synchrotron from multiturn injection to the RF-knock out extraction for the precise tuning. The code includes effects of multipole magnetic fields and space charge effect. We report on the implementation of the code and discuss about the simulation results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS020
+
+ 
+
+
+About •
+paper received ※ 13 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS022
+Stability Tune Diagram of a High-Intensity Hadron Ring
+3141
+
+
+ 
+
+H. Okamoto, K. Kojima, Y. Tokashiki
+                       HU/AdSM, Higashi-Hiroshima, Japan
+
+ 
+
+
+ 
+
+To date, the optimum operating point of a high-intensity hadron ring has been determined on the basis of the conventional incoherent picture. It is generally chosen on the tune diagram such that the so-called "incoherent tune spread" of a stored beam does not overlap with low-order "single-particle resonance" lines. We here propose a new approach to construct the stability tune diagram on the basis of the self-consistent coherent picture. The betatron resonance condition recently conjectured from one-dimensional Vlasov predictions is employed for this purpose, which predicts the existence of twice as many resonance stop bands as expected from the well-known incoherent resonance condition at high beam density *,**. The proposed general rules for the stability-chart construction are very simple and free from any model-dependent unobservables like space-charge-depressed incoherent tunes. As an example, we apply the present rules to the lattice of the rapid cycling synchrotron at J-PARC and explain why the operating bare tunes of this machine have been chosen slightly below 6.5 in both transverse directions.
+* K. Ito et al., Phys. Rev. Accel. Beams 20, 064201 (2017).  ** H. Okamoto and K. Yokoya, Nucl. Instrum. Meth. A 482, 51 (2002). 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS022
+
+ 
+
+
+About •
+paper received ※ 09 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS023
+Hamiltonian Formalism of Intense Beams in Drift-Tube Linear Accelerators
+3145
+
+
+ 
+
+H. Okamoto
+                       HU/AdSM, Higashi-Hiroshima, Japan
+
+ 
+
+
+ 
+
+Starting from the principle of least action, we construct a general Hamiltonian formalism for beam dynamics in drift-tube linear accelerators (DTLs). The Alvarez-type structure is considered here as an example, but the present theory can readily be extended to other types of conventional linacs. The three-dimensional Hamiltonian derived includes the third-order chromatic term as well as the effects from acceleration and space charge. A clear dynamical analogy between the DTL system and compact Paul ion-trap system is pointed out, which indicates that we can conduct a fundamental design study of high-intensity hadron linacs experimentally in a local tabletop environment instead of relying on large-scale machines.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS023
+
+ 
+
+
+About •
+paper received ※ 09 May 2019       paper accepted ※ 20 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS024
+Tune Shifts and Optics Modulations in the High Intensity Operation at J-PARC MR
+3148
+
+
+SUSPFO051
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+T.Y. Yasui
+                       The University of Tokyo, Graduate School of Science, Tokyo, Japan
+S. Igarashi, T. Koseki, K. Ohmi, Y. Sato, K. Satou
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: This study is supported by the MEXT program "Advanced Leading Graduate Course for Photon Science (ALPS)"
+J-PARC Main Ring (MR) is the intensity-frontier proton accelerator. The beam intensity of 2.6×1014 protons per pulse has been achieved for the current user operation. In this high-intensity operation, the tune spread caused by the space-charge is one of the main reasons for beam loss. The modulation of the betatron function and the tune shift were simulated with a PIC algorithm calculation code*. The simulation results showed that the space-charge effects were dominant in small particle action, and the sextupole fields effects were dominant in large particle action. Because sextupole strength is large in MR, sextupole fields induce substantial tune shifts. At the benchmark of the space-charge simulation, the simulation results matched the analytical space-charge calculations performed without sextupoles. It was found that the betatron function was modulated at most 6% by the space-charge effects and at most 8% by the effects of sextupoles in J-PARC MR. These effects to the injection beam optics matching and to the beam aperture will be investigated.
+* K. Ohmi et al., "Study of Halo Formation in J-PARC MR", Proceedings of the 22nd Particle Accelerator Conf. (PAC’07), Albuquerque, NM, USA, Jun. 2007, paper THPAN040, pp. 3318-3320.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS024
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS025
+MiniScatter, a Simple Geant4 Wrapper
+3152
+
+
+ 
+
+K.N. Sjobak, H. Holmestad
+                       University of Oslo, Oslo, Norway
+
+ 
+
+
+ 
+
+Funding: Research Council of Norway, project 255196
+In order to estimate what happens to particle beams when they hit windows, gas, and various other targets, a simple tool has been developed based on Geant4. This tool wraps geometry setup, primary beam generation from Twiss parameters, visualization, and automatic analysis and plots in a simple-to-use command-line tool. Furthermore, a Jupyter-friendly Python interface for running simulations and parallelized parameter scans is included. The code, its interface, and a few selected examples will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS025
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS026
+Generalised Scattering Module in SixTrack 5
+3156
+
+
+ 
+
+K.N. Sjobak
+                       University of Oslo, Oslo, Norway
+H. Burkhardt, R. De Maria, V.K.B. Olsen
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Research Council of Norway, project 255196, and HL-LHC WP8
+A generalised scattering module has recently been added to SixTrack. This module enables the use of arbitrary generators and target profiles. Presently, a simple model of elastic scattering and a coupling to Pythia8 have been implemented. This makes it possible to use SixTrack for studies of aperture losses and beam lifetime as a result of beam–beam scattering.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS026
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS028
+Transverse-Longitudinal Coupling for Harmonic Generation and Bunch Length Manipulation
+3160
+
+
+SUSPFO055
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+X.J. Deng, W.-H. Huang, C.-X. Tang, Y. Zhang
+                       TUB, Beijing, People’s Republic of China
+A. Chao
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+A general harmonic generation and bunch length manipulation scheme using transverse-longitudinal coupling is presented. The method makes use of the freedom in projecting the three beam eigen-emittances into different physical dimensions. A realization of this coupling lattice, a PEHG variant, is given as an example. For the purpose of harmonic generation and bunch compression, this method is advantageous when the transverse emittance is small. The combination with sawtooth waveform modulation is proposed to boost the bunching further. Transverse-longitudinal coupling in storage rings are briefly discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS028
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 20 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS029
+The Synchronization between BPMs and Corrector Power Supplies in AC Mode of RCS of CSNS
+3164
+
+
+ 
+
+M.T. Li
+                       IHEP CSNS, Guangdong Province, People’s Republic of China
+Y.W. An, S. Wang, S.Y. Xupresenter
+                       IHEP, Beijing, People’s Republic of China
+S.Y. Xupresenter
+                       DNSC, Dongguan, People’s Republic of China
+
+ 
+
+
+ 
+
+This paper introduces our effort for synchronizing BPMs and Corrector Power Supplies in AC mode of RCS of CSNS. This work helps to increase the accuracy of the response matrix measurement, the obit correction, and other commissioning task.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS029
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS031
+The Beam Dynamics Design of the Proton Synchrotron Linear Injector for Proton Therapy
+3167
+
+
+SUSPFO067
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+J. Qiao, Y.H. Pu, X.C. Xie
+                       SINAP, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+A compact room-temperature injector is designed to accelerate 20 mA proton beam from 30 keV to 7.0 MeV for the purpose of Proton Synchrotron Linear Injector for Proton Therapy. The main feature of this linac injector is that the 4-vane Radio Frequency Quadrupole (RFQ) and the Drift Tube Linac (DTL) section are matched by one triplet and powered by one RF power source. The beam is matched from the first RFQ section to the second DTL section in traverse and longitudinal directions. The overall accelerating gradient of this design has reached up to 1.6 MV/m with transmission efficiency of 96%.This injector combines a 3 m long 4-vane RFQ from 30 keV to 3.0 MeV with a 0.8 m long H-type DTL section to 7.0 MeV. In general, the design meets the requirements of the Pro-ton Synchrotron and the Terminal treatment.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS031
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS033
+A High-performance Code for Beam Dynamics Simulation of Synchrotrons
+3170
+
+
+ 
+
+H.J. Yao, X. Guan, G.R. Li, P.F. Mapresenter, X.W. Wang, Q. Zhang, S.X. Zheng
+                       TUB, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+This paper introduces a high-performance code Li-track for beam dynamics simulation of synchrotrons. It is a parallel multi-particle tracking program written entirely in C++ and therefore has a high computational speed. The overall design of Li-track is based on object-oriented mode, and the implemented element model can be easily reused to build different synchrotron lattice. The symplectic integral algorithm is used to ensure there are no physical errors in a long-term simulation. This code has been used for the slow extraction simulation of XiPAF synchrotron and the results will be given in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS033
+
+ 
+
+
+About •
+paper received ※ 30 April 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS034
+Generation of Sub-Femtosecond Electron Beams and Electron Bunch Trains With High Form Factor Using Wake Field Structures
+3174
+
+
+ 
+
+Z. Dong, H. Chen, X.J. Deng, Y.C. Du, Z. Zhoupresenter
+                       TUB, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+In this paper, we propose two beam manipulation methods with wakefield structures in a photo-injector. First, we propose a simple scheme to compensate non-linear effects during ballistic bunching by using a wakefield structure. Simulations have shown beams of 1 pC charge can be compressed to 1.56 fs rms, and even shorter beams (a few hundred attoseconds) can be obtained with bunch charge well below 1 pC. In the second part, a method of producing bunch trains with high form factor is proposed by using multiple wake-field structures. Simulation results have shown the production of a train with a form factor of 0.5 using a 1 nC beam at few-MeV energy.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS034
+
+ 
+
+
+About •
+paper received ※ 11 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS037
+DC Beam Space-Charge Modeling for OpenXAL
+3177
+
+
+SUSPFO092
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+B.E. Bolling, N. Milas
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+OpenXAL is an open source multi-purpose accelerator physics software platform based on a pure Java open source development environment used for creating accelerator physics applications, scripts and services. Currently, the software has been used with an ellipsoidal (bunched) beam to account for space-charge effects. Applications developed so far for ESS, such as the Virtual Machine for the ESS Low Energy Beam Transport (LEBT) section, would profit from a DC beam description. In this paper, the space-charge component for a continuous beam is derived taking into account beams with different transverse charge distributions (uniform, gaussian, etc). The implementation in OpenXAL and a comparison with other simulation codes is also presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS037
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 20 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS038
+New RFQ and Field Map Model for the ESS Linac Simulator
+3181
+
+
+ 
+
+J.F. Esteban Müller, E. Laface
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+The Java ESS Linac Simulator (JELS) is an extension of the Open XAL online model that is a fundamental part of the accelerator control system. The model is used by high-level physics applications for commissioning, tuning, and machine development activities at the European Spallation Source (ESS). This paper summarizes the upgrades done to JELS during the last year. An RFQ model is under development. The RFQ was the only element of the linac missing in the online model. The electromagnetic field map model has been refactored to ease implementation of new elements (rf cavities and magnets), and to allow the superposition of more than one field map and other elements. Further improvements have also been done in the treatment of corrector magnets and space charge for continuous beam in the Low-Energy Beam Transport (LEBT). Finally, the machine description can now include arbitrary aperture definitions.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS038
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS039
+Momentum Slip-Stacking in CERN SPS for the Ion Beams
+3184
+
+
+ 
+
+T. Argyropoulos, T. Bohl, A. Lasheen, G. Papotti, D. Quartullo, E.N. Shaposhnikova
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHC Injectors Upgrade (LIU) project at CERN aims at doubling the total intensity of the lead ion beam for the High-Luminosity (HL) LHC. Achieving this goal requires using momentum slip-stacking in the SPS, the LHC injector. Slip-stacking will be applied on an intermediate energy plateau to interleave two batches, reducing the bunch spacing from 100 ns to 50 ns and thus increasing the total number of bunches injected into the LHC. Realistic macro-particle simulations, with the present SPS impedance model are used to study and design this complicated beam manipulation. Slip-stacking can be tested experimentally only after the upgrade of the SPS 200 MHz RF system, in 2021. Preliminary, slip-stacking related beam measurements were performed at the end of 2018. In this paper both macro-particle simulations and beam measurements are reported with emphasis given on optimisation of the process, crucial to achieve the required HL-LHC parameters (bunch lengths, beam losses).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS039
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS040
+Energy Dependence of the Reproducibility and Injection Efficiency of the LINAC3-LEIR Complex
+3188
+
+
+ 
+
+S. Hirlaender
+                       ATI, Vienna, Austria
+H. Bartosikpresenter, G. Bellodi, N. Biancacci, V. Kain, Á. Saá Hernández, R. Scrivens
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+High intensities in the CERN Low Energy Ion Ring (LEIR) are achieved by stacking several multi-turn injections from the pre-accelerator LINAC3. Up to seven consecutive 200 μs long, 200 ms spaced pulses are injected from LINAC3 into LEIR. An inclined septum magnet combined with a collapsing horizontal orbit bump allows a 6-D phase space painting via a linearly ramped mean momentum along with the LINAC3 pulse and injection at high dispersion. The injected energy distribution measured by the LEIR longitudinal Schottky is correlated with the obtained injection efficiency in this paper. Studies in 2018 revealed that the achievable accumulated intensity of LEIR strongly depends on the longitudinal distribution from LINAC3, which does not stay constant. This paper summarises the experimental results and means to further improve reproducibility and high injection efficiency.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS040
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS041
+Coupling and Space Charge Studies at the CERN PSB
+3192
+
+
+ 
+
+F. Asvesta
+                       NTUA, Athens, Greece
+F. Antoniou, H. Bartosikpresenter, G.P. Di Giovanni, Y. Papaphilippou
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+In the nominal optics of the CERN PS-Booster (PSB), the fourth order coupling resonance is excited by space charge (Montague resonance) due to the same integer tune values. This resonance can be avoided by changing the tunes to different integers. A new PSB optics is presented and emittance measurements crossing the coupling resonance for the nominal and the new optics are shown.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS041
+
+ 
+
+
+About •
+paper received ※ 17 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS042
+Detailed Characterisation of the LEIR Intensity Limitations for a Pb Ion Beam
+3196
+
+
+ 
+
+Á. Saá Hernández, H. Bartosikpresenter, N. Biancacci, S. Hirlaender, D. Moreno Garcia, M. Zampetakis
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The equilibrium emittance of the Pb beam in the CERN Low Energy Ion Ring (LEIR) results from the interplay of electron cooling and heating processes, as intra-beam scattering and space charge. In this paper we present the measurements of the emittance evolution as a function of intensity, working point and resonance excitation, and compare them with the simulations of the heating processes. Optimum settings for normal and skew sextupoles have been found for the compensation of resonances excited by the lattice.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS042
+
+ 
+
+
+About •
+paper received ※ 18 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS043
+SixTrack Version 5: Status and New Developments
+3200
+
+
+ 
+
+R. De Maria, J. Andersson, L. Field, M. Giovannozzi, P.D. Hermes, N. Hoimyr, G. Iadarola, S. Kostoglou, E.H. Maclean, E. McIntosh, A. Mereghetti, J. Molson, V.K.B. Olsen, D. Pellegrini, T. Persson, M. Schwinzerl
+                       CERN, Geneva, Switzerland
+B. Dalena, T. Pugnat
+                       CEA-IRFU, Gif-sur-Yvette, France
+K.N. Sjobak
+                       University of Oslo, Oslo, Norway
+I. Zacharov
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+SixTrack Version 5 is a major SixTrack release that introduces new features, with improved integration of the existing ones, and extensive code restructuring. New features include dynamic-memory management, scattering-routine integration, a new initial-condition module, and reviewed post-processing methods. Existing features like on-line aperture checking and Fluka-coupling are now enabled by default. Extensive performance regression tests have been developed and deployed as part of the new-release generation. The new features of the tracking environment developed for the massive numerical simulations will be discussed as well.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS043
+
+ 
+
+
+About •
+paper received ※ 17 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS044
+Instability Latency in the LHC
+3204
+
+
+ 
+
+S.V. Furuseth, D. Amorim, S.A. Antipov, X. Buffat, N. Mounet, E. Métral, B. Salvant
+                       CERN, Geneva, Switzerland
+S.V. Furuseth, T. Pieloni, C. Tambasco
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+The Large Hadron Collider (LHC) has experienced multiple instabilities that occur between minutes and hours after the last modification of the machine settings. The existence of instabilities with high latency has been reproduced also in simulations. Dedicated experiments, injecting a controlled noise into the beam, have now been performed to discover the dependence of this latency on key parameters. The results seem compatible with a mechanism linked to a steady and slow modification of the transverse beam distribution leading to a loss of Landau damping.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS044
+
+ 
+
+
+About •
+paper received ※ 30 April 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS045
+High-Performance Scheduling of Multi-Beam Multi-Bunch Simulations
+3208
+
+
+ 
+
+S.V. Furuseth, X. Buffat
+                       CERN, Geneva, Switzerland
+S.V. Furuseth
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+Coherent multi-bunch interactions through beam-beam forces or wake fields can cause severe impacts on the beams in circular colliders, if not well understood and countered for. COMBI is a parallel multiparticle tracking code developed to study such interactions. Its implementation greatly limits its efficiency when considering realistic configurations featuring effects with different computational requirements, such as the multi-bunch interaction through wake fields, beam-beam interactions, transverse feedback and lattice non-linearities. A new parallel scheduling method, pipelining the effects for each bunch, has greatly sped up the code. The new version of the code, COMBIp, is presented here.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS045
+
+ 
+
+
+About •
+paper received ※ 06 May 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS046
+Monitoring and Modelling of the LHC Emittance and Luminosity Evolution in 2018
+3212
+
+
+ 
+
+S. Papadopoulou, F. Antoniou, I. Efthymiopoulos, M. Hostettler, G. Iadarola, N. Karastathis, S. Kostoglou, Y. Papaphilippoupresenter, G. Trad
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Operating at 6.5 TeV, the LHC surpassed the expectations and delivered an average of 66 fb−1 integrated luminosity to the two high luminosity experiments ATLAS and CMS by the end of 2018. In order to provide a continuous feedback to the machine coordination for further optimizing the performance, an automated tool for monitoring the main beam parameters and machine configurations, has been devised and extensively used. New features like the coupling between the two planes and effects of noise, were added to the numerical model used since 2016 to calculate the machine luminosity. Estimates, based both on simulations and on observed beam parameters, were reported fill-by-fill as well as in overall trends during the year. Highlights of the observations including the observed additional emittance blow up (on top of IBS, SR and elastic scattering) as well as additional losses (on top of the expected proton burn off) are presented for the 2018 data. Finally, cumulated integrated luminosity projections from the model for the entire 2018 data based on different degradation mechanisms are compared also with respect to the achieved luminosity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS046
+
+ 
+
+
+About •
+paper received ※ 17 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS047
+Space Charge Driven Resonances in the CERN PS
+3216
+
+
+ 
+
+F. Asvesta
+                       NTUA, Athens, Greece
+H. Bartosik, A. Huschauer, Y. Papaphilippoupresenter
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In the CERN Proton Synchrotron space charge driven resonances are excited around the operational working point due to the periodicity of the optics functions. In this paper, the resonances are studied using analytical methods, i.e. the evaluation of the resonance driving terms connected to the space charge potential of Gaussian distributions. Furthermore, the resonances are characterized in measurements and simulations for various beams. The beams considered are different in terms of brightness, in order to study the dependence of the resonance strength on the space charge force.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS047
+
+ 
+
+
+About •
+paper received ※ 17 April 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS048
+Electron Beam Dynamics Simulation for Electron Lenses
+3220
+
+
+ 
+
+S. Sadovich, A. Rossi
+                       CERN, Meyrin, Switzerland
+G. Stancari
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+A test stand is under construction at CERN to study high perveance electron guns, electron beam dynamics, and electron beam diagnostics for electron lenses. It will be used to test electron guns for the Hollow Electron Lenses under consideration for beam halo control for High Luminosity LHC (CERN), and for the Space Charge Compensation at SIS18 (GSI) in the frame of the EU funded ARIES project. In order to prepare for this test stand, simulations will be presented and compared with experiments undertaken at the Fermilab (FNAL) electron lens test stand. These were conducted using a hollow electron gun, with the magnetic field configuration and beam current varied to study their effect. The impact of imperfections on the beam dynamics and overall quality of the electron beam will be discussed. A method for comparing experimental data with simulation is also presented to allow bench-marking of the computer models and simulation tools that will later be applied to the analysis of measurements performed at CERN.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS048
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS049
+Flat-Bottom Instabilities in the CERN SPS
+3224
+
+
+ 
+
+M. Schwarz, K. Iliakis, A. Lasheen, G. Papotti, J. Repond, E.N. Shaposhnikova, H. Timko
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+At beam intensities of 2.6·1011 protons per bunch, required at SPS injection for the High Luminosity LHC beam, longitudinal instabilities can degrade the beam quality delivered by the SPS, the LHC injector at CERN. In this paper, we concentrate on beam instability at flat bottom. The dependence of the instability threshold on longitudinal emittance and LLRF system settings was measured, to help identify the impedance driving this instability. While reducing the longitudinal emittance reduces the losses at injection, it can drive the beam unstable. The LLRF system of the SPS (partially) compensates beam loading, but also affects the instability. The effect of the different LLRF systems (feedback, feedforward, phase loop and longitudinal damper) and fourth harmonic RF system on the instability was investigated. The measurements are compared with simulations performed with the longitudinal tracking code BLonD.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS049
+
+ 
+
+
+About •
+paper received ※ 10 May 2019       paper accepted ※ 19 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS050
+Multi-Species Electron-Ion Simulations and their Application to the LHC
+3228
+
+
+ 
+
+L. Mether, G. Iadarola, K.L. Poland, G. Rumolo, G. Skripkapresenter
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+During operation in 2017 and 2018, the LHC suffered from recurrent beam aborts associated with beam losses in one of its arc cells in correlation with quickly developing transverse coherent oscillations. The events are thought to have been caused by a localised high gas density resulting from the phase transition of a macro-particle that has entered the beam. In order to model the observed coherent effects through the interaction of the beam with the induced pressure bump, novel modelling capabilities have been implemented that allow for the simulation of multiple clouds of different particle species and their interaction with the beam. In this contribution the simulation model and its application are described.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS050
+
+ 
+
+
+About •
+paper received ※ 13 May 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS051
+Comparison of Electron Cloud Build-Up Simulations Against Heat Load Measurements for the LHC Arcs With Different Beam Configurations
+3232
+
+
+ 
+
+G. Skripka, G. Iadarola, L. Mether, G. Rumolo, E.G.T. Wulff
+                       CERN, Meyrin, Switzerland
+P. Dijkstal
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Electron cloud effects are among the main performance limitations for the operation of the Large Hadron Collider (LHC) with 25 ns bunch spacing. A large number of electrons impacting on the beam screens of the cold magnets induces significant heat load, reaching values close to the full cooling capacity available from the cryogenic system. Interestingly, it is observed that parts of the machine that are by design identical show very different heat loads. We used numerical simulations to investigate the possibility that these differences are induced by different surface properties, in particular maximum Secondary Electron Yield (SEY) for the different cryomagnets. Using the PyECLOUD code, the electron cloud build-up was simulated assuming different values of SEY in the LHC cold magnets. Comparing the measured heat loads to the simulation results for the 25 ns beams at 450 GeV we have identified the SEY values that match the observations in these conditions. These SEY values were found to be in good agreement with the heat loads measured with different beam configurations (changing the bunch pattern, the bunch intensity and the beam energy).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS051
+
+ 
+
+
+About •
+paper received ※ 13 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS052
+Electron Cloud Build-Up Simulations in the Two-Beam Common Chamber of the HL-LHC TDIS With Nonuniform Surface Properties
+3236
+
+
+ 
+
+G. Skripka, C. Bracco, G. Iadarola, A. Perillo-Marcone
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The segmented injection protection absorber (TDIS) foreseen for the High-Luminosity Large Hadron Collider (HL-LHC) project is designed to protect the machine in case of injection kicker malfunctioning. Since the current LHC injection protection absorber has suffered from vacuum issues possibly induced by electron multipacting, numerical studies were done to estimate the electron flux expected on the internal surfaces of the TDIS. This device will consist of three pairs of movable absorbing blocks above and below one beam and a beam screen surrounding the second circulating beam. The build-up of electron cloud in the TDIS was simulated accounting for the presence of two counter-rotating beams, for the configuration of the jaws and for the different materials used for the different surfaces in the device. The simulation studies have also investigated the possibility of coating the most critical surfaces with amorphous carbon in order to mitigate the multipacting.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS052
+
+ 
+
+
+About •
+paper received ※ 13 May 2019       paper accepted ※ 20 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS053
+Frequency Map Measurements at the TPS
+3240
+
+
+ 
+
+C.H. Chen, B.Y. Chen, J.Y. Chen, M.-S. Chiu, P.J. Chou, T.W. Hsu, B.Y. Huang, C.-C. Kuo, W.Y. Lin, Y.-C. Liu, H.-J. Tsai, F.H. Tseng
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Taiwan Photon Source (TPS) has been operated for several years since it’s first light in December 2014. TPS has achieved reliable routine operation at 500 mA with more than 10 hrs beam lifetime. The dynamic aperture measurements and associated Frequency Map Analyses (FMA) at TPS reveal the beam dynamics behavior with and without insertion devices. A preliminary measurement study by using the turn-by-turn BPMs and comparison with the model simulation results will be presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS053
+
+ 
+
+
+About •
+paper received ※ 30 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS054
+Pyg4ometry : A Tool to Create Geometries for Geant4, BDSIM, G4Beamline and FLUKA for Particle Loss and Energy Deposit Studies
+3244
+
+
+ 
+
+S.T. Boogert, A. Abramovpresenter, J. Albrecht, G. D’Alessandro, L.J. Nevay, W. Shields, S.D. Walker
+                       JAI, Egham, Surrey, United Kingdom
+
+ 
+
+
+ 
+
+Studying the energy deposits in accelerator components, mechanical supports, services, ancillary equipment and shielding requires a detailed computer readable description of the component geometry. The creation of geometries is a significant bottleneck in producing complete simulation models and reducing the effort required will provide the ability of non-experts to simulate the effects of beam losses on realistic accelerators. The paper describes a flexible and easy to use Python package to create geometries usable by either Geant4 (and so BDSIM or G4Beamline) or FLUKA either from scratch or by conversion from common engineering formats, such as STEP or IGES created by industry standard CAD/CAM packages. The conversion requires an intermediate conversion to STL or similar triangular or tetrahedral tessellation description. A key capability of pyg4ometry is to mix GDML/STEP/STL geometries and visualisation of the resulting geometry and determine if there are any geometric overlaps. An example conversion of a complex geometry used in Geant4/BDSIM is presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS054
+
+ 
+
+
+About •
+paper received ※ 19 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS055
+Energy Modulation of Electron Beam in Corrugated Dielectric Waveguide
+3248
+
+
+ 
+
+A. Lyapin, S.T. Boogert, S.M. Gibsonpresenter, K. Lekomtsev
+                       JAI, Egham, Surrey, United Kingdom
+A. Aryshev, N. Terunuma, J. Urakawa
+                       KEK, Ibaraki, Japan
+A.A. Tishchenko
+                       MEPhI, Moscow, Russia
+A.A. Tishchenko
+                       NRC, Moscow, Russia
+
+ 
+
+
+ 
+
+Energy modulated electron beams have a wide range of applications in accelerator physics, for example they can serve as drivers in resonant wakefield acceleration schemes. A strong wakefield induced energy modulation can be produced using a dielectric lined waveguide, the resultant micro-bunched beam is capable of producing coherent terahertz radiation *. We report on observation of energy modulation due to self-wakefields in a few picosecond duration and ~1 nC charge electron bunches of LUCX facility at KEK. To produce the modulation, we used a corrugated dielectric waveguide with an inner radius of 2 mm and a period of corrugation of 10 mm. In this case, the period of corrugation is longer than the wavelength of the main accelerating mode. We show electromagnetic simulations of on-axis electric fields leading to an optimisation of the corrugation period allowing to enhance the accelerating/decelerating fields compared to dielectric lined waveguides with a constant inner radius.
+* S. Antipov et al., Experimental observation of energy modulation in electron beams passing though terahertz dielectric wakefield structures, PRL 108, 144801 (2012).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS055
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS056
+Can a Paul Ion Trap Be Used to Investigate Nonlinear Quasi-Integrable Optics?
+3251
+
+
+SUSPFO117
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+L. Martin, S.L. Sheehy
+                       JAI, Oxford, United Kingdom
+D.J. Kelliher
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+Here we describe the design of an experimental setup using the IBEX Paul trap to test nonlinear quasi-integrable optics, an accelerator lattice design to create stable high intensity beams. In 2010 Danilov and Nagaitsev found a realisable nonlinear potential which can create integrable optics in an accelerator when embedded in a linear lattice that provides round beams. This concept will be tested in the IOTA ring at Fermilab. It is important to further test this concept over a wide parameter range, preferably in a simplified experimental setup such as IBEX. The IBEX Paul trap is capable of replicating the transverse dynamics of a high intensity accelerator without dispersion or chromaticity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS056
+
+ 
+
+
+About •
+paper received ※ 30 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS057
+Recent Studies of the Resonances at a Cell Tune of 0.25 Using the Ibex Paul Trap
+3255
+
+
+ 
+
+L. Martin, S.L. Sheehy
+                       JAI, Oxford, United Kingdom
+D.J. Kelliher
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+We use the IBEX linear Paul trap to study the resonance at a cell tune of \frac{1}{4} with both equal and unequal transverse tunes, at a range on intensities. We compare this experimental result to simulation using the PIC code Warp. We find that the experimental result differs from the simulation, which may be explained by the ion loss in the IBEX experiment, which more closely replicates a real accelerator. Knowledge of the tune corresponding to greatest beam loss is important for the design of future high intensity machines.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS057
+
+ 
+
+
+About •
+paper received ※ 30 April 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS058
+BDSIM: Recent Developments and New Features Beyond V1.0
+3259
+
+
+ 
+
+L.J. Nevay, A. Abramov, J. Albrecht, S.E. Alden, S.T. Boogert, H. Garcia Morales, S.M. Gibson, W. Shields, S.D. Walker
+                       JAI, Egham, Surrey, United Kingdom
+J. Snuverink
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+BDSIM is a program that creates a 3D model of an accelerator from an optical beam line description using a suite of high energy physics software including Geant4, CLHEP and ROOT. In one single simulation the passage of particles can be tracked accurately through an accelerator including the interaction with the accelerator material and subsequent secondary radiation production and transport. BDSIM is regularly used to simulate beam loss and energy deposition as well as machine detector interface studies. In this paper we present the latest developments beyond BDSIM V1.0 added for ongoing studies. For simulation of collimation systems several new additions are described including new element geometry, enhanced sensitivity and output information. The output has been further enhanced with aperture impact information and dose information from scoring meshes. As well as supporting the full suite of Geant4 physics lists, a new user interface is described allowing custom physics lists and user components to be easily included in BDSIM. New undulator, crystal collimator and wire-scanner elements are also described.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS058
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS060
+Multi-objective Optimization of 3D Beam Tracking in Electrostatic Beamlines
+3263
+
+
+ 
+
+V. Rodin, J.R. Hunt, J. Resta-López, B. Veglia, C.P. Welschpresenter
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+J.R. Hunt, J. Resta-López, V. Rodin, B. Veglia, C.P. Welschpresenter
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: *This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 721559.
+After CERN’s Long Shutdown 2 (LS2) the Extra Low Energy Antiproton (ELENA) ring will begin providing extremely low energy (100 keV) antiproton beams to the antimatter experiments in the AD hall. To allow for simultaneous operation and guarantee maximum efficiency, all transfer lines will be based on electrostatic optics and short pulse (∼100 ns) deflectors. Currently, only a limited number of simulation codes allow a realistic representation of these elements, limiting the capabilities for beam quality optimization. In this contribution methods for modelling realistic electrostatic optical elements and perform 3D tracking studies through these are presented. A combination of finite element methods and experimental measurements are used along with a modified version of the G4Beamline and BMAD codes. Multi-objective optimization techniques are then applied to optimize beam transfer and beam quality at various points along the transfer lines.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS060
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS061
+Experimental Test of Longitudinal Space-Charge Amplifier in Optical Range
+3267
+
+
+ 
+
+C. Lechner, M. Dohlus, B. Faatz, V. Grattoni, G. Paraskaki, J. Rönsch-Schulenburg, E. Schneidmiller, M.V. Yurkov, J. Zemella
+                       DESY, Hamburg, Germany
+V. Miltchev
+                       University of Hamburg, Institut für Experimentalphysik, Hamburg, Germany
+
+ 
+
+
+ 
+
+Longitudinal space-charge effects can act as a driver for short wavelength radiation production in a longitudinal space-charge amplifier (LSCA) *. A single cascade of an LSCA was tested using the hardware of the sFLASH experiment installed at the FEL user facility FLASH (at DESY, Hamburg). Scans of the longitudinal dispersion of the chicane were performed with the tightly focused electron beam for different compression settings, while recording the intensity of the emission from a few-period undulator. We present experimental results and estimates on electron beam properties.
+* E.A. Schneidmiller and M.V. Yurkov, Phys. Rev. ST Accel Beam 13, 110701 (2010)
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS061
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 20 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS062
+Zgoubi Status: Improved Performance, Features, and Graphical Interface
+3271
+
+
+ 
+
+D.T. Abell, P. Moeller, R. Nagler, B. Nash, I.V. Pogorelov
+                       RadiaSoft LLC, Boulder, Colorado, USA
+I.B. Beekman
+                       ParaTools, Inc., Eugene, Oregon, USA
+F. Méot
+                       BNL, Upton, Long Island, New York, USA
+D.W.I. Rouson
+                       Sourcery Institute, Oakland, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported in part by the US Department of Energy, Office of Science, Office of Nuclear Physics under Award No. DE-SC0017181.
+The particle tracking code Zgoubi * has been used for a broad array of accelerator design studies, including FFAGs and EICs. Zgoubi is currently being used to evaluate the spin polarization performance of proposed designs for both JLEIC ** and eRHIC ***, and to prepare for commissioning the CBETA BNL-Cornell FFAG return loop ERL ****. We describe our on-going work on several fronts, including efforts to parallelize Zgoubi using new features of Fortran 2018 *****, and a new implementation of Zgoubi’s particle update algorithm. We also describe a new, web-based graphical interface for Zgoubi.
+* F. Méot, FERMILAB-TM-2010, 1997  ** J. Martinez-Marin et al., IPAC18, MOPMF004  *** V.H. Ranjbar et al., IPAC18, MOPMF016  **** F. Méot et al., NIM-A 896:60, 2018 ***** wg5-fortran.org/f2018.html
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS062
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 20 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS066
+Suppression of Correlated Energy Spread Using Emittance Exchange
+3275
+
+
+ 
+
+J. Seok, M. Chung
+                       UNIST, Ulsan, Republic of Korea
+M.E. Condepresenter, G. Ha, J.G. Power
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+An emittance exchange (EEX) provides a precise longitudinal phase space manipulation of electron bunch. It has been studied for an easy and precise control of temporal distribution, but controls of energy distribution have not been explored. Since the energy control using EEX is under the identical principle to the temporal control, the EEX beamline can control a correlated energy spread of the electron bunch. This would benefit accelerator facilities requiring a low energy spread such as X-ray Free Electron Laser Oscil-lator (XFELO). In this paper, we present principle and preliminary simulation work on the suppression of correlated energy spread using the EEX beamline. ing the EEX beamline.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS066
+
+ 
+
+
+About •
+paper received ※ 21 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS068
+A Novel S-Based Symplectic Algorithm for Tracking With Space Charge
+3279
+
+
+ 
+
+J.P. Edelen, D.T. Abell, D.L. Bruhwiler, N.M. Cook, C.C. Hall, S.D. Webb
+                       RadiaSoft LLC, Boulder, Colorado, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of High Energy Physics under Award Number DE-SC0011340
+Traditional finite-difference particle-in-cell methods for modeling self-consistent space charge introduce non-Hamiltonian effects that make long-term tracking in storage rings unreliable. Foremost of these is so-called grid heating. Particularly for studies where the Hamiltonian invariants are critical for understanding the beam dynamics, such as nonlinear integrable optics, these spurious effects make interpreting simulation results difficult. To remedy this, we present a novel symplectic spectral space charge algorithm that is free of non-Hamiltonian numerical effects and, therefore, suitable for long-term tracking studies. Results presented here include a detailed study of the solver’s performance under a range of conditions. First, we show benchmarking and convergence studies for different particle shapes and different particle distributions. Then we demonstrate the solver’s ability to preserve Hamiltonian structure by studying the formation of space-charge driven resonances using both our algorithm and traditional PIC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS068
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS069
+The Effects of Stochastic Space Charge in High Brightness Photolectron Beamlines for Ultrafast Electron Diffraction
+3283
+
+
+SUSPFO124
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+M.A. Gordon, Y.K. Kim
+                       University of Chicago, Chicago, Illinois, USA
+J.M. Maxson
+                       Cornell University, Ithaca, New York, USA
+J.M. Maxson
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. National Science Foundation under award PHY-1549132, the Center for Bright Beams.
+As we move to ultra-high brightness photocathodes and ultra-cold beams, we may become more sensitive to stochastic, point-to point effects such as disorder induced heating and the Boersch effect, given the failure of Debye screening.  In this study, we explore the effects of stochastic scattering. Modern beam dynamics codes often approximate point to point interactions with a potential created by smoothing the charge over space, removing sensitivity to stochastic effects. This approximation is often used in beamline optimization, because it is much faster. We study the limits of validity of this approximation. In particular, we will simulate effects of stochastic space charge on a high brightness photoemission beamline, an ultrafast electron diffraction beamline with a photocathode temperature of 5 meV with a final beam energy of 225 keV. Emittance dilution in the transverse plane and transverse beam size relative to smooth space charge simulations will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS069
+
+ 
+
+
+About •
+paper received ※ 13 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS070
+First Measurements of Nonlinear Decoherence in the IOTA Ring
+3286
+
+
+ 
+
+C.C. Hall, D.L. Bruhwiler, J.P. Edelen
+                       RadiaSoft LLC, Boulder, Colorado, USA
+N. Kuklev
+                       University of Chicago, Chicago, Illinois, USA
+A.L. Romanov, A. Valishev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work has been supported by the U.S. Department of Energy Office of Science, Office of High Energy Physics under Award No. DE-SC00111340
+The Integrable Optics Test Accelerator (IOTA), at Fermi National Laboratory is aimed at testing nonlinear optics for the next generation of high intensity rings. Through use of a special magnetic element the ring is designed to induce a large tune spread with amplitude while maintaining integrable motion. This will allow for the suppression of instabilities in high-intensity beams without significant reduction in dynamic aperture. One important aspect of this is the nonlinear decoherence that occurs when a beam is injected off axis or receives a transverse kick while circulating in the ring. This decoherence has been studied in detail, with simulations, for protons in IOTA both with and without space-charge. However, it has yet to be demonstrated experimentally. During the first phase of the IOTA experimental program, the ring is operated with 100 MeV electrons, allowing for the study of nonlinear optics without the complications introduced by space charge. Here we present measurements taken during the IOTA commissioning, and an analysis of the results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS070
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS072
+Application of Bayesian Inference in Accelerator Commissioning of FRIB
+3289
+
+
+ 
+
+Y. Hao, L.M. Neufcourt
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+We will report the preliminary application of the Bayesian Inference of the unknown parameters of accelerator model using the FRIB commissioning data. The inference result not only indicates the value of the unknown parameter, but also the confidence of adopting the value. The Bayesian approach provides an alternative method to understand the difference between accelerator model and the hardware and may help achieving ultimate beam parameters of FRIB.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS072
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS073
+Beam-Beam Effect: Crab Dynamics Calculation in JLEIC
+3293
+
+
+ 
+
+H. Huang, F. Lin, V.S. Morozov, Y. Roblin, A.V. Sy, Y. Zhang
+                       JLab, Newport News, Virgina, USA
+I. Neththikumara, S. Sosa, B. Terzić
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+The electron and ion beams of a future Electron Ion Collider (EIC) must collide at an angle for detection, machine and engineering design reasons. To avoid associated luminosity reduction, a local crabbing scheme is used where each beam is crabbed before collision and de-crabbed after collision. The crab crossing scheme then provides a head-on collision for beams with a non-zero crossing angle. We develop a framework for accurate simulation of crabbing dynamics with beam-beam effects by combining symplectic particle tracking codes with a beam-beam model based on the Bassetti-Erskine analytic solution. We present simulation results using our implementation of such a framework where the beam dynamics around the ring is tracked using Elegant and the beam-beam kick is modeled in Python.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS073
+
+ 
+
+
+About •
+paper received ※ 16 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS075
+Effect of Beam-Beam Kick on Electron Beam Quality in First Bunched Electron Cooler
+3297
+
+
+ 
+
+S. Seletskiy, M. Blaskiewicz, A.V. Fedotov, D. Kayranpresenter, J. Kewisch
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The low energy RHIC electron cooler (LEReC) currently under commissioning at BNL is going to be the first non-magnetized bunched electron cooler (EC). For successful cooling LEReC requires that the electrons in the cooling section (CS) have small angles with respect to co-propagating ions. Since there is no strong magnetic field in the CS, the effects of ions on both the trajectory and focusing of the e-bunches is critical. In this paper we consider the ion beam kick on the electron bunches and derive requirements to the respective alignment of electron and ion beams in non-magnetized coolers.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS075
+
+ 
+
+
+About •
+paper received ※ 08 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS078
+Chaos Indicators for Studying Dynamic Aperture in the IOTA Ring with Protons
+3301
+
+
+ 
+
+K. Hwang, C.E. Mitchell, R.D. Ryne
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The Integrable Optics Test Accelerator (IOTA) is a novel storage ring under commissioning at Fermi National Accelerator Laboratory designed (in part) to investigate the dynamics of beams in the presence of highly nonlinear transverse focusing fields that generate integrable single-particle motion. In this study, we explore the sensitivity of the lattice dynamic aperture to the presence of nonlinear space charge. For this purpose, two distinct chaos indicators are compared (frequency map analysis and forward-backward integration). Because the integrability of motion requires integer betatron tune advance between passes through the nonlinear magnetic element, a large role is played by space-charge-induced tune spread. As a result, these tools are also applied to a toy model of the IOTA lattice to investigate the sensitivity of dynamic aperture to violations of the integer tune advance condition.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS078
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS079
+Analysis of Particle Noise in a Gridless Spectral Poisson Solver for Symplectic Multiparticle Tracking
+3304
+
+
+ 
+
+C.E. Mitchell, J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was was supported by the Director, Office of Science, Office of High Energy Physics, of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231.
+Gridless symplectic methods for self-consistent modeling of space charge in intense beams possess several advantages over traditional momentum-conserving particle-in-cell methods, including the absence of numerical grid heating and the presence of an underlying multi-particle Hamiltonian. Despite these advantages, there remains evidence of irreversible emittance growth due to numerical particle noise. For a class of such algorithms, a first-principles kinetic model of the numerical particle noise is obtained and applied to gain insight into noise-induced entropy growth and thermal relaxation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS079
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS081
+An Analytic Approach to Emittance Growth from the Beam-Beam Effect with Applications to the LHeC
+3307
+
+
+ 
+
+E.A. Nissen
+                       JLab, Newport News, Virginia, USA
+D. Schulte
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177. The U.S. Government retains a non-exclusive, world-wide license to publish or reproduce this manuscript.
+In colliders with asymmetric rigidity such as the proposed Large Hadron electron Collider, jitter in the weaker beam can cause emittance growth via coherent beam-beam interactions. The LHeC in this case would collide 7 TeV protons on 60 GeV electrons, which can be modeled using a weak-strong model. In this work we estimate the proton beam emittance growth by separating out the longitudinal angular kicks from an off-center bunch interaction and produce an analytic expression for the emittance growth per turn in systems like the LHeC.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS081
+
+ 
+
+
+About •
+paper received ※ 01 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS082
+Luminosity Studies of Asymmetric Crab Crossing in JLEIC
+3311
+
+
+ 
+
+E.A. Nissen
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Authored by Jefferson Science Associates, LLC under U.S. DOE Contract No. DE-AC05-06OR23177. The U.S. Government retains a non-exclusive, world-wide license to publish or reproduce this manuscript.
+The proposed Jefferson Lab Electron Ion Collider (JLE-IC) currently plans to use a crab crossing scheme to max-imize the available luminosity. It had been suggested that space and cost savings, as well as hadron beam quality improvements, could be realized by leaving the ion beam un-crabbed and increasing the crabbing angle of the elec-tron beam. This and variations in-between equal and totally one-sided crabbing are examined for both JLEIC and LHC parameters, with various changes in crabbing angle and frequency studied to maximize luminosity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS082
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 18 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS083
+Multipass Simulations of Space Charge Compensation using Electron Columns at IOTA
+3313
+
+
+ 
+
+C.S. Park, E.G. Stern
+                       Fermilab, Batavia, Illinois, USA
+S. Chattopadhyay, B.T. Freemire
+                       Northern Illinois University, DeKalb, Illinois, USA
+C.E. Mitchell, R.D. Ryne
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Defocusing repulsive forces due to self space charge fields lead to degradation of high-intensity particle beams. Being of particular concern for low- and medium-energy proton beams, they result in emittance growth, beam halo formation, and beam loss. They set stringent limits on the intensity of frontier accelerators; therefore, the mitigation of space charge effects is a crucial challenge to improve proton beam intensity. The space charge effects in a positively charged proton beam can be effectively compensated using negatively charged electron columns. In this paper, we present the results of simulations using Synergia of the Electron Column lattice for IOTA. Beam loss due to space charge effects and aperture restrictions have been studied, as well as bunch formation and matching using an adiabatic ramp of the RF cavity. The results show the need for space charge compensation, and provide the basis for integration of the Synergia and Warp codes in order to form a complete simulation of space charge compensation using an Electron Column in IOTA.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS083
+
+ 
+
+
+About •
+paper received ※ 16 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS088
+Integration of Cavity Design and Beam Dynamics Simulation Using the Parallel IMPACT and the ACE3P Codes
+3317
+
+
+ 
+
+J. Qiang, D.A. Bizzozero
+                       LBNL, Berkeley, California, USA
+L. Ge, Z. Li, C.-K. Ng, L. Xiao
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy under Contract No. DE-AC02-05CH11231 and DE-AC02-76SF00515,
+The 3D parallel code suite IMPACT has been extensively used in the beam dynamics study of photoinjectors while the 3D parallel code ACE3P has been extensively used in the RF cavity design. In this paper, we propose integrating the ACE3P cavity design and the IMPACT beam dynamics simulation into a single work flow. Such a workflow enables efficient simulation of 3D effects(e.g. RF coupler) on high performance computers.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS088
+
+ 
+
+
+About •
+paper received ※ 07 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS089
+Microbunching Instability Mitigation via Multi-Stage Cancellation
+3321
+
+
+ 
+
+J. Qiang, B. Li
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy under Contract No. DE-AC02-05CH11231 and used computer resources at the National Energy Research Scientific Computing Center.
+The microbunching instability driven by beam collective effects in the linear accelerator of a free electron laser (FEL) facility can significantly degrade electron beam quality and FEL performance. Understanding and control of the instability is a priority for the design of modern high-brightness electron accelerators. In this paper, we study an instability cancellation phenomenon due to 180 degree phase slippage of the current modulations between different amplification stages. A case study of using a nonisochronous dogleg section in a double compression scheme to cancel the current modulation is illustrated.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS089
+
+ 
+
+
+About •
+paper received ※ 07 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS090
+Suppression of Microbunching Instability Through Dispersive Lattice
+3325
+
+
+ 
+
+J. Qiang, B. Li
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy under Contract No. DE-AC02-05CH11231 and used computer resources at the National Energy Research Scientific Computing Center.
+The microbunching instability from the initial small modulation such as shot-noise can be amplified by longitudinal space-charge force and causes significant electron beam quality degradation at the exit of accelerator for the next generation x-ray free electron laser. In the paper, we present analytical and numerical simulation studies of a novel method using dispersion leakage from some quadrupoles inside a chicane.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS090
+
+ 
+
+
+About •
+paper received ※ 26 April 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS092
+3d Start-to-End Simulations of the Coherent Electron Cooling
+3329
+
+
+ 
+
+J. Ma, V. Litvinenko, G. Wangpresenter
+                       BNL, Upton, Long Island, New York, USA
+V. Litvinenko
+                       Stony Brook University, Stony Brook, USA
+
+ 
+
+
+ 
+
+Coherent electron cooling (CeC) is a novel technique for rapidly cooling high-energy, high-intensity hadron beam. Two designs of coherent electron cooler, with a free electron laser (FEL) amplifier and a plasma-cascade micro-bunching amplifier, are cost effective and don’t require separation of hadrons and electrons. These schemes are used for the demonstration experiment in the Relativistic Heavy Ion Collider (RHIC) at Brookhaven National Laboratory (BNL). SPACE, a parallel, relativistic 3D electromagnetic Particle-in-Cell (PIC) code, has been used for simulation studies of these two coherent electron cooler systems.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS092
+
+ 
+
+
+About •
+paper received ※ 15 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS093
+Emittance Preservation for LCLS-II-HE Project
+3333
+
+
+ 
+
+J. Wu, T.O. Raubenheimer, M.D. Woodley
+                       SLAC, Menlo Park, California, USA
+J. Qiang
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: The work was supported by the US Department of Energy (DOE) under contract DE-AC02-76SF00515 and the US DOE Office of Science Early Career Research Program grant FWP-2013-SLAC-100164.
+A small transverse slice emittance at the undulator entrance is essential for high performance of the free electron laser. To achieve this, preservation of the phase space density of the electron bunch during acceleration and compression is absolutely necessary. The LCLS-II-HE is designed to transport a 100 pC bunch with an emittance of ~0.3 mm-mrad with minimal emittance dilution. However, in simulations starting from a normalized emittance on the order of 0.1 mm-mrad, the emittance growth is significant. In this paper, the sources of emittance growth are studied along the accelerator, in particular, around the laser-heater, the two bunch compressors. We have investigated mechanisms of emittance growth such as space charge, coherent synchrotron radiation, chromatic aberration, and spurious dispersion. Due to the extremely small emittance from the injector, 3-D space charge effect is important to determine the space charge dominated region and emittance dominated region. With this understanding, emittance preservation schemes are proposed. Studies are carried out with IMPACT simulation code, as well as ASTRA and ELEGANT.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS093
+
+ 
+
+
+About •
+paper received ※ 23 May 2019       paper accepted ※ 24 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS094
+Generation High-Charge of Flat Beams at the Argonne Wakefield Accelerator
+3337
+
+
+SUSPFO132
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+T. Xu, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+M.E. Conde, G. Ha, J.G. Power, E.E. Wisniewski
+                       ANL, Argonne, Illinois, USA
+M. Kuriki
+                       HU/AdSM, Higashi-Hiroshima, Japan
+P. Piot
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. DOE contracts No. DESC0017750, DE-SC0018656 with NIU, and No. DE-AC02-06CH11357 with ANL.
+Beams with large transverse emittance ratios (flat beams)have received renewed interest for their possible applications in future linear colliders and advanced accelerators. A flat beam can be produced by generating a magnetized beam and then repartitioning its emittance using three skew quadrupoles. In this paper, we report on the experimental generation of∼1nC flat beams at the Argonne WakefieldAccelerator (AWA). The emittance ratio of the flat beam is demonstrated to be continuously variable by adjusting the magnetic field on the cathode.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS094
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS096
+Open XAL Status Report 2019
+3341
+
+
+ 
+
+A.P. Zhukov, C.K. Allen, A.P. Shishlo
+                       ORNL, Oak Ridge, Tennessee, USA
+B.E. Bolling, J.F. Esteban Müller, E. Laface, Y. Levinsen, N. Milas, C. Rosati
+                       ESS, Lund, Sweden
+C.P. Chu, Y. Li
+                       IHEP, Beijing, People’s Republic of China
+T. Dodson
+                       University of Tennessee, Knoxville, USA
+P. Gillette, P. Laurent, G. Normand, A. Savalle
+                       GANIL, Caen, France
+M.T. Li, X.H. Lu, J. Peng
+                       IHEP CSNS, Guangdong Province, People’s Republic of China
+
+ 
+
+
+ 
+
+The Open XAL accelerator physics software platform is being developed through an international collaboration among several facilities since 2010. This paper discusses progress in beam dynamics simulation, new RF models, and updated application framework along with new generic accelerator physics applications. We present the current status of the project, a roadmap for continued development and an overview of the project status at each participating facility.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS096
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS099
+Passive Absorbers for Maximizing the Performance of the Mu2e-II Experiment
+3345
+
+
+ 
+
+J. Manczak
+                       IFIC, Valencia, Spain
+J. Manczak
+                       Warsaw University, Warsaw, Poland
+D.V. Neuffer, D. Stratakispresenter
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The Fermilab’s Mu2e experiment is designed to search for Charged Lepton Flavour Violation in direct, neutrinoless conversion of muon into electron in the presence of a nucleus’ electromagnetic field. Quantity, which is going to be observed is the ratio between the rate of the above BSM (Beyond Standard Model) reaction and the rate of the standard muon capture on the nucleus. The measurement precision is expected to reach up to 10-17. Mu2e-II is the codename for the second phase of the experiment planned to run with the lower energy, higher intensity primary proton beam provided by PIP-II accelerator, currently under construction. The ionization cooling with a wedge absorber is introduced to Mu2e-II setup for potential increase in the number of low momentum muons reaching the target. The study is made into the position and size of the wedge inside the beamline using G4Beamline simulation framework. Results show an increase up to 12% for muons with momentum P below 30 MeV/c and 7% for muons with P<40 MeV/c when the beam is measured right after the wedge. Further studies are necessary to investigate how this gain can be delivered to the stopping target.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS099
+
+ 
+
+
+About •
+paper received ※ 13 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS100
+The ESR Closed Orbit  Calculation and Simulation
+3349
+
+
+SUSPFO031
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S. Dastan, S. Dastan, R. Saffari
+                       University of Guilan, Rasht, Iran
+S. Dastan, J. Rahighi
+                       ILSF, Tehran, Iran
+S. Livinov, M. Steck
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+The commissioning of the ESR with a new control system based on the LSA (LHC System Architecture) has started recently. This new control system is under development and considers all aspects of the expected functionality to operate the GSI/FAIR accelerators and incorporates the present GSI controls infrastructure*. Two years ago, the old control system which was based on outdated computers and operating system, was discontinued. So, both the heavy ion synchrotron SIS-18 and the Experimental Storage Ring (ESR) operation from now on have to be performed with the new FAIR control system. In order to introduce an improved model to the control system change, new calculations and simulations for SIS and ESR are necessary. In this paper we summarize the results of closed orbit calculations for the ESR which are done with three different codes, namely: ELEGANT*, MAD-X and MIRKO. Also, because the results of ELEGANT and MAD-X in this issue are similar to each other, we present ELEGANT results in the report.
+* R. Bär, DEVELOPMENT OF A NEW CONTROL SYSTEM FOR THE FAIR ACCELERATOR COMPLEX AT GSI. Kobe. ** Borland, M., elegant: A Flexible SDDS-Compliant Code for Accelerator Simulation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS100
+
+ 
+
+
+About •
+paper received ※ 29 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS101
+A General Comparison on Impedance Theory and CST Simulation of Discontinuities
+3352
+
+
+ 
+
+N. Khosravi, E. Ahmadi, M. Akhyani, S. Dastanpresenter, A.M. Mash’al
+                       ILSF, Tehran, Iran
+H. Karimi
+                       Isfahan University of Technology, Isfahan, Iran
+
+ 
+
+
+ 
+
+Inhomogeneity of vacuum chamber components is the main source of coupling impedance. Nowadays, wake potential is mostly predictable by 3D codes. Analytical prediction of impedance theories can be helpful as a side solution. On the other hand, some asymmetries in the geometry of components might make troubles and lead to imprecise numerical results in 3D simulations. Analytical approximation of discontinuities, holes, and grooves can give us an estimation of expected results and can be used as a benchmark in the case that we do not have any experimental data. To clarify the validity of theoretical expressions, general discontinuities are simulated in CST. The comparison of final results is presented here. At last, resistive wall impedance and some general discontinuities of components at ILSF storage ring are compared from the theoretical and simulation point of view.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS101
+
+ 
+
+
+About •
+paper received ※ 01 May 2019       paper accepted ※ 24 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS102
+Helical Wiggler Model for Fast Tracking
+3356
+
+
+ 
+
+W.F. Bergan, V. Khachatryan, D.L. Rubin
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: NSF-1734189 DGE-1650441
+In order to test the process of Optical Stochastic Cooling (OSC) at the Cornell Electron Storage Ring (CESR), we plan to use helical wigglers as both the pickup and kicker, since the required radiation wavelength of 800nm can be achieved with lower magnetic field strength in helical as compared to planar wigglers. In order to simulate the lattice with such wigglers, it is useful to be able to model the effect of the wiggler on the optics without resorting to direct tracking, which is time-consuming and so ill-suited for the repeated evaluations necessary in running an optimizer. We generate a Taylor map to third order for this element using analytic field expressions, enabling easy determination of the effects of such an element on linear and nonlinear optics. This model is compared with the results of direct tracking and shows good agreement.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS102
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS103
+Optimization of a Low-Alpha Lattice for the HLS-II Storage Ring
+3360
+
+
+ 
+
+S.W. Wang, Y.G. Wang, W. Xupresenter, K. Xuan
+                       USTC/NSRL, Hefei, Anhui, People’s Republic of China
+J.Y. Li
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+To generate terahertz radiation at HLS-II, a low-alpha lattice scheme is proposed. The new lattice can reduce the bunch length in the storage ring, thus enhancing the coherent synchrotron radiation in the THz region. In this paper, the design and optimization of a low-alpha lattice is reported. The new lattice preserves the symmetry of nominal lattice and reduces the first and second order momentum factor at the cost of increasing maximum beta function and natural emittance. The bunch length is tracked and the result shows that the low-alpha lattice can effectively compress bunches in the storage ring. The performance of this low-alpha lattice can be further studied and improved.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS103
+
+ 
+
+
+About •
+paper received ※ 29 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS104
+Synchrotron Radiation Reflections in the CLIC Beam Delivery System
+3363
+
+
+SUSPFO017
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+D. Arominski, A. Latina, A. Sailer, D. Schulte
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Synchrotron radiation (SR) reflection is an important issue for future linear colliders. High fluxes of the SR might impact the performance of the detector, through irradiation of the forward luminosity and beam quality calorimeters or of the innermost layers of the vertex detector. The photon reflections depend on the beam pipe apertures’ size, their shape, and materials used with various surface roughness. In this work, we present a study of SR including reflection for the 380 GeV and 3 TeV beam parameters and optics of the Compact Linear Collider’s Final Focus System. The simulations of the SR reflections using the Synrad+ software are presented and the impact on the detector is discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS104
+
+ 
+
+
+About •
+paper received ※ 29 April 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS105
+Simulation of Sirius Booster Commissioning
+3366
+
+
+ 
+
+M.B. Alves, L. Liu, F.H. de Sá
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Sirius is the new 3 GeV fourth-generation low emittance light source under construction at the Brazilian Synchrotron Light Laboratory. In order to study strategies forthe commissioning, different scenarios were studied by tracking simulations on lattice models with realistic alignment and magnet excitation errors, taking into account the finite precision of the beam diagnostic devices. We developed a commissioning algorithm that provides an efficient adjustment of the on-axis injection parameters, trajectory and closed orbit corrections and tuning of the RF parameters. With this algorithm it was possible to obtain a stable beam for thousands of turns in all the random machines simulated. The algorithms allows for partially automated commissioning procedures.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS105
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS106
+Accelerator Optimization using Big Data Science Techniques
+3370
+
+
+ 
+
+C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: This project has received funding from STFC under grant reference ST/P006752/1.
+Managing, analyzing and interpreting large, complex datasets and high rates of data flow is a growing challenge for many areas of science and industry. At particle accelerators and light sources, this data flow occurs both, in the experiments as well as the machine itself. The Liverpool Big Data Science Center for Doctoral Training (LIV. DAT) was established in 2017 to tackle the challenges in Monte Carlo modelling, high performance computing, machine learning and data analysis across particle, nuclear and astrophysics, as well as accelerator science. LIV. DAT is currently training 24 PHD students, making it one of the largest initiatives of this type in the world. This contribution presents research results obtained to date in projects that focus on the application of big data techniques within accelerator R&D.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS106
+
+ 
+
+
+About •
+paper received ※ 13 May 2019       paper accepted ※ 23 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS107
+Designing the European Spallation Source Tuning Dump Beam Imaging System
+3374
+
+
+ 
+
+M.G. Ibison, C.P. Welschpresenter
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+E. Adli, G. Christoforo, H. Gjersdal
+                       University of Oslo, Oslo, Norway
+M.G. Ibison, C.P. Welschpresenter
+                       The University of Liverpool, Liverpool, United Kingdom
+T.J. Shea, C.A. Thomas
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+Funding: In-Kind Agreement, ESS/Norway
+The first section of the European Spallation Source (ESS) to receive high-energy protons when live operation begins will be the Tuning Dump beam-line. The dump line will be used during accelerator commissioning to tune the linac, and must accept the full range of ESS energies up to 2 GeV, from 5µs probe pulse to full 2.86ms pulse length, and beam sizes up to the 250 mm limit of the physical aperture, although the allowed pulse rate will be restricted by the thermal capacity of the dump. An imaging system has been developed to view remotely the transverse beam profile in the section immediately before the dump entrance, using insertable scintillator screens. This contribution presents the principal design parameters for this system, with particular reference to the techniques used in assessing the radiation and thermal environments and their impact on the selection of locations for the imaging cameras, and the specification of the mechanical screen actuators. The predicted optical performance of the system is also summarised.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS107
+
+ 
+
+
+About •
+paper received ※ 15 May 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS108
+Emittance Exchange in MICE
+3378
+
+
+ 
+
+C. Brown
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+C.G. Whytepresenter
+                       USTRAT/SUPA, Glasgow, United Kingdom
+
+ 
+
+
+ 
+
+Funding: STFC, NSF, DOE, INFN, CHIPP and more
+The Muon Ionization Cooling Experiment, MICE, has demonstrated transverse emittance reduction through ionization cooling. Transverse ionization cooling can be used either to prepare a beam for acceleration in a neutrino factory or for the initial stages of beam cooling in a muon collider. Later stages of ionization cooling in the muon collider require the longitudinal emittance to be manipulated using emittance exchange and reverse emittance exchange, where emittance is exchanged from and to longitudinal phase space respectively. A wedge absorber within the MICE cooling channel has been used to experimentally demonstrate reverse emittance exchange in ionization cooling. Parameters for this test have been explored in simulation and applied to experimental configurations using a wedge absorber when collecting data in the MICE beam. This analysis of reverse emittance exchange is presented in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS108
+
+ 
+
+
+About •
+paper received ※ 14 May 2019       paper accepted ※ 21 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTS118
+Results of CEA Tests of SARAF Couplers Prototypes
+3382
+
+
+ 
+
+G. Ferrand, Y. Baron, S. Bouaziz, D. Chirpaz-Cerbat, R. Cubizolles, F. Gohier, S. Ladegaillerie, A. Lotode, C. Madec, G. Monnereau, N. Pichoff, O. Piquetpresenter
+                       CEA-IRFU, Gif-sur-Yvette, France
+C. Boulch, E. Fayette, P. Guiho, Y. Lussignol, C. Servouin
+                       CEA-DRF-IRFU, France
+
+ 
+
+
+ 
+
+CEA is committed to delivering a Medium Energy Beam Transfer line and a superconducting linac (SCL) for SARAF accelerator in order to accelerate 5 mA beam of either protons from 1.3 MeV to 35 MeV or deuterons from 2.6 MeV to 40 MeV. The SCL consists in 4 cryomodules. The first two cryomodules host 6 and 7 half-wave resonator (HWR) low beta cavities (β = 0.09) at 176 MHz. The last two identical cryomodule will host 7 HWR high-beta cavities (β = 0.18) at 176 MHz. The maximal required power to be transmitted to the beam is 11.4 kW for high-beta cavity couplers. This document presents the results of the coupler tests and conditioning.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2019-WEPTS118
+
+ 
+
+
+About •
+paper received ※ 23 April 2019       paper accepted ※ 22 May 2019        issue date ※ 21 June 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

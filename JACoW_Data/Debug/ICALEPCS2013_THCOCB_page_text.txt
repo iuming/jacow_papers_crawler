@@ -1,0 +1,166 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: THCOCB (Knowledge Based Techniques)
+
+
+THCOCB —  Knowledge Based Techniques   (10-Oct-13   16:30—17:45)
+Chair: J.M. Chaize, ESRF, Grenoble, France
+
+
+Paper
+Title
+Page
+
+
+
+THCOCB02
+The Role of Data Driven Models in Optimizing the Operation of the National Ignition Facility
+1426
+
+
+ 
+
+K.P. McCandless, J.-M.G. Di Nicola, S.N. Dixit, E. Feigenbaum, R.K. House, K.S. Jancaitis, K.N. LaFortune, B.J. MacGowan, C.D. Orth, R.A. Sacks, M.J. Shaw, C.C. Widmayer, S.T. Yang
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: * This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. #LLNL-ABS-633233
+The Virtual Beam Line (VBL) code is essential to operate, maintain and validate the design of laser components to meet the performance goals at Lawrence Livermore National Laboratory’s National Ignition Facility (NIF). The NIF relies upon the Laser Performance Operations Model (LPOM), whose physics engine is the Virtual Beam Line (VBL) code, to automate the setup of the laser by simulating the laser energetics of the as-built system. VBL simulates paraxial beam propagation, amplification, aberration and modulation, nonlinear self-focusing and focal behavior. Each of the NIF’s 192 beam lines are modeled in parallel on the LPOM Linux compute cluster during shot setup and validation. NIF achieved a record 1.8 MJ shot in July 2012, and LPOM (with VBL) was key to achieving the requested pulse shape. We will discuss some examples of how the VBL physics code is used to model the laser phenomena and operate the NIF laser system.
+
+ 
+
+
+
+
+
+
+Slides THCOCB02 [4.589 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOCB03
+Fast Automatic Beam-based Alignment of the LHC Collimation System
+1430
+
+
+ 
+
+G. Valentino, R.W. Aßmann, R. Bruce, S. Jackson, S. Redaelli, B. Salvachua, D. Wollmann, C. Zamantzas
+                       CERN, Geneva, Switzerland
+N.J. Sammut
+                       University of Malta, Information and Communication Technology, Msida, Malta
+
+ 
+
+
+ 
+
+Maximum beam cleaning efficiency and LHC machine protection is provided when the collimator jaws are properly adjusted at well-defined distances from the circulating beams. The required settings for different locations around the 27 km long LHC rings are determined through beam-based collimator alignment, which uses feedback from Beam Loss Monitoring (BLM) system. After the first experience with beam, a systematic automation of the alignment procedure was performed. This paper gives an overview of the algorithms developed to speed up the alignment and reduce human errors. The experience accumulated in four years of operation, from 2010 to 2013 is reviewed.
+
+ 
+
+
+
+
+
+
+Slides THCOCB03 [13.293 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOCB04
+Using an Expert System for Accelerators Tuning and Automation of Operating Failure Checks
+1434
+
+
+ 
+
+M. Ounsy, S. Pierre-Joseph Zéphir, G. Viguier
+                       SOLEIL, Gif-sur-Yvette, France
+E. De Ley
+                       iSencia Belgium, Gent, Belgium
+
+ 
+
+
+ 
+
+Today at SOLEIL abnormal operating conditions cost many human resources involved in plenty of manual checks on various different tools interacting with different service layers of the control system (archiving system, device drivers, etc.) before recovering a normal accelerators operation. These manual checks are also systematically redone before each beam shutdown and restart. All these repetitive tasks are very error prone and lead to a tremendous lack in the assessment of beam delivery to users. Due to the increased process complexity and the multiple unpredictable factors of instability in the accelerators operating conditions, the existing diagnosis tools and manual check procedures reached their limits to provide practical reliable assistance to both operators and accelerators physicists. The aim of this paper is to show how the advanced expert system layer of the PASERELLE* framework, using the CDMA API** to access in a uniform way all the underlying data sources provided by the control system, can be used to assist the operators in detecting and diagnosing abnormal conditions and thus providing safe guards against these unexpected accelerators operation conditions.
+*http://www.isencia.be/services/passerelle  **https://code.google.com/p/cdma/ 
+
+ 
+
+
+
+
+
+
+Slides THCOCB04 [1.636 MB]
+            
+ 
+
+
+ 
+
+
+
+THCOCB05
+The LHCb Online Luminosity Monitoring and Control
+1438
+
+
+ 
+
+R. Jacobsson, R. Alemany-Fernandez, F. Follin
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHCb experiment searches for New Physics by precision measurements in heavy flavour physics. The optimization of the data taking conditions relies on accurate monitoring of the instantaneous luminosity, and many physics measurements rely on accurate knowledge of the integrated luminosity. Most of the measurements have potential systematic effects associated with pileup and changing running conditions. To cope with these while aiming at maximising the collected luminosity, a control of the LHCb luminosity was put in operation. It consists of an automatic real-time feedback system controlled from the LHCb online system which communicates directly with an LHC application which in turn adjusts the beam overlap at the interaction point. It was proposed and tested in July 2010 and has been in routine operation during 2011-2012. As a result, LHCb has been operating at well over four times the design pileup, and 95% of the integrated luminosity has been recorded within 3% of the desired luminosity. This paper motivates and describes the implementation and the experience with the online luminosity monitoring and control, including the mechanisms to perform the luminosity calibrations.
+
+ 
+
+
+
+
+
+
+Slides THCOCB05 [1.368 MB]
+            
+ 
+
+
+ 
+
+
+
+

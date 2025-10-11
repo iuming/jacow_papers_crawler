@@ -1,0 +1,654 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2016 - Table of Session: THPOPR (Poster Session - Thursday)
+
+
+THPOPR —  Poster Session - Thursday   (27-Oct-16   13:30—15:30)
+Chair: G.B.M. Bruno, LNLS, Campinas, Brazil
+
+
+Paper
+Title
+Page
+
+
+
+THPOPRPO03
+UVX Control System: An Approach with Beaglebone Black
+91
+
+
+ 
+
+S. Lescano
+                       INSA Lyon, Villeurbanne, France
+E.P. Coelhopresenter, J.G.R.S. Franco, P.H. Nallin, G.C. Pinton, A.R.D. Rodrigues
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+The UVX is a 1.37 GeV synchrotron light source that has been in operation by the Brazilian Synchrotron Light Laboratory (LNLS) since 1997. The Control System, which was completely developed in-house, has received some upgrades lately in order to get around issues from aging, to improve performance and to reduce maintenance costs. A new crate controller, which is based on Beaglebone Black single board computer, has been under tests and is a great candidate to substitute both Advantech single board computers and old CPUs. The current crate communication topology (through LOCO backplane) will be maintained and software is based on PROSAC, implemented for Advantech SBCs. Beaglebone platform, which is open hardware and community-supported, is also chosen to be a branch of Sirius Control System. An overview will be presented as well as first experimental and practical results.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO03 [0.999 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO04
+openMMC: An Open Source Modular Firmware for Board Management
+94
+
+
+ 
+
+H.A. Silva, G.B.M. Bruno
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+openMMC is an open source firmware designed for board management in MicroTCA systems. It has a modular architecture providing decoupling between application, board and microcontroller-specific routines, making it useful as a base for many different designs, even those using less powerful controllers. Despite being developed in a MicroTCA context, the firmware can be easily adapted to other hardware platforms and communication protocols. The firmware is based on the FreeRTOS operating system, over which each monitoring function (sensors, LEDs, Payload management, etc) runs its own independent task. The OS, despite its reduced footprint, also provides numerous tools for reliable communication among the tasks, controlling the board efficiently.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO04 [0.899 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO05
+Implementation of a Precision Logarithmic Ammeter
+97
+
+
+ 
+
+W.R. Araujo, M.B. Errada, D. Galante
+                       LNLS, Campinas, Brazil
+G. Paulino
+                       UNICAMP, Campinas, São Paulo, Brazil
+
+ 
+
+
+ 
+
+A precision and low cost ammeter is in development for the acquisition of sensor signals such as photodiodes, gold mesh (by photoelectron effect) and ionization chambers. One of the problems of conventional ammeters is the automatic scale selection, which hinders many measurements performed in ample energy range. The ammeter in development is based on a different methodology than present on most commercial systems, using a logarithmic amplifier. This choice of can provide a logarithmic response output in the range of pico to milliamperes. In addition, the system will have a trigger input for synchronism with external events and a Ethernet interface with EPICS driver. The electronic board is in development by LNLS, and is being installed and tested at the TGM Beamline.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO05 [1.375 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO09
+Operation Experience and Migration of I/O Controllers for J-PARC Main Ring
+101
+
+
+ 
+
+N. Kamikubota
+                       KEK, Ibaraki, Japan
+T. Aoyama, T. Iitsuka, S.Y. Yoshida
+                       Kanto Information Service (KIS), Accelerator Group, Ibaraki, Japan
+H. Nemoto
+                       ACMOS INC., Tokai-mura, Ibaraki, Japan
+K.C. Sato, S. Yamada, N. Yamamoto
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+
+ 
+
+
+ 
+
+　The control system for J-PARC Main Ring (MR) was constructed in 2007-2008, followed by the first beam in May, 2008. 　In 2007, the VME-bus computers were selected as I/O controllers (Epics IOC). The number of them in 2008 was about 80. In 2016, addition to the VME controller, we have non-VME controllers: a) Yokogawa F3RP61 (Linux-based controller with PLC IO modules), b) vioc (Epics IOC on a virtual machine), and　c) commercial micro-server (Pinon Type-P). The total number of controllers in 2016 has reached 170. 　Based on operation experience since 2008, following issues are discussed. (1) We decided to use VME-bus computers as highly reliable front-end controllers. Failures of them are reviewed, and judge to the past decision is given. (2) Specific characteristics of three non-VME controllers, proper use of them, and present status in the MR controls, are explained. (3) Recently, a few pieces of commercial micro-server have been introduced and inspected. It is compact, low-cost, but seems reliable enough as an I/O controller. Details are shown. 　Finally, future perspective of I/O controllers for J-PARC MR will be given.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO09 [1.607 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO09
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO10
+Timing and Synchronization at FRIB
+105
+
+
+ 
+
+M.G. Konrad
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661
+Development of many software projects at the Facility for Rare Isotope Beams (FRIB) follows an agile development approach. An important part of this practice is to make new software versions available to users frequently to get feedback in a timely manner. Unfortunately building, testing, packaging, and deploying software can be a time consuming and error prone process. We will present the processes and tools we use at FRIB to standardize and automate this process. This includes use of a central code repository, a continuous integration server performing automatic builds and running automatic test, as well as automated software packaging. For each revision of the software in the code repository the continuous delivery pipeline automatically provides a software package that is ready to be released. The decision to deploy this new version of the software into our production environment is the only manual step remaining. The high degree of reproducibility as well as extensive automated tests allow us to release more frequently without jeopardizing the quality of our production systems.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO10 [5.194 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO10
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO11
+Processing SPE Files from Princeton Instruments during Data Acquisition in LNLS
+108
+
+
+ 
+
+D.B. Beniz
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+The beamline of Dispersive X-ray Absorption Spectroscopy, DXAS, in LNLS uses a Princeton Instruments CCD, PyLoN, to acquire spectra of materials under analysis. Such camera produces an SPE binary file. Some Python scripts were developed to display absorbance and x-ray magnetic circular dichroism (XMCD) during the experiment. Firstly, using WinspecUtils.py* module we extract the data in a 2D array (intensities by pixels) from an SPE file of radiant flux received by a material (I0), then, while spectra of radiant flux transmitted by that material (I), is being acquired, their data are extracted from a temporary SPE file. With I and I0 we calculate absorbance (mu) = ln(I0/I) and plot it with matplotlib** of Python . For XMCD same data extraction is performed, but each cycle has eight spectra with magnet field varying its orientation: + - - + - + + -; and the calculation is XMCD = {AVG[mu(norm)(+)] - AVG[mu(norm)(-)]}. Calculated XMCD is also plot. So, with such information of absorbance and XMCD being displayed during the experiment the users could quickly act to fix any problem.
+* WinspecUtils.py module: version shared by Kasey Russell (krussell@post.harvard.edu), based on other version of James Battat (jbattat@post.harvard.edu) ** matplotlib: http://matplotlib.org
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO11 [0.489 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO11
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO13
+High Level Software for the Commissioning of the European XFEL
+110
+
+
+ 
+
+L. Fröhlich, C. Behrens, B. Beutner, M.E. Castro Carballo, W. Decking, O. Hensler, R. Kammering, T. Limberg, S.M. Meykopff, M. Scholz, J. Szczesny, J. Wilgen
+                       DESY, Hamburg, Germany
+E. Allaria, G. Penco
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+The European X-Ray Free-Electron Laser (XFEL) will generate extremely short and intense X-ray flashes from the electron beam of a 2.1 km long superconducting linear accelerator. The commissioning and operation of the accelerator relies heavily on high level software for the automatization of measurements and procedures. The paper gives an overview of the ongoing work and highlights some new measurement techniques.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO13
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO14
+Automation of the Magnetic Field Measurements of the Air Coils by Means of the Moving Wire System
+114
+
+
+ 
+
+M. Yakopov, S. Abeghyan, S. Karabekyan, J. Pflüger
+                       XFEL. EU, Hamburg, Germany
+Z. Zhao
+                       USTC/NSRL, Hefei, Anhui, People's Republic of China
+
+ 
+
+
+ 
+
+To ensure self-amplified spontaneous emission process an undulator used for this must not deflect the electron beam from its orbit. The possible deflection of the electron beam, introduced by undulator, must be corrected by means of two air coils. These air coils, which are installed from both sides of the undulator, must eliminate not only the deflection angle, but also the displacement between electron beam trajectory and the orbit. For European XFEL 182 air coils are necessary. To minimize the measurement time an automated procedure has been developed and implemented. This paper describes the measurement setup, technical implementation method and automation procedure.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO14 [2.256 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO14
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO16
+Diagnostics at JINR LHEP Photogun Bench
+117
+
+
+ 
+
+M.A. Nozdrin, N. Balalykin, V.F. Minashkin, G. Shirkov
+                       JINR, Dubna, Moscow Region, Russia
+S. Weisse
+                       DESY Zeuthen, Zeuthen, Germany
+
+ 
+
+
+ 
+
+The photoinjector electron beam quality strongly depends on the laser driver beam quality. For laser beam diagnostics, a "virtual cathode" system was realized at the photogun bench located in the Veksler and Baldin Laboratory of High Energy Physics (LHEP) of the Joint Institute for Nuclear Research (JINR). The system allows one to image laser beam profile at the cathode. For imaging, the AVINE software suite developed in DESY Zeuthen is used. Equipment for emittance measurement using the slit method was installed. The original emittance calculation software EmCa was created and tested with laser beam.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO16 [1.834 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO16
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO22
+Orbitkorrektur, a Java Client for Transverse Orbit Correction in PETRA-III
+120
+
+
+ 
+
+G.K. Sahoo, F. Brinker, F. Wedtstein
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+PETRA-III is a 3rd generation synchrotron light source dedicated to users at 14 beam lines with 30 instruments in the Max von Laue Hall and 10 beamlines in newly constructed Extensions in North and East which are under installations. PETRA-III is operated with several filling modes such as 60, 480 and 960 bunches with 100mA or 40 bunches with 90 mA at an electron beam energy of 6 GeV. Transverse orbits are corrected to a reference orbit, which is based on BBA measurements taking into account requirements of the beamlines and results of the dispersion correction. Histograms from 244 BPMs are displayed by means of this Java Client OrbitKorrektur. The orbits may be corrected using the Effective Correction Method with a few correctors or can be corrected using the SVD Method with proper singular Eigen values using theoretical response matrices from an Optic Server of used Optics. In this application additional features are implemented for better observation and analysis of orbits. Furthermore it can also be used to do many additional jobs, such as showing corrector set currents, loading golden and reference orbits, local bumps, displaying the first turn data during commissioning etc.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO22 [0.486 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO22
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO23
+Fast Orbit Feedback at DELTA
+123
+
+
+ 
+
+P. Hartmann, A. Althaus, S. Khan, D. Rohde, D. Schirmer, G. Schünemann, P. Towalski, T. Weis
+                       DELTA, Dortmund, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by BMBF, FKZ 05P09PERB5 and \newline Forschungszentrum J\"ulich, contract no. COSY/FAIR-114
+At the electron storage ring DELTA, studies of a fast orbit feedback integrating Libera Electron and Bergoz MX-BPM electronics were conducted. An review of the project and its results is given.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO23 [32.402 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO23
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPOPRPO27
+High-Level Application Development and Production Infrastructure at TRIUMF
+126
+
+
+ 
+
+E. Tikhomolov, I.V. Bylinskii, J. Lee, T. Planche, T.M. Tateyama
+                       TRIUMF, Vancouver, Canada
+P. Jung
+                       UW/Physics, Waterloo, Ontario, Canada
+A.C. Morton
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+TRIUMF users and operators use a number of high-level applications (HLAs) written in different languages, with complicated graphical user interfaces, to carry out tasks related to delivering ion beams with required characteristics and to process data from TRIUMF's EPICS-based and legacy cyclotron control systems. Some applications have been developed by the EPICS community, and some at TRIUMF. These applications run on different production computers and are developed on different machines. This model no longer satisfies TRIUMF's needs because of the growing number of applications, the long times required for data processing on current machines, the lack of real- time visualization of beam properties and so on. New infrastructure for HLA development has been implemented to address these issues and is working reliably with room for further expansion.
+
+ 
+
+
+
+
+
+
+Poster THPOPRPO27 [1.442 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-PCaPAC2016-THPOPRPO27
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

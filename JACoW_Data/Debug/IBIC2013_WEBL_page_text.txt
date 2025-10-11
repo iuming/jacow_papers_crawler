@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2013 - Table of Session: WEBL (BPMs and Beam Stability 2)
+
+
+WEBL —  BPMs and Beam Stability 2   (18-Sep-13   11:00—12:30)
+Chair: V. Schlott, PSI, Villigen PSI, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+WEBL1
+Beam Position Monitors: How to Meet the Specifications of Most Recent Accelerators
+623
+
+
+ 
+
+G. Decker
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. Department of Energy, Office of Science, under Contract No. DE-AC-02-06CH11357.
+Modern particle accelerators must operate with increasingly restrictive beam stability requirements.   Synchrotron light sources require sub-micron stability for time periods extending to one week and for frequencies up to 1 kHz and beyond, and FELs need similar levels of shot-to-shot reproducibility.  A variety of beam position monitor (BPM) technologies used at synchrotron light sources, FEL facilities, and other accelerators will be reviewed and future areas of development outlined.   This will include an overview of analog vs. digital downconversion, including data acquisition and processing techniques.  Orbit and trajectory feedback systems using modern field-programmable gate array technology and dedicated fast data networks have been developed to take advantage of high-speed BPM data streams and will be described.
+
+ 
+
+
+
+
+
+
+Slides WEBL1 [7.638 MB]
+            
+ 
+
+
+ 
+
+
+
+WEBL2
+Applications of Stripline and Cavity Beam Position Monitors in Low-Latency, High-Precision, Intra-Train Feedback Systems
+630
+
+
+ 
+
+M.R. Davis, D.R. Bett, N. Blaskovic Kraljevic, P. Burrows, G.B. Christian, Y.I. Kim, C. Perry
+                       JAI, Oxford, United Kingdom
+
+ 
+
+
+ 
+
+Two, low-latency, sub-micron beam position monitoring (BPM) systems have been developed and tested with beam at the KEK Accelerator Test Facility (ATF2). One system (‘upstream’), based on stripline BPMs uses fast analogue front-end signal processing and has demonstrated a position resolution as low as 400nm for beam intensities of ~1 nC, with single-pass beam. The other (‘IP’) system, based on low-Q cavity BPMs and utilising custom signal processing electronics designed for low latency, provides a single pass resolution of approximately 100nm. The BPM position data are digitised by fast ADCs on a custom FPGA-based feedback controller and used in three modes: 1) the upstream BPM data are used to drive a pair of local kickers nominally orthogonal in phase in closed-loop feedback mode; 2) the upstream BPM data are used to drive a downstream kicker in the ATF2 final focus region in feedforward mode; 3) the IP cavity BPM data are used to drive a local downstream kicker in the ATF2 final focus region in closed-loop feedback mode. In each case the beam jitter is measured downstream of the final focus system with the IP cavity BPMs. The relative performance of these systems is compared.
+
+ 
+
+
+
+
+
+
+Slides WEBL2 [1.934 MB]
+            
+ 
+
+
+ 
+
+
+
+WEBL3
+Wake Field Monitors in a Multi Purpose X Band Accelerating Structure
+634
+
+
+ 
+
+M.M. Dehler, S. Bettoni, B. Beutner, G. De Michele
+                       PSI, Villigen PSI, Switzerland
+G. De Michele
+                       EPFL, Lausanne, Switzerland
+G. De Michele
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+In a collaboration between CERN, PSI and Sincrotrone Trieste (ST), a series of four multipurpose X-band accelerating structures has been designed and fabricated. These feature integrated wake field monitors (WFMs), which are used to measure the alignment (offset and tilt) between structure and beam. One structure has recently been installed in the SwissFEL Injector Test facility (SITF) at PSI. The WFM front end electronics will be developed within the EuCard2 framework, so for the measurements described in this paper we used the raw WFM signals. We compare these measurements to the theoretical results obtained via an equivalent circuit model used in the design and numerical calculations. The beam tests show that by minimizing the WFM signals, the emittance dilution given by the transverse wakes, crucial because of the small aperture of the structure, is minimized as well.
+
+ 
+
+
+
+
+
+
+Slides WEBL3 [1.668 MB]
+            
+ 
+
+
+ 
+
+
+
+

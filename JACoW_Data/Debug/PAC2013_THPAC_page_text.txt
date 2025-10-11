@@ -1,0 +1,777 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: THPAC (Poster Session)
+
+
+THPAC —  Poster Session   (03-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPAC01
+Longitudinal Emittance Measurement System for the ARIEL Electron Linac
+1139
+
+
+ 
+
+A.R. Vrielink, Y.-C. Chao, C. Gong, R.E. Laxdal, V. Zvyagintsev
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+As part of the ARIEL e-LINAC project at TRIUMF, a 1.3 GHz single-cell, room-temperature deflecting cavity has been developed to study the temporal distribution of an electron beam from a 300 kV thermionic gun. Beam bunches on the order of 100-200 ps long are produced from a biased grid with a 650MHz RF voltage superimposed to periodically allow release of electrons. The RF deflector operates in a TM110-like mode, deflecting the electrons vertically with a magnitude dependent on their arrival phase. The cavity RF performance has been characterized through signal level and beam testing. The deflector is installed as part of a longitudinal emittance measurement system with beam collimation, a 90 degree analyzing magnet, the deflecting cavity and a final view screen. Initial beam bunch length measurements using this RF cavity, conducted in conjunction with the initial commissioning using a 100kV electron-gun and a 1.3GHz buncher, are presented. The beam bunch length was extracted by comparing data collected at a screen downstream of the deflector to an analytical model based on linear time-invariant system theory and 3D simulation results using General Particle Tracer.
+
+ 
+
+
+ 
+
+
+
+THPAC03
+Beam Dump Design for the In-flight Fragment Separator using High-power Beam
+1142
+
+
+ 
+
+J.Y. Kim, J.-W. Kim, M. Kim
+                       IBS, Daejeon, Republic of Korea
+
+ 
+
+
+ 
+
+The beam dump is a critical component for the in-flight fragment separator using high-power primary beams at the rare isotope science project (RISP) in Korea. The maximum beam power is planned to be 400 kW, and a third of the primary beam power deposits at the isotope production target and the rest are dissipated at the beam dump. The beam dump is designed to be a rotating water drum, which is movable in the perpendicular direction to the beam to select the isotope beam of interest. The main primary ion beam is U, and its range at the energy of 200 MeV/u is only a couple of mm after passing through the shell structure of the drum. This short range requires the internal structure to confine water on the wall and high-pressure water flow. Some detailed thermo-mechanical and thermo-fluid analysis has been done using ANSYS and other codes. In addition, we plan to set-up a test bench to validate the simulations and water cooling system. Progress in the design works will be presented.
+
+ 
+
+
+ 
+
+
+
+THPAC04
+Beam Position Electronics Based on System on Chip Platform
+1145
+
+
+ 
+
+M. Cargnelutti, R. Hrovatin, G. Jug
+                       I-Tech, Solkan, Slovenia
+
+ 
+
+
+ 
+
+With the advances in system-on-chip (SoC) technology, the CPU and FPGA are today enclosed in the same device. This enables high-speed processing, inherent fast communication and memory sharing between the two entities. However, dedicated tools for implementation are needed as the CPU and FPGA functionalities cannot easily be decoupled. We used the advantages of the new architecture in the development of a booster BPM electronics. Its requirements are relaxed compared to up-to-now Libera beam position monitors. Proper design of the RF part of the instrument is still a challenge. Furthermore, with optimized FPGA design we target low overall power consumption so that the instrument can be cooled passively.
+
+ 
+
+
+ 
+
+
+
+THPAC06
+Comparison of Simulations and Analytical Theory of Radiation Heating on the Advanced Photon Source Superconducting Undulator
+1148
+
+
+ 
+
+L.E. Boon
+                       Purdue University, West Lafayette, Indiana, USA
+L.E. Boon, R.J. Dejus, K.C. Harkay, M.S. Jaski
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357
+Synchrotron radiation can potentially introduce large heat loads on the beam chamber of the superconducting undulator (SCU) at the Advanced Photon Source (APS). With the photon absorber mask, a well-aligned centered beam in the upstream bending magnet allows only a small amount of radiation power, less than 1 W, to intercept the walls of the beam vacuum chamber in the cryostat assuming no photon scattering. But beams with vertical orbit errors, especially, can deposit much higher heat loads on the beam chamber, above 100 W. An analysis was carried out to calculate the power on the vacuum chamber when the beam has an orbit error through the upstream bending magnet. This paper presents these analytical results compared to simulations that were performed using a 3D photon tracking code, Synrad3d.
+
+ 
+
+
+ 
+
+
+
+THPAC07
+Thermal Modeling of the Prototype Superconducting Undulator (SCU0)
+1151
+
+
+ 
+
+Y. Shiroyanagi, C.L. Doose, J.D. Fuerst, K.C. Harkay, Q.B. Hasse, Y. Ivanyushenkov, M. Kasa
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by U. S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357
+A cryocooler-cooled superconducting undulator (SCU0) has been built and cryogenic and magnetic test has been completed. The device is currently installed in the Advanced Photon Source (APS) beam line. The device consists of a dual-core 42-pole magnet structure which is cooled to 4.2 K with a system of four cryocoolers operating in a zero-boil-off configuration. In this paper, a thermal model of the beam chamber and its cooling circuit are presented. A temperature profile of the cooling circuit and heat load to cryocoolers are calculated based on steady state temperatures. Comparison with cryogenic test results and future improvement will be discussed.
+
+ 
+
+
+ 
+
+
+
+THPAC08
+Modernization of the Bergoz Multiplexed BPM System for the APS Upgrade
+1154
+
+
+ 
+
+X. Sun, H. Bui, G. Decker, R.T. Keane, R.M. Lill, B.X. Yang
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: * Work supported by U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357
+The APS upgrade includes improvements to the Bergoz Multiplexed BPM system, which presently suffers from an aging data acquisition system. The upgrade leverages off the development of an eight-channel data acquisition system featuring modern FPGA flexibility that was designed for the monopulse BPM system. This upgrade also provides an external clock signal synchronized to the APS revolution clock that will eliminate the aliasing caused by the Bergoz asynchronous multiplexing interacting with different accelerator fill patterns. The upgrade will revitalize this system and demonstrate a cost-effective approach to improved beam stability, reliability, and enhanced postmortem capabilities. In this paper we will discuss the upgrade system specifications, design, and prototype test results.
+
+ 
+
+
+ 
+
+
+
+THPAC09
+Ultra-high Vacuum Seal for Long Chambers using Wire Seals
+1157
+
+
+ 
+
+H.C. Fernandes, P.L. Cappadoro, T.M. Corwin, D.A. Harder, P. He, C.A. Kitegi, W. Licciardi, M.M. Musardo, G. Rakowsky, J. Rank, C. Rhein, T. Tanabe
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: DOE
+As the length of insertion devices (ID’s) increase for synchrotron light sources, so does the need to have larger ultra high vacuum (UHV) sealed chambers, which in turn necessitates the use of creative ways of sealing these large chambers in the UHV range (10-11 torrs).The method specified below was used to seal a 4 meter test vacuum chamber successfully in the ultra high vacuum range. This method could be used for sealing ID chambers of lengths larger than 4 meters too due to its simplicity and reduced cost advantage.
+
+ 
+
+
+ 
+
+
+
+THPAC10
+Design and Testing of Faraday's Cup for NSLS-II Linac and Booster
+1160
+
+
+ 
+
+H.C. Fernandes, B. Belkacem, W.X. Cheng, W. Guo, B.N. Kosciuk, J. Rank, S.K. Sharma, O. Singh, T. Tanabe, G.M. Wang
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: DOE
+The NSLS-II project includes a 3GeV beam that would have to be maintained and supplied through the injection system which would operate in top-off mode with minimum disturbance to the storage ring. The Diagnostic group at NSLS-II designed, prototyped and tested the Faraday’s cup and dump that would be used at three locations in the Linac and booster area. Power density calculations and FEA simulations were carried out on the dump for the 200 MeV maximum power dumped. The Faraday’s cup was also tested to characterize its operation for the 200 MeV Linac.
+
+ 
+
+
+ 
+
+
+
+THPAC12
+Preparation and Investigation of Antimony Thin Films for Multi-Alkali Photocathodes
+1163
+
+
+ 
+
+X. Liang, K. Attenkofer, T. Rao, S.G. Schubert, J. Smedley, E. Wang, Q. Wu
+                       BNL, Upton, Long Island, New York, USA
+I. Ben-Zvi, M. Ruiz-Osés
+                       Stony Brook University, Stony Brook, USA
+J. Jordan-Sweet
+                       IBM T. J. Watson Center, Yorktown Heights, New York, USA
+H.A. Padmore, J.J. Wong
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Work is supported at BNL by Brookhaven Science Associates, LLC under Contract No. DEAC02-98CH10886 with the U.S. DOE. The work at Stony Brook is supported by the US DOE under grant DE-SC0005713.
+Multialikali antimonide cathodes provide high visible light quantum efficiency, with low thermal emittance and are excellent candidate materials for high average current next generation ERLs or high repetition rate FELs. Although these materials have some excellent characteristics, control of the growth mode of the thin film and ultimately the surface roughness is difficult and will effect the emittance that can be obtained in high gradient fields. To complement our growth studies of crystalline phases using x-ray diffraction studies, here we use the technique of grazing incidence small angle x-ray scattering (GI-SAXS) and atomic force microscopy (AFM) to measure the roughness as a function of film thickness. In this study, we demonstrate these techniques as applied to the growth of Sb, for a range of thicknesses, temperatures and growth rates, and show the wide range of moprphologies that can be formed with relatively minor changes in deposition conditions.
+
+ 
+
+
+ 
+
+
+
+THPAC13
+Simulation and Optimization of Multi-Slit Based Emittance Measurement for BNL ERL
+1166
+
+
+ 
+
+C. Liu, D.M. Gassner, D. Kayran, M.G. Minty, P. Thieberger
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+A code for determining the beam emittance from a multi-slit image has been developed. To verify its validity, we simulated a beam distribution in 4D phase space at the multi-slit position and the resulting image at a downstream profile measurement device. We applied the algorithm to this image pattern to recover the beam emittance at the slit position. The dependence of the relative difference of the inferred emittance and the input emittance on the slit width and drift length are studied in detail and presented in this report.
+
+ 
+
+
+ 
+
+
+
+THPAC14
+3D Hall Probe Calibration System at Insertion Device Magnetic Measurement Facility at BNL
+1169
+
+
+ 
+
+M.M. Musardo, T.M. Corwin, D.A. Harder, P. He, C.A. Kitegi, W. Licciardi, G. Rakowsky, T. Tanabe
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+Hall probes are commonly used to measure local magnetic field, however they need to be calibrated. This paper describes the accurate 3D Hall probe calibration system developed by the NSLS-II Insertion devices group. The calibration system and the calibration curves are presented. An Arepoc 3D Hall probe used to characterize the Insertion Devices (IDs) has been calibrated. The probe contains three sensors oriented perpendicular to each other in order to measure three components of the magnetic field. The three Hall sensors are mounted on a circuit board and their active area dimensions are 0.05 mm x 0.05 mm with a linearity error up to 1 T less of 0.2%.
+
+ 
+
+
+ 
+
+
+
+THPAC15
+NSLS-II Magnetic Measurement System Facility
+1172
+
+
+ 
+
+M.M. Musardo, T.M. Corwin, D.A. Harder, P. He, C.A. Kitegi, W. Licciardi, G. Rakowsky, J. Rank, C. Rhein, T. Tanabe
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+The National Synchrotron Light Source II at Brookhaven National Laboratory (BNL) is a storage ring of 3 GeV electron beam energy that will provide ultra high brightness and flux and exceptional beam stability using advanced insertion devices (IDs). The magnetic characterization of these devices is important to achieve these performances. In order to perform precise and accurate measurements of the NSLS-II IDs, several recent improvements on actual magnetic measurement system have been developed. The system includes a flipping coil bench to measure the first and second magnetic field integrals and a Hall probe bench to perform magnetic field measurements of different types of IDs. The main features of the hardware system, control program and the recent improvements in the magnetic measurements system are presented.
+
+ 
+
+
+ 
+
+
+
+THPAC16
+Upgrade of Beam Injection Diagnostics at BNL NSLS
+1175
+
+
+ 
+
+S. Seletskiy, Y. Hidaka, B. Podobedov, X. Yang
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+In this paper we report the upgrade of the diagnostics of the beam injection system at BNL NSLS. Installation of the commercially available turn-by-turn BPMs in the VUV and X-Ray rings allowed us to build detailed injection models for each of the rings and led to creating the operational tools for real time monitoring and improving of the beam injection into the rings.
+
+ 
+
+
+ 
+
+
+
+THPAC17
+Alkali Antimonide Photocathodes for Everyone
+1178
+
+
+ 
+
+J. Smedley, K. Attenkofer, S.G. Schubert
+                       BNL, Upton, Long Island, New York, USA
+I. Ben-Zvi, X. Liang, E.M. Muller, M. Ruiz-Osés
+                       Stony Brook University, Stony Brook, USA
+J. DeFazio
+                       PHOTONIS USA PENNSYLVANIA, INC., Lancaster, USA
+H.A. Padmore, J.J. Wong
+                       LBNL, Berkeley, California, USA
+J. Xie
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: The authors wish to acknowledge the support of the US DOE, under Contract No. KC0407-ALSJNT-I0013, DE-AC02-98CH10886 and DE-SC0005713. Use of CHESS is supported by NSF award DMR-0936384.
+Alkali Antimonide photocathodes have yielded the highest current on record for any photoinjector source (75 mA), with QE of ~10% for green light. However, traditional growth methods for these cathodes yield material that is inherently rough, leading to rise of the intrinsic emittance for high gradient injectors such as those for next-generation light sources. It this presentation we will explore the origin of roughness in these materials, as well as the growth dynamics, using in situ and in operando techniques, including Grazing Incidence X-ray Diffraction, Grazing Incidence Small Angle X-ray Scattering, X-ray reflectivity and in vacuum Atomic Force Microscopy.
+
+ 
+
+
+ 
+
+
+
+THPAC18
+Progress on Growth of a Multi-alkali Photocathode for ERL
+1181
+
+
+ 
+
+E. Wang, S.A. Belomestnykh, I. Ben-Zvi, T. Rao, J. Smedley
+                       BNL, Upton, Long Island, New York, USA
+I. Ben-Zvi, M. Ruiz-Osés
+                       Stony Brook University, Stony Brook, USA
+X. Liang
+                       SBU, Stony Brook, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy and DOE grant at Stony Brook DE-SC0005713
+K2CsSb is a robust photocathode capable of generating electron beams with high peak, high average current and low thermal emittance. During the last two year, a great improvement in the design and fabrication of a reliable deposition system suitable for K2CsSb cathode growth and its insertion into BNL high current ERL SRF gun has been achieved. A standard procedure for the growth of multi-alkali cathodes combined with another procedure to transport these cathodes into the SRF gun was developed. The first cathode growth on a copper insertion was ready to mount into the 704MHz gun. In this article, we will describe the progress of cathode growth and transportation for ERL project. In particular, laser heating and the cathode growth on Ta will be included.
+
+ 
+
+
+ 
+
+
+
+THPAC19
+Temperature Dependence of Photoemission from Copper and Niobium
+1184
+
+
+ 
+
+J.R. Harris
+                       CSU, Fort Collins, Colorado, USA
+C.W. Bennett, M.D. Galt, A.D. Holmes, A. Kara, R. Swent
+                       NPS, Monterey, California, USA
+J.W. Lewellen
+                       LANL, Los Alamos, New Mexico, USA
+J. Sears
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was funded by the Office of Naval Research and the High Energy Laser Joint Technology Office.
+Photocathodes remain the principal electron sources for many particle accelerators. With the increasing interest in the use of superconducting radiofrequency electron guns, it is important to understand how operation at cryogenic temperatures affects the performance of photocathodes. Here we report measurements of the quantum efficiency of copper and niobium under illumination with 266 nm light at temperatures between 85K and 400K. The quantum efficiency of copper was found to vary strongly over this range, while there was only a minimal change in the quantum efficiency of niobium.
+
+ 
+
+
+ 
+
+
+
+THPAC20
+Beam Position and Phase Measurements of Microampere Beams at the Michigan State University ReA3 Facility
+1187
+
+
+ 
+
+J.L. Crisp, B. Durickovic, G. Kiupel, D. Leitner, J.A. Rodriguez, T. Russo, R.C. Webber, W. Wittmer
+                       FRIB, East Lansing, USA
+C.I. Briegel, N. Eddy, B.J. Fellenz, D. Slimmer
+                       Fermilab, Batavia, USA
+D. Constan-Wahl, S.W. Krause, S. Nash
+                       NSCL, East Lansing, Michigan, USA
+M. Wendt
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+A high power CW, heavy ion linac will be the driver accelerator for the Facility for Rare Isotope Beams being designed at Michigan State University. The linac requires a Beam Position Monitoring (BPM) system with better than 100 micron resolution at 100 microamperes beam current. A low beam current test of the candidate technology, button pick-ups and direct digital down-conversion signal processing, was conducted in the ReA3 re-accelerated beam facility at MSU. The test is described. Beam position and phase measurement results, demonstrating ~200 micron and ~1 degree resolution in a 90 kHz bandwidth for a 0.5 microampere beam current, are reported.
+
+ 
+
+
+ 
+
+
+
+THPAC23
+Lifetime Study of Tungsten Filaments  in an H− Surface Convertor Ion Source
+1190
+
+
+ 
+
+I. Draganić, J.F. O'Hara, L. Rybarcyk
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+The tungsten filaments are critical components that limit the lifetime of the H− surface convertor ion source. Their finite lifetime has a huge impact on the maintenance schedules and overall availability of an accelerator facility. We present in this work a simple analytical filament lifetime model and 3D thermal simulation explaining basic phenomena of filament erosion and electrical resistance changes during a normal run of an H− production ion source at the Los Alamos Neutron Science Center (LANSCE). The calculation of filament longitudinal temperature profile takes into consideration the effects of ohmic heating, thermal conductivity and total emissivity for tungsten wires in high vacuum. The simulation includes the DC voltage operation of the filament with and without pulsed arc discharge current and gives the differential filament resistance changes, metal evaporation rates and theoretical electron emission currents. The results of the computation are compared with observed experimental data recorded using the EPICS control system during a normal LANSCE production cycle of 28 days with pulse repetition of 60 Hz and duty factor of 5%.
+
+ 
+
+
+ 
+
+
+
+THPAC24
+PIN Diode Detectors at DARHT II
+1193
+
+
+ 
+
+J.B. Johnson
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: US Dept. of Energy
+PIN diode detectors are a useful diagnostic tool for accelerator operations. The DARHT II electron beam accelerator utilizes an array of 12 PIN diodes to detect the location of high voltage column electron emissions during abnormal injector events. The PIN diodes are located outside the injector vacuum vessel and detect the x-rays that are produced when the -2MeV column electrons strike the vacuum vessel wall. This paper describes the PIN diode selection, calibration and use on the accelerator.
+
+ 
+
+
+ 
+
+
+
+THPAC25
+LANSCE-RM Wire Scanners: SLIP-Encoded Serial Communication for Maintenance Display at the Instrument
+1196
+
+
+ 
+
+J.D. Sedillo, J.D. Gilpatrick
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy
+The newest LANSCE-RM wire scanner control systems at Los Alamos National Laboratory’s LANSCE particle accelerator facility utilize touch-panel displays for limited status and control at the instrument. Since the wire scanner control hardware utilizes a National Instruments CompactRIO embedded controller, no display may be interfaced to the CompactRIO via conventional means. Thus, in order to display information from the CompactRIO, a touch-panel display and computer combo unit has been added to each wire scanner control chassis with information being exchanged via a common, RS-232 interface. This paper describes the maintenance features available at the touch screen and the underlying SLIP communication scheme used for simple packetized transfer of data between the touch-panel display and the CompactRIO.
+
+ 
+
+
+ 
+
+
+
+THPAC26
+Analog Front End Design for High Speed Digitizing of Beam Position and Phase Measurements at LANSCE
+1199
+
+
+ 
+
+H.A. Watkins, J.D. Gilpatrick, R.C. McCrady
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy.
+The Los Alamos Neutron Science Center (LANSCE) is currently developing beam position and phase measurements for its 805-MHz linac as part of the LANSCE risk mitigation project. Beam position and phase monitors (BPPMs) with four shorted striplines have been installed throughout the linac. The BPPM electronics will sample each stripline at 240 MS/s and use a field programmable gate array (FPGA) to calculate position and phase of the beam relative to the linac reference. The beam micro-pulses from each electrode must be filtered and amplified to provide the correct frequency and amplitude level to the digitizer. This paper describes the signal conditioning required to interface LANSCE BPPMs to high speed digitizers, the diagnostic capabilities of the analog front end (AFE) module, digital control of the AFE module and design considerations to meet these objectives.
+
+ 
+
+
+ 
+
+
+
+THPAC29
+Fabrication and Validation of a Normal Conducting Radio Frequency S-Band Deflecting Cavity for the Pohang Accelerator Laboratory (PAL)
+1202
+
+
+ 
+
+L. Faillace, R.B. Agustsson, J.J. Hartzell, A.Y. Murokh, S. Storms
+                       RadiaBeam, Santa Monica, USA
+
+ 
+
+
+ 
+
+Radiabeam Technologies recently developed an S-Band normal-conducting radio-Frequency (NCRF) deflecting cavity for the Pohang Accelerator Laboratory (PAL) in order to perform longitudinal characterization of the sub-picosecond ultra-relativistic electron beams. The device is optimized for the 135 MeV electron beam parameters. The 1m-long PAL deflector is designed to operate at 2.856 GHz and features short filling time and femtosecond resolution. RF design, fabrication, RF validation and tuning will be presented, as well as initial beam measurements.
+
+ 
+
+
+ 
+
+
+
+THPAC32
+Transverse Beam Profile Diagnostic Using Fiber Optic Array
+1205
+
+
+ 
+
+S. Wu, R.B. Agustsson, G. Andonian, T.J. Campese, A.Y. Murokh
+                       RadiaBeam, Santa Monica, USA
+M.G. Fedurin, K. Kusche, R. Malone, C. Swinson
+                       BNL, Upton, Long Island, New York, USA
+R.K. Li
+                       UCLA, Los Angeles, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by U.S. D.O.E Contract Number DE-SC0000870
+The fiber-mesh diagnostic (FMD) is a transverse beam profile diagnostic based on the emission and detection of Cherenkov radiation produced as a relativistic electron beam traverses through an ordered bundle of fiber optics (SiO2), arranged in a hexagonal close-pack configuration. Sub-10μm transverse beam profile resolution is attainable due to fiber optic core concentricity. Adequate SNR is achieved using a standard CCD sensor. A fiber optic taper input maximizes light collection efficiency by coupling each output channel to approximately single-pixel pitch. A v-groove holder and assembly process was developed to hold many fiber layers in the desired configuration. In this paper, we present results from a fully functional FMD prototype evaluated at the BNL ATF facility that demonstrates the efficacy of this diagnostic.
+
+ 
+
+
+ 
+
+
+
+THPAC33
+Scintillator Diagnostics for the Detection of Laser Accelerated Ion Beams
+1208
+
+
+ 
+
+N.M. Cook
+                       Stony Brook University, Stony Brook, USA
+R.S. Lefferts
+                       SBUNSL, Stony Brook, New York, USA
+O. Tresca
+                       BNL, Upton, Long Island, New York, USA
+V. Yakimenko
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Radiation pressure acceleration with ultraintense laser pulses presents an exciting new scheme for accelerating ions. One of the advantages conferred by using a gaseous laser and target is the potential for a fast (several Hz) repetition rate. This requires diagnostics which are not only comprehensive for a single shot, but also capable of repeated use. We consider several scintillators as candidates for an imaging diagnostic for protons accelerated to MeV energies by a CO2 laser focused on a gas jet target. We have measured the response of chromium-doped alumina (Chromox), CsI:Tl, and two polyvinyl toluene (PVT) screens to protons in the 2 – 8 MeV range using a CCD camera. We have calibrated the luminescent yield in terms of photons emitted per incident proton for each scintillator. We also discuss how light scattering and material properties affect detector resolution. Furthermore, we consider material damage and the presence of an afterglow under intense exposures. Our analysis reveals a near order of magnitude greater yield from Chromox in response to proton beams at > 5 MeV energies, while scattering effects favor PVT at lower energies.
+Many thanks are due to M. Babzien, A. Drees, K. Kusche, and A. Lipski for their contributions to this work.
+
+ 
+
+
+ 
+
+
+
+THPAC34
+Diamond Amplifier Design and Preliminary Test Results
+1211
+
+
+ 
+
+T. Xin, S.A. Belomestnykh, I. Ben-Zvi
+                       Stony Brook University, Stony Brook, USA
+S.A. Belomestnykh, I. Ben-Zvi, T. Rao, J. Skaritka, J. Smedley, E. Wang, Q. Wu
+                       BNL, Upton, Long Island, New York, USA
+M. Gaowei, E.M. Muller
+                       SBU, Stony Brook, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work is supported at BNL by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. DOE. The work at Stony Brook is supported by the US DOE under grant DE-SC0005713.
+Diamond as a large energy gap material can be easily made into a negative electron affinity (NEA) device. Using a few keV primary electrons as input and a few kV bias, the NEA diamond will emit cold electrons into vacuum with a large gain. We had tested and reported the performance of the diamond amplifier in our DC system somewhere else. The best amplification achieved so far was above 170. Next step of the experiment is to test the diamond amplifier in the 112 MHz superconducting RF electron gun. In this report we describe the design and simulations of the diamond amplifier to be tested in our SRF gun, show the finished amplifier containing the DC primary gun and light optics. We also provide preliminary test results of the laser and electron beam transport.
+
+ 
+
+
+ 
+
+
+
+THPAC35
+Multipacting Study of 112 MHz SRF Electron Gun
+1214
+
+
+ 
+
+T. Xin, S.A. Belomestnykh, I. Ben-Zvi
+                       Stony Brook University, Stony Brook, USA
+S.A. Belomestnykh, I. Ben-Zvi, X. Liang, T. Rao, J. Skaritka, E. Wang, Q. Wu
+                       BNL, Upton, Long Island, New York, USA
+C.H. Boulware, T.L. Grimm
+                       Niowave, Inc., Lansing, Michigan, USA
+X. Liang
+                       SBU, Stony Brook, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work is supported at BNL by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. DOE. The work at Stony Brook is supported by the US DOE under grant DE-SC0005713.
+The 112 MHz quarter wave superconducting electron gun was designed and built as an injector for the coherent electron cooling experiment. Besides that, the gun is suitable for testing various types of photocathodes thanks to its specially designed cathode holder. In recent RF tests of the gun at 4 K, the accelerating voltage reached 0.9 MV CW and more than 1 MV in pulsed mode. During this testing, we observed several multipacting barriers at low electromagnetic field levels. Since the final setup of the gun will be different from the cool down test configuration, we want to understand the exact location of the multipacting sites. We used Track3P to simulate multipacting. The results show several resonant trajectories that might be responsible for the observed barriers, but fortunately no strong multipacting barriers have been found in the cavity.
+
+ 
+
+
+ 
+
+
+
+THPAC36
+Progress in the Development of Textured Dysprosium for Undulator Applications
+1217
+
+
+ 
+
+F.H. O'Shea
+                       UCLA, Los Angeles, California, USA
+R.B. Agustsson, Y.C. Chen, T.J. Grandsaert, A.Y. Murokh, K.E. Woods
+                       RadiaBeam, Santa Monica, USA
+J. Park, R.L. Stillwell
+                       NHMFL, Tallahassee, Florida, USA
+
+ 
+
+
+ 
+
+RadiaBeam Technologies is in the process of developing bulk textured dysprosium as a potential replacement for CoFe steel as undulator poles. For cryogenic undulators that can be cooled below the ferromagnetic transition of dysprosium, textured dysprosium offers potential increase in the peak field of the undulator. Here we report on the progress of the project, including magnetization curves for the material and simulations of a short period undulator utilizing the material.
+
+ 
+
+
+ 
+
+
+
+THPAC37
+Surface Plasmon Resonance Enhanced Multiphoton Emission from Metallic Cathode
+1220
+
+
+ 
+
+H.L. To, G. Andonian, R.K. Li, P. Musumeci
+                       UCLA, Los Angeles, California, USA
+G. Andonian
+                       RadiaBeam, Marina del Rey, USA
+
+ 
+
+
+ 
+
+We investigate the effect of surface plasmonic optical field enhancement on multiphoton emission from a metallic photocathode. In a previous experiment *, two orders of magnitude increase in charge yield was obtained using a slightly off resonance nanohole array plasmonic structure. In a new attempt, a nanohole structure will be fabricated, using focused ion beam milling, such that the resonance wavelength is at 800 nm, the central wavelength of the photoinjector driver laser pulse. The charge yield is expected to increase dramatically compared to the charge yield from previous nanostructure. We will also present optical characterization of the nanostructures as well the beam characteristics (intrinsic emittance and bunch length) from this nanostructured photocathode.
+* Li et al., PRL 2013.
+
+ 
+
+
+ 
+
+
+
+

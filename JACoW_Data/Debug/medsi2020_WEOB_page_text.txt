@@ -1,0 +1,232 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEDSI2020 - Table of Session: WEOB (Wednesday Contributed Oral Session B)
+
+
+WEOB —  Wednesday Contributed Oral Session B   (28-Jul-21   11:15—12:15)
+Chair: G. Navrotski, ANL, Lemont, Illinois, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEOB01
+Engineering Challenges in BioSAXS for Australian Synchrotron
+224
+
+
+ 
+
+S. Venkatesan, L. Barnsley, A.J. Clulow, A.P. Mazonowicz, C.J. Roy
+                       AS - ANSTO, Clayton, Australia
+G. Conesa-Zamora, R. Grubb, H. Hamedi, B. Jensen, C.S. Kamma-Lorger, V.I. Samardzic-Boban
+                       ANSTO, Menai, New South Wales, Australia
+
+ 
+
+
+ 
+
+The Biological Small Angle X-Ray Scattering (BioSAXS) beamline is the third beamline designed, developed and soon to be installed as part of BRIGHT Program at the Australian Synchrotron. The BioSAXS beamline will allow highly radiation sensitive samples to be studied at high flux. The beamline will offer increased efficiency, and data quality, for all liquid phase scattering experiments, allowing measurement of new and novel samples, and experiments, that otherwise would not be possible. The BioSAXS beamline will accommodate a wide range of experiments by offering a q-range of ~ 0.001 - 4 Å-1 and an optical design optimized for high flux (~5x1014 ph/s) x-rays. At this flux rate, BioSAXS will offer users one of the highest flux beamlines in the world. To achieve this, the beamline will use a superconducting undulator insertion device, double multilayer monochromator, and vertical and horizontal bending mirrors, providing flexibility in optical configurations. The beamline will primarily collect data in a fully unfocussed mode. BioSAXS will also be able to achieve a fully focused and a vertically focussed beam. This subsequent variation in the beam position at sample is accommodated through fully automated motion in 5 axes at the in-vacuum detector stage and 4 axes in the sample table. The design of these components allows smooth transition in camera lengths and improved signal to noise ratio. This paper presents the various engineering challenges in this high flux design, including thermal management of critical components, design developments to accommodate the various operational modes and various stages of the Photon Delivery System and Experimental Station components. The paper aims to present details of design, FEA results and approaches taken to solve problems.
+
+ 
+
+
+
+
+
+
+Slides WEOB01 [1.934 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-WEOB01
+
+ 
+
+
+About •
+paper received ※ 13 August 2021       paper accepted ※ 29 October 2021        issue date ※ 08 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEOB02
+Flexible X-ray Focusing using CRL Transfocators for in situ GI-SAXS/WAXS Experiments at MiNaXS/P03
+ 
+
+
+ 
+
+J.R. Rubeck, A. Chumakov, S. Roth, M. Schwartzkopf
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+P03 operates a micro- and nanofocus endstation both capable of transmission as well as grazing-incidence X-ray scattering experiments*,**,***. The beam sizes range from typically 22 x 13 ’m2 to 350 x 250 nm2. Common, unique features of the different focusing schemes are the exceptional long focal distance, allowing for a variety of advanced in situ and operando sample environments*,****. The newly commissioned CRL3-system consists of two binary stacks of one-dimensional 1D BeCRL mounted on an in-vacuum lens-exchanger with two train units, piezo-driven motors and a hexapod for generating a round-shaped microfocus beam with increased flux at 600 mm focal distance. An additional condenser system CRL4 for beam parallelization prior to focusing systems will increase the flux at both endstations. CRL4 consists of two Smarpods in-vacuum stages, both equipped with a stepped cascade of 1D lenses each for decoupled horizontal and vertical focusing. We will present the different focusing schemes incl. projected performances as well as current status of both new CRL-stations and technical challenges, e.g., space constraints, precise positioning, stability and high-vacuum compatibility.
+*Buffet et al., J. Synchr. Rad. 19 647, 2012  **Krywka et al., J. Appl. Cryst. 45 85,2012  ***Santoro et al., Rev. Sci. Instr. 85 043901, 2014  ****Schwartzkopf and Roth, Nanomaterials 6 239, 2016 
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides WEOB02 [5.775 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEOB03
+Development of a Linear Fast Shutter for BM05 at ESRF and BEATS at SESAME
+229
+
+
+ 
+
+C. Muñoz Pequeño, J.M. Clement, P. Thevenau, P. Van Vaerenbergh
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+This paper presents the design of a new linear fast shutter for topography and tomography. A prototype will be assembled and tested at the BM05 beamline at ESRF, and another unit will be installed in the future BEATS beamline at SESAME. The application of the shutter in X-ray diffraction topography allows performance of long exposure cycles of monochromatic beam on crystal samples while preventing irradiation of the detector during readout. It can be also used during sample alignment and acquisition of X-ray tomography scans. Particularly for white-beam tomography, which uses a very high photon flux, minimizing exposure is critical to protect the sample and detector from radiation damage. This highlights the importance of obtaining a short and uniform exposure time over the beam aperture. To fulfill this objective, a new shutter based on the synchronization of two tantalum blades driven by linear brushless DC motors is under development. This versatile design can be used with both monochromatic and white-beam, and it can achieve exposure times ranging from 50 ms to 60 s for a beam size of H 80 mm x V 20 mm. The linear motors allow for a much smoother operation, preventing vibration issues reported with the old shutter. In addition, the use of linear motors rather than solenoids allows an unlimited exposure time, where the previous version used solenoids that could overheat if kept open for too long. A test bench has been constructed for the characterization of the sequence produced by the linear motors, and exposure times of 50 ms with a maximum error of 1 ms have been measured. This article describes the main features of the shutter prototype and its associated motion control system, and the results of the measurements with the motor test bench are discussed as well.
+
+ 
+
+
+
+
+
+
+
+
+
+				  Your browser cannot play the video.
+			      Consider download from Link Address.
+		     
+
+
+                     
+          
+
+Right click on video forPicture-in-Picture modeor Full screen display.At start the sound is muted!
+          
+
+
+ 
+
+
+
+
+
+
+Slides WEOB03 [1.428 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2020-WEOB03
+
+ 
+
+
+About •
+paper received ※ 18 July 2021       paper accepted ※ 19 October 2021        issue date ※ 02 November 2021
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,214 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: WESH2 (Speakers’ Corner)
+
+
+WESH2 —  Speakers’ Corner   (09-Oct-19   18:00—19:45)
+Chair: S. Nemesure, BNL, Upton, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+WESH2001
+CS-Studio Alarm System Based on Kafka
+1504
+
+
+WEPHA077
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+K.-U. Kasemir
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under contract number DE-AC05-00OR22725.
+The CS-Studio alarm system was originally based on a relational database and the Apache ActiveMQ message service. The former was necessary to store configuration and state, while the latter communicated state updates and user actions. In a recent update, the combination of relational database and ActiveMQ have been replaced by Apache Kafka. We present how this simplified the implementation while at the same time improving performance.
+
+ 
+
+
+
+
+
+
+Poster WESH2001 [1.938 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WESH2001
+
+ 
+
+
+About •
+paper received ※ 26 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WESH2002
+EPICS pva Access Control at ESS
+1509
+
+
+WEPHA160
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+G. Weiss
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+At the European Spallation Source, PV Access has been selected as the default EPICS protocol. However, PV Access in the initial releases of EPICS 7 does not implement any access control of client requests. In order to be able to protect selected process variables (PVs) from write requests that may cause harm to the system, some type of access control is needed. This paper details how PV Access is extended to partially reuse the access control available in Channel Access, while at the same time providing additional features. It also explains how ESS intends to deploy and manage access control in terms of infrastructure, tools and responsibilities. Limitations of the access control mechanism are also discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WESH2002
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 23 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WESH2003
+Toward Continuous Delivery Of A Nontrivial Distributed Software System
+1511
+
+
+WEPHA156
+  use link to see paper's listing under its alternate paper code
+ 
+
+
+ 
+
+S. Wai
+                       SARAO, Cape Town, South Africa
+
+ 
+
+
+ 
+
+Funding: SKA South Africa National Research Foundation of South Africa Department of Science and Technology
+The MeerKAT Control and Monitoring(CAM) solution is a mature software system that has undergone multiple phases of construction and expansion. It is a distributed system with a run-time environment of 15 logical nodes featuring dozens of interdependent, short-lived processes that interact with a number of long-running services. This presents a challenge for the development team to balance operational goals with continued discovery and development of useful enhancements for its users (astronomers, telescope operators). Continuous Delivery is a set of practices designed to always keep software in a releasable state. It employs the discipline of release engineering to optimise the process of taking changes from source control to production. In this paper, we review the current path to production (build, test and release) of CAM, identify shortcomings and introduce approaches to support further incremental development of the system. By implementing patterns such as deployment pipelines and immutable release candidates we hope to simplify the release process and demonstrate increased throughput of changes, quality and stability in the future
+
+ 
+
+
+
+
+
+
+Slides WESH2003 [2.933 MB]
+        
+ 
+
+
+
+
+
+
+Poster WESH2003 [1.448 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-WESH2003
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

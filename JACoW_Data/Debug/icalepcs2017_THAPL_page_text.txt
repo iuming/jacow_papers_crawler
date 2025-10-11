@@ -1,0 +1,332 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2017 - Table of Session: THAPL (User Interfaces and User eXperience (UX) 2)
+
+
+THAPL —  User Interfaces and User eXperience (UX) 2   (12-Oct-17   09:30—10:45)
+Chair: A. Gotz, ESRF, Grenoble, France
+
+
+Paper
+Title
+Page
+
+
+
+THAPL01
+Implementation of Web-based Operational Log System at RIBF
+1073
+
+
+ 
+
+A. Uchiyama, N. Fukunishi, M. Komiyama
+                       RIKEN Nishina Center, Wako, Japan
+
+ 
+
+
+ 
+
+The operational log system is one of the electric log systems for recording and viewing the accelerator operation time and contents of an operated device. Zlog (Zope-based log system)* developed by KEK was utilized for the RIBF control system. Zope is an open-source Web server and Web application framework written in Python. Using the Web application, information on accelerator operation is designated by a character string on Web browsers. However, the displayed string character on the Web browser will be complex for accelerator operators because many parameters are changed in accelerator operation, though the Web-based system has many advantages. For smoother accelerator operation, an ergonomically designed operational log system is required. Therefore, we developed a new operational log system for RIBF control system. The new system is possible to provide operational logs with a variety of rich GUI components. As of now, the operational log system has been working for accelerator operation by monitoring approximately 3,000 points as the EPICS record without any serious problem.
+*K. Yoshii et al.: Proc. ICALEPCS07, (2007), p. 299.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/AK3_8x9KlTM
+        
+ 
+
+
+
+
+
+
+Slides THAPL01 [10.499 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THAPL01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THAPL02
+Best Practices for Efficient Development of JavaFX Applications
+1078
+
+
+ 
+
+G. Kruk, O. Da Silva Alves, L. Molinari, E. Roux
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+JavaFX, the GUI toolkit included in the standard JDK, has reached a level of maturity enabling its usage for Control Systems applications. Property bindings, built-in separation between logic (Controller) and visual part (FXML) that can be designed with Scene Builder, combined with the leverage of Java 8 features such as λ expressions or method references, make this toolkit a very compelling choice for the creation of clean and testable GUI applications. This article describes best practices and tools that improve developer's efficiency even further. Structuring applications for productivity, simplified FXML loading, the application of Dependency Injection and Presentation Model patterns, testability are discussed among other topics, along with support of IDE tooling.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/18aAg4PNeis
+        
+ 
+
+
+
+
+
+
+Slides THAPL02 [7.691 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THAPL02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THAPL03
+Usability Recommendations for the SKA Control Room Obtained by a User-Centred Design Approach
+1084
+
+
+ 
+
+V. Alberti
+                       INAF-OAT, Trieste, Italy
+G. Brajnik
+                       IDS, Udine, Italy
+
+ 
+
+
+ 
+
+Funding: INAF
+User-Centered Design is a powerful approach for designing UIs that match and satisfy users' skills and expectations. Interviews, affinity diagrams, personas, usage scenarios are some of the fundamental tools for gathering and analysing relevant information. We applied these techniques to the development of the UI for the control room of the Square Kilometre Array (SKA) telescopes. We interviewed the personnel at two of the SKA precursors, LOFAR and MeerKAT, with the goal of understanding what features satisfy operators' needs and which ones can be improved. What was learned includes several usability issues dealing with fragmentation and low cohesiveness of the UIs, some gaps, and an excessive number of user actions needed to achieve certain goals. Low usability of the UI and the large scale of SKA are two challenges in developing its UI because they affect the extent to which operators can focus on important data, the likelihood of human errors and their consequences. This paper illustrates the followed method, provides examples of some of the artefacts that were produced and describes and motivates the resulting usability recommendations which are specific for SKA.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/0jjtwD1wE7w
+        
+ 
+
+
+
+
+
+
+Slides THAPL03 [1.017 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THAPL03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THAPL04
+Python for User Interfaces at Sirius
+1091
+
+
+ 
+
+G.S. Fedel, D.B. Benizpresenter, L.P. Do Carmo, J.R. Piton
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Sirius is the new Brazilian Synchrotron and will be finished in 2018. Based on experiences at LNLS UVX light source along with researches and implementations, we present our new approach to develop user interfaces for beamlines control. On this process, the main tools explored are Python, Qt and some Python libraries: PyQt, PyDM and Py4syn. Powerful resources of these modules and Python straightforward coding guarantee flexible user interfaces: it is possible to combine graphical applications with intelligent control procedures. At UVX, EPICS and Python are software tools already used respectively for distributed control system and control routines. These routines often use Py4Syn, a library which provides high-level abstraction for devices manipulation. All these features will continue at Sirius. More recently PyQt turned out to be a compatible and intuitive tool to build GUI applications, binding Qt to Python. Also PyDM offers a practical framework to expose EPICS variables to PyQt. The result is a set of graphical and control libraries to support new user interfaces for Sirius beamlines.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/wZjOwdMuYyM
+        
+ 
+
+
+
+
+
+
+Slides THAPL04 [1.391 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THAPL04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THAPL05
+Nomad 3D: Augmented Reality in Instrument Control
+1098
+
+
+ 
+
+Y. Le Goc, F. Cecillon, P. Mutti
+                       ILL, Grenoble, France
+
+ 
+
+
+ 
+
+The life cycle of an ILL instrument has two main stages. During the design of the instrument, a precise but static 3D model of the different components is developed. Then comes the exploitation of the instrument of which the control by the Nomad software allows scientific experiments to be performed. Almost all instruments at the ILL have moveable parts often hidden behind radiological protection elements such as heavy concrete walls or casemate. Massive elements of the sample environment like magnets and cryostats must be aligned in the beam. All those devices are able to collide with the surrounding environment. To avoid those types of accident, the instrument moves must be checked by a pre-experiment simulation that will reveal possible interferences. Nomad 3D is the application that links the design and the experiment aspects providing an animated 3D physical representation of the instrument while it moves. Collision detection algorithms will protect the moveable parts from crashes. During an experiment, it will augment the reality by enabling to "see" behind the walls. It will provide as well a precise virtual representation of the instrument during the simulations.
+
+ 
+
+
+
+
+
+
+Talk as video stream: https://youtu.be/Gt2u0sH4vb8
+        
+ 
+
+
+
+
+
+
+Slides THAPL05 [117.101 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2017-THAPL05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

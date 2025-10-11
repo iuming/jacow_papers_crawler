@@ -1,0 +1,103 @@
+{
+  "session_info": {
+    "id": "MOAB",
+    "name": "MOAB - Contributed Orals (MC6)",
+    "url": "https://proceedings.jacow.org/IPAC2015/html/moab.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOAB1",
+      "title": "High Beam Intensity Harp Studies and Developments at SNS",
+      "authors": [
+        "ORNL",
+        "Oak Ridge",
+        "Tennessee",
+        "USA",
+        "The Spallation Neutron Source (SNS) Harp consists of 30 wires for each of the horizontal",
+        "vertical",
+        "and diagonal planes. The purpose of the harp is to measure the position",
+        "profile",
+        "and peak density of the high intensity beam coming out of the accumulator ring and going onto the spallation target. The data-acquisition hardware is now over ten years old and many of the electronics parts are obsolete. Occasionally",
+        "the electronics must be rebooted to reset the sample-and-hold circuitry. To evaluate options for a new system",
+        "the signals from the harp were studied. This paper will describe these studies’ results",
+        "the design",
+        "and initial results of the new and simpler data-acquisition system.."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2015/talks/moab1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2015/papers/moab1.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2015/posters/moab1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2015-MOAB1",
+      "page_number": "17",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOAB2",
+      "title": "Overview of Beam Instrumentation for the CADS Injector I Proton Linac",
+      "authors": [
+        "Y.F. Sui",
+        "J.S. Cao",
+        "Q.Y. Deng",
+        "J. He",
+        "H.Z. Ma",
+        "L. Wang",
+        "Q. Ye",
+        "L. Yu",
+        "J.H. Yue",
+        "X.Y. Zhao",
+        "Y. Zhao",
+        "IHEP",
+        "People's Republic of China",
+        "The driver linac of the China Accelerator Driven Subcritical system (C-ADS)",
+        "which is composed of an ECR ion source",
+        "a low energy beam transport line (LEBT)",
+        "a radio frequency quadrupole accelerator (RFQ)",
+        "a medium energy beam transport line (MEBT) and cryomodules with SRF cavities to boost the energy up to 10 MeV. The injector linac will be equipped with beam diagnostics to measure the beam position",
+        "the transverse profile and emittance",
+        "the beam phase as well as beam current and beam losses. Though many are conventional design",
+        "They can provide efficient operation of drive linac. This paper gives an overview of C-ADS linac beam instrumentation."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2015/talks/moab2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2015/papers/moab2.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2015/posters/moab2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2015-MOAB2",
+      "page_number": "21",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "MOAB3",
+      "title": "Commissioning Results of the New BPM Electronics of the ESRF Booster Synchrotron",
+      "authors": [
+        "I-Tech",
+        "Solkan",
+        "Slovenia",
+        "ESRF",
+        "Grenoble",
+        "France",
+        "The 75 BPM stations of the Booster Synchrotron of the ESRF have been equiped with new RF electronics from December 2014. This new BPM system is based on the commercial Libera-Spark system and now provides beam position data at various output rates",
+        "and with a possible time resolution even below that of the orbit-turn time (1 us). All modules are situated inside the Booster tunnel and powered by an Ethernet cable. This implies that the RF cables from the BPM blocks are less then 3 m and only a single trigger signal in daisy chain is sufficient to keep the 75 stations in turn-by-turn phase over the full energy ramping (200 MeV to 6 GeV) time of typically 50 ms. The high sensitivity of the system yields excellent performance at very low beam currents down to 1 0uA. Full results of the system",
+        "including the application as a high quality betatron tune monitor",
+        "will be presented."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2015/talks/moab3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2015/papers/moab3.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2015/posters/moab3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2015-MOAB3",
+      "page_number": "24",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 20:19:04"
+}

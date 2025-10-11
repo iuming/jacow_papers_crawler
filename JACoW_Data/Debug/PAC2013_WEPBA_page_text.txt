@@ -1,0 +1,469 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: WEPBA (Poster Session)
+
+
+WEPBA —  Poster Session   (02-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPBA01
+Noise Reduction using Filters on Turn-by-Turn LHC Orbits to Obtain Magnetic Errors with the Action and Phase Jump Analysis Method
+883
+
+
+ 
+
+A.C. Garcia-Bonilla, J.F. Cardona
+                       UNAL, Bogota D.C, Colombia
+
+ 
+
+
+ 
+
+The Action and Phase Jump (APJ) analysis had been successfully used to obtain magnetic errors in RHIC from orbit data, and preliminary studies using this method has been done in the LHC. Analyses in the LHC show significantly higher noise levels than for the RHIC case due to a bigger bandwidth of the LHC BPMs. Efforts to reduce the noise level like taking advantage of the thousands of turns provided by the LHC BPM system (in contrast with the few orbits used in RHIC) have been done, but there is still a possibility to reduce it further by using filters. In this work, we describe the design of a band-pass filter on LHC simulated orbits. Normal and skew quadrupole errors (A1 and B1) are introduced in the lattice and recovered after multiple turns of the particles, using the APJ analysis. Gaussian and uniform noise were added to the orbits and the band-pass filter was applied to them. Results show that the band-pass filter around the accelerator tunes reduces significantly the uncertainty on the determination of A1 and B1, when the filter is optimized by changing its bandwidth. This optimization as well as other trials like the use of a low-pass filter are presented in this work.
+
+ 
+
+
+ 
+
+
+
+WEPBA02
+Possible Observation of Transverse Laser Cooled Ultimate Cold Ion Beam in S-LSR*
+886
+
+
+ 
+
+K. Jimbo
+                       Kyoto University, Kyoto, Japan
+M. Nakao, A. Noda, T. Shirai
+                       NIRS, Chiba-shi, Japan
+H. Souda
+                       Gunma University, Heavy-Ion Medical Research Center, Maebashi-Gunma, Japan
+H. Tongu
+                       Kyoto ICR, Uji, Kyoto, Japan
+Y. Yuri
+                       JAEA/TARRI, Gunma-ken, Japan
+
+ 
+
+
+ 
+
+Transverse laser cooling is pursued at an ion storage/cooler ring, S-LSR, Kyoto University. An RF bunched Mg+ beam was cooled transversely through synchro-betatron resonance coupling by a co-propagating laser. We investigated peaks of the synchrotron oscillation spectroscopically so that we can observe it stably. Oscillation signals from a parallel-plate pickup were observed by a spectrum analyzer. We also observed the coherent synchrotron modes. As the beam temperature decreases, the ion beam would be in space charge limited region. According to the computer simulation, in the case the beam turns to be space charge limited, the disappearance of peaks of the synchrotron oscillation is expected. We would like to propose a capability of detecting space charge limited region by observation of such a frozen synchrotron oscillation.
+
+ 
+
+
+ 
+
+
+
+WEPBA04
+Luminosity Estimation and Beam Phase Space Analysis at VEPP-2000
+889
+
+
+ 
+
+A.L. Romanov, I. Koop, E. Perevedentsev, D.B. Shwartz
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Ministry of Education and Science of the Russian Federation
+Luminosity is the main output of colliders, so it is very important to measure it with speed and accuracy. VEPP-2000 has 16 beam profile monitors (BPM) which use CCD-cameras to register synchrotron light in the visible spectrum. Two luminosity estimation methods are presented, both based on beam size analysis. Although the luminosity measurements by particle detectors CMD-3 and SND are slow and have low statistical accuracy for low beam currents, their data can be used to test new faster methods. Additionally, an attempt of the phase space tomography is presented using the simulated BPM measurements of the particle distribution in a strongly non-gaussian beam.
+
+ 
+
+
+ 
+
+
+
+WEPBA05
+Combining Multiple BPM Measurements for Precession AC Dipole Bump Closure
+892
+
+
+ 
+
+P. Oddo, M. Bai, W.C. Dawson, J. Kewisch, Y. Makdisi, C. Pai, P.H. Pile, T. Roser
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy Energy and RIKEN, Japan.
+For the RHIC spin flipper to achieve a rotating field, it requires operating five AC dipoles as a pair of closed orbit bumps. One key requirement is to minimize the remnant AC dipole driven betatron oscillation outside of the spin flipper by 50dB. In the past, due to its inherent sensitivity, a single pickup with a direct-diode detector (3D) and dynamic signal analyzer (DSA) were used to measure bump closure by measuring the remnant oscillations. This however proved to be inadequate, as the betatron phase advance between the AC dipoles is non-zero. A method of combining multiple BPMs into a sensitive measure of bump closure has been developed and will be tested during RHIC polarized proton operation in 2013. This technique as well as the experimental results will be presented.
+
+ 
+
+
+ 
+
+
+
+WEPBA06
+Stripline Beam Impedance
+895
+
+
+ 
+
+A. Blednykh, W.X. Cheng, S. Krinsky
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+We discuss Lambertson and Shafer formalisms for the longitudinal and transverse beam impedances of a stripline. The required characteristic impedances and the geometric factors are determined by the solution of Laplace’s equation in 2-dimensions, which we find using the 2-D POISSON code. Lambertson’s equations are compared with numerical results obtained using the 3-D electromagnetic simulation code GdfidL. Good agreement is found at low frequencies. The results differ at high frequencies, since the analytic results do not take into account the existence of higher-order modes (HOM’s) in structures with and without smooth transitions. We then present a discussion of the stripline kicker being built for the bunch-by-bunch transverse feedback system for the NSLS-II storage ring.
+
+ 
+
+
+ 
+
+
+
+WEPBA07
+Longitudinal Wakefield for an Axisymmetric Collimator
+898
+
+
+ 
+
+A. Blednykh, S. Krinsky
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+We consider the longitudinal point-charge wakefield, w(s), for an axisymmetric collimator having inner radius b, outer radius d, inner length g and taper length L. The taper angle <image011.png> is defined by <image012.png> . Using the electromagnetic simulation code ECHO, we explore the dependence of the wakefield on a collimator’s geometric parameters over a wide range of profiles: from small-angle tapers to step-function transitions. The point-charge wakefield is determined using an approximation introduced by Podobedov and Stupakov. We have found it useful to exhibit the wakefield as a function of the scaled variable<image013.png>. For small taper angles, our results illustrate the satisfaction of the longitudinal scaling found by Stupakov, Bane and Zagorodnov; and for larger taper angles, the breaking of this longitudinal scaling is clearly depicted. The use of the scaled variable <image014.png> turns out to be especially well suited to describing the wakefield for a collimator with step-function profile <image015.png>.
+
+ 
+
+
+ 
+
+
+
+WEPBA08
+Wake Fields due to Wall Roughness for Realistic Surfaces
+901
+
+
+ 
+
+A.V. Fedotov, I. Pinayev
+                       BNL, Upton, Long Island, New York, USA
+A. Novokhatski
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy under contract No. DE-AC02-98CH10886 and DE-AC02-76SF00515.
+Wake fields due to the wall roughness of the vacuum chamber can catch up to the bunch causing energy spread and emittance growth. Several theoretical models were developed in the past which showed rather different importance of this effect. Some models suggest that wake field due to the wall roughness can be minimized if the vacuum chamber surface can be characterized by a large aspect ratio of the surface roughness (characteristic length to the height of surface bumps). To explore these effects several surfaces were measured * and direct numerical simulations were performed for such realistic surfaces. Here we discuss results of such direct simulations for real surface data and compare them with expectations based on analytic models.
+* Surface measurements used in these studies were performed by P. Takacs from the Instrumentation Division of BNL.
+
+ 
+
+
+ 
+
+
+
+WEPBA09
+Changes in Electron Cloud Density with Beam Conditioning at CesrTA
+904
+
+
+ 
+
+J.P. Sikora, J.A. Crittenden, D.O. Duggins, Y. Li, X. Liu
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the US National Science Foundation PHY-0734867, PHY-1002467, and the US Department of Energy DE-FC02-08ER41538, DE-SC0006505.
+We compare measurements of electron cloud (EC) buildup in uncoated and TiN-coated aluminum vacuum chambers as a function of integrated beam dose up to 1140 amp-hours. The EC density in newly installed bare aluminum chambers increases with beam dose, while the EC density in the TiN-coated chambers decreases with dose under the same beam conditions. Several techniques are used to monitor EC buildup. These include shielded pickups that measure the flux of cloud electrons onto the beampipe wall, and a TE wave resonance technique that measures the EC density within the volume of the beam-pipe. These measurements were made at the Cornell Electron Storage Ring, which has been reconfigured as a test accelerator CesrTA, providing positron and electron beams with energies ranging from 2 GeV to 5 GeV and a variety of bunch train configurations.
+
+ 
+
+
+ 
+
+
+
+WEPBA12
+3D Toroidal Field Multipoles for Curved Accelerator Magnets
+907
+
+
+ 
+
+L.N. Brouwer, S. Caspi, D. Robin, W. Wan
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: Director, Office of Science, High Energy Physics, and U.S. Department of Energy under contract No. DE-AC02-05CH11231 National Science Foundation under grant No. DGE 1106400.
+Curved magnets producing continuously rotating field multipoles along the length of the bend can provide strong and continuous transverse focusing, making them of interest for accelerator systems such as compact ion beam gantries and synchrotron light sources. Evaluating the utility of such rotating multipole systems requires an accurate description of field behavior for beam physics calculations. This paper presents a helical scalar potential solution in 3D toroidal harmonics relevant to boundary conditions on the surface of a torus. The resulting fields are evaluated for a curved helical quadrupole channel to illustrate field rotation and the effect of magnet curvature.
+
+ 
+
+
+ 
+
+
+
+WEPBA13
+Retrieval of Effective Parameters of Metamaterials for Accelerator and Vacuum Electron Device Applications
+910
+
+
+ 
+
+Z. Duan, J.S. Hummelt, M.A. Shapiro, R.J. Temkin
+                       MIT/PSFC, Cambridge, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by DOE, High Energy Physics (Grant No. DE-SC0010075) and the Fundamental Research Funds for the Central Universities (Grant No. ZYGX2010X010).
+Metamaterials (MTMs) are artificial electromagnetic materials comprised of sub-wavelength elements. A Double-Negative Metamaterial (DNM) has both negative permittivity and negative permeability and can be described by an effective medium theory. We investigate MTMs at microwave, millimeter wave, and THz frequencies for application as accelerator structures, as interaction circuits of high power microwave vacuum electron devices, and as beam diagnostics tools. In this paper, we propose a new method to retrieve the effective material parameters, i.e., effective permittivity and permeability. We first get the effective permeability analytically and then the effective permittivity numerically according to the dispersion characteristics. This method is different from that for the slab DNMs which is based on the scattering parameters. The approach presented here offers a solid foundation for metamaterial-based accelerator and vacuum electron device applications.
+
+ 
+
+
+ 
+
+
+
+WEPBA14
+Simulation of Wakefields from an Electron Bunch in a Metamaterial Waveguide
+913
+
+
+ 
+
+M.A. Shapiro, J.S. Hummelt, B.J. Munroe, R.J. Temkin
+                       MIT/PSFC, Cambridge, Massachusetts, USA
+S.M. Lewis
+                       MIT, Cambridge, Massachusetts, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by DOE, High Energy Physics, Grant DE-SC0010075
+A metamaterial waveguide is proposed for application in a linear accelerator. The waveguide walls are made of a metamaterial that includes complementary split-ring resonators. In such a metamaterial waveguide, the TM-like mode exists and can be excited by the electron bunch. A complementary split-ring resonator is formed by slots in a metallic plate, therefore, this metamaterial waveguide is easy to build. This makes it possible to use in high frequency linear accelerators. The metamaterial waveguide is coupled to single mode rectangular waveguides which can be connected to a microwave network for coupling power into or out of the waveguide. One attractive application of the proposed metamaterial waveguide is in electron beam bunch diagnostics. The metamaterial waveguide is designed using HFSS. The wakefield simulations are carried out using the CST Particle Studio code. The simulations are done for a single bunch as well as for a train of bunches to model the experiment. In this experiment, it is proposed to use the beam line of the Haimson Research Corporation/MIT linear accelerator operating at the frequency of 17.14 GHz.
+
+ 
+
+
+ 
+
+
+
+WEPBA15
+Ribbon Electron Beam Source for Bunched Beam Profile Monitor and Tomography
+916
+
+
+ 
+
+V.G. Dudnikov, A. Dudas
+                       Muons, Inc, Illinois, USA
+A.V. Aleksandrov
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Ribbon electron beam source with a strip cathode has been designed, fabricated and tested. Image of the ribbon electron beam with width up to 15 cm has been registered on the luminescent screen. This ribbon beam can be used for the large proton bunch profile monitoring in the Spallation Neutron Source (SNS) proton storage ring (PSR). Advanced beam diagnostics are essential for high performance accelerator beam production and for reliable accelerator operation. It is important to have noninvasive diagnostics which can be used continuously with intense beams of accelerated particles. In a novel proposed device for realization of electron probe tomography a strip cathode is used for ribbon electron beam formation instead of a scanning of pencil beam used in the previous electron probe bunch profile monitors. With this device it is possible to develop almost ideal tomography diagnostics of bunches in linear accelerators and in circular accelerators and storage rings.
+
+ 
+
+
+ 
+
+
+
+WEPBA16
+Possible Experiments on Wave Function Localization Due to Compton Scattering
+919
+
+
+ 
+
+V.V. Danilov, A.V. Aleksandrov, J. Galambos, T.V. Gorlov, Y. Liu, A.P. Shishlo
+                       ORNL, Oak Ridge, Tennessee, USA
+S. Nagaitsev
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the U.S. Department of Energy under contracts No. DE-AC02-07CH11359 and No. DE-AC05-00OR22725.
+The reduction of a particle’s wave function in the process of radiation or light scattering is a longstanding problem. Its solution will give a clue on processes that form, for example, wave functions of electrons constantly emitting synchrotron radiation quanta in storage rings. On a more global scale, it may shed light on wave function collapse due to the process of measurement. In this paper we consider various experimental options using Fermilab electron beams and a possible electron beam from the SNS linac and lasers to detect electron wave function change due to Compton scattering.
+
+ 
+
+
+ 
+
+
+
+WEPBA17
+Measurement of Non-Linear Insert Magnets
+922
+
+
+ 
+
+F.H. O'Shea, R.B. Agustsson, A.Y. Murokh, E. Spranza
+                       RadiaBeam, Santa Monica, USA
+S. Nagaitsev, A. Valishev
+                       Fermilab, Batavia, USA
+
+ 
+
+
+ 
+
+Fermilab's Integrable Optics Test Accelerator (IOTA) is an electron storage ring designed for testing advanced accelerator physics concepts, including implementation of nonlinear integrable beam optics and experiments on optical stochastic cooling. In this report we describe the contribution of RadiaBeam Technologies to the IOTA project which includes nonlinear magnet engineering, production and measurement.
+
+ 
+
+
+ 
+
+
+
+WEPBA18
+Performance of Planar Radiator in the Radiabeam-IAC Experiment
+925
+
+
+ 
+
+A.V. Smirnov, R.B. Agustsson, S. Boucher, J.J. Hartzell, S. Storms
+                       RadiaBeam, Santa Monica, USA
+Y. Kim
+                       IAC, Pocatello, IDAHO, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy (award No. DE- SC-FOA-0000760 and in part DE-FG02-07ER84877)
+Planar gratings structure for generation of mm-sub-mm wavelength long-range wakefields is analyzed. The rugged, side-open, slow wave structure can sustain substantial beam loading including long multi-bunch trains up to CW operation. Electromagnetic performance of the structure is characterized numerically vs. experiment with emphasis to application to flat beams. It is shown that such an electrically wide, wavelength-gap structure can operate at significantly reduced tolerances whereas substantial flatness of the wakefield can be obtained at essentially non-flat eigenmode profile.
+
+ 
+
+
+ 
+
+
+
+WEPBA19
+Wakefield Calculations for Septum Magnet in LCLS-II
+928
+
+
+ 
+
+K.L.F. Bane, T.O. Raubenheimer
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy under contract DE-AC02-76SF00515.
+In LCLS-II, a fast kicker and Lambertson-type septum magnet will be installed just upstream of the undulator region, in order to allow electron bunches to be directed to either of two undulators. In the envisioned scenario both undulators receive bunches with the same current profile and the same energy which will be between 7–13.5 GeV. The kicker is used to separate the two trajectories vertically in the septum by 7 mm and thus the high current beams travel close to septum metallic walls and the short-range resistive wall wakefields can become a limitation. This paper will analyze the impact of the longitudinal and transverse wakefields on the LCLS-II performance.
+
+ 
+
+
+ 
+
+
+
+WEPBA20
+New Technique to Measure the Emittance of Beams with Space Charge
+931
+
+
+ 
+
+K. Poor Řežaei, R.B. Fiorito, R.A. Kishek
+                       UMD, College Park, Maryland, USA
+
+ 
+
+
+ 
+
+Funding: Work funded by the US Dept. of Energy Office of High Energy Physics and the US Dept. of Defense Office of Naval Research and Joint Technology Office.
+Characterization of the transverse phase space of electron beams with space charge is an important requirement for high brightness particle accelerators. We present a novel technique to measure the transverse rms emittance. The method uses the beam divergence, measured, e.g. with optical transition radiation interferometry*, and the beam radius, obtained by imaging the beam, to determine the cross correlation term and thus all the terms in the equation for the rms emittance. The experimental data is obtained with a lens-drift-screen setup similar to what is used in a quadrupole scan. However, the analysis of the scan data is unique. It involves taking the cross-correlation term as a control variable in a procedure which matches the beam envelop radius and its derivative calculated from the envelope equation, with the measured radius and divergences at the screen. A linear space charge model is used in the envelope equations, hence the errors in the measurement relate to the nonuniformity of the beam transverse distribution. The technique is tested using simulated data.
+* R. B. Fiorito, et al., “Interference of diffraction and transition radiation and its application as a beam divergence diagnostic,” Phys. Rev. ST Accel. Beams, Vol. 9, pp. 052802, (2006).
+
+ 
+
+
+ 
+
+
+
+

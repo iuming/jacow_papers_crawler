@@ -1,0 +1,721 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2018 - Table of Session: MOPC (Monday Poster C)
+
+
+MOPC —  Monday Poster C   (10-Sep-18   16:00—17:30)
+
+
+
+Paper
+Title
+Page
+
+
+
+MOPC02
+Identification of Faulty Beam Position Monitor Based Clustering by Fast Search and Find of Density Peaks
+114
+
+
+ 
+
+R. Jiang, Y.B. Leng
+                       SSRF, Shanghai, People’s Republic of China
+F.Z. Chen, Z.C. Chen, Y.B. Leng
+                       SINAP, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+The accuracy and stability of beam position moni-tors(BPMs) are important for all kinds of measurement systems and feedback systems in particle accelerator field. A proper method detecting faulty beam position monitor or monitoring their stability could optimize accel-erator operating conditions. With development in ma-chine learning methods, a series of powerful analysis approaches make it possible for detecting beam position monitor’s stability. Here, this paper proposed a clustering analysis approach to detect the defective BPMs. The method is based on the idea that cluster centres are char-acterized by a higher density than their neighbours and by a relatively large distance from points with higher densi-ties. The results showed that clustering by fast search and find of density peaks could classify beam data into dif-ferent clusters on the basis of their similarity. And that, aberrant data points could be detected by decision graph. So the algorithm is appropriate for BPM detecting and it could be a significant supplement for data analysis in accelerator physics.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC02
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 11 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC03
+Precise Measurement of Small Currents at the MLS
+118
+
+
+ 
+
+Y. Petenev, J. Feikes, J. Li, A.N. Matveenko, Y. Tamashevich
+                       HZB, Berlin, Germany
+R. Klein, J. Lubeck, R. Thornagel
+                       PTB, Berlin, Germany
+
+ 
+
+
+ 
+
+The Physikalisch-Technische Bundesanstalt (PTB), the National Metrology Institute of Germany, utilizes an electron storage ring - the Metrology Light Source (MLS), located in Berlin, as a radiation source standard in the VIS, UV and VUV spectral range. In order to be able to calculate the absolute intensity of the radiation, the electron beam current has to be measured with low uncertainty. In this paper we focus on the measurement of the beam current in a range of several nA to 1 pA (one electron) by means of Si photodiodes, detecting synchrotron radiation from the beam. Electrons are gradually scraped out of the ring and the diode signal is analyzed afterwards. The exact number of stored electrons then can be derived from the signal. The measurement is carried out automatically with an in-house developed software.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC03
+
+ 
+
+
+About •
+paper received ※ 04 September 2018       paper accepted ※ 11 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC04
+Beam Charge Measurement and System Calibration in CSNS
+122
+
+
+ 
+
+W.L. Huang, F. Li
+                       IHEP CSNS, Guangdong Province, People’s Republic of China
+L. Ma, S. Wang, T.G. Xu
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+In China Spallation Neutron Source(CSNS), the beam charge monitors along the ring to the target beam transport line(RTBT) and the ring to the dump beam transport line(RDBT), are consisted of an ICT and three FCTs manufactured by Bergoz. The electronics includes a set of NI PXIe-5160 oscilloscope digitizer, and a Beam Charge Monitor(BCM) from Bergoz as supplementary. The beam charge monitors provide the following information: a) the quantity of protons bombarded the tungsten target; b) the efficiency of particle transportation; c) a T0 signal to the detectors and spectrometers of the white neutron source. With the calibration with an octopus 50Ω terminator in lab and an onboard 16-turn calibrating coils at the local control room, corrections for the introducing the 16-turn calibrating coils and the long cable were made. An accuracy of ±2% for the beam charge measurement during the machine operation has been achieved with the ICT/FCTs and a PXIe-5160 oscilloscope digitizer.
+
+ 
+
+
+
+
+
+
+Poster MOPC04 [3.082 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC04
+
+ 
+
+
+About •
+paper received ※ 04 September 2018       paper accepted ※ 11 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC06
+Comparative Measurement and Characterisation of Three Cryogenic Current Comparators Based on Low-Temperature Superconductors
+126
+
+
+ 
+
+V. Tympel, T. Stöhlker
+                       HIJ, Jena, Germany
+H. De Gersem, N. Marsic, W.F.O. Müller
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+M.F. Fernandes, C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+M.F. Fernandes, J. Tan
+                       CERN, Geneva, Switzerland
+M.F. Fernandes, C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+J. Golm, R. Neubert, F. Schmidl, P. Seidel
+                       FSU Jena, Jena, Germany
+D.M. Haider, F. Kurian, M. Schwickert, T. Sieber, T. Stöhlker
+                       GSI, Darmstadt, Germany
+R. Neubert
+                       Thuringia Observatory Tautenburg, Tautenburg, Germany
+M. Schmelz, R. Stolz
+                       IPHT, Jena, Germany
+T. Stöhlker
+                       IOQ, Jena, Germany
+V. Zakosarenko
+                       Supracon AG, Jena, Germany
+
+ 
+
+
+ 
+
+Funding: Supported by the BMBF, project numbers 05P15SJRBA and 05P18SJRB1.
+A Cryogenic Current Comparator (CCC) is a non-destructive, metrological-traceable charged particle beam intensity measurement system for the nano-ampere range. Using superconducting shielding and coils, low temperature Superconducting Quantum Interference Devices (SQUIDs) and highly permeable flux-concentrators, the CCC can operate in the frequency range from DC to several kHz or hundreds of kHz depending on the requirement of the application. Also, the white noise level can be optimized down to 2 pA/sqrt(Hz) at 2.16 K. This work compares three different Pb- and Nb-based CCC-sensors developed at the Institute of Solid State Physics and Leibniz Institute of Photonic Technology at Jena, Germany: CERN-Nb-CCC, optimized for applica-tion at CERN Antiproton Decelerator (AD) in 2015 with a free inner diameter of 185 mm; GSI-Pb-CCC, designed for GSI-Darmstadt with a free inner diameter of 145 mm, 1996 completed, 2014 upgraded; GSI-Nb-CCC-XD, de-signed for the GSI/FAIR-project with a free inner diame-ter of 250 mm, 2017 completed. The results of noise, small-signal, slew-rate, and drift measurements done 2015 and 2018 in the Cryo-Detector Lab at the University of Jena are presented here.
+
+ 
+
+
+
+
+
+
+Poster MOPC06 [2.150 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC06
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 14 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC08
+Beam Intensity Monitoring with nA Resolution - the Cryogenic Current Comparator (CCC)
+130
+
+
+ 
+
+D.M. Haider, P. Forck, F. Kurian, M. Schwickert, T. Sieber, T. Stöhlker
+                       GSI, Darmstadt, Germany
+H. De Gersem, N. Marsic
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+M.F. Fernandes, J. Tan
+                       CERN, Geneva, Switzerland
+J. Golm, F. Schmidl, P. Seidel
+                       FSU Jena, Jena, Germany
+J. Golm, T. Stöhlker, V. Tympel
+                       HIJ, Jena, Germany
+M. Schmelz, R. Stolz, V. Zakosarenko
+                       IPHT, Jena, Germany
+T. Stöhlker
+                       IOQ, Jena, Germany
+V. Zakosarenko
+                       Supracon AG, Jena, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by AVA - Accelerators Validating Antimatter the EU H2020 Marie-Curie Action No. 721559 and by the BMBF under contract No. 05P15SJRBA.
+The storage of low current beams as well as the long extraction times from the synchrotrons at FAIR require non-destructive beam intensity monitoring with a current resolution of nanoampere. To fulfill this requirement, the concept of the Cryogenic Current Comparator (CCC), based on the low temperature SQUID, is used to obtain an extremely sensitive beam current transformer. During the last years, CCCs have been installed to do measurements of the spill structure in the extraction line of GSI SIS18 and for current monitoring in the CERN Antiproton Decelerator. From these experiences lessons can be learned to facilitate further developments. The goal of the ongoing research is to improve the robustness of the CCC towards external influences, such as vibrations, stray fields and He-pressure variations, as well as to develop a cost-efficient concept for the superconducting shield and the cryostat.
+
+ 
+
+
+
+
+
+
+Poster MOPC08 [1.441 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC08
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 11 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC10
+Upgrade and Improvement of CT Based on TMR
+134
+
+
+ 
+
+Y. Zhao, Y.Y. Du, L. Wang
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+The CT based on TMR sensor has been developed in the lab. For Improving the accuracy and linearity, re-ducing the influence of sensor position, a series simu-lation and calculation have been done which conduct an upgrade both in the mechanical structure and elec-tronics design. Lab test shows good results and test on beam will be carried on soon.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC10
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 11 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC11
+Data Acquisition System for Beam Instrumentation of SXFEL and DCLS
+137
+
+
+ 
+
+Y.B. Yan
+                       SINAP, Shanghai, People’s Republic of China
+J. Chen, L.W. Lai, Y.B. Leng, C.L. Yu, L.Y. Yu, H. Zhao, W.M. Zhou
+                       SSRF, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+The high-gain free electron lasers have given scientists hopes for new scientific discoveries in many frontier research areas. The Shanghai X-Ray Free-Electron Laser (SXFEL) test facility is commissioning at the SSRF campus. The Dalian Coherent Light Source (DCLS) has successfully commissioned in the northeast of China, which is the brightest vacuum ultraviolet free electron laser facility. The data acquisition system for beam instrumentation is based on EPICS platform. The field programmable gate array (FPGA) and embedded controller are adopted for the signal processing and device control. The high-level applications are developed using Python. The details of the data acquisition system will be reported in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC11
+
+ 
+
+
+About •
+paper received ※ 29 August 2018       paper accepted ※ 11 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC12
+The Radial Detector in the Cyclotron of HIMM
+140
+
+
+ 
+
+M. Li, Y.C. Chen, Y.C. Feng, X.C. Kang, S. Li, W.L. Li, W.N. Ma, R.S. Mao, Y.G. Nie, H.H. Song, Y. Wang, Y. Yin, T.C. Zhao
+                       IMP/CAS, Lanzhou, People’s Republic of China
+
+ 
+
+
+ 
+
+The cyclotron is designed as the injector of the Heavy Ion Medical Machine (HIMM) in Wuwei city, China. It provides 10 uA carbon beams to fulfill the requirement of the accumulation in the following syn-chrotron. The Radial detector is used to measure the beam current and beam turn motion in this Cyclotron. The beam current signal gathered by radial detector is acquired by four picoammeters, meanwhile the beam time structure is measured with FPGA and real time operating system. This paper introduces the design of radial detector, the motion control and data acquisition system for it of the cyclotron. Finally, the beam current and turn pattern measurement results at HIMM are presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC12
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 12 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC14
+The Design of Dose Parameter Acquisition and Control System for a Pencil Beam Scanning System in HUST-PTF
+143
+
+
+ 
+
+Y.Y. Hu, H.D. Guo, H. Lei, X.Y. Li, Y.J. Lin, P. Tan, Y.C. Yu
+                       HUST, Wuhan, People’s Republic of China
+
+ 
+
+
+ 
+
+Pencil beam scanning (PBS) technology is a flexible and accurate dose delivery technology in proton therapy, which can deliver beams adapting to irregularly shaped tumors, while it requires precise diagnostic and real-time control of the beam dose and position. In this paper，a dose parameter acquisition and control system for the pencil beam scanning system based on the EPICS and LabVIEW is designed for HUST-PTF. The EPICS environment is built to realize the data exchange function between the front-end devices and control system. A channel access server（CAS）is designed to convert treatment parameters into the process variables (PVs) and expose them to the network for data sharing. Under current experimental conditions, the simulated beam current is generated according to the dose parameters in the treatment plan file. The current are processed by a digital electrometer and transmitted to the EPICS database in real time. Then the control system user interface based on LabVIEW is realized for displaying and parameter analysis.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC14
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 11 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC16
+The Development and Applications of Digital BPM Signal Processor on SSRF
+147
+
+
+ 
+
+L.W. Lai, F.Z. Chenpresenter, Y.B. Leng, Y.B. Yan, N. Zhang, W.M. Zhou
+                       SSRF, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+The development of Digital BPM Signal Processors (DBPM) for SSRF started from 2008. The first prototype for SSRF storage ring was completed in 2012, with turn-by-turn resolution better than 1μm. From 2016 to 2017, SSRF successively constructed two FEL facilities in China, DCLS and SXFEL test facilities. The second ver-sion DBPM was developed and used in large scale during this period to meet the requirements of signal processing for stripline BPMs and cavity BPMs. After that, we turned to the development of DBPM for SSRF storage ring based on the second version hardware, including FPGA firmware, EPICS IOC, EDM control panel. The development was completed and tests were carried out in early 2018. Test results showed that the position data is accurate and can monitor beam movement correctly, and online turn-by-turn position data resolution reaches 0.46μm. This paper will introduce the design of DBPM for the SSRF storage ring and the tests carried out to verify the data accuracy and evaluate the system performance.
+
+ 
+
+
+
+
+
+
+Poster MOPC16 [1.372 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC16
+
+ 
+
+
+About •
+paper received ※ 04 September 2018       paper accepted ※ 13 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC17
+On-line Crosstalk Measurement and Compensation Algorithm Study of SXFEL Digital BPM System
+150
+
+
+ 
+
+F.Z. Chen, L.W. Lai, Y.B. Leng, T. Wu, L.Y. Yu
+                       SSRF, Shanghai, People’s Republic of China
+J. Chen, R.X. Yuan
+                       SINAP, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+Shanghai soft X-ray Free Electron Laser (SXFEL) has acquired the custom designed Digital BPM processor used for signal processing of cavity BPMs and stripline BPMs. In order to realize monitor the beam position accurately, it has high demand for DBPM system performance. Considering the crosstalk may introduce distortion and influence beam position resolution, it is important to analyze and compensate the crosstalk to improve the resolution. We choose the CBPM signal to study the crosstalk for its narrowband and sensitive for phase. The main experiment concept is successive accessing four channels to form a signal transfer matrix, which including amplitude frequency response and phase response information. And the compensation algorithm is acquire four channel readouts, then using the signal transfer matrix to reverse the true signal to ensure the accurate beam position measurement. This concept has already been tested at SXFEL and hopeful to compensate the crosstalk sufficiently.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC17
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 13 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC18
+Development of an Expert System for the High Intensity Neutrino Beam Facility at J-PARC
+154
+
+
+ 
+
+K. Nakayoshi, Y. Fujii, T. Nakadaira, K. Sakashita
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+A high intensity neutrino beam is utilized by a long-baseline neutrino oscillation experiment at J-PARC. To generate a high intensity neutrino beam, a high intensity proton beam is extracted from a 30GeV Main Ring Synchrotron (MR) to the neutrino primary beamline. In the beamline, one mistaken shot can potentially do serious damage to beamline equipment. To avoid such a consequence, many beamline equipment interlocks to stop the beam operation are implemented. Once an interlock is activated, prompt and proper error handling is necessary. We are developing an expert system for prompt and efficient understanding of the status to quickly resume the beam operation. An inference engine is one key component in the expert system. We are developing a Machine-Learning(ML) based inference engine for our expert system. ML is one of the most active research fields in computing, we adopt the technology from it. We report the progress of development of the expert system especially ML based inference engine.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC18
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 12 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOPC19
+Virtual Signal Spectrum Analyzer Development Based On RedPitaya and EPICS for Tune Measurement in BEPCII
+159
+
+
+ 
+
+Y.H. Lu, J. He
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+An independent tune measurement system was developed in BEPCII with Direct Diode Detect (3D) technique. The system includes two diagonal electrode signals of a set of BPM, a self-developed board based on Direct Diode Detect (3D) technique, and a commercial virtual spectrum analyzer with a proprietary GUI client. Based on the open source digital electronics RedPitaya and open source software Spectrum, a device driver was developed based on EPICS and ASYN support for replacement of the commercial virtual spectrum analyzers and integration with the central system EPICS. According to the application requirements of tune measurement in BEPCII, the device driver finds the frequency point and power value corresponding to the X&Y tune between 631 to 800 kHz. The spectral resolution is 119 Hz. An EPICS IOC was built and run on RedPitaya for accessing the device driver. A CSS-based user interface shows the signal’s power spectra and the tune frequency directly.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-MOPC19
+
+ 
+
+
+About •
+paper received ※ 04 September 2018       paper accepted ※ 12 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

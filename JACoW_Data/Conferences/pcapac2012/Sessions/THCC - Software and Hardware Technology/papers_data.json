@@ -1,0 +1,59 @@
+{
+  "session_info": {
+    "id": "THCC",
+    "name": "THCC - Software and Hardware Technology",
+    "url": "https://proceedings.jacow.org/pcapac2012/html/thcc.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THCC02",
+      "title": "Controls Architecture for the Diagnostic Devices at the European XFEL",
+      "authors": [
+        "DESY",
+        "Hamburg",
+        "Germany",
+        "The X-ray laser is an 3.4-km-long facility which runs essentially underground and comprises three sites above ground. For controlling all diagnostic devices like toroids",
+        "BPMs or BLMs",
+        "it is planned to use the new MTCA.4 crate standard instead of VME. ATCA is an emerging standard from the Telecom Industry and adapted with the PICMG MTCA.4 branch for physics usage. The communication on the backplane utilizes the high speed serial PCIe communication plus precise clock lines and SATA interface. The MTCA.4 hardware supports hot-plug mechanism and remote monitoring and control via IPMI over Ethernet. Some of the diagnostics will be connected to 16Bit ADCs with up to 125Mhz sampling rate from Struck company or to an internal DESY development call"
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/thcc02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/thcc02.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/thcc02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-THCC02",
+      "page_number": "121",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THCC03",
+      "title": "PC Based Real Time Data Exchange on 10GbE Optical Network Using RTOS",
+      "authors": [
+        "R.P. Gupta",
+        "H.D. Dave",
+        "IPR",
+        "Bhat",
+        "Gandhinagar",
+        "India",
+        "The traditional embedded systems are expensive to adapt to the new requirements. The Personal Computer based systems offer alternatives for industrial controls. It reduces the capital cost and provides a solution for multiple applications. However",
+        "limitations of PC based controls should be resolved. PC operates on a non-real time OS with non-deterministic response to real time events and data. The real-time pre-emptive kernel for Linux uses Xenomai for better solution. A real-time 10GbE data exchange optical network using Xenomai extension for Linux is demonstrated. The hardware based on Intel_82599 10GbE Ethernet PCIe network card supports"
+      ],
+      "institutions": [
+        "Funding: This work is supported by research grant No. BRFST/NFP/2012/Feb/N/05; dated 5th April, 2012, under the National Fusion Programme of the Board for research in Fusion Science & Technology at IPR"
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/pcapac2012/talks/thcc03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/pcapac2012/papers/thcc03.pdf",
+      "poster_url": "https://proceedings.jacow.org/pcapac2012/posters/thcc03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-PCAPAC2012-THCC03",
+      "page_number": "124",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-11 02:09:44"
+}

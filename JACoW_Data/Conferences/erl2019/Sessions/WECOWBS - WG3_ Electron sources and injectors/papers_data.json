@@ -1,0 +1,95 @@
+{
+  "session_info": {
+    "id": "WECOWBS",
+    "name": "WECOWBS - WG3: Electron sources and injectors",
+    "url": "https://proceedings.jacow.org/erl2019/html/wecowbs.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WECOWBS01",
+      "title": "Vertical Test Results and Preparation for Horizontal Test of the KEK SRF Gun #2",
+      "authors": [
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "Superconducting electron guns can realize high acceleration voltage and high beam repetition. KEK has been developing the 1.3 GHz elliptical type 1.5 cell superconducting RF gun to investigate fundamental performance. The surface cleaning methods and tools were developed by using KEK SRF gun cavity #1 and surface peak electric field reached to 75 MV/m without field emission. We will apply this technique to the SRF gun cavity #2 for beam operation. The gun cavity #2 equips the helium jacket",
+        "frequency tuner cathode position adjuster to operate the electron beam. The RF structure was designed based on the gun cavity #1. The cathode rod is made of Nb. The photocathode deposited on the cathode rod will be cool down to 2K to minimize thermal emittance. The fabrication of the gun cavity #2 and helium jacket were completed. 4 times vertical tests were carried out. We will report the vertical test results and preparation of the horizontal test."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/erl2019/talks/wecowbs01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2019/papers/wecowbs01.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2019/posters/wecowbs01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2019-WECOWBS01",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WECOWBS02",
+      "title": "High Current Polarized Electron Source Development",
+      "authors": [
+        "L. Cultrera",
+        "J. Bae",
+        "I.V. Bazarov",
+        "A. Galdi",
+        "F. Ikponmwen",
+        "J.M. Maxson",
+        "Cornell University (CLASSE)",
+        "Cornell Laboratory for Accelerator-Based Sciences and Education",
+        "Ithaca",
+        "New York",
+        "USA",
+        "We report on negative electron affinity (NEA) of GaAs using robust layers based on the use of Cs",
+        "Sb and Oxygen. A detailed parametric study has been performed on the growth conditions and using the equivalent Sb thickness as main parameter. Our results confirm that dark lifetime (measured as 1/e decay of the quantum efficiency as function of time) of the GaAs activated using this method is improved by a factor 10. More importantly the operating lifetime (measured as 1/e decay of the quantum efficiency as function of the extracted charge) is improved by a factor 40 with respect to Cs-O activated GaAs operated under similar conditions. Such improvements on the lifetime are achieved at expenses of a slightly reduced QE and electron spin polarization."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/erl2019/talks/wecowbs02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2019/papers/wecowbs02.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2019/posters/wecowbs02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2019-WECOWBS02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WECOWBS03",
+      "title": "Using a Protective Layer for Alkali Cathodes",
+      "authors": [
+        "LANL",
+        "Los Alamos",
+        "New Mexico",
+        "USA",
+        "The photocathode community has been dramatically improving semiconductor cathode performance in recent years",
+        "especially in terms of demonstrated mean transverse energy and surface roughness. While the demonstrated QE has also modestly increased",
+        "comparatively little effort has been devoted to the parameter most critical to ERL performance - cathode lifetime",
+        "especially under high average current operating conditions. This presentation will focus on one approach to improving lifetime - creating a mono-atomic layer of a material with hexagonal pores over the cathode surface. Ideally these pores are too small for Cs to escape the surface",
+        "mitigating the effects of both local heating due to the drive laser and ion bombardment induced sputter loss. Further",
+        "the coating will limit the diffusion of oxidizers onto the surface",
+        "providing some resistance to chemical contamination. The theory of electron transport through the monolayers will be discussed",
+        "as well as theory and experimental results for two hexagonal monolayers",
+        "graphene and hexagonal BN. The growth of alkali antimonides on both of these materials has been demonstrated",
+        "with some loss of QE performance.",
+        "※ BibTeX",
+        "※ LaTeX",
+        "※ Text/Word",
+        "※ RIS"
+      ],
+      "institutions": [],
+      "abstract": "reference for this paper using",
+      "presentation_url": "https://proceedings.jacow.org/erl2019/talks/wecowbs03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/erl2019/papers/wecowbs03.pdf",
+      "poster_url": "https://proceedings.jacow.org/erl2019/posters/wecowbs03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2019-WECOWBS03",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 17:03:51"
+}

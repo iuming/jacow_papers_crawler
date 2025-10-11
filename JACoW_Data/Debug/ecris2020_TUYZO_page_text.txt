@@ -1,0 +1,208 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ECRIS2020 - Table of Session: TUYZO (Tuesday Oral Before Third Break)
+
+
+TUYZO —  Tuesday Oral Before Third Break   (29-Sep-20   13:35—14:50)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUYZO01
+Advancements in Self-Consistent Modeling of Time- and Space-Dependent Phenomena in ECRIS Plasma
+78
+
+
+ 
+
+A. Pidatella, D. Mascali, B. Mishra, E. Naselli, G. Torrisi
+                       INFN/LNS, Catania, Italy
+A. Galatà
+                       INFN/LNL, Legnaro (PD), Italy
+E. Naselli
+                       Catania University, Catania, Italy
+
+ 
+
+
+ 
+
+Resonant interaction with microwave radiation in ECRIS plasma leads to a strongly anisotropic electron energy distribution function (EEDF), given as a combination of two to three electron populations, with anisotropy that might trigger kinetic instabilities. At the INFN, further efforts have been paid to improve and update self-consistent 3D numerical codes for plasma electrons kinetics. Progresses have opened several perspectives. It is now possible to derive a space-resolved EEDF, providing local information on electron properties. Also, the code has been updated to provide reaction rates of electromagnetic emissions, including X-ray fluorescence. Estimates of the local ion charge state distribution is potentially possible, and first evaluations are ongoing. Dealing with fast-transient mechanisms, such as electromagnetic emission via the electron-cyclotron MASER instability, the code is now updated for locally evaluating the EEDF anisotropy. We will present the collected results, which we believe to have a relevant impact both on the ECRIS plasma physics and on the INFN’s PANDORA project that plans to use ECR plasmas for fundamental studies in Nuclear and AstroNuclear Physics.
+
+ 
+
+
+
+
+
+
+Slides TUYZO01 [25.158 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ECRIS2020-TUYZO01
+
+ 
+
+
+About •
+Received ※ 28 September 2020 — Revised ※ 03 October 2020 — Accepted ※ 21 November 2020 — Issue date ※ 01 December 2020
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUYZO02
+A Guiding Centre Approximation Approach for Simulation Electron Trajectories in ECR and Microwave Ion Sources
+84
+
+
+ 
+
+J.A. Méndez, T. Thuillier
+                       LPSC, Grenoble Cedex, France
+T. Minea
+                       CNRS LPGP Univ Paris Sud, Orsay, France
+
+ 
+
+
+ 
+
+Funding: Work supported by the CNRS under the 80|PRIME grant
+This work presents a study on the feasibility of the implementation of the guiding centre (GC) approach in electron cyclotron resonance (ECR) ion sources, with the goal of speeding up the electron’s orbit integration in certain regimes. It is shown that the GC approximation reproduces accurately the trajectory drifts and periodic behaviour of electrons in the minimum-B field. A typical electron orbit far enough from the source’s axis is well reproduced for 1 µs of propagation time, with the GC time-step constrained below 100 ps, giving one order of magnitude gain in computation time with respect to Boris. For an electron orbit close to the axis a disphasement of the electron’s trajectory is observed, but the spatial envelope is conserved. A comparative study analyses electron trajectories in a flatter B-field, that in a microwave discharge ion source, where this method’s drawbacks may be avoided given a smaller magnetic field gradient and a shorter electron lifetime in the plasma chamber. In this regime electron trajectories were very well reproduced by the GC approximation. The time-step was constrained below 10 ns, providing up to 30 times faster integration compared to Boris.
+
+ 
+
+
+
+
+
+
+Slides TUYZO02 [5.829 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ECRIS2020-TUYZO02
+
+ 
+
+
+About •
+Received ※ 28 September 2020 — Revised ※ 21 December 2020 — Accepted ※ 18 May 2021 — Issue date ※ 02 February 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUYZO03
+Electromagnetic Simulation of "plasma-shaped" Plasma Chamber for Innovative ECRIS
+90
+
+
+ 
+
+G.S. Mauro, O. Leonardi, D. Mascali, A. Pidatella, F. Russo, G. Sorbello, G. Torrisi
+                       INFN/LNS, Catania, Italy
+A. Galatà, C.S. Gallo
+                       INFN/LNL, Legnaro (PD), Italy
+C.S. Gallo
+                       UNIFE, Ferrara, Italy
+G. Sorbello
+                       University of Catania, Catania, Italy
+
+ 
+
+
+ 
+
+The plasma chamber and injection system design play a fundamental role in ECRISs with the aim to obtain an optimized electromagnetic field configuration able to generate and sustain a plasma with a high energy content. In this work we present the numerical study and the design of an unconventionally-shaped cavity resonator* that possesses some key advantages with respect to the standard cylindrical cavities, usually adopted in ion sources setups. The cavity geometry, whose design has been completed on January 2020, has been inspired by the typical star-shaped ECR plasma, determined by the magnetic field structure. The chamber has been designed by using the commercial softwares CST and COMSOL, with the aim to maximize the on-axis electric field. Moreover, a radically innovative microwaves injection system, consisting in side-coupled slotted waveguides, has been implemented, allowing a better power coupling and a more symmetric power distribution inside the cavity with respect to the standard rectangular waveguides. This new ’plasma-shaped oriented’ design could relevantly improve the performances of the ECRISs while making more compact the overall setup.
+*This work has been carried out within the Grant 73/IRIS project, supported by INFN (Italian patent pending n. 102020000001756).
+
+ 
+
+
+
+
+
+
+Slides TUYZO03 [5.119 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ECRIS2020-TUYZO03
+
+ 
+
+
+About •
+Received ※ 28 September 2020 — Revised ※ 05 October 2020 — Accepted ※ 18 May 2021 — Issue date ※ 10 December 2021
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

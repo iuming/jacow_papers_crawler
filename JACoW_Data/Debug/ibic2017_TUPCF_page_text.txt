@@ -1,0 +1,1013 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2017 - Table of Session: TUPCF (Tuesday Poster)
+
+
+TUPCF —  Tuesday Poster   (22-Aug-17   16:00—18:00)
+Chair: G. Kiupel, FRIB, East Lansing, Michigan, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUPCF02
+Modeling the Fast Orbit Feedback Control System for APS Upgrade
+196
+
+
+ 
+
+P.S. Kallakuri, N.D. Arnold, J. Carwardine, D.R. Paskvan, N. Sereno
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357
+The expected beam sizes for APS Upgrade are in the order of 4 microns for both planes. Orbit stabilization to 10% of the beam size with such small cross-sections requires pushing the state of the art in fast orbit feedback control, both in the spatial domain and in dynamical performance; the latter being the subject of this paper. In this paper, we begin to study possible performance benefits of moving beyond the classic PID regulator to more sophisticated methods in control theory that take advantage of a-priori knowledge of orbit motion spectra and system non-linearities. A reliable model is required for this process. Before developing a predictive model for the APS Upgrade, the system identification methodology is tested and validated against the present APS storage ring. This paper presents the system identification process, measurement results, and discusses model validation.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF03
+The RF BPM Pickup Electrodes  Design  for the APS-MBA Upgrade
+199
+
+
+ 
+
+X. Sun, R.M. Lill, B.K. Stillwell
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The Advanced Photon Source (APS) is currently in the preliminary design phase for a multi-bend achromat (MBA) lattice upgrade. Beam stability is critical for the MBA and will require roughly 570 rf beam position moni-tors (BPMs) to provide the primary measurement of the electron beam trajectory through the insertion device (ID) straight sections and in the storage ring arcs. The BPM assembly features 8 mm diameter pickup electrodes that are welded to a stainless steel chamber and integrated shielded bellows both upstream and downstream of the chamber to decouple the BPM electrodes from mechani-cal motion of adjacent chambers. The design, simula-tions, and prototype test results will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF04
+Feedback Controller Development for the APS-MBA Upgrade
+203
+
+
+ 
+
+H. Bui, N.D. Arnold, A.R. Brill, J. Carwardine, G. Decker, T. Fors, R.M. Lill, D.R. Paskvan, A.F. Pietryla, N. Sereno, S.E. Shoaf, S. Veseli, S. Xu
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+The Advanced Photon Source (APS) is currently in the preliminary design phase for the multi-bend achromat (MBA) lattice upgrade. Broadband Root Mean Square (rms) orbit motion should stay within 10% of a beam cross-section of the order 4μm x 4μm rms at the insertion device source-points. In order to meet these stringent AC beam stability requirements, a new orbit feedback system is under development and is being tested on the existing APS storage ring. The controller prototype uses Commercial Off-The-Shelf (COTS) hardware that has both high-performance Xilinx Field-Programmable Gate Array (FPGA) and two high-performance Texas-Instruments Digital Signal Processors (DSP) onboard. In this paper, we will discuss the rationale for a combined DSP/FPGA architecture and how functions are allocated. We then present the FPGA architecture and the results of using Infinite Impulse Response (IIR) filtering to mitigate Beam Position Monitor (BPM) switching noise and aliasing.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF05
+The Orbit Measurement System for the CERN Extra Low Energy Antiproton Ring
+206
+
+
+ 
+
+O. Marqversen, M.E. Angoletta, M. Jaussi, J.C. Molendijk, R. Ruffieux, J. Sanchez-Quesada, L. Søby
+                       CERN, Geneva, Switzerland
+R. Marco-Hernandez
+                       IFIC, Valencia, Spain
+
+ 
+
+
+ 
+
+The CERN Extra Low ENergy Antiproton ring (ELENA) intended to decelerate anti-protons from the CERN Antiproton Decelerator from 100Mev/c to 13.7MeV/c, has been equipped with an orbit measurement system consisting of 10 horizontal and 10 vertical electrostatic pick-ups. Using charge amplifiers the signals are converted into sum and difference signals that, once digitalized, are down converted to baseband and used to calculate intensity independent beam positions. The system is implemented on seven VME switched serial based FPGA / DSP boards carrying direct digital synthesisers and analogue to digital converters on standard FPGA mezzanine cards. The switched serial high-speed bus allows intercommunication between DSPs and thus averaging of the signals from all pick-ups in real-time to be used either in the RF radial feedback system or for longitudinal Schottky diagnostics. The system implementation and initial orbit measurements with the H− beam used for ELENA commissioning will be presented, as well as future upgrades for trajectory and longitudinal Schottky measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF06
+Performance of the AWAKE Proton Beam Line Beam Position Measurement System at CERN
+209
+
+
+ 
+
+M. Barros Marin, A. Boccardi, T.B. Bogey, J.L. Gonzalez, L.K. Jensen, T. Lefèvre, D. Medina, M. Wendt
+                       CERN, Geneva, Switzerland
+J. Boix Gargallo
+                       UAB-IFAE, Barcelona, Spain
+
+ 
+
+
+ 
+
+The Advanced Proton Driven Plasma Wakefield Acceleration Experiment (AWAKE), based at CERN, explores the use of a proton driven plasma wake-field to accelerate electrons at high energies over short distances. This paper introduces the Beam Position Measurement (BPM) system of the proton beamline and its performance. This BPM system is composed of 21 dual plane button pickups distributed along the 700m long transfer line from the CERN Super Proton Synchrotron (SPS) extraction point to beyond the plasma cell. The electrical pulses from the pickups are converted into analogue signals proportional to the intensity and displacement of the beam using logarithmic amplifiers, giving the system a high dynamic range (>50dB). These signals are digitized and processed by an FPGA-based front-end card featuring an ADC sampling at 40Msps. Each time a bunch is detected, the intensity and position data is sent over 1km of copper cable to surface electronics through a serial link at 10 Mbps. There, the data is further processed and stored. The dynamic range, resolution, noise and linearity of the system as evaluated from the laboratory and 2016 beam commissioning data will be discussed in detail.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF07
+The Design Improvement of Transverse Stripline Kickers in TPS Storage Ring
+213
+
+
+ 
+
+P.J. Chou, C.K. Chan, C.-C. Chang, K.T. Hsu, K.H. Hu, C.K. Kuan, I.C. Sheng
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+An improved design of horizontal stripline kicker for transverse feedback system has been replaced in January 2017. A rapid surge of vacuum pressure near the old horizontal kicker was observed when we tested the high current operation in TPS storage ring in April 2016. A burned vacuum feedthrough of the horizontal kicker was discovered during a maintenance shutdown. The improved design has reduced the reflection of the driving power from horizontal feedback system and the beam induced RF heating. Based on the experience learned from this improved design of horizontal stripline kicker, we also work out the improved design for the vertical kickers as well. The major modifications of the improved designs for both the horizontal and the vertical stripline kickers are described. The results of RF simulation performed with the electromagnetic code GdfidL are also reported.
+
+ 
+
+
+
+
+
+
+Poster TUPCF07 [0.785 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF07
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF08
+Beam Stability Diagnostics with X-Ray Beam Position Monitor in the Taiwan Photon Source
+217
+
+
+ 
+
+C.H. Huang, Y.-S. Cheng, P.C. Chiu, J. -Y. Chuang, Y.M. Hsiao, K.T. Hsu, K.H. Hu, C.K. Kuan, C.Y. Liaopresenter, Y.Z. Lin, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+To monitor the stability of photon beams, X-ray beam position monitors (BPMs) with quadrant PIN photodiodes or blades are installed in the beam lines and front ends. Although there are about 200 electron BPMs installed in the storage ring, the beam-line managers or users prefer X-ray BPMs to monitor beam stability. Among the beam lines, different electronics are used to acquire data at various sampling rates. A method to calculate the beam intensity fluctuation within different frequency ranges is described in this report. The results of calculations are shown in the control system and saved in the archive system thus helping to monitor and analyse beam quality on- and off-line. Initial experiences with this system will be discussed in this report.
+
+ 
+
+
+
+
+
+
+Poster TUPCF08 [0.687 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF08
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF09
+Turn-by-Turn Timing Systems for SuperKEKB Damping Ring Position Monitors
+221
+
+
+ 
+
+M. Tobiyama, H. Ikeda
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Turn-by-turn timing systems for SuperKEKB beam position monitors using Xilinx Zynq FPGA have been developed. The RF frequency divider with external synchronization circuit creates a fiducial signal synchronized to the accurate injection timing from the injector event system. As the Log-Ratio turn-by-turn monitors (Digitex 18k11) need clock timing deviation to the beam signal within 8 ns, the cable length from the BPM heads to the detectors have been adjusted with the maximum deviation less than 1 ns using TDR. The time delay to adjust each cable lengths and the BPM placements have been created by using 32-ch RF timing delay with the step of 2 ns. The start trigger to the 18k11 has been made by using the digital delay (SRS DG645) from the injection trigger. The measured performance of the frequency divider, the 32-ch RF timing delay and start trigger system will be shown.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF09
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF10
+Measurement of the Longitudinal Coupled Bunch Instabilities in the J-PARC Main Ring
+225
+
+
+ 
+
+Y. Sugiyama, M. Yoshii
+                       KEK, Tokai, Ibaraki, Japan
+F. Tamura
+                       JAEA/J-PARC, Tokai-mura, Japan
+
+ 
+
+
+ 
+
+J-PARC Main Ring (MR) is a high intensity proton synchrotron which accelerates protons from 3 GeV to 30 GeV. Its beam power for fast extraction reached 470 kW, which corresponds to 2.4x1014 proton per pulse, in February, 2017 and the studies to reach higher beam intensity are in progress. We observed longitudinal dipole coupled bunch instabilities in the MR for beam power beyond 470 kW. To investigate the source of the instabilities and to mitigate them, we have identified the modes of the longitudinal dipole coupled bunch oscillation and measured their growth during the acceleration cycle using the beam signals. The identification and the measurement were done with two different methods which use the motion of bunch centers and the frequency spectrum around the harmonics of the revolution frequency. At the conference, we will report the method and the result of the measurement of the longitudinal coupled bunch instabilities in the J-PARC MR.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF10
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF11
+Upgrade of the Beam Position Monitoring System at the J-PARC Main Ring for High Intensity Operation
+229
+
+
+ 
+
+A. Kobayashi, H. Kuboki, K. Satou, T. Toyama
+                       KEK, Tokai, Ibaraki, Japan
+
+ 
+
+
+ 
+
+For the T2K neutrino oscillation experiment upgrade programs of J-PARC are on-going for higher beam intensity. The ultimate goal is to achieve a beam power of 1.3 MW in the main ring, a significant increase more than triple intensity compared to the presently achieved power of 470 kW. Beam loss is a cause of the limitation on the proton bunch intensity. A precise orbit correction is necessary in order to reduce the beam loss. Beam position monitor (BPM) is a vital element providing accurate measurements of the beam positions for the control of closed orbit distortion (COD). Currently an apparent dependence of COD RMS on the beam intensity is observed (about 30 μ m). In order to understand the nature of the phenomenon, investigations are being made on the BPM response and its intensity dependence as well as on the effects of wake field, beam bumps to COD and septum. Status of the studies will be discussed. Also presented are new design of BPM for improved position resolution and stability, and its expected performance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF11
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF12
+Measurement of Each 324 MHz Micro Pulse Stripping Efficiency for H− Laser Stripping Experiment in J-PARC RCS
+233
+
+
+ 
+
+P.K. Saha, H. Harada, N. Hayashi, A. Miura, K. Okabe, M. Yoshimotopresenter
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+In 3-GeV RCS of J-PARC, an experiment for H− stripping to protons by using lasers is under preparation. The experiment requires measurements of all three charge fractions of each 324 MHz H-μpulse in the downstream of laser and H− interaction point (IP). However, at the first stage, only a single H-μpulse is aimed to strip by using lasers. It is therefore very essential to establish a new measurement method for that purpose, which has not yet been studied anywhere in that direction. We consider measuring BPM (beam position monitor) pickup signal by using an oscilloscope of 4 GHz bandwidth and sampling rate no less than 1TS/s. To test the system, we have done some experimental studies, where beam halo scrapper (carbon foil), placed at the L-3BT (linac to 3-GeV beam transport) is used for H− stripping. The unstripped H− and the stripped protons separated by a bending magnet in the downstream of the scrapper are simultaneously measured by two BPMs in two beam lines. The H-μpulses were clearly measured with good resolution, where a ratio of the pulses without and with scrapper gives the stripping efficiency. A detail of the present study results are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF12
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF13
+New Design of a Tapered-Coupler BPM Toward Simpler Geometry and Flatter Frequency Response
+237
+
+
+ 
+
+T. Toyama, T. Koseki, H. Kuboki
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+A. Ichikawa, K.G. Nakamura, T. Nakaya, W. Uno
+                       Kyoto University, Kyoto, Japan
+M. Okada
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The tapered-coupler stripline beam position monitor has been used for the intra-bunch feedback system in the J-PARC MR. It should be realized with a special shaped striplines, for example, whose width is tailored exponentially and whose gap distances between the inner surface of the beam pipe should be also decreasing as a exponential function in order to keep the characteristic impedance 50 ohm. This 3D varying geometry makes it difficult to achieve the good balance between the electrode responses to the beam. We present a new design method with a groove, which may give simpler geometry and flatter frequency response.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF13
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF14
+Benchtop BPM Calibration Using Helical Pulse Lines for Non-Relativistic Beams
+240
+
+
+ 
+
+C.J. Richard
+                       NSCL, East Lansing, Michigan, USA
+S.M. Lidia
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: Michigan State University
+Calibration of capacitively-coupled beam position monitors (BPMs) for use in non-relativistic beam lines has proven to be challenging. This is due to the fields generated by the beam are non-transverse causing the measured signals to depend on the measured frequency and the beam velocity. In order to correct for these effects, calibration of BPMs may be done with an apparatus that is capable of simulating the fields generated by non-relativistic beams for several beam velocities. One possible method of simulating these beams is to use a helical pulse line. This paper studies the ability of helical lines to simulate the fields generated by slow beams for BPM calibration.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF14
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF15
+S-Band Cavity BPM Readout Electronics for the ELI-NP Gamma Beam Source
+243
+
+
+ 
+
+M. Cargnelutti, B.B. Baricevic
+                       I-Tech, Solkan, Slovenia
+G. Franzini, D. Pellegrini, A. Stella, A. Variola
+                       INFN/LNF, Frascati (Roma), Italy
+A. Mostacci
+                       Rome University La Sapienza, Roma, Italy
+
+ 
+
+
+ 
+
+The Extreme Light Infrastructure ' Nuclear Physics Gamma Beam Source (ELI-NP GBS) facility will provide an high intensity laser and a very intense gamma beam for verious experiments. The gamma beam is generated through incoherent Compton back-scattering of a laser light off a high brightness electron beam provided by a 720MeV warm LINAC. The electrons are organized in compact trains with up to 32 bunches, each separated by 16ns. To optimize the laser-electron interaction and therefore the generation of the gamma rays, one big challenge is to precisely monitor the trajectory of each electron bunch. To match this requirement, at the interaction point two S-band cavity beam position monitors will be used, and the related readout system should perform bunch-by-bunch position measurements with sub-μm resolution. Using 500MS/s ADC converters and dedicated data processing, the readout system proposes an alternative measurement concept. In this paper the architecture of the system, the implemented signal processing and the results of the first laboratory tests will be presented.
+
+ 
+
+
+
+
+
+
+Poster TUPCF15 [4.303 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF15
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF16
+Stripline Beam Position Monitor Modelling and Simulations for Charge Measurements
+247
+
+
+ 
+
+G. Castorina
+                       INFN-Roma1, Rome, Italy
+G. Franzini, B. Spataro
+                       INFN/LNF, Frascati (Roma), Italy
+M. Marongiu, A. Mostaccipresenter
+                       INFN-Roma, Roma, Italy
+A.A. Nosych
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+Strip line Beam Positions Monitors (BPMs) are the main devices used for non-intercepting position measurement for the electron LINAC of ELI-NP (Extreme Light Infrastructure - Nuclear Physics). All the 29 BPMs have the same design, with the exception of the one installed in one of the dump line, which has a much larger acceptance than the others. BPMs will also be used to measure the charge of the beam, by measuring the sum of the pickups signals and calibrating it with beam charge monitors installed along the LINAC. An analytical model has been developed for the proposed BPMs. This model has been checked by means of PIC/wakefield simulations, in order to obtain the pickups signals at the passage of the beam and to study the effects of BPMs non-linearities, particularly on charge measurements. Details of the analytical model, results of the numerical simulations and the correction algorithm proposed for charge measurements are described in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF16
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF17
+First Beam Commissioning Experience With The SwissFEL Cavity BPM System
+251
+
+
+ 
+
+B. Keil, R. Baldinger, R. Ditter, D. Engeler, W. Koprek, R. Kramert, F. Marcellini, G. Marinkovic, M. Roggli, M. Rohrer, M. Stadler, D.M. Treyer
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+SwissFEL is free electron laser facility designed to produce FEL radiation at wavelengths from 0.1 to 5 nm. The beam commissioning of the hard X-ray undulator line ("Aramis") started 10/2016, and first lasing was observed in 12/2016. Presently, a 2nd undulator line ("Athos") for soft X-rays is being constructed, with 1st beam scheduled for mid 2019. In the injector, linac and beam transfer lines, 95 low-Q cavity BPMs operating at 3.3 GHz are used that were designed to support the future two-bunch operation mode with 28 ns bunch spacing and 100 Hz repetition rate. The undulator lines will only be operated with single bunches by means of a fast beam distribution kicker system, and were thus equipped with high-Q cavity BPMs operating at 4.9 GHz. The BPMs are not only used for beam trajectory optimization, but e.g. also for beam energy measurements (using standard cavity BPMs in the bunch compressors and beam dumps), beam charge and transmission measurements, or improvement of the performance of other monitors (e.g. wire scanners for profile measurement). This paper will report first operation experience with the BPM system, including a performance comparison of low-Q and high-Q BPMs.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF17
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF18
+The SwissFEL High-Q Undulator BPM System
+255
+
+
+ 
+
+M. Stadler, B. Keilpresenter, F. Marcellini, G. Marinkovic
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+In 10/2016, PSI started the beam commissioning of Aramis, the hard X-ray undulator line of the SwissFEL free electron laser. The injector, linac and transfer line BPMs have 3.3 GHz low-Q cavity BPMs to support 2-bunch operation with 28ns bunch spacing. In contrast, Aramis as well as the future 2nd soft X-ray undulator line called "Athos" are eqipped with 4.9 GHz high-Q cavity BPMs, since the undulators will only be operated with single bunches by means of a fast beam distribution kicker system. The undulator BPM system uses 4.9GHz double-resonator pickups having a nominal loaded-Q of 1000. The associated front-end electronics applies single-stage analog downconversion to a 135 MHz IF frequency, subsampling ADC and digital quadrature downconversion. A detailed description of the BPM pickup and front-end design and signal processing will be given. Laboratory test and calibration methods and results of pickups and electronics will be compared with first beam measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF18
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF19
+Production Tests, Calibration, and Commissioning of Button BPMs for the European XFEL
+259
+
+
+ 
+
+D.M. Treyer, B. Keilpresenter, W. Koprek
+                       PSI, Villigen PSI, Switzerland
+D. Lipka
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Funding: Swiss State Secretariat for Education, Research and Innovation (SERI)
+Commissioning of the entire European XFEL started early 2017. More than 300 button-electrode type beam position monitors (BPMs) are used in its cold Linac and warm beam transfer lines. Signal processing in the BPM RF front-end (RFFE) electronics employs signal stretching by chirp filtering, switchable gain stages, digital step attenuators, and peak detection. In this paper we present details on RF front-end production tests, calibration, and BPM beam commissioning results. Furthermore, a calibration pulser circuit that is built into each BPM electronics is presented. The setup and algorithms for production calibration of all RFFEs are described. Finally, resolution measurements obtained by correlation among all XFEL BPMs (including cavity and re-entrant types) are presented, confirming that the system can be used for orbit correction and transmission measurement down to bunch charges of a few pico-Coulombs.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF19
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF20
+COSY Orbit Control Upgrade
+263
+
+
+ 
+
+C. Böhme, I. Bekman, V. Kamerdzhiev, B. Lorentz, M. Simon, C. Weidemann
+                       FZJ, Jülich, Germany
+
+ 
+
+
+ 
+
+The Cooler Synchrotron COSY can store and deliver proton and deuteron beam in the momentum range from 0.3 GeV/c to 3.65 GeV/c for internal and external experiments. New requirements of the Jülich Electric Dipole Moment Investigation (JEDI) experiment requires a RMS beam orbit distortion smaller than 100 um. This requirement lead so far to the replacement of the BPM readout electronics, an introduction of a slow beam orbit correction and feedback system and the re-alignment of the magnets. All three projects are close to completion, therefore first results are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF20
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF21
+Transverse Damper Using Diodes for Slip Stacking in the Fermilab Recycler
+267
+
+
+ 
+
+N. Eddy, B.J. Fellenz, P.S. Prieto, S.Z. Zorzetti
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+During slip stacking in the Recycler, up to six batches of 84 bunches each are slipped by each other to and then captured to double the intensity of the the extracted beam. For nominal chromaticity settings, a bunch by bunch transverse damper system is needed to maintain beam stability but this system is blind to the bunches as they are slipping. The initial solution was to drastically raise the chromaticity to keep the beam stable. A new frequency based damper using diode detectors was developed to provide damping during slip stacking and allow the chromaticity to be reduced to nominal settings.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF21
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF23
+First Beam Tests at the CERN SPS of an Electro-Optic Beam Position Monitor for the HL-LHC
+270
+
+
+ 
+
+A. Arteche, G.E. Boorman, A. Bosco, S.M. Gibson
+                       Royal Holloway, University of London, Surrey, United Kingdom
+S.E. Bashforth, G.E. Boorman, A. Bosco, S.M. Gibson
+                       JAI, Egham, Surrey, United Kingdom
+N. Chritin, M. Krupa, T. Lefèvre, T.E. Levens
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Work funded by UK STFC grant ST/N001583/1, JAI at Royal Holloway University of London and CERN.
+An Electro-Optic Beam Position Monitor is being developed for the HL-LHC, aimed at the detection of high order proton bunch instabilities and as a diagnostic for crabbed bunch rotation. A prototype EO-BPM was installed in the CERN SPS during 2016 and recent first beam tests of the EO pick-up are presented. The tested system comprises two opposing pick-ups, each equipped with 5mm cubic LiNbO3 crystals in vacuum, illuminated by polarized light from a fibre-coupled CW 780 nm laser. The 1 ns proton bunch induces a temporal modulation in the polarization state of light emerging from each birefringent crystal, by the Pockels effect. The modulation is analyzed, then recorded by a fibre-coupled fast photodetector in the counting room. The very first experimental signals obtained by the EO-pickups of a passing proton bunch are reported as a proof of concept of the idea. Moreover, the expected response of the beam signal is measured with respect to remotely controlled changes in the polarizer and analyzer orientations. The data are compared with analytical and electromagnetic simulations. Following the first detection, we report the latest status of the prototype design and future prospects.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF23
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPCF26
+Stripline Beam Position Monitor for the PAL-XFEL
+274
+
+
+ 
+
+C. Kim, J.H. Hong, H.-S. Kang, I.S. Ko, S.J. Lee, D.C. Shin
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+The X-ray Free Electron Laser of the Pohang Accelerator Laboratory (PAL-XFEL) will produce 0.1 nm wavelength X-ray with a femtosecond order pulse width by using the self-amplification of spontaneous emission (SASE). For the successful commissioning and the stable operation of the PAL-XFEL, Beam Position Monitors (BPMs) are most important instruments among the various kinds of electron diagnostic tools. In this work, the BPM system for the PAL-XFEL is described. From the pickup to the operation status, details of the BPMs are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2017-TUPCF26
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

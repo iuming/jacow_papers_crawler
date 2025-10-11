@@ -1,0 +1,2668 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2015 - Table of Session: TUPB (Poster Session 2)
+
+
+TUPB —  Poster Session 2   (15-Sep-15   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPB002
+Fast Orbit Feedback System at SLSA
+293
+
+
+ 
+
+Y.E. Tan, N.J. Basten, T.D. Cornall, E. Joseph Vettoor
+                       SLSA, Clayton, Australia
+A. Michalczyk
+                       ASCo, Clayton, Victoria, Australia
+D.J. Peake
+                       The University of Melbourne, Melbourne, Victoria, Australia
+
+ 
+
+
+ 
+
+Since the end of commissioning of the facility in 2006, implementing topup (completed 2012) and fast orbit feedback have been top priority upgrades to improve the stability of the light source for users. The fast orbit feedback system is currently being implemented and will be commissioned in 2016. The feedback system has a star topology with an FPGA based feedback processor at its core. The system will utilises the existing 98 Libera Electron beam position processors, with Libera Grouping for data aggregation, as the source of postion data at 10 kHz. The corrections are calculated in a Xilinx Vertex 6 FPGA and is transmitted to 14 corrector power supplies in the 14 sectors. These power supplies are six-channel bipolar 1 Ampere and have been developed by a local company. The corrector magnets are tertiary coils on the existing sextupole magnets in the storage ring. This report shall present the design, results of Simulink simulations, the current status of implementation and future plans.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB005
+Advancements in the Management Measurements & Visualisation of NEC Beam Profile Monitors
+298
+
+
+ 
+
+D.T. Button, D.B. Garton, M.C. Mannpresenter
+                       ANSTO, Menai, New South Wales, Australia
+S. Yan
+                       NI, Macquarie Park, New South Wales, Australia
+
+ 
+
+
+ 
+
+In DC ion beam tandem accelerator facilities commonly Helix Rotating wire Beam Profile Monitors (BPM) are used to monitor the shape and location of the beam. These BPM's are used in combination with a BPM Selection station which activates and conditions signals for display on an Oscilloscope for visualization. At ANSTO we have been developing an alternative system to allow management of concurrent off the shelf NEC BPM's, and to construct a 2D approximation of the particle beam based on programmable hardware and software. This paper will review the current status of the development, and the potential features which can be gained with this technological approach.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB006
+Impedance Optimization of Sirius Stripline Kicker
+302
+
+
+ 
+
+H.O.C. Duarte, S.R. Marques
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Two approaches to design a transverse feedback (TFB) stripline kicker are well known in the accelerators community: one with bare strips in a tapered cavity and other whose shrouded strips are ended with parallel-plate capacitive gaps. This work presents a comparison between both models in terms of electromagnetic performance, proposes alternative solutions for increasing the gap capacitance and analyzes the performance of a hybrid stripline kicker design.
+
+ 
+
+
+
+
+
+
+Poster TUPB006 [2.374 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB007
+Multifunction Instrument Designs with Low Impedance Structures for Profile, Energy, and Emittance Measurements for LEReC at BNL
+307
+
+
+ 
+
+T.A. Miller, M. Blaskiewicz, A.V. Fedotov, D.M. Gassner, D. Kayran, J. Kewisch, M.G. Minty, I. Pinayev, P. Thieberger, J.E. Tuozzolo
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy
+The low energy RHIC electron cooling (LEReC) upgrade project [1], being installed over the next two years will require a low impedance beam line so that the soft 1.6MeV electron beam will not be perturbed by induced electromagnetic fields, especially in the instrumentation chambers. Novel designs of the Profile Monitors, Emittance Slit Scanners and BPMs are presented along with Particle Studio simulations of the electron beam wake-field induced electric potentials. The design of a new instrument incorporating a button beam position monitor (BPM) and YAG screen profile monitor in the same measuring plane is presented as part of a method of measuring beam energy with an accuracy of 10-3.
+[1] D. Gassner, et al, TUPF24, proceedings of IBIC2013, Oxford, UK
+
+ 
+
+
+
+
+
+
+Poster TUPB007 [9.432 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB008
+Beam Diagnostics of the LIPAC Injector With a Focus on the Algorithm Developed for Emittance Data Analysis of High Background Including Species Fraction Calculation
+313
+
+
+ 
+
+B. Bolzon, N. Chauvin, S. Chel, R. Gobin, F. Senée, M. Valette
+                       CEA/IRFU, Gif-sur-Yvette, France
+J. Knaster, Y. Okumura
+                       IFMIF/EVEDA, Rokkasho, Japan
+K. Shinto
+                       Japan Atomic Energy Agency (JAEA), International Fusion Energy Research Center (IFERC), Rokkasho, Kamikita, Aomori, Japan
+
+ 
+
+
+ 
+
+To prove the feasibility of the IFMIF accelerators concept, the EVEDA phase will commission in Japan the LIPAC accelerator, which will deliver a 125 mA/9 MeV CW deuteron beam. LEDA already managed 100 mA in CW at 6.7 MeV in 2000. The different subsystems of LIPAC have been designed and constructed mainly by European labs with the injector developed by CEA-Saclay. This injector must deliver a 140 mA/100 keV CW deuteron beam at 99% D+ ratio, which is produced by a 2.45 GHz ECR ion source. The low energy beam transport line is based on a dual solenoid focusing system to transport the beam and to match it into the RFQ. The normalized RMS target emittance at the RFQ entrance is targeted to be within 0.25π mm·mrad. This article describes the diagnostics installed in the LEBT to measure beam parameters such as intensity, profile, emittance, species fraction and degree of space charge compensation. The article also focuses on the algorithm developed to analyze emittance data of high background from an Allison scanner. Species fractions (D+, D2+, D3+) using mass separation technique were also calculated with the Allison scanner installed between the two solenoids in a first stage.
+
+ 
+
+
+
+
+
+
+Poster TUPB008 [1.154 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB009
+A New Beam Angle Interlock at Soleil
+318
+
+
+ 
+
+N. Hubert, Y.-M. Abiven, L. Cassinari, L. Chapuis, F. Dohou, M.E. El Ajjouri, A. Loulergue, O. Marcouillé, P. Monteiro, L.S. Nadolski, D. Pédeau, P. Rommeluère
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+Anatomix and Nanoscopium beamlines are collecting photons generated by two 5.5 mm gap in-vacuum insertion devices installed in a canted straight section. Simultaneous operation of those two beamlines requires particular precautions in terms of alignment of the electron (and photon) beam in the undulators. With the high stored beam current (500 mA), any mis-steering in the upstream undulator could quickly damage the downstream one. Using the classical beam position interlock to guarantee the undulators protection would have constrained too much the operation due to very restrictive position thresholds. Then the machine protection system has been modified to incorporate a new interlock based on the electron beam angle combining two BPM readings. A description of the system and its performances will be presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB010
+Digital Processing of Pick-up Signals for Position and Tune Determination
+321
+
+
+ 
+
+R. Singh, P. Forck, P. Kowina, A. Reiter
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+With the advent of fast high resolution Analog to Digital Converters (ADCs) and Field Programmable Gate Arrays (FPGAs), 'all digital systems' for pick-up data processing to calculate position and tune have become commonplace. The flexibility of these digital systems is very advantageous since it permits the change of position determination algorithms based on beam conditions, accelerator operation modes and measurement requirements. This contribution compares the frequently used position determination algorithms in terms of measurement variance, bias, robustness and computational complexity using simple analytical model. The analytical model is compared to the beam data to evaluate its applicability and conclusions on the optimum position estimator are derived.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB011
+Micron-Scale Vertical Beam Size Measurements Based on Transition Radiation Imaging With a Schwarzschild Objective
+327
+
+
+ 
+
+G. Kube, S. Bajt
+                       DESY, Hamburg, Germany
+I.A. Artyukov
+                       LPI, Moscow, Russia
+W. Lauth
+                       IKP, Mainz, Germany
+A. Potylitsyn, L.G. Sukhikh, A.V. Vukolov
+                       TPU, Tomsk, Russia
+
+ 
+
+
+ 
+
+Funding: The work was partially supported by the Russian Ministry of Education and Science within the program Nauka Grant No. 3.709.2014/K
+Transverse beam profile diagnostics in the case of micron-scale beam sizes from modern electron accelerators are a challenging task. Backward transition radiation (BTR) imaging in the visible spectral region which is usually applied is close to the diffraction limit, i.e. the measured beam image is dominated by the point-spread function (PSF) [*, **]. In order to improve the resolution and to measure sub-micron beam sizes, the influence of the PSF should be decreased which depends not only on the wavelength, but also on optical aberrations. This can be realized by imaging in the EUV spectral region using a multilayer Schwarzschild objective which is free of some types of aberrations [***]. A first test experiment devoted to micron-scale beam size measurements has been carried out at the Mainz Microtron MAMI (Germany), using visible BTR and a Schwarzschild objective. This report summarizes first results of PSF dominated imaging with vertical beam sizes in the order of a few microns. Possibilities to extend the use of a Schwarzschild objective in future experiments with EUV BTR will be discussed.
+* P. Karataev et al., PRL 107 (2011) 174801.  ** G. Kube et al., proc. of IPAC13 (2013) MOPME010. *** I.A. Artyukov et al, Opt. Eng. 39 (2000) 2163.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB012
+Transverse Beam Profile Imaging of Few-Micrometer Beam Sizes Based on a Scintillator Screen
+330
+
+
+ 
+
+G. Kube, S. Bajt
+                       DESY, Hamburg, Germany
+I.A. Artyukov
+                       LPI, Moscow, Russia
+W. Lauth
+                       IKP, Mainz, Germany
+A. Potylitsyn, L.G. Sukhikh, A.V. Vukolov
+                       TPU, Tomsk, Russia
+
+ 
+
+
+ 
+
+Funding: This work was partly supported by the by the Russian Ministry of Education and Science within the program 'Nauka' Grant No. 3.709.2014/K.
+Standard beam profile measurements of high-brightness electron beams based on optical transition radiation (OTR) may be hampered by coherence effects induced by the micro-bunching instability which render a direct beam imaging impossible. As consequence, for modern linac based 4th generation light sources as the European XFEL which is currently under construction in Hamburg, transverse beam profile measurements are based on scintillating screen monitors. However, the resolution of a scintillator based monitor is limited due to intrinsic material properties and the observation geometry [*,**]. In this report we present the results of beam size measurements in the order of a few microns using a LYSO:Ce scintillator and discuss the possible achievable resolution.
+[*] G. Kube et al., Proc. IPAC'12 (2012) WEOAA02.  [**] B. Walasek-Höhne and G. Kube, Proc. DIPAC'11 (2011) WEOB01. 
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB014
+Development Status and Performance Studies of the New MicroTCA Based Button and Strip-line BPM Electronics at FLASH 2
+335
+
+
+ 
+
+B. Lorbeer, N. Baboi, H.T. Duhme, F. Schmidt-Föhre, K. Wittenburg
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The FLASH (Free Electron Laser in Hamburg) facility at DESY (Deutsches Elektronen-Synchrotron) in Germany has been extended by the new undulator line FLASH2 providing twice as many experimental stations for users in the future. After the acceleration of the electron bunch train up to 1.2GeV in FLASH, a part of the beam can be kicked into FLASH2, while the other is going to the old undulator line of FLASH I. The commissioning phase of FLASH2 started in early 2014 and is continued parasitically during user operation in FLASH1. One key point during first beam commissioning is the availability of standard diagnostic devices such as Beam Position Monitors (BPMs). In the last couple of years new electronics for button and strip-line BPMs have been developed, based on the MTCA.4 standard. This new Low Charge BPM (LCBPM) system is designed to work with bunch charges as small as 100 pC in contrast to the old systems at FLASH initially designed for bunch charges of 1nC and higher. This paper summarizes the performance of the BPM system and discusses the applied methods based on beam based correlation techniques to study the system.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB015
+Development of New Beam Position Monitors at COSY
+339
+
+
+ 
+
+F. Hinder, H. Soltner, F. Trinkel
+                       FZJ, Jülich, Germany
+H.-J. Krause
+                       Forschungszentrum Jülich, Peter Gruenberg Institut, Jülich, Germany
+
+ 
+
+
+ 
+
+Electric Dipole Moments (EDM) violate parity and time reversal symmetries. Assuming the CPT-theorem, this leads to CP violation, which is needed to explain the matter over antimatter dominance in the Universe. Thus, a non-zero EDM is a hint to new physics beyond the Standard Model. The JEDI collaboration (Jülich Electric Dipole moment Investigations) has started investigations of a direct EDM measurement of protons and deuterons at a storage ring. To measure a tiny EDM signal with high precision, systematic effects have to be controlled to the same level. One way of controlling systematic effects is the use of new Beam Position Monitors. The idea is based on the usage of magnetic pick-ups in a Rogowski coil configuration. The main advantage of the coil design is the high response to a high frequency signal, the particle bunch frequency, and the compactness of the coil itself. In a first step the BPMs will be benchmarked in a laboratory test system. In the next step the calibrated BPMs will be installed and tested at the conventional storage ring COSY (Cooler Synchrotron) at Jülich. At the conference first measurement results and the upcoming developments will be presented.
+
+ 
+
+
+
+
+
+
+Poster TUPB015 [1.827 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB016
+Upgrade of the Beam Profile Monitoring System in the Injection Beam Line of COSY
+344
+
+
+ 
+
+K. Reimers, C. Böhme, R. Gebel, V. Kamerdzhievpresenter
+                       FZJ, Jülich, Germany
+J.L. Conradie, M.A. Crombie, H.W. Mostert
+                       iThemba LABS, Somerset West, South Africa
+
+ 
+
+
+ 
+
+The cyclotron Julic is used as an injector for the COSY synchrotron and storage ring of 183 m circumference. The 95 m long injection beam line (IBL) transports polarized and unpolarized H-/D- ions which are injected into the ring via multi-turn stripping injection. 8 profile monitoring stations are installed in the IBL. Each station contains two harps having 39 wires at 1mm spacing. Each harp is read out by a multichannel pico-amperemeter electronics designed by iThemba LABS, South Africa, delivering profile data to the COSY control system. The technical details of the upgrade and recent beam profile measurements are presented.
+
+ 
+
+
+
+
+
+
+Poster TUPB016 [0.705 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB017
+Studies for a BPM Upgrade at COSY
+347
+
+
+ 
+
+C. Böhme, M. Bai, F. Hinder, V. Kamerdzhiev, F. Trinkel
+                       FZJ, Jülich, Germany
+
+ 
+
+
+ 
+
+For the planned Electric Dipole Moment (EDM) precursor experiment at the COSY synchrotron and storage ring an accurate control of the beam orbit is crucial. The required beam position measurement accuracy demands an upgrade of the BPM readout electronics. The BPM system currently in operation is described. The required performance and the possible upgrade scenarios are discussed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB018
+Compact and Complete Beam Diagnostic System for HCI at IUAC
+351
+
+
+ 
+
+R.V. Hariwal, S. Kedia, R. Mehta
+                       IUAC, New Delhi, India
+H.K. Malik
+                       Indian Institute of Technology, New Delhi, India
+V.A. Verzilov
+                       TRIUMF, Canada's National Laboratory for Particle and Nuclear Physics, Vancouver, Canada
+
+ 
+
+
+ 
+
+Funding: University Grants Commission, India
+Design efforts result into the fabrication of a compact and complete beam diagnostic system for High Current Injector (HCI) accelerator system at Inter-University Accelerator Centre (IUAC), New Delhi, India. HCI is an upcoming accelerator facility and will be used as an injector to the existing SC-LINAC. It consists of high temperature superconducting Electron Cyclotron Resonance (HTS-ECR) ion source, normal temperature Radio Frequency Quadrupole (RFQ), IH-type Drift Tube Linear (DTL) resonators and low beta superconducting quarter wave resonator cavities to accelerate heavy ions having A/q ≤ 6. The diagnostic system is especially designed and fabricated to get the complete beam information like current, profile, position, transverse and longitudinal emittances, bunch length and energy of incident ion beam at the entrance of DTL resonators. The compactness is preferred to minimize the transverse and longitudinal emittance growth at the entrance of DTL resonators. Various beam parameters of heavy ion beams at different energy have been carried out to validate the design and fabrication of the system. Here, the design, fabrication and various test results are presented.
+
+ 
+
+
+
+
+
+
+Poster TUPB018 [3.743 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB019
+Design and Development of Configurable BPM Readout System for ILSF
+354
+
+
+ 
+
+M.Sh. Shafiee, M. Jafarzadeh, J. Rahighi
+                       ILSF, Tehran, Iran
+A.H. Feghhi
+                       Shahid Beheshti University, Tehran, Iran
+
+ 
+
+
+ 
+
+A configurable electronic system has been developed for button BPMs readout in the storage ring of Iranian Light Source Facility (ILSF). This system calculates the beam position through the output voltage of BPMs. Output signals of BPMs pass through a 500 MHz and 50ohm front-end for noise filtering and also gain control purposes. Then the signal is digitized based on under sampling method by a 130MHz ADC for further analysis in FPGA. Safe dynamic range of 0dBm to -90 dBm can be covered by this electronic system with white noise measured to be around -110dBm. Trigger for this electronic is 2-10Hz as Slow data acquisition for Slow orbit feedback system and 4-10KHz as Fast data acquisition for fast orbit feedback system. This paper describes the design, analysis, and measurements of the developed electronic system.
+
+ 
+
+
+
+
+
+
+Poster TUPB019 [1.726 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB020
+Long-Term Stability of the Beam Position Monitors at SPring-8
+359
+
+
+ 
+
+T. Fujita, H. Dewa, M. Masaki, S. Matsubara, S. Sasaki, S. Takano
+                       JASRI/SPring-8, Hyogo-ken, Japan
+H. Maesaka, Y. Otake
+                       RIKEN SPring-8 Center, Sayo-cho, Sayo-gun, Hyogo, Japan
+
+ 
+
+
+ 
+
+At the SPring-8 storage ring, the renewal of BPM electronics in 2006 has improved orbit feedback resolution *. However, a stability issue of the whole BPM system, including the buttons, the cables and the electronics, remains to be settled for long-term stability of the beam orbit. The BPM in the present SPring-8 has gain imbalances among 4 electrode channels, which result in large offsets (~1 mm). The imbalances are routinely corrected in accordance with a beam-based measurement **. But, the offset error increases close to 100 um during the operation, because of the imbalance fluctuations. Major origin of the imbalances is standing waves caused by reflections in BPM cables. As a countermeasure for the imbalance issue, isolators to mitigate the standing waves were equipped. They significantly reduced the imbalances, but not sufficient to completely suppress the imbalance fluctuations. The requirement of stability for the BPM system for the upgrade plan of SPring-8 is going to be more stringent. We started extensive survey to find the sources of fluctuations of the gain imbalances in order to achieve long-term stability of the BPM system applicable to the planned SPring-8 upgrade.
+* S. Sasaki, T. Fujita et al., Proc. of the DIAPC 2007, Venice, Italy, (2007) p. 114  ** M. Masaki et al., Proc. of the 11th Symp. on Accel. Sci. and Technol., (1997), p.83. 
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB021
+Characterization of the SR Visible Beam Polarization State at SPEAR3
+364
+
+
+ 
+
+C.L. Li
+                       East China University of Science and Technology, Shanghai, People's Republic of China
+W.J. Corbett
+                       SLAC, Menlo Park, California, USA
+T.M. Mitsuhashipresenter
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Synchrotron radiation has the well-known property of horizontal field polarization in the midplane with increasingly elliptical polarization in the vertical plane. By measuring the beam intensity transmitted through a linear polarizer, it is possible to characterize the beam polarization state, determine the Stokes' parameters and solve for the beam polarization ellipse in the visible portion of the SR spectrum. The results can be compared with Schwinger's equations for synchrotron radiation taking into account the effect of extraction mirrors.
+
+ 
+
+
+
+
+
+
+Poster TUPB021 [1.605 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB023
+High Position Resolution BPM Readout System with Calibration Pulse Generators for KEK e+/e− Linac
+369
+
+
+ 
+
+F. Miyahara, K. Furukawa, M. Satoh, Y. Seimiya, T. Suwada
+                       KEK, Ibaraki, Japan
+R. Ichimiya
+                       JAEA, Aomori, Japan
+H.S. Saotome
+                       Kanto Information Service (KIS), Accelerator Group, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The KEK e+/e− injector linac will be operated in multiple modes for the electron beam injection to 3 independent storage rings, SuperKEKB HER, Photon Factory (PF) Ring and PF-AR, and the positron beam injection into the damping ring and the SuperKEKB LER. The operation modes can be switched every 20 milliseconds. The injector linac is under upgrade for the SuperKEKB, where the required resolution of beam position measurement is less than 10 micrometer. However, the current system based on oscilloscopes for stripline beam position monitors (BPMs) has the position resolution of 50 micrometers approximately. Thus, we have developed a new BPM readout system with narrow band pass filter, 16-bit, 250 MSa/s ADCs and calibration pulse generators. The system is based on VME standard and the beam position is calculated by FPGA on board. The new system has the position resolution of 3 micrometer and wide dynamic range from 0.1 to 10 nC/bunch. The calibration pulse follows every position measurement. The calibration pulse is used for the gain correction and the integrity monitor of the cable connection. We will report details of the system.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB024
+Beam Halo Measurement Utilizing YAG:Ce Screen
+373
+
+
+ 
+
+T. Naito, T.M. Mitsuhashi
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+Funding: Photon and Quantum Basic Research Coordinated Development Program from the Ministry of Education, Culture, Sports, Science and Technology, Japan.
+At the ATF2 project, we are aiming to produce an extremely small beam having a vertical beam size of 37 nm. The beam halo surrounding of beam core will make a background for the beam size measurement using the Laser interferometer beam size monitor. The understanding of beam halo distribution is important for measurement of the beam size at the final focus point of ATF2. In order to measure the beam halo distribution, we developed a beam halo monitor based on fluorescence screen. A YAG:Ce screen, which has 1 mm slit in the center is set in the beam line. The image on fluorescence screen is observed by imaging lens system and CCD camera. In this configuration, the beam in the core will pass through the slit. The beam in the surrounding halo will hit the fluorescence screen, and we can observe the distribution of beam halo. The intensity contrast of beam halo to the beam core is measured by scanning the beam position for the fixed fluorescence screen position. The results of observation of beam halo are presented.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB025
+Design of Coded Aperture Optical Elements  for SuperKEKB X-ray Beam Size Monitors
+377
+
+
+ 
+
+E. Mulyani
+                       Sokendai, Ibaraki, Japan
+J.W. Flanagan
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+We describe the design of coded aperture optical elements for the SuperKEKB x-ray beam size monitors. X-ray beam profile monitor are being installed in each ring of SuperKEKB (LER and HER) to provide high resolution bunch-by-bunch, turn-by-turn measurement capability for low emittance tuning, collision tuning and instability measurements. We use two types of optical elements, single-slit (pinhole) and multi-slit optical elements (coded apertures, CA). CA imaging offers greater open aperture than a single pinhole, for greater photon throughput and better statistical resolution for single-shot measurements. X-rays produced by a hard-bend magnet pass through a pinhole or CA optical element onto a detector. The resolution is obtained by calculating the differences between the images recorded by the detector for various simulated beam sizes, for a given number of photons. The CA elements that we have designed for use at SuperKEKB are estimated to provide 1.25-2.25 microns resolution for 10-25 microns of vertical beam sizes at 1 mA bunches. We present the design principle and optimizing process used to optimize the resolution at various beam sizes for SuperKEKB.
+
+ 
+
+
+
+
+
+
+Poster TUPB025 [6.149 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB026
+Machine Stability Analysis by Pulse Based Data Archiver of the J-PARC RCS
+381
+
+
+ 
+
+N. Hayashi
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+The J-PARC RCS (Rapid-Cycling proton Synchrotron) runs with repetition rate of 25 Hz. The beam intensity of current monitors and beam loss monitors (BLM) data are archived for all pulses and they could be analyzed to study the machine stability. In addition BPM data are also recorded in regularly (2 seconds with every minutes) and particularly in case of the RCS MPS, the last several hundreds BPM data are recorded. We will report a few examples, in the case of magnet feedback problem or vacuum problem, how the BPM or BLM behaves.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB027
+Bunch Length Analysis of Negative Hydrogen Ion Beam in J-PARC Linac
+386
+
+
+ 
+
+A. Miura, N. Hayashi
+                       JAEA/J-PARC, Tokai-mura, Japan
+S. Fukuoka
+                       University of Tsukuba, Graduate School of Pure and Applied Sciences,, Tsukuba, Ibaraki, Japan
+Y. Liu
+                       KEK/JAEA, Ibaraki-Ken, Japan
+T. Maruta
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+T. Miyao
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+We used bunch shape monitors (BSMs) to measure the longitudinal bunch length of a negative hydrogen ion beam in the J-PARC linac. Because we experienced a vacuum degradation to suspend a beam operation during the BSM operations, BSMs were once dismounted for vacuum conditioning. We installed one BSM again in the beam line with additional vacuum equipment. We stared to measure the 191-MeV beam again to tune the buncher amplitude after checking a functioning BSM by comparing its results with those of a simulation. To evaluate the measurement errors with peak beam current increasing, we observed waveforms with various beam currents. Therefore, the RMS bunch length depends on the peak beam current and the bending at the pulse head grows with the peak beam current. Furthermore, to avoid the thermal stress, we compared the data taken at an off-center beam with the ones taken at an on-center beam, because a target wire will be exposed to a higher peak beam current. In this study, we introduced the peak beam current dependence of the bunch length waveforms, and an effect of on-/off-centering of the wire position. Finally, the new buncher tuning method using one BSM is discussed.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB028
+Status of BPMs In the First Stage of Commissioning at CADS Injector I
+390
+
+
+ 
+
+H.Z. Ma, J.S. Cao, Y.F. Sui, Q. Ye
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The paper will introduce the status for BPMs in the first stage of commissioning at CADS (China Accelerator Driven Subcritical System) Injector I. The measurement principles and results of BPM at injector I are presented. The measurement of BPM is rigorous in the first medium energy beam transport line of CADS Injector I. To ensure the safety of test cryomodule, beam orbit should be corrected to the minimized region. The third order fitting way is used to calculate the position of beam for BPM non-linearity. And the average of data in the single pass window should improve the resolution. Then BBA of BPM can help tracking beam position accurately. Finally the interlock circuit of BPM is tested with the beam.
+[1]Jingyu Tang etc, IHEP-CADS Report/2012-01E  [2]Libera SPH page - http://www.i-tech.si/   [3]Weimin Pan, Internal Report in IHEP. [4]Libera Single Pass H User Manual 2.80
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB030
+Measurements of Beam Halo by Wire Scanner Monitor
+393
+
+
+ 
+
+H. Jiang
+                       TUB, Beijing, People's Republic of China
+P. Li, T.G. Xu
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+A wire scanner is used in the beam halo experiment at the Institute of High Energy Physics (IHEP) to measure the beam halo for the study of beam halo dynamics. The beam energy in the FODO transport line is 3.5 MeV and the peak current is 24 mA. Firstly we get the emittance value for the vertical and the horizontal plane respectively by measuring the matched beam. Then we measure the beam halo of the mismatched beam.
+
+ 
+
+
+
+
+
+
+Poster TUPB030 [0.348 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB035
+Bunch-by-Bunch Study of the Transient State of Injection at the SSRF
+396
+
+
+ 
+
+Z.C. Chen, Y.B. Leng
+                       SSRF, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: National Natural Science Foundation of China (No. 11305253)
+High current and stable beams are preferred to a light source, so the suppression of the oscillations due to the frequent injections during top-off operations get the attention at the Shanghai Synchrotron Radiation Facility (SSRF). To evaluate the possibility of further optimizations, a bunch-by-bunch position monitor is used to study the behavior of the injected bunch. The injected part is isolated from the stored one by decomposing the position matrix of all the bunches in the storage ring. Frequency feature, motion lifetime and other characteristic parameters of the injection mode have been compared with those of the stored mode.
+
+ 
+
+
+
+
+
+
+Poster TUPB035 [0.567 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB036
+Progress of Cavity Beam Position Monitor at SXFEL
+399
+
+
+ 
+
+L.W. Lai, Z.C. Chen, Y.B. Lengpresenter, Y.B. Yan, L.Y. Yu, R.X. Yuan, W.M. Zhou
+                       SSRF, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+Shanghai Soft X-ray FEL Test Facility (SXFEL) has started the infrastructure construction in 2015. All beam diagnostic systems are under processing and measurement, including C-band Low-Q cavity BPMs. This paper presents the progress of the cavity BPM system, including design and the measurements on a lab platform. Measurements shown that the cavity BPM frequency is 4.7GHz±8MHz, and the complete test platform verify that the cavity BPM system, which including signal processing electronics can work as expected.
+* Work supported by National Natural Science Foundation (No. 11305253, 11375255) 
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB037
+Interferometer Data Analyzing Using the PCA Method at SSRF
+402
+
+
+ 
+
+Y.B. Leng, H.J. Chen, J. Chen, Z.C. Chen, Y.B. Yan
+                       SSRF, Shanghai, People's Republic of China
+
+ 
+
+
+ 
+
+An SR interferometer, which was used to monitor the transverse beam size in the SSRF ring, had been implemented and put into operation since 2009. The direct projection and curve fitting was adopted for raw image data processing. Any CCD alignment error could introduce some beam size measurement error in this case. Using primary component analyzing (PCA) method to process raw image data, the horizontal and vertical distribution information can be decoupled and the misalignment information of CCD can be derived. Beam experiment results will be discussed in this paper.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB041
+Development of Capacitive Linear-Cut Beam Position Monitor for Heavy-Ion Synchrotron of KHIMA Project
+405
+
+
+ 
+
+J.G. Hwang, S.Y. Noh
+                       KIRAMS/KHIMA, Seoul, Republic of Korea
+P. Forck
+                       GSI, Darmstadt, Germany
+C. Kim
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+T.K. Yang
+                       KIRAMS, Seoul, Republic of Korea
+
+ 
+
+
+ 
+
+particles for the carbon beams and ~ ∼  2.07 × 10zEhNZeHn for the proton beams, the linear-cut beam position monitor is adopted to satisfy the position resolution of 100 μm and accuracy of 200 μm with the linearity within the wide range. In this paper, we show the electromagnetic design of the electrode and surroundings to satisfy the resolution of 100 μm, the criteria for mechanical aspect to satisfy the position accuracy of 200 μm, the measurement results of position accuracy and calibration by using wire test-bench, and the beam-test results with long ( ∼  1.6 μs) electron beam in pohang accelerator laboratory (PAL).
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB043
+Development of a Scintillation Screen Monitor for Transverse Ion Beam Profile Measurment at the Khima Project
+410
+
+
+ 
+
+S.Y. Noh, S.D. Chang, J.G. Hwang
+                       KIRAMS/KHIMA, Seoul, Republic of Korea
+G. Hahn, T.K. Yang
+                       KIRAMS, Seoul, Republic of Korea
+
+ 
+
+
+ 
+
+The scintillation screen monitor measures transverse profile of ion beam in beam transport line. The Korea Heavy Ion Medical Accelerator Project (KHIMA) has developed a scintillation screen monitor in the high energy beam transport (HEBT) line. The images of each beam pulse were recorded by CCD camera and evaluated the beam properties by the LabVIEW-based in-house program in real time. We designed a scintillation screen monitor using phosphor screen, P43. In order to investigate the limits of scintillating screen during beam profile monitoring at low intensity, we designed a remote control device of iris for the incoming light adjustment to the CCD camera. In this paper, we present details of the image processing system using the LabVIEW and the beam profile measurement results from the in-beam test.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB046
+Integration of the Diamond Transverse Multibunch Feedback System at ALBA
+414
+
+
+ 
+
+A. Olmos, U. Iriso, J. Moldes, F. Perezpresenter
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+M.G. Abbott, G. Rehm, I.S. Uzun
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+A Transverse Multi-Bunch Feedback system (TMBF) has been commissioned at the ALBA storage ring for stabilization of the beam instabilities. The system is based on the Libera Bunch-By-Bunch electronics, controlled using a specific software developed at Diamond Light Source. This system refurbishes the existing FPGA code to include several features for machine studies, like fast and precise tune measurements using a Phase Locked Loop, sequences of grow-damp experiments that allow measuring damping rates on a mode-by-mode basis, and precise bunch cleaning. We describe the TMBF system and the integration of the control software into the ALBA machine. Finally we show examples of beam stabilization and machine studies using this system.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB047
+Electrostatic Finite-element Code to Study Geometrical Nonlinear Effects of BPMs in 2D
+418
+
+
+ 
+
+A.A. Nosych, U. Iriso
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+J. Olle
+                       UAB, Barcelona, Spain
+
+ 
+
+
+ 
+
+We have developed a 2D finite element-based software for Matlab to study non-resonant effects in BPMs of arbitrary geometry, in particular the geometric nonlinearities. The developed code called BpmLab utilizes an open-source tetrahedral mesh generator DistMesh, combined with a short implementation of FEM with linear basis functions to find the electrostatic field distribution for boundary electric potential excitation. The BPM response as a function of beam position is calculated in a single simulation for all beam positions using the potential ratios, according to the Green's reciprocity theorem. The code offers ways to correct the geometrical nonlinear distortion, either by polynomials or by direct inversion of the electrode signals through numerical optimization. This work is an overview of the BpmLab capabilities to date, including its extensive benchmarking and validation against other methods
+
+ 
+
+
+
+
+
+
+Poster TUPB047 [8.291 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB048
+Measurements and Calibration of the Stripline BPM for the ELI-NP facility with the Stretched Wire Method
+423
+
+
+ 
+
+A.A. Nosych, C. Colldelram, A. Crisol, U. Iriso, A. Olmos
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+F. Cioeta, A. Falone, A. Ghigo, M. Serio, A. Stella
+                       INFN/LNF, Frascati (Roma), Italy
+A. Mostacci
+                       Rome University La Sapienza, Roma, Italy
+
+ 
+
+
+ 
+
+A methodology has been developed to perform electrical characterization of the stripline BPMs for the future Gamma Beam System of ELI Nuclear Physics facility in Romania. Several prototype units are extensively benchmarked and the results are presented in this paper. The BPM sensitivity function is determined using a uniquely designed motorized test bench with a stretched wire to measure the BPM response map. Here, the BPM feedthroughs are connected to Libera Brilliance electronics and the wire is fed by continuous wave signal, while the two software-controlled motors provide horizontal and vertical motion of the BPM around the wire. The electrical offset is obtained using S-parameter measurements with a Network Analyzer (via the "Lambertso" method) and is referenced to the mechanical offset.
+
+ 
+
+
+
+
+
+
+Poster TUPB048 [4.978 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB049
+Limitations and Solutions of Beam Size Measurements via Interferometry at ALBA
+428
+
+
+ 
+
+L. Torino, U. Iriso
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+The interferometry beamline at ALBA had several limitations which have been overcome over the past years until currently, beam size measurements are successfully performed using this technique. The main limitation has been related to vibrations in the light wavefront transportation along the beamline. Several counter-measures have been taken to overcome these limitations, related both to the software analysis and the mechanical setup, where the conventional double slit system is substituted by a double pinhole in order to obtain more light and a better interferogram. This report describes the current interferometry setup at ALBA, and show some results.
+
+ 
+
+
+
+
+
+
+Poster TUPB049 [1.077 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB051
+Design of a New Super-heterodyne MicroTCA.4 BPM and LLRF Rear Transition Module (RTM) for the European Spallation
+433
+
+
+ 
+
+A. Young
+                       SLAC, Menlo Park, California, USA
+H. Hassanzadeganpresenter
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+Funding: Work supported by U.S. Department of Energy under Contract Numbers DE-AC02-06CH11357, DE-AC02-76SF00515, and CRADA 13-219C with the European Spallation Source AB
+The 5MW European Spallation Source (ESS) is a long pulsed source based on a high power superconducting LINAC. In order to achieve this high level of performance, the beam position measurement system needs to measure the beam position, phase and intensity in all foreseen beam modes with a pulse rate of 14 Hz, duration of 2.86 ms and amplitude ranging form 5 mA to 62.5 mA. We have designed a general purpose Beam Position Monitor (BPM) front-end electronics that has a dynamic range of 70dB. The front-end uses the MicroTCA (Micro Telecommunication Computing Architecture) for physics platform that consists of a 16-bit 125 MSPS ADC module (SIS8300L/2 from Struck) that uses the Zone 3 A1.1 classification for the RTM. This paper will discuss the design of this new RTM that includes eight channels of super-heterodyne receivers, two channels of DC-coupled inputs to measure klystron voltage and current, one vector modulator that modulates the LLRF output. The RTM communicates with the AMC FPGA using a QSPI interface over the zone 3 connection.
+
+ 
+
+
+
+
+
+
+Poster TUPB051 [4.062 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB052
+Wire Scanners and Vibrations - Models and Measurements
+437
+
+
+ 
+
+J. Herranz, B. Dehningpresenter, E. Effinger, J. Emery, A. Guerrero, C. Pereira
+                       CERN, Geneva, Switzerland
+A. Barjau, J. Herranz
+                       Universitat Politécnica de Catalunya, Barcelona, Spain
+J. Herranz
+                       Proactive Research and Development, Barcelona, Spain
+
+ 
+
+
+ 
+
+The new fast wire scanner foreseen to measure small emittance beams throughout the LHC injector chain will have a wire travelling at a speed of up to 20 m.s−1, with a requested wire position measurement accuracy of the order of a few microns. The vibration of the thin carbon wires used has been identified as one of the major error sources on the wire position accuracy. In this project the most challenging and innovative development has been the wire vibrations measurement strategy based on the piezo resistive effect of the wire itself, while the deflection of the fork supporting the wire has been measured by semiconductor strain gauges. Dynamic models of the wire and fork have been created to predict the behaviour of the fork-wire assembly. This model, validated by the measurements, has then been used for optimisation of the wire-fork assembly. The contribution will discuss the measurement setup and the model development as well as their comparison. In addition it will show that this technology can easily be implemented in current operating devices without major modifications. For the first time the piezo resistive effect is used for wire vibrations measurements during the scan.
+
+ 
+
+
+
+
+
+
+Poster TUPB052 [2.455 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB053
+A High Dynamic Range Diamond Detector Readout System for the CERN Beam Wire Scanners Program
+441
+
+
+ 
+
+J.L. Sirvent Blasco, B. Dehningpresenter, J. Emery
+                       CERN, Geneva, Switzerland
+A. Dieguez
+                       UB, Barcelona, Spain
+
+ 
+
+
+ 
+
+A secondary particle shower acquisition system is under design for the upgrade of CERN's beam wire scanners. The system needs to be capable of performing bunch-by-bunch synchronous measurements with an integration time of 25 ns and to cope with signal variations of up to 6 orders of magnitude. The whole dynamic range should be covered by the acquisition system with a single configuration and should have no tuneable parameters. The secondary particles are detected using a polycrystalline diamond detector with the signal digitization performed nearby with a custom front-end system, designed to resist a total ionising radiation dose up to 1 kGy in 10 years. The digital data transmission, front-end synchronization and control are performed through a bi-directional optical link operating at 4.8 Gbps using CERN's GBT protocol. For the digitization, two radiation tolerant integrator ASICs (ICECAL and QIE10) are under study.
+
+ 
+
+
+
+
+
+
+Poster TUPB053 [1.323 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB054
+Electromagnetic Field Pre-alignment of the Compact Linear Collider (CLIC) Accelerating Structure with help of Wakefield Monitor Signals
+446
+
+
+ 
+
+N. Galindo Munoz, N. Catalán Lasheras, M. Wendt, S. Zorzetti
+                       CERN, Geneva, Switzerland
+V.E. Boria
+                       DCOM-iTEAM-UPV, Valencia, Spain
+A. Faus-Golfe
+                       IFIC, Valencia, Spain
+
+ 
+
+
+ 
+
+Funding: The PACMAN project is funded by the European Union's Seventh Framework Programme for research, technological development and demonstration under grant agreement no. 606839
+The CLIC project, currently under study at CERN is an electron-positron collider at 3 TeV centre-of-mass energy and luminosity of 2*1034 cm-2s−1. Achieving such luminosity requires a beam dimension of 1 nm in the vertical plane and high beam stability. The TD24 is a traveling wave structure operating at 12 GHz designed to reach 100 MV/m at constant gradient. It consists of two coupling cells and 24 disks. The RF is coupled from cell to cell though an iris of 5.5 mm. To minimize the occurrence of wake-fields and minimize the emittance growth Δεy below 5%, the pre-alignment precision of the electrical centre of the accelerating structure (AS) on its support has to be better than 7 μm. Following, the AS is actively aligned with beam using the wake-field monitor (WFM) signals, with a resolution of 3.5 μm. A test bench for laboratory measurements has been designed and exploits the asymmetry created by RF scattering parameters of an off-centre conductive wire, stretched to locate the electromagnetic centre of the AS. Simulations and preliminary measurement results are presented.
+
+ 
+
+
+
+
+
+
+Poster TUPB054 [2.704 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB055
+Design of a Laser-based Profile Monitor for LINAC4 Commissioning at 50 MeV and 100 MeV
+451
+
+
+ 
+
+T. Hofmann, E. Bravin, U. Raich, F. Roncarolo
+                       CERN, Geneva, Switzerland
+G.E. Boorman, A. Bosco, S.M. Gibson
+                       Royal Holloway, University of London, Surrey, United Kingdom
+E. Griesmayer
+                       CIVIDEC Instrumentation, Wien, Austria
+
+ 
+
+
+ 
+
+Funding: Marie Curie Network LA3NET which is funded by the European Commission under Grant Agreement Number GA-ITN-2011-289191.
+A laser-based profile monitor has been designed for commissioning of CERN's LINAC4 accelerator at 50 MeV and 100 MeV, as part of the development of a non-destructive profile and emittance monitor foreseen for the final 160 MeV beam. The system is based on a low power laser which is scanned through the H− beam. Electrons, which are photo-detached from the ions by the laser, are deflected by a steerer magnet and measured by a diamond detector. The custom designed diamond detector is tailored to minimize the disturbance due to the electromagnetic field of the passing main beam. The laser source will be installed in the LINAC4 Klystron gallery located 75 m away from the profile station and an optical fiber will transport the laser to the tunnel. The laser propagation for different pulse length and peak power values was characterized with laboratory tests with such a long fiber. In this paper we describe the overall design, focusing on key elements such as the fiber-based laser transport and the electron detection with the diamond detector.
+
+ 
+
+
+
+
+
+
+Poster TUPB055 [1.726 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB056
+Transverse Rigid Dipole and Intra-Bunch Oscillation Detection Using the Transverse Feedback Beam Position Detection Scheme in SPS and LHC
+456
+
+
+ 
+
+W. Höfle, G. Kotzian, D. Valuch
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The LHC and SPS transverse dampers use beam position electronics with I,Q detection at 400 MHz and 200 MHz, of the sum and difference signals from a strip-line pick-up. Digitization is performed to give synchronous bunch-by-bunch data at the rate of 40 MHz corresponding to the bunch spacing of 25 ns. A performance in the um range is achieved with beams in LHC and has contributed to the high performance of the essential transverse feedback during the LHC run 1. In the present paper we review the systems deployed and their performance as well as the potential of the I,Q detection to also detect intra-bunch motion. The principle is illustrated using data from the LHC scrubbing runs in which intra-bunch motion is expected and has been observed due to electron cloud instabilities. The potential use of this signal to drive a transverse intra-bunch feedback system is outlined.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB057
+Development of a Versatile OTR-ODR  Station for Future Linear Colliders
+461
+
+
+ 
+
+R. Kieffer, M. Bergamaschi, T. Lefèvre, S. Mazzoni
+                       CERN, Geneva, Switzerland
+T. Aumeyr, P. Karataev
+                       Royal Holloway, University of London, Surrey, United Kingdom
+M.G. Billing, J.V. Conway, J.P. Shanks
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+L.M. Bobb
+                       DLS, Oxfordshire, United Kingdom
+N. Terunuma
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+In order to study the feasibility of Optical Transition (OTR) and Diffraction (ODR) Radiation based profile measurement for the future electron-positron linear colliders (ILC, CLIC) a new dedicated instrument is under development at CERN to be installed in KEK-ATF2 beam line in fall 2015. To optimize sensitivity to micron and sub-micron beam sizes, we plan to observe ODR/OTR in the visible-UV wavelength range, down to approximately 150 nm. ODR light will be produced by narrow (25-500 μm) slits with non-uniform reflectivity. To improve our knowledge on the complex pattern produced by ODR, a preparatory experiment is being conducted on the CTF3 CALIFES beam line (CERN). This device produces interferences between two OTR screens in the visible optical range with the possibility to control the distance between them, i.e. to probe the shadowing region. The new results of this OTR interference measurement will be presented, together with the latest results from the ODR run in CesrTA (Wilson lab-Cornell).
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB058
+A New Orbit System for the CERN Antiproton Decelerator
+465
+
+
+ 
+
+R. Marco-Hernandez, M.E. Angoletta, M. Ludwig, J.C. Molendijk, F. Pedersen, R. Ruffieux, J. Sanchez-Quesada, L. Søby
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+This contribution will describe the new orbit system foreseen for the Antiproton Decelerator (AD) located at CERN. The AD decelerates antiprotons from 3.57 GeV/c down to 100 MeV/c, with an intensity ranging from 1×107 to 5×107 particles. The orbit system developed is based on 34 horizontal and 29 vertical electrostatic beam position monitors (BPMs) fitted with existing low noise front-end amplifiers. After amplification, the BPM signals will be digitized and down-mixed to baseband, decimated and filtered before computation to extract the position. The digital acquisition part of the orbit measurement system is based on the VME Switched Serial (VXS) enhancement of the VME64x standard and includes VITA57 standard FPGA Mezzanine Cards (FMC). The system is foreseen to measure complete orbits every 2.5 ms with a resolution of 0.1 mm.
+
+ 
+
+
+
+
+
+
+Poster TUPB058 [1.022 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB059
+Development of an Ionization Profile Monitor Based on a Pixel Detector for the CERN Proton Synchrotron
+470
+
+
+ 
+
+J.W. Storey, D. Bodart, B. Dehning, S. Levasseur, P. Pacholek, A. Rakai, M. Sapinski, G. Schneider, D. Steyart
+                       CERN, Geneva, Switzerland
+K. Satou
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+The transverse emittance measurement in the CERN Proton Synchrotron is currently performed using fast rotational wire scanners. These scanners cannot provide continuous bunch-by-bunch measurements and the expected future increase of the beam brightness will lead to an accelerated sublimation of the wire. A novel Ionization Profile Monitor is being constructed to cope with these challenges. The readout of this device will be based on a hybrid silicon pixel detector with a Timepix3 chip. Pixel detectors are sensitive to single electrons therefore eliminating the need for traditional Multi-Channel Plates, which suffer from ageing phenomena. The early digitization of the signal will reduce the susceptibility of the readout system to electromagnetic interference, while the time resolution of the chip allows the required bunch-by-bunch measurement. Due to the small length of the detector a new, simplified ion trap has been designed. Resistive glass plates are used to provide maximum uniformity of the electric field and to simplify construction. The guiding field will be provided by a new, self-compensating magnet. It is foreseen to have the device ready for testing with beam in 2016.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB060
+Development and Test of High Resolution Cavity BPMs for the CLIC Main Beam Linac
+474
+
+
+ 
+
+J.R. Towler, T. Lefèvre, M. Wendt
+                       CERN, Geneva, Switzerland
+S.T. Boogert, A. Lyapin
+                       JAI, Egham, Surrey, United Kingdom
+B.J. Fellenz
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The main beam of the Compact LInear Collider (CLIC) requires the beam trajectory to be measured with 50 nm spatial resolution. It also requires a time resolution capable of making position measurements of the head and tail of the 156 ns long CLIC bunch train, for use in dispersion free steering based on an energy chirp applied along the train. For this purpose, a stainless steel 15 GHz cavity BPM prototype has been manufactured, installed at the CLIC Test Facility (CTF3) and tested with beam. An improved design has been fabricated from copper. We discuss results from the two types of the prototype pickups, both from laboratory tests and from beam tests. We also cover the development of the new downconverter electronics.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB061
+Experience From the Construction of a New Fast Wire Scanner Prototype for the CERN- SPS and its Optimisation for Installation in the CERN-PS Booster
+479
+
+
+ 
+
+R. Veness, W. Andreazza, N. Chritin, B. Dehning, J. Emery, D. Gudkov, J. Herranz, P. Magagnin, E. Piselli, S. Samuelsson
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+A new design of wire scanner is under development for the LHC Injector Upgrade project at CERN. A prototype has been designed, built and installed in the SPS accelerator to test the concept in an operational accelerator environment. New technology has been developed and qualified for in-vacuum motor and structural components using 3D metal additive machining. This paper will describe the technology developed for this scanner and the test results to date. This prototype has recently been re-optimised to fit in the limited space available in the PS Booster rings. This design will also be presented.
+
+ 
+
+
+
+
+
+
+Poster TUPB061 [0.887 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB062
+Status of the PACMAN Project
+483
+
+
+ 
+
+H. Mainaud Durand, K. Artoos, M.C.L. Buzio, D. Caiazza, N. Catalán Lasheras, A. Cherif, I.P. Doytchinov, J.-F. Fuchs, A. Gaddi, N. Galindo Munoz, J. Gayde, M. Modena, P. Novotny, S. Russenschuck, C. Sanz, G. Severino, K.W. Solomon, D. Tshilumba, V. Vlachakis, M. Wendt, S. Zorzettipresenter
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: The PACMAN project is funded by the European Union's Seventh Framework Programme for research, technological development and demonstration under grant agreement no. 606839
+PACMAN, a study on Particle Accelerator Components' Metrology and Alignment to the Nanometre scale, is an Innovative Doctoral Program, funded by the European Commission, hosted by CERN. The objective is to propose new methods allowing the determination of the reference axis of accelerator components with respect to external alignment targets. A test bench, using real components of the Compact Linear Collider (CLIC) study, will demonstrate the feasibility of the solutions developed with micrometric accuracy. The study concerns the methods developed using a stretched wire to determine the magnetic axis of small aperture magnets, the electrical centre of a 15 GHz RF-BPM or the electro-magnetic axis of an accelerating cavity. Solutions are also carried out to measure the position of the wire with respect to the external alignment targets, using a 3D Coordinate Measuring Machine or portable alternatives based on Frequency Scanning Interferometry or micro-triangulation. Other systems developed are also taken into account: a nano-positioning system to validate the nanometric resolution of the BPM and a dedicated seismic sensor to characterize the environment during the measurements.
+
+ 
+
+
+
+
+
+
+Poster TUPB062 [2.167 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB063
+Stretched-Wire Techniques and Measurements for the Alignment of a 15GHz RF-BPM for CLIC
+487
+
+
+ 
+
+S. Zorzetti, N. Galindo Munoz, M. Wendt
+                       CERN, Geneva, Switzerland
+L. Fanucci
+                       Università di Pisa, Pisa, Italy
+
+ 
+
+
+ 
+
+Funding: The PACMAN project is funded by the European Union's Seventh Framework Programme for research, technological development and demonstration under grant agreement no. 606839
+For the Compact LInear Collider (CLIC) project at CERN, maintaining low emittance beams, as they are transported along the two independent 10-20 km long main linacs, is crucial. The beam trajectory therefore has to be very well aligned to the magnetic centre of the quadrupole magnets. A series of microwave cavity beam position monitors (BPM) is foreseen to detect the position of the beam along the main linacs to precisely monitor the beam trajectory in the circular beam pipe of only 8 mm diameter. The PACMAN project aims to demonstrate the pre-alignment of the magnetic field of a main CLIC quadrupole with the electro-magnetic centre of a 15 GHz RF-BPM to the required sub-micron accuracy. This paper focuses on stretched-wire measurements of a CLIC Test Facility (CTF) cavity BPM, to locate its electrical centre. Details of two measurement methods are discussed: RF signal excitation of the wire and analysis of RF signal transfer through the slot-coupled waveguides of the cavity, using the stretched wire as a passive target. This contribution will present the theory behind these measurements, their electromagnetic analysis and first, preliminary experimental results.
+
+ 
+
+
+
+
+
+
+Poster TUPB063 [7.372 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB064
+Status of The European XFEL Transverse Intra Bunch Train Feedback System
+492
+
+
+ 
+
+B. Keil, R. Baldinger, R. Ditter, M. Gloor, W. Koprek, F. Marcellini, G. Marinkovic, M. Roggli, M. Rohrer, M. Stadler, D.M. Treyer
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Funding: This work was partially funded by the Swiss State Secretariat for Education, Research and Innovation SERI
+The European XFEL (E-XFEL) will have a transverse intra bunch train feedback system (IBFB) that is capable of correcting the beam position of individual bunches in the ~650us long bunch train, with a minimal bunch spacing of 222ns. The IBFB measures the beam positions with high-resolution cavity BPMs, and corrects the position of each bunch via stripline kicker magnets driven by class AB solid-state RF power amplifiers. The production of the IBFB BPM pickups is finished, and a pre-series version of the low-latency BPM electronics, including firmware and software, has been successfully tested with beam. After successful production and tests of prototypes, the series production of IBFB kicker magnets and RF power amplifiers is in progress. The IBFB feedback electronics hardware development is mainly finished, while firmware and software development is still in progress. This report summarizes the latest design status and test results of the different IBFB system components.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB065
+Status of The SwissFEL BPM System
+497
+
+
+ 
+
+B. Keil, R. Baldinger, R. Ditter, D. Engeler, W. Koprek, R. Kramert, A. Malatesta, F. Marcellini, G. Marinkovic, M. Roggli, M. Rohrer, M. Stadler
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+SwissFEL is a 5.8GeV free electron laser facility presently under construction at PSI. The electron beam position will be measured by three types of cavity beam position monitors. For the injector, linac and beam transfer lines, low-Q 3.3GHz cavity BPMs with 38mm and 16mm aperture (CBPM38 and CBPM16) will be used to measure the position and charge of two bunches with 28ns spacing individually. A fast kicker system distributes each bunch to a different undulator line, where 4.9GHz high-Q cavity BPMs with 8mm aperture (CBPM8) are used in the undulator intersections. The production of the CBPM38 pickups is finished, while the CBPM16 production is in progress. For CBPM8, a prototype pickup has been successfully tested, and a 2nd pre-series prototype with reduced dark-current sensitivity is currently in production. The development of the common 3.3GHz CBPM electronics for CBPM38 and CBPM16 is finished, while the CBPM8 electronics is currently in the prototyping phase. This paper gives an overview of the present pickup, electronics, firmware and software design and production status, including test results and methods to control and maintain the quality during series production.
+
+ 
+
+
+
+
+
+
+Poster TUPB065 [0.783 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB066
+Preliminary Test of the Bunch-by-Bunch Transverse Feedback System for TPS Storage Ring
+502
+
+
+ 
+
+Y.-S. Cheng, P.C. Chiupresenter, K.T. Hsu, S.Y. Hsu, H.P. Hsueh, K.H. Hu, C.Y. Liao
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Commissioning of the Taiwan Photon Source (TPS) is in progress and divided into two phases. The storage ring equips with two five-cell PETRA RF cavities and without insertion devices installed for Phase-I commission to confirm correctness of everything, to do preliminary vacuum clearing, and wait available of cryogenic system available. After finished the Phase I commissioning in March, 2015, installation of two superconducting RF cavities and 10 sets of insertion devices are ongoing. The commissioning is planned to start around in August. There is a prototype vertical stripline kicker installed in 2014. One horizontal stripline kicker and two vertical stripline kickers were installed in May. Commercial available feedback processor was selected for the feedback system integration. Preliminary feedback loop closed have been tested during Phase-I beam commissioning in early 2015 with prototype vertical kicker. Beam commissioning with new kickers is scheduled when beam stored in Phase-II beam commissioning which will started soon. Final check before beam test is under way.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB067
+Synchrotron Radiation Measurement at Taiwan Photon Source
+507
+
+
+ 
+
+C.Y. Liao, Y.-S. Cheng, P.C. Chiupresenter, K.T. Hsu, S.Y. Hsu, H.P. Hsueh, K.H. Hu, C.K. Kuan, C.Y. Wu
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The synchrotron radiation light produced from a dipole magnet is widely used to characterize beam parameters in synchrotron light source (photon synchrotron). The synchrotron radiation monitor (SRM) systems were implemented for the booster synchrotron and the storage ring at Taiwan Photon Source (TPS). The beam parameters of the booster were recorded during the energy ramping process through the CCD camera and streak camera. The beam size measurement and beam behavior observed of the storage ring were performed by X-ray pinhole camera and streak camera respectability. The results are summarized in this report.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB068
+Commissioning of BPM System for the TPS Project
+512
+
+
+ 
+
+P.C. Chiu, Y.-S. Cheng, K.T. Hsu, K.H. Hu, C. H. Huang, C.H. Kuo, D. Lee
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+Beam position monitor system for TPS (Taiwan Photon Source) project include several different kinds of button BPMs distributed at transfer line and booster synchrotron booster, and the storage ring. All BPM equip with commercial Libera single-pass BPM electronics and Libera Brilliance+ BPM electronics. Commissioning of the TPS accelerator system start in late 2014 for phase I commissioning until the first quarter of 2015. Phase II commissioning equip with SRF and insertion devices is schedule in the 3rd and 4th quarter of 2015. System integration, software supports, tools available for commissioning, functionality and performance of BPM system will be summary in this reports.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB070
+Beam Characterization Using Laser Self-Mixing
+516
+
+
+ 
+
+A.S. Alexandrova, C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+A.S. Alexandrova, C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Funding: The European Union's Seventh Framework Programme under grant agreement no 289191; HGF and GSI under contract VH-NG-328 and STFC under the Cockcroft Institute Core Grant No.ST/G008248/1
+Non-destructive diagnostics of particle beams is highly desirable for essentially any accelerator or storage ring. This concerns the characterization of the primary beam itself, but also for example of atom and molecular jets that are crossed with the primary beam as experimental targets or for diagnostics purposes. A laser-feedback interferometer based on the optical self-mixing effect provides a low-cost, robust, compact and non-invasive sensor for velocity, displacement and density measurements of various targets. This contribution presents results from theoretical and experimental studies into the factors influencing the performance and accuracy of this sensor. Parameters that have been assessed include the target velocity, the size of scattering particles, their density, type and scattering properties.
+
+ 
+
+
+
+
+
+
+Poster TUPB070 [3.390 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB071
+Simulations of the FETS Laser Diagnostic
+521
+
+
+ 
+
+A. Kurup, J.K. Pozimski, P. Savage
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+S.M. Gibsonpresenter, K.O. Kruchinin
+                       JAI, Egham, Surrey, United Kingdom
+S.M. Gibsonpresenter, K.O. Kruchinin
+                       Royal Holloway, University of London, Surrey, United Kingdom
+A.P. Letchford
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+J.K. Pozimski
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+The Front-End Test Stand (FETS) aims to demonstrate clean chopping of a 60mA, 3MeV H− ion beam. Such high beam intensities require unconventional emittance and profile measuring devices such as the laserwire system that will be used on FETS. A laser is used to neutralise part of the H− ion beam. The main beam is then separated from the stripped beam by using a dipole magnet. This paper presents tracking results of the laser diagnostic lattice using a simulated field map of an existing dipole magnet and investigates the possibility of laser stripping upstream of the dipole.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB072
+High Frequency Electro-Optic Beam Position Monitors for Intra-Bunch Diagnostics at the LHC
+ 
+
+
+WEDLA02
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S.M. Gibson, A. Arteche, G.E. Boorman, A. Bosco
+                       Royal Holloway, University of London, Surrey, United Kingdom
+P.Y. Darmedru, T. Lefèvre, T.E. Levens
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+At the HL-LHC, proton bunches will be rotated by crab-cavities close to the interaction regions to maximize the luminosity. A method to rapidly monitor the transverse position of particles within each 1ns bunch is required. A novel, compact beam diagnostic to measure the bunch rotation is under development, based on electro-optic crystals, which have sufficient time resolution (<50ps) to monitor intra-bunch perturbations. The electro-optic beam position monitor uses two pairs of crystals, mounted on opposite sides of the beam pipe, whose birefringence is modified by the electric field of passing charged particle beam. The change of birefringence depends on the electric field which itself depends on the beam position, and is measured using polarized laser beams. The electro-optic response of the crystal to the passing bunch has been simulated for HL-LHC bunch scenarios. An electro-optical test stand including a high voltage modulator has been developed to characterize LiTaO3 and LiNiO3 crystals. Tests to validate the different optical configurations will be reviewed. The opto-mechanical design of an electro-optic prototype that will be installed in the CERN SPS will be presented.
+
+ 
+
+
+
+
+
+
+Slides TUPB072 [46.475 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB073
+Characterising the Signal Processing System for Beam Position Monitors at the Front End Test Stand
+526
+
+
+ 
+
+G.E. Boorman, S.M. Gibsonpresenter, N. Rajaeifar
+                       Royal Holloway, University of London, Surrey, United Kingdom
+J.D. Gale
+                       University of Sussex, Brighton, United Kingdom
+S. Jolly
+                       UCL, London, United Kingdom
+S.R. Lawrie
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+A.P. Letchford
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+J.K. Pozimski
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+
+ 
+
+
+ 
+
+A number of beam position monitors are being installed at the Front End Test Stand H− ion source at the Rutherford Appleton Laboratory, UK, as part of the 3 MeV medium energy beam transport. The FETS ion source delivers pulses up to 2 ms long at a rate up to 50 Hz and a maximum current of 60 mA, with a 324 MHz micro-bunch structure imposed by the frequency of the FETS RF acceleration cavity. The response of an in-house designed button BPM has been simulated and then characterised on a wire-based test-rig and the results are presented. The output from a custom algorithm running on a commercial PXI-based FPGA signal processing system is evaluated using test signals from both a function generator and the BPM in the test-rig, to verify the speed and precision of the processing algorithm. The processing system can determine the beam position in eight BPMs, with a precision of better than 20 microns, within one microsecond of the signal sampling being completed. Work is ongoing to reduce the processing time to below 300 ns.
+
+ 
+
+
+
+
+
+
+Poster TUPB073 [0.552 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB075
+Development of a Supersonic Gas Jet Beam Profile Monitor
+530
+
+
+ 
+
+H.D. Zhang, A. Jeff, V. Tzoganis, C.P. Welschpresenter
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+A. Jeff
+                       CERN, Geneva, Switzerland
+A. Jeff, V. Tzoganis, C.P. Welschpresenter
+                       The University of Liverpool, Liverpool, United Kingdom
+V. Tzoganis
+                       RIKEN, Saitama, Japan
+V. Tzoganis
+                       RIKEN Nishina Center, Wako, Japan
+
+ 
+
+
+ 
+
+A supersonic gas jet beam profile monitor has been developed by the QUASAR Group at the Cockcroft Institute, UK. It creates a supersonic gas curtain which interacts with the primary beam, and then images the beam cross-section by collecting the generated ions. The gas curtain is inclined at 45 degrees to the beam and functions as a minimally intercepting screen, which allows it to be used in high energy and high power beams without worrying about material damage. An accurate profile measurement requires homogeneous gas density across the curtain, while high resolution measurement requires a very thin jet. In order to characterize the gas curtain density distribution and understand the jet better, a new movable gauge module has been installed in the gas jet test stand. In this contribution, we discuss the monitor design and the characterization of the gas curtain with the newly installed movable gauge module. In addition, we present a new method for the generation of a very narrow pencil jet using deBroglie wave focusing. Such a narrow jet could be used as a non-invasive counterpart to wire scanners in high-intensity beams where the latter cannot be used.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB077
+Installation Status of the Electron Beam Profiler for the Fermilab Main Injector
+535
+
+
+ 
+
+R.M. Thurman-Keup, M.L. Alvarez, J. Fitzgerald, C.E. Lundberg, P.S. Prieto, M. Roberts, J.R. Zagel
+                       Fermilab, Batavia, Illinois, USA
+W. Blokland
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+The planned neutrino program at Fermilab requires large proton beam intensities in excess of 2 MW. Measuring the transverse profiles of these high intensity beams is challenging and often depends on non-invasive techniques. One such technique involves measuring the deflection of a probe beam of electrons with a trajectory perpendicular to the proton beam. A device such as this is already in use at the Spallation Neutron Source at ORNL and the installation of a similar device is underway in the Main Injector at Fermilab. The present installation status of the electron beam profiler for the Main Injector will be discussed together with some simulations and test stand results.
+
+ 
+
+
+
+
+
+
+Poster TUPB077 [2.494 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB080
+Signal Processing Algorithm for Beam Position and Phase Monitors at LANSCE
+540
+
+
+ 
+
+R.C. McCrady, H.A. Watkins
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the United States Department of Energy under contract DE-AC52-06NA2596.
+The new beam position and phase monitors at LANSCE measure the phase of the beam relative to a reference signal from the master reference oscillator. Because of the various beam pulse formats used at LANSCE the algorithm needs to be flexible and to work well with short bursts of signals. We have developed an algorithm that provides phase resolution of better than 0.25 degrees with signal bursts one microsecond long, and also allows measurement of bursts as short as 100 nanoseconds. For beam position measurements flexibility took priority over precision; the processing scheme provides precision of less than 0.1 mm. In this paper we will present the principles of the algorithm and results of measurements.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB081
+LANSCE 1L Harp Data Acquisition System Upgrade: First Results
+542
+
+
+ 
+
+J.D. Sedillo, D. Martinez, J.D. Nguyen
+                       LANL, Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy under contract no. DE-AC52-06NA25396
+Efforts applied toward the upgrade of the LANSCE 1L harp beam diagnostic data acquisition system have completed with the system's successful deployment in late December 2014. Leveraging the principle of secondary electron emission, the data acquisition system measures the particle beam-induced, negative charge-loss response of a statically-located, harp-style, beam diagnostic sensor. The harp's sense wires span two orthogonal planes, transversely oriented with the beam's direction of travel resulting in two orthogonal profiles. The profile data provided by this beam diagnostic system allows LANSCE operators to measure the particle beam's transverse properties prior to reaching its final destination: the 1L target. Details will be provided with respect to the system's final hardware architecture, the system's theoretical beam response model, and the system's measured beam response.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB082
+Performance of the New Fast Wire Scanner at the LCLS
+547
+
+
+ 
+
+P. Krejcik, M.L. Campell, J.M. D'Ewart, H. Loos, K. Luchini
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by Department of Energy Contract No. DE-AC0276SF00515.
+A new fast wire scanner based on a linear DC servo motor acting through dual bellows has been developed at SLAC. After successful beam testing at LCLS we are now replacing all the old style stepping motor driven scanners with the new type. The fast scanner design allows full emittance scans to be completed in seconds rather than minutes as before, facilitating speedier tuning of the accelerator. The low vibration design allows for wire speeds up to 1 m/s, making it also suitable for use in the new LCLS-II machine where high wire speeds are essential to prevent wire breakage from the high power electron beam with a 1 MHz repetition rate. The wire scanner design is presented along with beam measurements demonstrating its performance.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB084
+Cherenkov Converter for Large Dynamic Range, High Sensitivity Detectors for Use on Wire-Scanners
+550
+
+
+ 
+
+J. Gubeli, P.E. Evtushenko
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+We are developing a wire-scanner with a dynamic range of 10+6 or larger. In addition to the large dynamic range (LDR), high sensitivity is very desirable so that measurements can be made with a small amount of beam or small duty cycle beam. This high sensitivity requirement makes photo multiplier tubes (PMT) the preferred detector. Low dark current PMTs have maximum quantum efficiency in the visible wavelength range. We describe a converter where Cherenkov radiation (CR) is used to generate visible photons from electrons and positrons that are present due to wire-beam interaction. Also described is an optical system that collects and couples the CR into an optical fiber that delivers the visible photons to the PMT outside of the accelerator area, reducing background. The directional nature of the CR is used in a way that, when CR in the radiating medium is generated by particles not directed from the wire-beam interaction point to the converter, the CR is not coupled into the optical fiber and therefore does not create background for the wire-scanner measurements. Sensitivities to the refractive index of the radiating medium, alignment and mechanical tolerances are also presented.
+*Work supported by US DOE office of Basic Energy Sciences under the early career program; DOE award number FWP#JLAB-BES11-05
+
+ 
+
+
+
+
+
+
+Poster TUPB084 [1.473 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB085
+Multi-Diagnostic Transverse Profile Monitor Chamber for Extreme Ultraviolet Lithography
+554
+
+
+ 
+
+T.J. Campese, R.B. Agustsson, M.A. Harrison, B.T. Jacobson, A.Y. Murokh, A.G. Ovodenko, M. Ruelas, H.L. To
+                       RadiaBeam, Santa Monica, California, USA
+M.G. Fedurin, I. Pogorelsky, T.V. Shaftan
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: DOE SBIR Grant No DE-SC0007703
+RadiaBeam Technologies has developed a compact transverse beam profile measurement system for the Extreme Ultraviolet Lithography (EUL) experiment at the Brookhaven National Laboratory-Accelerator Test Facility (BNL-ATF). The EUL experiment requires fine e-beam and laser alignment across multiple passes. To accomplish this, the system consists of four profile monitor diagnostics: Interaction Point (IP), upstream, downstream, and a sub-micron resolution diagnostic 11.5 mm downstream of the IP. Care was taken in the design to minimize footprint, avoid possible diagnostic collisions, and maximize ease of assembly and alignment. This paper will review the requirements for the dimensional and optical constraints and solutions for this experiment.
+
+ 
+
+
+
+
+
+
+Poster TUPB085 [0.575 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPB086
+Observation of Ion-induced Instabilities at NSLS2 Storage Ring
+557
+
+
+ 
+
+W.X. Cheng, Y. Li, B. Podobedov
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+NSLS2 storage ring has been commissioned and is open for user operations. At relatively low beam current (~ 25mA) multi-bunch fills, ion-induced instabilities have been observed. For the present user operations, 150mA of total beam current is filled in ~1000 bunches, fast ion is the dominant instability at the NSLS2 storage ring. Although the ion-induced dipole motions can be suppressed using bunch by bunch (BxB) feedback system and it is expected to decrease in severity as the vacuum conditioning progresses further, a thorough understanding and characterization of this effect is still important, especially in preparation to the future 500mA operations. A number of ion instability related studies, mostly parasitic to other machine activities, have been carried out at various fill patterns and beam currents. Preliminary measurement results are reported in this paper.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ RIS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

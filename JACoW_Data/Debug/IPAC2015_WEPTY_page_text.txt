@@ -1,0 +1,3126 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IPAC2015 - Table of Session: WEPTY (Wednesday Posters (Tyler))
+
+
+WEPTY —  Wednesday Posters (Tyler)   (06-May-15   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+WEPTY002
+Studies into Electron Beam Generation, Acceleration and Diagnostics within LA³NET
+3256
+
+
+ 
+
+C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+The Laser Applications at Accelerators Network (LA³NET) is receiving funding of up to 4.6 M€ from the European Union within the 7th Framework Programme to carry out R&D into laser-based particle sources, laser acceleration schemes and laser-based beam diagnostics. This international network joins universities, research centres and private companies and has been training 19 early stage researchers at network nodes across Europe since 2011. This contribution presents research outcomes from LA³NET’s main work packages, covering electron beam generation, acceleration and diagnostics. Results from surface studies of photocathodes for photo injector applications in the framework of the CLIC project are presented along with information about expected accelerating gradients in dielectric laser-driven accelerators as identified for non-relativistic and relativistic electron beams using the CST and VSIM simulation codes. Initial results from energy measurements using Compton backscattering at the ANKA Synchrotron at KIT are also presented. In addition, a summary of recent and upcoming international events organized by the LA³NET consortium is also given.
+This project has received funding from the European Union’s Seventh Framework Programme for research, technological development and demonstration under grant agreement no 289191.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY002
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY003
+Magnet Designs for the Multi-bend Achromat Lattice at the Advanced Photon Source
+3260
+
+
+ 
+
+M.S. Jaski, J. Liu
+                       ANL, Argonne, Ilinois, USA
+D.J. Harding, V.S. Kashikhin, M.L. Lopes
+                       Fermilab, Batavia, Illinois, USA
+A.K. Jain, C.J. Spataro
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The Advanced Photon Source (APS) is currently investigating replacing the existing two-bend 7 GeV lattice with a 6 GeV seven-bend achromat magnet lattice in order to achieve a low electron beam emittance. This new lattice requires 1320 magnets, of which there are nine types. These include high strength quadrupoles (gradient up to ~97 T/m), sextupoles with second derivative of field up to ~7000 T/m2, longitudinal gradient dipoles with field ratio of up to 5, and transverse gradient dipoles with gradients of ~50 T/m and central field of ~0.6 T. These field requirements and the limited space available pose several design challenges. This paper presents a summary of magnet designs for the various magnet types developed through a collaboration of APS with FNAL and BNL.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY003
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY004
+Mathematical Modeling and Analysis of a Wide Bandwidth Bipolar Power Supply for the Fast Correctors in the APS Upgrade Controller
+3264
+
+
+ 
+
+B. Song, J. Wangpresenter
+                       ANL, Argonne, Ilinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+The APS Upgrade requires a fast bipolar power supply for the fast correction magnets. The performance requirement of the power supply includes a -3dB at 10 kHz small-signal bandwidth for the output current. This requirement presents a technical challenge to the design of the power circuit and the power supply regulator because the magnet load may have a significant inductance and make it difficult to achieve a high bandwidth for the current. In order to meet the requirement, different circuit topologies and regulators are being investigated. One of the candidate designs combines a standard H-bridge pulse-width modulation (PWM) circuit and a linear power amplifier to provide a ±15A DC current and an AC component up to 1% of the full scale with the required bandwidth. An appropriate feedback control loop and a current regulator are being designed. The mathematical modeling and simulation of the power circuit and the control loop are being conducted to prove the concept of the design. This paper presents the design of the circuit, mathematical modeling, and the simulation results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY004
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY008
+Superconducting Harmonic Cavity for the Advanced Photon Source Upgrade
+3267
+
+
+ 
+
+M.P. Kelly, A. Barcikowski, J. Carwardine, Z.A. Conway, D. Horan, S.H. Kim, P.N. Ostroumov, G.J. Waldschmidt
+                       ANL, Argonne, Illinois, USA
+J. Rathke, T. Schultheiss
+                       AES, Medford, New York, USA
+
+ 
+
+
+ 
+
+A new bunch lengthening cryomodule using a single-cell ‘higher-harmonic’ superconducting cavity (HHC) based on the TESLA shape and operating at the 4th harmonic (1408 MHz) of the main RF is under development at Argonne. The system will be used to improve the Touschek lifetime and increase the single-bunch current limit in the upgraded multibend achromat lattice of the Advanced Photon Source electron storage ring. The 4 K cryomodule will fit within one half of a straight section, ~2.5 meters, of the ring. The system will use a pair of moveable 20 kW (each) CW RF power couplers to adjust the loaded Q and extract power from the beam. This will provide the flexibility to adjust the impedance presented to the beam and run at various beam currents. Higher-order modes (HOMs) induced by the circulating electron beam will be extracted along the beam axis and damped using a pair of room temperature beam line absorbers. Engineering designs and the prototyping status for the cavity, power couplers and HOM absorbers are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY008
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY009
+Preservation of Quality Factor of Half Wave Resonator during Quenching in the Presence of Solenoid Field
+3270
+
+
+ 
+
+S.H. Kim, D.M. Caldwell, Z.A. Conway, S.M. Gerbick, M. Kedzie, M.P. Kelly, S.W.T. MacDonald, P.N. Ostroumov, T. Reid
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of energy, Offices of High-Energy Physics and Nuclear Physics, under Contract No. DE-AC02-76-CH03000 and DE-AC02-06CH11357.
+The Proton Improvement Plan II at FNAL relies upon a 162.5 MHz superconducting half-wave resonator cryomodule to accelerate H− beams from 2.1 to 10 MeV. This cryomodule contains 8 resonators with 8 superconducting solenoid magnets interspersed between them. X-Y steering coils are integrated with a package of the superconducting solenoid magnets. The center of the solenoids is located within ~50 cm of the high surface magnetic field of the half-wave resonators and in this study we assess whether or not magnetic flux generated by this magnet is trapped into the half-wave resonators niobium surface and increases the RF losses to liquid helium. To test this we assembled a solenoid with a 162.5 MHz half-wave resonator spaced as they will be in the cryomodule. We measured the quality factor of the cavity before and after the cavity quenched as a function of field level in the coils. No measurable change in the quality factor was observed. In this paper, we will present details of the measurements and discuss the magnetic field map.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY009
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY010
+Electropolishing for Low-Beta and Quasi-Waveguide SRF Cavities
+3273
+
+
+ 
+
+T. Reid, Z.A. Conway, S.M. Gerbick, M. Kedzie, M.P. Kelly, P.N. Ostroumov
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Argonne National Laboratory (ANL) has extended high quality electropolishing techniques based on those developed for the International Linear Collider to several more complex superconducting RF cavities. These include the co-axial TEM-mode quarter-wave and half-wave cavities as well as a 2.8 GHz quasi-waveguide structure intended for beam bunch rotation. This system is an improved version of the one developed for 1.3 GHz 9-cell cavities and includes easy provision for direct water cooling using the helium jacket. The performance of these SRF cavities both in terms of RF fields and losses equals or exceeds that of most 9-cell elliptical cavities built and tested today.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY010
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY011
+Power Supply Conceptual Design and R&D for the APS Upgrade
+3276
+
+
+ 
+
+J. Wang, B. Deriy, T. Fors, R.T. Keane, B. Song
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Contract No. DE-AC02-06CH11357.
+The MBA upgrade for the APS requires a large number of power supplies with either unipolar or bipolar DC output currents. The unipolar power supplies will be used to power the main coils in the dipole, quadrupole, and sextupole magnets and the bipolar power supplies will be used for the trim or correction coils. There are several demanding requirements of the power supplies. The unipolar power supplies are expected to have a current stability within 10 parts per million (ppm) of the full scale. The currents must be calibrated to the specification and confirmed with independent and accurate measurement. The bipolar power supplies for the fast correction magnets are required to have a wide output current bandwidth in order to minimize the impact on the real-time feedback system for the beam position correction. There are also new requirements for the power supply controls and communications that are much more demanding than that in the existing APS accelerators. This paper will report the conceptual designs of the power supply systems and the R&D program that is developed to find solutions to the technical challenges.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY012
+Multiple Scattering Effects of a Thin Beryllium Window on a Short, 2 nC, 60 MeV Bunched Electron Beam
+3280
+
+
+ 
+
+E.E. Wisniewski, M.E. Conde, W. Gai, G. Ha, J.G. Power
+                       ANL, Argonne, Illinois, USA
+G. Ha
+                       POSTECH, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Funding: U.S. Dept of Energy Office of Science under contract number DE-AC02-06CH11357.
+The Argonne Wakefield Accelerator 75 MeV drive beamline at Argonne National Laboratory has as its electron source a Cesium telluride photocathode gun with a vacuum requirement on the order of 10-10 torr. In conflict with this, the experimental program at AWA sometimes requires beamline installation of experimental structures which due to materials and/or construction cannot meet the stringent vacuum requirement. One solution is to sequester these types of structures inside a separate vacuum chamber and inject the beam through a thin Beryllium window. The downside is that multiple scattering effects degrade the beam quality to some degree which is not well-known. This study was done in an effort to better understand and predict the multiple scattering effects of the Be thin window, particularly on the beam transverse size. The results of measurements are compared with GEANT4 Monte Carlo simulations via G4beamline and analytical calculations via GPT.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY012
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY013
+Cs2Te Photocathode Performance in the AWA High-charge High-gradient Drive Gun
+3283
+
+
+ 
+
+E.E. Wisniewski, S.P. Antipov, M.E. Conde, D.S. Doran, W. Gai, C.-J. Jing, W. Liu, J.G. Power, C. Whiteford
+                       ANL, Argonne, Illinois, USA
+S.P. Antipov, C.-J. Jing
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Dept of Energy Office of Science under contract number DE-AC02-06CH11357
+The unique high-charge L-band, 1.3 GHz, 1.5 cell gun for the new 75 MeV drive beam is in operation at the Argonne Wakefield Accelerator (AWA) facility (see M.E. Conde, this proceedings.) The high-field (> 80 MV/m) photoinjector has a large area, high QE Cesium telluride photocathode (diameter > 30 mm). The photocathode, a crucial component of the upgraded facility, is fabricated on-site. The photoinjector generates high-charge, short pulse, single bunches (Q > 100 nC) and long bunch-trains (Q > 600 nC) for wakefield experiments. The performance of the photocathode for the AWA drive gun is detailed. Quantum efficiency (QE) measurements indicate long, stable photocathode lifetime under demanding conditions.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY013
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY014
+Development of Fast Kickers for the APS MBA Upgrade
+3286
+
+
+ 
+
+C. Yao, J. Carwardine, A.R. Cours, F. Lenkszuspresenter, R.R. Lindberg, L.H. Morrison, X. Sun, J. Wang, F. Westferro, A. Xiao
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: *Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The APS multi-bend achromat (MBA) upgrade storage ring will support two bunch fill patterns: a 48-singlets and a 324-singlets. A “swap out” injection scheme is adopted. In order to minimize the beam loss and residual oscillation of injected beam and to minimize the perturbation of stored beam during a swap-on injection, the rise, fall, and flat-top parts of the kicker pulse must be held within a 22.8-ns interval. Traditional ferrite-core-type kickers can’t meet the timing requirements; therefore, we decided to use stripline-type kickers. We have completed a preliminary design of a prototype kicker geometry. Procurement of the pulser supply and other components of an evaluation system is under way. We report the specification and design of the fast kicker and current status.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY014
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY015
+Examination of Beryllium under Intense High Energy Proton Beam at CERN's HiRadMat Facility
+3289
+
+
+ 
+
+K. Ammigan, B.D. Hartsell, P. Hurh, R.M. Zwaska
+                       Fermilab, Batavia, Illinois, USA
+A.R. Atherton
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+M. Butcher, M. Calviani, M. Guinchard, R. Losito
+                       CERN, Geneva, Switzerland
+O. Caretta, T.R. Davenne, C.J. Densham, M.D. Fitton, P. Loveridge, J. O'Dell
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+V.I. Kuksenko, S.G. Roberts
+                       University of Oxford, Oxford, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Work supported by Fermi Research Alliance, LLC, under Contract No. DE-AC02-07CH11359 with the U.S. Department of Energy.
+Beryllium is extensively used in various accelerator beam lines and target facilities as material for beam windows, and to a lesser extent, as secondary particle production targets. With increasing beam intensities of future accelerator facilities, it is critical to understand the response of beryllium under extreme conditions to avoid compromising particle production efficiency by limiting beam parameters. As a result, the planned experiment at CERN’s HiRadMat facility will take advantage of the test facility’s tunable high intensity proton beam to probe and investigate the damage mechanisms of several grades of beryllium. The test matrix will consist of multiple arrays of thin discs of varying thicknesses as well as cylinders, each exposed to increasing beam intensities. Online instrumentations will acquire real time temperature, strain, and vibration data of the cylinders, while Post-Irradiation-Examination (PIE) of the discs will exploit advanced microstructural characterization and imaging techniques to analyze grain structures, crack morphology and surface evolution. Details on the experimental design, online measurements and planned PIE efforts are described in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY015
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY016
+RF Modeling of a Helical Kicker for Fast Chopping
+3293
+
+
+ 
+
+M.H. Awida, A.Z. Chen, T.N. Khabiboulline, G.W. Saewert, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+High intensity proton particle accelerators that supports several simultaneous physics experiments requires sharing the beam. A bunch by bunch beam chopper system located after the Radio Frequency Quadrupole (RFQ) is required in this case to structure the beam in the proper bunch format required by the several experiments. The unused beam will need to be kicked out of the beam path and is disposed in a beam dumb. In this paper, we report on the RF modeling results of a proposed helical kicker. Two beam kickers constitutes the proposed chopper. The beam sequence is formed by kicking in or out the beam bunches from the streamline. The chopper was developed for Project X Injection Experiment (PXIE).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY016
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY017
+Development of 650 MHz β=0.9  5-cell Elliptical Cavities for PIP-II
+3296
+
+
+ 
+
+M.H. Awida, M.H. Foley, I.V. Gonin, C.J. Grimm, T.N. Khabiboulline, A. Lunin, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+5-cell 650 MHz elliptical cavities are being developed for the Proton Improvement Plan II (PIP-II) of Fermilab. The cavities are designed to accelerate protons of relative group velocity β=0.9 at the high energy part of the linear particle accelerator. In this paper, we report the status of these cavities and summarize the results of the quality control measurements performed on four initial prototypes.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY017
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY018
+Analysis of a Quasi-waveguide Multicell Resonator for SPX
+3299
+
+
+ 
+
+M.H. Awida, I.V. Gonin, T.N. Khabiboulline, A. Lunin, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+A. Zholents
+                       ANL, Argonne, Ilinois, USA
+
+ 
+
+
+ 
+
+A compact deflecting cavity is needed for the Short Pulse X-rays (SPX) at the Advanced Photon Source (APS) of Argonne national laboratory. The deflecting cavity has to quite efficient providing a 2 MV kick voltage and satisfying stringent requirements on aperture size and total cavity length. Meanwhile, the cavity should allow operation up to 100 mT peak surface magnetic field before quenching. In this paper, we report on the latest analysis carried out on the cavity structure to investigate frequency sensitivity to pressure fluctuations, frequency sensitivity to tuning forces, modal frequency, and wakefield losses.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY018
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY019
+Transverse Field Perturbation For PIP-II SRF Cavities
+3302
+
+
+ 
+
+P. Berrutti, T.N. Khabiboulline, V.A. Lebedev, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by D.O.E. Contract No. DE-AC02-07CH11359
+Proton Improvement Plan II (PIP-II) consists in a plan for upgrading the Fermilab proton accelerator complex to a beam power capability of at least 1 MW delivered to the neutrino production target. A room temperature section accelerates H− ions to 2.1 MeV and creates the desired bunch structure for injection into the superconducting (SC) linac. Five cavity types, operating at three different frequencies 162.5, 325 and 650 MHz, provide acceleration to 800 MeV. This paper presents the studies on transverse field perturbation on particle dynamic for all the superconducting cavities in the linac. The effects studied include quadrupole defocusing for coaxial resonators, and dipole kick due to couplers for elliptical cavities. A multipole expansion has been performed for each of the cavity designs including effects up to octupole.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY020
+Design of a Marx-Topology Modulator for FNAL Linac
+3306
+
+
+ 
+
+T.A. Butler, F.G. Garcia, M.R. Kufer, H. Pfeffer, D. Wolff
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+The Fermilab Proton Improvement Plan (PIP) was formed in 2011 to address important and necessary upgrades to the Proton Source machines (Injector line, Linac and Booster). The goal is to increase the proton flux by doubling the Booster beam cycle rate while maintaining the same intensity per cycle, the same uptime, and the same residual activation on the accelerating structures. For Linac, the main focus within PIP is to address reliability. One of the main tasks is to replace the present hard-tube modulator used on the main 200MHz RF system. Plans to replace this high power system with a Marx-topology modulator, capable of providing the required waveform shaping to stable the accelerating gradient and compensate for beam loading, will be presented along with development data from the prototype unit.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY020
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY021
+Origin of Trapped Flux Caused by Quench in Superconducting Niobium Cavities
+3309
+
+
+ 
+
+M. Checchin, A. Grassellino, M. Martinello, O.S. Melnychuk, A. Romanenko, D.A. Sergatskov
+                       Fermilab, Batavia, Illinois, USA
+M. Checchin, M. Martinello
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+In this study we prove that the mechanism at the basis of quality factor degradation due to quench involves the entrapment of ambient magnetic field. The cavity quench in the absence of magnetic field does not introduce any extra losses, and a clear trend between the external field and the extra losses introduced by the quench was observed. It is demonstrated that the quality factor can be totally recovered by quenching in zero applied magnetic field. A dependence of the amount of quality factor degradation on the orientation of the magnetic field with respect to the cavity was also found.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY021
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY022
+Modifications of Superconducting Properties of Niobium Caused by Nitrogen Doping Recipes for High Q Cavities
+3312
+
+
+ 
+
+A. Vostrikov, M. Checchinpresenter, A. Grassellino, A. Romanenko
+                       Fermilab, Batavia, Illinois, USA
+Y.K. Kim, A. Vostrikov
+                       University of Chicago, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+Discovery at Fermilab of a drastic effect of nitrogen doping leading to unprecedented high Q values in niobium cavities * motivated a strong interest in revealing the physics underlying the effect. In this contribution we present new results obtained by DC magnetometry, AC susceptibility, resistivity and thermal properties measurements on nitrogen doped samples prepared by different recipes/doping levels, which shed light on the possible origin of the effect.
+* A. Grassellino et al, 2013 Supercond. Sci. Technol. 26 102001
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY022
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY023
+LBNF 1.2 MW Target: Conceptual Design & Fabrication
+3315
+
+
+ 
+
+C.F. Crowley, K. Ammigan, K. Anderson, B.D. Hartsell, P. Hurh, J. Hylen, R.M. Zwaska
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Fermilab’s Long-Baseline Neutrino Facility (LBNF) will utilize a modified design based on the NuMI low energy target that is reconfigured to accommodate beam operation at 1.2 MW. Achieving this power with a graphite target material and ancillary systems originally rated for 400 kW requires several design changes and R&D efforts related to material bonding and electrical isolation. Target cooling, structural design, and fabrication techniques must address higher stresses and heat loads that will be present during 1.2 MW operation, as the assembly will be subject to cyclic loads and thermal expansion. Mitigations must be balanced against compromises in neutrino yield. Beam monitoring and subsystem instrumentation will be updated and added to ensure confidence in target positioning and monitoring. Remote connection to the target hall support structure must provide for the eventual upgrade to a 2.4 MW target design, without producing excessive radioactive waste or unreasonable exposure to technicians during reconfiguration. Current designs and assembly layouts will be presented, in addition to current findings on processes and possibilities for prototype and final assembly fabrication.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY025
+LBNF Hadron Absorber:  Mechanical Design and Analysis for 2.4MW Operation
+3318
+
+
+ 
+
+B.D. Hartsell, K. Anderson, J. Hylen, V.I. Sidorov, S. Tariq
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Fermilab’s Long-Baseline Neutrino Facility (LBNF) requires an absorber, essentially a large beam dump consisting of actively cooled aluminum and steel blocks, at the end of the decay pipe to stop leftover beam particles and provide radiation protection to people and groundwater. At LBNF’s final beam power of 2.4 MW and assuming the worst case condition of a 204 m long helium filled decay pipe, the absorber is required to handle a heat load of about 750 kW. This results in significant thermal management challenges which have been mitigated by the addition of an aluminum ‘spoiler’ and ‘sculpting’ the central portion of the aluminum core blocks. These thermal effects induce structural stresses which can lead to fatigue and creep considerations. Various accident conditions are considered and safety systems are planned to monitor operation and any accident pulses. Results from these thermal and structural analyses will be presented as well as the mechanical design of the absorber. The design allows each of the core blocks to be remotely removed and replaced if necessary. A shielded remote handling structure is incorporated to hold the hadron monitor when it is removed from the beam.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY025
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY026
+Design of a Compact Fatigue Tester for Testing Irradiated Materials
+3321
+
+
+ 
+
+B.D. Hartsell, M.R. Campbell, P. Hurh
+                       Fermilab, Batavia, Illinois, USA
+M.D. Fitton
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+T. Ishida, T. Nakadaira
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+A compact fatigue testing machine that can be easily inserted into a hot cell for characterization of irradiated materials is beneficial to help determine relative fatigue performance differences between new and irradiated material. Hot cell use has been carefully considered by limiting the size and weight of the machine, simplifying sample loading and test setup for operation via master-slave manipulator, and utilizing an efficient design to minimize maintenance. Funded from a US-Japan collaborative effort, the machine has been specifically designed to help characterize titanium material specimens. These specimens are flat cantilevered beams for initial studies, possibly utilizing samples irradiated at other sources of beam. The option to test spherically shaped samples cut from the T2K vacuum window is also available. The machine is able to test a sample to 107 cycles in under a week, with options to count cycles and sense material failure. The design of this machine will be presented along with current status.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY026
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY027
+Kicker Pulsers for Recycler Nova Upgrades
+3324
+
+
+ 
+
+C.C. Jensen
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Fermilab is operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+An upgrade of the Recycler injection kicker system required a faster rise time pulser. This system required a field rise and fall time of < 57 ns and a field flattop of 1.6 μs. This paper describes the variety of improvements made over the years that have resulted in this latest thyratron pulser. The effects of the trigger, the reservoir and the load impedance on delay and rise time will be discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY027
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY028
+Fermilab Linac Laser Notcher
+3328
+
+
+ 
+
+D.E. Johnson, K.L. Duel, M.H. Gardner, T.R. Johnson, V.E. Scarpine, R. Tesarek
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Synchrotrons or storage rings require a small section of their circumference devoid of any beam (i.e. a “notch”) to allow for the rise time of an extraction kicker device. In multi-turn injection schemes, this notch in the beam may be generated either in the linac pulse prior to injection or in the accelerator itself after injection. In the case of the Fermilab Booster, the notch is created in the ring near injection energy by the use of fast kickers, thus depositing the beam in a shielded collimation region within the accelerator tunnel. With increasing beam powers, it is desirable to create this notch at the lowest possible energy to minimize activation. Fermilab has undertaken an R&D project to build a laser system to create the notch within a linac beam pulse, immediately after the RFQ at 750 keV, where activation issues are negligible. We will describe the concept for the laser notcher and discuss our current status and future plans for installation of the device.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY028
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY029
+Measurements of Strontium Ferrite Hybrid Permanent Magnet Quadrupoles after Removal for the Fermilab NOvA Upgrade in 2012
+3331
+
+
+ 
+
+O. Kiemschies
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Fermi National Accelerator Laboratory
+During the 2012 NOvA upgrade forty strontium ferrite hybrid permanent magnet quadrupoles from the injection, extraction and electron cooling regions of the Recycler accelerator, which had been measured in 2000 and subsequently installed in the tunnel, were replaced. The basic design of the quadrupoles * and expected decay rate ** are described in design documents. Nine of these magnets, of varying strength were measured in 2014. Measurements were made with a modified rotating coil in a fashion similar to their initial pre-installation measurements in 2000. The 2014 measurements are compared to the 2000 measurements and the expected decay. Many of these quadrupoles, as well as other strontium ferrite hybrid permanent magnets are still in operation in the Recycler and tranfer line, so understanding the rate at which the strength changes is significant to the future operation of the Recycler.
+* Hybrid Permanent Quadrupoles for the. 8 GeV Transfer Line at Fermilab. (S.M. Pruss et al.) ** Time Evolution of Fields in Strontium Ferrite Permanent Magnets (J. T. Volk et al.)
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY029
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY030
+Breakdown Characterization in 805 MHz Pillbox-like Cavity in Strong Magnetic Fields
+3335
+
+
+ 
+
+A.V. Kochemirovskiy, D.L. Bowring, A. Moretti, D.W. Peterson, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+M. Chung
+                       UNIST, Ulsan, Republic of Korea
+G. Flanagan, G.M. Kazakevich
+                       Muons, Inc, Illinois, USA
+B.T. Freemire
+                       IIT, Chicago, Illinois, USA
+A.V. Kochemirovskiy
+                       University of Chicago, Chicago, Illinois, USA
+Y. Torun
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+
+ 
+
+
+ 
+
+RF Breakdown in strong magnetic fields has a negative impact on a cavity performance. The MuCool Test Area at Fermilab has unique capabilities that that allow us to study the effects of static magnetic field on RF cavity operation. We have tested an 805 MHz pillbox-like cavity in external magnetic fields up to 5T. Results confirm our basic model of breakdown in strong magnetic fields. We have measured maximum achievable surface gradient dependence on external static magnetic field. Damage inspection of cavity walls revealed a unique observed breakdown pattern. We present the analysis of breakdown damage distribution and propose the hypothesis to explain certain features of this distribution
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY031
+Estimation of Cryogenic Heat Loads in Cryomodule due to Thermal Radiation
+3338
+
+
+ 
+
+A. Saini, V.A. Lebedevpresenter, N. Solyak, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Cryogenic system is one of major cost drivers in high intensity superconducting (SC) continuous wave (CW) accelerators. Thermal radiations coming through the warm-ends of cryomodule and room temperature parts of the power coupler result in additional cryogenic heat loads. Excessive heat load in 2K environment may degrade overall performance of the cavity. In this paper we present studies performed to estimate additional heat load at 2K due to thermal radiation in 650 MHz cavity cryomodule in high energy section of PIP-II SC linac.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY031
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY032
+MICE Cavity Installation and Commissioning/Operation at MTA
+3342
+
+
+ 
+
+M.A. Leonova, M. Backfish, D.L. Bowring, A.V. Kochemirovskiy, A. Moretti, D.W. Peterson, M. Popovic, Y. Torun, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+B.T. Freemire
+                       IIT, Chicago, Illinois, USA
+C. Hunt
+                       Imperial College of Science and Technology, Department of Physics, London, United Kingdom
+P.G. Lane
+                       Illinois Institute of Technology, Chicago, Illinois, USA
+T.H. Luo
+                       LBNL, Berkeley, California, USA
+D.C. Speirs, C.G. Whyte
+                       USTRAT/SUPA, Glasgow, United Kingdom
+T. Stanley
+                       STFC/RAL, Chilton, Didcot, Oxon, United Kingdom
+
+ 
+
+
+ 
+
+A first electropolished 201-MHz RF cavity for the international Muon Ionization Cooling Experiment (MICE) has been assembled inside a special vacuum vessel and installed at the Fermilab's MuCool Test Area (MTA). The cavity and the MTA hall have been equipped with numerous instrumentation to characterize cavity operation. The cavity has been commissioned to run at 14 MV/m gradient with no external magnetic field; it is also being commissioned in presence of fringe field of a multi-Tesla superconducting solenoid magnet, the condition in which cavity modules will be operated in the MICE cooling channel. The assembly, installation and operation of the Single-Cavity Module gave valuable experience for operation of full-size modules at MICE.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY032
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY033
+A Concept for a High-field Helical Solenoid
+3345
+
+
+ 
+
+S. Krave, N. Andreev, R. Bossert, M.L. Lopes, J.C. Tompkins, R. Wands
+                       Fermilab, Batavia, Illinois, USA
+G. Flanagan
+                       Muons, Inc, Illinois, USA
+K.E. Melconian
+                       Texas A&M University, College Station, Texas, USA
+
+ 
+
+
+ 
+
+Funding: Fermi Research Alliance under DOE Contract DE-AC02-07CH11359
+Helical cooling channels have been proposed for highly efficient 6D muon cooling to produce the required helical solenoidal, dipole, and gradient field components. The channel is divided into sections, each subsequent section with higher field. Simulations have shown that for the high-field sections the use of Nb3Sn superconductor is needed. A continuous winding method and novel stainless steel collaring system has been developed for use in the high field section of a helical cooling channel. Each collar layer is identical, for ease of fabrication, and assembled by both flipping and rotating the subsequent layers. Mechanical and magnetic simulations were performed using a combination of ANSYS and OPERA. The winding and collaring method has been demonstrated on a four coil prototype using a Nb3Sn Rutherford cable. Details of the mechanical design, magnetic modeling, and winding method are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY034
+T-map Studies on Gradient-limiting Mechanism in Nitrogen Doped Cavities
+3348
+
+
+ 
+
+M. Martinello, M. Checchin, A. Grassellino, A. Romanenko
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+Nitrogen doping * results in ultra-high quality factors in SRF niobium cavities but currently achievable gradients in doped cavities are, on average, somewhat lower than in EP/120C baked cavities. The origin of this difference is explored in the reported work by detailed temperature mapping studies on several single cell nitrogen doped cavities.
+* A. Grassellino et al, 2013 Supercond. Sci. Technol. 26 102001
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY034
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY035
+Design and Test of the Compact Tuner for Narrow Bandwidth SRF Cavities
+3352
+
+
+ 
+
+Y.M. Pischalnikov, E. Borissov, I.V. Gonin, J.P. Holzbauer, T.N. Khabiboulline, W. Schappert, S.J. Smith, J.C. Yun
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Fermi Research Alliance, LLC under Contract N. DE-AC02-07CH11359 with U.S. Department of Energy.
+The design of the compact tuner for 1.3 GHz 9-cell elliptical cavity will be presented. This compact tuner is designed for future accelerators that will operate in CW and pulsed RF-power modes. The major design features include highly reliable active components (electromechanical actuators and piezo-actuators) and the ability to replace tuner active components through designated ports in the cryomodule vacuum vessel. Results of tuner testing with cold cavity will also be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY035
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY036
+Progress at FNAL in the Field of the Active Resonance Control for Narrow Bandwidth SRF Cavities.
+3355
+
+
+ 
+
+W. Schappert, J.P. Holzbauer, Y.M. Pischalnikov
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Fermi Research Alliance, LLC under Contract N. DE-AC02-07CH11359 with U.S. Department of Energy.
+Recent efforts at FNAL to actively compensate microphonics in narrow bandwidth cavities are discussed. Feed-forward compensation of Lorentz force detuning in combination with feedback of the forward/probe phase difference to a piezo actuator successfully stabilized the resonance of a 325 MHz spoke resonator to within 11 mHz of the frequency of the open-loop CW RF drive over a two hour interval.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY036
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY037
+A Perpendicular Biased 2nd Harmonic Cavity for the Fermilab Booster
+3358
+
+
+ 
+
+C.-Y. Tan, J.E. Dey, R.L. Madrak, W. Pellico, G.V. Romanov, D. Sun, I. Terechkine
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+A perpendicular biased 2nd harmonic cavity is currently being designed for the Fermilab Booster. Its purpose cavity is to flatten the bucket at injection and thus change the longitudinal beam distribution so that space charge effects are decreased. It can also work at transition to help beam cross it. The choice of perpendicular biasing over parallel biasing is that the Q of the cavity is much higher and thus allows the accelerating voltage to be a factor of 2 higher than a similar parallel biased cavity. This cavity will also provide a higher accelerating voltage per meter than the present folded transmission line cavity. However, this type of cavity presents technical challenges that need to be addressed. The two major issues are cooling of the garnet material from the effects of the RF and the cavity itself from eddy current heating because of the 15 Hz bias field ramp. This paper will address the technical challenge of preventing the garnet from overheating.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY037
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY040
+Quench Performance of the First Twin-aperture 11 T Dipole for LHC upgrades
+3361
+
+
+ 
+
+A.V. Zlobin, N. Andreev, G. Apollinari, E.Z. Barzi, G. Chlachidze, A. Nobrega, I. Novitski, S. Stoynev, D. Turrioni
+                       Fermilab, Batavia, Illinois, USA
+B. Auchmann, S. Izquierdo Bermudez, M. Karppinen, L. Rossi, F. Savary, D. Smekens
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: *Work is supported by Fermi Research Alliance, LLC, under contract No. DE-AC02-07CH11359 with the U.S. Department of Energy and European Commission under FP7 project HiLumi LHC, GA no.284404
+The LHC luminosity upgrade plan foresees installation of additional collimators in Dispersion Suppressor areas around point 7 and interaction regions 1, 2 and 5. The required space for these collimators could be provided by replacing some 15-m long 8.33 T NbTi LHC main dipoles (MB) with shorter 11 T Nb3Sn dipoles (MBH) compatible with the LHC lattice and main systems. FNAL and CERN magnet groups are developing a 5.5-m long twin-aperture dipole prototype with the nominal field of 11 T at the LHC nominal current of 11.85 kA suitable for installation in the LHC. Two of these magnets with a collimator in between will replace one MB dipole. The single-aperture 2-m long dipole demonstrator and two 1-m long dipole models have been assembled and tested at FNAL in 2012-2014. The 1 m long collared coils were then assembled into the first twin-aperture Nb3Sn demonstrator dipole and tested. This paper reports test results of the first twin-aperture Nb3Sn dipole model focusing on magnet training, ramp rate sensitivity and temperature dependence of the magnet quench current. The twin-aperture dipole quench performance is compared with the data for the single-aperture models.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY040
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY041
+DESIGN CONCEPT AND PARAMETERS OF A 15 T Nb3Sn DIPOLE DEMONSTRATOR FOR A 100 TEV HADRON COLLIDER
+3365
+
+
+ 
+
+A.V. Zlobin, N. Andreev, E.Z. Barzi, V.V. Kashikhin, I. Novitski
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: *Work is supported by Fermi Research Alliance, LLC, under contract No. DE-AC02-07CH11359 with the U.S. Department of Energy
+Hadron Colliders (HC) are the most powerful discovery tools in modern high energy physics. A 100 TeV HC in a ~100 km tunnel with a nominal operation field of ~15 T is being considered for the post-LHC era. The choice of a 15 T nominal field requires using the Nb3Sn technology. Practical demonstration of this field level in an accelerator-quality magnet and substantial reduction of magnet costs are key conditions for the realization of such a machine. FNAL has started the development of a 15 T Nb3Sn dipole demonstrator for a 100 TeV HC. As a first step in this direction, the existing 11 T dipole magnet, developed for LHC upgrades, will be modified by adding two layers to achieve the nominal field of 15 T in a 60 mm aperture. As the next step, to increase the field margin the innermost 2-layer coil will be replaced with an optimized coil using the conductor grading approach. This paper describes the design concept and parameters of the 15 T Nb3Sn dipole demonstrators. Magnetic, mechanical and quench protection issues are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY041
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY042
+Pulsed Power Systems for ESS Klystrons
+3368
+
+
+ 
+
+M.P.J. Gaudreau, M.K. Kempkespresenter, I. Roth
+                       Diversified Technologies, Inc., Bedford, Massachusetts, USA
+P.A. Dupire
+                       Sigma Phi Electronics, Wissembourg, France
+J.D. Holzmann
+                       Sigmaphi, Vannes, France
+
+ 
+
+
+ 
+
+Funding: DE-SC0004254
+Under an SBIR from DOE, Diversified Technologies, Inc. (DTI) has designed and built an advanced, high-voltage solid-state modulator for long pulse klystrons for ESS. In 2014, DTI, in partnership with SigmaPhi Electronics, received two contracts for production and installation of this design for ESS-class modulators, which will be used for the testing and conditioning of ESS klystron tubes and testing of RF components. This modulator design uses a hybrid configuration (solid state switch and pulse transformer) with an advanced switching regulator to maintain a very flat voltage into the klystron over multi-millisecond pulses. This paper will describe the design and testing of these modulators, and the status of their installation. The major development introduced in this design is that the millisecond-long pulses produce a droop voltage of about 10% with a reasonably-sized capacitor bank–much larger than the 1% droop required. To eliminate the droop without a large and expensive capacitor bank, the modulator uses a non-dissipative regulator.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY042
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY043
+Short Pulse Marx Modulator
+3370
+
+
+ 
+
+R.A. Phillips, M.P.J. Gaudreau, M.K. Kempkes, B.E. Simpsonpresenter
+                       Diversified Technologies, Inc., Bedford, Massachusetts, USA
+J.A. Casey
+                       Rockfield Research Inc., Las Vegas, Nevada, USA
+
+ 
+
+
+ 
+
+Funding: DE-SC0004251
+High energy, short-pulse modulators are being re-examined for the Compact Linear Collider (CLIC) and numerous X-Band accelerator designs. At the very high voltages required for these systems, all of the existing designs are based on pulse transformers, which significantly limit their performance and efficiency. There is not a fully optimized, transformer-less modulator design capable of meeting the demanding requirements of very high voltage pulses at short pulse widths. Under a U.S. Department of Energy grant, Diversified Technologies, Inc. (DTI) has completed development of a short pulse, solid-state Marx modulator. The modulator is designed for high efficiency in the 100 kV to 500 kV range, for currents up to 250 A, pulse lengths of 0.2 to 5.0 μs, and risetimes <300 ns. Key objectives of the development effort were modularity and scalability, combined with low cost and ease of manufacture. For short-pulse modulators, this Marx topology provides a means to achieve fast risetimes and flattop control that are not available with hard switch or transformer-coupled topologies.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY043
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY044
+Phase Transients in the Higher-Harmonic RF Systems For the ALS-U Proposal
+3372
+
+
+ 
+
+J.M. Byrd, S. De Santis, T.H. Luo, C. Steierpresenter
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Laboratory Directed Research and Development Program of Lawrence Berkeley National Laboratory under U.S. Department of Energy Contract No. DE-AC02-05CH11231.
+The ALS upgrade proposal (ALS-U) requires lengthening the bunch by a factor of at least four in order to increase the beam lifetime to acceptable values. Due to the presence of gaps in the fill pattern, required by the injection/extraction kicker system, the beam-induced voltage in the passive, normal-conducting, cavities which we plan to use is not constant over the length of a bunch train. We present our result on the optimal tuning of the harmonic cavities to obtain the best lifetime increase, including the effects of strongly non-gaussian bunch shapes and wakefield distortions of the potential well.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY044
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY045
+High-Intensity Proton RFQ Accelerator Fabrication Status for PXIE
+3375
+
+
+ 
+
+A.R. Lambert, A.J. DeMello, M.D. Hoff, D. Li, T.H. Luo, J.W. Staples, S.P. Virostek
+                       LBNL, Berkeley, California, USA
+R. Andrews, C.M. Baffes, P. Berrutti, T.N. Khabiboulline, G.V. Romanov, D. Snee, J. Steimel
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the Office of Science, U.S. Department of Energy under DOE contract number DE-AC02-05CH11231
+PXIE is a prototype front end system for the proposed PIP-II accelerator upgrade at Fermilab. An integral component of the front end is a 162.5 MHz, normal conducting, CW (continuous wave), radio-frequency quadrupole (RFQ) cavity that was designed and is being fabricated by LBNL. This RFQ will accelerate a continuous stream of up to 10mA of H− ions from 30 keV to 2.1 MeV. The four-vane, 4.45 meter long RFQ consists of four modules, each constructed from 2 pairs of identical modulated vanes. Vane modulations are machined using a custom carbide cutter designed at LBNL. Other machined features include ports for slug tuners, pi-mode rods, sensing loops, vacuum pumps and RF couplers. Vanes at the entrance and exit possess cutbacks for RF matching to the end plates. The vanes and pi-mode rods are bonded via hydrogen brazing with Cusil wire alloy. The brazing process mechanically bonds the RFQ vanes together and vacuum seals the module along its length. Vane fabrication is successfully completed, and the braze process has proved successful. Delivery of the full RFQ beam-line is expected in the middle of 2015.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY045
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY046
+Progress on the MICE 201 MHz Cavities at LBNL
+3378
+
+
+ 
+
+T.H. Luo, A.J. DeMello, A.R. Lambertpresenter, D. Li, S. Prestemon, S.P. Virostek
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+The international Muon Ionization Cooling Experiment aims to demonstrate the transverse cooling of amuon beam by ionization in energy absorbers. The final MICE cooling channel configuration has two RF modules, each housing a 201 MHz RF cavity used to compensate the longitudinal energy loss in the absorbers. The LBNL team has designed and fabricated all MICE RF cavities. The cavities will be post-processed and RF measured before being installed in the RF modules. We present the recent progress on this work, including the low level RF measurement on cavity body and Be windows, the electro-polishing (EP) on the cavity surface, the numerical simulation on cavity Be window detuning, and the ongoing mechanical designing work of cavity components.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY046
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY047
+Thermal and Lorentz Force Analysis of Beryllium Windows for the Rectilinear Muon Cooling Channel
+3381
+
+
+ 
+
+T.H. Luo, D. Li, S.P. Virostek
+                       LBNL, Berkeley, California, USA
+D.L. Bowring
+                       Fermilab, Batavia, Illinois, USA
+R.B. Palmer, D. Stratakispresenter
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Reduction of the 6-dimensional phase-space of a muon beam by several orders of magnitude is a key requirement for a Muon Collider. Recently, a 12-stage rectilinear ionization cooling channel has been proposed to achieve that goal. The channel consists of a series of low frequency (325 MHz-650 MHz) normal conducting pillbox cavities, which are enclosed within thin beryllium windows (foils) to increase shunt impedance and give a higher field on-axis for a given amount of power. These windows are subject to ohmic heating from RF currents and Lorentz force from the EM field in the cavity, both of which will produce out of plane displacements that can detune the cavity frequency. In this study, using the TEM3P code, we report on a detailed thermal and mechanical analysis for the actual Be windows used on a 325 MHz cavity in a vacuum ionization cooling rectilinear channel for a Muon Collider.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY047
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY048
+An RFQ Direct Injection Scheme for the IsoDAR High Intensity H2+ Cyclotron
+3384
+
+
+ 
+
+D. Winklehner, J.R. Alonso, J.M. Conrad
+                       MIT, Cambridge, Massachusetts, USA
+R.W. Hamm
+                       R&M Technical Enterprises, Pleasanton, California, USA
+
+ 
+
+
+ 
+
+IsoDAR is a novel experiment designed to measure neutrino oscillations through electron-antineutrino disappearance, thus providing a definitive search for sterile neutrinos. In order to generate the necessary anti-neutrino flux, a high intensity primary proton beam is needed. In IsoDAR, H2+ is accelerated, and is stripped into protons just before the target, to overcome space charge issues at injection. As part of the design, we have refined an old proposal to use an RFQ to axially inject bunched H2+ ions into the driver cyclotron. This method has several advantages over a classical low energy beam transport (LEBT) design: (1) The bunching efficiency is higher than for the previously considered two-gap buncher and thus the overall injection efficiency is higher. This relaxes the constraints on the H2+ current required from the ion source. (2) The overall length of the LEBT can be reduced. (3) The RFQ can also accelerate the ions. This enables the ion source platform high voltage to be reduced from 70 kV to 30 kV, making underground installation easier. We will present preliminary RFQ design parameters and first beam dynamics simulations from the ion source to the spiral inflector.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY048
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY050
+Low Powered RF Measurements of Dielectric Materials for use in High Pressure Gas Filled RF Cavities
+3387
+
+
+ 
+
+B.T. Freemire
+                       IIT, Chicago, Illinois, USA
+G. Arriaga
+                       Northern Illinois Univerity, Dekalb, Illinois, USA
+D.L. Bowring, A.V. Kochemirovskiy, A. Moretti, A.V. Tollestrup, Y. Torun, K. Yoneharapresenter
+                       Fermilab, Batavia, Illinois, USA
+H.D. Phan
+                       McDaniel College, Westminster, USA
+Y. Torun
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+
+ 
+
+
+ 
+
+The Helical Cooling Channel scheme envisioned for a Muon Collider or Neutrino Factory requires high pressure gas filled radio frequency cavities to operate in superconducting magnets. One method to shrink the radii of the cavities is to load them with a dielectric material. The dielectric constant, loss tangent, and dielectric strength are important in determining the most suitable material. Low powered RF measurements of the dielectric constant and loss tangent were taken for multiple purities of alumina and magnesium calcium titanate, as well as cordierite, forsterite, and aluminum nitride. Measurements of alumina were consistent with previously reported results. The results were used to design an insert for a high powered RF test that included sending beam through the cavity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY050
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY051
+Stripline Kicker for Integrable Optics Test Accelerator
+3390
+
+
+ 
+
+S. A. Antipov
+                       University of Chicago, Chicago, Illinois, USA
+A. Didenko, V.A. Lebedev, A. Valishev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Fermilab is operated by Fermi Research Alliance, LLC under Contract No. DE-AC02-07CH11359 with the United States Department of Energy.
+We present a design of a stripline kicker for Integrable Optics Test Accelerator (IOTA). For its experimental program IOTA needs two full-aperture kickers, capable to create an arbitrary controllable kick in 2D. For that reason their strengths are variable in a wide range of amplitudes up to 16 mrad, and the pulse length 100 ns is less than a revolution period for electrons. In addition, the kicker has a physical aperture of 40 mm for a proposed operation with proton beam, and an outer size of 70 mm to fit inside existing quadrupole magnets to save space in the ring. Computer simulations using CST Microwave Studio show high field uniformity and wave impedance close to 50 Ω.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY051
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY054
+Grid Window Tests on an 805-MHz Pillbox Cavity
+3393
+
+
+ 
+
+Y. Torun
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+A. Moretti
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Supported by the US Department of Energy Office of Science through the Muon Accelerator Program.
+Muon ionization cooling channel designs use pillbox shaped RF cavities for improved power efficiency and fine control over phasing of individual cavities. For minimum scattering of the muon beam, the ends should be made out of a small thickness of high radiation length material. Good electrical and thermal conductivity are required to reduce power dissipation and remove the heat efficiently. Thin curved beryllium windows with TiN coating have been used successfully in the past. We have built an alternative window set consisting of grids of tubes and tested these on a pillbox cavity previously used with both thin Be and thick Cu windows. The cavity was operated with a pair of grids as well as a single grid against a flat endplate.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY054
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY055
+Installation and Commissioning of the MICE RF Module Prototype
+3395
+
+
+ 
+
+Y. Torun, P.G. Lane
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+T.G. Anderson, D.L. Bowring, M. Chung, J.H. Gaynier, M.A. Leonova, A. Moretti, R.J. Pasquinelli, D.W. Peterson, R.P. Schultz
+                       Fermilab, Batavia, Illinois, USA
+A.J. DeMello, D. Li, S.P. Virostek
+                       LBNL, Berkeley, California, USA
+L. Somaschini
+                       INFN-Pisa, Pisa, Italy
+
+ 
+
+
+ 
+
+Funding: Supported by the US Department of Energy Office of Science through the Muon Accelerator Program.
+A special vacuum vessel prototype was built to house the first production 201 MHz RF cavity for the International Muon Ionization Cooling Experiment (MICE). The resulting prototype RF module has been assembled, instrumented, installed and commissioned at Fermilab's MuCool Test Area and the effort has provided valuable experience for the design of modules that will be used in the cooling channel for the experiment.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY055
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY056
+Novel High Power Sources for the Physics of Ionospheric Modification
+3398
+
+
+ 
+
+B. Beaudoin, T.M. Antonsen, I. Haber, T.W. Koeth, A.H. Narayan, G.S. Nusinovich, K.J. Ruisard
+                       UMD, College Park, Maryland, USA
+J. Rodgers
+                       Naval Research Laboratory (NRL), Washington, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the Air Force Office of Scientific Research under grant FA95501410019.
+The ionosphere plays a controlling role in the performance of critical civilian and DoD systems including the ELF-ULF communications. The objective of Ionospheric Modification is to control triggered processes to improve the performance of trans-ionospheric C3I systems and develop new applications that take advantage of the ionosphere as an active plasma medium. A key instrument is the Ionospheric Heater, a powerful HF transmitter that modifies the properties of the ionospheric plasma by modulating the electron temperature at preselected altitudes. A major reason for the development of a mobile source is that it would allow investigators to conduct the needed research at different latitudes without building permanent installations. As part of a MURI, UMD will develop a powerful RF source utilizing IOT technology in class-D amplifier mode. This technology was chosen because it has the potential to operate at very high efficiency. Some of the technical challenges presented in this paper will include a gun design that minimizes intercepted current, a compact tunable cavity, an efficient modulator system capable of modulating a high power beam and output couplers to feed the antennas.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY056
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY057
+Adaptable Machine Protection Architecture for CW, High Intensity Accelerators
+3402
+
+
+ 
+
+S. Assadi
+                       Texas A&M University, College Station, Texas, USA
+
+ 
+
+
+ 
+
+Funding: Work is partially supported by grants from the State of Texas (ASE) & the Michelle foundation
+An adaptable architecture of a machine protection system (MPS) suitable for continuous wave (cw), high intensity accelerators like those proposed for Accelerator Driven Systems (ADS) for subcritical reactor strategies and heavy ion accelerators for the production of rare isotopes is presented. A system of databases, networks and nodes that can systematically and flexibly be reconfigured to rebalance the required metadata is used. Additional features include reconfigurable machine setup templates that can rigorously be tested with mirror redundant online backups, the utilization of external reconfigurable geometric algorithms for the data channels and the network distribution, and the inclusion of initial system requirements as well as envisioned upgrades.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY057
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY058
+Diagnostics for High Power CW Accelerators
+3405
+
+
+ 
+
+S. Assadi
+                       Texas A&M University, College Station, Texas, USA
+
+ 
+
+
+ 
+
+Funding: Work is partially supported by grants from the State of Texas (ASE) & the Michelle foundation
+High power, continuous wave (cw) accelerators are proposed for applications such as Accelerator Driven Systems (ADS) for subcritical reactor strategies and heavy ion accelerators for the production of rare isotopes. Because of the high beam powers and high energy loss with beam interception of material, the beam diagnostic designs are necessarily shifting to non-intercepting, real-time feedback devices that can be fully integrated with the accelerator machine protection system (MPS) and operation control system including online models. Appropriate for these applications, three types of beam diagnostics (lanthanum bromide scintillation coincidence detectors, GaN neutron and gamma detectors, and beam position monitors) are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY058
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY059
+Alternative Methods for Field Corrections in Helical Solenoids
+3409
+
+
+ 
+
+K.E. Melconian
+                       Texas A&M University, College Station, Texas, USA
+G. Flanagan, S.A. Kahn
+                       Muons, Inc, Illinois, USA
+S. Krave, M.L. Lopes, J.C. Tompkins, K. Yonehara
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Fermi Research Alliance under DOE Contract DE-AC02-07CH11359
+Helical cooling channels have been proposed for highly efficient 6D muon cooling. Helical solenoids produce solenoidal, helical dipole, and helical gradient field components. Previous studies explored the geometric tunability limits on these main field components. In this paper we present two alternative correction schemes, tilting the solenoids and the addition of helical lines, to reduce the required strength of the anti-solenoid and add an additional tuning knob.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY059
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY060
+Virtual Welding as a Tool for Superconducting Cavity Coarse Tuning
+3412
+
+
+ 
+
+A. Facco, C. Compton, J. Popielarskipresenter, G.J. Velianoff
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661
+Reaching the final frequency in the construction of Superconducting Half-Wave Resonators (HWR), either coaxial or spoke, is often a painful and time consuming process which requires several intermediate frequency tests and parts machining between subsequent welding steps. In spite of that, the final frequency error after final welding is often far from the target due to difficult to predict material contraction and cavity deformation induced by electron beam welding (EBW). Final coarse tuning is required by plastic deformation or differential etching. In coaxial HWR, both can decrease the cavity frequency but are not easily suitable to increase it. A novel method developed at MSU is “virtual” welding, i.e. deformation of the cavity shape by applying systematically EBW on the cavity outer surface to induce controlled Nb material contraction in strategic positions. This technique allows to increase the cavity frequency with excellent precision and predictability, thus simplifying and making less expensive and more reliable HWR coarse tuning. Method and experimental results will be described and discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY060
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY061
+Progress on the Cryogenic and Current Tests of the MSU Cyclotron Gas Stopper Superconducting Magnet
+3415
+
+
+ 
+
+M.A. Green, G. Bollen, S. Chouhan, A.F. Zeller
+                       FRIB, East Lansing, Michigan, USA
+J. DeKamp, C. Magsig, D.J. Morrissey, J. Ottarson, S. Schwarz
+                       NSCL, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This work reported in this paper was supported in part by an NSF grant PHY-0958726
+The Michigan State University (MSU) cyclotron gas stopper magnet is a warm iron superconducting cyclotron dipole. The desired field shape is obtained by the pole iron profile. Each coil of the two halves is in a separate cryostat and connected in series through a warm electrical connection. The entire system is mounted on a high voltage platform, and is cooled using six two-stage 4.2 K pulse tube coolers. This paper presents the progress on the magnet fabrication, cooling, and current testing.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY061
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY062
+Multipactor Breakdown Modelling Using an Averaged Version of Furman's SEY Model
+3419
+
+
+ 
+
+S.A. Rice, J.P. Verboncoeurpresenter
+                       Michigan State University, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by a MSU Strategic Partnership Grant.
+Furman's seconday electron yield model is commonly used for the simulation of multipactor in accelerating cavities and other resonant structures. While accurate, the stochastic model requires many Monte Carlo simulations in order to characterize susceptibility to multipactor. This paper generalizes our previous research in characterizing a reduced-order Furman model, in which we replace the stochastic Furman model with a deterministic model based upon the Furman model's underlying statistics. Favorable comparisons between the full Furman model and the reduced-order Furman model are shown for multipactor simulations in a coaxial cavity, and the results are expected to generalize to other geometries.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY062
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY063
+Co-Linear X-Band Energy Booster (XCEB) Cavity and RF System Details
+3421
+
+
+ 
+
+T. Sipahi, S. Biedron, S.V. Milton
+                       CSU, Fort Collins, Colorado, USA
+
+ 
+
+
+ 
+
+Due to their higher intrinsic shunt impedance X-band accelerating structures offer significant gradients with relatively modest input powers. At the Colorado State University Accelerator Laboratory (CSUAL) we would like to adapt this technology to our 1.3-GHz, L-band accelerator system in order to increase our overall beam energy in a manner that does not require investment in an expensive, custom, high-power X-band klystron system. Here we provide the design details of the X-band structures that will allow us to achieve our goal of reaching the maximum practical net potential across the X-band accelerating structure while driven solely by the beam from the L-band system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY063
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY064
+Thermal-mechanical Analysis of the FRIB Nuclear Fragment Separator Dipole Magnet
+3425
+
+
+ 
+
+S.A. Kahn, A. Dudas, G. Flanagan
+                       Muons, Inc, Illinois, USA
+R.C. Gupta
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy under Grant DE-SC-0006273
+Dipole magnets in the fragment separator region of the Facility for Rare Isotope Beams (FRIB) are critical elements used to select the desired isotopes. These magnets are subjected to high radiation and heat loads. High temperature superconductors (HTS), which have been shown to be radiation resistant and can operate at 40 K where heat removal is substantially more efficient than 4.5 K where conventional superconductors such as NbTi and Nb3Sn operate, are proposed for the coils. The magnet coils carry large current and will be subjected to large Lorentz forces that must be constrained to avoid distortions of the coils. It is desirable to minimize the use of organic materials in the fabrication of this magnet because of the radiation environment. This paper will describe an approach to support the coils to minimize coil deformation and cryogenic heat loss.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY064
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY065
+Quadrupole Magnet for a Rapid Cycling Synchrotron
+3428
+
+
+ 
+
+H. Witte, J.S. Berg
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy.
+Rapid Cycling Synchrotrons (RCS) feature interleaved warm and cold dipole magnets; the field of the warm magnets is used to modulate the average bending field depending on the particle energy. It has been shown that RCS can be an attractive option for fast acceleration of particles, for example muons which decay quickly. In previous studies it was demonstrated that in principle warm dipole magnets can be designed which can provide the required ramp rates, which are equivalent to frequencies of about 1 kHz. To reduce the losses it is beneficial to employ two separate materials for the yoke; it was also shown that by employing an optimized excitation coil geometry the eddy current losses are acceptable. In this paper we show that the same principles can be applied to quadrupole magnets targeting 30 T/m with a repetition rate of 1kHz and good field quality.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY065
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY066
+T-Maps Taken During Cool-down of an SRF cavity: a Tool to Understand Flux Trapping
+3431
+
+
+ 
+
+R.G. Eichhorn, F. Furuta, G.M. Ge
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+During the past years the impact of cool-down procedures on the flux trapping properties of superconducting cavities have been under investigation. We have measured temperature distributions of a multi-cell cavity using a T-map set-up to understand the transition to superconductivity in detail. We will report how the spatial disorder is affected by the cool-down speed and relate our findings to data on flux pinning.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY066
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY067
+Thermal and Mechanical Analysis of a Waveguide to Coax Symmetric Coupler for Superconducting Cavities
+3434
+
+
+ 
+
+R.G. Eichhorn, J.A. Robbins, V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+As kicks from fundamental power couplers become a concern for low emittance future accelerators, a design for a symmetric coupler for superconducting accelerating cavities has been started. In this coupler, a rectangular waveguide transforms into a coaxial line inside the beam pipe to feed the cavity. So far the RF design revealed an extremely low transversal kick but concerns about cooling and the thermal stability of the coaxial transition line remained. Our contribution will address this. We will calculate heating, heat transfer and thermal stability of this coupler and evaluate the risk of quenching due to particle losses on the coupler.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY067
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY068
+Asymmetric Thermo-currents Diminishing SRF Cavity Performance
+3437
+
+
+ 
+
+R.G. Eichhorn, J. May-Mann
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Over the past years it became evident that the quality factor of a superconducting cavity is not only determined by its surface preparation procedure, but is also influenced by the way the cavity is cooled down. In this paper we will present results from numerical field calculations of magnetic fields produced by thermo-currents, driven by temperature gradients and material transitions. We will show how they can impact the quality factor of a cavity by producing a magnetic field at the RF surface of the cavity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY068
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY069
+Complection of the Cornell High Q CW Full Linac Cryo-module
+3440
+
+
+ 
+
+R.G. Eichhorn, B. Bullock, B. Clasby, J.V. Conway, B. Elmore, F. Furuta, G.M. Ge, G.H. Hoffstaetter, M. Liepe, T.I. O'Connel, P. Quigley, D.M. Sabol, J. Sears, E.N. Smith, V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+Y. He
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Cornell University has finished building a 10 m long superconducting accelerator module as a prototype of the main linac of a proposed ERL facility. This module houses 6 superconducting cavities- operated at 1.8 K in continuous wave (CW) mode - with individual HOM absorbers and one magnet/ BPM section. In pushing the limits, a high quality factor of the cavities (2x1010) and high beam currents (100 mA accelerated plus 100 mA decelerated) were targeted. We will review the design shortly and present the results of the components tested before the assembly. This includes data of the quality-factors of all 6 cavities that we produced and treated in-house, the HOM absorber performance measured with beam on a test set-up as well as testing of the couplers and the tuners.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY069
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY071
+Time Resolved Cryogenic Cooling Analysis of the Cornell Injector Cryomodule
+3443
+
+
+ 
+
+R.G. Eichhorn, S.R. Markham, P. Quigley, E.N. Smith
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Managing parallel cryogenic flows has become a key challenge in designing efficient and smart cryo-modules for particle accelerators. In analyzing the heating dynamics of the cornell high current injector module a power-full computational tool has been set-up allowing time resolved analysis and optimization. We will describe the computational methods and data sets we have used, report the results and compare them to measured data from the module being in good agreement. Mitigation strategies developed on basis of this model have helped pushing the operational limitations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY071
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY072
+Update on Nitrogen-doped 9-cell Cavity Performance in the Cornell Horizontal Test Cryomodule
+3446
+
+
+ 
+
+D. Gonnella, R.G. Eichhorn, F. Furuta, G.M. Ge, D.L. Hall, Y. He, K.M.V. Ho, G.H. Hoffstaetter, M. Liepe, J.T. Maniscalco, T.I. O'Connel, S. Posen, P. Quigley, J. Sears, V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+A. Grassellino, C.J. Grimm, O.S. Melnychuk, A. Romanenko
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy
+The Linac Coherent Light Source-II (LCLS-II) is a new x-ray source that is planned to be constructed in the existing SLAC tunnel. To meet the quality factor specifications (2.7x 1010 at 2.0 K and 16 MV/m), nitrogen-doping has been proposed as a preparation method for the SRF cavities. In order to demonstrate the feasibility of these goals, four 9-cell cavity tests have been completed in the Cornell Horizontal Test Cryomodule (HTC), which serves as a test bench for the full LCLS-II cryomodule. Here we report on the most recent two cavity tests in the HTC: one cavity nitrogen-doped at Cornell and tested with high Q input coupler and then again tested with high power LCLS-II input coupler. Transition to test in horizontal cryomodule resulted in no degradation in Q0 from vertical test. Additionally, increased dissipated power due to the high power input coupler was small and in good agreement with simulations. These results represent a crucial step on the way to demonstrating technical readiness for LCLS-II.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY072
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY073
+Update on Nitrogen Doping: Quench Studies and Sample Analysis
+3450
+
+
+ 
+
+D. Gonnella, F. Furuta, G.M. Ge, J.J. Kaufman, M. Liepe, J.T. Maniscalco
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy, NSF
+Recently, nitrogen-doping of niobium has emerged as a promising preparation method for SRF cavities to reach higher intrinsic quality factors than can be reached with typical cavity preparation. Nitrogen-doped cavities prepared at Cornell have shown quality factors higher than 4x1010 at 2.0 K and 16 MV/m. While Q results have been very exciting, a reduced quench field currently limits nitrogen-doped cavities with quench typically occurring between 15 and 25 MV/m. Here we report on recent results from Cornell on single-cell and 9-cell cavities, focusing on new preparations and maximum and critical fields. First we discuss results from over-doping niobium with nitrgoen, baking nitrogen-doped cavities at 120C, and doping with Argon. For a subset of these cavities we show results from quench studies that have been completed using temperature mapping. Finally, we present the first measurements of the higher critical field, Hc2, for nitrogen-doped niobium samples.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY073
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY074
+Recent Studies on the Current Limitations of State-of-the-Art Nb3Sn Cavities
+3454
+
+
+ 
+
+D.L. Hall, M. Liepe, J.T. Maniscalco, S. Posen
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+Th. Proslier
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: NSF PHY-1305500 PHY-14116318 DOE ER41802
+Recent advances in the study of Nb3Sn at Cornell University have yielded single-cell cavities that show excellent performance without the limiting Q-slope seen in previous work. This performance has been shown to be repeatable across multiple cavities. However, they are still limited by a quench field of approximately 16 MV/m, as well as residual resistance. In this work we present results quantifying the impact of ambient magnetic fields on Nb3Sn cavities, as well as discuss the impact of cavity cooldown procedures on cavity performance. Finally, we will briefly discuss XRD results that shed light on the composition of the Nb3Sn layer and how this relates to the current limits of these cavities.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY074
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY075
+Hc2 Measurements of Nb3Sn and Nitrogen-doped Niobium using Physical Property Measurement System
+3458
+
+
+ 
+
+J.T. Maniscalco, D. Gonnella, D.L. Hall, M. Liepe, S. Posen
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+The measurement of the upper critical field of a type-2 superconductor, Hc2, is an important step in determining its superconducting properties, and therefore its suitability as a material in SRF cavities. However, measuring Hc2 directly can be challenging, as performing electrical measurements causes changes in the very properties one seeks to measure. We present a method for extracting Hc2 from resistivity measurements made near the transition temperature for varied applied fields and excitation currents. We also present results of these measurements made on Nb3Sn and nitrogen-doped niobium.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY075
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY076
+RF Performance Studies of Thin-Film Superconductors Using a Sample Host Cavity
+3462
+
+
+ 
+
+J.T. Maniscalco, D.L. Hall, M. Liepe
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Thin-film superconductors have the potential for reduced cost and for improved SRF performance over traditional bulk niobium superconducting cavities. Materials such as Nb3Sn, multilayer NbN/MgO, and thin-film Nb are currently under investigation for cost reduction or possible improvements in RF losses and accelerating gradients. Due to the complex geometries of traditional RF cavities, it is preferable to use a sample host cavity to study flat samples of the novel materials. The Cornell sample host cavity has been commissioned and has now reached peak magnetic surface fields of 100 mT. We present updates on the recent performance of the cavity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY076
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY077
+On Quench Propagation, Quench Detection, and Second Sound in SRF Cavities
+3464
+
+
+ 
+
+S.R. Markham, R.G. Eichhornpresenter
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+The detection of a second sound wave, excited by a quench, has become a valuable tool in diagnosing hot spots and performance limitations of superconducting cavities. Several years ago, Cornell developed an oscillating super-leak transducer (OST) for these waves that nowadays are used world-wide. In a usual set-up, several OSTs surround the cavity, and the quench location is determined by triangulation of the different OST signals. Convenient as the method is there is a small remaining mystery: taking the well-known velocity of the second sound wave, the quench seems to come from a place slightly above the cavity’s outer surface. We will present a model based on numerical quench propagation simulations and analytic geometrical calculations that help explain the discrepancy.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY077
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY078
+High Q0 at Medium Fields in Nb3Sn SRF Cavities at 4.2 K
+3467
+
+
+ 
+
+S. Posen, D.L. Hall, M. Liepe
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+Th. Proslier
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Nb3Sn has proven itself to be a very promising alternative SRF material. With twice the critical temperature of niobium cavities, 1.3 GHz Nb3Sn cavities can achieve quality factors on the order of 1010 even at 4.2 K, significantly reducing cryogenic infrastructure and operational costs. In addition, its large predicted superheating field may allow for maximum accelerating gradients up to twice that of niobium for high energy applications. In this work, we report on new cavity results from the Cornell Nb3Sn SRF program demonstrating a significant improvement in the maximum field achieved with high Q0 in a Nb3Sn cavity. At 4.2 K, accelerating gradients above 16 MV/m were obtained with Q0 of 8x109, showing the potential of this material for future applications. In addition to this result, current limitations are discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY078
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY082
+High Gradient Testing of the Five-cell Superconducting RF Module with a PBG Coupler Cell
+3471
+
+
+ 
+
+S. Arsenyev, W.B. Haynes, D.Y. Shchegolkov, E.I. Simakov, T. Tajima
+                       LANL, Los Alamos, New Mexico, USA
+C.H. Boulware, T.L. Grimm, A. Rogacki
+                       Niowave, Inc., Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+We report results of high-gradient testing of the first 5- cell superconducting radio frequency (SRF) module with a photonic band gap cell (PBG). Higher order mode (HOM) damping is vital for preserving the quality of high-current electron beams in novel SRF accelerators. Because HOMs are not confined by the PBG array, they can be effectively damped in order to raise the current threshold for beam instabilities. The PBG design increases the real-estate gradient of the linac because both HOM damping and the fundamental power coupling can be done through the PBG cell instead of via the beam pipe at the ends of the cavity. A superconducting multi-cell cavity with a PBG damping cell is therefore an attractive option for high-current linacs. The first-ever SRF multi-cell cavity incorporating a PBG cell was designed a LANL and built at Niowave Inc. The cavity was tuned to a desired gradient profile and underwent surface treatment at Niowave. A vertical test (VTS) was then performed at LANL, demonstrating an abnormally low cavity quality factor in the accelerating mode of 1.6*106. Future tests are proposed to determine the source of the losses and resolve the problem.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY082
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY083
+Five-cell Superconducting RF Module with a PBG Coupler Cell: Design and Cold Testing of the Copper Prototype
+3475
+
+
+ 
+
+S. Arsenyev, D.Y. Shchegolkov, E.I. Simakov
+                       LANL, Los Alamos, New Mexico, USA
+C.H. Boulware, T.L. Grimm, A. Rogacki
+                       Niowave, Inc., Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+We report the design and experimental data for a copper prototype of a superconducting radio-frequency (SRF) accelerator module. The five-cell module has an incorporated photonic band gap (PBG) cell with couplers. The purpose of the PBG cell is to achieve better higher order mode (HOM) damping which is vital for preserving the quality of highcurrent electron beams. Better HOM damping raises the current threshold for beam instabilities in novel SRF accelerators. The PBG design also increases the real-estate gradient of the linac because both HOM damping and the fundamental power coupling can be done through the PBG cell instead of on the beam pipe via complicated end assemblies. First, we will discuss the design and accelerating properties of the structure. The five-cell module was optimized to provide good HOM damping while maintaining the same accelerating properties as conventional elliptical-cell modules. We will then discuss the process of tuning the structure to obtain the desired accelerating gradient profile. Finally, we will list measured quality factors for the accelerating mode and the most dangerous HOMs.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY083
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPTY084
+Cooling Systems for the New 201.25 MHz Final Power Amplifiers at Los Alamos Neutron Science Center (LANSCE)
+3479
+
+
+ 
+
+W.C. Barkley, C.E. Buechler, J.T.M. Lyles, A.C. Naranjo
+                       LANL, Los Alamos, New Mexico, USA
+D. Baca, R.E. Bratton
+                       Compa Industries, Inc., Los Alamos, New Mexico, USA
+
+ 
+
+
+ 
+
+Funding: Los Alamos National Laboratory, an affirmative action/equal opportunity employer, is operated by the University of California for the U.S. Department of Energy under contract W-7405-ENG-36.
+Two new 201.25 MHz RF Final Power Amplifiers (FPAs) have been designed, fabricated, assembled, installed and successfully tested at the Los Alamos Neutron Science Center (LANSCE), in Module 2 of the Drift Tube Linac. These production units were fabricated at Continental Electronics Corporation. In this paper, we summarize the FPAs air and water cooling requirements and cooling systems.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IPAC2015-WEPTY084
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

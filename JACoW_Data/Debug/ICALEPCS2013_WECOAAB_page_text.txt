@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2013 - Table of Session: WECOAAB (Experiment Control -1)
+
+
+WECOAAB —  Experiment Control -1   (09-Oct-13   09:15—10:15)
+Chair: K.S. White, ORNL, Oak Ridge, Tennessee, USA
+
+
+Paper
+Title
+Page
+
+
+
+WECOAAB01
+An Overview of the LHC Experiments' Control Systems
+982
+
+
+ 
+
+C. Gaspar
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Although they are LHC experiments, the four experiments, either by need or by choice, use different equipment, have defined different requirements and are operated differently. This led to the development of four quite different Control Systems. Although a joint effort was done in the area of Detector Control Systems (DCS) allowing a common choice of components and tools and achieving the development of a common DCS Framework for the four experiments, nothing was done in common in the areas of Data Acquisition or Trigger Control (normally called Run Control). This talk will present an overview of the design principles, architectures and technologies chosen by the four experiments in order to perform the Control System's tasks: Configuration, Control, Monitoring, Error Recovery, User Interfacing, Automation, etc.
+Invited
+
+ 
+
+
+
+
+
+
+Slides WECOAAB01 [2.616 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOAAB02
+Status of the ACS-based Control System of the Mid-sized Telescope Prototype for the Cherenkov Telescope Array (CTA)
+987
+
+
+ 
+
+P.A. Wegner, B. Behera, D. Melkumyan, S. Schlenstedt, T. Schmidt, R. Sternberger, S. Wiesand
+                       DESY Zeuthen, Zeuthen, Germany
+O. Anguner, E. Birsin
+                       Humboldt University Berlin, Berlin, Germany
+M. Fuessling
+                       Universität Potsdam, Potsdam-Golm, Germany
+I. Oya, U. Schwanke
+                       Humboldt University Berlin, Institut für Physik, Berlin, Germany
+
+ 
+
+
+ 
+
+CTA as the next generation ground-based very-high-energy gamma-ray observatory is defining new areas beyond those related to physics; it is also creating new demands on the control and data acquisition system. With on the order of 100 telescopes spread over large area with numerous central facilities, CTA will comprise a significantly larger number of devices than any other current imaging atmospheric Cherenkov telescope experiment. A prototype for the Medium Size Telescope (MST) of a diameter of 12 m has been installed in Berlin and is currently being commissioned. The design of the control software of this telescope incorporates the main tools and concepts under evaluation within the CTA consortium in order to provide an array control prototype for the CTA project. The readout and control system for the MST prototype is implemented within the ALMA Common Software (ACS) framework. The interfacing to the hardware is performed via the OPen Connectivity-Unified Architecture (OPC UA). The archive system is based on MySQL and MongoDB. In this contribution the architecture of the MST control and data acquisition system, implementation details and first conclusions are presented.
+
+ 
+
+
+
+
+
+
+Slides WECOAAB02 [3.148 MB]
+            
+ 
+
+
+ 
+
+
+
+WECOAAB03
+Synchronization of Motion and Detectors and Continuous Scans as the Standard Data Acquisition Technique
+992
+
+
+ 
+
+D.F.C. Fernández-Carreiras, F. Becheri, G. Cuní, R. Homs-Puron, G. Jover-Mañas, J. Klora, O. Matilla, J. Moldes, C. Pascual-Izarra, Z. Reszela, D. Roldan, S. Rubio-Manrique, X. Serra-Gallifa
+                       CELLS-ALBA Synchrotron, Cerdanyola del Vallès, Spain
+T.M. Coutinho
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+This paper describes the model, objectives and implementation of a generic data acquisition structure for an experimental station, which integrates the hardware and software synchronization of motors, detectors, shutters and in general any experimental channel or events related with the experiment. The implementation involves the management of hardware triggers, which can be derived from time, position of encoders or even events from the particle accelerator, combined with timestamps for guaranteeing the correct integration of software triggered or slow channels. The infrastructure requires a complex management of buffers of different sources, centralized and distributed, including interpolation procedures. ALBA uses Sardana built on TANGO as the generic control system, which provides the abstraction and communication with the hardware, and a complete macro edition and execution environment.
+
+ 
+
+
+
+
+
+
+Slides WECOAAB03 [2.432 MB]
+            
+ 
+
+
+ 
+
+
+
+

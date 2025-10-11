@@ -1,0 +1,928 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2014 - Table of Session: TUPF (Tuesday posters in foyer)
+
+
+TUPF —  Tuesday posters in foyer   (16-Sep-14   16:00—18:00)
+Chair: J.M. Weber, LBNL, Berkeley, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUPF01
+NSLS-II RF Beam Position Monitor- System Test and Integration
+289
+
+
+ 
+
+D. Padrazo, A. Caracappa, W.X. Cheng, C. Danneil, A.J. Della Penna, K. Ha, M.A. Maggipinto, J. Mead, O. Singh, K. Vetter
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+The NSLS-II Synchrotron Light Source is a 3 GeV electron storage ring currently in the early stages of commissioning at Brookhaven National Laboratory. The RF Beam Position Monitors (RF BPM) are one of the key diagnostics systems required for a successful and efficient commissioning. There are more than 250 RF BPM installed in the injector and the storage ring. Each RF BPM was fully tested, first under laboratory environment and then after installation, utilizing built in pilot tone signal source. These successful tests provided a solid base for the integrity of RF BPM systems, prior to the start of beam commissioning. This paper will describe tests performed and results of system integration.
+
+ 
+
+
+
+
+
+
+Poster TUPF01 [1.068 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF02
+Proposed Pulse Stretching of BPM Signals for the Position Determination of Very Short and Closely Spaced Bunches
+294
+
+
+ 
+
+P. Thieberger, S.J. Brooks, K. Hamdi, R.L. Hulsart, G.J. Mahler, R.J. Michnoff, M.G. Minty, D. Trbojevic
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by Brookhaven Science Associates, LLC under contract No. DE-AC02-98CH10886 with the U.S. Department of Energy
+A proposal for a future ultra relativistic polarized electron-proton collider (eRHIC) is based in part on the transport of multiple electron beams of different energies through two FFAG beam transports around the 3834 m long RHIC tunnel circumference in order to recirculate them through an Energy Recovery Linac for their stepwise acceleration and deceleration. For each of these transports, the beams will travel in a common vacuum chamber, horizontally separated from each other by a few mm. Determining the position of the individual bunches is challenging due to their very short length (~12 ps rms) and their temporal proximity (less than 4 ns in some cases). Providing pulses adequate for accurate sampling is further complicated by the less-than-ideal response of long coaxial cables. Here we propose two approaches to produce enhanced, i.e. stretched pulse shapes of limited duration; one based on specially shaped BPM electrodes and the other one on analog integration of more conventional stripline BPM signals. In both cases, signals can be generated which contain relatively flat portions which should be easier to sample with good precision without requiring picoseconds timing accuracy.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF03
+Overview of the Geometrical Non-Linear Effects of Button BPMs and Methodology for Their Efficient Suppression
+298
+
+
+ 
+
+A.A. Nosych, U. Iriso, A. Olmos
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+M. Wendt
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+This paper describes an overview of the geometric non-linear effects common to beam position monitors (BPMs) installed in the accelerators and a methodology to correct for these effects. A typical characteristic curve of a pick-up is linear within a limited range from the BPM origin. At larger offsets the non-linearity of the curve is more pronounced and gets worse if the button diameter is small with respect to the beam pipe diameter. The general real-time linearization methods usually utilize linear correction combined with a simplistic polynomial, which may lead to inaccuracies in their limited application. We have developed a more rigorous methodology to suppress the non-linear effects of the BPMs through electromagnetic (EM) simulations and 2D fitting approximations. The focus is mainly on standard button pick-ups for the electron (ALBA) and proton machines (LHC).
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF04
+Numerical Calculations for the FAIR Proton Linac BPMs
+303
+
+
+ 
+
+C.S. Simon
+                       CEA/DSM/IRFU, France
+M.H. Almalki, P. Forck, W. Kaufmann, T. Sieber
+                       GSI, Darmstadt, Germany
+V. Bellego
+                       CEA/IRFU, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+Fourteen Beam Position Monitors (BPMs) will be installed along the FAIR Proton LINAC. These monitors will be used to determine the beam position, the relative beam current and the mean beam energy by time of flight (TOF). A capacitive button type pickup was chosen for its easy mechanical realization and for the short insertion length which is important for the four BPMs locations of the inter-tank sections between the CH-cavities. Depending on the location, the BPM design has to be optimized, taking into account an energy range from 3 MeV to 70 MeV, limited space for installation and a 30 mm or 50 mm beam pipe aperture. This paper reports wake field numerical simulations performed by the code CST PARTICLE STUDIO to design and characterize the BPMs. Time of response of monitors are presented and results of calculations for various pickup-geometries are discussed taking into account different beam velocities.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF05
+Production Process for the European XFEL Re-Entrant Cavity BPM
+307
+
+
+ 
+
+C.S. Simon, P. Carbonnier, P. Contrepois, F. Éozénou, Y. Gasser, O. Napoly, J. Novo, C. Servouin
+                       CEA/DSM/IRFU, France
+C. Boulch, Y. Gasser
+                       CEA/IRFU, Gif-sur-Yvette, France
+P. Daniel-Thomas, F. Gouit
+                       CEA, Gif-sur-Yvette, France
+J. Kruse, D. Nölle, M. Schalwat, S. Vilcins
+                       DESY, Hamburg, Germany
+N. Rouvière
+                       IPN, Orsay, France
+
+ 
+
+
+ 
+
+As In-Kind contributor to the E-XFEL project, CEA is committed to the procurement of around one third (31) cold beam position monitors (BPM) of the re-entrant RF cavities type and to the assembly on the Saclay site of the 101 cryomodules of the superconducting linac. Each cryomodule is equipped with a beam position monitor connected to a quadrupole at the high-energy end of the cavity string. The industrial process of those BPMs, used in an ultra-clean environment at cryogenic temperature, includes several steps and involves a quality control in collaboration with industrial partners. This paper describes the different steps of the re-entrant cavity BPM fabrication process: machining, copper coating, thermal treatment, EB welding, cleaning and mounting in clean room on the quadrupole. Problems encountered and the lessons learnt will be also reported.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF06
+Commissioning of the Electronics for HOM-based Beam Diagnostics at the 3.9 GHz Accelerating Module at FLASH
+311
+
+
+ 
+
+N. Baboi, O. Hensler, L. Shi, T. Wamsat
+                       DESY, Hamburg, Germany
+N. Eddy, B.J. Fellenz
+                       Fermilab, Batavia, Illinois, USA
+P. Zhang
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: The work is part of EuCARD-2, partly funded by the European Commission, GA 312453.
+Transverse Higher Order Modes (HOM) excited by electron beams in the 3.9 GHz accelerating cavities at FLASH may damage the beam quality. They can be reduced by extracting their energy through special couplers and by aligning the beam in the cavity. Electronics has been designed at FNAL for monitoring some of the potentially most damaging HOMs. This may be used for beam centering and therefore reducing the HOM effects. Moreover, the signals can be potentially calibrated into beam offset, so that they could be used as beam position monitors (HOM-BPM). The specifications of the monitors have been defined during an extensive study on the 4-cavity accelerating module installed at FLASH. Signals around 5.44 GHz have been chosen for higher precision measurements. However these signals propagate into the entire 1.2 m long module. Therefore in addition modes at about 9 GHz were selected for localized measurements in each cavity. The electronics has been recently installed at FLASH. The commissioning results will be presented in this paper. Instabilities previously observed in a test electronics as well as the HOM-BPMs in 1.3 GHz cavities will also be investigated*. This electronics will also serve as a prototype for the electronics developed for the 3.9 GHz cavities at the European XFEL**.
+*L. Shi et al., this Conference  **T. Wamsat et al., this Conference 
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF07
+FLASH Undulator BPM Commissioning and Beam Characterization Results
+315
+
+
+ 
+
+D. Lipka, N. Baboi, D. Nölle, G. Petrosyan, S. Vilcins
+                       DESY, Hamburg, Germany
+R. Baldinger, R. Ditter, B. Keil, W. Koprek, R. Kramert, G. Marinkovic, M. Roggli, M. Stadler
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Recently, the commissioning of FLASH2 has started, a new soft X-ray FEL undulator line at the DESY FLASH facility. In the FLASH2 undulator intersections, the beam positions are measured by 17 cavity beam position monitor (CBPM) pick-ups and electronics* developed for the European XFEL (E-XFEL). In addition four CBPMs are available at FLASH1 for test and development. The new CBPM system enables an unprecedented position and charge resolution at FLASH, thus allowing further analysis and optimization of the FLASH beam quality and overall accelerator performance. Results of first beam measurements as well as correlations with other FLASH diagnostics systems are reported.
+* M. Stadler et al., “Low-Q Cavity BPM Electronics for E-XFEL, FLASH-2 and SwissFEL”, this conference.
+
+ 
+
+
+
+
+
+
+Poster TUPF07 [1.112 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF08
+Design, Development and Commissioning of a MTCA-Based Button and Strip-Line BPM System for FLASH2
+320
+
+
+ 
+
+B. Lorbeer, N. Baboi, L.P. Petrosyan, F. Schmidt-Föhre
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The FLASH (Free Electron Laser in Hamburg) facility at DESY (Deutsches Elektronen-Synchrotron) in Germany has been extended by a new undulator line called FLASH2 to provide twice as many experimental stations for users in the future*. After the acceleration of the electron bunch train up to 1.2GeV, a part can be kicked into FLASH2, while the other is going to the old undulator line. In order to tune the wavelength of the SASE (Self Amplified Spontaneous Emission), the new line is equipped with variable gap undulators. The commissioning phase of FLASH2 started in early 2014 and is planned to be continued parasitically during user operation in FLASH1. One key point during first beam commissioning is the availability of standard diagnostic devices such as BPM (Beam Position Monitor). In this paper we present the design and first operational experience of a new BPM system for button and strip-line monitors based on MTCA.4***. This is referred to as LCBPM (low charge BPM) in contrast to the old systems at FLASH initially designed for bunch charges of 1nC and higher. We summarize the recent analog and digital hardware development progress[**,****] and first commissioning experience of this new BPM system at FLASH2 and present a first estimation of its resolution in a large charge range from 1nC down to 100pC and smaller.
+* flash2.desy.de  ** B. Lorbeer et.al.,TUPA19, IBIC2012  *** MTCA.4 (Micro Telecommunications Computing Architecture ) for physics  **** Frank Schmidt-Foehre et.al.,IPAC2014 Dresden 
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF09
+Calibration of OLYMPUS/DORIS Beam Position Monitors
+324
+
+
+ 
+
+U. Schneekloth, N. Görrissen, G. Kube, J. Neugebauer, Ru. Neumann, F. Schmidt-Foehre
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The goal of the OLYMPUS experiment is a precise measurement of the ratio of the positron-proton and electron-proton elastic scattering cross sections in order to quantify the effect of two-photon exchange. The experiment was performed using intense beams of electrons and positrons stored in the DORIS ring at Deutsches Elektronen Synchrotron in Hamburg, impinging on an un-polarized, internal, hydrogen gas target. An essential ingredient of the experiment is a precise determination of the luminosity, which requires a precise knowledge of the beam position of both beam species. During DORIS operation cylindrical button beam position monitors, read out by two independent electronics systems, were mounted up- and downstream of the target chamber. After the end of operation, the readout systems were cross-calibrated. The BPMs were then calibrated using a test-stand, consisting of a wire scanner assembly. The beam was simulated by applying an RF signal to the wire. This paper describes the calibration principles and test setup, together with the results compared to the expected BPM response.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF10
+Stability Study of the Higher Order Mode Beam Position Monitors at the Accelerating Cavities at FLASH
+327
+
+
+ 
+
+L. Shi, N. Baboi
+                       DESY, Hamburg, Germany
+R.M. Jones
+                       UMAN, Manchester, United Kingdom
+
+ 
+
+
+ 
+
+When electron beams traverse an accelerating structure, higher order modes (HOMs) are excited. They can be used for beam diagnostic purposes. Both 1.3 GHz and 3.9 GHz superconducting accelerating cavities at FLASH linac, DESY, are equipped with electronics for beam position monitoring, which are based on HOM signals from special couplers. These monitors provide the beam position without additional vacuum components and at low cost. Moreover, they can be used to align the beam in the cavities to reduce the HOM effects on the beam. However, the HOMBPM (Higher Order Mode based Beam Position Monitor) shows an instability problem over time. In this paper, we will present the status of studies on this issue. Several methods are utilized to calibrate the HOMBPMs. These methods include DLR (Direct Linear Regression), and SVD (Singular Value Decomposition). We found that SVD generally is more suitable for HOMBPM calibration. We focus on the HOMBPMs at 1.3 GHz cavities. Techniques developed here are applicable to 3.9 GHz modules. The work will pave the way for HOMBPMs of the E-XFEL (European X-Ray Free Electron Laser).
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF11
+Mechanical Design of Cryogenic Vacuum Feedthroughs for X-FEL Button BPMs
+332
+
+
+ 
+
+S. Vilcins, D. Lipka
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL is a 4th generation synchrotron radiation source, currently under construction in Hamburg. Based on different Free-Electron Laser and spontaneous sources and driven by a superconducting accelerator, it will be able to provide several user stations with photons simultaneously. Due to the superconducting technology in the accelerators modules many components have to operate at liquid helium temperature. This poster will concentrate on high frequency ultra high vacuum feedthrough used for the beam position monitors of the cryogenic accelerator modules. Main emphasis will be put on the design of these feedthroughs, their material composition and the production process. The capability to be used under these very special conditions was investigated with FEM simulations, as well as with a test procedure. The results of these simulations will be presented; the tests and their results will be explained in detail.
+
+ 
+
+
+
+
+
+
+Poster TUPF11 [0.407 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF12
+First Tests of a Micro-TCA-Based Downconverter Electronic for 5GHz Higher Order Modes in Third Harmonic Accelerating Cavities at the XFEL
+337
+
+
+ 
+
+T. Wamsat, N. Baboi
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Beam excited higher order modes (HOM) in 3.9GHz accelerating cavities at the European XFEL are planned to be used for beam position monitoring. The specifications of the monitors have been defined during an extensive study on the 3.9GHz module at FLASH. Selected HOMs for precision measurement are located around 5440MHz and 9040MHz. An electronics developed by FNAL has been recently installed at FLASH* and provides a basis for the XFEL electronics. The paper will present the design and first test of the hardware for the μTCA (Micro Telecommunications Computing Architecture) standard used for the XFEL. The hardware consists of three different Rear Transition Modules (RTM), two four channel downconverter RTMs (5GHz and 9GHz) and a third RTM with two phase locked loop synthesizers on board for LO generation. Presently the 5GHz and the PLL RTMs are under construction. The first measurements with these cards will be presented. *N.Baboi, N.Eddy at al., this conference
+**N.Baboi, N.Eddy at al., this conference
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF13
+Diamond-Based Photon BPMs for Fast Electron-Beam Diagnostics in Synchrotron Radiation Sources
+342
+
+
+ 
+
+M. Antonelli, G. Cautero, D. Giuressi, S. Lizzit, R.H. Menk
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+A. De Sio, E. Pace
+                       Università degli Studi di Firenze, Firenze, Italy
+M. Di Fraia
+                       Università degli Studi di Trieste, Trieste, Italy
+
+ 
+
+
+ 
+
+Electron-beam stability is amongst the primary concerns in current Synchrotron Radiation (SR) sources; in particular, in third-generation SR facilities high-brightness beamlines using undulator radiation are extremely sensitive to electron-beam oscillations. Orbit stabilization has been intensively addressed in the past years and many SR machines have been equipped with a Fast Orbit Feedback (FOFB) based on electron Beam-Position Monitors (eBPMs). On the other hand, photon Beam-Position Monitors (pBPMs), besides providing beamline users with crucial calibration data, are also a useful tool for keeping the electron beam under control, by monitoring position and intensity of the delivered radiation. The machine control system can take advantage of this information in order to improve the stability of the electron-beam. A diagnostic beamline, utilizing a couple of fast pBPMs based on single-crystal CVD diamond detectors, has been built and inserted into the central dead-end outlet of one of Elettra’s bending-magnets. Tests have been carried out both during normal machine operations and by deliberately moving the orbit during dedicated shifts. Owing to the outstanding properties of diamond in terms of speed and radiation hardness, the results show how the aforementioned system allows the beam position to be monitored with sub-micrometric precision at the demanding readout rates required by the FOFB. The radiation hardness of the sensors allows the operation over extended periods of time without special maintenance. Therefore, this system is particularly suited for storage-ring sections lacking in electron-beam monitoring and the tested diagnostic line represents a demonstrator for future implementation of pBPMs at several bending-magnet front ends of Elettra.
+
+ 
+
+
+
+
+
+
+Poster TUPF13 [3.409 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF14
+Newly Developed 6mm Buttons for the BPMs in the ESRF Low-Emittance-Ring
+346
+
+
+ 
+
+K.B. Scheidt
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+For the small beam pipe of the BPMs in the LE-ring a development of 6mm button-UHV-feedthroughs was launched and has resulted in the delivery of a total of 27 prototypes from both the Kyocera and the PMB-ALCEN companies. These buttons are flat, without skirt, with a central pin of Molybdenum ending in a male SMA connector. Among these prototype units are versions with Copper, Steel and Molybdenum material for the button itself, with the aim of assessing possible different heatload issues. All design considerations, that are compatible with a further button reduction to 4mm, will be presented next to issues of costs, mechanical tolerances and feasibility.
+
+ 
+
+
+
+
+
+
+Poster TUPF14 [1.420 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF15
+First Results with the Prototypes of New BPM Electronics for the Booster of the ESRF
+351
+
+
+ 
+
+K.B. Scheidt
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+The 25 year old BPM electronics of the ESRF’s Booster (200 MeV to 6 GeV, 300m, 75 BPM stations) are in process of replacement with new modern acquisition electronics. The design and development of this acquisition system was done in collaboration with the Instrumentation Technologies company and has resulted in a commercial product under the name Libera-Spark. It contains RF filtering & amplification electronics in front of 14 bit & 110 MHz ADCs for 4 channels, followed by a (Xilinx ZYNQ) SystemonChip for all processing, that also includes the possibility of single bunch filtering directly on the ADC data. It is housed in a compact and robust module that is fully powered over the Ethernet connection and which facilitates its installation close to the BPM stations thereby avoiding long RF cabling. For simplicity and cost economic reasons this Spark is without PLL and adjustable RF attenuators since not needed for Booster BPM applications, but possible in elaborated versions for other applications. Two prototypes were fully tested with beam and results in terms of resolution & stability were assessed since delivery in January.
+
+ 
+
+
+
+
+
+
+Poster TUPF15 [4.855 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF16
+FRIB Beam Position Monitor Pick-Up Design
+355
+
+
+ 
+
+O. Yair, J.L. Crisp, G. Kiupel, S.M. Lidia, R.C. Webber
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Due to the different beam diameters and the inclusion of superconducting cavities, different Beam Position Monitor (BPM) types with welded buttons are to be used in the Facility for Rare Isotope Beams (FRIB). The varying BPM sizes include the following apertures: 40 mm, 50 mm, 100 mm, and 150 mm. The 40 mm BPMs include both warm and cold types where the cold BPMs are located in cryomodules next to SRF cavities. Steel-jacketed SiO2 coaxial cables with sealed SMA connectors have been selected as signal cables in the cryomodule insulating vacuum. These will connect to the BPM assembly at roughly 4 K temperature at one end and to the feedthrough flange in the vacuum vessel wall at 300 K at the other end. The 40 mm and 50 mm BPMs will include 20 mm custom-made buttons. The 100 mm and 150 mm aperture BPM buttons will be larger, anywhere from 30 mm to 40 mm. This paper will specify the mechanical and electrical design challenges and the resolutions associated with FRIB operations in the following areas: varying BPM conditions, changes in apertures, and variants in button sizes.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF18
+Development of a Button BPM for the LCLS-II project
+361
+
+
+ 
+
+A. Lunin, T.N. Khabiboulline, N. Solyak, V.P. Yakovlev
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+A high sensitivity button BPM is under development for a linac section of the LCLS-II project. Since the LCLS-II linac will operate with bunch charge as low as 10 pC, we analyse various options for pickup button and feedthrough in order to maximize the BPM output signal at low charge regime. As a result the conceptual BPM design is proposed including an analytical estimation of the BPM performance as well as numerical simulation with CST Particle Studio and ANSYS HFSS. Both numerical methods show a good agreement of BPM output signals for various design parameters. Finally we describe the signal processing scheme and the electronics we are going to use.
+
+ 
+
+
+
+
+
+
+Poster TUPF18 [0.846 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF19
+Beam Position Monitor Electronics Upgrade for Fermilab Switchyard
+365
+
+
+ 
+
+P. Stabile, J.S. Diamond, J. Fitzgerald, N. Liu, D.K. Morris, P.S. Prieto, J.P. Seraphin
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the U.S. Department of Energy under contract No. DE-AC02-07CH11359
+The beam position monitor (BPM) system for Fermilab Switchyard (SY) provides the position, intensity and integrated intensity of the 53.10348MHz RF bunched resonant extracted beam from the Main Injector over 4 seconds of spill. The total beam intensity varies from 1x1011 to 1x1013 protons. The spill is measured by stripline beam postion monitors and resonant circuit. The BPMs have an external resonant circuit tuned to 53.10348MHz. The corresponding voltage signal out of the BPM has been estimated to be between -110dBm and -80dBm.
+
+ 
+
+
+
+
+
+
+Poster TUPF19 [5.622 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF21
+NSLS2 Visible Synchrotron Light Monitor Diagnostic Beamline Commissioning
+369
+
+
+ 
+
+W.X. Cheng, B. Bacha, Y. Hu, O. Singh, H. Xu
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Visible Synchrotron Light Monitor (SLM) beamline has been designed and constructed at NSLS2 storage ring, to characterize the electron beam profile at various machine conditions. Due to carefully alignment, SLM beamline was able to see the first light even before beam circulating the ring. Besides a normal CCD camera to monitor the beam profile, streak camera and gated camera are used to measure the longitudinal and transverse profile to understand the beam dynamics. Measurement results from these cameras will be present in this paper.
+
+ 
+
+
+
+
+
+
+Poster TUPF21 [1.631 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF23
+Beam Size Measurements using Synchrotron Radiation Interferometry at ALBA
+374
+
+
+ 
+
+L. Torino, U. Iriso
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+T.M. Mitsuhashi
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+First tests to measure the transverse beam size using interferometry at ALBA showed that the measurement reliability was limited by the inhomogeneous light wavefront arriving at the double slit system. For this reason, the optical components guiding the synchrotron radiation have been exchanged, and detailed quality checks have been carried out using techniques like the Fizeau interferometry or Hartmann mask tests. We report the results of the analysis of the optical elements installed in the beamline, and the beam size measurements performed using double slit interferometry in both horizontal and vertical planes.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF25
+Characterization of the Laser Beam for HHG Seeding
+380
+
+
+ 
+
+S. Ackermann, B. Faatz
+                       DESY, Hamburg, Germany
+V. Miltchev
+                       Uni HH, Hamburg, Germany
+
+ 
+
+
+ 
+
+Recently free-electron laser (FEL) facilities around the world have shown that the direct seeding approach can enhance the spectral, temporal and coherence properties of the emitted radiation as well as reducing the fluctuations in arrival time and output energy. To achieve this, a photon pulse of the desired wavelength ("seed") is overlapped transversely and temporally with the electrons in the undulator to start up the FEL process from a defined radiation pulse rather than from noise. To benefit from the advantages of this technique, the energy of the seed has to exceed the energy of the spontaneous emission. The ratio between these two energies is strongly influenced by the seed beam properties. In this contribution, we will present simulations on the achieveable power contrast in dependence on the beam quality of the seed, and compare the results to the experimental data of the seeded FEL experiment ("sFLASH") at DESY, Hamburg. Additionally we show up a way of creating FEL seed pulses for simulation purposes from Hermite-Gaussian generating functions.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF26
+Linear Focal Cherenkov-Ring Camera for Single Shot Observation of Longitudinal Phase Space Distribution for Non-Relativistic Electron Beam
+385
+
+
+ 
+
+K. Nanbu, H. Hama, F. Hinode, S. Kashiwagi, A. Lueangaramwong, T. Muto, I. Nagasawa, S. Nagasawa, Y. Shibasaki, K. Takahashi, C. Tokoku
+                       Tohoku University, Research Center for Electron Photon Science, Sendai, Japan
+
+ 
+
+
+ 
+
+A test accelerator for the coherent THz source (t-ACTS) has been constructed at Tohoku University, in which the generation of intense coherent THz radiation from sub-picosecond electron bunches will be demonstrated. The final electron bunch length of accelerated beam is mostly dictated by the longitudinal phase space distribution at the exit of electron-gun. Therefore, measurement of Initial electron distribution in the longitudinal phase space produced by an electron gun is crucial for stable production of very short electron bunches, However, measurement of the longitudinal phase space of a relatively lower energy electron beam is especially difficult because space charge effects in drift spaces for measurement system might be strong. A method for measurement of electron energy (or momentum) applying velocity dependence of the opening angle of Cherenkov radiation in the radiator has been proposed for relatively lower energy electrons. Combined use of a streak camera and the “turtle-back” mirror that confines the Cherenkov light onto a linear focal line may allow us to observe the longitudinal phase space distribution directly. Current status of the system development will be reported in this conference.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPF27
+Optical System for ESS Target Protection
+389
+
+
+ 
+
+C.A. Thomas, M. Donna, T.J. Grandsaert, M. Göhran, R. Linander, T.J. Shea
+                       ESS, Lund, Sweden
+
+ 
+
+
+ 
+
+One specificity of the ESS accelerator and target is that a high power and ultra low emittance proton beam is sent straight onto a Tungsten target. The high power density proton beam from the ESS linac will damage any material it meets. Thus a strategy to protect the target and the target area has to be deployed: the proton beam on target will be defocused and swept, distributing homogeneously the power density on an area 104 times larger than its non defocused area. On its way towards the target, the beam goes through two windows: the proton beam window (PBW) separating the high vacuum of the accelerator to the 1-bar He filled area of the target monolith; and the target window (TW) marking the entrance area of the target wheel. In this paper, we present the PBW imaging system, one of the proton beam diagnostics to be developed for imaging the proton beam current density deposited in the PBW. We will describe the expected performance of the imaging system in order to satisfy the PBW protection requirement. We will also describe the radiative processes which could be used as the source of the imaging system. Finally, we will describe the necessary condition and hardware for the implementation of a protection system for both the PBW and TW.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,542 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2018 - Table of Session: TUPC (Tuesday Poster C)
+
+
+TUPC —  Tuesday Poster C   (11-Sep-18   16:00—17:30)
+
+
+
+Paper
+Title
+Page
+
+
+
+TUPC01
+Australian Synchrotron BPM Electronics Upgrade
+297
+
+
+ 
+
+Y.E. Tan, R.B. Hogan
+                       AS - ANSTO, Clayton, Australia
+
+ 
+
+
+ 
+
+The storage ring at the Australian Synchrotron (AS) was originally equipped with 98 Libera Electrons. In late 2017 all 98 of the BPM electronics has been upgraded to Libera Brilliance+ and the old Libera Electrons have been moved to the injection system. The transition process and results from commissioning the new system will be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC01
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 13 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPC03
+Beam Quality Monitoring System in the HADES Experiment at GSI Using CVD Diamond Material
+300
+
+
+ 
+
+A. Rost, T. Galatyuk
+                       TU Darmstadt, Darmstadt, Germany
+J. Adamczewski-Musch, S. Linev, J. Pietraszko, M. Traxler
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by the DFG through GRK 2128 and VH-NG-823.
+The beam quality monitoring of extracted beams from SIS18, transported to the HADES experiment, is of great importance to ensure high efficiency data recording. The main detector system used for this purpose is the Start-Veto system which consists of two diamond based sensors made of pcCVD and scCVD materials. Both sensors are equipped with a double-sided strip segmented metalization (300 µm width) which allows a precise position determination of the beam position. Those senors are able to deliver a time precision <100 ps and can handle rate capabilities up to 107 particles/channel. The read-out of the sensors is based on the TRB3 system [1]. Precise FPGA-TDCs (264 channels, <10 ps RMS) are implemented inside FPGAs. The TRB3 system serves as data acquisition system with scaler capability. Analysis and on-line visualization will be performed in DABC [2]. Having the precise time measurement and a precise position information of the incoming beam ions one can monitor important beam parameters namely the beam intensity, its position during extraction and the beam time structure. In this contribution the general read-out concept will be introduced.
+[1] A. Neiser et al., TRB3: a 264 channel high precision TDC platform and its applications, 2013 JINST 8 C12043. [2] dabc.gsi.de, 30.05.2018
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC03
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 13 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPC04
+BPM System Upgrade at COSY
+303
+
+
+ 
+
+V. Kamerdzhiev, I. Bekman, C. Böhme, B. Lorentz, S. Merzliakov, P. Niedermayer, K. Reimers, M. Simon, M. Thelen
+                       FZJ, Jülich, Germany
+
+ 
+
+
+ 
+
+The beam position monitoring system of the Cooler Synchrotron (COSY) has been upgraded in 2017. The upgrade was driven by the requirement of the JEDI collaboration to significantly improve the orbit control and by the electronics approaching end-of-life. The entire signal processing chain has been replaced. The new low noise amplifiers, mounted directly on the BPM vacuum feedthroughs, were developed in-house and include adjustable gain in 80 dB rage and in-situ test and calibration capabilities. The signals are digitized and processed by means of commercial BPM signal processing units featuring embedded EPICS IOC. The decision path, technical details of the upgrade and performance of the new system are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC04
+
+ 
+
+
+About •
+paper received ※ 13 September 2018       paper accepted ※ 14 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPC05
+Influence of Sampling Rate and Passband on the Performance of Stripline BPM
+307
+
+
+ 
+
+T. Wu, S.S. Cao, F.Z. Chen, Y.B. Leng, Y.M. Zhou
+                       SSRF, Shanghai, People’s Republic of China
+J. Chen, L.W. Lai
+                       SINAP, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+It is obviously that the property of SBPM is influenced by data acquisition system, but how the procedure of data acquisition and processing takes effect is still room for enquiring into it. This paper will present some data simulation and experiment results to discuss the function between resolution and pass band, sampling rate or other influence factor. We hope that this paper would give some advice for building up data acquisition system of SBPM.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC05
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 10 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPC07
+First Results of Button BPMs at FRIB
+311
+
+
+ 
+
+S. Cogan, J.L. Crisp, T.M. Ford, S.M. Lidiapresenter
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661, the State of Michigan and Michigan State University.
+Commissioning and tuning the linac driver for the Facility for Rare Isotope Beams (FRIB) requires a large network of warm and cryogenic BPMs, with apertures of 40 - 150 mm, sensitivity to beam currents of 100 nA to 1 mA, and accurate for beams with velocities as low as 0.03c. We present initial results of the BPM system, analog and digital signal processing, distortion and error correction, and calibration for time of flight (TOF) measurements. Measurements for low energy beams are presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC07
+
+ 
+
+
+About •
+paper received ※ 13 September 2018       paper accepted ※ 20 November 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPC09
+Initial Results from the LHC Multi-Band Instability Monitor
+314
+
+
+ 
+
+T.E. Levens, T. Lefèvre, D. Valuch
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Intra-bunch transverse instabilities are routinely measured in the LHC using a "Head-Tail Monitor" based on sampling a wide-band BPM with a high-speed digitiser. However, these measurements are limited by the dynamic range and short record length possible with typical commercial oscilloscopes. This paper will present the initial results from the LHC Multi-Band Instability Monitor, a new technique developed to provide information on the beam stability with a high dynamic range using frequency domain analysis of the transverse beam spectrum.
+
+ 
+
+
+
+
+
+
+Poster TUPC09 [17.388 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC09
+
+ 
+
+
+About •
+paper received ※ 05 September 2018       paper accepted ※ 13 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPC10
+The Design of Scanning Control System for Proton Therapy Facility at CIAE
+319
+
+
+ 
+
+L.C. Cao, T. Ge, F.P. Guan, S.G. Hou, X.T. Lu, Y. Wang, L.P. Wen
+                       CIAE, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+A new proton therapy facility is being construted at CIAE. As a part of whole control system, the scanning control system is designed to scan the beam for the access of required tumor therapy field. The origin data plan comes from treatment control system. Two set of dipole magnet is driven for changing the beam path. Meanwhile, interfaces between scanning system and other systems is built for beam control and safe considering. In order to acquire high precise feedback control, the beam position and dose monitor ionization chambers will be constructed in the nozzle. Once accident occurs, the scanning system should be able to response instantly to cut off beam and inform safe interlock system simultaneously. The response time of scanning system is at tens of microsecond level, so the scanning controller, feedback controller and the monitor electronics is built in fast mode. Detailed description will be presented in this paper.
+
+ 
+
+
+
+
+
+
+Poster TUPC10 [0.794 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC10
+
+ 
+
+
+About •
+paper received ※ 30 August 2018       paper accepted ※ 13 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPC11
+Design of an Ultrafast Stripline Kicker for Bunch-by-Bunch Feedback
+322
+
+
+ 
+
+J. Wang, P. Li, D. Wu, D.X. Xiao, L.G. Yan
+                       CAEP/IAE, Mianyang, Sichuan, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: Work supported by China National Key Scientific Instrument and Equipment Development Project (2011YQ130018), National Natural Science Foundation of China (11475159, 11505173, 11575264 and 11605190)
+The CAEP THz Free Electron Laser (CTFEL) will have a fast transverse bunch-by-bunch feedback system on its test beamline, which is used to correct the beam position differences of individual bunches with interval of about 2 ns. In this paper, we are proposing an ultrafast wideband stripline kicker, which is able to provide a kick to the bunch in a 2 ns time window. The structure design and simulation results of this kicker are also discussed.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC11
+
+ 
+
+
+About •
+paper received ※ 07 September 2018       paper accepted ※ 12 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPC12
+Beam Transverse Quadrupole Oscillation Measurement in the Injection Stage for the HLS-II Storage Ring
+325
+
+
+ 
+
+F.F. Wu, F.L. Gao, L.T. Huang, X.Y. Liu, P. Lu, B.G. Sun, J.G. Wang, J.H. Wei, T.Y. Zhou
+                       USTC/NSRL, Hefei, Anhui, People’s Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by the National Science Foundation of China (Grant No. 11705203, 11575181, 11605202) and the National Key Research and Development Program of China(No. 2016YFA0402000)
+Beam transverse quadrupole oscillation can be excited in the injection stage if injected beam parameters(twiss parameters or dispersion) are not matched with the parameters in the injection point of the storage ring. In order to measure the beam transverse quadrupole oscillation in the injection stage for the HLS-II storage ring, some axially symmetric stripline BPMs were designed. Transverse quadrupole component for these BPMs was simulated and off-line calibrated. Beam transverse quadrupole oscillation has been measured when beam was injected into the HLS-II electron storage ring. The spectrum of the transverse quadrupole component showed that beam transverse quadrupole oscillation is very obvious in the injection stage and this oscillation isn’t the second harmonic of beam betatron oscillation. The relationship between transverse quadrupole oscillation and beam current was also analyzed and the result shows that the relationship is not linear.
+
+ 
+
+
+
+
+
+
+Poster TUPC12 [0.467 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC12
+
+ 
+
+
+About •
+paper received ※ 06 September 2018       paper accepted ※ 12 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUPC13
+Early Commissioning of the Luminosity Dither Feedback for SuperKEKB
+328
+
+
+ 
+
+M. Masuzawa, Y. Funakoshi, T. Kawamoto, S. Nakamura, T. Oki, M. Tobiyama, S. Uehara
+                       KEK, Ibaraki, Japan
+P. Bambade, S. Di Carlo, D. Jehanno, C.G. Pang
+                       LAL, Orsay, France
+D.G. Brown, A.S. Fisher, M.K. Sullivan
+                       SLAC, Menlo Park, California, USA
+D. El Khechen
+                       CERN, Geneva, Switzerland
+U. Wienands
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+SuperKEKB is an electron-positron collider, which aims to achieve a peak luminosity of 8×1035 cm-2 s−1 using what is known as the "nano-beam" scheme. This paper reports on the commissioning and performance of a luminosity dither feedback. The system, based on one previously used at SLAC for PEP-II, is employed for collision orbit feedback in the horizontal plane. Twelve air-core Helmholtz coils drive the positron beam sinusoidally at a frequency near 80 Hz, forming a closed bump at the interaction point. A lock-in amplifier detects the amplitude and phase of the corresponding frequency component of the luminosity signal. When the beams are aligned for peak luminosity, the magnitude of the luminosity component at the dithering frequency becomes zero. The magnitude grows as the beams are offset, and the phase shifts by 180 degrees when the direction of the necessary correction reverses. The hardware and algorithm were tested during SuperKEKB Phase II run. The electron beam orbit was successfully adjusted to minimize the amplitude of the dither frequency component of the luminosity signal, and the optimal condition was maintained by continuously adjusting the electron beam orbit.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2018-TUPC13
+
+ 
+
+
+About •
+paper received ※ 09 September 2018       paper accepted ※ 10 September 2018        issue date ※ 29 January 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

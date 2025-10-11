@@ -1,0 +1,73 @@
+{
+  "session_info": {
+    "id": "WEIZSP",
+    "name": "WEIZSP - Invited Orals: Beam Dynamics and EM Fields",
+    "url": "https://proceedings.jacow.org/ipac2022/html/weizsp.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEIZSP1",
+      "title": "Interpretation of Particle Motion in a Circular Accelerator as Diffraction of Light",
+      "authors": [
+        "RIKEN SPring-8 Center",
+        "Hyogo",
+        "Japan",
+        "Inspired by Fermat’s principle of geometric optics 200 years ago",
+        "famous Dr. Hamilton built Hamiltonian mechanics based on the principle of minimal action. Since then",
+        "optics and mechanics have developed while stimulating each other. A new hidden link between optics and mechanics was recently found on particle motion in a circular accelerator. A forced harmonic oscillator is often used as a model to describe particle motion in a circular accelerator. Such a model sometimes assumes that",
+        "eigen frequency or frequency of the external force is changed slowly with time to simulate",
+        "for example",
+        "resonance crossing",
+        "beam dump by turning off the RF power",
+        "resonance extraction",
+        "etc. in circular accelerators. In such cases",
+        "particle motion is well described by using formulae for Fresnel or Fraunhofer diffraction",
+        "depending on simulation conditions. This presentation will comprehensively show what is essential mechanism to link resonance phenomena of mechanics and optical diffraction",
+        "relation between the real accelerator model and the harmonic oscillator",
+        "and possibility of this knowledge to apply investigation of beam dynamics in a particle accelerator."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2022/talks/weizsp1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2022/papers/weizsp1.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2022/posters/weizsp1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2022-WEIZSP1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIZSP2",
+      "title": "Trapping of Neutral Molecules by the Electromagnetic Beam Field",
+      "authors": [
+        "GSI",
+        "Darmstadt",
+        "Germany",
+        "CERN",
+        "Meyrin",
+        "Switzerland",
+        "Neutral uncharged molecules are affected by the electromagnetic field of a charged particle beam if they carry either an electric or a magnetic dipole moment. The residual gas in an accelerator beam pipe consists of such molecules. In this paper we study their dynamics. Under a few approximations",
+        "whose validity we explore and justify",
+        "we derive the equations of motion of neutral molecules and their invariants",
+        "determine the conditions for these neutral molecules to become trapped in the field of the beams as function of beam-pipe temperature",
+        "and compute the resulting enhancement of molecule density in the vicinity of the beam. We demonstrate that large agglomerates of molecules",
+        "\"flakes",
+        "\" are much more likely to be pulled into the beam than single molecules",
+        "and suggest that this phenomenon might help explain some beam observations at the Large Hadron Collider."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ipac2022/talks/weizsp2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ipac2022/papers/weizsp2.pdf",
+      "poster_url": "https://proceedings.jacow.org/ipac2022/posters/weizsp2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2022-WEIZSP2",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 18:39:49"
+}

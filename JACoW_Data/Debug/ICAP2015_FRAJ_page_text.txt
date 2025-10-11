@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2015 - Table of Session: FRAJ (Parallel Simulation, Eigenmode Computation and Wakefield Calculation)
+
+
+FRAJ —  Parallel Simulation, Eigenmode Computation and Wakefield Calculation   (16-Oct-15   08:30—10:30)
+Chair: U. van Rienen, Rostock University, Faculty of Engineering, Rostock, Germany
+
+
+Paper
+Title
+Page
+
+
+
+FRAJI1
+Numerical Calculations of Wake Fields and Impedances of LHC Collimators' Real Structures
+178
+
+
+ 
+
+O. Frasciello, M. Zobov
+                       INFN/LNF, Frascati (Roma), Italy
+
+ 
+
+
+ 
+
+Funding: HiLumi LHC Design Study, included in the High Luminosity LHC project and partly funded by the European Commission within the Framework Programme 7 Capacities Specific Programme, Grant Agreement 284404.
+The LHC collimators have very complicated mechanical designs including movable jaws made of higly resistive materials, ferrite materials, tiny RF contacts. Since the jaws are moved very close to the circulating beams their contribution in the overall LHC coupling impedance is dominant, with respect to other machine components. For these reasons accurate simulation of collimators' impedance becomes very important and challenging. In order to simulate collimators as close as possible to their real designs, we used CAD drawings including all the mechanical details as GdfidL code inputs. A very fine mesh, typically of several billions of mesh points, was required to reproduce the long and complicated structures and to overcome arising numerical problems, which turns out to be a huge computing task. Besides, several dedicated tests have been performed to verify correct simulations of lossy dispersive material properties, such as resistive wall and ferrites, benchmarking code results with analytical, semi-analytical and other numerical codes outcomes. Here we describe all the performed numerical tests and discuss the results of LHC collimators' impedances and wake fields calculations.
+
+ 
+
+
+
+
+
+
+Slides FRAJI1 [16.392 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-FRAJI1
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAJI2
+Perturbative Methods for Eigenmode Computation Subject to Geometric Variations
+ 
+
+
+ 
+
+K. Brackebusch, U. van Rienen
+                       Rostock University, Faculty of Computer Science and Electrical Engineering, Rostock, Germany
+
+ 
+
+
+ 
+
+Funding: Work supported by Federal Ministry for Research and Education (BMBF) under contract 05K13HR1.
+The design of multicell accelerator cavities is a challenging task implying the manipulation of various shape parameters regarding different partially contradicting optimization goals. Simulating the electromagnetic characteristics of the full cavity structure depending on various geometric parameters typically involves an enormous computational effort. In most cases, this limits the observed frequency range and the number of optimization passes. For the same reason, an error estimation of the effects of unintended shape deviations must usually be excluded from optimization processes, even though it may be of particular importance for the final design. Perturbative methods offer an efficient approach to tackle this issue. They allow for the computation of the eigenmodes and the derived cavity performance parameters for a vast number of cavity designs. They require a common eigenmode computation of solely one initial (so called unperturbed) geometry and allow for expanding the eigenmodes of modified (so called perturbed) geometries in terms of these unperturbed eigenmodes.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRAJI3
+Advances in Massively Parallel Electromagnetic Simulation Suite ACE3P
+183
+
+
+ 
+
+O. Kononenko, L. Ge, C. Ko, Z. Li, C.-K. Ng, L. Xiao
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: The work was supported by U.S. Department of Energy under Contract No. DE-AC02-76SF00515.
+ACE3P is a 3D parallel electromagnetic simulation suite that has been developed at SLAC National Accelerator Laboratory for the past decades. Effectively utilizing supercomputer resources with advanced computational algorithms, ACE3P has become a unique modeling tool for the research and design of particle accelerators. Newly developed capabilities are presented, including the calculation of RF eigenmodes in large-scale accelerator structures using state-of-the-art scalable solvers, the enhanced multiphysics solutions for coupled electromagnetic, thermal and mechanical problems, the integration of ACE3P with the beam dynamics code IMPACT, as well as the interface of ACE3P to the particle-material interaction code Fluka for evaluating radiation effects in accelerators.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-FRAJI3
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

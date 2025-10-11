@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: TUA3 (Experiment control 1)
+
+
+TUA3 —  Experiment control 1   (20-Oct-15   09:30—10:30)
+Chair: M. Janousch, PSI, Villigen PSI, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+TUA3O01
+Detector Controls Meets JEE on the Web
+513
+
+
+ 
+
+F. Glege, A. Andronidis, O. Chaze, C. Deldicque, M. Dobson, A.D. Dupont, D. Gigi, J. Hegeman, O. Holme, M. Janulis, R.J. Jiménez Estupiñán, L. Masetti, F. Meijers, E. Meschi, S. Morovic, C. Nunez-Barranco-Fernandez, L. Orsini, A. Petrucci, A. Racz, P. Roberts, H. Sakulin, C. Schwick, B. Stieger, S. Zaza, P. Zejdl
+                       CERN, Geneva, Switzerland
+J.M. Andre, R.K. Mommsen, V. O'Dell
+                       Fermilab, Batavia, Illinois, USA
+U. Behrens
+                       DESY, Hamburg, Germany
+J. Branson, S. Cittolin, A. Holzner, M. Pieri
+                       UCSD, La Jolla, California, USA
+G.L. Darlea, G. Gomez-Ceballos, C. Paus, J. Veverka
+                       MIT, Cambridge, Massachusetts, USA
+S. Erhan
+                       UCLA, Los Angeles, California, USA
+
+ 
+
+
+ 
+
+Remote monitoring and controls has always been an important aspect of physics detector controls since it was available. Due to the complexity of the systems, the 24/7 running requirements and limited human resources, remote access to perform interventions is essential. The amount of data to visualize, the required visualization types and cybersecurity standards demand a professional, complete solution. Using the example of the integration of the CMS detector controls system into our ORACLE WebCenter infrastructure, the mechanisms and tools available for integration with controls systems shall be discussed. Authentication has been delegated to WebCenter and authorization been shared between web server and control system. Session handling exists in either system and has to be matched. Concurrent access by multiple users has to be handled. The underlying JEE infrastructure is specialized in visualization and information sharing. On the other hand, the structure of a JEE system resembles a distributed controls system. Therefore an outlook shall be given on tasks which could be covered by the web servers rather than the controls system.
+
+ 
+
+
+
+
+
+
+Slides TUA3O01 [2.611 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUA3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUA3O02
+DA+ Complex Protocols Made Easy for Macromolecular Crystallography Beamlines at the Swiss Light Source
+ 
+
+
+ 
+
+E.H. Panepucci, S.G. Ebner, J.A. Wojdyla
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Software becomes a key factor for the efficient use of beamtime at synchrotrons and other facilities. Especially for macromolecular crystallography beamlines (MX) data acquisition software starts to make the difference that leads to a competitive advantage. The MX beamlines at the PSI are addressing this issue with the data acquisition software DA+. DA+ is a concept, design and implementation consisting of loosely coupled services and components written in Python and Java. The major components making up the system are the UI, acquisition engine, hardware/detector and online processing. These components are connected via messaging and streaming technologies. The main focus of the software lies on "ease of use", "simplicity", and "immediate feedback". Efficient raster scanning of samples, near real time analysis of the collected raster data and support for standard as well as advanced data acquisition protocols such as multiple anomalous diffraction data acquisition are some examples to name. In this paper the details on these and other features of the software, as well as the underlying concept, will be unveiled.
+
+ 
+
+
+
+
+
+
+Slides TUA3O02 [3.802 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUA3O04
+CS-Studio Scan System Parallelization
+517
+
+
+ 
+
+K.-U. Kasemir, M.R. Pearson
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by UT-Battelle, LLC under Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy.
+For several years, the Control System Studio (CS-Studio) Scan System has successfully automated the operation of beam lines at the Oak Ridge National Laboratory (ORNL) High Flux Isotope Reactor (HFIR) and Spallation Neutron Source (SNS). As it is applied to additional beam lines, we need to support simultaneous adjustments of temperatures or motor positions. While this can be implemented via virtual motors or similar logic inside the Experimental Physics and Industrial Control System (EPICS) Input/Output Controllers (IOCs), doing so requires a priori knowledge of experimenters requirements. By adding support for the parallel control of multiple process variables (PVs) to the Scan System, we can better support ad hoc automation of experiments that benefit from such simultaneous PV adjustments.
+
+ 
+
+
+
+
+
+
+Slides TUA3O04 [2.789 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-TUA3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

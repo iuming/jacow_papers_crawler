@@ -1,0 +1,348 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAC2013 - Table of Session: THPMA (Poster Session)
+
+
+THPMA —  Poster Session   (03-Oct-13   16:30—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPMA01
+Fast FPGA Based Low-Trigger-Jitter Waveform Generator Method for Barrier-Bucket Electronics at FAIR
+1352
+
+
+ 
+
+E. Bayer, P. Zipf
+                       University of Kassel, Kassel, Germany
+A. Klaus, H. Klingbeil, G. Schreiber
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+A new method for low trigger-jitter waveform generation is presented. The targeted application is the time-delayed, trigger synchronous waveform generation. The method can be implemented on a single FPGA, which drives an ADC. The phase-jitter between a trigger signal fed to the FPGA and the generated single sine waveform is less than 90 ps RMS and 275 ps peak-to-peak. The response time of the wave form generator is 50 ns. The waveform generator was designed for the use in the “Barrier-Bucket” system of the SIS100 synchrotron at the new Facility for Antiproton and Ion Research (FAIR) in Darmstadt, Germany. The BB-system will be deployed in the pre-compression stage after the acceleration process to compress the accelerated particles to 1/3 of the synchrotron circumference. This will be done by generating two moving single sine waves synchronously to the revolution trigger of the synchrotron. To compress the beam with a minimal longitudinal emittance blow-up the phase-shifting has to be performed adiabatically. For SIS100 this means that the moving step size should be less than 1 ns. The amplitude and the offset of each sine wave can also be manipulated in real time.
+
+ 
+
+
+ 
+
+
+
+THPMA02
+Study of Microphonics Compensation for SRF Cavity
+1355
+
+
+ 
+
+Z. Zheng
+                       TUB, Beijing, People's Republic of China
+Z. Liu, D. Morris, J. Wei, Y. Zhang, S. Zhao
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661
+Microphonics and Lorentz Force detune the resonance frequency of a SRF cavity, leading to perturbations of the amplitude and phase of its accelerating field. Although this disturbance could be compensated by a piezo-electric tuner or with additional RF power, these two methods have conflicts, which is observed as unstable RF fields in a recent experiment. These conflicts could be explained by a model. Further experiments on ReA3 [1] cryomodule validates a conflict suggested by the model. Overall optimization of control algorithm is still needed to effectively combine the two methods.
+
+ 
+
+
+ 
+
+
+
+THPMA04
+Next Generation CW Reference Clock Transfer System with Femtosecond Stability
+1358
+
+
+ 
+
+P.L. Lemut, R. Hrovatin, P. Orel, S. Zorzut
+                       I-Tech, Solkan, Slovenia
+S. Hunziker, V. Schlott
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Present and future fourth generation light sources, like the Swiss FEL, are placing strict requirements on today’s CW reference clock transfer systems. Both the added jitter and the long-term stability criteria need to be in the range of a few femtoseconds. In order to meet these requirements the existing Libera Sync CW transfer system has been redesigned. All of the aspects of the system design have been revisited and improved, from new measuring methods and better evaluation of components to careful pre-design testing and simulation. New fiber link topology, new approaches in thermal stabilization, improved power supply distribution and interconnection of carefully selected electrical and state-of-the-art optical components led to a significant reduction in added jitter and excellent long-term stability of the system. Measurements repeatedly show the jitter performance to be below 6 fs, integrated over the frequency range of 10 Hz to 10 MHz. Preliminary measurements of the long-term stability place the system in the range of a few tens of femtoseconds of drift per day.
+
+ 
+
+
+ 
+
+
+
+THPMA05
+Energy Deposition in the Sector 37 Scraper of the Advanced Photon Source Storage Ring
+1361
+
+
+ 
+
+J.C. Dooling, M. Borland, Y.-C. Chae, R.R. Lindberg
+                       ANL, Argonne, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under contract number DE-AC02-06CH11357.
+The horizontal scraper in the sector 37 straight section of the Advanced Photon Source storage ring serves as both a diagnostic to probe the edge of the beam as well as the physical aperture when the store is lost. Initially, the scraper was meant only to be a diagnostic; high-density, short-radiation-length material used in the device was intended to stop halo, not the full beam. Damage to this device was recently discovered, and as a result, we began an effort to model and improve the scraper. Modeling with elegant provides loss distributions for several scenarios such as muting one or both rf systems in combination with firing injection kickers. The loss distributions are used as input to a MARS model of the scraper. Beam dumps from 100 mA dissipates a total of 2600 J. Most of this energy is not deposited locally; however, depending on the geometry and physical make-up, sufficient power density exists to damage the device on beam-facing surfaces. Testing is currently planned to examine the suitability of different beam-facing materials. Because of non-local energy deposition, we are evaluating the secondary role for this scraper as a spoiler rather than a beam dump.
+
+ 
+
+
+ 
+
+
+
+THPMA06
+Android Application for Accelerator Physics and Engineering Calculations
+1364
+
+
+ 
+
+M. Borland
+                       Private Address, Westmont, USA
+
+ 
+
+
+ 
+
+Smartphones and tablets are increasingly capable computational devices, with fast processors and high-resolution displays. They are also nearly ubiquitous, suggesting that they can support the need of physicists and engineers to perform quick calculations in situations where using a full-blown simulation is not necessary or expedient. In this paper, we report on the design, features, and capabilities of an Android application inspired by these ideas. The application is called "TAPAs," which stands for Toolkit for Accelerator Physics on Androids. The name is meant to invoke the popular snacks of Spanish cuisine. As the name suggests, the application provides a varied selection of calculations for storage rings, linear accelerators, free-electron lasers, undulator design, synchrotron radiation, and engineering. The calculations are organized into separate sub-applications, which share input values to allow performing related calculations without re-entering data. The application is free of advertising and is available free of charge on the Google Play store.
+
+ 
+
+
+ 
+
+
+
+THPMA07
+Cryomodule Performance of the Main Linac Prototype Cavity for Cornell's Energy Recovery Linac
+1367
+
+
+ 
+
+N.R.A. Valles, R.G. Eichhorn, F. Furuta, G.M. Ge, D. Gonnella, D.L. Hall, Y. He, K.M.V. Ho, G.H. Hoffstaetter, M. Liepe, T.I. O'Connell, S. Posen, P. Quigley, J. Sears, V. Veshcherevich
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: NSF Grants: NSF DMR-0807731 and NSF PHY-1002467
+Energy Recovery Linacs (ERLs) require strong damping of higher-order modes in main linac cavities to avoid beam loss from beam break-up effects. In addition, the cavities need to have very high intrinsic quality factors to minimize the size of cryogenic plants in CW cavity operation. We present world record results for a fully equipped multicell cavity in a cryomodule, reaching intrinsic quality factors at operating accelerating field of Q0(E =16.2 MV/m, 1.8~K) > 6.0\ee10 and Q0(E =16.2 MV/m, 1.6~K) = 1.0\ee{11}, corresponding to a residual surface resistance of 1.1~nΩ.
+
+ 
+
+
+ 
+
+
+
+THPMA08
+Fermilab MuCool Test Area Cavity Conditioning Control Using LabVIEW
+1370
+
+
+ 
+
+D.W. Peterson, Y. Torun
+                       Fermilab, Batavia, USA
+Y. Torun
+                       Illinois Institute of Technology, Chicago, IL, USA
+
+ 
+
+
+ 
+
+Funding: Operated by Fermi Research Alliance, LLC under Contract No. De-AC02-07CH11359 with the United States Department of Energy.
+Automated RF cavity conditioning controls have been implemented in the Fermilab MuCool Test Area using National Instruments LabVIEW. Display of RF paramaters, cavity gradient and diagnostic signals are provided for real-time monitoring. Oscilloscope traces and operating parameters are logged automatically. Gradient ramping and cavity breakdown detection allow unattended operation. Key parameters are made available to the Fermilab ACNET system for viewing by users.
+
+ 
+
+
+ 
+
+
+
+THPMA09
+SSR1 Cryomodule Design for PXIE
+1373
+
+
+ 
+
+T.H. Nicol, S. Cheban, M. Chen, M. Merio, Y.O. Orlov, D. Passarelli, T.J. Peterson, V. Poloubotko, O.V. Pronitchev, L. Ristori, I. Terechkine
+                       Fermilab, Batavia, USA
+P. Bhattacharyya
+                       VECC, Kolkata, India
+
+ 
+
+
+ 
+
+Funding: Supported by FRA under DOE Contract DE-AC02-07CH11359
+Project X is a proposed proton accelerator complex intended to support Fermilab’s role in intensity frontier research over the next several decades. It will replace the existing 40-year old Fermilab injector complex and add powerful new capabilities to support a large number of experiments in the energy range from 1 to 120 GeV. Fermilab is planning a program of research and development aimed at testing of critical components. This program, known as the Project X Injector Experiment (PXIE), is being undertaken as a major element of the ongoing Project X R&D program. PXIE contains two superconducting cavity cryomodules, one utilizing half-wave resonators (HWR), and the other, single spoke resonators (SSR). The first SSR cryomodule, known as SSR1 contains eight cavities and four solenoids in the following order: C–SC–CS–CC–SC–CS–C, as well as focusing and steering magnet elements. This paper describes the design of the SSR1 cryomodule and includes discussions of the system interfaces, vacuum vessel, magnetic and thermal shields, insulating and support systems, cavities, tuners, input couplers, focusing elements, and current leads.
+
+ 
+
+
+ 
+
+
+
+THPMA10
+Energy Deposition in Magnets and Shielding of the Target System of a Staged Neutrino Factory
+1376
+
+
+ 
+
+X.P. Ding
+                       UCLA, Los Angeles, California, USA
+H.G. Kirk
+                       BNL, Upton, Long Island, New York, USA
+K.T. McDonald
+                       PU, Princeton, New Jersey, USA
+C.T. Rogers
+                       STFC/RAL/ASTeC, Chilton, Didcot, Oxon, United Kingdom
+P. Snopok
+                       IIT, Chicago, Illinois, USA
+N. Souchlas
+                       Particle Beam Lasers, Inc., Northridge, California, USA
+
+ 
+
+
+ 
+
+A first stage of a Neutrino Factory based on muon beams might use a pulsed 3-GeV proton beam with 1-MW average power. We report on MARS15 studies of energy deposition in the superconducting magnets and the tungsten-bead shielding of the Target System.
+
+ 
+
+
+ 
+
+
+
+THPMA11
+Optimization of Particle Production for a Staged Neutrino Factory
+1379
+
+
+ 
+
+X.P. Ding
+                       UCLA, Los Angeles, California, USA
+J.J. Back
+                       University of Warwick, Coventry, United Kingdom
+H.G. Kirk
+                       BNL, Upton, Long Island, New York, USA
+K.T. McDonald
+                       PU, Princeton, New Jersey, USA
+
+ 
+
+
+ 
+
+A first stage of a Neutrino Factory based on muon beams might use a pulsed 3-GeV proton beam with 1-MW average power. We report on optimization of particle production by a carbon target inside a solenoid magnet.
+
+ 
+
+
+ 
+
+
+
+THPMA13
+A Bunch Length Monitor for JLab 12 GeV Upgrade
+1382
+
+
+ 
+
+M.M. Ali, A. Freyberger, J.G. Gubeli, G.A. Krafft
+                       JLAB, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+A continuous non-invasive bunch length monitor for the 12 GeV upgrade of Jefferson Lab will be used to determine the bunch length of the beam. The measurement will be done at the fourth dipole of the injector chicane at 123 MeV using the coherent synchrotron light emitted from the dipole. The estimated bunch length is 333 fs. A vacuum chamber will be fabricated and a Radiabeam real time interferometer will be used. In this paper, background, the estimated calculations and the construction of the chamber will be discussed.
+
+ 
+
+
+ 
+
+
+
+THPMA14
+A High-Intensity Neutron Production Source based on Rotary Valving
+1385
+
+
+ 
+
+B. Rusnak, P. Fitsos, M. Hall, P. Peaslee, R. Souza
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+Funding: This work performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344.
+As part of the effort to develop a fast neutron imaging capability at LLNL,a novel windowless deuterium gas target has been developed for use with high intensity pulse deuteron beams to generate neutrons via the D(d,n)3He reaction. The system was designed to create high-velocity cross-flowing gas to minimize rarefaction due to beam heating in the target gas. The system also employs a unique gas beam stop to minimize knock-on neutrons from implanted deuterons over time. A prototype system employing rotary-valving to generate and modulate gas flow, and a rotating-aperture to minimize gas back streaming into the beamline vacuum system has been designed and built. Design details, supporting analyses, and initial characterization measurements of the gas dynamics of the system shall be presented.
+
+ 
+
+
+ 
+
+
+
+

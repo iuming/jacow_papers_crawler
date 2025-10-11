@@ -1,0 +1,371 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: MOCPL (Experiment Control 1)
+
+
+MOCPL —  Experiment Control 1   (07-Oct-19   14:30—16:00)
+Chair: D.L. Flath, SLAC, Menlo Park, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+MOCPL01
+IBEX: Beamline Control at ISIS Pulsed Neutron and Muon Source
+59
+
+
+ 
+
+K.V.L. Baker, F.A. Akeroyd, D.P. Keymer, T. Löhnert, C. Moreton-Smith, D.E. Oram
+                       STFC/RAL/ISIS, Chilton, Didcot, Oxon, United Kingdom
+J.R. Holt, T.A. Willemsen, K. Woods
+                       Tessella, Abingdon, United Kingdom
+
+ 
+
+
+ 
+
+For most of its over 30 years of operation the ISIS Neutron and Muon Source has been using bespoke control software on its beamlines. In the last few years, we have been converting the beamline control software to IBEX*, which is based on the Open Source EPICS toolkit**. More than half the instruments at ISIS are now converted. IBEX must be robust and flexible enough to allow instrument scientists to perform the many experiments they can conceive of. Using EPICS as a base, we have built Python services and scripting support as well as developing an Eclipse/RCP GUI based on Control System Studio***. We use an Agile based development methodology with heavy use of automated testing and device emulators. As we move to the final implementation stage, we are handling new instrument challenges (such as reflectometry) and providing new functionality (live neutron data view, script generator and server). This presentation will cover an overview of the IBEX architecture, our development practices, what is currently in progress, and our future plans.
+*J. Phys. Conf. Ser. 1021 (2018) 012019  **https://epics-controls.org/  ***http://controlsystemstudio.org/ 
+
+ 
+
+
+
+
+
+
+Slides MOCPL01 [5.325 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPL01
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCPL02
+Modernization of Experimental Data Taking at BESSY II
+65
+
+
+ 
+
+R. Müller, A.F. Balzer, P. Baumgärtel, G. Hartmann, O.-P. Sauer, J. Viefhaus
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+The modernization approach for the automation of experimental data taking at BESSY II will be based on the data model of devices. Control of new components and refactoring and reassembly of legacy software should fit into a device based framework. This approach guides the integration of motors, encoders, detectors and auxiliary subsystems. In addition modern software stacks are enabled to provide automation tools for beamline and experimental flow control and DAQ. Strategic goal is the mapping of real beamline components into modelling software to provide the corresponding digital twin. First tests applying DMA methods within this context for tuning are promising.
+
+ 
+
+
+
+
+
+
+Slides MOCPL02 [15.580 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPL02
+
+ 
+
+
+About •
+paper received ※ 02 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCPL03
+Beamline Experiments at ESRF with BLISS
+70
+
+
+ 
+
+M. Guijarro, G. Berruyer, A. Beteva, L. Claustre, T.M. Coutinho, M.C. Dominguez, P. Guillou, C. Guilloud, A. Homs, J.M. Meyer, V. Michel, P. Pancino, E. Papillon, M. Perez, S. Petitdemange, L. Pithan, F. Sever, V. Valls
+                       ESRF, Grenoble, France
+
+ 
+
+
+ 
+
+BLISS is the new ESRF beamline experiments sequencer. BLISS is a Python library, and a set of tools to empower scientists with the ability to write and to execute complex data acquisition sequences. Complementary with Tango, the ESRF control system, and silx, the ESRF data visualization toolkit, BLISS ensure a smooth user experience from beamline configuration to online visualization. After a 4-year development period, the initial deployment phase is taking place today on half of ESRF beamlines, concomitantly with the ESRF Extremely Brilliant Source upgrade program. This talk will present the BLISS project in large, focusing on feature highlights and technical information as well as more general software development considerations.
+
+ 
+
+
+
+
+
+
+Slides MOCPL03 [7.772 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPL03
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 02 November 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCPL04
+Software Architecture for Automatic LHC Collimator Alignment Using Machine Learning
+78
+
+
+ 
+
+G. Azzopardi, S. Redaelli, B. Salvachua
+                       CERN, Meyrin, Switzerland
+A. Muscat, G. Valentino
+                       University of Malta, Information and Communication Technology, Msida, Malta
+
+ 
+
+
+ 
+
+The Large Hadron Collider at CERN relies on a collimation system to absorb unavoidable beam losses before they reach the superconducting magnets. The collimators are positioned close to the beam in a transverse setting hierarchy achieved by aligning each collimator with a precision of a few tens of micrometers. In previous years, collimator alignments were performed semi-automatically*, requiring collimation experts to be present to oversee and control the entire process. In 2018, manual, expert control of the alignment procedure was replaced by dedicated machine learning algorithms, and this new software was used for collimator alignments throughout the year. This paper gives an overview of the software re-design required to achieve fully automatic collimator alignments, describing in detail the software architecture and controls systems involved. Following this successful deployment, this software will be used in the future as the default alignment software for the LHC.
+*G. Valentino et al., "Semi-automatic beam-based LHC collimator alignment", Physical Review Special Topics-Accelerators and Beams vol. 15, no. 5, 2012.
+
+ 
+
+
+
+
+
+
+Slides MOCPL04 [5.933 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPL04
+
+ 
+
+
+About •
+paper received ※ 28 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCPL05
+Software Framework QAClient for Measurement/Automation In Proton Therapy Centers
+86
+
+
+ 
+
+A. Mayor, O. Actis, D. Meer, B. Rohrer
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+PSI operates a proton center for cancer treatments consisting of treatment areas Gantry 2, Gantry 3 and OPTIS2. For calibration measurements and quality assurance procedures which have to be executed on a frequent basis and involve different systems and software products, a software framework (QAClient) was developed at PSI. QAClient provides a configurable and extensible framework communicating with PSI control systems, measurement devices, databases and commercial products as LabVIEW and MATLAB. It supports automation of test protocols with user interaction, data analysis and data storage as well as generating of reports. It runs on Java and on different operating system platforms and offers an intuitive graphical user interface. It is used for clinical checks, calibration and tuning measurements, system integration tests and patient table calibrations. New tasks can be configured using standard tasks, without programming effort. QAClient is used for Gantry 2 Daily Check which reduces the execution time by 70% and simplifies measurements so less trained staff can execute it. QA reports are generated automatically and data gets archived and can be used for trend analysis.
+
+ 
+
+
+
+
+
+
+Slides MOCPL05 [2.453 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPL05
+
+ 
+
+
+About •
+paper received ※ 27 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+MOCPL06
+2D-Nano-Ptychography Imaging Results on the SWING Beamline at Synchrotron SOLEIL
+91
+
+
+ 
+
+C. Engblom, Y.-M. Abiven, F. Alves, F. Berenguer, T. Bizien, A. Gibert, F. Langlois, A. Lestrade, P. Montaville, J. Pérez
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+A new Nanoprobe system, which was originally developed in the scope of a collaboration with MAXIV (Sweden), has recently been tested and validated on the SWING beamline in Synchrotron SOLEIL. The aim of the project was to construct a Ptychography nano-imaging station. Initial steps were taken to provide a portable system capable of nanometric scans of samples with sizes ranging from the micrometer to fractions of a millimeter. Imaging was made possible by actuating a total of 16 Degrees Of Freedom (DOF) composed of a sample stage (3 DOF), a central stop stage (5 DOF), a Fresnel zone plate stage (5 DOF), as well as an order sorting aperture stage (3 DOF). These stages were actuated by an ensemble of piezo-driven and high-quality brushless motors, of which synchronized control (with kinematic modelling) was done using the Delta Tau platform. In addition, interferometry feedback was used for reconstruction purposes. Imaging results are promising: the system was able to resolve 40 nm measured with a Siemens star, the paper will describe the system and the achieved results.
+
+ 
+
+
+
+
+
+
+Slides MOCPL06 [19.056 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-MOCPL06
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

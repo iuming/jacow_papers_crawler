@@ -1,0 +1,462 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINAC2022 - Table of Session: SUPCRI (Student Poster Competition)
+
+
+SUPCRI —  Student Poster Competition   (28-Aug-22   16:00—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+SUPCRI02
+Limits on Standing Wave Cavity Performance Due to Thermal Effects
+ 
+
+
+MOPORI26
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S.J. Smith, G. Burt
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+
+ 
+
+
+ 
+
+After an RF cavity has been designed, a thermal analysis is typically performed to assess the effects of RF heating on the operating frequency and field flatness. A multi-physics approach (coupled electromagnetic, thermal, and mechanical) is normally employed, sometimes combined with computational fluid dynamics (CFD) simulations to incorporate flowing water, which is used for cooling in normal conducting structures. Performing a CFD analysis can add significant time to the design process because of the long and complex simulations and instead, approximations of the heat transfer coefficients and inlet/outlet water temperature rises are made and used directly in the multi-physics analysis. In this work, we first explore the limits of these approximations, identifying when they apply and how accurate they are. We then investigate different pipe geometries and water flow rates to find the thermal limits from RF heating on cavity performance.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPORI26
+
+ 
+
+
+About •
+Received ※ 27 August 2022 — Revised ※ 20 August 2022 — Accepted ※ 01 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCRI04
+Beam Dynamics Framework Incorporating Acceleration Used to Define the Minimum Aperture of RF Cavity For FODO-like Focusing Scheme for Proton Radiotherapy Linac
+ 
+
+
+TUPORI19
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M.J.W. Southerby, R. Apsimon
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Supported by the Cockcroft Institute Core Grant, ST/P002056/1.
+In this paper, we present a generalised analytical framework for beam dynamics studies and lattice designs, while incorporating longitudinal acceleration of bunches of charged particles. We study a ’FODO-like’ scheme, whereby we have an alternating array of focusing and defocusing quadrupoles and study how this differs from a standard FODO lattice due to acceleration. We present optimisation techniques to provide quadrupole parameters, cavity lengths, and required drift lengths under different constraints.
+
+ 
+
+
+
+
+
+
+Poster TUPORI19 [0.997 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI19
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 27 August 2022 — Accepted ※ 29 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCRI05
+Model Coupled Accelerator Tuning With an Envelope Code
+ 
+
+
+TUPORI03
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+O. Shelbaya, R.A. Baartman, O.K. Kester, S. Kiy, S.D. Rädel
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+Funding: National Research Council Canada
+Frequent linac re-tuning is needed at TRIUMF-ISAC for the delivery of rare isotope beams at a variety of mass-to-charge ratios and beam energies. This operation is of appreciable complexity due to the nature of the accelerator, consisting of a separated function, variable output energy DTL paired with an RFQ. Reference tunes, computed from a variety of beam and accelerator simulation codes, are scaled according to the beam properties, though changing beam parameters at the sources requires manual tuning of matching section quadrupoles. Using an end-to-end envelope model of the machine in the code TRANSOPTR, these tunes can now be rapidly computed, and using beam diagnostic inputs to reconstruct the beam matrix, the model can be used to dynamically re-optimize the machine tune on-line.
+
+ 
+
+
+
+
+
+
+Poster TUPORI03 [1.257 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI03
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 23 August 2022 — Accepted ※ 30 August 2022 — Issue date ※ 02 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCRI06
+Field Shielding of NbTiN Based Multilayer Structure for Accelerating Cavities
+ 
+
+
+THPOGE19
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+I.H. Senevirathne, J.R. Delayen, A.V. Gurevich
+                       ODU, Norfolk, Virginia, USA
+D.R. Beverstock
+                       The College of William and Mary, Williamsburg, Virginia, USA
+D.R. Beverstock, J.R. Delayen, A-M. Valente-Feliciano
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: NSF Grants PHY-1734075 and PHY-1416051, and DOE Awards DE-SC0010081 and DE-SC0019399
+Over the past few decades, bulk niobium (Nb) has been the material of choice for superconducting radio frequen-cy (SRF) cavities used in particle accelerators to achieve higher accelerating gradients and lower RF losses. Multi-layer (SIS) structures consisting of alternating thin layers of superconductor(S) and insulator(I) deposited on a bulk Nb have been proposed to enhance the peak surface magnetic field and sustain a higher accelerating gradient. In this study, multilayers based NbTiN and AlN deposited on bulk Nb are used to test the proposed enhancement using the DC magnetic Hall probe technique. The tech-nique detects a penetrating magnetic field through the multilayer sample as it is placed under an external mag-netic field produced by a magnetic coil. This work re-ports the characterization and measurements of the mag-netic field of full flux penetration through single layers of NbTiN and bilayers of NbTiN/AlN on bulk Nb.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-THPOGE19
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 01 September 2022 — Accepted ※ 08 September 2022 — Issue date ※ 15 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCRI07
+High-Power Test of an APF IH-DTL Prototype for the Muon Linac
+ 
+
+
+MOPORI22
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y. Nakazawa, H. Iinuma
+                       Ibaraki University, Ibaraki, Japan
+E. Cicek, H. Ego, K. Futatsukawa, N. Kawamura, T. Mibe, S. Mizobata, N. Saito, M. Yoshida
+                       KEK, Ibaraki, Japan
+N. Hayashizaki
+                       Research Laboratory for Nuclear Research, Tokyo Institute of Technology, Tokyo, Japan
+Y. Iwata
+                       NIRS, Chiba-shi, Japan
+R. Kitamura, Y. Kondo, T. Morishita
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+M. Otani
+                       J-PARC, KEK & JAEA, Ibaraki-ken, Japan
+Y. Sue, K. Sumi, M. Yotsuzuka
+                       Nagoya University, Graduate School of Science, Chikusa-ku, Nagoya, Japan
+Y. Takeuchi
+                       Kyushu University, Fukuoka, Japan
+T. Yamazaki
+                       KEK, Tokai Branch, Tokai, Naka, Ibaraki, Japan
+H.Y. Yasuda
+                       University of Tokyo, Tokyo, Japan
+
+ 
+
+
+ 
+
+A muon linac is under development for a new muon g-2/EDM experiment at J-PARC. The muons are cooled to about room temperature and then re-accelerated to 212 MeV by four linear accelerators to produce a low-emittance muon beam. In the low-beta section, a short-range acceleration cavity with high efficiency needs to be developed to suppress the decay of muons. We propose a 324 MHz inter-digital H-mode drift-tube linac (IH-DTL) with high acceleration efficiency. The cavity can be downsized by introducing the alternating phase focusing (APF) method that provides transverse focusing only with an E-field. We have developed a prototype cavity that accelerates muons up to 1.3 MeV to demonstrate the principle. In this paper, the result of the high power test of the APF IH-DTL prototype is reported.
+
+ 
+
+
+
+
+
+
+Poster MOPORI22 [10.978 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPORI22
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 16 August 2022 — Accepted ※ 28 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCRI08
+Preserving Bright Electron Beams: Distorted CSR Kicks
+ 
+
+
+MOPOPA12
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A. Dixon, T.K. Charles
+                       The University of Liverpool, Liverpool, United Kingdom
+T.K. Charles, P.H. Williams
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+S. Thorin
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+P.H. Williams
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+Short pulse, low emittance electron beams are necessary to drive bright FEL X-rays, for this reason it is important to preserve and limit emittance growth. The strong bunch compression required to achieve the short bunches, can lead to coherent synchrotron radiation (CSR)-induced emittance growth, and while there are some methods of CSR cancel- lation, these methods may be less effective when the CSR kicks are distorted. In an attempt to understand why CSR kicks become distorted, we compare the CSR kicks calcu- lated using the whole beam parameters to the CSR kicks calculated using the longitudinally sliced beam parameters, when propagated to the end of the bunch compressor. We find that CSR kicks can become distorted when calculated with non-uniform slice beam parameters. While slice beam parameters that are uniform along the centre of the bunch, do not result in distorted CSR kicks.
+
+ 
+
+
+
+
+
+
+Poster MOPOPA12 [1.553 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-MOPOPA12
+
+ 
+
+
+About •
+Received ※ 24 August 2022 — Revised ※ 26 August 2022 — Accepted ※ 27 August 2022 — Issue date ※ 31 August 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SUPCRI09
+Beam Dynamic Simulations for the DTL Section of the High Brilliance Neutron Source
+ 
+
+
+TUPORI05
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Lamprecht, M. Droba, K. Kümpel, O. Meusel, N.F. Petry, H. Podlech, M. Schwarz, C. Zhang
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+As various experimental reactors in Europe are already or will be decommissioned over the next years, new neutron sources will be necessary to meet the demand for neutrons in research and development. The High Brilliance Neutron Source is an accelerator driven neutron source planned at the Forschungszentrum Jülich. The accelerator will accelerate a proton beam of 100 mA up to an end energy of 70 MeV, using 45 normal conducting CH-type cavities. Due to the high beam current, the beam dynamics concept requires special care. In this paper, the current status of the beam dynamics for the drift tube linac is presented.
+
+ 
+
+
+
+
+
+
+Poster TUPORI05 [0.917 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2022-TUPORI05
+
+ 
+
+
+About •
+Received ※ 23 August 2022 — Revised ※ 24 August 2022 — Accepted ※ 31 August 2022 — Issue date ※ 01 September 2022
+
+
+Cite •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

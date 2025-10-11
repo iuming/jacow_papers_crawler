@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCaPAC2014 - Table of Session: WCO1 (Control Systems)
+
+
+WCO1 —  Control Systems   (15-Oct-14   09:45—10:30)
+Chair: A. Buteau, SOLEIL, Gif-sur-Yvette, France
+
+
+Paper
+Title
+Page
+
+
+
+WCO101
+Drivers and Software for MicroTCA.4
+1
+
+
+ 
+
+M. Killenberg, L.M. Petrosyan, Ch. Schmidt
+                       DESY, Hamburg, Germany
+T. Kozak, P. Prędki, J. Wychowaniak
+                       TUL-DMCS, Łódź, Poland
+S. Marsching
+                       Aquenos GmbH, Baden-Baden, Germany
+M. Mehle, T. Sunik, K. Žagar
+                       Cosylab, Ljubljana, Slovenia
+A. Piotrowski
+                       FastLogic Sp. z o.o., Łódź, Poland
+
+ 
+
+
+ 
+
+The MicroTCA.4 crate standard provides a powerful electronic platform for digital and analogue signal processing. Besides excellent hardware modularity, it is the software reliability and flexibility as well as the easy integration into existing software infrastructures that will drive the widespread adoption of the new standard. The DESY MicroTCA.4 User Tool Kit (MTCA4U) comprises three main components: A Linux device driver, a C++ API for accessing the MicroTCA.4 devices and a control system interface layer. The main focus of the tool kit is flexibility to enable fast development. The universal, expandable PCIexpress driver and a register mapping library allow out of the box operation of all MicroTCA.4 devices which carry firmware developed with the DESY FPGA board support package. The control system adapter provides callback functions to decouple the application code from the middleware layer. Like this the same business logic can be used at different facilities without further modification.
+
+ 
+
+
+
+
+
+
+Slides WCO101 [0.760 MB]
+        
+ 
+
+
+ 
+
+
+
+WCO102
+Controls Middleware for FAIR
+4
+
+
+ 
+
+V. Rapp
+                       GSI, Darmstadt, Germany
+W. Sliwinski
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+With the FAIR complex, the control systems at GSI will face new scalability challenges due to significant amount of new hardware coming with the new facility. Although, the old systems have proven themselves as sustainable and reliable, they are based on technologies, which have become obsolete years ago. During the FAIR construction time and the associated shutdown GSI will replace multiple components of the control system. The success in the integration of CERNs FESA and LSA frameworks had moved GSI to extend the cooperation with the controls middleware and especially Remote Device Access (RDA) and Java API for Parameter Control (JAPC) frameworks. However, the current version of RDA is based on CORBA technology, which itself, can be considered obsolete. Consequently, it will be replaced by a newer version (RDA3), which will be based on ZeroMQ, and will offer a new improved API based on the experience from previous usage. The collaboration between GSI and CERN shows that new RDA is capable to comply with requirements of both environments. In this paper we present general architecture of the new RDA and depict its integration in the GSI control system.
+
+ 
+
+
+
+
+
+
+Slides WCO102 [0.323 MB]
+        
+ 
+
+
+ 
+
+
+
+WCO103
+Integration of New Power Supply Controllers in the Existing Elettra Control System
+7
+
+
+ 
+
+C. Scafuri, S. Cleva
+                       Elettra-Sincrotrone Trieste S.C.p.A., Basovizza, Italy
+
+ 
+
+
+ 
+
+The Elettra control system has been running since 1993. The controllers of the storage ring power supplies, still the original ones, have become obsolete and are no more under service. A renewal to overcome these limitations is foreseen. A prototype of the new controllers based on the BeagleBone embedded board and an in-house designed ADC/DAC carrier board, has been installed and tested in Elettra. A Tango device server running in the BeagleBone is in charge of controlling the power supply. In order to transparently integrate the new Tango controlled power supplies with the existing Remote Procedure Call (RPC) based control system, a number of software tools have been developed, mostly in the form of Tango devices and protocol bridges. This approach allows us to keep using legacy machine physics programs when integrating the new Tango based controllers and to carry out the upgrade gradually with less impact on the machine operation schedule.
+
+ 
+
+
+
+
+
+
+Slides WCO103 [1.228 MB]
+        
+ 
+
+
+ 
+
+
+
+

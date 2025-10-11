@@ -1,0 +1,287 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: WEB3 (Software technology evolution)
+
+
+WEB3 —  Software technology evolution   (21-Oct-15   10:45—12:00)
+Chair: G. Chiozzi, ESO, Garching bei Muenchen, Germany
+
+
+Paper
+Title
+Page
+
+
+
+WEB3O01
+Open Source Contributions and Using OSGi Bundles at Diamond Light Source
+598
+
+
+ 
+
+M.W. Gerring, A. Ashton, R.D. Walton
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+This paper presents the involvement of Diamond Light Source (DLS) with the open source community, the Eclipse Science Working Group and how DLS is changing to share software development effort better between groups. The paper explains moving from product-based to bundle-based software development process which lowers reinvention, increases reuse and reduces software development and support costs. This paper details specific ways in which DLS are engaging with the open source community and changing the way that research institutions deliver open source code.
+
+ 
+
+
+
+
+
+
+Slides WEB3O01 [0.940 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEB3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEB3O02
+quasar - A Generic Framework for Rapid Development of OPC UA Servers
+602
+
+
+ 
+
+S. Schlenker, B. Farnham, P.P. Nikiel, C.-V. Soare
+                       CERN, Geneva, Switzerland
+D. Abalo Miron
+                       University of Oviedo, Oviedo, Spain
+V. Filimonov
+                       PNPI, Gatchina, Leningrad District, Russia
+
+ 
+
+
+ 
+
+This paper describes a new approach for generic design and efficient development of OPC Unified Architecture (UA) servers. Development starts with creation of a design XML file, describing an OO information model of the target system or device. Using this model, the framework generates an executable OPC UA server exposing the per-design address space without writing a single line of code while supporting standalone or embedded platforms. Further, the framework generates skeleton code for the interface logic of the target system or device. This approach allows both novice and expert developers to create servers for the systems they are experts in while greatly reducing design and development effort as compared to developments based on COTS OPC UA toolkits. Higher level software such as SCADA systems may benefit from using the design description to generate client connectivity configuration and data representation as well as validation tools. In this contribution, the concept and implementation of this framework is detailed along with examples of actual production-level usage in the detector control system of the ATLAS Experiment at CERN and beyond.
+
+ 
+
+
+
+
+
+
+Slides WEB3O02 [3.906 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEB3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEB3O03
+Disruptor - Using High Performance, Low Latency Technology in the CERN Control System
+606
+
+
+ 
+
+M. Gabriel, R. Gorbonosov
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Accelerator control systems process thousands of concurrent events per second, which adds complexity to their implementation. The Disruptor library provides an innovative single-threaded approach, which combines high performance event processing with a simplified software design, implementation and maintenance. This open-source library was originally developed by a financial company to build a low latency trading exchange. In 2014 the high-level control system for CERN experimental areas (CESAR) was renovated. CESAR calculates the states of thousands of devices by processing more than 2500 asynchronous event streams. The Disruptor was used as an event-processing engine. This allowed the code to be greatly simplified by removing the concurrency concerns. This paper discusses the benefits of the programming model encouraged by the Disruptor (simplification of the code base, performance, determinism), the design challenges faced while integrating the Disruptor into CESAR as well as the limitations it implies on the architecture.
+
+ 
+
+
+
+
+
+
+Slides WEB3O03 [0.954 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEB3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEB3O04
+Accelerator Modelling and Message Logging with ZeroMQ
+610
+
+
+ 
+
+J.T.M. Chrin, M. Aiba, A. Rawat, Z. Wang
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+ZeroMQ is an emerging message oriented middleware architecture that is being increasingly adopted in the software engineering of distributed control and data acquisition systems within the accelerator community. The rich array of built-in core messaging patterns may, however, be equally applied to within the domain of high-level applications, where the seamless integration of accelerator models and message logging capabilities, respectively serve to extend the effectiveness of beam dynamics applications and allow for their monitoring. Various advanced patterns that include intermediaries and proxies further provide for reliable service-oriented brokers, as may be required in real-world operations. A report on an investigation into ZeroMQ's suitability for integrating key distributed components into high-level applications, and the experience gained, are presented.
+
+ 
+
+
+
+
+
+
+Slides WEB3O04 [3.542 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEB3O04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEB3O05
+Why Semantics Matter: a Demonstration on Knowledge-Based Control System Design
+615
+
+
+ 
+
+W. Pessemier, G. Deconinck, G. Raskin, P. Saey, H. Van Winckel
+                       KU Leuven, Leuven, Belgium
+
+ 
+
+
+ 
+
+Knowledge representation and reasoning are hot topics in academics and industry today, as they are enabling technologies for building more complex and intelligent future systems. At the Mercator Telescope, we've built a software framework based on these technologies to support the design of our control systems. At the heart of the framework is a metamodel: a set of ontologies based on the formal semantics of the Web Ontology Language (OWL), to provide meaningful reusable building blocks. Those building blocks are instantiated in the models of our control systems, via a Domain Specific Language (DSL). The metamodels and models jointly form a knowledge base, i.e. an integrated model that can be viewed from different perspectives, or processed by an inference engine for model verification purposes. In this paper we present a tool called OntoManager, which demonstrates the added value of semantic modeling to the engineering process. By querying the integrated model, our web-based tool is able to generate systems engineering views, verification test reports, graphical software models, PLCopen compliant software code, Python client-side code, and much more, in a user-friendly way.
+
+ 
+
+
+
+
+
+
+Slides WEB3O05 [10.408 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-WEB3O05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

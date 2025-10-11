@@ -1,0 +1,120 @@
+{
+  "session_info": {
+    "id": "WEIALH2",
+    "name": "WEIALH2 - WG3 ERL Beam Instrumentation Control, Beam Loss and Halo Management",
+    "url": "https://proceedings.jacow.org/ERL2015/html/weialh2.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEIALH2045",
+      "title": "Non-destructive Beam Position Monitoring in Two-Beam Section of ERL",
+      "authors": [
+        "T. Obina",
+        "R. Takai",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "At the straight section with superconducting cavities",
+        "two beams with different energies are passing through same vacuum vessels",
+        "and separate measurements of such beams are essential for beam commissioning and tuning in energy recovery linacs. Destructive methods such as “screen monitor with a hole” are utilized in many ERLs in order to measure the recirculated beam; however",
+        "the method is not suitable for CW operation with high charge. In the compact ERL at KEK",
+        "typical macro-pulse length for beam tuning is 1000 ns. In the two-beam section",
+        "difference of arrival time of pre- and post-accelerated beam of 300 ns is long enough to separate two beams. We can measure the beam position by gating the signal from stripline electrode. The overlapped part of the two-beam signals is sensitive to the phase of two beams",
+        "and they can be utilized for path-length adjustment of the beam. The experimental results during the macro-pulse and CW operation will be presented in this paper."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ERL2015/talks/weialh2045_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ERL2015/papers/weialh2045.pdf",
+      "poster_url": "https://proceedings.jacow.org/ERL2015/posters/weialh2045_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2015-WEIALH2045",
+      "page_number": "",
+      "presentation_available": false,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIALH2046",
+      "title": "Beam Current Monitoring with ICT and BPM Electronics",
+      "authors": [
+        "I. Pinayev",
+        "R.L. Hulsart",
+        "R.J. Michnoff",
+        "BNL",
+        "Upton",
+        "Long Island",
+        "New York",
+        "USA",
+        "Energy recovery linacs (ERL) require constant monitoring of the injected and dumped current in order to protect equipment due to the excessive beam loss. The conventional scheme employs two DCCTs",
+        "which can provide the required accuracy but are not fast enough. In this paper we propose to utilize integrating current transformers with processing electronics of beam position monitors. The preliminary test results are presented and further development is discussed."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ERL2015/talks/weialh2046_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ERL2015/papers/weialh2046.pdf",
+      "poster_url": "https://proceedings.jacow.org/ERL2015/posters/weialh2046_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2015-WEIALH2046",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIALH2047",
+      "title": "Fast Electron Beam and FEL Diagnostics at the ALICE IR-FEL At Daresbury Laboratory",
+      "authors": [
+        "STFC/DL/ASTeC",
+        "Daresbury",
+        "Warrington",
+        "Cheshire",
+        "United Kingdom"
+      ],
+      "institutions": [
+        "The ALICE facility at Daresbury Laboratory is an energy recovery based infra-red free electron laser of the oscillator type that has been operational since 2010. Fast diagnostics have been installed to perform combined measurements on pulse-by-pulse FEL pulse energy and bunch-by-bunch electron bunch position and arrival time. These measurements have highlighted and quantified fast instabilities in the electron beam and consequently the FEL output."
+      ],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ERL2015/talks/weialh2047_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ERL2015/papers/weialh2047.pdf",
+      "poster_url": "https://proceedings.jacow.org/ERL2015/posters/weialh2047_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2015-WEIALH2047",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "WEIALH2048",
+      "title": "Current Measurement and Associated Machine Protection in the ERL at BNL",
+      "authors": [
+        "T.A. Miller",
+        "D.M. Gassner",
+        "J.P. Jamilkowski",
+        "D. Kayran",
+        "M.G. Minty",
+        "J. Morris",
+        "B. Sheehy",
+        "BNL",
+        "Upton",
+        "Long Island",
+        "New York",
+        "USA",
+        "The R & D Energy Recovery Linac (ERL) at Brookhaven National Laboratory requires accurate and precise current measurements for logging and for machine protection. In this paper we present the techniques used to derive the beam current from the beam charge measurement taken using an integrating current transformer (ICT). The strategy for ramping up the total beam current is discussed",
+        "- including the motivation for developing different operating modes with specific pulse structures",
+        "taking into account the constraints on the pulse structure imposed by the operating limits of the ICT during initial accelerator commissioning. The electronics packages used for integration and digitization are presented along with methods of synchronization. Finally",
+        "results of measurements during the first beam tests are presented."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/ERL2015/talks/weialh2048_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/ERL2015/papers/weialh2048.pdf",
+      "poster_url": "https://proceedings.jacow.org/ERL2015/posters/weialh2048_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ERL2015-WEIALH2048",
+      "page_number": "52",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 4,
+  "scrape_time": "2025-10-10 17:07:00"
+}

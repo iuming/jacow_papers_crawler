@@ -1,0 +1,254 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2019 - Table of Session: TUAO (Beam Loss Monitors and Machine Protection)
+
+
+TUAO —  Beam Loss Monitors and Machine Protection   (10-Sep-19   09:00—10:30)
+Chair: D.M. Gassner, BNL, Upton, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+TUAO01
+Beam Diagnostics for Studying Beam Losses in the LHC
+222
+
+
+ 
+
+B. Salvachua
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+The LHC is well covered in terms of beam loss instrumentation. Close to 4000 ionisation chambers are installed to measure global beam losses all around the LHC ring, and diamond detectors are placed at specific locations to measure bunch-by-bunch losses. Combining the information of these loss detectors with that from additional instrumentation, such as current transformers, allows for enhanced understanding and control of losses. This includes a fast and reliable beam lifetime calculation, the identification of the main origin of the loss (horizontal or vertical betatron motion or off-momentum), or a feedback to perform controlled off-momentum loss maps to validate the settings of the collimation system. This paper describes the diagnostic possibilities that open up when such measurements from several systems are combined.
+This is proposed as an Invited presentation from CERN Beam Instrumentation Group.
+
+ 
+
+
+
+
+
+
+Slides TUAO01 [9.161 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUAO01
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 09 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAO02
+Beam-Loss Detection for LCLS-II
+229
+
+
+ 
+
+A.S. Fisher, C.I. Clarke, B.T. Jacobson, R.A. Kadyrov, E. Rodriguez, L. Sapozhnikov, J.J. Welch
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+SLAC is now installing LCLS-II, a superconducting electron linac driven by continuous RF at 1.3 GHz. The 4-GeV, 120-kW beam has a maximum rate of nearly 1 MHz and can be switched pulse-by-pulse to either of two undulators, to generate hard and soft x rays. Two detector types measure beam losses. Point beam-loss monitors (PBLMs) set limits at critical loss points: septa, beam stoppers and dumps, halo collimators, protection collimators (which normally receive no loss), and zones with weak shielding. PBLMs are generally single-crystal diamond detectors, except at the gun, where a scintillator on a PMT is more sensitive to the low-energy (1 MeV) beam. Long beam-loss monitors (LBLMs) use 200-m lengths of radiation-hard optical fiber, each coupled to a PMT, to capture Cherenkov light from loss showers. LBLMs protect the entire 4-km path from gun to beam dump and locate loss points. In most regions two fibers provide redundancy and view the beam from different angles. Loss signals are integrated with a 500-ms time constant and compared to a threshold; if exceeded, the beam is stopped within 0.2 ms. We report on our extensive tests of the detectors and the front-end signal processing.
+
+ 
+
+
+
+
+
+
+Slides TUAO02 [4.268 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUAO02
+
+ 
+
+
+About •
+paper received ※ 03 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAO03
+Beam Loss Measurements Using the Cherenkov Effect in Optical Fiber for the BINP e−e+ Injection Complex
+233
+
+
+ 
+
+Yu.I. Maltseva, A.R. Frolov, V.G. Prisekin
+                       BINP SB RAS, Novosibirsk, Russia
+
+ 
+
+
+ 
+
+Optical fiber based beam loss monitor (OFBLM) has been developed for the 500 MeV BINP Injection Complex (IC). Such monitor is useful for accelerator commissioning and beam alignment, and allows real-time monitoring of e−e+ beam loss position and intensity. Single optical fiber (OF) section can cover the entire accelerator instead of using a large number of local beam loss monitors. In this paper brief OFBLM selection in comparison with other distributed loss monitors was given. Methods to improve monitor spatial resolution are discussed. By selecting 45 m long silica fiber (with a large core of 550 um) and microchannel plate photomultiplier (MCP-PMT), less than 1 m spatial resolution can be achieved.
+
+ 
+
+
+
+
+
+
+Slides TUAO03 [3.053 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUAO03
+
+ 
+
+
+About •
+paper received ※ 05 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+TUAO04
+Commissioning of the ARIEL E-LINAC Beam Loss Monitor System
+238
+
+
+ 
+
+M. Alcorta, A.D. D’Angelo, D. Dale, H. Hui, B. Humphries, S.R. Koscielniak, K. Langton, A. Lennarz, R.B. Nussbaumer, T. Planche, M. Rowe, S.D. Rädel
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+The commissioning of the Advanced Rare Isotope & Electron Linac (ARIEL) facility at TRIUMF is underway. The 30 MeV e-linac has successfully been commissioned to 100 W, and to further increase the power to 1 kW the beam loss monitor system (BLM) for fast Machine Protection must be fully operational. There are currently two types of BLMs employed in the e-linac; long-ionization chambers (LIC) and scintillators, consisting of a small BGO coupled to a PMT. A front-end beam loss monitor board was designed at TRIUMF to meet the strict requirements of the BLMs: a trip of the beam occurs on 100 nC in 100 ms of integrated beam loss, and the trip must occur in < 10 us. This contribution will report on the status of the 1 kW BLM system commissioning and will give an outlook as the power is increased to the full 300 kW.
+
+ 
+
+
+
+
+
+
+Slides TUAO04 [14.621 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2019-TUAO04
+
+ 
+
+
+About •
+paper received ※ 04 September 2019       paper accepted ※ 07 September 2019        issue date ※ 10 November 2019
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

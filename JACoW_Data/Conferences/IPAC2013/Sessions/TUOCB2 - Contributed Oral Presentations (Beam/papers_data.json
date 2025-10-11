@@ -1,0 +1,101 @@
+{
+  "session_info": {
+    "id": "TUOCB2",
+    "name": "TUOCB2 - Contributed Oral Presentations (Beam Instrumentation and Feedback)",
+    "url": "https://proceedings.jacow.org/IPAC2013/html/tuocb2.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUOCB201",
+      "title": "Recent Developments of Novel Beam Diagnostics at the ESRF",
+      "authors": [
+        "ESRF",
+        "Grenoble",
+        "France",
+        "A number of rather novel and particular electron beam diagnostics have seen their development in 2012 for the ESRF Storage Ring. A vertical Beam Halo detector that measures the bunch population at millimetres",
+        "i.e. hundreds of σs of nominal beam size",
+        "away from the central core. This measurement is based on X-ray synchrotron radiation from a bending magnet and is totally non-destructive to the electron beam itself. Another diagnostic use of the very hard X-rays available from the bending magnets is the detection of electron beam energy fluctuations. The detector hardware is simple and in-expensive and has shown a resolution of energy fluctuations of less than 10ppm. Also a single orbit turn measurement of the injected beam shape and size is now possible through the use of visible synchrotron light combined with a fast gateable intensifier",
+        "which can be triggered on any of the desired orbit turns after injection. Detailed results of each of these new diagnostics will be presented."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2013/talks/tuocb201_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2013/papers/tuocb201.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2013/posters/tuocb201_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2013-TUOCB201",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOCB202",
+      "title": "Fast Orbit Feedback Scheme and Implementation for Taiwan Photon Source",
+      "authors": [
+        "P.C. Chiu",
+        "K.T. Hsu",
+        "K.H. Hu",
+        "C.H. Kuo",
+        "C.Y. Wu",
+        "NSRRC",
+        "Hsinchu",
+        "Taiwan",
+        "TPS (Taiwan Photon Source) is a 3 GeV synchrotron light source which is being in construction at NSRRC. As most of 3rd generation light sources",
+        "the fast orbit feedback system would be adopted to eliminate various disturbances and improve orbit stability. Due to the vacuum chamber material made of aluminum with higher conductivity and lower bandwidth",
+        "both of slow and fast correctors will be used for FOFB correction. In general",
+        "there are two schemes to operate these hybrid correctors. One is to transfer correction from fast to slow correctors periodically and avoid fast corrector saturation. The other is the fast correctors operated only at higher frequency domain and slow ones take care of DC part. TPS would adopt the first scheme but the second one still as a substitute. Both schemes will be supported. This report summarizes the infrastructure of the FOFB and the simulation is also presented."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2013/talks/tuocb202_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2013/papers/tuocb202.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2013/posters/tuocb202_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2013-TUOCB202",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOCB203",
+      "title": "In Vacuum High Accuracy Mechanical Positioning System of Nano Resolution Beam Position Monitor at the Interaction Point of ATF2",
+      "authors": [
+        "P. Bambade",
+        "O.R. Blanco",
+        "F. Bogard",
+        "P. Cornebise",
+        "S. Wallon",
+        "LAL",
+        "Orsay",
+        "France",
+        "T. Tauchi",
+        "N. Terunuma",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "ATF2 is a low energy (1.3GeV) prototype of the final focus system for ILC and CLIC linear collider projects. A major goal of ATF2 is to demonstrate the ability to stabilise the beam position at the interaction point",
+        "where the beam can be focused down to about 35 nm. For this purpose",
+        "a set of new Beam Position Monitors (BPM) has been designed",
+        "with an expected resolution of about 2 nm. These BPMs must be very well aligned with respect to the beam",
+        "at the few micron level",
+        "to fully exploit their fine resolution. In this paper",
+        "the mechanical positioning system which has been developed to enable such a precise alignment is presented. It is based on a set of eight piezo actuators with nanometer range displacement resolution",
+        "mounted in a new specially made vacuum chamber. Due to the expected resolution of the piezo actuators",
+        "this system also brings a new functionality",
+        "the possibility to calibrate the BPMs by mechanically scanning the beam."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2013/talks/tuocb203_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2013/papers/tuocb203.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2013/posters/tuocb203_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2013-TUOCB203",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 21:16:22"
+}

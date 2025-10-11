@@ -1,0 +1,2259 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LINAC2016 - Table of Session: SPWR (Student Poster Session & Welcome Reception)
+
+
+SPWR —  Student Poster Session & Welcome Reception   (25-Sep-16   16:00—21:00)
+Chair: L. Popielarski, FRIB, East Lansing, USA
+
+
+Paper
+Title
+Page
+
+
+
+SPWR001
+Electron Linac Upgrade for Thomx Project
+ 
+
+
+THOP12
+  use link to access more material from this paper's primary paper code
+ 
+
+
+THPLR072
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+L. Garolfi, C. Bruni, M. El Khaldi
+                       LAL, Orsay, France
+N. Faure, A. Perez Delaume
+                       PMB-ALCEN, PEYNIER, France
+
+ 
+
+
+ 
+
+The injector Linac for Thomx * consists of an electron gun and S-band accelerating section. The RF gun is a 2.5 cells photo-injector able to provide electron bunches with 5 MeV energy. During the commissioning phase, a standard S-band accelerating section is able to achieve around 50 MeV corresponding to around 45 keV X-rays energy. Since the maximum targeted X-ray energy is 90 keV, the Linac design will provide a beam energy of 70 MeV. The Linac upgrade of the machine covers many different aspects. The purpose is to increase the compactness of the accelerator complex whereas the beam properties for ring injection are kept. A LAL Orsay-PMB ALCEN collaboration has been established. The program foresees the RF design, prototyping and power tests of a high-gradient compact S-band accelerating structure. To fulfill the technical specifications at the interaction point, the Linac must be carefully designed. Beam dynamics simulations have been performed for optimizing the emittance and the energy spread for the ring entrance. The best set of parameters together with the effect of the accelerating section to the beam dynamics at the end of the LINAC will be presented.
+* A. Variola, et al, "The Thomx Project Status", Proceedings of IPAC2014, Dresden, Germany.
+
+ 
+
+
+
+
+
+
+Slides SPWR001 [1.726 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THOP12
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR002
+Development of 6 MeV European S-band Side-Coupled Industrial Electron Linear Accelerator at RTX & KAERI
+ 
+
+
+TUPLR005
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+P. Buaphad, S.C. Cha
+                       KAERI, Jeongeup-si, Republic of Korea
+P. Buaphad
+                       University of Science and Technology of Korea (UST), Daejeon, Republic of Korea
+P. Buaphad
+                       RTX, Daejeon, Republic of Korea
+Y. Kim
+                       ISU, Pocatello, Idaho, USA
+
+ 
+
+
+ 
+
+There are growing demands on low energy electron linear accelerator (linac) for industrial applications. Most of industrial electron linacs require a compact structure and limited undesirable neutron production to avoid huge lead shielding. Radiation Technology eXcellence (RTX) and Korea Atomic Energy Research Institute (KAERI) have developed a 6 MeV compact side-coupled linac by using 2998 MHz European S-band RF technology to meet those requirements. To design the linac structure, the 3D CST MICROWAVE STUDIO (CST-MWS) was used for various electromagnetic simulations, and ASTRA code was used for particle beam dynamics simulations. After various optimizations, the shunt impedance of 61 MΩ/m is obtained at 2998.38 MHz. With a peak RF power of 2.2 MW and a 47 cm-long structure, electron beam with a peak current of 150 mA can be accelerated from 25 keV to 6 MeV. For the industrial linac, the electron beam spotsize at an X-ray target, located 5 cm downstream of the linac structure exit should be smaller than 2 mm (FW). In addition, it can supply an X-ray dose rate of 8 Gy/min at 1 m after the X-ray target. In this paper, we describe the design concepts and optimization of the 2998 MHz side-coupled industrial linac structure.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR005
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR003
+Self-Consistent PIC Modeling of Near Source Transport of FRIB
+ 
+
+
+TUPRC014
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.Y. Wong
+                       NSCL, East Lansing, Michigan, USA
+K. Fukushima, S.M. Lund
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661 and the National Science Foundation under Grant No. PHY-1102511.
+Self-consistent simulation studies of the FRIB low energy beam transport (LEBT) system are conducted with the PIC code Warp. Transport of the many-species DC ion beam emerging from an Electron Cyclotron Resonance (ECR) ion source is examined in a realistic lattice through the Charge Selection System (CSS) which employs two 90-degree bends, two quadrupole triplets, and slits to collimate non-target species. Simulation tools developed will support commissioning activities on the FRIB front end which begins early operations in 2017. Efficient transverse (xy) slice simulation models using 3D lattice fields are employed within a scripted framework that is readily adaptable to analyze many ion cases and levels of model detail. Effects from large canonical angular momentum (magnetized beam emerging from ECR), thermal spread, nonlinear focusing, and electron neutralization are examined for impact on collimated beam quality.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC014
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR004
+Beam Dynamics Simulations of a High Charge S-Band Photoinjector for Electron Beam Imaging Experiments
+ 
+
+
+MOPRC014
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y.R. Wang
+                       AAI/ANL, Argonne, Illinois, USA
+S. Cao, Z.M. Zhang
+                       IMP/CAS, Lanzhou, People's Republic of China
+W. Gai
+                       ANL, Argonne, Illinois, USA
+J.Q. Qiu
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+
+ 
+
+
+ 
+
+A major challenge for high energy density physics is to measure properties of matter under extreme states of temperature and pressure that only occur in a time scale of 10 ns to 1 μs. Here we propose to use a single shot electron beam from an S-band photoinjector with enough energy to penetrate the material as a diagnostic capable of time resolution (< ns). In this paper, we report on the primary beam dynamics simulation of a S-band photocathode electron gun and accelerator that capable of producing up to 10 nC charge with high enough energy. Optimizations of the system parameters, including gun, focusing solenoid and acceleration field are performed using particle tracking code. The beam-line is designed to be installed in the Institute of Modern Physics(IMP) electron accelerator centre for high precision electron imaging experimental studies.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPRC014
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR005
+Progress of a 162.5 MHz High-Current RFQ With Coupling Windows
+ 
+
+
+TUPLR058
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Q. Fu, P.P. Gan, S.L. Gao, F.J. Jia, H.P. Li, Y.R. Lu, Z. Wang, K. Zhu
+                       PKU, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: Supported by National Basic Research Program of China(2014CB845503)
+A 162.5 MHz, four-vane RFQ with magnetic coupling windows has been designed by the RFQ group of Peking University. Clear frequency separation of the resonant modes and smaller transverse dimension are the advantages of the window-type RFQ. The electromagnetic simulations have shown that the average power loss of this 1.809 m long RFQ is about 50 kW in continuous wave mode. Consequently, a water cooling system was designed via the multi-physics analysis. The mechanical design and assembling technology were also presented in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR058
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR006
+Solenoid/Magnetic Shielding Test Results in FRIB-1&2 Cryomodules
+ 
+
+
+TUPLR067
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+D. Luo, H. Ao, E.E. Burkhardt, J. Casteel, A. Ganshyn, W. Hartung, M.J. Holcomb, J.T. Popielarski, K. Saito, S. Shanab, E. Supangco, M. Thrush
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: This material is based upon work supported by the U.S. Department of Energy Office of Science under Cooperative Agreement DE-SC0000661, the State of Michigan and Michigan State University.
+Recently we did bunker tests for FRIB first cryomodule (CM-1) and second one (CM-2) which houses 0.085 QWRs and solenoid packages. Their performances were successfully validated in the full configuration. This paper reports the solenoid package tests results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR067
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR007
+Traveling Wave Accelerating Structure Power Input Calculation With Equivalent Circuit Method
+ 
+
+
+THPLR011
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S.V. Matsievskiy, V.I. Kaminskiy
+                       MEPhI, Moscow, Russia
+
+ 
+
+
+ 
+
+Nowadays linac accelerating RF systems design is usually done by the finite difference method. It provides high accuracy of calculations and freedom in topology choosing, but may draw considerable amounts of computer resources with long calculation times. Alternative to this method, equivalent circuit method exists. The basic idea of this method is to build a lumped element circuit, which with certain approximation acts as an original accelerating cell. It drastically reduces the number of equations to solve. This method is long known but usually only used for the particular accelerating structures when speed of calculation is a key-factor. This paper describes an attempt to create more universal and user-friendly software application for calculating electrical field distribution in accelerating structures, provides mathematical equations this software is based on. The resulting application may be used for preliminary calculations of acceleration structures and help to determine cells electrodynamic parameters reducing overall design time.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPLR011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR008
+Experiment of Plasma Discharge on HWR Cavity for In-Situ Surface Cleaning Study
+ 
+
+
+MOPRC029
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A.D. Wu, Y. He, T.C. Jiang, C.L. Li, Y.M. Li, W.M. Yue, S.H. Zhang, H.W. Zhao
+                       IMP/CAS, Lanzhou, People's Republic of China
+L.M. Chen
+                       Institute of Physics, Chinese Academy of Sciences, Beijing, People's Republic of China
+L. Yang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Hydrocarbons, which migrate from the vacuum bumps system, will absorb on the cavity surface after periods of operation. The contaminants can reduce the surface electron work function to enhance the field emission effect and restrict the cavity accelerating gradient. The room temperature in-situ plasma surface processing to clean the hydrocarbon contaminants can act as a convenient and efficient technology for the accelerator on line performance recovery. For better control of the discharge inside the cavity, the experiment works on a single HWR cavity aims to research the ignition between the swarm parameters (gas flow, pressure, forward power).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPRC029
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR009
+Development of a Digital LLRF Control System at LNL
+ 
+
+
+THPLR048
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Pavinato, M. Betti, D. Bortolato, F. Gelain, D. Marcato, D. Pedretti
+                       INFN/LNL, Legnaro (PD), Italy
+M.A. Bellato, R. Isocrate
+                       INFN- Sez. di Padova, Padova, Italy
+M. Bertocco
+                       UNIPD, Padova (PD), Italy
+
+ 
+
+
+ 
+
+The new Low-Level Radio Frequency (LLRF) control system for linear accelerator at Legnaro National Laboratories (LNL) of INFN is presently being commissioned. A digital Radio Frequency (RF) controller was implemented. Its goal is to stabilize the amplitude, the phase and the frequency of the superconducting cavities of the Linac. The resonance frequency of the low beta cavities is 80 MHz, while medium and high beta cavities resonate at 160 MHz. Each RF controller controls at the same time eight different cavities. The hardware complexity of the RF controller (RF IOC) is reduced by adopting direct RF sampling and the RF to baseband conversion method. The main hardware components are RF ADCs for the direct undersampling of the signals picked up from cavities, a Xilinx Kintek 7 FPGA for the signal processing and DACs for driving the power amplifiers and hence the cavities. In the RF IOC the serial communication between FPGA and ADCs and between FPGA and DACs is based on JESD204b standard. An RF front-end board (RFFE) is placed between cavities and the RF IOC. This is used to adapt the power level of the RF signal from the cavities to the ADCs and from the DACs to the power amplifiers. This paper addresses the LLRF control system focusing on the hardware design of the RF IOC and RFFE boards and on the first test results carried out with the new controller.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPLR048
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR011
+Advanced Design Optimizations of a Prototype for a Newly Revised 4-Rod CW RFQ for the HLI at GSI
+ 
+
+
+TUPLR057
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+D. Koser, H. Podlech
+                       IAP, Frankfurt am Main, Germany
+P. Gerhard, L. Groening
+                       GSI, Darmstadt, Germany
+O.K. Kester
+                       TRIUMF, Vancouver, Canada
+
+ 
+
+
+ 
+
+Within the scope of the FAIR project (Facility for Antiproton and Ion Research) at GSI Helmholtz Centre for Heavy Ion Research in Darmstadt, Germany, the front end of the existing High Charge State Injector (HLI) is upgraded for cw operation. The dedicated new 4-Rod RFQ structure is currently being designed at the Institute for Applied Physics (IAP) of the Goethe University of Frankfurt. The overall design is based on the RFQ structures that were originally developed for FRANZ* and MYRRHA**. Regarding the HLI-RFQ the comparatively low operating frequency of 108 MHz causes a general susceptibility towards mechanical vibrations especially concerning the electrodes because of the necessarily larger distance between the stems. Besides RF simulations and basic thermal simulations with CST Studio Suite, the key issues like mechanical electrode oscillations as well as temperature distribution from heat loss in cw operation are investigated with simulations using ANSYS Workbench. At first instance a dedicated 6-stem prototype is currently being manufactured in order to validate the simulated RF performance, thermal behavior and structural mechanical characteristics.
+*M. Heilmann et al., A Coupled RFQ-IH Cavity for the Neutron Source FRANZ, IPAC13  **C. Zhang, H. Podlech, New Reference Design of the European ADS RFQ Accelerator For MYRRHA, IPAC14 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR057
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR012
+Design of a Dielectric-lined Waveguide for Terahertz-driven Linear Electron Acceleration
+ 
+
+
+MOPLR011
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A.L. Healy, G. Burt
+                       Cockcroft Institute, Lancaster University, Lancaster, United Kingdom
+M.J. Cliffe, D.M. Graham
+                       The University of Manchester, The Photon Science Institute, Manchester, United Kingdom
+S.P. Jamison
+                       STFC/DL/ASTeC, Daresbury, Warrington, Cheshire, United Kingdom
+R. Valizadeh
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+
+ 
+
+
+ 
+
+A dielectric-lined waveguide has been designed for use as an accelerating structure in terahertz-driven electron acceleration experiments at Daresbury. Experimental verification of acceleration will take place on Versatile Electron Linear Accelerator (VELA). The choice of a rectangular waveguide structure with sidewall dielectric layers enables tuning by varying the spacing between dielectric slabs to account for potential manufacturing errors. Schemes for coupling free-space single cycle THz pulses into the waveguide have been evaluated and optimised through CST simulation. Comparison of simulation with experimental measurements will also be presented.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPLR011
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR013
+First Performance Test on the Superconducting 217 MHz CH Cavity at 4.2 K
+ 
+
+
+THPLR044
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+F.D. Dziuba, M. Amberg, M. Basten, M. Busch, H. Podlech
+                       IAP, Frankfurt am Main, Germany
+W.A. Barth, M. Miski-Oglu
+                       GSI, Darmstadt, Germany
+W.A. Barth, M. Miski-Oglu
+                       HIM, Mainz, Germany
+
+ 
+
+
+ 
+
+Funding: HIM, GSI, BMBF Contr. No. 05P15RFRBA, EU Project MYRTE
+At the Institute for Applied Physics (IAP) of Frankfurt University a superconducting (sc) 217 MHz Crossbar-H-mode (CH) cavity with 15 accelerating cells and a gradient of 5.5 MV/m has been designed. The cavity is the key component of the demonstrator project at GSI which is the first stage to a new sc continuous wave (cw) linac for the production of Super Heavy Element (SHE) in the future. A successful and reliable beam operation of this first prototype will be a milestone on the way to the proposed linac. After fabrication at Research Instruments (RI) GmbH, Germany, the cavity without helium vessel has been commissioned at the new cryogenic test facility of the IAP with low level rf power at 4 K. The results of this first cold test will be presented in this contribution.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPLR044
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR014
+First Experiments at the CW-Operated RFQ for Intense Proton Beams
+ 
+
+
+TUOP05
+  use link to access more material from this paper's primary paper code
+ 
+
+
+TUPLR075
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+P.P. Schneider, D. Born, M. Droba, C. Lorey, O. Meusel, D. Noll, H. Podlech, A. Schempp, B. Thomas, C. Wagner
+                       IAP, Frankfurt am Main, Germany
+
+ 
+
+
+ 
+
+This contribution describes the first experiments with the cw-operated RFQ*, which is designed to accelerate protons from 120keV to 700keV for the FRANZ-Project**. The commissioning is done using the RF and ion beam scrubbing technique. In the first phase, the acceptance of the RFQ is scanned and the performance of the RFQ without space-charge effects is evaluated with a 2mA proton beam. The second phase will increase the beam current up to 50mA and a third phase with a machine upgrade for a beam current of up to 200mA is planned. The configuration of a high-current RFQ***, transporting beam current increasing from 2mA with no space-charge forces to a beam with high space-charge effects gives an unique insight in the beam optics of the space-charge effects. The measurements are done with a slit-grid emittance scanner for the transversal phase-space, a faraday cup for the transmitted current and a momentum spectrometer to measure the energy spread. The results set the basis for later experiments on variations of the beam current and the future coupling of the RFQ with an IH-structure****.
+* Bechtold, A., et al., MOP001, LINAC08  ** Meusel, O., et al., MO3A03, LINAC12  *** Vossberg, M., et al., WEPFI009, IPAC13 **** Heilmann, M., et al., THPWO017, IPAC13
+
+ 
+
+
+
+
+
+
+Slides SPWR014 [2.435 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR015
+Development of Ultracold Neutron Accelerator for Time Focusing of Pulsed Neutrons
+ 
+
+
+MOOP07
+  use link to access more material from this paper's primary paper code
+ 
+
+
+MOPRC001
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Imajo
+                       Kyoto University, Kyoto, Japan
+T. Ino, K. Mishima
+                       KEK, Ibaraki, Japan
+Y. Iwashita
+                       Kyoto ICR, Uji, Kyoto, Japan
+M. Kitaguchi, H.M. Shimizu
+                       Nagoya University, Nagoya, Japan
+S. Yamashita
+                       ICEPP, Tokyo, Japan
+
+ 
+
+
+ 
+
+Low energy neutron accelerator can be realized by the combination of an adiabatic fast passage spin flipper and a gradient magnetic field. Neutrons have magnetic moments, so that the accumulated potential energies are not cancelled before and after passage of a magnetic field and their kinetic energies change in case their spins are flipped in the field. This accelerator handles lower kinetic energy neutrons than approximately 300 neV. Currently we have developed the advanced version which makes it possible to handle broader kinetic energy range. The design and measured characteristics are described.
+
+ 
+
+
+
+
+
+
+Slides SPWR015 [1.313 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOOP07
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR016
+Impurity Content Optimization to  Maximize Q-Factors of Superconducting Resonators
+ 
+
+
+TUPLR023
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Martinello, M. Checchin, A. Grassellino, O.S. Melnychuk, S. Posen, A. Romanenko, D.A. Sergatskov
+                       Fermilab, Batavia, Illinois, USA
+M. Checchin
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+J. Zasadzinski
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Quality factor of superconducting radio-frequency (SRF) cavities is degraded whenever magnetic flux is trapped in the cavity walls during the cooldown. In this contribution we study how the trapped flux sensitivity, defined as the trapped flux surface resistance normalized for the amount of trapped flux, depends on the mean free path. A systematic study of a variety of 1.3 GHz cavities with different surface treatments (EP, 120 C bake and different N-doping) is carried out. A bell shaped trend appears for the range of mean free path studied. Over-doped cavities fall at the maximum of this curve defining the largest values of sensitivity. In addition, we have studied the trend of the BCS surface resistance contribution as a function of mean free path, showing that N-doped cavities follow close to the theoretical minimum. Adding these results together we show that the 2/6 N-doping treatment gives the highest Q-factor values at 2 K and 16 MV/m, as long as the magnetic field fully trapped during the cavity cooldown is lower than 10 mG.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR017
+Enhancement of the Accelerating Gradient in Superconducting Microwave Resonators
+ 
+
+
+TUPLR024
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Checchin, A. Grassellino, M. Martinello, S. Posen, A. Romanenko
+                       Fermilab, Batavia, Illinois, USA
+M. Martinello
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+J. Zasadzinski
+                       IIT, Chicago, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Fermilab is operated by Fermi Research Alliance, LLC under Contract No. DEAC02-07CH11359 with the United States Department of Energy.
+The accelerating gradient of superconducting resonators can be enhanced by engineering the thickness of a dirty layer grown at the cavity's rf surface. In this paper the description of the physics behind the accelerating gradient enhancement by meaning of the dirty layer is carried out by solving numerically the the Ginzburg-Landau (GL) equations for the layered system. The calculation shows that the presence of the dirty layer stabilizes the Meissner state up to the lower critical field of the bulk, increasing the maximum accelerating gradient.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR018
+An RFQ Based Neutron Source for BNCT
+ 
+
+
+TUPRC007
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+X.W. Zhu, Z.Y. Guo, Y.R. Lu, H. Wang, Z. Wang, K. Zhu, B.Y. Zou
+                       PKU, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+Boron Neutron Capture Therapy (BNCT), promises a bright prospect for future cancer treatment, in terms of effectiveness, safety and less expanse. The PKU RFQ group proposes an RFQ based neutron source for BNCT. A unique beam dynamics design of 162.5 MHz BNCT-RFQ, which accelerates 20 mA of H+ from 30 keV to 2.5 MeV in CW operation, has been performed in this study. The Proton current will be about 20 mA. The source will deliver a neutron yield of 1.76×1013 n/sec/cm2 in the Li(p, n)Be reaction. Detailed 3D electromagnetic (EM) simulations of all components, including cross-section, tuners, pi-rods, and undercuts, of the resonant structure are performed. The design of a coaxial type coupler is developed. Two identical RF couplers will deliver approximately 153 kW CW RF power to the RFQ cavity. RF property optimizations of the RF structures are performed with the utilization of the CST MICROWAVE STUDIO.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC007
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR019
+Design and Simulation of a High Intensity Heavy Ion RFQ Accelerator Injector
+ 
+
+
+THPLR064
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+W. Ma, Y. He, C.X. Li, L. Lu, L.B. Shi, L.P. Sun, X.B. Xu, Z.L. Zhang, H.W. Zhao
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+An 81.25 MHz continuous wave (CW) radio frequency quadrupole (RFQ) accelerator has been developed for Low Energy Accelerator Facility (LEAF) at the Institute of Modern Physics (IMP), the Chinese Academy of Science (CAS). In the CW operating mode, the proposed RFQ design adopted the conventional four-vane structure. The main design goals are providing the high shunt impendence with low power losses. In the electromagnetic (EM) design, the π-mode stabilizing loops (PISLs) were optimized to produce a good mode separation. The tuners were also designed and optimized to tune frequency and field flatness of the operating mode. The vane undercuts were optimized to provide a flat field along the RFQ cavity. Additionally, a full length model with modulations was set up for the final EM simulations. In this paper, detailed EM design of the LEAF-RFQ will be presented and discussed. Meanwhile, structure error analysis is also studied.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPLR064
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR020
+RF Design of a Deuteron Beam RFQ
+ 
+
+
+THPLR063
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.X. Li, W.P. Dou, Y. He, F.F. Wang, Z.J. Wang, X.B. Xu, Z.L. Zhang
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+In a material irradiation facility in IMP, a RFQ is required for accelerating deuteron beam from 20 keV/u to 1.52 MeV/u. The structure design of the RFQ is drawing on the experience of the RFQ of Injector II of China ADS LINAC. Four-vane structure is adopted and the operation frequency is 162.5 MHz. Inter vane voltage is 65 kV and the Kilpatrick factor is 1.4. Π-mode stabilizing loops are used to move the dipole modes away from the working mode. Slug tuners are used to compensate for capacitance errors induced by machining. Cutbacks and end plate are modified to reach a reasonable field flatness. After the structure design and optimization, the simulation results of the cavity frequency is 162.459 MHz, the power loss is 109 kW. The multiphysics simulations are also performed to determine the frequency shift caused by the shift of the cooling water temperature.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPLR063
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR021
+The Beam Energy Feedback System in Beijing Electron Positron Collider II Linear Accelerator
+ 
+
+
+THPLR047
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S.Z. Wang, Y.L. Chi, X. Huang
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+The beam energy feedback system in Beijing electron positron collider II (BEPCII) linear accelerator consists of three parts. They are the beam energy measurement In-put/Output Controller (BEM IOC), the Graphical User Interface (GUI) based on Qt platform and the phasing system. This article describes the implementation of this system and the online testing which has been passed on March 16th, 2016. By using this feedback system, the injection rate and the energy fluctuation of the injection beam has been improved a lot. Now this system is steady running in the control room of BEPCII linear accelerator.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPLR047
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR022
+Design of a 750 MHz IH Structure for Medical Applications
+ 
+
+
+MOPLR049
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Benedetti, A. Grudiev, A. Latina
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Low velocity particles are critical in every hadron accelerator chain. While RFQs nicely cover the first MeV/u range, providing both acceleration and bunching, energies higher than few MeV/u require different structures, depending on the specific application. In the framework of the TULIP project [1], a 750 MHz IH structure was designed, in order to cover the 5-10 MeV/u range. The relatively high operating frequency and small bore aperture radius led the choice towards TE mode structures over more classic DTLs. Hereafter, the RF regular cell and end cell optimization is presented. An innovative solution to compensate dipole kicks is discussed, together with the beam dynamics and the matching with the 5 MeV 750 MHz CERN RFQ [2]. This structure was specifically designed for medical applications with a duty cycle of about 1 ', but can easily adapted to duty cycles up to 5 %, typical of PET isotopes production in hospitals.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPLR049
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR023
+Fabrication and Testing of a Novel S-Band Backward Travelling Wave Accelerating Structure for Proton Therapy Linacs
+ 
+
+
+MOPLR048
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Benedetti, T. Argyropoulos, C. Blanch Gutiérrez, N. Catalán Lasheras, A. Degiovanni, D. Esperante Pereira, M. Garlaschè, J. Giner Navarro, A. Grudiev, G. McMonagle, A. Solodko, M.A. Timmins, R. Wegner, B.J. Woolley, W. Wuensch
+                       CERN, Geneva, Switzerland
+D. Esperante Pereira
+                       IFIC, Valencia, Spain
+
+ 
+
+
+ 
+
+Compact and more affordable, facilities for proton therapy are now entering the market of commercial medical accelerators. At CERN, a joint collaboration between CLIC and TERA Foundation led to the design, fabrication and testing of a high gradient accelerating structure prototype, capable of halving the length of state-of-art light ion therapy linacs. This paper focuses on the mechanical design, fabrication and testing of a first prototype. CLIC standardized bead-pull measurement setup was used, leading to a quick and successful tuning of the prototype. The high power tests will soon start in order to prove that the structure can withstand a very high accelerating gradient while suffering no more than 10-6 breakdown per pulse per meter (bpp/m), resulting in less than one breakdown per treatment session.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPLR048
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR024
+R&D Status of the New Superconducting CW Heavy Ion LINAC@GSI
+ 
+
+
+THPLR033
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Basten, M. Amberg, M. Busch, F.D. Dziuba, H. Podlech, M. Schwarz
+                       IAP, Frankfurt am Main, Germany
+W.A. Barth, V. Gettmann, S. Mickat, M. Miski-Oglu
+                       HIM, Mainz, Germany
+M. Heilmann, S. Mickat, S. Yaramyshev
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+For future research in the field of Super Heavy Elements (SHE) a superconducting (sc) continuous wave (cw) ion LINAC with high intensity is highly desirable. Presently a multi-stage R&D program conducted by GSI, HIM and IAP[*] is in progress. The fundamental linac design composes a high performance ion source, a new low energy beam transport line, the High Charge State Injector (HLI) upgraded for cw, and a matching line (1.4 MeV/u) followed by the new sc-DTL LINAC for acceleration up to 7.3 MeV/u. The successful commissioning of the first Crossbar-H-mode (CH) cavity (Demonstrator), in a vertical cryo module, was a major milestone in 2015[**]. The next stage of the new sc cw heavy ion LINAC is the advanced demonstrator comprising a string of cavities and focusing elements build from several short constant-beta sc CH-cavities operated at 217MHz. Currently the first two sc 8 gap CH-cavities are under construction at Research Instruments (RI), Bergisch Gladbach, Germany. The new design without girders and with stiffening brackets at the front and end cap potentially reduces the overall technical risks during the construction phase and the pressure sensitivity of the cavity. The recent status of the construction phase as well as an outlook for further cavity development of the new cw heavy ion LINAC will be presented.
+*W.Barth et al.,Further R&D for a new Superconducting cw Heavy Ion LINAC@GSI, IPAC14, THPME004 **F.Dziuba et al.,First Performance Test on the Superconducting 217 MHz CH Cavity at 4K,LINAC16, THPLR033
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPLR033
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR025
+Measurement of the Transverse Beam Dynamics in a TESLA-type Superconducting Cavity
+ 
+
+
+MOP106018
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A. Halavanau, P. Piot
+                       Northern Illinois University, DeKalb, Illinois, USA
+N. Eddy, D.R. Edstrom, A. Lunin, P. Piot, J. Ruan, N. Solyak
+                       Fermilab, Batavia, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: US Department of Energy (DOE) under contract DE-SC0011831 with Northern Illinois University. Fermilab is operated by the Fermi Research Alliance LLC under US DOE contract DE-AC02-07CH11359.
+Superconducting linacs are capable of producing intense, ultra-stable, high-quality electron beams that have widespread applications in Science and Industry. Many project are based on the 1.3-GHz TESLA-type superconducting cavity. In this paper we provide an update on a recent experiment aimed at measuring the transfer matrix of a TESLA cavity at the Fermilab Accelerator Science and Technology (FAST) facility. The results are discussed and compared with analytical and numerical simulations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOP106018
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR026
+Development and Measurements of a 325 MHz RFQ
+ 
+
+
+TUPLR053
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+M. Schütt, M.A. Obermayer, U. Ratzinger
+                       IAP, Frankfurt am Main, Germany
+A. Schnase
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+In order to have an inexpensive alternative to 4-Vane RFQs above 200 MHz, we study the possibilities of a Ladder-RFQ. The 325 MHz RFQ is designed to accelerate protons from 95 keV to 3.0 MeV according to the design parameters of the research program with cooled antiprotons at FAIR. This particular high frequency for an RFQ creates difficulties, which are challenging in developing a cavity, especially for 4-ROD RFQs, which dimensions become critically small with increasing the frequency. In order to define a satisfying geometrical configuration for this resonator, both from the RF and the mechanical point of view, different designs have been examined and compared. Very promising results were reached with a ladder type RFQ, which has been investigated since 2013. Due to its geometry, the manufacturing in terms of complexity, time and costs is more beneficial compared to welded accelerators. Furthermore, maintenance is easy to handle. The manufacturing, coppering and assembling of a 0.8 m prototype RFQ is finished. We present recent measurements of the RF-field including power measurements, frequency-tuning, field flatness as well as power measurements.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPLR053
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR027
+IF-Mixture Performance During Cavity Conditioning at STF-KEK
+ 
+
+
+THPRC009
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S.B. Wibowo
+                       Sokendai, Ibaraki, Japan
+T. Matsumoto, S. Michizono, T. Miura, F. Qiu
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+The Superconducting rf Test Facility (STF) at High Energy Accelerator Research Organization (KEK) was built for research and development of the International Linear Collider (ILC). In order to satisfy the stability requirement of the accelerating field, a digital low-level RF (LLRF) control system is employed. In this control system, signal from a cavity is down-converted into intermediate frequency (IF) signal before being digitized by analog-to-digital converter (ADC). In order to reduce the required number of ADCs, we proposed a technique that combines several IFs and to be read by a single ADC. Signal reconstruction of each IF is performed by digital signal processing. The performance of this technique, which is named IF-mixture, is reported in this paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPRC009
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR028
+Developments on the 1.4 MeV/u Pulsed Gas Stripper Cell
+ 
+
+
+TUOP03
+  use link to access more material from this paper's primary paper code
+ 
+
+
+TUPRC001
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+P. Scharrer, W.A. Barth, Ch.E. Düllmann, J. Khuyagbaatar, A. Yakushev
+                       HIM, Mainz, Germany
+W.A. Barth, M. Bevcic, Ch.E. Düllmann, L. Groening, K.P. Horn, E. Jäger, J. Khuyagbaatar, J. Krier, P. Scharrer, A. Yakushev
+                       GSI, Darmstadt, Germany
+Ch.E. Düllmann, P. Scharrer
+                       Mainz University, Mainz, Germany
+
+ 
+
+
+ 
+
+The GSI UNILAC in combination with SIS18 will serve as a high-current, heavy-ion injector for the FAIR facility. It must meet high demands in terms of beam brilliance at a low duty factor. As part of an UNILAC upgrade program dedicated to FAIR, a new pulsed gas stripper cell was developed, aiming for increased beam intensities inside the post-stripper. The pulsed gas injection is synchronized with the beam pulse timing, enabling a highly-demanded, increased gas density. First tests using uranium beams on a hydrogen target showed a 60%-increased stripping efficiency into the desired 28+ charge state. In 2015, the setup was improved to be able to deliver increased target thicknesses and enhanced flexibility of the gas injection. In recent beam times, the pulsed gas cell was used with various ion-beam types, to test the capabilities for operation at the GSI UNILAC. The stripping of two ion beams in different gases at different gas densities was successfully tested in mixed-beam operation. Charge fractions, beam emittance, and energy-loss were systematically measured using uranium, bismuth, titanium, and argon beams on hydrogen, helium, and nitrogen targets. Selected results will be presented at the conference.
+
+ 
+
+
+
+
+
+
+Slides SPWR028 [1.131 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUOP03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR029
+CIADS HEBT Lattice Design
+ 
+
+
+MOPRC017
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+Y.S. Qin
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+Funding: I want to apply for financial support.
+CIADS (China Initiative Accelerator Driven System) 600MeV HEBT (High-Energy Beam Transport) will deliver 6 MW beam to the target, with CW (continuous wave) 10 mA beam. The most serious challenges are vacuum differential section and beam uniformization on the target. A novel collimation plus vacuum differential section is proposed in the lattice design. A scanning method is designed for the round beam uniformization on the target.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPRC017
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR030
+Ion Effects in High Brightness Electron Linac Beams
+ 
+
+
+FR1A04
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S.J. Full, A.C. Bartnik, I.V. Bazarov, J. Dobbins, B.M. Dunham, G.H. Hoffstaetter, K. J. Smith
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Electron beams ionize rest gas particles which then accumulate around them, disturbing beam dynamics and causing background radiation. While this effect has been predicted in the past, linacs have hitherto not suffered from it because of their rather small beam current. The effect of ions increases with larger currents and smaller cross sections of the beam, and it has clearly been observed in Cornell's high-brightness ERL injector for the first time. This presentation will show experimental evidence for ions, demonstrate strategies for their elimination, and will compare the experimental data to theories of beam-ion interactions.
+
+ 
+
+
+
+
+
+
+Slides SPWR030 [5.995 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-FR1A04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR031
+Development of a Superconducting Twin Axis Cavity
+ 
+
+
+THPLR037
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+H. Park, A. Hutton, F. Marhauser
+                       JLab, Newport News, Virginia, USA
+S.U. De Silva, J.R. Delayen, H. Park
+                       ODU, Norfolk, Virginia, USA
+
+ 
+
+
+ 
+
+Superconducting cavities with two separate accelerating axes have been proposed in the past for energy recovery linac applications. While the study showed the advantages of such cavity, the designs present serious fabrication challenges. Hence the proposed cavities have never been built. The new design, elliptical twin cavity, proposed by Jefferson Lab and optimized by Center for Accelerator Science at Old Dominion University, allows similar level of engineering and fabrication techniques of a typical elliptical cavity. This paper describes preliminary LOM and HOM spectrum, engineering and fabrication processes of the twin axis cavity.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPLR037
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR032
+Surface Roughness Effect on the Performance of Nb3Sn Cavities
+ 
+
+
+MOPRC027
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+R.D. Porter, D.L. Hall, M. Liepe, J.T. Maniscalco
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+
+ 
+
+
+ 
+
+Funding: DOE award DE-SC0008431
+Surface roughness of current Niobium-3 Tin (Nb3Sn) superconducting radio-frequency (SRF) accelerator cavities can cause enhancement of the surface magnetic field. This enhancement can push the surface magnetic field beyond the critical field, which, if it occurs over a large enough area, can cause the cavity to quench. This paper presents simulations of the surface magnetic field enhancements in SRF cavities caused by the surface roughness of current Cornell Nb3Sn cavities, which have achieved record efficiency. Simple, smooth cavity geometry is defined and surface magnetic fields calculated using SLANS2. The cavity geometry is modified with a small rough region for which the geometry is determined from AFM scans of a Nb3Sn coated sample and the surface fields are calculated again. The calculated surface fields of the smooth and rough cavities are compared to determine the extent of the field enhancement, the area over which the enhancement is significant, and which surface features cause large field enhancement. We find that 1% of the surface analyzed has fields enhance by more than 45%. On average the Q-factor is increased by (3.8 ± 1.0) \%.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPRC027
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR033
+Optimizing Cavity Choice for FRIB Energy Upgrade Plan
+ 
+
+
+TUP106024
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+S. Shanab, K. Saito, Y. Yamazaki
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Isotope production yield rate is directly proportional to beam power, especially for heavy ions. Higher beam kinetic energy on target drives more isotope yield. FRIB has an energy upgrade plan up to ≥ 400 MeV/u for Uranium and already prepared a vacant space in the design stage and cryogenic capacity that accommodates for the energy upgrade plan[1]. This upgrade requires an optimized linac design and challenging technology for cavity performance improvement. In this paper, we will approach this issue concerning; maximizing final energy, optimum beta, cavity operating frequency, cryogenic power, fabrication and cost in order to develop a cavity that is suitable for the energy upgrade plan.
+
+ 
+
+
+
+
+
+
+Poster SPWR033 [1.344 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUP106024
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR034
+Novel Scheme to Tune RF Cavities Using Reflected Power
+ 
+
+
+THOP06
+  use link to access more material from this paper's primary paper code
+ 
+
+
+THPLR058
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+R. Leewe, K. Fong, Z. Shahriari
+                       TRIUMF, Vancouver, Canada
+M. Moallem
+                       SFU, Surrey, Canada
+
+ 
+
+
+ 
+
+Tuning of the natural resonance frequency of an RF cavity is essential for accelerator structures to achieve efficient beam acceleration and to reduce power requirements. Typically operational cavities are tuned using phase comparison techniques. The phase measurement is subject to temperature drifts and renders this technique labor and time intensive. To eliminate the phase measurement, reduce human oversight and speed up the start-up time for each cavity, this paper presents a control scheme that relies solely on the reflected power measurements. A sliding mode extremum seeking algorithm is used to minimize the reflected power. To avoid tuning motor abrasion, a variable gain minimizes motor movement around the optimum operating point. The system has been tested and is fully commissioned on two drift tube linear accelerator tanks in TRIUMF's ISAC I linear accelerator. Experimental results show that the resonance frequency can be tuned to its optimum operating point while the start-up time of a single cavity and the accompanied human oversight are significantly decreased.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THOP06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR035
+Comissioning Results for a Subharmonic Buncher at REA
+ 
+
+
+THPRC029
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+D.M. Alt, J.F. Brandon, S.W. Krause, A. Lapierre, D.G. Morris, S. Nash, N.R. Usher, A.C.C. Villari, S.J. Williams, S. Zhao
+                       FRIB, East Lansing, USA
+M.J. Syphers
+                       Northern Illinois University, DeKalb, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: NSF PHY-1102511
+The reaccelerator facility (ReA) at the National Superconducting Cyclotron Laboratory (NSCL) at Michigan State University (MSU) offers a unique capability to study reactions with low-energy beams of rare isotopes. A beam from the coupled cyclotron facility is stopped in a gas stopping system, charge bred in an Electron Beam Ion Trap (EBIT), and then reaccelerated in a compact superconducting LINAC. The original beam repetition rate at the ReA targets was the same as the LINAC RF frequency of 80.5 MHz. In order to add the capability to bunch at a lower frequency (desirable for many types of experiments using time of flight data acquisitions) a 16.1 MHz buncher has been designed, constructed, and commissioned. This paper reports the results of the commissioning of the device, and outlines some future avenues for further improvement of the properties of the bunched beam.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPRC029
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR036
+CIADS Normal Temperature Front-End Design
+ 
+
+
+MOPLR060
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+W.L. Chen, W.P. Dou, Y. He, H. Jia, S.H. Liu, Y.S. Qin, Z.J. Wang
+                       IMP/CAS, Lanzhou, People's Republic of China
+
+ 
+
+
+ 
+
+The design and construction with several tens of megawatts superconducting accelerator is the developing direction in the further. The superconducting section follows the RFQ and MEBT, which needs good enough beam quality. The normal temperature front ends are redesigned for China Initiative ADS. The LEBT transports a 35KeV, 10mA DC proton beam to the RFQ, after the RFQ acceleration the MEBT transports a 2.1MeV 10mA CW proton beam to the superconducting DTL. The "Point Source" is proposed in the beam scrape application during the LEBT section to get the ideal transverse beam parameters. To get the ideal longitudinal beam parameters, the new RFQ is designed with little emittance. Collimators are installed in the new MEBT to scrape the outer sphere beams which may turn to halo. Details of the beam dynamics simulations will be given.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPLR060
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR037
+Plasma Window as Charge Stripper Complement
+ 
+
+
+THPRC030
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+A. Lajoie
+                       NSCL, East Lansing, Michigan, USA
+A. Hershcovitch, P. Thieberger
+                       BNL, Upton, Long Island, New York, USA
+F. Marti
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Funding: NSF Cooperative Agreement, Award No. PHY-1102511
+Modern ion accelerators, particularly heavy ion accelerators, almost universally make use of charge stripping. A challenge facing facilities, as the demand for higher intensity beams rises, is a stripping media that's highly resistant to degradation, such as a recirculating He gas stripper. A method of keeping the He gas localized in a segment along the beamline by means of a Plasma Window (PW) positioned on both sides of the gas stripper has been proposed and the initial design set forth by Ady Hershcovitch. With a cascaded plasma arc being the interface between high pressure stripper and low pressure beamline, the goal is to minimize gas flowrate from the stripper to the beamline in order to maintain sufficient isolation of the He gas. We present the initial results from the test stand developed at Michigan State University and the planned experimental program that will follow.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THPRC030
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR038
+Simulation of Gas and Plasma Charge Strippers
+ 
+
+
+MOPLR051
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+O.S.H. Haas, O. Boine-Frankenheim
+                       TEMF, TU Darmstadt, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Funding: This work is supported by the BMBF as part of project 05P15RDRBA.
+Charge stripping of intense heavy ion beams is a major challenge in current and future linear heavy ion accelerators. Conventional stripping techniques are limited in their applicability, e.g. solid carbon foils suffer from short lifetimes at high intensities. One possible alternative is the use of a plasma as a stripping medium, which the presented work focuses on. The main goal of the studies is the prediction of the final charge state distribution of the ion beam. Rate equations were implemented numerically, taking into account different models for ionization, recombination and energy loss processes. First quantitative results are presented in form of an overview of the charge state distributions of different charge stripping media. For fixed projectile properties and target phase, it is observed that the mean charge state q0 decreases for increasing nuclear charge Z\text{T} of the target. Plasmas show significantly increased q0 for the same ZT. The width d of the charge state distributions is larger for higher Z\text{T}. The latter is caused by multiple loss of the projectile and decreases the maximum stripping efficiency by typically less than a factor of 2.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPLR051
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR039
+Intra Bunch Train Transverse Dynamics in the Superconducting Accelerators FLASH and European XFEL
+ 
+
+
+MOP106023
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+T. Hellert, W. Decking, M. Dohlus
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+At FLASH and the European XFEL accelerator superconducting 9-cell TESLA cavities accelerate long bunch trains at high gradients in pulsed operation. Several RF cavities with individual operating limits are supplied by one RF power source. Within the bunch train, the low-level-RF system is able to restrict the variation of the vector sum voltage and phase of one control line below 3·10-4 and 0.06 degree, respectively. However, individual cavities may have a significant spread of amplitudes and phases. Misaligned cavities in combination with variable RF parameters will cause significant intra-pulse orbit distortions, leading to an increase of the multi-bunch emittance. An efficient model including coupler kicks was developed to describe the effect at low beam energies. Comparison with start-to-end tracking and experimental data will be shown.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOP106023
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR040
+Study and Development of CW Room Temperature Rebuncher for SARAF Accelerator
+ 
+
+
+MOPLR050
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+B. Kaizer, Z. Horvitz, A. Perry, J. Rodnizki
+                       Soreq NRC, Yavne, Israel
+M. Di Giacomo, J.F. Leyge, M. Michel, P. Toussaint
+                       GANIL, Caen, France
+A. Friedman
+                       Ariel University, Ariel, Israel
+
+ 
+
+
+ 
+
+The SARAF 176 MHz accelerator is designed to provide CW proton/deuteron beams up to 5 mA current and 40 MeV accelerated ion energy. Phase I of SARAF (up to 4-5 MeV) has been installed, commissioned, and is available for experimental work. Phase II of SARAF is currently in the planning stage and will contain larger MEBT with three rebunchers and four cryomodules, each consisting of SC HWRs and solenoids. Phase II MEBT line is designed to follow a 1.3 MeV/u RFQ, is 4.5 m long, and contains three 176 MHz rebunchers providing a field integral of 105 kV. Different rebuncher configurations have been studied in order to minimize the RF losses and maximize the shunt impedance. Different apertures have also been tested with a required of 40 mm diameter by beam dynamics. The simulations were done using CST Microwave Studio. CEA leads the design for SARAF phase II linac including the MEBT rebunchers and has studied a mixed solid copper and Cu plated stainless steel, 3-gap cavity. SNRC is developing a 4-gap OFHC copper rebuncher as a risk reduction. Both designs are presented and discussed in the paper.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-MOPLR050
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR041
+Beam Instabilities in Electron Cyclotron Resonance Ion Sources
+ 
+
+
+TUPRC019
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+B.C. Isherwood
+                       MSU, East Lansing, Michigan, USA
+G. Machicoane, G. Pozdeyev
+                       NSCL, East Lansing, Michigan, USA
+G. Machicoane, G. Pozdeyev, Y. Yamazaki
+                       FRIB, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This research is funded by joint assistance from the NSF and D.O.E.
+Accelerator facilities for radioactive beams and low energy nuclear physics such as FRIB require intense, stable ion beam currents in order to achieve required reaction rates for rare and undiscovered isotopes. Presently, the only way to produce intense Continuous Wave beams of highly-charged, medium to heavy-mass ions is with Electron Cyclotron Resonance Ion Sources (ECRIS). The complex nature of these devices causes temporal instabilities to occur, most notably: Slow and fast instabilities. Slow instabilities and drifts, occurring over hours, decay the beam current intensity due to variations in ambient and hardware conditions. These drifts require beam operators to constantly monitor and tune ECRIS plasma parameters in order to maintain experimental beam requirements. Fast instabilities, in the form of ms oscillations, occur at operational parameters needed for high-intensity, high-charge state beams. These oscillations cause sudden drops in beam current of the order of 30%. We present here initial results of recent measurements to investigate these instabilities. Results for slow instabilities indicate a linear decay of beam intensity following a sharp current drop due to a brief source conditioning period. Results for fast instabilities show a relationship between the frequency and amplitude of beam oscillations and the electric potential of the plasma chamber bias disk.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC019
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR042
+Experimental Study of Nucleation for Nb3Sn Diffusion Coatings on Niobium SRF Cavities
+ 
+
+
+THOP01
+  use link to access more material from this paper's primary paper code
+ 
+
+
+THPRC002
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+U. Pudasaini, M.J. Kelley
+                       The College of William and Mary, Williamsburg, Virginia, USA
+G.V. Eremeev, M.J. Kelley, C.E. Reece
+                       JLab, Newport News, Virginia, USA
+
+ 
+
+
+ 
+
+Funding: Partially authored by Jefferson Science Associates under Contract No. DE-AC05-06OR23177. Work at William & Mary supported by Office of High Energy Physics under grant SC0014475
+Nb3Sn has the potential to achieve superior performance both in terms of operating temperature (4.2 K vs 2 K) and accelerating gradient resulting in significant reduction in both initial and operating costs of SRF linacs. Cavity interior surface coatings are obtained by two-step vapor diffusion: nucleation followed by deposition. To gain more understanding of nucleation and its effect on the subsequent coating, we investigated the effect of varying parameters in a typical tin/tin chloride process. We report findings obtained by SEM/EDS, AFM, SAM and other materials characterization approaches.
+
+ 
+
+
+
+
+
+
+Slides SPWR042 [2.784 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-THOP01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR043
+An Analysis of Fast Sputtering Studies for Ion Confinement Time
+ 
+
+
+TUPRC032
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+D.E. Neben, G. Machicoane, A.N. Pham, J.W. Stetson
+                       NSCL, East Lansing, Michigan, USA
+G. Machicoane
+                       FRIB, East Lansing, USA
+G. Parsey
+                       MSU, East Lansing, Michigan, USA
+J.P. Verboncoeur
+                       Michigan State University, East Lansing, Michigan, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by Michigan State University and the National Science Foundation: NSF Award Number PHY-1415462
+Existing heavy ion facilities such as the National Superconducting Cyclotron Laboratory at Michigan State University rely on Electron Cyclotron Resonance (ECR) ion sources as injectors of highly charged ion beams. Long ion confinement times are necessary to produce dense populations of highly charged ions because of steadily decreasing ionization cross sections with increasing charge state. To further understand ion extraction and confinement we are using a fast sputtering technique first developed at Argonne National Laboratory (ANL) [1] to introduce a small amount of uranium metal into the plasma at a well-defined time. We present an analytical solution to the coupled ion density rate equations for using a piecewise constant neutral density to interpret the fast sputtering method.
+*R. Vondrasek et al., Rev. Sci. Instrum. 73, 548-551 (2002).
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC032
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+SPWR044
+Frequency Spectra From Solenoid Lattice Orbits
+ 
+
+
+TUPRC004
+  use link to access more material from this paper's primary paper code
+ 
+
+
+ 
+
+C.J. Richard
+                       NSCL, East Lansing, Michigan, USA
+S.M. Lidia
+                       FRIB, East Lansing, USA
+
+ 
+
+
+ 
+
+Multi-charge state heavy ion beams have been proposed to increase average beam intensity in rare isotope drive linacs. However, the dynamics of multi-charge state beams make it challenging to optimize the beam quality in low energy linacs. One of the primary complications is that the multiple charge states introduce different focusing effects in the beam dynamics. This leads to a large frequency spectrum in the transverse motion of the beam centroid. Matlab simulations are used to describe how the frequency spectrum of the centroid transforms when the reference charge state is changed in accelerating, space charge free solenoid lattices. These frequency shifts can then be used to predict the behavior of beam of known composition using the frequency spectrum of BPM signals.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-LINAC2016-TUPRC004
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

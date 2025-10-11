@@ -1,0 +1,100 @@
+{
+  "session_info": {
+    "id": "FRWAUD",
+    "name": "FRWAUD - Stochastic Cooling II",
+    "url": "https://proceedings.jacow.org/cool2015/html/frwaud.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "FRWAUD01",
+      "title": "Stochastic Cooling Experiments at Nuclotron and Application to NICA Collider",
+      "authors": [
+        "N. Shurkhno",
+        "A.O. Sidorin",
+        "G.V. Trubnikov",
+        "JINR",
+        "Dubna",
+        "Moscow Region",
+        "Russia",
+        "GSI",
+        "Darmstadt",
+        "Germany",
+        "FZJ",
+        "Jülich",
+        "Germany",
+        "Stochastic cooling is obligatory for the NICA accelerator facility that is presently under development at JINR",
+        "Russia. Cooling will work with the high-intensity bunched beams in the 3-4.5 GeV energy range; all three dimensions will be treated simultaneously. The preparatory experimental work on stochastic cooling is carried out at accelerator Nuclotron (JINR) since 2010. During this work hardware solutions and automation techniques for system adjustment have been worked out and tested. Based on the gained experience the overall design of the NICA stochastic cooling system was also developed. The report describes the results of cooling experiments at Nuclotron",
+        "the developed adjustment automation techniques and presents the design of the NICA stochastic cooling system."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/cool2015/talks/frwaud01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cool2015/papers/frwaud01.pdf",
+      "poster_url": "https://proceedings.jacow.org/cool2015/posters/frwaud01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-COOL2015-FRWAUD01",
+      "page_number": "165",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRWAUD02",
+      "title": "Fokker-Planck Approach to the Description of Transverse Stochastic Cooling",
+      "authors": [
+        "GSI",
+        "Darmstadt",
+        "Germany",
+        "A Fokker-Planck model of transverse stochastic cooling (without feedback through the beam) is presented",
+        "which relies on moderately simplified assumptions about the underlying cooling system. The equilibrium emittance distribution turns out to be always exponential. Furthermore",
+        "if the initial distribution is already exponential",
+        "then the solution of the fully time-dependent Fokker-Planck equation remains exponential. The average emittance decays with a rate towards equilibrium",
+        "which is completely consistent with the classical van der Meer rate",
+        "including undesired mixing",
+        "desired mixing and thermal noise."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/cool2015/talks/frwaud02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cool2015/papers/frwaud02.pdf",
+      "poster_url": "https://proceedings.jacow.org/cool2015/posters/frwaud02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-COOL2015-FRWAUD02",
+      "page_number": "170",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "FRWAUD03",
+      "title": "Design of the Palmer Pickup for Stochastic Pre-Cooling of Hot Rare Isotopes at the CR",
+      "authors": [
+        "D. Barker",
+        "C. Dimopoulou",
+        "C. Peschke",
+        "GSI",
+        "Darmstadt",
+        "Germany",
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "We report on the design of a Faltin type pickup for the stochastic pre-cooling of rare isotope beams at 740 MeV/u",
+        "using a bandwidth of 1-2 GHz",
+        "for the Collector Ring (CR) in the FAIR project at GSI. The design difficulties inherent in Faltin rails at these frequencies are described. Measurements of prototypes and HFSS simulations are compared",
+        "to check the simulations",
+        "and show good agreement. The pickup impedance and signal output phase with respect to ions traveling at 0.83c are simulated and presented for the final design both with and without the use of damping material",
+        "showing the need to damp unwanted modes present in the beam chamber."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/cool2015/talks/frwaud03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/cool2015/papers/frwaud03.pdf",
+      "poster_url": "https://proceedings.jacow.org/cool2015/posters/frwaud03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-COOL2015-FRWAUD03",
+      "page_number": "175",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 17:21:24"
+}

@@ -1,0 +1,93 @@
+{
+  "session_info": {
+    "id": "TUOAB",
+    "name": "TUOAB - Contributed Oral Presentations, Beam Dynamics and Electromagnetic Fields",
+    "url": "https://proceedings.jacow.org/IPAC2014/html/tuoab.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUOAB01",
+      "title": "Computation of Eigenmodes in Long and Complex Accelerating Structures by Means of Concatenation Strategies",
+      "authors": [
+        "T. Flisgen",
+        "J. Heller",
+        "U. van Rienen",
+        "Rostock University",
+        "Faculty of Computer Science and Electrical Engineering",
+        "Rostock",
+        "Germany",
+        "The computation of eigenmodes for complex accelerating structures is a challenging and important task for the design and operation of particle accelerators. Discretizing long and complex structures to determine its eigenmodes leads to demanding computations typically performed on super computers. This contribution presents an application example of a method to compute eigenmodes and other parameters derived from these eigenmodes for long and complex structures using standard workstation computers. This is accomplished by the decomposition of the complex structure into several single segments. In a next step",
+        "the electromagnetic properties of the segments are described in terms of a compact state space model. Subsequently",
+        "the state space models of the single structures are concatenated to the full structure. The results of direct calculations are compared with results obtained by the concatenation scheme in terms of computational time and accuracy."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2014/talks/tuoab01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2014/papers/tuoab01.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2014/posters/tuoab01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2014-TUOAB01",
+      "page_number": "947",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOAB02",
+      "title": "Design Study of the SuperKEKB Interaction Region Optics",
+      "authors": [
+        "H. Sugimoto",
+        "H. Koiso",
+        "A. Morita",
+        "Y. Ohnishi",
+        "K. Oide",
+        "KEK",
+        "Ibaraki",
+        "Japan",
+        "SuperKEKB is an upgrade project of KEKB e+e− ring collider and is aimed to open up a new luminosity frontier. The target peak luminosity is 8x1035 cm-2 s-1. In order to achieve this target",
+        "a nano-beam scheme is adopted",
+        "in which colliding beams are squeezed to nano-scale sizes in the vertical direction at the interaction point (IP). The interaction region (IR) is an essential part of the SuperKEKB lattice design since the large chromaticity originated in the final focusing system (QCS) and strong lattice nonlinear forces make the particle motion unstable. An optics with detailed hardware specifications has been designed to optimize a performance of the beam dynamics. Design studies of IR taking into account a possible QCS imperfection are reported in this paper."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2014/talks/tuoab02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2014/papers/tuoab02.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2014/posters/tuoab02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2014-TUOAB02",
+      "page_number": "950",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUOAB03",
+      "title": "Nonlinear Optics for Suppression of Halo Formation in Space Charge Dominated Beams",
+      "authors": [
+        "Y.K. Batygin",
+        "A. Scheinker",
+        "LANL",
+        "Los Alamos",
+        "New Mexico",
+        "USA",
+        "IMP",
+        "Lanzhou",
+        "People's Republic of China",
+        "Traditional accelerator designs utilize linear focusing elements (quadrupoles",
+        "solenoids) to provide stable particle motion. High – intensity rms - matched non - uniform beams are intrinsically mismatched with linear focusing structure. It results in space charge induced beam emittance growth and halo formation",
+        "which can be suppressed in a quadrupole channel with higher-order multipole field components. In this paper",
+        "overview of FODO quadrupole channels with arbitrary multipoles is given. Effective averaged potential is presented for the structure with periodic combination of multipole lenses and quadrupoles. Density of matched beam avoiding emittance growth and halo formation is derived. Performed analysis allows matching of realistic beam with the internal structure of the focusing field. Beam dynamics studies with suppressed halo are presented and discussed."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IPAC2014/talks/tuoab03_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IPAC2014/papers/tuoab03.pdf",
+      "poster_url": "https://proceedings.jacow.org/IPAC2014/posters/tuoab03_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IPAC2014-TUOAB03",
+      "page_number": "953",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 20:40:29"
+}

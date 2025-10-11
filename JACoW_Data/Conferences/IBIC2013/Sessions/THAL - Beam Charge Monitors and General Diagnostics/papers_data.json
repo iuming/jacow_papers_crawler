@@ -1,0 +1,100 @@
+{
+  "session_info": {
+    "id": "THAL",
+    "name": "THAL - Beam Charge Monitors and General Diagnostics",
+    "url": "https://proceedings.jacow.org/IBIC2013/html/thal.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "THAL1",
+      "title": "Understanding the Tune Spectrum of High Intensity Beams",
+      "authors": [
+        "R. Singh",
+        "O. Chorniy",
+        "P. Forck",
+        "R. Haseitl",
+        "W. Kaufmann",
+        "P. Kowina",
+        "K. Lang",
+        "GSI",
+        "Darmstadt",
+        "Germany",
+        "TEMF",
+        "TU Darmstadt",
+        "Darmstadt",
+        "Germany",
+        "Tune spectra measurements are routinely performed in most synchrotrons. At high intensity and low energies (i.e. γ≈1)",
+        "space charge effects can significantly modify the tune spectra in comparison to the classical low intensity spectra. Systematic studies were performed at GSI SIS-18 to observe these characteristic modifications",
+        "mainly resulting from the shift of the head-tail modes in direct dependence of beam intensity and synchrotron tune frequency. In this contribution",
+        "an interpretation of the tune spectra modification based on quasi-analytical models and numerical simulations will be presented. Extraction of elusive beam parameters such as incoherent tune shift",
+        "machine impedances",
+        "chromaticity",
+        "etc. from the spectra will be demonstrated. Further",
+        "the applications and relevance of these results for other synchrotrons will be discussed."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/thal1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/thal1.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/thal1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-THAL1",
+      "page_number": "914",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THAL2",
+      "title": "A New Differential and Errant Beam Current Monitor for the SNS Accelerator",
+      "authors": [
+        "ORNL",
+        "Oak Ridge",
+        "Tennessee",
+        "USA",
+        "ORNL RAD",
+        "Oak Ridge",
+        "Tennessee",
+        "USA",
+        "A new Differential and errant Beam Current Monitor (DBCM) is being implemented for the Spallation Neutron Source's Medium Energy Beam Transport (MEBT) and Super Conducting linac (SCL) accelerator sections. This new current monitor will abort the beam when the difference between two toroidal pickups exceeds a threshold. The MEBT DBCM will protect the MEBT chopper target while the SCL DBCM will abort beam to minimize fast beam losses in the SCL cavities. The new DBCM will also record instances of errant beam such as beam drop-outs to assist in further optimization of the SNS Accelerator. A software Errant Beam Monitor was implemented on the regular BCM hardware to study errant beam pulses. The new system will take over this functionality and will also be able to abort beam on pulse to pulse variations. as it is based on the FlexRIO hardware programmed in LabVIEW FPGA and can abort beam in 5 us. This paper describes the development",
+        "implementation",
+        "and initial test results of the DBCM as well as errant beam examples."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/thal2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/thal2.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/thal2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-THAL2",
+      "page_number": "921",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "THAL3",
+      "title": "Charge Distribution Measurements at ALBA",
+      "authors": [
+        "L. Torino",
+        "U. Iriso",
+        "CELLS-ALBA Synchrotron",
+        "Cerdanyola del Vallès",
+        "Spain",
+        "Two different set-ups are used to perform quantitative measurements of the charge distribution at ALBA. The first consists in a real-time analysis of data coming from the Fast Current Transformer or from the buttons of a Beam Position Monitor installed in the Storage Ring. The second is performed at the diagnostic visible beamline Xanadu",
+        "using a Photomultiplier that measures the temporal distribution of synchrotron light. In both cases a quantitative estimation of the charge distribution is obtained after a dedicated data treatment and beam current measurements from the DCCT. We compare results with both methods",
+        "and discuss differences and limitations with respect to bunch purity measurements with the Time Correlated Single Photon Counting technique."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2013/talks/thal3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2013/papers/thal3.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2013/posters/thal3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2013-THAL3",
+      "page_number": "925",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-10 18:01:24"
+}

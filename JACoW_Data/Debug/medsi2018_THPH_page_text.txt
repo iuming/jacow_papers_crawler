@@ -1,0 +1,1909 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MEDSI2018 - Table of Session: THPH (Beamlines)
+
+
+THPH —  Beamlines   (28-Jun-18   16:40—18:00)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPH01
+SAXS/WAXS Complete in Vacuum Endstation Upgrade- Installation Expected Dec2018
+ 
+
+
+ 
+
+L.W.S. Adamson
+                       ASCo, Clayton, Victoria, Australia
+
+ 
+
+
+ 
+
+The SAXS/WAXS beamline at the Australian Synchrotron is carrying out a complete in house design endstation upgrade to incorporate 2 new in vacuum detectors, a Pilatus3-2M (SAXS) and a Pilatus-100K (WAXS). The new design will encase the new detector, detector stages and multiple beam stops (all in house design) in an 8m x 1.1m x 1.25m long rectangular, modular, aluminium vacuum chamber capable of achieving pressures of 10-4 - 10-5mbar. The 2M and beamstops can be driven the entire length of the chamber for fast change of focal length. The upstream end of the chamber has a 250mm gate valve onto which an in vacuum sample chamber (housing an IV hexapod and positioning stages) can be quickly connected and pumped down in minutes. This chamber can be automatically driven up and out the way and replaced with a flange to take nose cones with kapton windows for in air samples. The entire chamber is mounted on a jacking and air pad system giving the chamber 6 degrees of freedom. The system will dramatically improve signal to noise during data collection, maximise use of the detector area and increase beamline efficiency by reducing time to change focal length from 4hrs to seconds.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH02
+LCLS Pulse Selector, A Multifunction Shutter for the LCLS-I 120 Hz FEL
+336
+
+
+ 
+
+R. Armenta, E.A. Paiser
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The LCLS Pulse Selector was designed to pick specific pulses and reduce the repetition rate of the 120Hz LCLS pulse train in support of widely diverse, user defined experiments. It utilizes two rotating parallel plates to alternately transmit and block pulses in a single sweeping motion. A conventional stepper motor connected to the plates provides the rotation. The key to the system is its sophisticated timing scheme. Each sweep of the shutter is synchronized (with a precise delay) with the event codes normally generated with each pulse for data acquisition use. This shutter system has the capability of reducing the repetition rate of the LCLS x-ray to any frequency less than or equal to 60Hz in order to select a single pulse of LCLS x-ray beam at 120Hz. Since its installation, the pulse selector has been used in multiple experiments with great success providing independent pulse selection to individual beamlines at the same time.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH03
+The XBPM Project at MAX IV Frontends, Overview and First Results
+340
+
+
+ 
+
+A. Bartalesi
+                       MAX IV Laboratory, Lund University, Lund, Sweden
+
+ 
+
+
+ 
+
+All the frontends installed on the 3GeV storage ring at MAX IV are equipped with two X-Ray Beam Position Monitors. Having recently finished the installation of the acquisition system, it was possible to record and analyse data. This presentation describes the setup and shows the first results.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH04
+Fast X-Ray Beam Intensity Stabilization for Absorption Spectroscopy and Spectromicroscopic Imaging
+343
+
+
+ 
+
+M. Birri, D. Ferreira Sanchez, D. Grolimund, B. Meyer, V.A. Samson
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The characteristics of synchrotron sources and beamline optics commonly result in systematic and random variations of the delivered photon flux. In X-ray absorption based measurements, for example, monochromator glitches [1] or the energy dependent gap size of small gap in-vacuum undulators [2] are intrinsic sources for changes in the intensity of the incoming photon flux (I0), however many types of x-ray experiments would benefit from a constant I0. Monochromator Stabilization (MOSTAB) is a common solution for most synchrotron beamlines with double crystal monochromators. This approach is based on the relative alignment of the two monochromator crystals (dynamic detuning) to stabilize beam intensity or position. Obviously, any change in angular alignment of the monochromator crystals will also induce deviations in the beam trajectory and photon energy distribution. At the microXAS undulator beamline of the SLS, we have implemented a system to achieve a constant I0. Two wedge-shaped absorbers produce a spatially uniform attenuation preserving the beam shape without introducing changes in its trajectory. Hardware, control loop and system performance will be presented.
+[1] F.Bridges, Nuclear Instruments and Methods in Physics Research A257 (1987) 447-450.  [2] H.Kitamura, J.Synchrotron Rad. 7 (2000), 121-130. 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH04
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH05
+An Improved Polarisation Analyser for the I16 Beamline at Diamond
+346
+
+
+ 
+
+M.H. Burt, S.P. Collins, S. Green, I. Horswell, J. Li, G. Nisbet, R. Pocock, J. Spiers, K.G. Wilkinson
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+The project to upgrade the I16 polarisation analyser was necessary to increase its functionality and to introduce a more robust construction. The requirement that the analyser was to be mounted on a diffractometer meant the construction needed to be as lightweight and as compact as possible. This provided opportunities to explore new collaborative ways of working with both in-house and external suppliers. The paper describes the approach taken to develop lightweight aluminium vacuum chambers working with a company specialising in additive layer manufacturing. In addition, the design of lightweight and compact slit assemblies are detailed; these were developed in collaboration with a supplier of driven linear stages. A novel requirement for the analyser is to have a detector mounted on a rotation axis in vacuum. The results of working with the in-house detector group to develop a design to with all the necessary thermal and electrical connections are described. The paper also describes further use of additive layer manufacturing to produce prototypes that allows the design of a cable management system to be optimised where previously using 3d CAD models had proved unsatisfactory.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH05
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH06
+TMO - a New Soft X-Ray Beamline at LCLS II
+349
+
+
+ 
+
+J.C. Castagna, L. Amores, M. R. Holmes, J.H. James, T.O. Osipov, P. Walter
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+LCLS is building 4 new soft X-ray beamlines with the LCLS-II upgrade. The TMO (Time resolved Molecular Optical science) beamline aka NEH 1.1 will support many ex-perimental techniques not currently available at LCLS. The beamline hinges around 2 main end stations, LAMP a multi configurable end station and DREAM, dedicated to COLTRIM type of experimentation. Both the existing LAMP as well as the newly built DREAM end-station will be configured to take full advantage of both the high per pulse energy from the copper accelerator (120 Hz) as well as high average intensity and high repetition rate (up to 100 kHz) from the superconducting accelera-tor. Each end station will have its own focusing optic systems (KB Mirrors) which can focus the beam down to 300 nm, and have laser pump probe experiments capability. Very demanding requirements for IR and X-ray overlap as well as beam stability, make the TMO beamline a major engineering challenge. The main components of the beamline (KB optics, DREAM end stations and diagnostics components) are built on granite stands. The building struc-ture is being reviewed for thermal stability. First light on TMO is expected in February 2020
+
+ 
+
+
+
+
+
+
+Poster THPH06 [0.624 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH06
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH07
+Nanosurveyor 2: A Compact Instrument for Nano-Ptychography at the Advanced Light Source
+352
+
+
+ 
+
+R.S. Celestre, K. Nowrouzi, H.A. Padmore, D.A. Shapiro
+                       LBNL, Berkeley, California, USA
+K. Nowrouzi
+                       UCB, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This research used resources of the Advanced Light Source, which is a DOE Office of Science User Facility under contract no. DE-AC02-05CH11231.
+The Advanced Light Source has developed a compact tomographic microscope based on soft x-ray ptychography for the study of meso and nanoscale materials [1,2]. The microscope utilizes the sample manipulator mechanism from a commercial TEM coupled with laser interferometric feedback for zone plate positioning and a fast frame rate charge-coupled device detector for soft x-ray diffraction measurements. The microscope has achieved scan rates of greater than 50 Hz, including motor move, data readout and x-ray exposure, with a positioning accuracy of better than 2 nm RMS and has achieved spatial resolution of better than 5 nm. The instrument enables the use of commercially available sample holders compatible with FEI TEMs. This allows in-situ measurement of samples using both soft x-rays and electrons. This instrument is a refinement of a currently commissioned instrument called The Nanosurveyor, which has demonstrated resolution of better than 20nm in both two and three dimensions using 750 eV x-rays. [3] The instrument has been installed on the new COSMIC beamline at the ALS. It will enable spectromicroscopy and tomography of materials with wavelength limited spatial resolution.
+[1] P. Thibault, et al, Science, 321, 379 (2008)  [2] P. Denes, et al, Rev. Sci. Inst., 80, 083302 (2009)  [3] D. Shapiro, et al, Nature Photonics volume 8, pages 765-769 (2014) 
+
+ 
+
+
+
+
+
+
+Poster THPH07 [1.422 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH07
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH08
+Develop Standard Components for TPS Beamline
+ 
+
+
+ 
+
+C.Y. Chang, C.F. Chang, C.H. Chang, S.H. Chang, H.W. Chen, C.C. Chiu, L. Huang, L. Lee, M.H. Lee, C.Y.L. Liu, H.Y. Yan
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+The beamline group is actively doing two new projects. One project is developing of standardization and modularization beamline components for the Taiwan Photon Source (TPS) and Taiwan Light Source (TLS) beamlines. The components including the high heat load masks, white/mono beam slits, phosphor screens type beam monitor system, beam shutters, common chambers, and support tables/stands, are selected as the standards so far. Many advanced concepts and materials are applied for the developing components to improve their stability and reliability. The other project is planning to design a monitor and control system for the beamline components. Some EPICS compatible instruments are being partially tested and will be applied to the new beamlines at TPS.[1-3] The log of beamline status for all beamlines will be recorded and stored in an archive. The purpose of these projects will save not only the cost but also the manpower on construction for several beamlines in time.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH09
+Design of Indirect X-Ray Detectors for Tomography on the Anatomix Beamline
+355
+
+
+ 
+
+D.K. Desjardins, A.C. Carcy, J.L. Giorgetta, C. Menneglier, M. Scheel, T. Weitkamp
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+ANATOMIX* is a long beamline for full-field tomography techniques at the French synchrotron SOLEIL [1]. It will operate in the energy range from 5 to 30 keV, and feature several operation modes via versatile optics configurations, including direct white beam propagation. Two methodologically different experimental stations will be used: parallel-beam X-ray shadowgraphy, for spatial resolution down to the sub-micron range, and full-field transmission X-ray microscopy down to a spatial resolution of less than 100 nm. To cover this large panel of experimental possibilities, the Detector Group, the Mechanical Engineering Group and beamline team have designed four dedicated indirect X-ray detector. For pixels in the sub-micron size range : a micro-tomography revolver camera for versatility, a high-efficiency camera for flux-limited experiments, and a high-resolution camera for the largest optical magnifications will be available. For experiments with a large X-ray beam and pixel sizes from several microns upward, a "large-field" camera completes the set. We describe these different assemblies with the detailed components and expected specification of each solution.
+* Beamline largely funded by the French National Research Agency through the EQUIPEX investment program, NanoimagesX. [1] T Weitkamp et al 2017 J. Phys.: Conf. Ser. 849 012037
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH09
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH10
+High Resolution Monochromator for the IXS Experiment at Petra III Beamline P01
+ 
+
+
+ 
+
+F.U. Dill
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+Since April 2017, beamline P01 at Petra III DESY is providing monochromatic X-Rays at energies down to 2.5keV. An in-house developed High Resolution Monochromator (HRM) for High Vacuum (5x10-7mbar) was assembled and installed in early summer 2017. As a core component a high precision goniometer was designed. A piezo actuator provides the required angular range of 40°. The angular resolution is specified with 0.5microrad and is controlled by an encoder. Three goniometers can be moved independently along the three linear directions. The linear movements are assembled by low cost linear guide components and driven by toothed wheels and toothed bars or by spindles directly attached to the motor shaft. First beamtimes in 2017 with channel cut Si (111) crystals showed promising results - HRM providing x-rays with a bandwidth of 100meV (at 2.840keV). The resolution of the goniometers is better than 0,1microrad with a stability of ±50nanorad. In spring 2018 a four-bounce setup with additional standard piezo manipulators was designed to reach a bandwidth between of 50meV. After installation and first measurements in May 2018 a total energy resolution of 100meV was achieved.
+
+ 
+
+
+
+
+
+
+Poster THPH10 [2.916 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH11
+LCLS-II FEL Photon Collimators Design
+358
+
+
+ 
+
+S. Forcat Oller, Y. Feng, J. Krzywiński, E. Ortiz, M. Rowen, H. Wang
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+The unique capabilities of LCLS, the world's first hard X-ray FEL, have had significant impact on advancing our understanding across a broad range of science. LCLS-II, a major upgrade of LCLS, is being developed as a high-repetition rate X-ray laser with two simultaneously operating FELs. It features a 4 GeV continuous wave superconducting Linac capable of producing ultrafast X-ray laser pulses at a repetition rate up to 1 MHz and energy range from 0.25 to 5 keV. The LCLS-II upgrade is an enormous engineering challenge not only on the accelerator side but also for safety, machine protection devices and diagnostic units. A major part of the beam containment is covered by the FEL beam collimators. The current collimator design is no longer suitable for the high power densities of the upcoming LCLS-II beam. Therefore, a complete new design has been conceived to satisfy this new constrains. Moreover, a special FEL miss-steering detection system based on a photo diodes array has been designed as an integral part of the photon collimator as additional safety feature. This poster describes the new LCLS-II FEL Collimators, their mechanical design and challenges encountered.
+
+ 
+
+
+
+
+
+
+Poster THPH11 [1.164 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH11
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH12
+Granite Benches for Sirius X-ray Optical Systems
+361
+
+
+ 
+
+R.R. Geraldes, C.S.N.C. Bueno, G.V. Claudiano, V.Z. Ferreira, M. Saveri Silva, A. Sikorski, M.S. Souza
+                       LNLS, Campinas, Brazil
+
+ 
+
+
+ 
+
+Funding: Ministry of Science, Technology, Innovation and Communication (MCTIC)
+The first set of Sirius beamlines is expected to start operating in early 2019 and over the last few years many optical systems for the X-ray beamlines have been developed in-house at the Brazilian Synchrotron Light Laboratory (LNLS). Starting with the High-Dynamic Double Crystal Monochromator (HD-DCM), passing by the Double Channel-Cut Monochromator (4CM) and continuing with new standard mirror sys-tems, a series of granite benches, based on high-resolution levellers, and a combination of embedded and commercial air-bearings, has been designed for high mechanical and thermal stability. Specifications, designs, and partial results are presented, showing the progressive increase in complexity according to a deterministic design approach.
+
+ 
+
+
+
+
+
+
+Poster THPH12 [3.907 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH12
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH13
+Development of Instrumentation for X-ray Spectroscopy at the PETRAIII-Beamline P64 at DESY, Hamburg
+ 
+
+
+ 
+
+M. Goerlitz
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+<p>The beamline P64 is located in the north of the PETRA III storage ring. It is dedicated to X-ray absorption spectroscopy experiments with high flux and high photon energy. Regular user operation started on May 5, 2017. Experiments cover wide ranges of research like: solid state physics, catalysis, bio-chemistry, environmental sciences etc.<p>The poster-presentation will concentrate on the two main projects in 2017:- von-Hamos Spectrometer for X-Ray Fluorescence Spectroscopy- Liquid Sample Cell<p>In 2017, a new von-Hamos-type X-ray emission spectrometer was constructed and installed at the beamline P64. It is dedicated to work in a 90° geometry for pure fluorescence mode. It comprises, inter alia, a fine-tunable array of cylindrical Bragg crystals, a rail-positioning system for fast detector-alignment and two CMOS-based X-Ray area detectors (LAMBDA-detector).<p>Another development is the construction of a liquid flow cell, which can be used for fluorescence and for absorption spectroscopy. It is used for experiments (as an alternative to the liquid jet), where only small amounts of liquid samples are available or where liquids should be protected from oxygen atmosphere.
+
+ 
+
+
+
+
+
+
+Poster THPH13 [0.820 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH14
+Beam Conditioning Optics at the ALBA NCD-SWEET Beamline
+365
+
+
+ 
+
+N. Gonzalez, C. Colldelram, S. Ferrer, A. Fontserè Recuenco, J.B. González Fernández, G. Jover-Mañas, C. Kamma-Lorger, J. Ladrera Fernández, M.L. Llonch, M. Malfois, J.C. Martínez Guil, I. Sics
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+The SAXS/WAXS Experimental End Station beamline (NCD-SWEET) at ALBA Synchrotron has undergone a major upgrade in the optics and the end station to perform state-of-the-art SAXS/WAXS experiments. In order to reduce X-ray parasitic scattering with air and maximize the photon flux at the sample, an optimized beam conditioning optics has been designed and built in the end station, integrating previously used and new components in vacuum. The beam conditioning optics includes a fast shutter, a set of commercial guard slits and a diagnostic unit com-prising three filters and a four-quadrant transmissive photodiode. In addition, a set of refractive beryllium lenses allowsμfocusing of the beam. The lens system can be removed from the beam path remotely. Finally, an on axis sample viewing system, with a novel design based on an in-vacuum camera mirror and a mica window minimizes the beam path in air up to the sample. To facilitate the alignment of the elements with respect to the beam, all the subsystems are supported by a high-stability granite table with 4 degrees of freedom and sub-micron resolution.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH14
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH15
+A New High Precision, Fully Motorized 6-DoF Sample Stage for the ALBA PEEM Endstation
+368
+
+
+ 
+
+N. Gonzalez, L. Aballe, A. Carballedopresenter, C. Colldelram, M. Foerster
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+A new 6-DOF sample manipulator has been designed for the ALBA Synchrotron PhotoEmission Electron Microscopy (PEEM) experimental station, based on a commercial Elmitec LEEM 3. The new design includes full motorization of all 6 axes with position feedback, no backlash, and maximized stability, crucial to achieve the best spatial resolution of down to 8 nm (in so-called LEEM mode). The in-plane longitudinal and transversal motions with sub-micron resolution are based on high precision linear guides, while the pitch and roll stages (sample tilt), guided by angular guides, are actuated by a double-flexure system, which enhances the overall rigidity of the system. The vertical stage is composed by a high rigidity recirculating roller screw and cross roller guides. Finally, 360° yaw rotation is supplied by a differentially pumped commercial rotary stage. On top of the stage, the sample support is mounted on a customized DN63CF flange. This support keeps the original functionalities of the sample manipulator and holders, with 6 independent electrical contacts, and the possibility to heat the sample up to 2000 K and cool it to 100 K with an improved liquid nitrogen cooling system.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH15
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH16
+Compact Mirror Bender With Sub-Nanometer Adaptive Correction Control
+371
+
+
+ 
+
+N. Gonzalez, C. Colldelram, J.B. González Fernández, J. Juanhuix, J. Nicolás, C. Ruget
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+Funding: This work is partially funded by MINECO under contract FIS2015-66328-C3-2-R and by ERDF funds.
+We present a compact mirror bender with dynamic surface correction. The system is the evolution of an in-house development and will be the default focusing system for the new ALBA beamlines. The bender is now more compact and can introduce stronger curvatures, as required for microfocus applications. It allows for in-situ correction of the mirror surface, with resolution and stability below one nanometer. The bender can compensate parasitic deformations caused by thermal bumps, changes of focus, or stresses appeared during installation or bakeout. The system includes two torque actuators at the ends of the mirror as well as a number of correctors along the mirror length, capable of introducing high order surface corrections. The bending curvature is actively stabilized, by a feedback loop that controls the applied force, to the equivalent of 0.25 nm rms in a 500 mm long mirror. The figure correctors provide up to 20N push-pull force with resolution below .001 N. They combine elastic and magnetic forces to improve their stability.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH16
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH17
+NCD-SWEET Beamline Upgrade
+374
+
+
+ 
+
+J.B. González Fernández, C. Colldelram, S. Ferrer, A. Fontserè Recuenco, A.A. Gevorgyan, N. Gonzalez, G. Jover-Mañas, C. Kamma-Lorger, M.L. Llonch, M. Malfois, J.C. Martínez Guil, Y. Nikitin, G. Peña, L. Ribó, I. Sics, E. Solano, J. Villanueva
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+The SAXS/WAXS Experimental End sTation (NCD-SWEET) at ALBA Synchrotron has undergone major improvements in three main areas, beam performance, SAXS detector data quality and beamline operability, in order to perform state-of-the-art SAXS/WAXS experi-ments. A new channel-cut monochromator system has improved the beam quality and stability, with current vibration amplitudes under 1% of the beam size. Two sets of refractive beryllium lenses have been installed for focussing the beam. One of the sets allows to microfocus the beam size. Besides this, the former SAXS CCD detector has been replaced by a single-photon counting pixel detector, a Piltatus3 S 1M. In the end station, a full re-design of the mechanical elements with sub-micron resolution movements together with the installation of new equipment has been completed, resulting in an improved beamline configuration, and a faster and safer rearrangement of the flight tube length. New upgraded configuration also allows for GISAXS experiments. Finally, other auxiliary improvements have been done in areas like radiation protection, air conditioning, health and safety, cable management, electronics and control.
+
+ 
+
+
+
+
+
+
+Poster THPH17 [5.848 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH17
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH18
+A Multi-sample Holder for the MSPD Beamline at ALBA
+377
+
+
+ 
+
+J.B. González Fernández, F. Farré París, F. Fauth, P. Pedreira, D. Roldán, X. Serra Gallifa
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+At the high resolution powder diffraction end station of the Materials Science and Powder Diffraction (MSPD) beamline at ALBA Synchrotron, several samples are measured on a daily basis. Thus, an automatic sample exchanger is a great asset to the beamline, permitting a more efficient use of beam time. Even if a robot arm is the more suitable option for a sample exchanger device, in terms of cost, compactness and versatility MSPD needs another approach. ALBA engineering division has developed a multi-sample holder that allows the loading of up to eight samples and exchanging between them with a resolution of less than a micron. This new design consists of a customized and motorized linear stage that has been designed to fit into the present three-circles diffractometer, on top of the positioning stages, avoiding any possible collision with the Eulerian cradle. In addition, this new holder permits the use of different types of samples like capillaries in fast spinners, coin cell batteries and electrochemical cells. Finally, the system is compatible with the usual sample conditioning equipment on the end station such as the hot blower, cryostream, beamstop, chiller, etc.
+
+ 
+
+
+
+
+
+
+Poster THPH18 [3.052 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH18
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH19
+Engineering Design of the XPD & PDF Beamline Sample Environment for Safe Experimental Use of Hazardous Gases
+379
+
+
+ 
+
+E. Haas, M. Abeykoon, S. Buda, E.D. Dooryhee, S. Ghose, C. Stelmach, J.T. Trunk
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: U.S. Department of Energy
+The X-ray Powder Diffraction (XPD) and Pair Distribution Function (PDF) beamlines located at the 28-ID beam port at NSLS-II require a means for safely supplying, containing, and exhausting hazardous gases to and from experimental samples. These beamlines plan to use a wide range of flammable, toxic, and reactive gases for in-situ studies of catalytic and chemical reactions. Since many of the gases are hazardous, a low-cost, robust means is needed to safely supply gases to samples, position the samples quickly, accurately, and remotely, collect scattered X-rays over a wide-angle without distortion, and exhaust the gases safely. Ideally, the sample environment should also allow rapid sample set-up and change-out. The PDF/XPD system includes a sample holder, internal beam stop, sample chamber, and stages that provide eight degrees of freedom. A specially-designed window is also included for maximum X-ray transmission at minimum cost. Sensors, flow metering devices, and circuitry are included to provide proper purging, control hazardous and dilution gas flows, and integrate all of the safeguards needed to assure safe operation.
+Note to MEDSI reviewers: "Contributed Oral" presentation is indicated above, however a poster presentation can be generated by contacting the author via email at haas@bnl.gov if this is preferred.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH19
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH20
+Polarization Measurements at the THz Beamline of the MLS
+ 
+
+
+ 
+
+A. Hoehl, B. Kaestner
+                       PTB, Berlin, Germany
+
+ 
+
+
+ 
+
+The low-energy electron storage ring Metrology Light Source (MLS) is in user operation since April 2008 at operating energies ranging from 105 MeV up to 630 MeV. In addition to the broadband incoherent synchrotron radiation (SR) emission it provides coherent synchrotron radiation (CSR) when it is operated in a low alpha mode with shortened electron bunches. At the MLS a special bending magnet beamline optimized for the FIR/ THz spectral range is operational. We report about the integration of a custom made wiregrid based polarizer into the THz beamline and basic measurements of the polarization characteristics at the main experimental stations with respect to the SR, CSR and thermal background contributions.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH21
+DREAM - A New Soft X-ray (Dynamic REAction Microscopy) COLTRIMS Endstation at LCLS-II
+382
+
+
+ 
+
+M. R. Holmes, L. Amores, J.C. Castagna, J.H. James, T. Osipov, P. Walter
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+SLAC is building new soft X-ray beamlines to take advantage of the LCLS-II upgrade to 1 MHz. One of the new beamlines is called TMO (Time resolved Molecular Optical science) also known as NEH 1.1. It will be a soft X-ray beamline featuring a sub-micron X-ray focus at its second, most downstream interaction region where the DREAM COLTRIMS (COld Target Recoil Ion Momentum Spectroscopy) endstation will be situated. DREAM will feature; large magnetic coils to provide a strong uniform magnetic field through the spectrometer, rigid in-vacuum laser in- & out-coupling optics decoupled from the chamber support stand for pump-probe experiments, a multi-stage differentially pumped gas jet with catcher, insertable diagnostics, a long-distance microscope, scatter slits, a steerable gas jet, jet slits, and an adjustable stand to bias the spectrometer off-center from the interaction region. In order to achieve a spot overlap spec of 0.5 um; the KB mirrors, laser optics, & beam position diagnostics all sit on a common granite support structure to minimize mechanical vibrations and thermal drifts. An in-vacuum UHV hexapod will be utilized for fine positioning of the laser in-coupling optic.
+
+ 
+
+
+
+
+
+
+Poster THPH21 [1.947 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH21
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH23
+Interlock System for a Magnetic-Bearing Pulse Selector
+385
+
+
+ 
+
+H. Ishii, J. Adachi, T. Kosuge, H. Tanaka
+                       KEK, Ibaraki, Japan
+
+ 
+
+
+ 
+
+A hybrid operation mode that enables beam time sharing between single-bunch users and multi-bunch users has been introduced in the PF 2.5GeV ring of KEK (High Energy Accelerator Research Organization). A pulse selector, a kind of optical chopper, is used to permit the passage only of an X-ray pulse that comes from a single bunch part of the hybrid filling pattern. We have developed a new pulse selector with a magnetic bearing. It comprises a rotating dish-shaped disk, a phase-lock-loop (PLL) controlled motor system, and other parts . The speed and phase of the rotating disk is controlled by TTL signals obtained by dividing the RF signal of the PF 2.5 GeV ring. A commercially available motor driver was designed for lower loading. The rotating disk for the pulse selector is heavier than those disks used previously in which air bearings are used. A rapid deceleration of the rotation causes problems through a large current flow back to the motor driver. In this study, we describe the prototype of a programmable logic controller based on an interlock system to avoid the current flow back problem in the pulse selector.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH23
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH24
+Front End Designs for the Advanced Photon Source Multi-bend Achromats Upgrade
+388
+
+
+ 
+
+Y. Jaski, M. Abliz, J.S. Downey, S.H. Lee, J. Mulvey, S.M. Oprondek, M. Ramanathan, F. Westferro, B.X. Yang
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357
+The Advanced Photon Source (APS) upgrade from double-bend achromats (DBA) to multi-bend achromats (MBA) lattice is underway. This upgrade will change the storage ring energy from 7 GeV to 6 GeV and beam current from 100 mA to 200 mA. All front ends must be upgraded to fulfill the following requirements: 1) Include a clearing magnet in all front ends to deflect and dump any electrons in case the electrons escape from the storage ring during swap-out injection with the safety shutters open, 2) Incorporate the next generation x-ray beam position monitors (XBPMs) into the front ends to meet the new stringent beam stability requirements, 3) For insertion device (ID) front ends, handle the high heat load from two undulators in either inline or canted configuration. The upgraded APS ID front ends will only have two types: High Heat Load Front End (HHLFE) for single beam and Canted Undulator Front End (CUFE) for canted beam. This paper presents the final design of the HHLFE and preliminary design of the CUFE.
+
+ 
+
+
+
+
+
+
+Poster THPH24 [1.279 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH24
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH25
+The MLS-IDB:  A Versatile Beamline for UV to Soft X-Ray Surface Analytics
+ 
+
+
+ 
+
+H.K. Kaser, A. Gottwald, M. Kolbe
+                       PTB, Berlin, Germany
+
+ 
+
+
+ 
+
+The PTB operates its own electron storage ring MLS [1] in Berlin. Utilizing the radiation from a U125 undulator, an IDB delivers high flux with high spectral purity from 4.4 nm to 800 nm. The undulator radiation is monochromatized by a normal incidence-grazing incidence (NI-GI) hybrid plane grating monochromator. Different coatings are used to cover the whole wavelength range. The beamline is optimized to suppress false light contributions and to allow a high reliability of the monitoring of the radiation intensity. Thus, it can provide quantitative photon num-bers for traceable measurements. Currently, MLS-IDB is mainly used for investigations of interfaces and nanostructures by various experimental techniques, such as photoelectron spectroscopy [2,3,4] as well as spectroscopic ellipsometry [5]. The investigations of the relation between the optical properties and the inner structure of selected samples provide further information about promising materials in the semiconductor as well as photovoltaic research and manufacturing. Furthermore, a sample preparation chamber with modular design has been recently put into operation.
+[1] DOI:10.1088/0026-1394/49/2/S146  [2] DOI:10.1016/j.elspec.2017.05.008  [3] DOI:10.1038/ncomms9287  [4] DOI:10.1088/0957-4484/27/32/324005  [5] DOI:10.1063/1.4878919  
+
+ 
+
+
+
+
+
+
+Poster THPH25 [3.940 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH26
+Mechanical Conversion of a Vertically Reflecting Artificial Channel-cut Monochromator to Horizontally Reflecting
+391
+
+
+ 
+
+S.P. Kearney, E.M. Dufresne, S. Narayanan, A. Sandy, D. Shu
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DE-AC02-06CH11357.
+The mechanical conversion of a high-resolution artificial channel-cut monochromator (ACCM) from a vertically reflecting orientation to a horizontally reflecting orientation is presented. The ACCM was originally commissioned for the 8-ID-I beamline at the Advanced Photon Source (APS), Argonne National Laboratory [1, 2]. The ACCM was intentionally designed at commission to have the potential to be reoriented to the horizontal direction. After nearly a decade of operation in the vertical orientation the ACCM was rotated to the horizontal orientation. The details of the design which allowed this conversion and the preparation steps needed to assure the continued performance of the ACCM will be discussed.
+* Narayanan, S., et al., J. Synchrotron Radiat. 15(1), 12-18 (2008).  ** U.S. Patent granted No. 6,607, 840, D. Shu, T. S. Toellner, and E. E. Alp, 2003. 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH26
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH27
+Mechanical Design of a Compact Non-invasive Wavefront Sensor for Hard X-rays
+394
+
+
+ 
+
+S.P. Kearney, L. Assoufid, W.C. Grizolli, T. Kolodziej, K. Lang, A. Macrander, X. Shi, D. Shu, Yu. Shvyd'ko, W. Wojcik
+                       ANL, Argonne, Illinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy, Office of Science, under Contract No. DEAC02-06CH11357.
+Abstract This work describes mechanical design of a prototype compact wavefront sensor for in situ measurement and monitoring of beam wavefront of hard x-ray beamlines [1]. The system is based on a single-shot grating interferometer [2, 3] and a thin diamond single-crystal beam splitter. The beam splitter is designed to be inserted in the incident and oriented to diffract a fraction of the incident beam bandwidth into the interferometer, for wavefront measurement and reconstruction. The concept is intended to study the feasibility of a non-invasive wavefront sensor for real time wavefront monitoring and diagnostics, with possible application in adaptive mirrors for wavefront preservation and control [1, 4]. The design focus was on compactness to enable easy portability and implementation in a beamline.
+* L. Assoufid et al., Rev. Sci. Instrum., 87(5), 052004, 2016  ** W. Grizolli et al., SPIE Proc., 1038502, 2017  *** S. Marathe et al., Adaptive X-Ray Optics III, SPIE Proc., 92080D, 2014 
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH27
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH28
+The Development of PAL-XFEL Beamline
+397
+
+
+ 
+
+S.H. Kim, I. Eom, S-M. Hwang, H.J. Hyun, K.S. Kim, M-J. Kim, S. Kim, S.N. Kim, S. Kim, C. Lee, G.S. Park, J. Park, J.K. Park, S.Y. Rah
+                       PAL, Pohang, Republic of Korea
+
+ 
+
+
+ 
+
+Pohang Accelerator Laboratory X-ray Free Electron Laser(PAL-XFEL) is a research facility, which is designed to generate extremely intense (assuming 1x1012 photon/pulse at 12.4 keV) and ultra-short (10-200 femtosecond) pulsed X-rays. Now two beamlines were constructed, the one is hard X-ray and the other is soft X-ray. The beamline is consist of UH (Undulator hall) and OH (Optical hall), EH (Experimental hall). The UH is usually the same as the front end of a beamline, and OH has the same function as PTL (Photon Transfer Line). We have two hutches including HXPP and HCXI in hard X-ray beamline. The two hutches are connected each other, and sharing main optics (Mirrors and DCM, etc). PAL-XFEL is a very precise facility and has very large heat power, so thermal and structural analysis as well as vibration analysis is essential. Now many vacuum components of beamline were installed and completed the test of performance.
+
+ 
+
+
+
+
+
+
+Poster THPH28 [1.888 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH28
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH29
+X-Ray Beam Position Monitor in TPS 24A Beamline
+ 
+
+
+ 
+
+M.H. Lee, C.Y. Chang, C.H. Chang, S.H. Chang, C.C. Chiu, L. Huang, L. Lai, L. Lee, D.G. Liu, Y. Su, H.Y. Yan
+                       NSRRC, Hsinchu, Taiwan
+
+ 
+
+
+ 
+
+By contributions of the generic beamline components project in recent years, modular mechanisms such as mask, X-ray beam position monitor (XBPM), photon absorber (PAB), and screens were used in every beamline of the Taiwan Photon Source (TPS). However, these beamline components were designed for ID beamlines, so they should be redesigned for bending magnet (BM) beamlines. The TPS 24A, Soft X-ray Tomography (SXT) beamline, is one of the bending magnet (BM) beamlines in the second construction phase at the TPS. This BM beamline has high flux in the range between 260 eV and 2600 eV. It is designed for transmission full-field imaging of frozen-hydrated biological samples. At the exit slit, the beam flux optimized in 520 eV is 2.82·1011 photons/second with resolving power 2000, the beam size is 50 um × 60 um (V × H, FWHM) and the beam divergence is 1.73 mrad × 1.57 mrad (V × H, FWHM). Since the TPS 24A is commissioning during these months, this paper generally makes a discussion about the XBPM in TPS 24A to help further improvement in the future.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH30
+Instrumentation for Source-based Calibration of Space Instruments using Synchrotron Radiation at the Metrology Light Source (MLS)
+ 
+
+
+ 
+
+J. Lubeck, R. Fliegauf, R. Klein, S. Kroth, P. Paustian, M. Richter, R. Thornagel
+                       PTB, Berlin, Germany
+
+ 
+
+
+ 
+
+PTB has been involved in the calibration of many space-based instruments which often require a calibration for the absolute measurement of radiometric quantities. Based on SR, PTB can perform these absolute measurements traceable to the primary national standards. Over the past decades, PTB has performed calibrations for numerous space missions within scientific co-operations and has become an important partner [1]. Dedicated instrumentation in the PTB laboratory at the MLS has been set up for that purpose: A facility for the calibration of radiation transfer sources in the 7 nm to 400 nm spectral range [2], traceable to the MLS as primary SR source standard, is in operation. Also an existing VUV transfer calibration source [3] was upgraded to cover the extended spectral range from 16 nm to 350 nm. Moreover, a large vacuum vessel is available at the MLS, which allows the handling of complete space instruments, opening up the way for calibration of space instruments directly to the primary source standard MLS. By choosing an appropriate electron beam current or electron beam energy, the spectral radiant intensity and spectral shape can be adjusted to best suit the calibration task.
+[1] R. Klein et al., J. Astron. Telesc. Instrum. Syst. 2(4), 044002 (2016).  [2] R. Thornagel et al., Rev. Sci. Instrum. 86, 013106, (2015). [3] J. Hollandt et al., Metrologia 30, 381 (1993).
+
+ 
+
+
+
+
+
+
+Poster THPH30 [3.700 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH31
+Design of a flexible RIXS Setup
+400
+
+
+ 
+
+D. Meissner, S. Adler, M. Beye, A. Bühner, H. Krüger, R. Platzer, T. Reuss, M. Röhling, E. Saemann, E. Saithong
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+We present a new mechanical design for a RIXS experiment setup consisting of a sample environment vacuum chamber and corresponding spectrometer. It allows variable beam incidence angles to the sample as well as observation angles of the spectrometer. The dispersive element of the spectrometer can be aligned in five DOF by motors inside the UHV chamber. The alignment of the CCD detector can be adjusted independently in the lateral and longitudinal position as well as incidence angle. In combination with a tiltable detector chamber this design allows for multiple observation methods, not limited to variable energies but also for use of different optics or direct observations of the sample.
+
+ 
+
+
+
+
+
+
+Poster THPH31 [0.859 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH31
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH32
+Dual Beam Visualizer - Intensity Monitor for Lucia Beamline at SOLEIL Synchrotron
+403
+
+
+ 
+
+C. Menneglier, D.K. Desjardins, V. Pinty, D. Roy, D. Vantelon
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+LUCIA is a micro-focused beamline (0.8 - 8 keV) dedicated to X-ray fluorescence and X-ray absorption spectroscopy at SOLEIL Synchrotron.* With its recent optical upgrade and photons flux increase, the three pink-beam diagnostics of the beamline have been upgraded to support a beam reaching 1013ph/s and 20 W/mm². This paper presents the thermomechanical study and the realization of new devices adapted to the current constraints of use, making possible to both visualize the shape of the pink beam and to measure its intensity simultaneously in the same compact device. The beam is visualized by a piece of Al2O3 - Cr ceramic, soldered to a copper heat sink, whose fluorescence image is visible in visible light with a suitable camera and optical system. The measurement of the photonic intensity is made by a polarized CVD diamond used as a photosensitive element, the current reading is made by a suitable low current amplifier. The design of this dual beam visualizer and intensity monitor, made by the SOLEIL detectors group with thermomechanical studies done by the Mechanical Design Office, will be presented in details. In-lab measurements will be also presented.
+* D. Vantelon et al., The LUCIA beamline at SOLEIL, Journal of Synchrotron Radiation, vol 23 (part 2), pp 635-640, March 2016. doi:10.1107/S1600577516000746
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH32
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH33
+Direct LN2 Cooled Double Crystal Monochromator
+406
+
+
+ 
+
+T. Mochizuki, K. Akiyama, K. Endo, H. Hara, T. Ohsawa, J. Sonoyama, T. Tachibana, H. Takenaga, K. Tsubota
+                       TOYAMA Co., Ltd., Kanazawa, Japan
+K. Attenkofer, E. Stavitski
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+A liquid-nitrogen-cooled (LN) X-ray double crystal monochromator has been designed and built for the high power load damping wiggler beamline of the NSLS2. It was designed as the direct LN first crystal to dissipate the max heat load of 2 kW and the second is in-direct-braid LN. It is designed to operate for beam energy 5 to 36 keV with fixed exit beam mode, and for QEXAFS compatible with channel cut mode. It is designed to rotate the Bragg axis with using AC servo motor and achieve up to 10 Hz scan.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH33
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH34
+Design & Validation of Adaptive Bendable Mirrors for the LCLS-II Soft X-Ray Beam Lines
+ 
+
+
+ 
+
+D.S. Morton, D. Cocco, C.L. Hardin, L. Zhang
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+Funding: SLAC National Accelerator Laboratory, is supported by the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences under Contract No. DE-AC02-76SF00515.
+One of the key components of the photon beam transport system, in the LCLS-II SXR beamlines is the bendable focusing mirror system. For the first time in the Synchrotron or FEL beamlines, the large bending needed to focus the beam will be coupled with a direct cooling system, since almost the entire FEL power is de-livered through the optics to the sample. While cooling and bending the mirror, height errors shall be preserved below one nanometer RMS, to not distort the wavefront of the coherent FEL beam. This has required an extensive study of the mechanical properties of the thermal interface material, Gallium Indium (GaIn). Aside from the challenges introduced by the cooling, the mechanical requirements of the bender have resulted in an extensive design effort. This effort has yielded a prototype system that has been tested to validate our design decisions, and the FEA models of the system. In this paper, the key design elements of the bendable mirror system will be reviewed. We then discuss FEA models of the system and the expected performance. This is followed by results from laboratory tests and comparison to simulations. We finalize with the design changes and future work.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH35
+The Bright Beamlines - Beamline Build Program of the Australian Synchrotron
+ 
+
+
+ 
+
+B. Mountford, A. Walsh
+                       ASCo, Clayton, Victoria, Australia
+H. Cherukuvada
+                       AS - ANSTO, Clayton, Australia
+
+ 
+
+
+ 
+
+The Australian Synchrotron is entering its first major beamline build program since the completion of its original beamline construction phase which accompanied the construction of the facility. The Bright Program aims to construct 8 Beamlines by 2024 with 2 beamlines having accompanying branchlines and supporting endstations. Conceptual designs of the first two beamlines are underway and are aimed at providing medium energy XAFS (MCT) and micro-computed tomographic imaging capability (MCT), both off bend magnet sources. Planning is well advanced for the following two beamlines with the start of conceptual engineering work expected to start in the second half of 2018. This poster will describe the scope of the Bright Beamline Program and the anticipated beamline engineering challenges that are already identified. The impact on existing technical systems and infrastructure will also be described.
+
+ 
+
+
+
+
+
+
+Poster THPH35 [1.563 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH36
+Engineering Challenges for the NEH2.2 Beamline at LCLS-II
+409
+
+
+ 
+
+F.P. O'Dowd, D. Cocco, G.L. Dakovski, J. Defever, S. Guillet, C.L. Hardin, D.S. Morton, T.O. Osier, M.A. Owens, D.W. Rich, L. Zhang
+                       SLAC, Menlo Park, California, USA
+
+ 
+
+
+ 
+
+SLAC National Accelerator Laboratory is developing LCLS-II, a superconducting linear accelerator based FEL capable of repetition rates up to 1MHz. The NEH2.2 Instrument at LCLS-II will use this combination of exceptionally high flux of monochromatic photons to achieve multidimensional and coherent X-ray techniques that are possible only with X-ray lasers. The challenges, which emanate from delivering the beam from the sub-basement level to the basement of the Near Experimental Hall (NEH) along with the stringent requirements for providing a stable beam at the interaction points, necessitate unique engineering solutions. With this paper we present the conceptual design for the NEH2.2 Instrument along with an overview of the R&D program required to validate design performance. Furthermore, it will additionally show the design of the proposed Liquid Jet Endstation (LJE) and Resonant Inelastic X-Ray Scattering Endstation (RIXS) that will be installed on the beamline. After introducing the context and layout of the beamline, this paper will focus on the technical challenges and present the mechanical design solutions adopted for beam delivery and other strategic components.
+
+ 
+
+
+
+
+
+
+Poster THPH36 [2.220 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH36
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH37
+MAGSTAT V3: An In-Vacuum Variable-Gap Quadrupole with Rotary Permanent Magnets
+412
+
+
+ 
+
+V. Pinty, N. Jaouen, F. Marteau, H. Popescu, P. Prout
+                       SOLEIL, Gif-sur-Yvette, France
+
+ 
+
+
+ 
+
+MAGSTAT is a quadrupole designed to magnetize samples with a variable magnetic field in flow density and in directions. Four rotary permanent magnets allow the user to specify a direction for the field and changing in situ the gap between the poles drives the field intensity. The first prototype was realized in 2016 on the SEXTANTS beamline in the framework of SOLEIL-MAXIV collaboration; a second version has been manufactured for MAXIV SoftImax beamline. This third version shows a significant evolution of the mechanical design, guaranteeing a much better stiffness in high field configurations. Samples up to Ø74mm can be placed in this quadrupole, and the tiny ones which may fit in a Ø10mm circle or smaller, can be magnetized with a 1T local field. The angle of each magnet is driven by a dedicated stepper motors with a big reduction ratio. The total gap is ensured by a single motor, and its motion is symmetrically transferred to the magnets through an Archimedean spiral. The first prototype is installed at COMET endstation dedicated to the coherent scattering of soft X-ray in transmission for imaging magnetic materials via the Fourier Transform Holography or ptychography techniques.
+
+ 
+
+
+
+
+
+
+Poster THPH37 [57.424 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH37
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH38
+Design & Development of an Innovative 6 Axis Sample Manipulator.
+415
+
+
+ 
+
+M.F. Purling
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+The accurate positioning & alignment of sample specimens within the experimental test chamber on a beam line is always a challenge. The ability to move in any direction and angle to very precise increments with repeatable positioning is crucial for being able to focus on the exact part of the sample required in the correct orientation. It can be made even more difficult when the sample is required to work within the UHV vacuum environment and be cooled to cryogenic temperatures. Initially in conjunction with St Andrews University, Diamond Light Source Ltd. have been developing their own manipulator for this purpose, it has six degrees of freedom for alignment of the sample and easy remote sample plate loading via a transfer arm system. This paper describes the developments made from the initial design to working manipulators with increased functionality for bespoke requirements on four different beamline within Diamond.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH38
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH39
+Novel Comprehensive UHV Lens Changer at the PETRA III Beamlines P22, P23 and P24
+418
+
+
+ 
+
+J. Raabe, K. Ederer, R. Grifone, D. Novikov, C. Schlüter
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The design of a compact UHV-compatible X-ray transfocator for beryllium compound refractive lenses (CRL) is presented. CRLs are nowadays commonly applied as focusing elements in a lot of techniques based on synchrotron radiation. Aim of the current project was the development of a low-maintenance lens changer for beam focusing, collimation and aperture matching. The paper describes the new lens changer designs for the reliable use under ultrahigh vacuum conditions. Precise and reproducible alignment is achieved by pneumatic actuators that press the lens stacks against a high precision prism. All actuators and position sensors are placed outside the UHV vessel. Alignment is facilitated by integrated beam monitors and alignment apertures. We discuss two variants of the device, one designed for 2D lenses and the other one operating with 1D lenses. In the current version, the 2D lens changer adapts 12 stacks of up to 8 single lenses each, and the 1D variant ' 8 single lenses or apertures.
+
+ 
+
+
+
+
+
+
+Poster THPH39 [0.190 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH39
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH40
+Training the Next Generation of Engineers for Photon Based Light Sources
+421
+
+
+ 
+
+S.M. Scott
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+The continued increase in the number of Light Sources, their beamlines and the need for upgrades of both machine and beamlines requires an ever larger supply of suitably qualified and experienced engineers. If there is a world wide shortage of Engineers where will facilities find these engineers and how can they be trained to the required level? This paper discusses these issues by looking at the growth of demand for engineers within light sources, the evidence of shortages of engineers, the changes in attitudes to work by younger people, the skills necessary, training opportunities and the issues in attracting people into the light sources industry. The paper will also outline the training week for early career engineers delivered at Diamond.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH40
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH41
+Frontend Slits for Closely-Spaced Wiggler Beams
+424
+
+
+ 
+
+S.K. Sharma, C. Amundsen, F.A. DePaola, J.L. Tuozzolo
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+A high energy x-ray (HEX) beamline facility will be constructed at NSLS-II for R&D in energy storage tech-nologies using different x-ray imaging techniques. A 4.3 Tesla superconducting wiggler will be used to produced x-rays of total power of approximately 56 kW in 8 keV ' 200 keV range. The nominal horizontal fan of ~ 10 mrad will be split into three closely spaced beams of 0.2 mrad, 1.0 mrad and 0.2 mrad fans. Each beam is required to have a frontend slit with four distinct apertures. The conventional L-shape design of the slit is not feasible for these closely spaced beams because of constraints on side cooling and horizontal travel of the slits. In this paper we propose two solutions for these slits using a beam pass-through design, vertical-only travel and optimized cooling configurations.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH41
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH42
+The Design of HEPS Front Ends
+ 
+
+
+ 
+
+H. Shi, L. Gao, M. Li
+                       IHEP, Beijing, People's Republic of China
+
+ 
+
+
+ 
+
+High Energy Photon Source (HEPS) is a 6GeV synchrotron radiation facility to be built in Huairou, Beijing, with a perimeter of 1390.6m and 48 linear sections. In the first phase, 15 front ends will be installed, including 14 ID front ends and 1 BM front end. These front ends are divided into three categories: the standard undulator front end, the wiggler front end, and the BM front end. The peak power density that the front end bears is about 868kW/mrad2, the total power is about 47kW. This paper describes the general layout design of the three different types of front end, the functions of the main components, and the finite element analysis of key devices in the HEPS front end.
+
+ 
+
+
+
+
+
+
+Poster THPH42 [0.657 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPH43
+New Holder for Dual-Axis Cryo Soft X-Ray Tomography of Cells at the Mistral Beamline
+427
+
+
+ 
+
+R. Valcárcel, C. Colldelram, N. Gonzalez, E. Pereiro, A.J. Pérez-Berná, A. Sorrentino
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+
+ 
+
+
+ 
+
+A new dual-axis sample holder has been designed and built for the Transmission soft X-ray Microscope (TXM) at the MISTRAL beamline (ALBA Synchrotron) to perform cryo-soft X-ray tomography of cells with dual tilt configuration to reduce the missing wedge. The design, with restricted dimensions Ø7x30mm, enables using commercial Auto-Grid support rings that give rigidity to the sample grid handling. It consists of a guided miniature handle with a spring system that allows sample rotation by 90° around the beam axis inside vacuum and in cryogenic conditions by using the TXM sample loading robot keeping a rotation of ±65° at the sample stage. Two magnets fix the positions at 0° and 90°.The two tilt series can be collected consecutively and the use of Au fiducials permits combining both improving the final quality of the 3D reconstructions. In particular, cellular features hidden due to their orientation with respect to the axis of rotation become visible. The main frame is made in aluminium bronze to enhance the thermal conductivity and in addition, all the pieces have undergone an ion implantation treatment in order to reduce friction and improve the anti-seizure property of the parts.
+
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-MEDSI2018-THPH43
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

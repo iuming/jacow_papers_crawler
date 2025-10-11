@@ -1,0 +1,1390 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2020 - Table of Session: THPP (Thursday Poster Session)
+
+
+THPP —  Thursday Poster Session   (17-Sep-20   14:40—16:30)
+
+
+
+Paper
+Title
+Page
+
+
+
+THPP02
+RMS-R3 - Radiation Hard System for Beam, Background and Luminosity Monitoring at the Upgraded LHCb Experiment
+ 
+
+
+ 
+
+V. Dobishuk, S. Chernyshenko, O. Okhrimenko, V.M. Pugatch
+                       NASU/INR, Kiev, Ukraine
+F. Alessio
+                       CERN, Meyrin, Switzerland
+
+ 
+
+
+ 
+
+Funding: National Academy of Sciences of Ukraine
+The results of a performance study of the upgraded Radiation Monitoring System (RMS-R3) for the LHCb experiment are presented. The RMS-R3 is built out of the eight Metal-Foil Detectors (MFD) placed at 2 m from IP-8 around the beam pipe in a backward hemisphere. The system is designed for monitoring beams interaction rate (relative luminosity) and background at the LHCb nominal instantaneous luminosity of p-p collisions 5 times increased in RUN3. The feasibility of monitoring of relative contribution from the beams luminous region (IP-8) and collimators is illustrated by the data accumulated with a similar RMS during RUN1 and RUN2 campaigns. An advantageous feature of the MFD, its high radiation tolerance of a GGy level, originates from the principle of its operation due to secondary electron emission from a surface of a metal sensor resulting in a positive charge in it which is readout by charge integrator. Simple structure of the detector modules, low operating voltage (about 20 volts), commercially available DAQ boards further improve their figure of merit. The RMS-R3 perfect linear response in a dynamical range of 1:100000 is demonstrated in tests with r/a source and X-rays.
+
+ 
+
+
+
+
+
+
+Poster THPP02 [1.952 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP04
+Testbed Development for the Characterisation of an ASIC for Beam Loss Measurement Systems
+215
+
+
+ 
+
+F. Martina, L. Giangrande, J. Kaplon, P.V. Leitao, C. Zamantzas
+                       CERN, Geneva, Switzerland
+F. Martina
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+A high-performance, radiation-hardened, application-specific integrated circuit (ASIC) is under development at CERN for digitising signals from beam losses monitoring systems in harsh radiation environments. To fully characterise and validate both the analogue and digital parts of these ASICs, an automated testbed has been developed. Here we report on the components used to build this setup, its capabilities as well as the methodology of the data analysis. Focus is given to the data collection, the automation and the efficient computation methods developed to extract the merit factors of two different ASIC designs from prototype manufacturing runs.
+
+ 
+
+
+
+
+
+
+Poster THPP04 [4.534 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP04
+
+ 
+
+
+About •
+paper received ※ 11 September 2020       paper accepted ※ 17 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP05
+Properties of Cherenkov Diffraction Radiation as Predicted by the Polarisation Currents Approach for Beam Instrumentation
+218
+
+
+ 
+
+D.M. Harryman, K.V. Fedorov, P. Karataev
+                       JAI, Egham, Surrey, United Kingdom
+M. Bergamaschi, R. Kieffer, K. Łasocha, T. Lefèvre, S. Mazzoni
+                       CERN, Geneva, Switzerland
+L. Bobb
+                       DLS, Oxfordshire, United Kingdom
+A. Potylitsyn
+                       TPU, Tomsk, Russia
+A. Schloegelhofer
+                       TU Vienna, Wien, Austria
+
+ 
+
+
+ 
+
+Cherenkov-Diffraction Radiation (ChDR) appears when a charged particle moves in the vicinity of a dielectric medium with velocity higher than the phase velocity of light inside the medium. As the charged particle does not contact the medium, the emission of ChDR is a phenomenon that can be exploited for a range of non-invasive beam diagnostics. Experimental tests are underway on the Booster To Storage-ring (BTS) test stand at Diamond Light Source to explore the use of dielectric radiators as Beam Position Monitor (BPM) pickups by measuring the incoherent ChDR emission. In order to compliment the experiments on the BTS test stand, ChDR simulations have been performed using the Polarisation Currents Approach (PCA) model. This paper explores the PCA simulations for the BTS test stand, and the application for future diagnostics.
+
+ 
+
+
+
+
+
+
+Poster THPP05 [1.204 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP05
+
+ 
+
+
+About •
+paper received ※ 10 September 2020       paper accepted ※ 14 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP08
+Development of Abnormal Beam State Monitoring Processor on SSRF Storage Ring
+223
+
+
+ 
+
+L.W. Lai, Y.B. Leng, Y.B. Yan
+                       SSRF, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+An abnormal beam state monitoring processor has been developed on SSRF, which is based on the hardware of self-developed digital BPM processor. By applying digital signal processing algorithms in the on-board FPGA, the processor keeps monitoring the beam running state. Once abnormal event is detected, the processor will record the abnormal event type and store the turn-by-turn beam position data before and after the event for later analyzing. The abnormal events including beam loss and beam position jump.
+
+ 
+
+
+
+
+
+
+Poster THPP08 [0.687 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP08
+
+ 
+
+
+About •
+paper received ※ 02 September 2020       paper accepted ※ 18 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP10
+Influence of a Bellow to a Cavity BPM for SINBAD
+226
+
+
+ 
+
+D. Lipka
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+A cavity beam position monitor acts for the detection of the beam location within a pipe with high precision and best resolution. Some of them are used as a fixed point to refer the other parts of the beamline. To be able to fix the monitor against the other vacuum components bellows need to be adapted next to the monitor to relax the other part of the vacuum chamber. The bellow itself can create a resonance which would influence the resonator of the cavity beam position monitor. In this study the influence of a the bellow to a cavity beam position monitor is investigated with simulations for a SINBAD project. The result is that the influence to the dipole resonator is below 0.1%.
+
+ 
+
+
+
+
+
+
+Poster THPP10 [0.601 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP10
+
+ 
+
+
+About •
+paper received ※ 31 August 2020       paper accepted ※ 14 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP11
+Study of Multi-Bladed Photon BPM Designs
+229
+
+
+ 
+
+Y.E. Tan
+                       AS - ANSTO, Clayton, Australia
+
+ 
+
+
+ 
+
+New beamlines will be installed at the AS in the next few years and photon BPMs will be part of the front end design. A theoretical study of the potential benefits of a multi-bladed photon BPM design has been simulated using beam profiles from SPECTRA. The results show that it is possible to remove the gap/field dependence of the photon BPM by a least squares fit of the distribution, in this test case a Gaussian distribution, to the beam profile sampled by the multiple blades.
+
+ 
+
+
+
+
+
+
+Poster THPP11 [1.430 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP11
+
+ 
+
+
+About •
+paper received ※ 07 September 2020       paper accepted ※ 15 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP12
+Characterization Study of a Button BPM with an Approach to Automated Measurements
+233
+
+
+ 
+
+Y. Verma
+                       Indian Institute of Science Education and Research, Mohali, India
+M. Aggarwal, V.J. Joshi, A. Sharma
+                       IUAC, New Delhi, India
+
+ 
+
+
+ 
+
+Beam position monitors (BPMs) are one of the very im-portant diagnostic components of any accelerator systemgiving information about beam position. It is a class of non-intercepting devices which use the coupling of the EM fieldaround a charged particle bunch to some sort of conductorelectrodes to recover beam position information from thebeam-induced signals. In this paper, a characterization studyof an in-house developed Button BPM including sensitivitymeasurement and transfer impedance studies is presented. Sensitivity measurement was done using the stretched wiremethod by passing current pulses through the wire of differ-ent diameters like 0.5 mm and 1 mm, thus mimicking thebehavior of the actual beam. Sensitivity information wasthen used to reciprocate the 2-D position map of the device. Owning to the time taken for such huge measurements, anautomated BPM test bench approach of the whole setup isdeveloped by remote interfacing over LAN. A substantialdecrease in measurement time was observed along with areduction in measurement error.
+
+ 
+
+
+
+
+
+
+Poster THPP12 [2.308 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP12
+
+ 
+
+
+About •
+paper received ※ 02 September 2020       paper accepted ※ 15 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP13
+Self-Configuring IO Brick for General Purpose Data-Acquisition
+ 
+
+
+ 
+
+R.W. Dickson
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+This talk will describe a simple, general-purpose data acquisition system that requires minimal configuration and no software programming by the user. The idea is to have a ready system that can be quickly placed in the field to perform a variety of measurements. Support for digital I/O, relays, analog input and output, thermocouple measurement, and strain (bridge) measurements are provided. The system uses National Instruments CompactRIO hardware and communicates to the user via an EPICS interface. All the user need do is plug in the type of modules needed for the measurement, and the system will auto discover this hardware, configure itself and communicate to EPICS EDM (and CSS BOY) screens. The screens will then also configure for the hardware selected. The system also supports hot-swapping to add or change hardware on-the-fly. Any changes are then reflected in the system’s displays. This system is being used in several instances at the SNS in a more permanent capacity than it was intended. In these cases, more specific EDM screens have been developed to visualize the same data that would normally be viewed with the dynamic screens.
+
+ 
+
+
+
+
+
+
+Poster THPP13 [0.540 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP14
+Standardising of Application Specific Implementations at the Australian Synchrotron - ANSTO
+ 
+
+
+ 
+
+R.B. Hogan, A. Michalczyk, A. Ng
+                       AS - ANSTO, Clayton, Australia
+
+ 
+
+
+ 
+
+There is a need for a flexible stand-alone device that can be a base platform for a distributed control system. It will need to support a core functionality such as; high-resolution timestamping, standardised software API’s and a well defined expansion card interface. We are proposing the Chameleon device that will be designed around a Xilinx Zynq System on Module (SoM) and include a standard VITA 57.1 HPC FMC for application specific functionality. The proposed solution will allow the use of COTS or in-house designed FMC modules and integrate to the control system through a PoE+ interface, allowing both power and communication through the same cable. The Chameleon device is also intended to be plugged into a White Rabbit network to utilise the high performance synchronisation capabilities and timestamping as needed. This device will reduce the cost of implementing application specific solutions, across the accelerator and beamlines, to better support the growing demands of scientific research at the Australian Synchrotron - ANSTO.
+
+ 
+
+
+
+
+
+
+Poster THPP14 [0.806 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP15
+Upgrade and Operational Status of Transverse Feedback System at the Canadian Light Source
+ 
+
+
+ 
+
+T. Batten
+                       CLS, Saskatoon, Saskatchewan, Canada
+
+ 
+
+
+ 
+
+The Canadian Light Source (CLS) is third-generation Synchrotron with 24 operational beamlines. Instabilities in the storage ring significantly impact both machine and beamline experiments. To improve stability and provide additional diagnostic tools the Transverse Feedback System (TFBS) was upgraded to incorporate Dimtel equipment in October 2019. This system is currently being used to actively damp the transverse betatron oscillations associated with coupled bunch instabilities, for bunch cleaning and for continuous tune measurements using the notch method. This new system has also allowed the facility to move forward with a tune feedback system that is currently being commissioned. The tune feedback system will allow us to stabilize the tune when components in the Storage ring are moving or changing. The Dimtel hardware supports the ability to accurately measure the growth and damping rates for various beam instabilities. In the future we intend to use this system to evaluate the modal instabilities inherent in our machine. This will ultimately allow us to more accurately characterize our machine and provide a more stable light source to our users.
+
+ 
+
+
+
+
+
+
+Poster THPP15 [0.321 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP16
+Septum Orbit Feedforward Correction at the AS
+237
+
+
+ 
+
+C.N. Lehmann
+                       University of Queensland, Brisbane, Queensland, Australia
+M.P. Atkinson, Y.E. Tan
+                       AS - ANSTO, Clayton, Australia
+
+ 
+
+
+ 
+
+The leakage fields generated by the septum in the injection straight perturbs the beam by as much as 130 µm horizontally and 80 µm vertically during injection. Passive shielding with copper collars and Mu metal sheets has reduced the perturbation but not removed them. The remainder of the perturbation will be corrected using an active feedforward system. This report will discuss the design of the system and the effectiveness of the prototype.
+
+ 
+
+
+
+
+
+
+Poster THPP16 [0.614 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP16
+
+ 
+
+
+About •
+paper received ※ 03 September 2020       paper accepted ※ 14 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP19
+Measurement of Cs₂Te Cathode Response in a High-Gradient Photoinjector
+ 
+
+
+ 
+
+G. Loisch, M. Groß, D.K. Kalantaryan, C. Koschitzki, M. Krasilnikov, X. Li, O. Lishilin, D. Melkumyan, R. Niemczyk, A. Oppelt, F. Stephan, G. Vashchenko, T. Weilbach
+                       DESY Zeuthen, Zeuthen, Germany
+Y. Chen
+                       DESY, Hamburg, Germany
+L. Monaco, D. Sertore
+                       INFN/LASA, Segrate (MI), Italy
+
+ 
+
+
+ 
+
+Cesium-Telluride is a widely used semiconductor photocathode material in electron photoinjectors for its high quantum efficiency and its stability in a high-gradient RF-gun environment. Even though the properties of such cathodes have been studied in the past decades, the emission process is still not fully modeled. One of the parameters that has not been directly quantified in experiment is the lengthening of electron bunches in Cs2Te with respect to the incident UV laser pulse length - often referred to as cathode response time - due to photon penetration depth variations and scattering processes. Especially for applications such as novel accelerator technologies, ultrafast electron diffraction and free electron lasers with ever higher demands on short bunch durations, the minimum attainable bunch length from the electron gun is a decisive quantity. We present the first direct measurement of Cs2Te cathode temporal response by measuring electron bunch lengths and profiles with a few tens of femtoseconds resolution at the Photoinjector Test facility at DESY Zeuthen (PITZ). We also show first results on the impact of photocathode properties on cathode response.
+
+ 
+
+
+
+
+
+
+Poster THPP19 [0.867 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP20
+Virtual Slit for Improved Resolution in Longitudinal Emittance Measurement
+241
+
+
+ 
+
+K.J. Ruisard, A.V. Aleksandrov, A.P. Shishlo
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: This manuscript has been authored by UT-Battelle, LLC, under Contract No. DE-AC0500OR22725 with the U.S. Department of Energy.
+A technique to reduce point-spread originating from physical slit width in emittance measurements is described. This technique is developed to improve phase resolution in a longitudinal emittance apparatus consisting of a dipole magnet, energy-selecting slit and bunch shape monitor. In this apparatus, the energy and phase resolutions are directly proportional to the width of the slit, but the virtual slit method enables sub-slit resolution. The bunch phase profile is measured at two points in the energy distribution with a separation less than the physical slit width. The difference of these two profiles is used to reconstruct the profile from a virtual slit of width equal to the separation.
+
+ 
+
+
+
+
+
+
+Poster THPP20 [0.285 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP20
+
+ 
+
+
+About •
+paper received ※ 01 September 2020       paper accepted ※ 18 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP21
+Design and Development of a Novel Stripline Fast Faraday Cup to Measure Ion Beam Profile
+246
+
+
+ 
+
+A. Sharma, R.K. Gangwar
+                       IIT (ISM), Dhanbad, Jharkhand, India
+B.K. Sahu
+                       IUAC, New Delhi, India
+
+ 
+
+
+ 
+
+Present day heavy ion accelerators use bunched ion beams of sub-nanosecond time scale for beam acceleration. In order to monitor its longitudinal profile, fast faraday Cups are employed. Owing to the advent of microstrip technology and its fabrication process, planar structures have become easier to fabricate. A novel design using the same is developed with a special provision for mounting edge launch connectors through a microstripline, followed by a microstrip to stripline transistion to again a microstrip structure in the beam interaction hole. The entire structure is a 50 Ω & is bidirectional. An experimental study on via placement around central strip has also been conducted to not only ensure the field containment around the strip but also for bandwidth enhancement. To measure ion beam currents from 10-100 nA and a bunch width of < 1ns, device has been beam interaction hole of around 10mm. 3 dB bandwidth is measured >6 GHz with a rise time of ~60 ps. The devices are also provided with a bias ring on the topmost layer of the 3 layer architecture for electron suppression. In this paper, design, fabrication and RF testing stripline fast faraday cup is presented.
+1. M. Bellato et al, "Design and tests for the Fast Faraday cup of ALPI post-accelerator", NIM A  2. C. E. Deibele, "Fast Faraday Cup with High Bandwidth", US Patent no. 7012419B2. 
+
+ 
+
+
+
+
+
+
+Poster THPP21 [0.912 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP21
+
+ 
+
+
+About •
+paper received ※ 02 September 2020       paper accepted ※ 18 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP22
+A THz-Driven Split Ring Resonator for Temporal Characterization of Femtosecond MeV Electron Beam
+250
+
+
+ 
+
+Y. Song, K. Fan
+                       Huazhong University of Science and Technology, State Key Laboratory of Advanced Electromagnetic Engineering and Technology,, Hubei, People’s Republic of China
+
+ 
+
+
+ 
+
+The use of THz-driven split ring resonator (SRR) as a streak camera for sub-ps bunch length measurement has been proposed for a few years. Since then, the feasibility of such a method has been experimentally demonstrated for both keV and MeV electron beam. The structural dimensions of SRR has a substantial impact on the resonance frequency, the field enhancement factor and the interaction region of the streaking field, eventually determining the temporal resolution of the bunch length measurement. Here we discuss the quantitative dependence of the streaking field on the structural dimensions of SRR. Combining with an analytical streaking model, we propose a method to optimize the structural dimensions of SRR such that the finest temporal resolution is achieved with given THz pulse.
+
+ 
+
+
+
+
+
+
+Poster THPP22 [0.488 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP22
+
+ 
+
+
+About •
+paper received ※ 29 August 2020       paper accepted ※ 17 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP23
+Tracking Frequency Reference Phase Changes at Point of Use Based on BPM Measurements
+254
+
+
+ 
+
+A. Tipper, M.G. Abbott, G. Rehm
+                       DLS, Harwell, United Kingdom
+
+ 
+
+
+ 
+
+Multibunch Feedback systems in Diamond use the RF reference signal to sample the BPM signals. Uncertain reference phase variations due to upstream adjustments to the RF system previously necessitated regular manual realignment of the sampling phase. Locking the sampling phase to the measured beam phase has been investigated to improve the stability and robustness of the system and remove the dependence on absolute RF phase. Significant improvements have been achieved using a Beam Locked Loop architecture based on an IQ modulator and cartesian feedback to phase align the local 500MHz reference signal to the BPM RF frequency component under closed loop digital control with remote management via EPICS. The system has been successfully deployed on the storage ring at Diamond and has been operating live since October 2019. Live data captured from the operational storage ring demonstrates the ability to tolerate a wide variation in beam phase whilst maintaining accurate beam sampling and robust acquisition of the reference phase over the operating range of beam currents and fill patterns.
+
+ 
+
+
+
+
+
+
+Poster THPP23 [1.175 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP23
+
+ 
+
+
+About •
+paper received ※ 04 September 2020       paper accepted ※ 15 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP25
+Measurements of Ion Instability and Emittance Growth for the APS-Upgrade
+258
+
+
+ 
+
+J.R. Calvey, M. Borland, T.K. Clute, J.C. Dooling, L. Emery, J. Gagliano, J.E. Hoyt, P.S. Kallakuri, L.H. Morrison, U. Wienands
+                       ANL, Lemont, Illinois, USA
+
+ 
+
+
+ 
+
+Ions are produced in an accelerator when the beam ionizes residual gas inside the vacuum chamber. If the beam is negatively charged, ions can become trapped in the beam’s potential, and their density will increase over time. Trapped ions can cause a variety of undesirable effects, including instability and emittance growth. Because of the challenging emittance and stability requirements of the APS-Upgrade storage ring, ion trapping is a serious concern. To study this effect at the present APS, a gas injection system was installed. A controlled pressure bump of Nitrogen gas was created over a 6m straight section, and the resulting ion instability was studied using several different detectors. Measurements were taken using a pinhole camera, spectrum analyzer, bunch-by-bunch feedback system, and a gas bremsstrahlung detector. Studies were done under a wide variety of beam conditions, and at different pressure bump amplitudes. In this paper we report on the results of some of these measurements, and discuss the implications for present and future electron storage rings.
+
+ 
+
+
+
+
+
+
+Poster THPP25 [0.761 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP25
+
+ 
+
+
+About •
+paper received ※ 03 September 2020       paper accepted ※ 16 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP26
+Transverse Broad-band Impedance Studies of the New In-vacuum Cryogenic Undulator at Bessy II Storage Ring
+263
+
+
+ 
+
+M. Huck, J. Bahrdt, H. Huck, A. Meseck, M. Ries
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+The first radiation from the cryogenic permanent magnet undulator (CPMU17) has been observed in December 2018 at the BESSY II storage ring at HZB, and since then this device has served as a light source for beamline commissioning. It is the first in-vacuum undulator installed at BESSY II, and a new in-vacuum APPLE undulator (IVUE32) is planned to be installed in near future. Thus, a detailed study of the interactions between such an in-vacuum device and the electron beam is required. Beam-based measurements using orbit-bump and tune-shift methods have been applied to estimate the vertical impedance of CPMU17. For CPMU17 the first results of broad-band impedance studies are presented.
+
+ 
+
+
+
+
+
+
+Poster THPP26 [1.606 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP26
+
+ 
+
+
+About •
+paper received ※ 29 August 2020       paper accepted ※ 19 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP29
+Application of Wavelet Algorithm in Tune Measurement
+268
+
+
+ 
+
+X. Yang
+                       SINAP, Shanghai, People’s Republic of China
+F.Z. Chen, L.W. Lai
+                       SSRF, Shanghai, People’s Republic of China
+X. Yang
+                       UCAS, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+Tune is a very important parameter for storage ring of advanced synchrotron radiation facilities. At present, fast Fourier transform (FFT) is the core algorithm of the beam spectrum analysis used in tune measurement. Taking into account the nonlinear effect in the accelerator, tune changes during the process of storage ring injection and booster energy upgrading. However, the Fourier method is used to analyse the global sampling point, and the ability to distinguish the local variation of the tune in the sampling time is poor. This paper leads wavelet analysis method as the core algorithm into beam spectrum analy-sis method, further analyses the change of the tune with beam amplitude in sampling time, and compares this new algorithm with the traditional Fourier method. New ex-perimental results and corresponding analysis for the data from SSRF will be introduced in this paper.
+
+ 
+
+
+
+
+
+
+Poster THPP29 [0.756 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP29
+
+ 
+
+
+About •
+paper received ※ 02 September 2020       paper accepted ※ 18 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP31
+Consideration and Design of HEPS Beam Instrumentation
+ 
+
+
+ 
+
+J.H. Yue, J.S. Cao, Y.Y. Du, J. He, F. Liu, Z. Liu, Y.H. Lu, H.Z. Ma, Y.F. Sui, L. Wang, S.J. Wei, T.G. Xu, J. Yang, Q. Ye, D. Yin, L. Yu, X.E. Zhang, J.X. Zhao, X.Y. Zhao, Y. Zhao, D.C. Zhu
+                       IHEP, Beijing, People’s Republic of China
+
+ 
+
+
+ 
+
+High Energy Synchrotron Photon Source（HEPS）is an ultra-low emittance light source, of which the energy is 6 GeV, the current is 100-200mA, so it is more difficult to the physics design and hardware design. To the beam instrumentation, sub-micron level beam position measurement and controlling system, sub-micron synchrotron measurement system based x-ray and bunch by bunch feedback system are the technologies which we need to master and to develop. Beam position measurement system is based on digital technology; it is difficult to design and home-made. Emittance measurement of storage is relied on the accuracy measurement of beam profile, of which the resolution is sub-micron level; x ray KB mirror imaging system can meet such high resolution requirement and a good choice. bunch by bunch feedback systems are used to restrin the beam instabilities. In this article, the author introduces the beam instrumentations in detail.
+
+ 
+
+
+
+
+
+
+Poster THPP31 [1.863 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP32
+Feasibility Study of a Non-Rad Camera for the SNS* Ring Injection Dump Imaging System
+ 
+
+
+ 
+
+W. Blokland, A. Rakhman
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+Funding: * This manuscript has been authored by UT-Battelle, LLC, under Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy.
+The Proton Power Upgrade (PPU) increases the the Spallation Neutron Source (SNS) accelerator power from 1.4 MW to 2.8 MW and calls for a modification of the Ring Injection Dump beam line. The charge exchange injection technique to accumulate proton beam in the SNS ring results in multiple beam spots on the ring injection dump window. To properly setup the new injection beam line, the size and locations of the beam spots must be measured. We plan to use a camera to look at a fluorescent coating made of Chromium Oxide doped Aluminum Oxide. To simplify the optical path, we want to place the camera in the tunnel. While radhard cameras are available, they typically are more expensive and have worse performance. To study the feasibility of non-radhard cameras, we measured the radiation in the tunnel in unshielded and shielded locations. We compare the radiation measurements with results from a CERN HiRadMat study and tested the cameras during full power beam to show that the non-radhard camera is an option for the Ring Injection Dump Imaging System.
+
+ 
+
+
+
+
+
+
+Poster THPP32 [3.902 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP33
+Simulation Methods for Transverse Beam Size Measurements Using the Heterodyne Near Field Speckles of Hard X-rays
+272
+
+
+ 
+
+A. Goetz, D. Butti, S. Mazzoni, G. Trad
+                       CERN, Geneva, Switzerland
+U. Iriso, A.A. Nosych, L. Torino
+                       ALBA-CELLS Synchrotron, Cerdanyola del Vallès, Spain
+B. Paroli
+                       Universita’ degli Studi di Milano, Milano, Italy
+M.A.C. Potenza, M. Siano
+                       Universita’ degli Studi di Milano & INFN, Milano, Italy
+L. Teruzzi
+                       Università degli Studi di Milano, Milano, Italy
+
+ 
+
+
+ 
+
+The Heterodyne Near Field Speckles (HNFS) is a special type of interferometry technique where radiation is scattered by nanoparticles suspended in a medium. The scattered waves and the transmitted radiation form an interference pattern, which is modulated by the spatial coherence of the radiation and by the scattering properties of the nanoparticles. The superposition of many such interference patterns results in a speckle pattern, from which the spatial coherence of the radiation and thus the transverse beam profile can be determined. In this contribution we present approaches for simulating the HNFS patterns from hard X-ray radiation and compare then with data from experiments at the ALBA synchrotron.
+
+ 
+
+
+
+
+
+
+Poster THPP33 [0.476 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP33
+
+ 
+
+
+About •
+paper received ※ 02 September 2020       paper accepted ※ 16 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP34
+Calibration and Image Restoration for the Beam Profile Measurement System
+276
+
+
+ 
+
+L.X. Hu, K.Z. Ding, Y. Song
+                       ASIPP, Hefei, People’s Republic of China
+Y.C. Wu
+                       HFCIM, HeFei, People’s Republic of China
+
+ 
+
+
+ 
+
+The beam profile parameters are one of the important parameters which represent the beam quality. And the transverse beam profile parameters are closely related to the beam tuning and optimization of the cyclotron. Machine Vision is a branch of computer science that has really grown over the last 20 years. In order to improve the precision and efficiency of beam profile measurement, machine vision techniques have been developed for the analysis and processing of the beam profile images. A new calibration method has been designed for the calibration of the imaging system. Moreover, a new image noise reduction algorithm has been developed to improve the image quality, and then to improve the accuracy of the beam profile parameters measurement. And image restoration algorithm has also been adopted to eliminate the effects of defocusing blur. The experiment results show that the calibration of the imaging system enables the system can provide quantitative information for beam diagnosis. The image noise reduction and restoration algorithm greatly improve the accuracy of beam profile parameters measurement.
+
+ 
+
+
+
+
+
+
+Poster THPP34 [1.656 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP34
+
+ 
+
+
+About •
+paper received ※ 31 August 2020       paper accepted ※ 31 October 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP35
+Lens Calibration for Beam Size Monitors at ThomX
+281
+
+
+ 
+
+S.D. Williams, G. Taylor
+                       The University of Melbourne, Melbourne, Victoria, Australia
+I. Chaikovska, N. Delerue, A. Gonnin, V. Kubytskyi, H. Monard, A. Moutardier
+                       Université Paris-Saclay, CNRS/IN2P3, IJCLab, Orsay, France
+
+ 
+
+
+ 
+
+Funding: Work supported by the French ANR under reference ANR-10-EQPX-51. Work also supported by grants from Région Ile-de-France. Work also supported by the Nicolas Baudin program.
+ThomX is a novel compact X-ray light source, utilising a laser and 50 MeV electron storage ring to produce X-ray photons via Compton scattering. Screens, observed by zoom lenses and optical cameras, can be used to monitor the transverse beam profile at various points. An issue with the implementation of this system is that after adjusting the zoom one needs to recalibrate the the optical system, measuring the resolution of the optical system and deducing the transformation from pixel space observed on the camera to geometrical space in the laboratory. To calibrate and measure the resolution limit of the cameras a USAF 1951 resolution chart that can be moved into or out of the screen position is used. We will report on and demonstrate the use of open source computer vision libraries to compute this calibration, and the affine transformation between the camera image plane and the screens can be deduced. We will also comment on how consumer available Canon EF mount lenses may be used as a remote controllable optical system.
+
+ 
+
+
+
+
+
+
+Poster THPP35 [1.211 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP35
+
+ 
+
+
+About •
+paper received ※ 01 September 2020       paper accepted ※ 16 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THPP36
+Prototype Design of Wire Scanner for SHINE
+285
+
+
+ 
+
+J. Wan
+                       SINAP, Shanghai, People’s Republic of China
+F.Z. Chen, J. Chen, B. Gao, Y.B. Leng, K.R. Ye, L.Y. Yu, W.M. Zhou
+                       SSRF, Shanghai, People’s Republic of China
+
+ 
+
+
+ 
+
+SHINE is a high repetition rate XFEL facility, based on an 8 GeV CW SCRF linac, under development in Shanghai. In order to meet the requirements of measuring the beam profile of SHINE in real time and without obstruction, a new diagnostic instrument, wire scanner has been designed. This paper mainly describes the design of wire scanner in SHINE, and some simulation results are also shown and discussed.
+
+ 
+
+
+
+
+
+
+Poster THPP36 [1.787 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-IBIC2020-THPP36
+
+ 
+
+
+About •
+paper received ※ 31 August 2020       paper accepted ※ 18 September 2020        issue date ※ 30 October 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

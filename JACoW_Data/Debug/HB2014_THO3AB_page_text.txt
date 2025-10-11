@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB2014 - Table of Session: THO3AB (Working Group AD)
+
+
+THO3AB —  Working Group AD   (13-Nov-14   13:50—15:50)
+Chair: S.S. Gilardoni, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+THO3AB01
+Performance of Transverse Intra-Bunch Feedback System at J-PAC MR
+384
+
+
+ 
+
+Y.H. Chin, T. Obina, M. Okada, M. Tobiyama, T. Toyama
+                       KEK, Ibaraki, Japan
+K.G. Nakamura
+                       Kyoto University, Kyoto, Japan
+Y. Shobuda
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+A new broadband (~100 MHz) feedback system has been developed for suppression of intra-bunch oscillations and reduction of particle losses at the J-PARC Main Ring (MR). A new BPM has been designed and fabricated, based on Linnecar’s exponential coupler stripline type, for a flatter and wider frequency response. The design and performance of the new BPM as well as preparation of a newly installed exciter and power amplifier is presented. We also report beam test results of suppression of horizontal intra-bunch oscillations at 3 GeV with the bunch length of 150-200 ns.
+
+ 
+
+
+
+
+
+
+Slides THO3AB01 [6.245 MB]
+        
+ 
+
+
+ 
+
+
+
+THO3AB02
+Dynamic Correction of Extraction Beam Displacement by Field Ringing of Extraction Pulsed Kicker Magnets in the J-PARC 3-GeV RCS
+389
+
+
+ 
+
+H. Harada, H. Hotchi, S.I. Meigo, P.K. Saha, F. Tamura
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+The 3-GeV rapid cycling synchrotron (RCS) of J-PARC is designed for a high-intensity output beam power of 1MW. The RCS is extracted two bunches by using eight pulsed kicker and three DC septum magnets with 25Hz repetition. The extracted beam is simultaneously delivered to the material and life science experimental facility (MLF) as well as the 50-GeV main ring synchrotron (MR). The kicker magnets have the ringing of flat-top field and the ringing causes the position displacement. The displacement is big issue because it causes an emittance growth of the extracted beam directly. In the beam tuning, we performed a timing scan of each kicker magnet by using a shorter pulse beam in order to understand the characteristics of ringing field. We then carefully optimized the trigger timings of each kicker for the ringing compensation. We have successfully compensated the extracted beam displacements to (min., max.) = (1.1 mm, +0.6 mm) as compared to (14 mm, +10 mm) with no ringing compensation. The procedure for ringing compensation and experimental results are reported in this paper.
+
+ 
+
+
+ 
+
+
+
+THO3AB03
+Pulse-to-pulse Transverse Beam Emittance Controlling for the MLF and MR in the 3-GeV RCS of J-PARC
+394
+
+
+ 
+
+P.K. Saha, H. Harada, H. Hotchi, T. Takayanagi
+                       JAEA/J-PARC, Tokai-Mura, Naka-Gun, Ibaraki-Ken, Japan
+
+ 
+
+
+ 
+
+The 3-GeV RCS (Rapid Cycling Synchrotron) of J-PARC (Japan Proton Accelerator Research Complex) is a MW-class proton beam source for the muon and neutron production targets in the MLF (Material and Life Science Experimental Facility) as well as an injector for 50-GeV MR (Main Ring). Not only the beam intensity but RCS has to provide two different transverse sizes of the extracted beam for the MLF and MR even in simultaneous operation. Namely, a wider one for the MLF, while a narrower one for the MR. We proposed a pulse-to-pulse direct controlling of the transverse injection painting area so as to ensure a desired extracted beam emittance. The injection system design is capable of changing painting area between MLF and MR. The extracted beam profile for the MR is measured to be sufficiently narrower than that for the MLF and is also shown to be consistent with ORBIT beam simulations. It is thus one remarkable progress in recent high intensity multi-user machine to confirm that the beam parameters can be dynamically controlled and delivered as requested by the users even in simultaneous operation. A detail of both design and experimental studies are presented in this paper.
+
+ 
+
+
+
+
+
+
+Slides THO3AB03 [2.225 MB]
+        
+ 
+
+
+ 
+
+
+
+THO3AB04
+Modeling and Feedback Design Techniques for Controlling Intra-bunch Instabilities at CERN SPS Ring
+399
+
+
+ 
+
+C.H. Rivetta, J.D. Fox, O. Turgut
+                       SLAC, Menlo Park, California, USA
+W. Höfle, K.S.B. Li
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy under contract # DE-AC02-76SF00515 and the US LHC Accelerator Research Program (LARP).
+The feedback control of intra-bunch instabilities driven by electron-clouds or strong head-tail coupling (transverse mode coupled instabilities TMCI) requires bandwidth sufficient to sense the vertical position and apply multiple corrections within a nanosecond-scale bunch. These requirements impose challenges and limits in the design and implementation of the feedback system. This paper presents model-based design techniques for feedback systems to address the stabilization of the transverse bunch dynamics. These techniques include in the design the effect of noise and signals perturbing the bunch motion. They also include realistic limitations such as bandwidth, nonlinearities in the hardware and maximum power deliverable. Robustness of the system is evaluated as a function of parameter variations of the bunch.
+
+ 
+
+
+
+
+
+
+Slides THO3AB04 [2.153 MB]
+        
+ 
+
+
+ 
+
+
+
+

@@ -1,0 +1,236 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB2016 - Table of Session: WEA4 (Working Group A - Session 4)
+
+
+WEA4 —  Working Group A - Session 4   (06-Jul-16   09:00—10:40)
+Chair: Y.H. Chin, KEK, Ibaraki, Japan
+
+
+Paper
+Title
+Page
+
+
+
+WEAM1X01
+Code Bench-Marking for Long-Term Tracking and Adaptive Algorithms
+357
+
+
+ 
+
+F. Schmidt, H. Bartosik, A. Huschauer, A. Oeftiger, M. Titze
+                       CERN, Geneva, Switzerland
+Y.I. Alexahin, J.F. Amundson, V.V. Kapin, E.G. Stern
+                       Fermilab, Batavia, Illinois, USA
+G. Franchetti
+                       GSI, Darmstadt, Germany
+J.A. Holmes
+                       ORNL, Oak Ridge, Tennessee, USA
+
+ 
+
+
+ 
+
+At CERN we have ramped up a program to investigate space charge effects in the LHC pre-injectors with high brightness beams and long storage times. This in view of the LIU upgrade project for these accelerators. These studies require massive simulation over large number of turns. To this end we have been looking at all available codes and started collaborations on code development with several laboratories: pyORBIT from SNS, SYNERGIA from Fermilab, MICROMAP from GSI and our in-house MAD-X code with an space charge upgrade. We have agreed with our collaborators to bench-mark all these codes in the framework of the GSI bench-marking suite, in particular the main types of frozen space charge and PIC codes are being tested. We also include a study on the subclass of purely frozen and the adaptive frozen modes both part of MAD-X in comparison with the purely frozen MICROMAP code. Last, we will report on CERN's code development effort to understand and eventually overcome the noise issue in PIC codes.
+J. Coupard et al., ‘‘LHC Injectors Upgrade,  Technical Design Report, Vol. I: Protons'', LIU Technical Design Report (TDR), CERN-ACC-2014-0337.
+
+ 
+
+
+
+
+
+
+Slides WEAM1X01 [2.348 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-HB2016-WEAM1X01
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAM2X01
+PIC Solvers for Intense Beams: Status and Future Prospects
+ 
+
+
+ 
+
+O. Boine-Frankenheim
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+Particle tracking codes employing Particle-In-Cell (PIC) techniques for the space charge forces are the standard tool for studies of incoherent and coherent effects in intense beams. The numerical noise inherent to the PIC scheme is a concern for accurate predictions of emittance growth and beam loss in synchrotrons and accumulator rings for high intensity. The predictions require long-term simulation including space charge forces obtained self-consistently. Besides the noise reduction, for long-term accuracy particle tracking schemes should also be symplectic. A novel class of multi-symplectic PIC integrators, originally developed for applications in plasma physics, promises bounded phase space motion together with noise reduction. For illustration a 2d symplectic space charge algorithm will be introduced and applied to a beam in a simple periodic focusing structure. The obtained noise characteristic, numerical emittance growth and performance will be compared to standard PIC schemes. Possible directions for future developments will be outlined.
+
+ 
+
+
+
+
+
+
+Slides WEAM2X01 [1.950 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAM3X01
+Code Development for Collective Effects
+362
+
+
+ 
+
+K.S.B. Li, H. Bartosik, G. Iadarola, A. Oeftiger, A. Passarelli, A. Romano, G. Rumolo, M. Schenk
+                       CERN, Geneva, Switzerland
+S. Hegglin
+                       ETH, Zurich, Switzerland
+A. Oeftiger, M. Schenk
+                       EPFL, Lausanne, Switzerland
+
+ 
+
+
+ 
+
+The presentation will cover approaches and strategies of modeling and implementing collective effects in modern simulation codes. We will review some of the general approaches to numerically model collective beam dynamics in circular accelerators. We will then look into modern ways of implementing collective effects with a focus on plainness, modularity and flexibility, using the example of the PyHEADTAIL framework, and highlight some of the advantages and drawbacks emerging from this method. To ameliorate one of the main drawbacks, namely a potential loss of performance compared to the classical fully compiled codes, several options for speed improvements will be mentioned and discussed. Finally some examples and application will be shown together with future plans and perspectives.
+
+ 
+
+
+
+
+
+
+Slides WEAM3X01 [65.643 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-HB2016-WEAM3X01
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEAM4X01
+Numerical Modeling of Fast Beam Ion Instabilities
+368
+
+
+ 
+
+L. Mether, G. Iadarola, G. Rumolo
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The fast beam ion instability may pose a risk to the operation of future electron accelerators with beams of high intensity and small emittances, including several structures of the proposed CLIC accelerator complex. Numerical models can be used to identify necessary vacuum specifications to suppress the instability, as well as requirements for a possible feedback system. Vacuum requirements imposed by the instability have previously been estimated for linear CLIC structures, using the strong-strong macroparticle simulation tool FASTION. Currently, efforts are being made to improve the simulation tools, and allow for equivalent studies of circular structures, such as the CLIC damping rings, on a multi-turn scale. In this contribution, we review the recent code developments, and present first simulation results.
+
+ 
+
+
+
+
+
+
+Slides WEAM4X01 [3.379 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-HB2016-WEAM4X01
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

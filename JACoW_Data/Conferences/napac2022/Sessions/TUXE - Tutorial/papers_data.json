@@ -1,0 +1,81 @@
+{
+  "session_info": {
+    "id": "TUXE",
+    "name": "TUXE - Tutorial",
+    "url": "https://proceedings.jacow.org/napac2022/html/tuxe.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "TUXE1",
+      "title": "The Importance of Data, High-Performance Computing, and Artificial Intelligence/Machine Learning",
+      "authors": [
+        "LANL",
+        "Los Alamos",
+        "New Mexico",
+        "USA",
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA",
+        "ANL",
+        "Lemont",
+        "Illinois",
+        "USA"
+      ],
+      "institutions": [],
+      "abstract": "As existing accelerator facilities are upgraded and new facilities come online, data volumes and velocity are increasing even with shorter data collection times. High-performance computing (HPC) systems doing simulation, data analytics and artificial intelligence/machine learning (AI/ML) are playing a major role in pre-experiment planning, design of experiments, real-time beam line and experiment analysis and control, and post-run data processing. Simulation and AI incorporated into experimental data analysis workflows are making efficient use of expensive facilities and accelerating scientific discoveries. HPC is experiencing its own growth, with exascale computers and AI acceleration coming online at several supercomputer centers. AI/ML is in the midst of rapid growth of techniques and expansion into new application areas. This session will focus on current and emerging technologies in HPC, experimental workflows, and AI/ML techniques to help you incorporate them into your own research. Dr. D. Martin will provide \"HPC Overview\" followed by \"Workflows\" by Dr. C. Sweeney. \"AI and ML\" by Dr. A. Edelen will be followed by community discussions and questions from the audience.",
+      "presentation_url": "https://proceedings.jacow.org/napac2022/talks/tuxe1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2022/papers/tuxe1.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2022/posters/tuxe1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2022-TUXE1",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUXE2",
+      "title": "High Performance Computing - DOE Facilities, Direction and Applications",
+      "authors": [
+        "ANL",
+        "Lemont",
+        "Illinois",
+        "USA"
+      ],
+      "institutions": [
+        "Funding: This research used resources of the Argonne Leadership Computing Facility, which is a DOE Office of Science User Facility supported under Contract DE-AC02-06CH11357."
+      ],
+      "abstract": "High-performance computing (HPC) systems doing simulation, data analytics and machine learning are playing a major role in accelerator physics, including pre-experiment planning, design of experiments, real-time beam line analysis and control, and post-run data processing. DOE high performance computer user facilities are evolving with new architectures, faster systems and a focus on integrating with experimental facilities.",
+      "presentation_url": "https://proceedings.jacow.org/napac2022/talks/tuxe2_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2022/papers/tuxe2.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2022/posters/tuxe2_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2022-TUXE2",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    },
+    {
+      "paper_id": "TUXE3",
+      "title": "Artificial Intelligence and Machine Learning for Particle Accelerators",
+      "authors": [
+        "SLAC",
+        "Menlo Park",
+        "California",
+        "USA"
+      ],
+      "institutions": [],
+      "abstract": "As existing accelerator facilities are upgraded and new facilities come online, data volumes and velocity are increasing even with shorter data collection times. High-performance computing (HPC) systems doing simulation, data analytics and artificial intelligence/machine learning (AI/ML) are playing a major role in pre-experiment planning, design of experiments, real-time beam line and experiment analysis and control, and post-run data processing. Simulation and AI incorporated into experimental data analysis workflows are making efficient use of expensive facilities and accelerating scientific discoveries. HPC is experiencing its own growth, with exascale computers and AI acceleration coming online at several supercomputer centers. AI/ML is in the midst of rapid growth of techniques and expansion into new application areas. This session will focus on current and emerging technologies in HPC, experimental workflows, and AI/ML techniques to help you incorporate them into your own research. Dr. D. Martin will provide \"HPC Overview\" followed by \"Workflows\" by Dr. C. Sweeney. \"AI and ML\" by Dr. A. Edelen will be followed by community discussions and questions from the audience.",
+      "presentation_url": "https://proceedings.jacow.org/napac2022/talks/tuxe3_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/napac2022/papers/tuxe3.pdf",
+      "poster_url": "https://proceedings.jacow.org/napac2022/posters/tuxe3_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-NAPAC2022-TUXE3",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 3,
+  "scrape_time": "2025-10-11 00:14:30"
+}

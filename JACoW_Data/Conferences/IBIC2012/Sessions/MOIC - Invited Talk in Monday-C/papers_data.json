@@ -1,0 +1,51 @@
+{
+  "session_info": {
+    "id": "MOIC",
+    "name": "MOIC - Invited Talk in Monday-C",
+    "url": "https://proceedings.jacow.org/IBIC2012/html/moic.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "MOIC02",
+      "title": "Electron Beam Diagnostic System for the Japanese XFEL, SACLA",
+      "authors": [
+        "H. Maesaka",
+        "H. Ego",
+        "C. Kondo",
+        "T. Ohshima",
+        "Y. Otake",
+        "H. Tomizawa",
+        "RIKEN SPring-8 Center",
+        "Sayo-cho",
+        "Sayo-gun",
+        "Hyogo",
+        "Japan",
+        "S. Matsubara",
+        "T. Matsumoto",
+        "K. Yanagida",
+        "JASRI/SPring-8",
+        "Hyogo",
+        "Japan",
+        "An x-ray free-electron laser (XFEL) based on self-amplified spontaneous emission (SASE) requires a highly brilliant electron beam. The Japanese XFEL facility",
+        "SACLA",
+        "requires a normalized emittance less than 1 mm mrad and a peak current more than 3 kA. To achieve this high peak current",
+        "1 A beam with 1 ns duration from a thermionic electron gun is compressed down to 30 fs by means of a multi-stage bunch compressor system. Therefore",
+        "the beam diagnostic system for SACLA was designed for the measurements of the emittance and bunch length at each compression stage. We developed a high-resolution transverse profile monitor and a temporal bunch structure measurement system with a C-band rf deflector cavity etc. In addition",
+        "precise overlapping between an electron beam and radiated x-rays in the undulator section is necessary to ensure the XFEL interaction. Therefore",
+        "we employed a C-band sub-micron resolution RF-BPM to fulfill the demanded accuracy of 4 um. The beam diagnostic system surely contributed to the first x-ray lasing at a wavelength of 1.2 Angstrom. We present a design strategy of the whole beam diagnostic system and the achieved performance for each monitor."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2012/talks/moic02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2012/papers/moic02.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2012/posters/moic02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2012-MOIC02",
+      "page_number": "38",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 18:01:53"
+}

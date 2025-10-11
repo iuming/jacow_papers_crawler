@@ -1,0 +1,181 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2015 - Table of Session: FRA3 (Project status reports 2)
+
+
+FRA3 —  Project status reports 2   (23-Oct-15   09:30—10:15)
+Chair: J.W. McLean, D-TACQ Solutions, East Kilbride, Glasgow, United Kingdom
+
+
+Paper
+Title
+Page
+
+
+
+FRA3O01
+Past, Present and Future of the ASKAP Monitoring and Control System
+1162
+
+
+ 
+
+M. Marquarding
+                       CASS, Epping, Australia
+
+ 
+
+
+ 
+
+The Australian Square Kilometre Array Pathfinder (ASKAP) is CSIRO's new radio telescope currently under construction and commissioning at the Murchison Radio-astronomy Observatory (MRO) in the Mid West region of Western Australia. The first six antennas equipped with the first generation (or Mark-I) Phased Array Feeds (PAF) have been in commissioning since 2013. Twelve of the second generation (Mark-II) PAFs are expected to hit the ground late this year leading into the start of the Early Science program. This paper will present the current status of the ASKAP project, including some exciting results coming from the commissioning activities. This will encompass the status of the monitoring and control system, named the Telescope Operating System (TOS), future developments and some of the lessons learned during the early stages of the integration and commissioning phase.
+
+ 
+
+
+
+
+
+
+Slides FRA3O01 [16.845 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-FRA3O01
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRA3O02
+The Laser Magajoule Facility: Control System Status Report
+1165
+
+
+ 
+
+J. Nicoloso
+                       CEA/DAM/DIF, Arpajon, France
+
+ 
+
+
+ 
+
+The Laser MegaJoule (LMJ) is a 176-beam laser facility, located at the CEA CESTA Laboratory near Bordeaux (France). It is designed to deliver about 1.4 MJ of energy to targets, for high energy density physics experiments, including fusion experiments. The commissioning of the first bundle of 8 beams was achieved in October 2014. Commissioning of next bundles is on the way. The paper gives an overview of the general control system architecture, which is designed around the industrial SCADA PANORAMA, supervising about 500 000 control points, using 250 virtual machines on the high level and hundreds of PCs and PLCs on the low level. The focus is on the rules and development guidelines that allowed smooth integration for all the subsystems delivered by a dozen of different contractors. The integration platform and simulation tools designed to integrate the hardware and software outside the LMJ facility are also described. Having such tools provides the ability of integrating the command control subsystems regardless the co-activity issues encountered on the facility itself. That was the key point for success.
+
+ 
+
+
+
+
+
+
+Slides FRA3O02 [50.610 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-FRA3O02
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+FRA3O03
+Overview and Status of the SwissFEL Project at PSI
+1169
+
+
+ 
+
+M. Janousch, A.D. Alarcon, A. Ambrosch, D. Anicic, A.G. Bertrand, K. Bitterli, H. Brands, P. Bucher, T. Celcer, P. Chevtsov, E.J. Divall, S.G. Ebner, M. Gasche, A. Gobbo, F. Haemmerli, C.E. Higgs, T. Hovel, T. Humar, G. Janser, G. Jud, B. Kalantari, R. Kapeller, R.A. Krempaská, D.J. Lauk, M.P. Laznovsky, C. Luscher, H. Lutz, D. Maier-Manojlovic, F. Märki, T. Pal, W. Portmann, S.G. Rees, T. Zamofing, C. Zellweger, D. Zimoch, E. Zimoch
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+Recently, the installation of the components for the free electron laser SwissFEL has started at the Paul Scherrer Institute (PSI). In March 2016, beginning of the injector commissioning is planned and first lasing is foreseen a year later. New hardware, like VME64x-boards (IFC 1210, an P2020 based intelligent FPGA controller from IOxOS) and -crates (Trenew), timing system (from MRF with advanced features), motion controllers (Power PMAC from Delta Tau, and MDrive from Schneider), among others, as well as modern field buses, pose great challenges to the controls team. The close interaction of machine- and experiment-components require advanced software concepts for data-acquisition, -distribution, and -archiving. An overview of the project will be presented and the different HW and SW solutions based on the experience gained from preliminary implementations at other facilities of PSI will be explained. First results of the HW commissioning at the SwissFEL will be reported.
+
+ 
+
+
+
+
+
+
+Slides FRA3O03 [4.252 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICALEPCS2015-FRA3O03
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

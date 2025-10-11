@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICAP2015 - Table of Session: WECJ (Muon Accelerator, GHz RF Pulser)
+
+
+WECJ —  Muon Accelerator, GHz RF Pulser   (14-Oct-15   10:45—12:05)
+Chair: Y. Hao, BNL, Upton, Long Island, New York, USA
+
+
+Paper
+Title
+Page
+
+
+
+WECJI1
+Hybrid Methods for Muon Accelerator Simulations with Ionization Cooling
+66
+
+
+ 
+
+J.D. Kunz
+                       IIT, Chicago, Illinois, USA
+M. Berz
+                       MSU, East Lansing, Michigan, USA
+P. Snopokpresenter
+                       Illinois Institute of Technology, Chicago, Illlinois, USA
+
+ 
+
+
+ 
+
+Funding: Work supported by the U.S. Department of Energy.
+Muon ionization cooling involves passing of particles through solid or liquid absorbers. Careful simulations are required to design muon cooling channels. New features are being developed for inclusion in the transfer map code COSY Infinity to follow the distribution of charged particles through matter. To study the passage of muons through material, the transfer map approach alone is not sufficient. The interplay of beam optics and atomic processes must be studied by a hybrid transfer map–Monte-Carlo approach in which transfer map methods describe the deterministic behavior of the particles, and Monte-Carlo methods are used to provide corrections accounting for the stochastic nature of scattering and straggling of particles. The advantage of the new approach is that the vast majority of the dynamics are represented by fast application of the high-order transfer map of an entire element and accumulated stochastic effects. The gains in speed are expected to simplify the optimization of cooling channels which is usually computationally demanding. Progress on the development of the required algorithms and their application to modeling muon ionization cooling channels is reported.
+
+ 
+
+
+
+
+
+
+Slides WECJI1 [22.119 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ DOI:10.18429/JACoW-ICAP2015-WECJI1
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WECJI2
+GHz RF Cavity-based Pulser to Retrofit Commercial TEMs for Time-resolved Stroboscopic Imaging
+ 
+
+
+ 
+
+J.Q. Qiu, S.P. Antipov, S.V. Baryshev, C.-J. Jing
+                       Euclid TechLabs, LLC, Solon, Ohio, USA
+G. Ha
+                       ANL, Argonne, Illinois, USA
+J.W. Lau
+                       NIST, Gaithersburg, Maryland, USA
+B. Reed
+                       Integrated Dynamic Electron Solutions, Pleasanton, California, USA
+Y. Zhu
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Funding: Euclid TechLabs work was supported by DOE SBIR program grant No. DE-SC0013121.
+A device and a method for producing ultrashort electron pulses with GHz repetition rates via pulsing an input direct current (dc) beam are provided. The device and the method are based on an electromagnetic-mechanical pulser (EMMP), a series of transverse deflecting cavities and magnetic quadrupoles. The EMMP modulates and chops the incoming dc electron beam and converts it into 100 fs to 10 ps electron pulse trains at up to 50 GHz repetition rates. Applied the EMMP to a TEM with any dc electron source, a GHz stroboscopic high-duty-cycle TEM can be realized. Unlike in many laser-based pump-probe TEM designs, there is no laser in the GHz stroboscopic TEM. The EMMP and the sample are externally driven by an RF source through a delay line. Thus, the problem of laser-induced heating is eliminated, and RF-driven processes can be cycled indefinitely. Such GHz TEM would open up a brand new space to conduct new types of experiments in multi-GHz processes. In this talk, we report an optimal design of the EMMP, an analytical generalized matrix approach in thin lens approximation, along with detailed beam dynamics taking actual realistic dc beam parameters in TEM operating at 200 keV.
+
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

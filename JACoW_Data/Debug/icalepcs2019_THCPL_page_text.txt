@@ -1,0 +1,388 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICALEPCS2019 - Table of Session: THCPL (Data Analytics)
+
+
+THCPL —  Data Analytics   (10-Oct-19   14:00—16:00)
+Chair: M. Gonzalez-Berges, CERN, Geneva, Switzerland
+
+
+Paper
+Title
+Page
+
+
+
+THCPL01
+Report From the 2nd ICFA Mini-Workshop on Machine Learning for Charged Particle Accelerators
+ 
+
+
+ 
+
+A. Adelmann
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+The goal of this workshop series is to build a world-wide community of researchers interested in applying machine learning techniques to particle accelerators. Machine Learning for accelerator science will include accelerator physicists, computer and controls scientists. I will give a summary on the discussed machine learning topics: facility needs, prognostics, optimization, and beam dynamics.
+
+ 
+
+
+
+
+
+
+Slides THCPL01 [24.252 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL02
+Evolution of Machine Learning for NIF Optics Inspection
+ 
+
+
+ 
+
+L.M. Kegelmeyer
+                       LLNL, Livermore, California, USA
+
+ 
+
+
+ 
+
+The National Ignition Facility (NIF) is the most energetic laser in the world where scientists from around the world conduct experiments supporting fields like astrophysics, materials science, nuclear science, and using fusion as a clean, safe energy source. In doing so, the NIF routinely operates above the damage threshold for its optics. To extend optic lifetimes, we developed a recycle loop during which each damage site on an optic is tracked through time, protected when it approaches an optic-specific size limit, and then repaired so the optic can be reused. Here we describe an overview of custom image analysis, machine learning, and deep learning methods used throughout the recycle loop for optics inspection on the NIF beamlines and off. Most recently, we helped automate the optic repair process by identifying microscopic damage before its repair and then evaluating the repaired site for quality control. Since 2007 we’ve used machine learning to improve accuracy and automate tedious processes to enable and inform an efficient optics recycle loop.
+This work was performed under the auspices of the U.S. Department of Energy by Lawrence Livermore National Laboratory under Contract DE-AC52-07NA27344. 
+
+ 
+
+
+
+
+
+
+Slides THCPL02 [51.219 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL03
+Machine Learning for Beam Size Stabilization at the Advanced Light Source
+ 
+
+
+ 
+
+C.N. Melton, A. Hexemer, S.C. Leemann, S. Liu, M. Marcus, H. Nishimura, C. Sun
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This research is funded by US Department of Energy (BES & ASCR Programs), and supported by the Director of the Office of Science of the US Department of Energy under Contract No. DEAC02-05CH11231.
+Synchrotron beam size stability is a necessity in producing reliable, repeatable, and novel experiments at bright light source facilities such as the Advanced Light Source (ALS). As both brightness and coherence are set to increase drastically through upgrades at such facilities, current methods to ensure beam size stabilization will soon reach their limit. Current beam size stability is on the order of several microns (few percent) and is achieved by a combination of feedbacks, physical models, and feed-forward look-up tables to counteract lattice imperfections and optics perturbations arising from varying insertion device gaps and phases. In this work we highlight our first attempts to implement machine learning to stabilize the beam size at the ALS. The use of neural networks allows for beam size stabilization not dependent on physical models, but instead using insertion device movement as training input. Such a correction model can be continuously retrained via online methods. This method results in beam size stabilization as low as 0.2 microns rms, an order of magnitude lower than current stabilization methods.
+
+ 
+
+
+
+
+
+
+Slides THCPL03 [3.388 MB]
+        
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL04
+SCIBORG: Analyzing and Monitoring LMJ Facility Health and Performance Indicators
+1597
+
+
+ 
+
+J-P. Airiau, V. Denis, P. Fourtillan, C. Lacombe, S. Vermersch
+                       CEA, LE BARP cedex, France
+
+ 
+
+
+ 
+
+The Laser MegaJoule (LMJ) is a 176-beam laser facility, located at the CEA CESTA laboratory near Bordeaux (France). It is designed to deliver about 1.4 MJ of energy to targets, for high energy density physics experiments, including fusion experiments. It operates, since June 2018, 5 of the 22 bundles expected in the final configuration. Monitoring system health and performance of such a facility is essential to maintain high operational availability. SCIBORG is the first step of a larger software that will collect in one tool all the facility parameters. Nowadays SCIBORG imports experiment setup and results, alignment and PAM* control command parameters. It is designed to perform data analysis (temporal/crossed) and implements monitoring features (dashboard). This paper gives a first user feedback and the milestones for the full spectrum system.
+*PreAmplifier Module
+
+ 
+
+
+
+
+
+
+Slides THCPL04 [4.882 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPL04
+
+ 
+
+
+About •
+paper received ※ 01 October 2019       paper accepted ※ 08 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL05
+Signal Analysis for Automated Diagnostic Applied to LHC Cryogenics
+1601
+
+
+ 
+
+K.O.E. Martensson, B. Bradu, G. Ferlin
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The operation of the LHC at CERN is highly dependent on its associated infrastructure to operate properly, such as its cryogenic system where many conditions must be fulfilled for superconducting magnets and RF cavities. In 2018, the LHC cryogenic system caused 172 hours of accelerator downtime (out of 5760 running hours). Since the cryogenics recovery acts as a time amplifier, it is important to identify not optimized processes and malfunctioning systems at an early stage to anticipate losses of availability. The LHC cryogenic control systems embeds about 60,000 I/O whereof more than 20,000 analog signals which have to be monitored by operators. It is therefore crucial to select only the relevant and necessary information to be presented. This paper presents a signal analysis system created to automatically generate adequate daily reports on potential problems in the LHC cryogenic system which are not covered by conventional alarms, and examples of real issues that have been found and treated during the 2018 physics run. The analysis system, which is written in Python, is generic and can be applied to many different systems.
+
+ 
+
+
+
+
+
+
+Slides THCPL05 [1.781 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPL05
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 10 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL06
+Introducing Big Data Analysis in a Proton Therapy Facility to Reduce Technical Downtime
+1608
+
+
+ 
+
+P. Fernandez Carmona, Z. Chowdhuri, S.G. Ebner, F. Gagnon-Moisan, M. Grossmann, J. Snuverink, D.C. Weber
+                       PSI, Villigen PSI, Switzerland
+
+ 
+
+
+ 
+
+At the center for Proton Therapy of the Paul Scherrer Institute about 450 cancer patients are treated yearly using accelerated protons in three treatment areas. The facility is active since 1984 and for each patient we keep detailed log files containing machine measurements during each fraction of the treatment, which we analyze daily to guarantee dose and position values within the prescribed tolerances. Furthermore, each control and safety system generates textual log files as well as periodic measurements such as pressure, temperature, beam intensity, magnetic fields or reaction time of components. This adds up currently to approximately 5 GB per day. Downtime of the facility is both inconvenient for patients and staff, as well as financially relevant. This article describes how we have extended our data analysis strategies using machine archived parameters and online measurements to understand interdependencies, to perform preventive maintenance of ageing components and to optimize processes. We have chosen Python to interface, structure and analyze the different data sources in an standardized manner. The online channels have been accessed via an EPICS archiver.
+
+ 
+
+
+
+
+
+
+Slides THCPL06 [7.028 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPL06
+
+ 
+
+
+About •
+paper received ※ 30 September 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+THCPL07
+Experience Using NuPIC to Detect Anomalies in Controls Data
+1612
+
+
+ 
+
+T. D’Ottavio, P.S. Dyer, J. Piacentino, M.R. Tomko
+                       BNL, Upton, New York, USA
+
+ 
+
+
+ 
+
+NuPIC (Numenta Platform for Intelligent Computing) is an open-source computing platform that attempts to mimic neurological pathways in the human brain. We have used the Python implementation to explore the utility of using this system to detect anomalies in both stored and real-time data coming from the controls system for the RHIC Collider at Brookhaven National Laboratory. This paper explores various aspects of that work including the types of data most suited to anomaly detection, the likelihood of developing false positive and negative anomaly results, and experiences with training the system. We also report on the use of this software for monitoring various parts of the controls system in real-time.
+
+ 
+
+
+
+
+
+
+Slides THCPL07 [11.115 MB]
+        
+ 
+
+
+DOI •
+reference for this paper 
+              ※ https://doi.org/10.18429/JACoW-ICALEPCS2019-THCPL07
+
+ 
+
+
+About •
+paper received ※ 02 October 2019       paper accepted ※ 09 October 2019        issue date ※ 30 August 2020
+ 
+
+
+Export •
+reference for this paper using 
+              ※ BibTeX, 
+              ※ LaTeX, 
+              ※ Text/Word, 
+              ※ RIS, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

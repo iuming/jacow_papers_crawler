@@ -1,0 +1,1077 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IBIC2014 - Table of Session: WEPF (Wednesday posters in foyer)
+
+
+WEPF —  Wednesday posters in foyer   (17-Sep-14   16:00—18:00)
+Chair: L. Piccoli, SLAC, Menlo Park, California, USA
+
+
+Paper
+Title
+Page
+
+
+
+WEPF02
+A Toroid Based Bunch Charge Monitor System with Machine Protection Features for FLASH and XFEL
+521
+
+
+ 
+
+M. Werner, T. Lensch, J. Lund-Nielsen, Re. Neumann, D. Nölle, N. Wentowski
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+For the superconducting linear accelerators FLASH and XFEL, a new toroid based charge measurement system has been designed as a standard diagnostic tool. It is also a sensor for the bunch charge stabilization feedback and for machine protection. The system is based on MTCA.4 technology and will offer a high dynamic range and high sensitivity. The machine protection features will cover recognition of poor transmission between adjacent toroid sensors, bunch pattern consistency checks, and protection of the beam dumps. The concept, an overview of the algorithms, and the implementation will be described. A summary of first operation experience at FLASH will be presented.
+
+ 
+
+
+
+
+
+
+Poster WEPF02 [1.113 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF03
+Upgrade of the Fast Beam Intensity Measurement System for the CERN PS Complex
+525
+
+
+ 
+
+D. Belohrad, J.C.A. Allica, M. Andersen, W. Andreazza, G. Favre, N. Favre, L.K. Jensen, L. Lenardon, W. Vollenberg
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+The CERN Proton Synchrotron complex (CPS) has been operational for over 50 years. During this time the Fast Beam Current Transformers (FBCTs) have only been repaired when they ceased to function, or individually modified to cope with new requests. This strategy resulted in a large variation of designs, making their maintenance difficult and limiting the precision with which comparisons could be made between transformers for the measurement of beam intensity transmission. During the first long shut-down of the CERN LHC and its injectors (LS1) these systems have undergone a major consolidation, with detectors and acquisition electronics upgraded to provide a uniform measurement system throughout the PS complex. This paper discusses the solutions used and analyses the first beam measurement results.
+
+ 
+
+
+
+
+
+
+Poster WEPF03 [7.547 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF04
+A Cryogenic Current Comparator for the Low Energy Antiproton Facitities at CERN
+530
+
+
+ 
+
+M.F. Fernandes, J. Tan
+                       CERN, Geneva, Switzerland
+C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: Funded by the European Unions Seventh Framework Programme for research, technological development and demonstration under grant agreement no 289485.
+Several laboratories have shown the potential of using Superconducting QUantum Interference Device (SQUID) magnetometers together with superconductor magnetic shields to measure beam current intensities in the sub-micro-Ampere regime. CERN, in collaboration with GSI, Jena university and Helmholtz Institute Jena, is currently working on developing an improved version of such a current monitor for the Antiproton Decelerator (AD) and Extra Low ENergy Antiproton (ELENA) rings at CERN, aiming for better current resolution and overall system availability. This contribution will present the current design, including theoretical estimation of the current resolution; stability limits of SQUID systems and adaptation of the coupling circuit to the AD beam parameters; the analysis of thermal and mechanical cryostat modes.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF05
+Simulation of the Beam Dump for a High Intensity Electron Gun
+536
+
+
+ 
+
+A. Jeff, S. Döbert, T. Lefèvre
+                       CERN, Geneva, Switzerland
+A. Jeff
+                       The University of Liverpool, Liverpool, United Kingdom
+K. Pepitone
+                       CEA, LE BARP cedex, France
+
+ 
+
+
+ 
+
+The CLIC Drive Beam is a high-intensity pulsed electron beam. A test facility for the Drive Beam electron gun will soon be commissioned at CERN. In this contribution we outline the design of a beam dump / Faraday cup capable of resisting the beam’s thermal load. The test facility will operate initially up to 140 keV. At such low energies, the electrons are absorbed very close to the surface of the dump, leading to a large energy deposition density in this thin layer. In order not to damage the dump, the beam must be spread over a large surface. For this reason, a small-angled cone has been chosen. Simulations using geant4 have been performed to estimate the distribution of energy deposition in the dump. The heat transport both within the electron pulse and between pulses has been modelled using finite element methods to check the resistance of the dump at high repetition rates. In addition, the possibility of using a moveable dump to measure the beam profile and emittance is discussed.
+
+ 
+
+
+
+
+
+
+Poster WEPF05 [0.224 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF06
+A New Integrating Current Transformer for the LHC
+540
+
+
+ 
+
+L. Søby, D. Belohrad, M. Krupa, P. Odier
+                       CERN, Geneva, Switzerland
+J.F. Bergoz, F. Stulle
+                       BERGOZ Instrumentation, Saint Genis Pouilly, France
+
+ 
+
+
+ 
+
+The existing fast beam current transformers of the LHC have been shown to exhibit both bunch length and bunch position dependency. A new Integrating Current Transformer (ICT) have therefore been developed in collaboration with Bergoz Instrumentation to address these issues. As goals a 0.1 %/mm beam position dependency and 0.1 % bunch length dependency were specified, along with a bandwidth of 100 MHz. This paper describes the principles of ICT operation and presents the laboratory measurement results obtained with the first prototypes at CERN.
+
+ 
+
+
+
+
+
+
+Poster WEPF06 [2.286 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF07
+Optimization of a Short Faraday Cup for Low-Energy Ions Using Numerical Simulations
+544
+
+
+ 
+
+A.G. Sosa, E. Bravin, E.D. Cantero
+                       CERN, Geneva, Switzerland
+C.P. Welsch
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+C.P. Welsch
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: CATHI is a Marie Curie Initial Training Network funded by the European Commission under Grant Agreement Number PITN-GA-2010-264330.
+ISOLDE, the heavy-ion facility at CERN is undergoing a major upgrade with the installation of a superconducting LINAC that will allow post-acceleration of ion beams up to 10 MeV/u. In this framework, customized beam diagnostics are being developed in order to fulfill the design requirements as well as to fit in the compact diagnostic boxes foreseen. The main detector of this system is a compact Faraday cup that will measure beam intensities in the range of 1 pA to 1 nA. In this contribution, simulation results of electrostatic fields and particle tracking are detailed for different Faraday cup prototypes taking into account the energy spectrum and angle of emission of the ion-induced secondary electrons.
+
+ 
+
+
+
+
+
+
+Poster WEPF07 [1.282 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF08
+Dosimetry of Pulsed Beams in Proton Therapy
+548
+
+
+ 
+
+J. van de Walle, Y. Claereboudt, G. Krier, D. Prieels
+                       IBA, Louvain-la-Neuve, Belgium
+G. Boissonnat, J. Colin, J.-M. Fontbonne
+                       LPC, Caen, France
+
+ 
+
+
+ 
+
+Ion Beam Applications (IBA) has developed in recent years the ProteusONE proton therapy system, which aims at reducing the cost and footprint of proton therapy systems, making them affordable and accessible to more patients worldwide. The heart of the ProteusONE system is a super conducting synchro-cyclotron (S2C2), which provides short (10 μs) proton bunches at 1 kHz. This is in contrast to the proton therapy systems including the IBA Cyclone230, which delivers a continuous beam. Nevertheless, the same average dose rates are provided by both systems. As a consequence, the instantaneous dose rates with the S2C2 are much higher and recombination losses in the large area beam diagnostics and dosimetry devices become non negligible. Since the proton charge which is send to a patient should be measured with high precision, these recombination losses have to be addressed carefully. In this work, a large area (30x30 cm2) and large gap (>3 mm) ionization chamber (IC) is presented which allows to quantify recombination losses in each beam pulse on-line. The principle is based on the introduction of two ionization volumes in series with slightly different gap sizes. The ratio of detected charges in both IC's is the basic observable which is used to recalculate the efficiency of each IC. The principle of this so-called "asymmetric ionization chamber" (AIC) was tested with beam from the S2C2 prototype. The results show that the efficiency can be re-calculated to 0.5% precision for voltages higher than 1000 V. Together with the experimental results, the theoretical background of the recombination losses will be discussed and it will be shown how this theory is applied in a robust and simple way to correct for these losses in the proton therapy system.
+
+ 
+
+
+
+
+
+
+Poster WEPF08 [0.999 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF09
+Introduction to the Test Result of Turbo-ICT in PAL-ITF
+553
+
+
+ 
+
+H. J. Choi, M.S. Chae, H.-S. Kang, S.J. Park
+                       PAL, Pohang, Kyungbuk, Republic of Korea
+
+ 
+
+
+ 
+
+Pohang Accelerator Laboratory (PAL) built a PAL-ITF (Injector Test Facility) at the end of 2012 to successfully complete PAL-XFEL (X-ray Free Electron Laser) in 2015. The PAL-ITF is equipped with various kinds of diagnostic equipment to produce high-quality electron bunches. The three main parameters that an injection testing facility should measure are charge, energy and emittance. Although ICT and Faraday Cup were installed to measure beam charge, the noise generated in a klystron modulator not only interrupted accurate measurement but prevented low charges under tens of pC from being measured. Due to the changes in the overall voltage level of ITF, integration of ICT measured value failed to maintain perfect accuracy in terms of methodology (measured value continuously changed by ± 5pC). Accordingly, to solve the noise problems and accurately measure the quantity of electron beam charge, Turbo-ICT was installed. This paper focuses on the processes and test result of electric bunch charge quantity measurements using Turbo-ICT.
+
+ 
+
+
+
+
+
+
+Poster WEPF09 [2.807 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF10
+Range Verification System Using Scintillator and CCD Camera System
+558
+
+
+ 
+
+N. S. Saotome, T. Furukawa, Y. Hara, K. Mizushima, K. Noda, T. Shirai, R. Tansho
+                       NIRS, Chiba-shi, Japan
+Y. Saraya
+                       National Institute of Radiological Sciences, Chiba, Japan
+
+ 
+
+
+ 
+
+At National Institute of Radiological Sciences (NIRS), three-dimensional irradiation with carbon-ion pencil-beam scanning has been performed from 2011. We have been commissioning the irradiation method that employs more than 200 multiple beam energies supplied by synchrotron instead of the energy degraders. The accuracy of the beam energy/range is required for heavy ion treatment especially for using scanning method. ICRU78 recommend checking the range constancy for daily QA. Few-points depth dose measurement using ion chamber is employed for range verification of current daily QA procedure in NIRS. The measurement time for one energy is about 1 minute. Therefore easy and simple range verification system is required. The purpose of this work is to develop range verification system using scintillator and CCD (charge-coupled device) camera and to estimate the accuracy of the range verification using the system. Using proposed system, projected depth dose distribution could be provided by one measurement. This system has potential to be employed for relative range check and range constancy check as comparing with reference data. A NE102 plastic scintillator block was selected for obtained pure tranceparent block. The scintillator was mounted in the black box in order to shade a light in the room. The CCD camera (Type BU-41L, 1360x1024 pixels, Bitran Corp., Japan) was installed perpendicular to the beam axis. Therefore two-dimensional image projected depth dose distribution is provided by measurement. Total 101 mono-energy carbon beams that are in the range from 56 to 430 MeV/n at 6 mm range-in-water interval were tested. The measurement was performed energy by energy sequentially. The range resolution test was performed using thin PMMA plate placed upstream of the system. Measured images were compared with reference images to calculate the relative range deviation using least square method. Short and long time reproducibility and fluence dependence were verified. Measurement time was about 2 minutes for 101 energy beams. Peak-entrance ratio was small due to quenching effect and absorption of the light within the scintillator block. The 6 mm range difference was clearly divided. Reproducibility was well. The difference of fluence with normal treatment operation didn’t effect the range verification. From the results it was concluded that the range check system using scintillator and CCD have nice characteristics for range verification with short time.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF12
+A Diagnostics of Ion Beam from 28 GHz Electron Cyclotron Resonance Ion Source
+561
+
+
+ 
+
+J.W. Ok, S. Choi, J.G. Hong, S.J. Kim, B.S. Lee, J.Y. Park, C.S. Shin, M. Won, J.H. Yoon
+                       Korea Basic Science Institute, Busan, Republic of Korea
+J. Bahng
+                       Kyungpook National University, Daegu, Republic of Korea
+
+ 
+
+
+ 
+
+A neutron radiography facility utilizing a 28 GHz superconducting electron cyclotron resonance (ECR) ion source and a heavy ion accelerator is now under construction at Korea Basic Science Institute (KSBI). In order to generate a proper energy distribution of neutron, a lithium ion beam is considered. It will be accelerated up to the energy of 2.7 MeV/u by using a radio frequency quadrupole (RFQ) and drift tube linear (DTL) accelerator. The 28 GHz superconducting ECR ion source, which is the state of the art of an ion injector, has been built to produce the lithium ion beam. The ion beam of 12 keV/u would be extracted to low energy beam transport (LEBT) system, which is comprised of several types of electromagnets to focus and deliver the beam, effectively. After transporting an ion beam through LEBT, RFQ once accelerates the ion beam from 12 to 500 keV/u. Finally, we can achieve the final beam energy at the DTL. Before the ion beam is delivered to accelerator, the requirements should be satisfied to confirm the status of beam. For this, we developed the instruments in the diagnostic chamber in the middle of LEBT system to observe the beam dynamics. An analyzing electromagnet, slits, wire scanners and faraday cup will be used to perform a diagnosis of ion beam characteristics. We will present and discuss the experimental results of ion beam profile and the current after selecting a required charge state.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF13
+The Status of Beam Diagnostics for the Hie-Isolde Linac at Cern
+565
+
+
+ 
+
+E.D. Cantero, W. Andreazza, E. Bravin, A.G. Sosa
+                       CERN, Geneva, Switzerland
+A.G. Sosa
+                       Cockcroft Institute, Warrington, Cheshire, United Kingdom
+A.G. Sosa
+                       The University of Liverpool, Liverpool, United Kingdom
+
+ 
+
+
+ 
+
+Funding: CATHI is a Marie Curie Initial Training Network funded by the European Commission under Grant Agreement Number PITN-GA-2010-264330.
+The HIE-ISOLDE project aims at upgrading the CERN ISOLDE radioactive ion beam facility for higher beam intensities and higher beam energies. New beam diagnostic devices have to be developed as part of this upgrade, in particular for the measurement of intensity, energy, transverse and longitudinal profiles, and transverse emittance. The beam energy ranges from 300 keV/u to 10 MeV/u and beam intensities are between 1 pA and 1 nA. Faraday cups will be used for the measurement of the beam intensity while silicon detectors will be used for the energy and longitudinal profile measurements. The transverse profiles will be measured by moving a V-shaped slit in front of a Faraday cup and the beam position will be calculated from the profiles. The transverse emittance can be measured using the existing REX-ISOLDE slit and grid system, or by the combined use of two scanning slits and a Faraday cup. The final design of the mentioned devices will be presented in this contribution, including the results of the experimental validation tests performed on prototypes during the last two years.
+
+ 
+
+
+
+
+
+
+Poster WEPF13 [4.263 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF15
+Status of the Standard Diagnostic Systems of the European XFEL
+569
+
+
+ 
+
+D. Nölle
+                       DESY, Hamburg, Germany
+
+ 
+
+
+ 
+
+The European XFEL, an X-ray free-electron-laser user facility based on a 17.5 GeV superconducting LINAC, is currently under construction close to the DESY site at Hamburg. DESY is in charge of the construction of the accelerator. This contribution will report the status of the standard diagnostic systems of this facility. The design phase has finished for all main systems; most of the components are in production or are already produced. This paper will show details of the main systems, their installation issues and will report on the further time schedule. Furthermore, the experience from the commissioning of the RF gun with beam will be reported.
+
+ 
+
+
+
+
+
+
+Poster WEPF15 [5.427 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF16
+Algorithm to Improve the Beta-Function Measurement and its Evaluation in Storage Rings Lattices
+574
+
+
+ 
+
+A.C. García-Bonilla
+                       UNAL, Bogota D.C, Colombia
+
+ 
+
+
+ 
+
+In any beam-line, one of the basic measurements during the beam-diagnostics is the measurement of the Beta-Function along the beam-line. This can be achieved in Storage Ring by taking the tune change obtained when varing the intensity of quadrupoles, or by using the matrix response to fit the corresponding parameters, or by shaking the beam to obtain a betatron motion. In accelerators like the LHC, the Beta-Function measurement is done from the Phase Advance Measurement using the Transfer Matrix. In this paper, a study of a new algorithm or numerically approximation for this measurement is presented, as well as the results of the simulations for the LHC and CLIC damping ring. The deduced and implemented algorithm takes into account a fraction of the both transverse planes measurements. A random (uniform) deviation of the MAD-X phase values is studied, by comparison of the proposed algorithm with the traditional one. An improvement close to 30% and 50% on the global error compare to the traditional way to measure the Beta Function is observed; this is for the studied cases using closed-orbits and phase advance values with deviations of 10 or 20 degrees.
+Postgraduate Student at Universidad Nacional de Colombia
+
+ 
+
+
+
+
+
+
+Poster WEPF16 [0.742 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF17
+Error Analysis for Pepperpot Emittance Measurements Redux: Correlated Phase Spaces
+579
+
+
+ 
+
+S.M. Lidia
+                       FRIB, East Lansing, Michigan, USA
+K. Murphy
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work was supported by the Director, Office of Science, Office of Fusion Energy Sciences, of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231.
+Recently, Jolly et al. presented an analysis of the rms emittance measurement errors from a first principles approach [1]. Their approach demonstrated the propagation of errors in the single-plane rms emittance determination from several instrument and beam related sources. We have extended the analysis of error propagation and estimation to the fully correlated 4-D phase space emittances obtained from pepperpot measurements. We present the calculation of the variances using a Cholesky decomposition approach. Pepperpot data from recent experiments on the NDCX-II beamline are described, and estimates of the emittances and measurement errors for the 4-D as well as the projected rms emittances in this coupled system are presented.
+[1] S. Jolly, et al., “Data Acquisition and Error Analysis for Pepperpot Emittance Measurements”, Proceedings of DIPAC ’09, WEOA03.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF18
+Precise Digital Integration of Fast Analogue Signals Using a 12-Bit Oscilloscope
+584
+
+
+ 
+
+M. Krupa, M. Gasior
+                       CERN, Geneva, Switzerland
+
+ 
+
+
+ 
+
+An accurate laboratory characterization of beam intensity monitors requires a reliable integration of analogue signals simulating beam pulses. This poses particular difficulties when a high integration resolution is necessary for short pulses. However, the recent availability of fast 12-bit oscilloscopes now makes it possible to perform precise digital integration of nanosecond pulses using such instruments. This paper describes the methods and results of laboratory charge measurements performed at CERN using a 12-bit oscilloscope with 1 GHz analogue bandwidth and 2.5 GS/s sampling.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF19
+Fast Transverse Phase Space Measurement System for GunLab -  A Compact Test Beamline for SRF Photoinjectors
+588
+
+
+ 
+
+J. Völker, T. Kamps
+                       HZB, Berlin, Germany
+
+ 
+
+
+ 
+
+Superconducting radiofrequency photo electron injectors (SRF guns) are promising electron sources for the next generation of electron linear accelerators. The energy recovery linac (ERL) BERLinPro will employ a 1.5 cell 1.3 GHz SRF gun cavity with normal conducting high quantum efficiency photocathode to produce a 100mA CW electron beam with high brightness. We are currently working on a compact test beamline (GunLab) to investigate the properties of the electron beam and to optimize the drive laser as well RF parameters. The motivation for GunLab is to decouple the SRF gun development from the ERL development. The goal is to measure not only the complete 6 dimensional phase space of the extracted and accelerated bunches but also to investigate dark current and beam halo. In this paper we will discuss unique features of GunLab for the phase space measurements.
+
+ 
+
+
+
+
+
+
+Poster WEPF19 [2.025 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF21
+Electron Cloud Density Measurements Using Resonant Microwaves at CesrTA
+592
+
+
+ 
+
+J.P. Sikora
+                       Cornell University (CLASSE), Cornell Laboratory for Accelerator-Based Sciences and Education, Ithaca, New York, USA
+S. De Santis
+                       LBNL, Berkeley, California, USA
+
+ 
+
+
+ 
+
+Funding: This work is supported by the US National Science Foundation PHY-0734867, PHY-1002467, and the US Department of Energy DE-FC02-08ER41538, DE-SC0006505.
+Hardware has recently been installed in the Cornell Electron Storage Ring (CESR) to extend the capability of resonant microwave measurement of electron cloud density. Two new detector locations include aluminum beam-pipe in a dipole magnet and copper beam-pipe in a field free region. Measurements with both positron and electron beams are presented with both beams showing saturation of the electron cloud density in the aluminum chamber. These measurements were made at CESR which has been reconfigured as a test accelerator (CesrTA) with positron or electron beam energies ranging from 2 GeV to 5 GeV.
+
+ 
+
+
+
+
+
+
+Poster WEPF21 [1.988 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF23
+Dosimetric Verification of Lateral Profile with a Unique Ionization Chamber in Therapeutic Ion Beams
+597
+
+
+ 
+
+Y. Hara, T. Furukawa, K. Mizushima, K. Noda, N. S. Saotome, T. Shirai, R. Tansho
+                       NIRS, Chiba-shi, Japan
+Y. Saraya
+                       National Institute of Radiological Sciences, Chiba, Japan
+
+ 
+
+
+ 
+
+It is essential to consider large-angle scattered particles in dose calculation models for therapeutic ion beams. However, it is difﬁcult to measure the small dose contribution from large-angle scattered particles. Therefore, we developed a parallel-plate ionization chamber consisting of concentric electrodes (ICCE) to efﬁciently and easily detect small contributions. The ICCE consists of two successive ICs with a common HV plate. The former is a large plane-parallel IC to measure dose distribution integrated over the whole plane, the latter is a 24-channel parallel-plate IC with concentric electrodes to derive the characteristic parameters describing the lateral beam spread. The aim of this study is to evaluate the performance of the ICCE. By taking advantage of the characteristic of ICCE, we studied the recombination associated with lateral beam profile. Also, we measured carbon pencil beam in several different media by using ICCE. As a result, we confirmed the ICCE could be used as a useful tool to determine the characterization of the therapeutic ion beams.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF24
+Development of Three-Dimensional Dose Verification System using a Fluorescent Screen in Ion Beam Therapy
+601
+
+
+ 
+
+Y. Hara, T. Furukawa, K. Mizushima, K. Noda, N. S. Saotome, T. Shirai, E. Takeshita, R. Tansho
+                       NIRS, Chiba-shi, Japan
+Y. Saraya
+                       National Institute of Radiological Sciences, Chiba, Japan
+
+ 
+
+
+ 
+
+For quality assurance (QA) of therapeutic ion beams, QA tool having high spatial resolution and quick verification is required. The imaging system with a fluorescent screen is suitable for QA procedure. We developed a quick veriﬁcation system (NQA-SCN) using a ﬂuorescent screen with a charge-coupled device (CCD) camera for the sake of two dimensional dosimetry. In carbon-ion therapy, the ﬂuorescent light is decreased by suffering from quenching effect due to the increased linear energy transfer (LET) in the Bragg peak. For the use of three-dimensional dose verification, we performed a simple correction for quenching effect and several types of corrections for the optical artifact. In addition, NQA-SCN is attached with an accordion-type water phantom which makes it possible to easily change measurement depth. To evaluate the performance of NQA-SCN, we carried out experiments concerning QA procedures. In my presentation, we provide correction methods and detailed analysis of measured results.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF25
+A Fast Quadrupole Magnet for Machine Studies at Diamond
+605
+
+
+ 
+
+A.F.D. Morgan, G. Rehm
+                       DLS, Oxfordshire, United Kingdom
+
+ 
+
+
+ 
+
+Fast quadrupolar magnets have been demonstrated in various schemes for increasing the coupled bunch instability thresholds, and for measuring the shift of transverse quadrupolar moment oscillation thus probing the transverse quadrupolar impedance. Due to machine upgrades, a ceramic vessel installed in the Diamond storage ring has become temporarily available for use. We decided to take advantage of this situation by designing and installing a simple air core quadrupole magnet which can operate at the fundamental quadrupolar frequencies (~212kHz for the horizontal and ~405kHz for the vertical plane). In the first instance we aim to use it to study the coupled bunch instability thresholds and quadrupolar tune shifts.
+
+ 
+
+
+
+
+
+
+Poster WEPF25 [1.359 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF26
+The Brookhaven LINAC Isotope Production Facility (BLIP) Raster Scanning Upgrade
+608
+
+
+ 
+
+R.J. Michnoff, Z. Altinbas, P. Cerniglia, R. Connolly, C. Cullen, C. Degen, D.M. Gassner, R.L. Hulsart, R.F. Lambiase, L.F. Mausner, D. Raparia, P. Thieberger, M. Wilinski
+                       BNL, Upton, Long Island, New York, USA
+
+ 
+
+
+ 
+
+Brookhaven National Laboratory’s BLIP facility produces radioisotopes for the nuclear medicine community and industry, and performs research to develop new radioisotopes desired by nuclear medicine investigators. A raster scanning system is being installed to provide a better distribution of the H− beam on the targets, allow higher beam intensities to be used, and ultimately increase production yield of the isotopes. The upgrade consists of horizontal and vertical dipole magnets sinusoidally driven at 5 kHz with 90 deg phase separation to produce a circular raster pattern, and a suite of new instrumentation devices to measure beam characteristics and allow adequate machine protection. The instrumentation systems include multi-wire profile monitors, a laser profile monitor, beam current transformers, and a beam position monitor. An overview of the upgrade and project status will be presented.
+Work supported by Brookhaven Science Associates, LLC under Contract No. DE-AC02-98CH10886 with the U.S. Department of Energy
+
+ 
+
+
+
+
+
+
+Poster WEPF26 [2.002 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF28
+Failure Mode and Effects Analysis of the Beam Intensity Control for the SPIRAL2 Accelerator
+613
+
+
+ 
+
+C. Jamet, T.A. Andre, B. Ducoudret, G. Ledu, S.L. Leloir, S. Loret, C. Potier de courcy
+                       GANIL, Caen, France
+
+ 
+
+
+ 
+
+The first phase of the SPIRAL2 project includes a driver and its associated new experimental areas (S3 and NFS caves). The accelerator, located in Caen (France), is based on a linear solution composed of a normal conducting RFQ and a superconducting linac. Intense primary stable beams (deuterons, protons, light and heavy ions) will be accelerated at various energies for nuclear physics. The beam intensity monitoring is a part of the operating range control of the facility. A high level of requirements is imposed on the intensity control system. In 2013, a failure mode and effects analysis (FMEA) was performed by a specialized company helped by the GANIL’s Electronic group. This paper presents the analysis and evolutions of the electronic chain of measurement and control.
+
+ 
+
+
+
+
+
+
+Poster WEPF28 [1.130 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF29
+Progress on the Beam Energy Monitor for the SPIRAL2 Accelerator.
+617
+
+
+ 
+
+W.LC. Le Coz, C. Jamet, G. Ledu, S. Loret, C. Potier de courcy, D.T. Touchard
+                       GANIL, Caen, France
+Y. Lussignol
+                       CEA/DSM/IRFU, France
+
+ 
+
+
+ 
+
+The first part of the SPIRAL2 project entered last year in the end of the construction phase at GANIL in France. The facility will be composed by an ion source, a deuteron/proton source, a RFQ and a superconducting linear accelerator. The driver is planned to accelerate high intensities, up to 5 mA and 40 MeV for the deuteron beams. A monitoring system was built to measure the beam energy on the BTI line (Bench of Intermediate Test) at the exit of the RFQ. As part of the MEBT commissioning, the beam energy will be measured on the BTI with an Epics monitoring application. At the exit of the LINAC, another system will have to measure and control the beam energy. The control consists in ensuring that the beam energy stays under a limit by taking account of the measurement uncertainty. The energy is measured by a method of time of flight; the signal is captured by non-intercepting capacitive pick-ups. This paper describes the BTI monitor interface and presents the system evolution following the design review.
+
+ 
+
+
+
+
+
+
+Poster WEPF29 [1.513 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF30
+Study of General Ion Recombination for Beam Monitor used in Particle Radiotherapy
+620
+
+
+ 
+
+R. Tansho, T. Furukawa, Y. Hara, K. Mizushima, K. Noda, N. S. Saotome, T. Shirai
+                       NIRS, Chiba-shi, Japan
+Y. Saraya
+                       National Institute of Radiological Sciences, Chiba, Japan
+
+ 
+
+
+ 
+
+Heavy ion particles such as carbon ion beams are effective tools for cancer radiotherapy because of the higher dose localization and biological effectiveness by using the characteristic dose distribution with the Bragg peak. In the particle radiotherapy, it is important to conform a dose distribution and deliver prescribed dose to a tumor. An ionization chamber is usually used as a beam monitor to control the prescribed dose to the target. Then new treatment research facility at National Institute of Radiological Science (NIRS) uses beam scanning irradiation system that make uniform dose distribution in the target volume by superposing dose deposit of an individual pencil beam. In order to increase dose concentration to the target and also decrease irradiation time, it is necessary to minimize the pencil beam size and to increase the beam intensity. As the result, the localization of the pencil beam with high intensity increases the number of general ion recombination in the beam monitor. Therefore, we need to predict the ion recombination rate in the beam monitor for accurate control of the dose. For our purpose, we developed calculation code to predict the ion recombination rate when the pencil beam scanning is used. The calculation code can divide a pencil beam into a sub region and calculate ion recombination rate in each sub region by using Boag theory. We present the calculation results compared with measurements for verification of our calculation code.
+
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+WEPF31
+Sensor Studies for DC Current Transformer Application
+624
+
+
+ 
+
+E. Soliman, K. Hofmann
+                       TU Darmstadt, Darmstadt, Germany
+H. Reeg, M. Schwickert
+                       GSI, Darmstadt, Germany
+
+ 
+
+
+ 
+
+DC Current Transformers (DCCTs) are known since decades as non-intercepting standard tools for online beam current measurement in synchrotrons and storage rings. In general, the measurement principle of commonly used DCCTs is to introduce a modulating AC signal for a pair of ferromagnetic toroid. A passing DC ion beam leads to an asymmetric shift of the hysteresis curves of the toroid pair. However, a drawback for this measurement principle is found at certain revolution frequencies in ring accelerators, when interference caused by the modulating frequency and its harmonics leads to inaccurate readings by the DCCT. Recent developments of magnetic field sensors allow for new approaches towards a DCCT design without using the modulation principle. This paper shows a review of different kinds of usable magnetic sensors, their characteristics and how they could be used in novel DCCT instruments.
+
+ 
+
+
+
+
+
+
+Poster WEPF31 [4.396 MB]
+        
+ 
+
+
+Export •
+reference for this paper to 
+              ※ LaTeX, 
+              ※ Text, 
+              ※ IS/RefMan, 
+              ※ EndNote (xml)
+
+ 
+
+
+ 
+
+
+
+

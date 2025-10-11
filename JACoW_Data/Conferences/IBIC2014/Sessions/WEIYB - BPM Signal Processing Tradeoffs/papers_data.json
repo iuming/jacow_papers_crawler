@@ -1,0 +1,33 @@
+{
+  "session_info": {
+    "id": "WEIYB",
+    "name": "WEIYB - BPM Signal Processing Tradeoffs",
+    "url": "https://proceedings.jacow.org/IBIC2014/html/weiyb.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "WEIYB1",
+      "title": "Direct (Under)Sampling vs Analog Downconversion for BPM Electronics",
+      "authors": [
+        "CERN",
+        "Geneva",
+        "Switzerland",
+        "Digital signal processing by means of undersampling the analog signal has become a popular method for acquiring beam position monitor signals. This presentation discusses the technique and its principle limitations",
+        "presents today’s technical limits (e.g. in terms of performance of available ADCs)",
+        "and provides an outlook for the future. It will also try to compare the technique with more tradition analog downmixing and signal processing methods."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/IBIC2014/talks/weiyb1_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/IBIC2014/papers/weiyb1.pdf",
+      "poster_url": "https://proceedings.jacow.org/IBIC2014/posters/weiyb1_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-IBIC2014-WEIYB1",
+      "page_number": "486",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 1,
+  "scrape_time": "2025-10-10 17:57:14"
+}

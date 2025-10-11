@@ -1,0 +1,65 @@
+{
+  "session_info": {
+    "id": "SUPLG",
+    "name": "SUPLG - Sunday Plenary",
+    "url": "https://proceedings.jacow.org/icap2018/html/suplg.htm"
+  },
+  "papers": [
+    {
+      "paper_id": "SUPLG01",
+      "title": "Computational Accelerator Physics: On the Road to Exascale",
+      "authors": [
+        "LBNL",
+        "Berkeley",
+        "USA",
+        "The first conference in what would become the ICAP series was held in 1988. At that time the most powerful computer in the world was a Cray YMP with 8 processors and a peak performance of 2 gigaflops. Today the fastest computer in the world has more than 2 million cores and a theoretical peak performance of nearly 200 petaflops. Compared to 1988",
+        "performance has increased by a factor of 100 million",
+        "accompanied by huge advances in memory",
+        "networking",
+        "big data management and analytics. By the time of the next ICAP in 2021 we will be at the dawn of the Exascale era. In this talk I will describe the advances in Computational Accelerator Physics that brought us to this point and describe what to expect in regard to High Performance Computing in the future. This writeup as based on my presentation at ICAP’18 along with some additional comments that I did not include originally due to time constraints."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icap2018/talks/suplg01_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icap2018/papers/suplg01.pdf",
+      "poster_url": "https://proceedings.jacow.org/icap2018/posters/suplg01_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICAP2018-SUPLG01",
+      "page_number": "113",
+      "presentation_available": true,
+      "paper_available": true,
+      "poster_available": false
+    },
+    {
+      "paper_id": "SUPLG02",
+      "title": "Computation and Measurement of Geometric and Chromatic Aberrations is Critical for the Optimal Design and Use of Aberration Corrected Electron Microscopes, and for Quantitative Understanding of Images",
+      "authors": [
+        "IBM T. J. Watson Center",
+        "Yorktown Heights",
+        "New York",
+        "USA",
+        "Computation and measurement of geometric and chromatic aberrations is critical for the optimal design and use of aberration corrected electron microscopes",
+        "and for quantitative understanding of images obtained with such instruments. Here",
+        "I will focus on the correction of spherical and chromatic aberrations of a cathode lens instrument (i.e. Low Energy Electron Microscope ’LEEM- or Photo Electron Emission Microscope ’ PEEM) using catadioptrics",
+        "i.e. a combination of electron lenses (dioptrics) and an electron mirror (catoptrics). First-order properties calculated with high precision using Munro’s Electron Beam Software’s MIRDA package are in excellent with detailed experimental results. Theoretical maps of C3 vs Cc as a function of the applied potentials then provide a deterministic method to dial in the desired mirror properties at will. Now it is necessary to measure the resultant aberrations of the full system. Unfortunately",
+        "the experimental methods developed for TEM and STEM are not applicable in LEEM/PEEM for a variety of reasons. Spherical aberration (plus defocus and astigmatism) can be measured using so-called micro-spot real-space Low Energy Electron Diffraction",
+        "or by measuring image shift as a function of beam tilt. Measuring chromatic aberration is more troublesome as it conventionally requires that defocus be measured as a function of gun voltage. However",
+        "the use of magnetic prism arrays to separate in- and outgoing path in LEEM results in changing alignment conditions when gun voltage is changed. However",
+        "a novel method first demonstrated using ray-tracing simulations enables us to measure chromatic aberration",
+        "even at fixed gun voltage. The chromatically corrected system behaves like a simple (but adjustable) achromat",
+        "comparable to the crown/flint optical achromat invented by Chester Moore Hall around 1730."
+      ],
+      "institutions": [],
+      "abstract": "",
+      "presentation_url": "https://proceedings.jacow.org/icap2018/talks/suplg02_talk.pdf",
+      "paper_url": "https://proceedings.jacow.org/icap2018/papers/suplg02.pdf",
+      "poster_url": "https://proceedings.jacow.org/icap2018/posters/suplg02_poster.pdf",
+      "doi": "https://doi.org/10.18429/JACoW-ICAP2018-SUPLG02",
+      "page_number": "",
+      "presentation_available": true,
+      "paper_available": false,
+      "poster_available": false
+    }
+  ],
+  "paper_count": 2,
+  "scrape_time": "2025-10-10 18:30:46"
+}
