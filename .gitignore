@@ -140,4 +140,12 @@ Thumbs.db
 *.bak
 *.backup
 
-*.pdf
+# JACoW Data - Large files
+# JACoW_Data/Papers/
+# JACoW_Data/Presentations/
+# JACoW_Data/Posters/
+# JACoW_Data/JACoW_Master_Index.json
+
+# # Large PDF files
+# *.pdf
+
